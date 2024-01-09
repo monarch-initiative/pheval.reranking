@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome type 1	OMIM:193500
+2	0.85	Waardenburg syndrome type 2	OMIM:193510
+3	0.8	Waardenburg syndrome type 4A	OMIM:277580
+4	0.75	Oculocutaneous albinism type 2	OMIM:203200
+5	0.7	Oculocutaneous albinism type 1	OMIM:203100
+6	0.65	Piebaldism	OMIM:172800
+7	0.6	Stickler syndrome	OMIM:108300
+8	0.55	Sensorineural hearing loss	OMIM:600797
+9	0.5	Usher syndrome type 3A	OMIM:276902
+10	0.45	Griscelli syndrome type 2	OMIM:607624

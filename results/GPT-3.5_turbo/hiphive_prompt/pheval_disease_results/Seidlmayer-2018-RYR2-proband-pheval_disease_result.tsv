@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:192500
+2	0.85	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604772
+3	0.8	Idiopathic ventricular fibrillation	OMIM:603829
+4	0.7	Dilated cardiomyopathy	OMIM:115200
+4	0.7	Familial hypertrophic cardiomyopathy	OMIM:192600
+6	0.6	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+7	0.55	Brugada syndrome	OMIM:601144
+8	0.5	Myotonic dystrophy	OMIM:160900
+9	0.4	Limb-girdle muscular dystrophy	OMIM:253600
+10	0.3	Sudden infant death syndrome	OMIM:272120

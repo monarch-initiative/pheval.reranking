@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.85	Alagille syndrome	OMIM:118450
+3	0.8	Severe hypercholesterolemia	OMIM:606945
+4	0.75	Neonatal hemochromatosis	OMIM:231100
+5	0.7	Congenital cytomegalovirus infection	OMIM:612007
+6	0.65	Congenital disorder of glycosylation type Ia	OMIM:212065
+7	0.6	Wilson disease	OMIM:277900
+8	0.55	Biliary atresia	OMIM:210500
+9	0.5	Acute intermittent porphyria	OMIM:176000
+10	0.45	Neuroblastoma	OMIM:256700

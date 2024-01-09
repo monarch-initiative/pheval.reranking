@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Arrhythmia	OMIM:103276
+2	0.875	Cardiac arrest	OMIM:115150
+3	0.85	Ventricular fibrillation	OMIM:603829
+4	0.8	Atrial arrhythmia	OMIM:108950
+5	0.7	Ventricular arrhythmia	OMIM:192500
+6	0.6	Syncope	OMIM:612680
+7	0.5	Abnormal QT interval	OMIM:609620
+8	0.4	Prolonged QT interval	OMIM:609621

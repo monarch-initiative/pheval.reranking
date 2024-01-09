@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Muscular dystrophy, congenital, with intellectual disability	OMIM:617587
+3	0.7	Spinal muscular atrophy with respiratory distress type 1	OMIM:604320
+4	0.6	Muscular dystrophy, Duchenne type	OMIM:310200
+5	0.5	Spinocerebellar ataxia 9	OMIM:604229

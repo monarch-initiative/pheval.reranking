@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+2	0.8	Epileptic encephalopathy, early infantile, 6	OMIM:607208
+3	0.7	Congenital disorder of glycosylation, type Ia	OMIM:212065
+4	0.6	Epileptic encephalopathy, early infantile, 15	OMIM:615006
+5	0.5	Spastic tetraplegia 4, autosomal recessive	OMIM:609244
+6	0.4	Cortical dysplasia, complex, with other brain malformations 10	OMIM:617219
+7	0.3	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+8	0.2	Intellectual developmental disorder with persistence of fetal hemoglobin	OMIM:617101
+9	0.1	Cortical dysplasia, complex, with other brain malformations 9	OMIM:616418
+10	0.05	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spherocytosis	OMIM:182900
+2	0.9	Pyruvate kinase deficiency of red cells	OMIM:266200
+3	0.85	Spherocytosis type 2	OMIM:616649
+4	0.8	Spherocytosis type 4	OMIM:612653
+5	0.75	Microcytic anemia 1	OMIM:206200
+6	0.7	Congenital dyserythropoietic anemia	OMIM:224120
+7	0.65	Spherocytosis type 1	OMIM:182900
+8	0.6	Elliptocytosis 2	OMIM:130600
+9	0.55	Hereditary nonspherocytic hemolytic anemia	OMIM:235700
+10	0.5	Hemolytic anemia due to red cell pyruvate kinase deficiency	OMIM:266200

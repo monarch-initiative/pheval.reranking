@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Tracheoesophageal fistula	OMIM:189960
+1	1.0	Esophageal atresia	OMIM:189960
+3	0.9	Ventricular septal defect	OMIM:614431
+3	0.9	Bilateral cleft lip	OMIM:119530
+3	0.9	Bilateral cleft palate	OMIM:119530
+6	0.8	Polyhydramnios	OMIM:606725
+7	0.7	Delayed ability to walk	OMIM:614923
+8	0.6	Long face	OMIM:601217
+9	0.5	Recurrent otitis media	OMIM:166760
+10	0.4	Posterior embryotoxon	OMIM:601536
+11	0.3	Bronchomalacia	OMIM:211700
+12	0.2	Hypoplasia of the semicircular canal	OMIM:600791
+13	0.1	Spina bifida occulta	OMIM:182940

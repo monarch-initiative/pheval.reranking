@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.92	Otospondylomegaepiphyseal dysplasia	OMIM:215150
+3	0.89	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.88	Ellis-van Creveld syndrome	OMIM:225500
+5	0.86	Metachondromatosis	OMIM:156250
+6	0.85	Multiple epiphyseal dysplasia	OMIM:226900
+7	0.84	Achondrogenesis type 2	OMIM:200610
+8	0.82	Dyggve-Melchior-Clausen syndrome	OMIM:223800
+9	0.81	Kniest dysplasia	OMIM:156550
+10	0.78	Spondyloepiphyseal dysplasia congenita	OMIM:183900

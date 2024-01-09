@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bartter syndrome, type 1	OMIM:601678
+2	0.8	Gitelman syndrome	OMIM:263800
+3	0.7	Distal renal tubular acidosis	OMIM:179800
+4	0.6	Pendred syndrome	OMIM:274600
+5	0.5	Liddle syndrome	OMIM:177200
+6	0.4	Denys-Drash syndrome	OMIM:194080
+7	0.3	Familial hypocalciuric hypercalcemia	OMIM:600740
+8	0.2	Polyhydramnios-megalencephaly-symptomatic epilepsy syndrome	OMIM:603387
+9	0.1	SeSAME syndrome	OMIM:612780
+9	0.1	Pendred syndrome with goiter	OMIM:609528

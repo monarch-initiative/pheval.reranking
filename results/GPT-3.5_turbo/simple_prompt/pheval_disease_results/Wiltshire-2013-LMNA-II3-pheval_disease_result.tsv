@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progeria-like syndrome	OMIM:614092
+2	0.8	Benign familial pseudohyperkalemia	OMIM:192500
+3	0.7	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+4	0.6	Congenital myopathy due to GLUT2 deficiency	OMIM:614749
+5	0.5	Scapuloperoneal myopathy, X-linked dominant	OMIM:300695

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	CHARGE syndrome	OMIM:214800
+2	0.98	Deletion 22q11.2 syndrome	OMIM:188400
+3	0.95	3-M syndrome	OMIM:273750
+4	0.9	Renal coloboma syndrome	OMIM:120330
+5	0.85	Alport syndrome	OMIM:301050
+6	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400

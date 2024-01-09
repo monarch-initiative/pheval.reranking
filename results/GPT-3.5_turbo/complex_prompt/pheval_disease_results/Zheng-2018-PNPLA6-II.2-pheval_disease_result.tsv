@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 12	OMIM:604326
+2	0.8	Androgen insensitivity syndrome	OMIM:300068
+3	0.7	Kallmann syndrome	OMIM:308700
+4	0.6	Ellis-van Creveld syndrome	OMIM:225500
+5	0.5	Ataxia with vitamin E deficiency	OMIM:277460
+6	0.4	Hypogonadotropic hypogonadism 1 with or without anosmia	OMIM:308700
+7	0.3	Alopecia universalis	OMIM:203655
+8	0.2	Andersen-Tawil syndrome	OMIM:170390
+9	0.1	Hypogonadotropic hypogonadism 23 with or without anosmia	OMIM:228910
+10	0.05	Multiple system atrophy	OMIM:146500

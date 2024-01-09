@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Linear skin defects with multiple congenital anomalies 1	OMIM:309801
+2	0.92	Mucoepithelial dysplasia, hereditary	OMIM:158310
+3	0.91	Focal dermal hypoplasia	OMIM:305600
+4	0.89	Punctate palmoplantar keratoderma type 1	OMIM:148600
+5	0.88	Waardenburg syndrome type 4	OMIM:277580
+6	0.87	Focal palmoplantar keratoderma with oral mucosal hyperkeratosis	OMIM:148800
+7	0.86	Alagille syndrome	OMIM:118450
+8	0.85	Piebaldism	OMIM:172800
+9	0.84	Hyalinosis, infantile systemic	OMIM:236490
+10	0.82	Silver-Russell syndrome	OMIM:180860

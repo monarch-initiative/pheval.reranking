@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Osteogenesis imperfecta type IV	OMIM:166220
+2	0.95	Cole-Carpenter syndrome	OMIM:112240
+3	0.9	Osteogenesis imperfecta type III	OMIM:259420
+4	0.88	Osteogenesis imperfecta type II	OMIM:166210
+5	0.85	Cleidocranial dysplasia	OMIM:119600

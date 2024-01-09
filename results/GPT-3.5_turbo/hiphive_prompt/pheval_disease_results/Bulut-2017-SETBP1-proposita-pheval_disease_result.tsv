@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Meckel syndrome	OMIM:249000
+2	0.92	Joubert syndrome	OMIM:213300
+3	0.89	Bardet-Biedl syndrome	OMIM:209900
+4	0.87	Renal cysts and diabetes syndrome	OMIM:137920
+5	0.85	Senior-Løken syndrome	OMIM:266900
+6	0.82	Lowe syndrome	OMIM:309000
+7	0.8	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+8	0.78	Fraser syndrome	OMIM:219000
+9	0.77	Alport syndrome	OMIM:301050
+10	0.75	Griscelli syndrome	OMIM:214450

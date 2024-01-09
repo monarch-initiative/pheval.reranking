@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy, congenital, Davignon-Chauveau type	OMIM:618109
+2	0.85	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 2	OMIM:613150
+3	0.8	Muscular dystrophy, limb-girdle, type 2G	OMIM:601954
+4	0.75	Congenital myopathy with excess of muscle spindles	OMIM:618489
+5	0.7	Muscular dystrophy-dystroglycanopathy (congenital with or without intellectual disability), type B, 14	OMIM:615350
+6	0.65	Congenital myopathies with type 1 fiber predominance	OMIM:618310
+7	0.6	Muscular dystrophy, limb-girdle, type 2K	OMIM:615348
+8	0.55	Muscular dystrophy, congenital, LMNA-related	OMIM:618059
+9	0.5	N-acetylglutamate synthase deficiency	OMIM:237310
+10	0.45	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	OMIM:256810

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Common variable immunodeficiency	OMIM:607594
+2	0.8	Cytomegalovirus infection	OMIM:613647
+3	0.7	Dubowitz syndrome	OMIM:223370
+4	0.6	Griscelli syndrome type 2	OMIM:607624
+5	0.5	Hermansky-Pudlak syndrome type 2	OMIM:608233
+6	0.4	X-linked lymphoproliferative syndrome	OMIM:308240
+7	0.3	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.2	Immunodeficiency 38 with basal ganglia calcification	OMIM:616126
+9	0.1	Hyperimmunoglobulin M syndrome type 2	OMIM:605258
+10	0.05	Ataxia-telangiectasia	OMIM:208900

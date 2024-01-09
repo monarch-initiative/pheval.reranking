@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:192500
+2	0.8	Congenital long QT syndrome	OMIM:613688
+2	0.8	Romano-Ward syndrome	OMIM:192500
+4	0.7	Jervell and Lange-Nielsen syndrome	OMIM:220400
+5	0.6	Timothy syndrome	OMIM:601005
+5	0.6	Andersen-Tawil syndrome	OMIM:170390
+7	0.5	Brugada syndrome	OMIM:601144
+8	0.4	Short QT syndrome	OMIM:609620
+9	0.3	Alagille syndrome	OMIM:118450
+10	0.2	Noonan syndrome	OMIM:163950

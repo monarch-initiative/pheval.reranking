@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyperekplexia	OMIM:149400
+2	0.8	Kleefstra syndrome	OMIM:610253
+3	0.7	Pontocerebellar hypoplasia type 2D	OMIM:613811
+3	0.7	Rett syndrome	OMIM:312750
+5	0.6	Mowat-Wilson syndrome	OMIM:235730
+5	0.6	Pitt-Hopkins syndrome	OMIM:610954
+7	0.5	3-methylglutaconic aciduria type 1	OMIM:250950
+7	0.5	Infantile neuroaxonal dystrophy	OMIM:256600
+9	0.4	Congenital disorder of glycosylation type 1a	OMIM:212065
+9	0.4	Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation	OMIM:611105

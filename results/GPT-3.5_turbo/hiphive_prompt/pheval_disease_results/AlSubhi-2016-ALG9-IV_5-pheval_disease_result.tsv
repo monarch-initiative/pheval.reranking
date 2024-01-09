@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Congenital Hemihypertrophy	OMIM:235000
+2	0.89	Boxer's nose	OMIM:153500
+3	0.88	Koolen-de Vries syndrome	OMIM:610443
+3	0.88	Tricuspid valve disease	OMIM:614430
+5	0.87	Oculocutaneous Albinism, Type V	OMIM:615179
+5	0.87	Syndromic multisystem autoimmune disease, autosomal recessive	OMIM:616100
+7	0.86	Congenital Hydronephrosis	OMIM:143400
+7	0.86	Coffin-Siris syndrome 1	OMIM:135900
+7	0.86	Congenital disorder of glycosylation, type Ig	OMIM:607143
+7	0.86	Acrocallosal syndrome, Schinzel type	OMIM:200990

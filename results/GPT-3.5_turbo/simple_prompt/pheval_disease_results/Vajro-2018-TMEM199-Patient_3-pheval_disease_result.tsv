@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Wilson disease	OMIM:277900
+2	0.9	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.8	Alagille syndrome	OMIM:118450
+4	0.7	Acute fatty liver of pregnancy	OMIM:609016
+5	0.6	Indian childhood cirrhosis	OMIM:215600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gardner syndrome	OMIM:175100
+2	0.92	PTEN hamartoma tumor syndrome	OMIM:153480
+3	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.88	Macrocephaly-autism syndrome	OMIM:605309
+5	0.85	Gorlin syndrome	OMIM:109400
+6	0.82	Neurofibromatosis type 1	OMIM:162200
+7	0.79	Cowden syndrome	OMIM:158350
+8	0.76	Simpson-Golabi-Behmel syndrome	OMIM:312870
+9	0.73	Meckel syndrome	OMIM:249000
+10	0.7	Beckwith-Wiedemann-like syndrome	OMIM:618361

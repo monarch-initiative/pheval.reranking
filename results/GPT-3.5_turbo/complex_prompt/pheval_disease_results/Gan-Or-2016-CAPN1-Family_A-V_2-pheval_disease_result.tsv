@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:604187
+2	0.8	Amyotrophic lateral sclerosis (ALS)	OMIM:105400
+3	0.7	Friedreich ataxia	OMIM:229300
+3	0.7	Multiple system atrophy	OMIM:146500
+5	0.6	Charcot-Marie-Tooth disease	OMIM:118200
+5	0.6	Primary lateral sclerosis	OMIM:611637
+7	0.5	Hereditary sensory neuropathy	OMIM:162400
+7	0.5	Spinocerebellar ataxia	OMIM:164400
+9	0.4	Multiple sclerosis	OMIM:126200
+10	0.3	Periventricular leukomalacia	OMIM:605832

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's Disease	OMIM:168600
+2	0.8	Lewy Body Dementia	OMIM:127750
+3	0.7	Parkinsonism	OMIM:168600
+4	0.6	Dystonia	OMIM:606798
+5	0.5	Dementia	OMIM:601162
+6	0.4	Hallucinations	OMIM:607821
+7	0.3	Delusions	OMIM:607821
+8	0.2	Tremor	OMIM:190300
+9	0.1	Dysarthria	OMIM:601120
+9	0.1	Gait disturbance	OMIM:607643

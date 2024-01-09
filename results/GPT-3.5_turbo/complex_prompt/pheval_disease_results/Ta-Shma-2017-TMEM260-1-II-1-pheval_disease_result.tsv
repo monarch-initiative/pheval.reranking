@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tetralogy of Fallot with pulmonary atresia	OMIM:610128
+2	0.8	Tricuspid atresia	OMIM:605067
+3	0.75	Ventricular septal defect	OMIM:614429
+4	0.7	Truncus arteriosus	OMIM:614090
+4	0.7	Partial anomalous pulmonary venous return	OMIM:614607
+6	0.65	Right aortic arch	OMIM:166000
+7	0.6	Renal cyst	OMIM:173900
+7	0.6	Pulmonary artery atresia	OMIM:178370
+9	0.55	Partial agenesis of the corpus callosum	OMIM:300004
+10	0.5	Interrupted aortic arch	OMIM:208210

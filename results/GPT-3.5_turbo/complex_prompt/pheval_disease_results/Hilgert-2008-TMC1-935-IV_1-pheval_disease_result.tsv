@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome type 1	OMIM:276900
+2	0.8	Waardenburg syndrome, type 2D	OMIM:608890
+3	0.7	Jervell and Lange-Nielsen syndrome	OMIM:220400
+4	0.6	Pendred syndrome	OMIM:274600
+5	0.5	Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes	OMIM:540000
+6	0.4	Branchiootorenal syndrome	OMIM:113650
+7	0.3	Alport syndrome	OMIM:301050
+8	0.2	Refsum disease	OMIM:266500
+9	0.1	Sensory Ataxic Neuropathy, Dysarthria, and Ophthalmoparesis	OMIM:607459
+10	0.05	Meniere Disease	OMIM:156000

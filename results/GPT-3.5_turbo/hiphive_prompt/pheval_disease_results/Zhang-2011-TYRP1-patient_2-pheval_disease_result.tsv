@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hermansky-Pudlak Syndrome	OMIM:203300
+2	0.92	Oculocutaneous Albinism	OMIM:203100
+3	0.9	Griscelli Syndrome	OMIM:214450
+4	0.87	Waardenburg Syndrome	OMIM:193500
+5	0.85	Tietz Syndrome	OMIM:103500
+6	0.83	Piebaldism	OMIM:172800
+7	0.8	Microphthalmia	OMIM:309700
+8	0.75	Chediak-Higashi Syndrome	OMIM:214500
+9	0.72	Albinism	OMIM:203100
+10	0.7	Hypomelanosis of Ito	OMIM:300337

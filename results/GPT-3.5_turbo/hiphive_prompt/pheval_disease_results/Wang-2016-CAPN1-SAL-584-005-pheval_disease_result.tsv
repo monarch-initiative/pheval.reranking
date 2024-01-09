@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 1	OMIM:164400
+2	0.85	Spinocerebellar ataxia 7	OMIM:164500
+3	0.8	Friedreich ataxia	OMIM:229300
+4	0.75	Autosomal recessive spastic paraplegia type 5	OMIM:270800
+5	0.7	Ataxia telangiectasia	OMIM:208900
+6	0.65	Autosomal recessive spastic paraplegia type 35	OMIM:612319
+7	0.6	X-linked spastic paraplegia type 2	OMIM:312920
+8	0.55	Autosomal dominant spastic paraplegia type 4	OMIM:182601
+9	0.5	Familial spastic paraplegia	OMIM:182601
+10	0.45	Leukoencephalopathy with vanishing white matter	OMIM:603896

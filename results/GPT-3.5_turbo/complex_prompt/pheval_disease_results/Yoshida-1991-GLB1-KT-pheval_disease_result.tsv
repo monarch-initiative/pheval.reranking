@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	GM1 gangliosidosis	OMIM:230500
+2	0.85	Niemann-Pick disease	OMIM:607616
+3	0.8	Tay-Sachs disease	OMIM:272800
+4	0.75	Gaucher disease	OMIM:230800
+5	0.7	Sandhoff disease	OMIM:268800
+6	0.65	Fabry disease	OMIM:301500
+7	0.6	Schindler disease	OMIM:609241
+8	0.55	Metachromatic leukodystrophy	OMIM:250100
+9	0.5	Krabbe disease	OMIM:245200
+10	0.45	Hurler syndrome	OMIM:607014

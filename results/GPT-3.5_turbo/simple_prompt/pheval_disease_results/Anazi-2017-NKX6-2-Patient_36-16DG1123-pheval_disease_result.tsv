@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CNS hypomyelination	OMIM:300100
+2	0.9	Encephalopathy	OMIM:129500
+3	0.85	Intellectual disability	OMIM:614607
+4	0.8	Strabismus	OMIM:185100
+5	0.75	Scoliosis	OMIM:181800

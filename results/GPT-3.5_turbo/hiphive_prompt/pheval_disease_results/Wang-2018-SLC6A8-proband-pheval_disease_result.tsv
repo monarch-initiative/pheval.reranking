@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epilepsy, Idiopathic Generalized	OMIM:600669
+2	0.85	Speech and Language Delay due to Deficient Expression of SRPX2	OMIM:300491
+3	0.8	Hirschsprung Disease	OMIM:142623
+4	0.75	Creatine Deficiency Syndromes	OMIM:612799
+5	0.7	Developmental Delay, Global	OMIM:607596
+6	0.65	Nausea and Vomiting, Anticipatory	OMIM:193001
+7	0.6	Autism Spectrum Disorder	OMIM:209850

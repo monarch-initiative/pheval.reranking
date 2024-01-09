@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	OMIM:264600
+2	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.8	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase type 2 deficiency	OMIM:201810
+4	0.75	Smith-Magenis syndrome	OMIM:182290
+5	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.7	17-beta-hydroxysteroid dehydrogenase III deficiency	OMIM:264600
+7	0.65	Fraser syndrome	OMIM:219000
+8	0.6	Aarskog-Scott syndrome	OMIM:305400
+9	0.55	Lipoid congenital adrenal hyperplasia	OMIM:201710
+10	0.5	Kabuki syndrome	OMIM:147920

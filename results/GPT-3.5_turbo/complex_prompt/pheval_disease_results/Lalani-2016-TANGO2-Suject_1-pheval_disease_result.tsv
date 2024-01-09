@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+2	0.8	Myoclonic epilepsy associated with ragged-red fibers	OMIM:545000
+2	0.8	Leigh syndrome	OMIM:256000
+4	0.7	Myopathy, lipid storage, autosomal dominant	OMIM:311200
+4	0.7	Myotonic dystrophy	OMIM:160900
+6	0.6	McLeod neuroacanthocytosis syndrome	OMIM:300842
+6	0.6	Friedreich ataxia	OMIM:229300
+6	0.6	Limb-girdle muscular dystrophy	OMIM:253600
+9	0.5	MELAS syndrome	OMIM:540000
+9	0.5	Myofibrillar myopathy	OMIM:601419

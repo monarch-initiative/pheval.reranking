@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-Like Episodes	OMIM:540000
+2	0.8	Peroxisome Biogenesis Disorder 1B	OMIM:601539
+2	0.8	Leigh Syndrome, French Canadian Type	OMIM:220111
+4	0.7	Cytochrome C Oxidase Deficiency	OMIM:220110
+4	0.7	3-Methylglutaconic Aciduria, Type I	OMIM:250950
+6	0.6	Methylmalonic Acidemia and Homocystinuria, cblC Type	OMIM:277400
+6	0.6	Combined Oxidative Phosphorylation Deficiency 2	OMIM:610498
+8	0.5	Biogenesis of Ciliary Microtubules, Assembly Defect of	OMIM:614464
+8	0.5	Pol III-Related Leukodystrophy	OMIM:612233
+10	0.4	Hyperinsulinemic Hypoglycemia, Familial, 7	OMIM:610021

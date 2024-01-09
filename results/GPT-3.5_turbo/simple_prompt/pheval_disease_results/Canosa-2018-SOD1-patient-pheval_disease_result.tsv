@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.82	Spinal muscular atrophy	OMIM:253300
+3	0.77	Progressive bulbar palsy	OMIM:602703
+4	0.75	Primary lateral sclerosis	OMIM:611637
+5	0.72	Hereditary motor sensory neuropathy	OMIM:607641

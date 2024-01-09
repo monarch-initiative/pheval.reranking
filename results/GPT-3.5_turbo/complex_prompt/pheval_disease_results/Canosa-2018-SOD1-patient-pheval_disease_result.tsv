@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM: 105400
+2	0.85	Bulbar palsy, hereditary	OMIM: 601626
+3	0.8	Spinal muscular atrophy type 4	OMIM: 271150
+4	0.75	Progressive bulbar palsy	OMIM: 602703
+5	0.7	Amyotrophic lateral sclerosis type 1	OMIM: 105400
+6	0.65	Bulbar-onset motor neuron disease	OMIM: 602703
+7	0.6	Primary lateral sclerosis	OMIM: 606353

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency	OMIM:242860
+2	0.87	Waardenburg syndrome, type 2D	OMIM:608890
+3	0.85	Waardenburg syndrome, type 1	OMIM:193500
+4	0.82	Branchiooculofacial syndrome	OMIM:113620
+5	0.79	Olmsted syndrome	OMIM:614594
+6	0.76	Stickler syndrome, type I	OMIM:108300
+7	0.73	Hunter-Russell syndrome	OMIM:309900
+8	0.71	Hallermann-Streiff syndrome	OMIM:234100
+9	0.68	Toriello-Bauserman syndrome	OMIM:301045
+10	0.65	Microphthalmia with limb anomalies	OMIM:206920

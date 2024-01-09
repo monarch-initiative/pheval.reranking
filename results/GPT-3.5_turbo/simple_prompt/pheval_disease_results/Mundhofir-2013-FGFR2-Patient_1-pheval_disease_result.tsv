@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson syndrome	OMIM:235730
+2	0.85	FG syndrome 1	OMIM:305450
+3	0.8	Craniofrontonasal syndrome	OMIM:304110
+4	0.75	CHARGE syndrome	OMIM:214800
+5	0.7	Acrocallosal syndrome	OMIM:200990

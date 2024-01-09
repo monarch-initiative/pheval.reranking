@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 4 (SPG4)	OMIM:182601
+2	0.8	Spastic paraplegia 10 (SPG10)	OMIM:604187
+3	0.7	Spastic paraplegia 3A (SPG3A)	OMIM:182600
+3	0.7	Spastic paraplegia 6A (SPG6A)	OMIM:600363
+5	0.6	Hereditary spastic paraplegia 2 (SPG2)	OMIM:312920
+5	0.6	Hereditary spastic paraplegia 7 (SPG7)	OMIM:607259
+7	0.5	Primary lateral sclerosis (PLS)	OMIM:606353
+8	0.4	Pyramidal tracts involvement-spasticity-deep tendon reflexes increased syndrome (PTISDTARIS)	OMIM:609185
+8	0.4	Spastic ataxia 1 (SPAX1)	OMIM:108600
+10	0.3	Amyotrophic lateral sclerosis type 1 (ALS1)	OMIM:105400

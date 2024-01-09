@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome	OMIM:118450
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Noonan syndrome	OMIM:163950
+4	0.6	Turner syndrome	OMIM:313850
+5	0.5	Williams syndrome	OMIM:194050
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Familial hypercholesterolemia	OMIM:143890
+8	0.2	Cystic fibrosis	OMIM:219700
+9	0.1	Mucopolysaccharidosis type I	OMIM:607014
+10	0.05	Glycogen storage disease type Ia	OMIM:232200

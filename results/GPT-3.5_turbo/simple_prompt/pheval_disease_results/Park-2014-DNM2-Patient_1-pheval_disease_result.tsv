@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Myotonic dystrophy type 2	OMIM:602668
+2	0.9	Limb-girdle muscular dystrophy type 2G	OMIM:608099
+3	0.8	Myotonic dystrophy type 1	OMIM:160900
+4	0.7	Kearns-Sayre syndrome	OMIM:530000
+5	0.6	Facioscapulohumeral muscular dystrophy	OMIM:158900

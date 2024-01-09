@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Sotos syndrome	OMIM:117550
+2	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.65	Mowat-Wilson syndrome	OMIM:235730
+4	0.6	Phelan-McDermid syndrome	OMIM:606232
+5	0.55	Neurofibromatosis type 1	OMIM:162200

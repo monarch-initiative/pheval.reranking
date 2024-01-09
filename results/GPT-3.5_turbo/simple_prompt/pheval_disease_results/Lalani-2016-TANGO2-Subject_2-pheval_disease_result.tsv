@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	McArdle disease	OMIM:232600
+2	0.8	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+3	0.7	Medium-chain Acyl-CoA dehydrogenase deficiency	OMIM:201450
+4	0.6	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+5	0.5	Carnitine palmitoyltransferase I deficiency	OMIM:255120

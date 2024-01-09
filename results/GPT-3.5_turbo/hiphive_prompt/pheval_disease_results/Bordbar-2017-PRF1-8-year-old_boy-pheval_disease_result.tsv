@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.92	Hemochromatosis	OMIM:235200
+3	0.88	Friedreich ataxia	OMIM:229300
+4	0.85	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	OMIM:600142
+5	0.82	Xanthinuria	OMIM:278300
+6	0.78	Polycystic kidney disease	OMIM:173900
+7	0.75	Mitochondrial DNA depletion syndrome	OMIM:251880
+8	0.72	Alpha-1-antitrypsin deficiency	OMIM:613490
+9	0.69	Primary mitochondrial respiratory chain disease	OMIM:252010
+10	0.65	Maple syrup urine disease	OMIM:248600

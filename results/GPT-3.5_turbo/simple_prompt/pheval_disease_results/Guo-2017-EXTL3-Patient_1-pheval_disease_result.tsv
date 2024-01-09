@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis, Type VI	OMIM:253200
+2	0.8	Mucopolysaccharidosis, Type VII	OMIM:253220
+3	0.7	Mucolipidosis IV	OMIM:252650
+4	0.6	Osteogenesis Imperfecta, Type II	OMIM:166210
+5	0.5	Guillain-Barré Syndrome	OMIM:139393

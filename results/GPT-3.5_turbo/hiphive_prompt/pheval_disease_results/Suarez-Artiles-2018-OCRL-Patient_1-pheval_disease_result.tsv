@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary open angle glaucoma	OMIM:137760
+2	0.9	Renal glucosuria	OMIM:233100
+3	0.85	Renal Fanconi syndrome	OMIM:134600
+4	0.8	Renal hypouricemia type 1	OMIM:220150
+5	0.75	Nephrotic syndrome, type 3	OMIM:610725
+6	0.7	Nephrotic syndrome, type 4	OMIM:256370
+7	0.65	Familial candidiasis, autosomal dominant 2	OMIM:212050
+8	0.6	Cataract 47	OMIM:612018
+9	0.55	Cataract 17A	OMIM:615179
+10	0.5	Intellectual disability, autosomal dominant 20	OMIM:615759

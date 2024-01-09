@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Jaundice	OMIM:604308
+2	0.92	Galactosemia	OMIM:230400
+3	0.89	Agenesis of Corpus Callosum	OMIM:217990
+4	0.85	Infantile Spasms	OMIM:308350
+5	0.84	Gastroesophageal reflux	OMIM:109350
+6	0.82	Benign Familial Infantile Seizures	OMIM:605751
+7	0.78	Glycogen Storage Disease Type I	OMIM:232200
+8	0.76	Epileptic Encephalopathy, Early Infantile, 1	OMIM:308350
+9	0.72	Neonatal Hypotonia	OMIM:257400
+10	0.65	Nonketotic Hyperglycinemia	OMIM:605899

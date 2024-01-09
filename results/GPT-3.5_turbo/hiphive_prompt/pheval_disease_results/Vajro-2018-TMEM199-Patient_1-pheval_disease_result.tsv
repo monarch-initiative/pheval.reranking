@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.85	Familial hypercholesterolemia	OMIM:143890
+3	0.8	Primary biliary cholangitis	OMIM:109720
+4	0.75	Alpha-1 antitrypsin deficiency	OMIM:613490
+5	0.7	Glycogen storage disease Ia	OMIM:232200
+6	0.6	Alagille syndrome	OMIM:118450
+7	0.55	Progressive familial intrahepatic cholestasis	OMIM:211600
+8	0.5	Congenital hepatic fibrosis	OMIM:263700
+9	0.45	Familial partial lipodystrophy	OMIM:604367
+10	0.4	Primary hyperoxaluria type 1	OMIM:259900

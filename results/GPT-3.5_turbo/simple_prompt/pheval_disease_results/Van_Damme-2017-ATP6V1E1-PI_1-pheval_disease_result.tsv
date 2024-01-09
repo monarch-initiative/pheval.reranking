@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Kyphoscoliotic Ehlers-Danlos Syndrome	OMIM:225400
+2	0.9	Marfan Syndrome	OMIM:154700
+3	0.8	Spondyloepiphyseal Dysplasia with Congenital Joint Dislocations	OMIM:143095
+4	0.7	Noonan Syndrome with Multiple Lentigines	OMIM:151100
+5	0.6	Holt-Oram Syndrome	OMIM:142900

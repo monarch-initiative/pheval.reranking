@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary open angle glaucoma	OMIM:137760
+2	0.8	Peters anomaly	OMIM:604229
+3	0.7	Axenfeld-Rieger syndrome, type 3	OMIM:602482
+4	0.6	Aniridia	OMIM:106210
+5	0.5	Anterior segment dysgenesis 1	OMIM:107250
+6	0.4	Weill-Marchesani syndrome	OMIM:277600
+7	0.3	Marfan syndrome	OMIM:154700
+8	0.2	Primary congenital glaucoma	OMIM:231300
+9	0.1	Nanophthalmos 1	OMIM:600165
+9	0.1	Congenital glaucoma	OMIM:231300

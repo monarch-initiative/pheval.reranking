@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chorea	OMIM:118700
+2	0.8	Muscular hypotonia	OMIM:615809
+3	0.75	Dysarthria	OMIM:614121
+4	0.7	Bruxism	OMIM:607129
+5	0.6	Acanthocytosis	OMIM:200100
+6	0.55	Dilation of lateral ventricles	OMIM:152500
+7	0.5	Dysphagia	OMIM:244500
+8	0.4	Self-mutilation	OMIM:610116
+9	0.3	Hyporeflexia	OMIM:146930

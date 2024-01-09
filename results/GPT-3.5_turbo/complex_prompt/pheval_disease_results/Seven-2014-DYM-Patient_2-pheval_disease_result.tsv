@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, musculocontractural type	OMIM:601776
+2	0.8	Ehlers-Danlos syndrome, progeroid type	OMIM:130070
+3	0.75	Pseudoxanthoma elasticum	OMIM:264800
+4	0.7	Stickler syndrome type 1	OMIM:108300
+5	0.65	Mucopolysaccharidosis type VII	OMIM:253220
+6	0.6	Stickler syndrome type 2	OMIM:604841
+7	0.55	Stickler syndrome type 3	OMIM:184840
+8	0.5	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.45	Achondrogenesis type 1B	OMIM:600972
+10	0.4	Campomelic dysplasia	OMIM:114290

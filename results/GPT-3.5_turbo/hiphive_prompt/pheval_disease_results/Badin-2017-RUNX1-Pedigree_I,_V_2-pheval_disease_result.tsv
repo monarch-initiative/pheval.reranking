@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	MYH9-related disorders	OMIM:155100
+2	0.86	Bernard-Soulier syndrome	OMIM:231200
+3	0.85	Gray platelet syndrome	OMIM:139090
+4	0.83	Chédiak-Higashi syndrome	OMIM:214500
+5	0.82	May-Hegglin anomaly	OMIM:155100
+6	0.81	Sebastian syndrome	OMIM:605249
+7	0.8	Thrombocytopenia-absent radius syndrome	OMIM:274000
+8	0.79	Camurati-Engelmann disease	OMIM:131300
+9	0.78	Amegakaryocytic thrombocytopenia	OMIM:604498
+10	0.77	Shwachman-Diamond syndrome	OMIM:260400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Gorlin syndrome	OMIM:109400
+2	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.82	Orofacial cleft 10	OMIM:613705
+4	0.81	Identity by descent	OMIM:447953
+5	0.79	22q11.2 deletion syndrome	OMIM:188400
+6	0.78	Orofacial cleft 11	OMIM:613707
+7	0.75	Ondine's curse	OMIM:209880
+8	0.73	Orofacial cleft 9	OMIM:613704
+9	0.72	Glycine encephalopathy	OMIM:605899
+10	0.71	Growth hormone deficiency, isolated partial	OMIM:615557

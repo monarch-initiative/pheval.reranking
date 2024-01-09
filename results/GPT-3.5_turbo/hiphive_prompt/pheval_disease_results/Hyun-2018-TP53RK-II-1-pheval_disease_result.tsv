@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Microcephaly	OMIM:251200
+2	0.8	Cerebral Atrophy	OMIM:604272
+3	0.7	Congenital Diaphragmatic Hernia	OMIM:142340
+4	0.6	Nephrotic Syndrome, Type 4	OMIM:256370
+5	0.5	Otofaciocervical Syndrome	OMIM:166780
+6	0.4	Volvulus	OMIM:192350
+7	0.3	Hypertelorism	OMIM:145400
+8	0.2	Congenital Hiatal Hernia	OMIM:142350
+9	0.1	Focal Segmental Glomerulosclerosis	OMIM:603278

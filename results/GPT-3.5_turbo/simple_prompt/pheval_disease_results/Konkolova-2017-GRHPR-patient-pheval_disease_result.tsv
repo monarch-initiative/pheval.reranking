@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hyperoxaluria	OMIM:259900
+1	1.0	Calcium oxalate nephrolithiasis	OMIM:259900
+3	0.9	Hematuria	OMIM:603903
+4	0.8	Metabolic acidosis	OMIM:614498
+5	0.7	Pyuria	OMIM:264010
+6	0.6	Leukocytosis	OMIM:618234
+7	0.5	Elevated C-reactive protein level	OMIM:123260
+8	0.4	Abnormality of urine calcium concentration	OMIM:610805
+9	0.3	Hip dysplasia	OMIM:142700
+10	0.2	Anemia	OMIM:603207
+11	0.1	Abnormal circulating creatinine level	OMIM:248300

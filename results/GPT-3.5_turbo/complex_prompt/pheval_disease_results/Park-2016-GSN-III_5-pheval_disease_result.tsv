@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis 1	OMIM:105400
+2	0.8	Familial dysautonomia	OMIM:223900
+3	0.7	Freeman-Sheldon syndrome	OMIM:193700
+4	0.6	Cockayne syndrome type 2	OMIM:133540
+5	0.5	Spinal muscular atrophy	OMIM:253300
+6	0.4	Congenital insensitivity to pain	OMIM:256800
+7	0.3	Dystonia 5, DYT5	OMIM:128230
+8	0.2	Charcot-Marie-Tooth disease type 2B	OMIM:600882
+9	0.1	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+10	0.05	Craniofacial-skeletal-dermatologic dysplasia	OMIM:101420

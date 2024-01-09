@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Cornelia de Lange syndrome	OMIM:122470
+2	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.92	Cohen syndrome	OMIM:216550
+4	0.9	CHARGE syndrome	OMIM:214800
+5	0.87	Saethre-Chotzen syndrome	OMIM:101400
+6	0.83	Pitt-Hopkins syndrome	OMIM:610954
+7	0.8	Angelman syndrome	OMIM:105830
+8	0.78	Phelan-McDermid syndrome	OMIM:606232
+9	0.75	Kabuki syndrome	OMIM:147920
+10	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400

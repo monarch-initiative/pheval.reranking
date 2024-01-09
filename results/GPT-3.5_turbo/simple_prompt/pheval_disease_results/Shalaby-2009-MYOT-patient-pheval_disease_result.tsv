@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Centronuclear myopathy	OMIM:160150
+2	0.85	Myotonic dystrophy type 1	OMIM:160900
+3	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+4	0.75	Bethlem myopathy	OMIM:158810
+5	0.7	Emery-Dreifuss muscular dystrophy	OMIM:310300

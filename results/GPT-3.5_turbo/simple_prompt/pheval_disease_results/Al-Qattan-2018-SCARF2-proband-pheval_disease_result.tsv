@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130000
+2	0.8	Blepharophimosis, epicanthus inversus, and ptosis	OMIM:110100
+3	0.7	DiGeorge syndrome	OMIM:188400
+4	0.6	Marfan syndrome	OMIM:154700

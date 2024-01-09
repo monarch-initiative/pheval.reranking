@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:123100
+2	0.8	Renal cyst	OMIM:601653
+3	0.7	Brachydactyly	OMIM:113000
+4	0.6	Rod-cone dystrophy	OMIM:268000
+5	0.5	Severe global developmental delay	OMIM:614562
+6	0.4	Alopecia	OMIM:203650
+7	0.3	Short stature	OMIM:604271
+8	0.2	Intellectual disability	OMIM:614562
+9	0.1	Ichthyosis	OMIM:242300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteoporosis	OMIM:166710
+2	0.8	Osteogenesis imperfecta	OMIM:166200
+3	0.7	Cohen syndrome	OMIM:216550
+4	0.6	Larsen syndrome	OMIM:150250
+5	0.5	Osteopetrosis	OMIM:166600
+6	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.3	Hurler syndrome	OMIM:607014
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Sanfilippo syndrome	OMIM:252900
+9	0.1	Alkaptonuria	OMIM:203500

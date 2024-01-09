@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIIB	OMIM:613177
+2	0.85	Cardiomyopathy, Dilated, 1D	OMIM:601494
+3	0.8	Nephrocalcinosis	OMIM:605144
+4	0.78	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+5	0.75	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+6	0.7	Nephrolithiasis	OMIM:605521
+7	0.67	Crouzon Syndrome With Acanthosis Nigricans	OMIM:612247
+8	0.65	Loeys-Dietz Syndrome, Type 1B	OMIM:610168
+9	0.6	Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Anomalies	OMIM:611594
+10	0.57	Cutis Laxa, Autosomal Recessive, Type IID	OMIM:219150

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Huntington Disease	OMIM:143100
+2	0.8	Parkinson Disease	OMIM:168600
+3	0.7	Frontotemporal Dementia	OMIM:600274
+4	0.6	Corticobasal Degeneration	OMIM:601399
+5	0.5	Multiple System Atrophy	OMIM:146500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Facioscapulohumeral muscular dystrophy	OMIM:158900
+2	0.85	Myotonic dystrophy type 1	OMIM:160900
+3	0.8	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.75	Myopathy, congenital, with fiber-type disproportion	OMIM:255310
+5	0.7	Spinal muscular atrophy, proximal, autosomal recessive, 2	OMIM:253550
+6	0.65	Oculopharyngeal muscular dystrophy	OMIM:164300
+7	0.6	Congenital myasthenic syndromes	OMIM:601462
+8	0.55	Limb-girdle muscular dystrophy type 2A	OMIM:253600
+9	0.5	Congenital muscular dystrophy	OMIM:613205
+10	0.45	Limb-girdle muscular dystrophy type 2B	OMIM:253601

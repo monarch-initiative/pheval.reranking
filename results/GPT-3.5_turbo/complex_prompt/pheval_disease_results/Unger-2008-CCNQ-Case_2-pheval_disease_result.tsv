@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis, type 1	OMIM:123100
+2	0.8	Müllerian duct anomalies	OMIM:235250
+3	0.7	Retinitis pigmentosa	OMIM:268000
+4	0.6	5q35 microdeletion syndrome	OMIM:153550
+5	0.5	Treacher Collins syndrome 1	OMIM:154500
+6	0.4	Bicuspid aortic valve	OMIM:109730
+7	0.3	Imperforate anus	OMIM:600378
+8	0.2	Radial ray hypoplasia	OMIM:179800
+9	0.1	Short stature	OMIM:604271
+10	0.05	Pulmonic stenosis	OMIM:178600

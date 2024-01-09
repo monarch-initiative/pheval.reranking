@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Marfan Syndrome	OMIM:154700
+2	0.87	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.85	Loeys-Dietz Syndrome	OMIM:609192
+4	0.82	Stickler Syndrome, Type I	OMIM:108300
+5	0.79	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086
+6	0.77	Neurofibromatosis, Type 1	OMIM:162200
+7	0.75	Weill-Marchesani Syndrome	OMIM:608328
+8	0.73	Homocystinuria Due to Cystathionine Beta-Synthase Deficiency	OMIM:236200
+9	0.7	Marfanoid Habitus with Microcephaly and Glomerulonephritis	OMIM:609069
+10	0.68	Stickler Syndrome, Type II	OMIM:604841

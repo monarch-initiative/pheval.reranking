@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.8	Hypochondroplasia	OMIM:146000
+2	0.8	Osteogenesis Imperfecta Type 1	OMIM:166200
+4	0.7	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+4	0.7	Achondroplasia	OMIM:100800
+6	0.6	Campomelic Dysplasia	OMIM:114290
+6	0.6	Stickler Syndrome Type 2	OMIM:604841
+8	0.5	Coffin-Lowry Syndrome	OMIM:303600
+8	0.5	Frontometaphyseal Dysplasia	OMIM:305620
+10	0.4	Cri-du-Chat Syndrome	OMIM:123450

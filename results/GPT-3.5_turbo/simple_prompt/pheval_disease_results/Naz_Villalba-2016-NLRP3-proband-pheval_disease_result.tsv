@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Vasculitis	OMIM:601942
+2	0.9	Increased intracranial pressure	OMIM:233900
+3	0.8	Headache	OMIM:609824
+4	0.7	Papilledema	OMIM:182070
+5	0.6	Elevated C-reactive protein level	OMIM:245280
+6	0.5	Elevated erythrocyte sedimentation rate	OMIM:225100
+7	0.4	Neutrophilia	OMIM:147050
+8	0.3	Urticaria	OMIM:191050
+9	0.2	Conjunctivitis	OMIM:120700

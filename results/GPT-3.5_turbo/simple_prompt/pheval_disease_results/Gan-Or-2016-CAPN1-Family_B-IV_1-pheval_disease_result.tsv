@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia type 4	OMIM:182601
+2	0.8	Hereditary spastic paraplegia	OMIM:182601
+3	0.7	Distal hereditary motor neuronopathy type 9	OMIM:601162
+4	0.6	Spastic paraplegia 31	OMIM:610250
+5	0.5	Hereditary spastic paraplegia 10	OMIM:604187

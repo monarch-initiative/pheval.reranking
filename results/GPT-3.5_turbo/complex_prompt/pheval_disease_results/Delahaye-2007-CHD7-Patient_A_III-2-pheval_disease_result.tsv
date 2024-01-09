@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.8	VACTERL association	OMIM:192350
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	Pierre Robin sequence	OMIM:261800
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.4	Cystic fibrosis	OMIM:219700
+7	0.3	Spondylocostal dysostosis	OMIM:277300
+8	0.2	Otofaciocervical syndrome	OMIM:166780
+9	0.1	Fanconi anemia	OMIM:227650
+10	0.05	Beckwith-Wiedemann syndrome	OMIM:130650

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.8	Spinocerebellar ataxia type 2	OMIM:183090
+3	0.7	Spinocerebellar ataxia type 3	OMIM:109150
+4	0.6	Spinocerebellar ataxia type 6	OMIM:183086
+5	0.5	Spinocerebellar ataxia type 17	OMIM:607136
+6	0.4	Friedreich ataxia	OMIM:229300
+7	0.3	Ataxia with oculomotor apraxia type 1	OMIM:208920
+8	0.2	Cerebellar ataxia, deafness, and narcolepsy	OMIM:614697
+9	0.1	Ataxia-telangiectasia-like disorder	OMIM:604391
+10	0.05	Pantothenate kinase-associated neurodegeneration	OMIM:234200

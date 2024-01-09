@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mental retardation, X-linked, syndromic, Houge type	OMIM:300896
+2	0.8	N syndrome	OMIM:310465
+3	0.7	Temple syndrome	OMIM:616222
+4	0.6	Renpenning syndrome	OMIM:309500
+5	0.5	Opitz-Kaveggia syndrome	OMIM:305450
+6	0.4	Coffin-Siris syndrome	OMIM:135900
+7	0.3	Mowat-Wilson syndrome	OMIM:235730
+8	0.2	Phelan-McDermid syndrome	OMIM:606232
+9	0.1	Sotos syndrome	OMIM:117550
+10	0.0	Fetal hydantoin syndrome	OMIM:228950

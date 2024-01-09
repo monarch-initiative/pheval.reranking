@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukoencephalopathy with vanishing white matter	OMIM:603896
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.6	Ataxia-telangiectasia	OMIM:208900
+5	0.5	Familial dysautonomia	OMIM:223900
+6	0.4	Spinocerebellar ataxia type 1	OMIM:164400
+7	0.3	Spinocerebellar ataxia type 2	OMIM:183090
+8	0.2	Spinocerebellar ataxia type 6	OMIM:183086
+9	0.1	Gaucher disease, type 3	OMIM:231000
+10	0.05	Refsum disease	OMIM:266500

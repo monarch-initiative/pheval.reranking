@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Failure to thrive in infancy	OMIM:603690
+2	0.9	Dehydration	OMIM:613879
+3	0.8	Hypovolemia	OMIM:307100
+4	0.7	Nasogastric tube feeding in infancy	OMIM:300494
+5	0.6	Diarrhea	OMIM:604173
+6	0.5	Vomiting	OMIM:605857
+7	0.4	Prominent occiput	OMIM:602122
+8	0.3	Preauricular pit	OMIM:614669
+9	0.2	Cleft palate	OMIM:119540
+10	0.1	Cleft lip	OMIM:119530
+11	0.0	Hyponatremia	OMIM:616441
+11	0.0	Chorioretinal coloboma	OMIM:120430
+11	0.0	Decreased body weight	OMIM:614732

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+2	0.92	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+3	0.91	Leukodystrophy, hypomyelinating, 2	OMIM:608804
+4	0.9	Familial hemiplegic migraine type 3	OMIM:609634
+5	0.89	Cerebral creatine deficiency syndrome 1	OMIM:300352
+6	0.88	Angelman syndrome	OMIM:105830
+7	0.87	Mental retardation, autosomal dominant 5	OMIM:612937
+8	0.86	Metachromatic leukodystrophy due to saposin B deficiency	OMIM:249900
+9	0.85	Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	OMIM:152950
+10	0.84	Beta-propeller protein-associated neurodegeneration	OMIM:616394

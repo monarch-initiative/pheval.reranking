@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	18q deletion syndrome	OMIM:601808
+4	0.6	Lesch-Nyhan syndrome	OMIM:300322
+5	0.5	Trisomy 21	OMIM:190685

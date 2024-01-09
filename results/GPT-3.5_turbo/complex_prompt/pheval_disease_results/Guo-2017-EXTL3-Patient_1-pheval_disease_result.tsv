@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Mucopolysaccharidosis, type IIIC	OMIM:252930
+2	0.7	Mucopolysaccharidosis, type IIIB	OMIM:252920
+2	0.7	Mucopolysaccharidosis, type IIID	OMIM:252940
+4	0.6	Mucopolysaccharidosis, type IIIA	OMIM:252900
+5	0.5	Mucopolysaccharidosis, type II	OMIM:309900
+5	0.5	Mucopolysaccharidosis, type VII	OMIM:253220
+7	0.4	Mucopolysaccharidosis, type IVA	OMIM:253000
+7	0.4	Mucopolysaccharidosis, type VI	OMIM:253200
+7	0.4	Multiple sulfatase deficiency	OMIM:272200
+10	0.3	Kniest dysplasia	OMIM:156550

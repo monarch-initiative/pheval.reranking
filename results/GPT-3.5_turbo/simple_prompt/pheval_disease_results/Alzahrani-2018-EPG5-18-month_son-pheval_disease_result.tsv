@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	Cockayne syndrome	OMIM:133540
+3	0.75	Coffin-Siris syndrome	OMIM:135900
+4	0.7	Opitz G/BBB syndrome	OMIM:145410
+5	0.6	Klippel-Feil syndrome	OMIM:118100

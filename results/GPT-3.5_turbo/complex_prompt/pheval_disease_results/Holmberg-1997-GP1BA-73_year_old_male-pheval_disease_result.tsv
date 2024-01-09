@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome	OMIM:231200
+2	0.85	Glanzmann thrombasthenia	OMIM:273800
+3	0.8	Gray platelet syndrome	OMIM:139090
+4	0.75	Delta-storage pool disease	OMIM:609404
+5	0.7	Platelet-type von Willebrand disease	OMIM:177820
+6	0.65	May-Hegglin anomaly	OMIM:155100
+7	0.6	Thrombocytopathy 1	OMIM:313900
+8	0.55	Hereditary thrombocytopenia with normal platelets	OMIM:112230
+9	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.45	Thrombocytopenia with beta-thalassemia, X-linked	OMIM:314050
+11	0.4	Thrombocytopenia-2	OMIM:188000

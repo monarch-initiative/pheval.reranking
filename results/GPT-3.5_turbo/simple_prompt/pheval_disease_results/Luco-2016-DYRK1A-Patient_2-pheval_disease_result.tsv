@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Prader-Willi syndrome	OMIM:176270
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.6	Cohen syndrome	OMIM:216550
+5	0.5	Smith-Magenis syndrome	OMIM:182290

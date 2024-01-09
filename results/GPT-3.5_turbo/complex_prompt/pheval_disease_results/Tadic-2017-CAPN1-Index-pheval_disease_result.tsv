@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy	OMIM:603513
+2	0.8	Spastic Ataxia 1	OMIM:609407
+3	0.7	Friedreich Ataxia	OMIM:229300
+4	0.6	Ataxia-Telangiectasia	OMIM:208900
+5	0.5	Syringomyelia	OMIM:186800
+6	0.4	Charcot-Marie-Tooth Disease	OMIM:118200
+7	0.3	Pelizaeus-Merzbacher Disease	OMIM:312080
+7	0.3	ALG13-CDG	OMIM:300776
+9	0.2	Adrenomyeloneuropathy	OMIM:300100
+9	0.2	Atypical Rett Syndrome	OMIM:312750

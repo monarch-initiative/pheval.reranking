@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Emanuel syndrome	OMIM:609029
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Duane-radial ray syndrome	OMIM:607323
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849

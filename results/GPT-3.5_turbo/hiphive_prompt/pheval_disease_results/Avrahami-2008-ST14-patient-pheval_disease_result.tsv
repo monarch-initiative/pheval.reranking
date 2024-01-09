@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Ichthyosiform Erythroderma	OMIM:242100
+2	0.89	Amelogenesis Imperfecta, Hypomaturation Type, III	OMIM:612281
+3	0.88	Amelogenesis Imperfecta, Type IB	OMIM:104500
+4	0.87	Ectodermal Dysplasia 10A, Hypohidrotic/Hair/Nail Type	OMIM:129490
+5	0.85	Rosselli-Gulienetti Syndrome	OMIM:219150
+6	0.84	Congenital Hypotrichosis with Juvenile Macular Dystrophy	OMIM:601553
+7	0.83	Ectodermal Dysplasia 10B, Hypohidrotic/Hair/Tooth/Nail Type	OMIM:129590
+8	0.82	Ectodermal Dysplasia 10C, Hypohidrotic/Hair/Tooth/Nail Type	OMIM:613949
+8	0.82	Hypotrichosis 9	OMIM:615343
+10	0.79	Saethre-Chotzen Syndrome	OMIM:101400

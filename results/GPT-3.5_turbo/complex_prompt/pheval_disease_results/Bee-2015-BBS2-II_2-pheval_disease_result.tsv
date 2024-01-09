@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.85	Alström syndrome	OMIM:203800
+3	0.8	Ciliopathy	OMIM:251300
+4	0.75	Nephronophthisis	OMIM:256100
+5	0.7	Senior-Løken syndrome	OMIM:266900
+6	0.65	Autosomal dominant polycystic kidney disease	OMIM:173900
+7	0.6	Diabetic nephropathy	OMIM:612220
+8	0.55	Alport syndrome	OMIM:301050
+9	0.5	Obesity	OMIM:601665
+10	0.45	Charcot-Marie-Tooth disease type 4B	OMIM:601382

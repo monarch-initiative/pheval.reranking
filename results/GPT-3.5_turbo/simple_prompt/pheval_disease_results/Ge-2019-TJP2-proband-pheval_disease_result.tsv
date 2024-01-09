@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Citrullinemia	OMIM:215700
+2	0.8	Crigler-Najjar syndrome type 1	OMIM:218800
+3	0.7	Crigler-Najjar syndrome type 2	OMIM:606785
+4	0.6	Dubin-Johnson syndrome	OMIM:237500
+5	0.5	Congenital hepatic fibrosis	OMIM:263300
+6	0.4	Alagille syndrome	OMIM:118450
+7	0.3	Glycogen storage disease type 1A	OMIM:232200
+8	0.2	Glycogen storage disease type 1B	OMIM:232220
+9	0.1	Glycogen storage disease type 2	OMIM:232300

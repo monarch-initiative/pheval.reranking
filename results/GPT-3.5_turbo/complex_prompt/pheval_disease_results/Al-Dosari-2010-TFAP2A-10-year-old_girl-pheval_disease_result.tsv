@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.85	Waardenburg syndrome, type 2E	OMIM:611584
+3	0.8	Branchiooculofacial syndrome	OMIM:113620
+4	0.75	Aniridia	OMIM:106210
+5	0.7	Ectodermal dysplasia 6, hair/nail type	OMIM:614931
+6	0.65	Michels syndrome	OMIM:608157
+7	0.6	Townes-Brocks syndrome	OMIM:107480
+8	0.55	Treacher Collins syndrome	OMIM:154500
+9	0.5	Coloboma of macula	OMIM:120430
+10	0.45	Hypohidrotic ectodermal dysplasia	OMIM:305100

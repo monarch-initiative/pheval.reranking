@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.9	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.8	Hemochromatosis	OMIM:235200
+3	0.8	Gilbert syndrome	OMIM:143500
+5	0.7	Glycogen storage disease type IV	OMIM:232500
+5	0.7	Familial dysautonomia	OMIM:223900

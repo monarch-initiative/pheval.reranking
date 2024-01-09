@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.8	Angelman syndrome	OMIM:105830
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.7	Rett syndrome	OMIM:312750
+6	0.65	Noonan syndrome	OMIM:163950
+7	0.6	Cri-du-chat syndrome	OMIM:123450
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Treacher Collins syndrome	OMIM:154500
+10	0.45	Prader-Willi syndrome	OMIM:176270

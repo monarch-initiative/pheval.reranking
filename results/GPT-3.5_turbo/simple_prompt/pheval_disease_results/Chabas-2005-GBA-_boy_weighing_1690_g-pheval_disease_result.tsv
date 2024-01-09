@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Gaucher Disease	OMIM:230800
+2	0.9	Congenital Hypotonia	OMIM:618598
+3	0.8	Platelet disorder, familial, with associated myeloid malignancy	OMIM:601399

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome	OMIM:231200
+2	0.85	May-Hegglin anomaly	OMIM:155100
+3	0.8	Gray platelet syndrome	OMIM:139090
+4	0.75	Hereditary macrothrombocytopenia	OMIM:605432
+5	0.7	Thrombasthenia of Glanzmann and Naegeli	OMIM:273800
+6	0.65	Familial aplasia of the inferior vena cava	OMIM:103650
+7	0.6	Fechtner syndrome	OMIM:153640
+8	0.55	Sebastian syndrome	OMIM:605249
+9	0.5	Hereditary thrombocytopenia with normal platelets	OMIM:273900
+10	0.45	Paris-Trousseau thrombocytopenia	OMIM:188025

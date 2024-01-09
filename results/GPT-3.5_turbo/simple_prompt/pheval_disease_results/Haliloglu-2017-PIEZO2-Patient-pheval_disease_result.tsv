@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.85	Spinal Muscular Atrophy	OMIM:253300
+3	0.8	Congenital Myopathy with Excess of Thin Filaments	OMIM:255320
+4	0.75	Congenital Fiber-Type Disproportion	OMIM:255310
+5	0.7	Becker Muscular Dystrophy	OMIM:300376
+6	0.65	Distal Hereditary Motor Neuropathy Type V	OMIM:600794
+7	0.6	Limb-Girdle Muscular Dystrophy Type 2A	OMIM:253600
+8	0.55	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+9	0.5	Pompe Disease	OMIM:232300
+10	0.45	Marfan Syndrome	OMIM:154700

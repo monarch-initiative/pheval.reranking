@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.6	Kabuki syndrome	OMIM:147920
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Cri-du-chat syndrome	OMIM:123450
+7	0.3	Noonan syndrome	OMIM:163950
+8	0.2	Williams syndrome	OMIM:194050
+9	0.1	Cohen syndrome	OMIM:216550
+10	0.05	Pallister-Killian syndrome	OMIM:601803

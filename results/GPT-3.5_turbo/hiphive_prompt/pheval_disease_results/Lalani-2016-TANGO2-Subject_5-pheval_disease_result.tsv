@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome 3	OMIM:603830
+2	0.92	Hypokalemic Periodic Paralysis, Type 2	OMIM:613345
+3	0.91	Andersen-Tawil Syndrome	OMIM:170390
+4	0.9	Becker Muscular Dystrophy	OMIM:300376
+5	0.89	Timothy Syndrome	OMIM:601005
+6	0.88	Congenital Myopathy, Minicore, With External Ophthalmoplegia	OMIM:255320
+7	0.86	Periodic Paralysis, Potassium-Sensitive	OMIM:170500
+8	0.85	Centronuclear Myopathy 1	OMIM:160150
+9	0.84	Long QT Syndrome 2	OMIM:613688
+10	0.83	Myotonia Congenita, Autosomal Recessive	OMIM:255700

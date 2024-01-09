@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Distal arthrogryposis	OMIM:108120
+2	0.93	Dandy-Walker malformation	OMIM:220200
+3	0.92	Micrognathia	OMIM:117410
+4	0.91	Agenesis of corpus callosum	OMIM:217990
+5	0.88	Ventriculomegaly	OMIM:236640
+6	0.87	Low-set ears	OMIM:601653
+7	0.86	Upslanted palpebral fissure	OMIM:180849
+8	0.85	Hypertelorism	OMIM:145410
+9	0.84	Wide anterior fontanel	OMIM:605089
+10	0.81	Short neck	OMIM:162500

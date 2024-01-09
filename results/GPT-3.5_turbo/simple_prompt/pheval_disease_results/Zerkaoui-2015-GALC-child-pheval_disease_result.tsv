@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Infantile-onset epileptic encephalopathy	OMIM:308350
+2	0.9	Dravet syndrome	OMIM:607208
+3	0.85	Tuberous sclerosis 1	OMIM:191100
+4	0.8	Angelman syndrome	OMIM:105830
+5	0.75	Rett syndrome	OMIM:312750

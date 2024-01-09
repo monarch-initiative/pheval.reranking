@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 4	OMIM:182601
+2	0.93	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+3	0.92	Spastic paraplegia 3A	OMIM:182600
+4	0.9	Amyotrophic lateral sclerosis 1	OMIM:105400
+5	0.88	Muscular dystrophy, Duchenne and Becker types	OMIM:310200
+6	0.86	Amyotrophic lateral sclerosis 2, juvenile	OMIM:205100
+7	0.85	Amyotrophic lateral sclerosis 1, juvenile	OMIM:105400
+8	0.83	Spastic paraplegia 20, autosomal dominant	OMIM:275900
+9	0.81	Amyotrophic lateral sclerosis 1, infantile	OMIM:613435
+10	0.8	Duchenne muscular dystrophy	OMIM:310200

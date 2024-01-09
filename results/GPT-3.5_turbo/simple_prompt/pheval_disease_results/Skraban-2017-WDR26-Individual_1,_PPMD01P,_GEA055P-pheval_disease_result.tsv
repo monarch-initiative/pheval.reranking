@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Proximal spinal muscular atrophy	OMIM:253300
+2	0.8	Spinal muscular atrophy	OMIM:253300
+3	0.7	Global developmental delay	OMIM:618183
+4	0.6	Febrile seizures	OMIM:604352
+5	0.5	Seizures	OMIM:605021
+6	0.4	Gastroesophageal reflux	OMIM:109350
+7	0.3	Failure to thrive	OMIM:601548
+8	0.2	Otitis media	OMIM:166760
+9	0.1	Pectus carinatum	OMIM:601318

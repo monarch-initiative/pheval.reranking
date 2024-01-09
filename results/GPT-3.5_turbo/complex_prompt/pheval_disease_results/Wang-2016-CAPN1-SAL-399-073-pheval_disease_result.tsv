@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia type 2	OMIM:183090
+2	0.8	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+4	0.7	Multiple system atrophy	OMIM:146500
+4	0.7	Spastic paraplegia 7	OMIM:607259
+6	0.6	Familial dysautonomia	OMIM:223900
+6	0.6	Amyotrophic lateral sclerosis	OMIM:105400
+6	0.6	Peroneal muscular atrophy	OMIM:169500
+9	0.5	Autosomal recessive spastic ataxia with leukodystrophy	OMIM:270550
+9	0.5	Dentatorubral pallidoluysian atrophy	OMIM:125370

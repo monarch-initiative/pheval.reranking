@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia type 13	OMIM:605259
+2	0.92	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.88	Spinocerebellar ataxia type 2	OMIM:183090
+4	0.85	Spinocerebellar ataxia type 7	OMIM:164500
+5	0.83	Spinocerebellar ataxia type 17	OMIM:607136
+6	0.8	Hereditary spastic paraplegia type 4	OMIM:182601
+7	0.78	Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia	OMIM:208920
+8	0.76	X-linked intellectual disability, Shashi type	OMIM:300263
+9	0.74	Machado-Joseph disease	OMIM:109150
+10	0.72	Friedreich ataxia	OMIM:229300

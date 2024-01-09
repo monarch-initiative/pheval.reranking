@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.85	Pyruvate dehydrogenase E deficiency	OMIM:312170
+3	0.82	Mitochondrial complex III deficiency	OMIM:124000
+4	0.8	Pyruvate carboxylase deficiency	OMIM:266150
+5	0.78	Methylmalonic acidemia and homocysteinemia, cblC type	OMIM:277400
+6	0.77	Leukoencephalopathy with vanishing white matter	OMIM:603896
+7	0.75	Leigh-like syndrome	OMIM:256000
+8	0.74	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+9	0.73	Pyruvate dehydrogenase E1-beta deficiency	OMIM:312170
+10	0.7	Pyruvate dehydrogenase E2 deficiency	OMIM:312170

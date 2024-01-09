@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.917	Pitt-Hopkins syndrome	OMIM:610954
+2	0.902	Rett syndrome	OMIM:312750
+3	0.896	Angelman syndrome	OMIM:105830
+4	0.889	PTEN hamartoma tumor syndrome	OMIM:601728
+5	0.882	Phelan-McDermid syndrome	OMIM:606232
+6	0.874	22q11.2 deletion syndrome	OMIM:188400
+7	0.868	Kabuki syndrome	OMIM:147920
+8	0.864	Smith-Magenis syndrome	OMIM:182290
+9	0.86	Fragile X syndrome	OMIM:300624
+10	0.856	Williams syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.93	Osteogenesis imperfecta type II	OMIM:166210
+3	0.91	Osteogenesis imperfecta type III	OMIM:259420
+4	0.89	Metaphyseal chondrodysplasia type Schmid	OMIM:156500
+5	0.87	Frontometaphyseal dysplasia	OMIM:305620
+6	0.85	Osteopetrosis, autosomal recessive 2	OMIM:259710
+7	0.83	Crouzon syndrome	OMIM:123500
+8	0.81	Craniofacial-deafness-hand syndrome	OMIM:122880
+9	0.79	Myopia 1	OMIM:160700
+10	0.77	Neurofibromatosis, type 1	OMIM:162200

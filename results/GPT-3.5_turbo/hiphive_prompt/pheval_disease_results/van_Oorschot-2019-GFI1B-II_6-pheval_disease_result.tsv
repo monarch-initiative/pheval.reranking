@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia	OMIM:313900
+2	0.85	Myelofibrosis	OMIM:254450
+3	0.75	Glanzmann thrombasthenia	OMIM:273800
+4	0.7	Bernard-Soulier syndrome	OMIM:231200
+5	0.65	Gray platelet syndrome	OMIM:139090
+6	0.6	Paris-Trousseau thrombocytopenia	OMIM:188025
+7	0.55	May-Hegglin anomaly	OMIM:155100
+8	0.5	Thrombocytopenia 2	OMIM:188000
+9	0.45	Congenital thrombocytopenia 3	OMIM:273900
+10	0.4	Essential thrombocythemia	OMIM:187950

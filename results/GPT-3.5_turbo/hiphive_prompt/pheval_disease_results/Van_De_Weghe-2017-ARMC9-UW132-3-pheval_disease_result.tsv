@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+2	0.96	Congenital Disorder of Glycosylation, Type Ie	OMIM:608036
+2	0.96	Congenital Disorder of Glycosylation, Type IIf	OMIM:603585
+2	0.96	Congenital Disorder of Glycosylation, Type Ih	OMIM:607091
+2	0.96	Charcot-Marie-Tooth Disease, Type 4B2	OMIM:604563
+2	0.96	Optic Atrophy 8	OMIM:616648
+2	0.96	Pontocerebellar Hypoplasia, Type 6	OMIM:611523
+2	0.96	Spinocerebellar Ataxia 13	OMIM:605259
+2	0.96	Developmental Delay with or without Dysmorphic Facies	OMIM:616743
+10	0.95	Leber Congenital Amaurosis 1	OMIM:204000

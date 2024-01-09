@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arnold-Chiari malformation	OMIM:207950
+1	0.9	Micrognathia	OMIM:610536
+1	0.9	Pectus excavatum	OMIM:169300
+4	0.85	Global developmental delay	OMIM:613684
+5	0.8	Microdontia	OMIM:156300
+5	0.8	Clinodactyly	OMIM:122700
+5	0.8	Short hallux	OMIM:304120
+8	0.7	Short nose	OMIM:270400
+8	0.7	Kyphoscoliosis	OMIM:218350
+8	0.7	Hitchhiker thumb	OMIM:190605

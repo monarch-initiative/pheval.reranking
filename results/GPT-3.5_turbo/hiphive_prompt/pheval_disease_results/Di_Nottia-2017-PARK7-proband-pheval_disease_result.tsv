@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hereditary Mixed Polyneuropathy	OMIM:607640
+2	0.88	Autosomal Dominant Deafness 6	OMIM:600965
+3	0.86	Familial Oculomotor Apraxia	OMIM:257550
+4	0.84	Mitochondrial Complex IV Deficiency	OMIM:220110
+5	0.82	Hereditary Motor and Sensory Neuropathy, Type V	OMIM:600361
+6	0.8	Friedreich Ataxia	OMIM:229300
+7	0.78	Autosomal Recessive Spastic Paraplegia Type 66	OMIM:617157
+8	0.76	Parkinson Disease	OMIM:168600
+9	0.74	Primary Lateral Sclerosis 1	OMIM:606353
+10	0.72	Cataract 1, Multiple Types	OMIM:116200

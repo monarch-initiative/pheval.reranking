@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cornelia de Lange syndrome	OMIM:122470
+2	0.89	Opitz G/BBB syndrome	OMIM:300000
+3	0.87	Silver-Russell syndrome	OMIM:180860
+4	0.86	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.83	Meier-Gorlin syndrome	OMIM:224690
+6	0.81	Cohen syndrome	OMIM:216550
+7	0.8	Hutchinson-Gilford progeria syndrome	OMIM:176670
+8	0.76	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.74	Pallister-Killian syndrome	OMIM:601803
+10	0.73	Saethre-Chotzen syndrome	OMIM:101400

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.85	Lewy body dementia	OMIM:127750
+3	0.8	Primary lateral sclerosis	OMIM:611637
+4	0.75	Multiple system atrophy	OMIM:146500
+5	0.7	Normal pressure hydrocephalus	OMIM:236600
+6	0.65	Frontotemporal dementia	OMIM:600274
+7	0.6	Progressive supranuclear palsy	OMIM:260540

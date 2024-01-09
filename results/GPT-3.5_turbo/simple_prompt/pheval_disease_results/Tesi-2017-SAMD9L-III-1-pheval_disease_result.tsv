@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency, X-linked	OMIM:300400
+2	0.8	Common variable immunodeficiency	OMIM:607594
+3	0.7	Ataxia telangiectasia	OMIM:208900
+4	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.5	Hoyeraal-Hreidarsson syndrome	OMIM:300240
+6	0.4	Ataxia-telangiectasia-like disorder	OMIM:604391
+7	0.3	X-linked agammaglobulinemia	OMIM:300755
+8	0.2	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:608971
+9	0.1	Transaldolase deficiency	OMIM:606003
+10	0.05	Niemann-Pick disease type C1	OMIM:257220

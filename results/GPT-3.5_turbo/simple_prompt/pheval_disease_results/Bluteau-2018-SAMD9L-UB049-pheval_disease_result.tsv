@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis congenita	OMIM:305000
+2	0.9	Severe congenital neutropenia	OMIM:202700
+3	0.85	Fanconi anemia	OMIM:227650
+4	0.8	Shwachman-Diamond syndrome	OMIM:260400
+5	0.75	Bernard-Soulier syndrome	OMIM:231200

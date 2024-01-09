@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome, musculocontractural type	OMIM:601776
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.75	Stickler syndrome	OMIM:108300
+4	0.7	Coffin-Lowry syndrome	OMIM:303600
+5	0.65	Ondine's curse	OMIM:209880
+6	0.6	Joubert syndrome	OMIM:213300
+7	0.55	Sotos syndrome	OMIM:117550
+8	0.5	Williams-Beuren syndrome	OMIM:194050
+9	0.45	Fanconi anemia, complementation group L	OMIM:608111
+10	0.4	Kniest dysplasia	OMIM:156550

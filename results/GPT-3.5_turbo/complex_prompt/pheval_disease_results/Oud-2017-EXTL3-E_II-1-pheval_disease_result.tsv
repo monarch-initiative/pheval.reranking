@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Combined oxidative phosphorylation deficiency	OMIM:609060
+2	0.8	Myoclonic epilepsy and ataxia due to potassium channel mutation	OMIM:614559
+2	0.8	Congenital disorder of glycosylation, type Ia	OMIM:212065
+4	0.7	Primary ciliary dyskinesia	OMIM:244400
+4	0.7	Infantile-onset sialic acid storage disorder	OMIM:269920
+6	0.6	Combined immunodeficiency, X-linked	OMIM:312863
+6	0.6	Microcephalic osteodysplastic primordial dwarfism	OMIM:271510
+6	0.6	Bardet-Biedl syndrome	OMIM:209900
+9	0.5	Cartilage-hair hypoplasia	OMIM:250250
+9	0.5	Hypoplastic left heart syndrome	OMIM:241550

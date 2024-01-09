@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ataxia-telangiectasia	OMIM:208900
+2	0.92	Friedreich ataxia	OMIM:229300
+3	0.89	Spinocerebellar ataxia	OMIM:164400
+4	0.87	X-linked sideroblastic anemia	OMIM:300751
+5	0.84	Cystic fibrosis	OMIM:219700
+6	0.82	Congenital disorder of glycosylation	OMIM:607143
+7	0.78	Charcot-Marie-Tooth disease	OMIM:118220
+8	0.76	Joubert syndrome	OMIM:213300
+9	0.72	Familial dysautonomia	OMIM:223900
+10	0.68	Essential tremor	OMIM:190300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Cohen syndrome	OMIM:216550
+3	0.7	CHARGE syndrome	OMIM:214800
+3	0.7	Kabuki syndrome	OMIM:147920
+5	0.6	Floating-Harbor syndrome	OMIM:136140
+6	0.5	Kleefstra syndrome	OMIM:610253
+6	0.5	Cornelia de Lange syndrome	OMIM:122470
+8	0.4	Hallermann-Streiff syndrome	OMIM:234100
+8	0.4	Prader-Willi syndrome	OMIM:176270
+10	0.3	22q11.2 deletion syndrome	OMIM:192430

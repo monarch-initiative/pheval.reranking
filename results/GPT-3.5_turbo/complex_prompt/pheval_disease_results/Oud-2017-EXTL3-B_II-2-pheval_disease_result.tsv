@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Skeletal dysplasia	OMIM:184840
+2	0.8	Eosinophilia	OMIM:131440
+3	0.7	Combined immunodeficiency	OMIM:614840
+3	0.7	Seizures	OMIM:600669
+5	0.6	Microcephaly	OMIM:251200
+5	0.6	Nystagmus	OMIM:310700
+7	0.5	Atrial septal defect	OMIM:108800
+7	0.5	Hypsarrhythmia	OMIM:308350
+9	0.4	Severe combined immunodeficiency	OMIM:202500
+9	0.4	Enlarged uterus	OMIM:221500

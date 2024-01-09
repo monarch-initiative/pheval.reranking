@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly	OMIM:251200
+2	0.91	Global developmental delay	OMIM:614562
+3	0.89	Cerebellar atrophy	OMIM:614561
+4	0.88	Hypoplasia of the corpus callosum	OMIM:217990
+5	0.85	Nystagmus	OMIM:310700
+6	0.84	Optic disc pallor	OMIM:165550
+7	0.83	Hyperintensity of cerebral white matter on MRI	OMIM:614561
+8	0.8	Megalocornea	OMIM:249300

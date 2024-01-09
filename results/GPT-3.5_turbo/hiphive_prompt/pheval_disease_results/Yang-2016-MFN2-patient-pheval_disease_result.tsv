@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth Disease, Type 4C	OMIM:609311
+2	0.93	Charcot-Marie-Tooth Disease, Type 4B1	OMIM:601382
+3	0.91	Familial Dysautonomia	OMIM:223900
+4	0.89	Friedreich Ataxia	OMIM:229300
+5	0.87	Peroxisome Biogenesis Disorder 4B	OMIM:614862
+6	0.85	Peroxisome Biogenesis Disorder 4A	OMIM:614863
+7	0.83	Anemia, Sideroblastic, and Spinocerebellar Ataxia	OMIM:301310
+8	0.81	Dystonia, Dopa-Responsive	OMIM:128230
+9	0.79	Spastic Paraplegia 15, Autosomal Recessive	OMIM:270700
+10	0.77	Paraplegin-Related Mitochondrial DNA Depletion Syndrome, Autosomal Recessive	OMIM:609699

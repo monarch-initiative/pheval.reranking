@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Smith-Magenis syndrome	OMIM:182290
+5	0.5	Angelman syndrome	OMIM:105830
+6	0.4	Fragile X syndrome	OMIM:300624
+7	0.3	Prader-Willi syndrome	OMIM:176270
+8	0.2	Williams syndrome	OMIM:194050
+9	0.1	Kabuki syndrome	OMIM:147920

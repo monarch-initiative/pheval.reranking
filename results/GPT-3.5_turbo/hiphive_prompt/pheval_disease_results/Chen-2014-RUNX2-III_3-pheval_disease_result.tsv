@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+3	0.8	Hyperparathyroidism-jaw tumor syndrome	OMIM:145001
+4	0.75	Pseudohypoparathyroidism type 1A	OMIM:103580
+5	0.7	Achondroplasia	OMIM:100800
+6	0.65	Otopalatodigital syndrome type 2	OMIM:304120
+7	0.6	Acroosteolysis dominant type	OMIM:102550
+8	0.55	Pycnodysostosis	OMIM:265800
+9	0.5	Schinzel-Giedion midface retraction syndrome	OMIM:269150
+10	0.45	Ehlers-Danlos syndrome, classical type	OMIM:130000

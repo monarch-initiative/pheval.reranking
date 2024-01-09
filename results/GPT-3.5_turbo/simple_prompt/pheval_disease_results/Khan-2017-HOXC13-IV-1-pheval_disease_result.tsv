@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Trichothiodystrophy	OMIM:601675
+2	0.85	Hypohidrotic ectodermal dysplasia	OMIM:305100
+3	0.8	Alopecia universalis	OMIM:203655
+4	0.75	Ectodermal dysplasia	OMIM:129700

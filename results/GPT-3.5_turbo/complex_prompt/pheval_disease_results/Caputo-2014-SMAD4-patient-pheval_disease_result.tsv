@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteopetrosis	OMIM:166600
+2	0.8	Freeman-Sheldon syndrome	OMIM:193700
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.6	X-linked intellectual disability with marfanoid habitus	OMIM:309350
+5	0.5	Charcot-Marie-Tooth disease	OMIM:118210
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Beckwith-Wiedemann syndrome	OMIM:130650
+8	0.2	Treacher Collins syndrome	OMIM:154500
+9	0.1	Aarskog-Scott syndrome	OMIM:305400
+10	0.05	Acrofacial dysostosis, Cincinnati type	OMIM:618845

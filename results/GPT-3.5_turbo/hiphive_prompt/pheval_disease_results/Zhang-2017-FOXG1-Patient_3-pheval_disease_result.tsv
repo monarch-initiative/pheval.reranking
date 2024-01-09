@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Rett syndrome	OMIM:312750
+2	0.95	Angelman syndrome	OMIM:105830
+3	0.93	Dravet syndrome	OMIM:607208
+4	0.91	Miller-Dieker syndrome	OMIM:247200
+5	0.88	Pitt-Hopkins syndrome	OMIM:610954
+6	0.86	Lennox-Gastaut syndrome	OMIM:611008
+7	0.84	Trichotillomania	OMIM:613229
+8	0.82	Smith-Magenis syndrome	OMIM:182290
+9	0.8	Kleine-Levin syndrome	OMIM:148840
+10	0.78	Lenz-Majewski hyperostotic dwarfism	OMIM:151050

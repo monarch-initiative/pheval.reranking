@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pachyonychia Congenita 1	OMIM:167200
+2	0.8	Haim-Munk Syndrome	OMIM:245010
+3	0.7	Periodontitis	OMIM:170650
+4	0.6	Gorlin Syndrome	OMIM:109400
+5	0.5	Ectodermal Dysplasia 4, Hair/Nail Type	OMIM:602032

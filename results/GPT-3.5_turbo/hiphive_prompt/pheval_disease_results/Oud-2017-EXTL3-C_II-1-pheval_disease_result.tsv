@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Seckel syndrome 1	OMIM:210600
+2	0.93	Ehlers-Danlos syndrome, progeroid type	OMIM:130070
+3	0.91	Osteogenesis imperfecta type IV	OMIM:166220
+4	0.9	Hyper IgM syndrome due to CD40 deficiency	OMIM:606843
+5	0.88	Cytomegalovirus infection	OMIM:614405
+6	0.86	Klippel-Feil syndrome 2, autosomal recessive	OMIM:214300
+7	0.84	Mannosidosis, alpha, types I and II	OMIM:248500
+8	0.82	Hemochromatosis type 2B	OMIM:613313
+9	0.8	FraX syndrome	OMIM:300624
+10	0.78	LI-COR syndrome	OMIM:613786

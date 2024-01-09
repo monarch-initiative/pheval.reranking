@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Congenital disorder of glycosylation, type Ia	OMIM:212065

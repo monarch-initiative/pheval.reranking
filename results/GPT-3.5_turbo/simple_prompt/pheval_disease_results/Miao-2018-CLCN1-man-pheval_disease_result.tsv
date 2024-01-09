@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital muscular dystrophy	OMIM:254000
+2	0.8	Myotonia congenita	OMIM:160800
+3	0.7	Myotonic dystrophy	OMIM:160900
+4	0.6	Muscle fiber-type disproportion	OMIM:255310
+5	0.5	Benign hyperCKemia	OMIM:123320
+6	0.4	Myoadenylate deaminase deficiency	OMIM:615511
+7	0.3	Mitochondrial myopathy with exercise intolerance	OMIM:500003

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	PLS3-related disorders	OMIM:300131
+2	0.8	HSD17B10 deficiency	OMIM:300438
+3	0.7	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+4	0.6	Hypomyelination with atrophy of the basal ganglia and cerebellum	OMIM:615651
+5	0.5	2-methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency	OMIM:300438

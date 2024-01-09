@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Cockayne syndrome B	OMIM:133540
+4	0.7	Seckel syndrome 1	OMIM:210600
+4	0.7	Rothmund-Thomson syndrome	OMIM:268400
+6	0.6	Boomerang dysplasia	OMIM:112310
+6	0.6	Meier-Gorlin syndrome 1	OMIM:224690
+6	0.6	Brachydactyly	OMIM:113000
+6	0.6	Coffin-Lowry syndrome	OMIM:303600
+6	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400

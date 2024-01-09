@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondylocostal dysostosis 1, autosomal dominant	OMIM:610265
+2	0.85	Multiple epiphyseal dysplasia with miniepiphyses	OMIM:163700
+3	0.8	Stickler syndrome, type I	OMIM:108300
+3	0.8	Brachydactyly, type B2	OMIM:611377
+5	0.75	Osteoglophonic dysplasia	OMIM:166250
+6	0.7	Cleidocranial dysplasia	OMIM:119600
+6	0.7	Robinow syndrome, autosomal dominant	OMIM:616331

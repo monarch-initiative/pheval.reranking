@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation, type Ia	OMIM:212065
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Glycogen storage disease type II	OMIM:232300
+4	0.6	Tuberous sclerosis 1	OMIM:191100
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Pitt-Hopkins syndrome	OMIM:610954
+7	0.3	Cockayne syndrome	OMIM:216400
+8	0.2	Angelman syndrome	OMIM:105830
+9	0.1	Neurofibromatosis type 1	OMIM:162200

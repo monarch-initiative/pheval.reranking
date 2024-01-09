@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130000
+2	0.8	Muscular dystrophy, Duchenne type	OMIM:310200
+3	0.7	Spinal muscular atrophy	OMIM:253300
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Congenital myopathy	OMIM:160500
+6	0.4	Meckel syndrome	OMIM:249000
+7	0.3	Ehlers-Danlos syndrome, kyphoscoliotic form	OMIM:225400
+8	0.2	Arthrogryposis, distal, type 2B	OMIM:601680
+9	0.1	Stickler syndrome	OMIM:108300
+10	0.05	Connective tissue disorder	OMIM:130050

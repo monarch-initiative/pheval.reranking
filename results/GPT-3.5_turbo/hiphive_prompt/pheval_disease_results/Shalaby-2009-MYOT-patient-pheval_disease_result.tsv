@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Centronuclear Myopathy	OMIM:160150
+2	0.91	Myasthenic Syndrome, Congenital, 3C, Slow-Channel	OMIM:616321
+3	0.89	Myasthenia, Familial, 3B	OMIM:601462
+4	0.87	Myasthenia Gravis, Familial	OMIM:254200
+5	0.83	Dystonia, Dopa-Responsive, Due to Sepiapterin Reductase Deficiency	OMIM:612716
+6	0.81	Elhers-Danlos Syndrome, Myopathic Type	OMIM:614350
+7	0.79	Lowe Syndrome	OMIM:309000
+8	0.77	Emery-Dreifuss Muscular Dystrophy 5, Autosomal Dominant	OMIM:612999
+9	0.75	Congenital Myopathy with Excess of Muscle Spindles	OMIM:218040
+10	0.73	Myasthenic Syndrome, Congenital, 8	OMIM:615120

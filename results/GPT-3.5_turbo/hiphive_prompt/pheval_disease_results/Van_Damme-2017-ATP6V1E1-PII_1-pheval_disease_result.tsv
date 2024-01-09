@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.87	Ehlers-Danlos syndrome, classic type	OMIM:130000
+3	0.85	Loeys-Dietz syndrome	OMIM:609192
+4	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.78	Coffin-Siris syndrome	OMIM:135900
+6	0.75	Lowe oculocerebrorenal syndrome	OMIM:309000
+7	0.72	Hyper IgM syndrome	OMIM:308230
+8	0.7	Odontotrichomelic syndrome	OMIM:166250
+9	0.68	Pseudoxanthoma elasticum	OMIM:264800
+10	0.67	Dyssegmental dysplasia, Silverman-Handmaker type	OMIM:214150

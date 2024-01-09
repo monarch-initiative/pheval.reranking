@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgM syndrome	OMIM:308230
+2	0.8	Niemann-Pick disease, type A	OMIM:257200
+2	0.8	Mucopolysaccharidosis Type IIIB	OMIM:252920
+4	0.7	Mucolipidosis III alpha/beta	OMIM:252600
+4	0.7	Mucopolysaccharidosis, MPS-IVB	OMIM:253010

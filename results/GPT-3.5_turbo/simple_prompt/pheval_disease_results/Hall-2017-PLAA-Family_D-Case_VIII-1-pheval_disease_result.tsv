@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Congenital infection	OMIM:614648
+2	0.9	Branchiootorenal syndrome 2	OMIM:610896
+3	0.8	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+4	0.7	Orofaciodigital syndrome IX	OMIM:617562
+5	0.6	Beckwith-Wiedemann syndrome	OMIM:130650

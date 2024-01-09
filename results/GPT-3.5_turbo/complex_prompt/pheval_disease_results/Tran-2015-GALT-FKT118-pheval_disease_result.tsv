@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.8	Gilbert syndrome	OMIM:143500
+3	0.7	Generalized Epilepsy with Febrile Seizures Plus	OMIM:612741
+4	0.6	Neonatal Hepatitis	OMIM:615382
+5	0.5	Infantile Refsum Disease	OMIM:266510
+6	0.4	Zellweger Syndrome	OMIM:214100
+7	0.3	Biotinidase Deficiency	OMIM:253260
+8	0.2	Primary Carnitine Deficiency	OMIM:212140
+9	0.1	Propionic Acidemia	OMIM:606054

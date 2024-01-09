@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Brugada syndrome	OMIM:601144
+2	0.8	Long QT syndrome	OMIM:192500
+3	0.7	Vasovagal syncope	OMIM:176800

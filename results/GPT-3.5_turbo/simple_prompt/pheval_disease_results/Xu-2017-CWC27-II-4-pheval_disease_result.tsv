@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:123100
+2	0.8	Brachydactyly	OMIM:113100
+3	0.7	Rod-cone dystrophy	OMIM:268000
+4	0.6	Pes planus	OMIM:180700
+5	0.5	Hallux valgus	OMIM:142700
+6	0.4	Delayed gross motor development	OMIM:116100
+7	0.3	Delayed speech and language development	OMIM:602081
+8	0.2	Short stature	OMIM:604271
+9	0.1	Multiple cafe-au-lait spots	OMIM:114500
+9	0.1	Absent speech	OMIM:604971

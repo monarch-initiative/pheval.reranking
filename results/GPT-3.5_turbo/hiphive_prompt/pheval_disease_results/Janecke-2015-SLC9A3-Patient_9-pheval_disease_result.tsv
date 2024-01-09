@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diarrhea 1, Secretory Chloride, Congenital	OMIM:214700
+2	0.85	Anemia, Nonspherocytic Hemolytic, Due To Glucosephosphate Isomerase Deficiency	OMIM:614422
+3	0.8	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+4	0.75	Disorders Of Transepithelial Chloride Transport	OMIM:211800
+5	0.7	Hypospadias 1, X-Linked	OMIM:300633
+6	0.65	3-Methylcrotonyl-CoA Carboxylase 1 Deficiency	OMIM:210200
+7	0.6	Fanconi Anemia, Complementation Group J	OMIM:609054
+8	0.55	Aphalangy -ectrodactyly	OMIM:268850
+9	0.5	Cystic Fibrosis	OMIM:219700
+10	0.45	Atransferrinemia	OMIM:209300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spondyloepiphyseal dysplasia	OMIM:184252
+2	0.92	Microcephaly	OMIM:251200
+3	0.89	Severe global developmental delay	OMIM:614325
+4	0.87	Short stature	OMIM:604271
+5	0.86	Global developmental delay	OMIM:618355
+6	0.83	Failure to thrive	OMIM:214750
+7	0.81	Limb undergrowth	OMIM:275350
+8	0.78	Marked delay in bone age	OMIM:112300
+9	0.75	Delayed skeletal maturation	OMIM:127300
+10	0.72	Clinodactyly of the 5th finger	OMIM:123000

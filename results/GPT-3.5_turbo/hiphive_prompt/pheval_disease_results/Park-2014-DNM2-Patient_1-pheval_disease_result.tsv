@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Facioscapulohumeral muscular dystrophy	OMIM:158900
+2	0.92	Limb-girdle muscular dystrophy type 2G	OMIM:601954
+3	0.9	Limb-girdle muscular dystrophy type 1G	OMIM:609115
+4	0.85	Spinal muscular atrophy with respiratory distress type 1	OMIM:610476
+5	0.82	Distal myopathy, Welander type	OMIM:604454
+6	0.8	Facioscapulohumeral dystrophy 1	OMIM:158900
+7	0.78	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:605382
+8	0.75	Emery-Dreifuss muscular dystrophy 2, autosomal dominant	OMIM:181350
+9	0.7	Bethlem myopathy	OMIM:158810
+10	0.65	Glycogen storage disease type 2	OMIM:232300

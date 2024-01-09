@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epilepsy, Idiopathic Generalized 12	OMIM:614847
+2	0.94	Epilepsy, Myoclonic, 7	OMIM:616187
+3	0.92	Congenital Disorder of Glycosylation, Type IX	OMIM:615597
+4	0.91	Epilepsy, Idiopathic Generalized 13	OMIM:616685
+5	0.9	Epilepsy, Idiopathic Generalized 15	OMIM:614847
+6	0.89	Charcot-Marie-Tooth Disease, Axonal, Type 2J	OMIM:614464
+7	0.88	Charcot-Marie-Tooth Disease, Axonal, Type 2A1	OMIM:609260
+8	0.87	Congenital Disorder of Glycosylation, Type IIe	OMIM:607091
+9	0.86	Mowat-Wilson Syndrome	OMIM:235730
+10	0.85	Epileptic Encephalopathy, Early Infantile, 44	OMIM:617132

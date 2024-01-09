@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Branchiootorenal syndrome	OMIM:113650
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Cohen syndrome	OMIM:216550
+5	0.5	Smith-Magenis syndrome	OMIM:182290
+6	0.4	Kabuki syndrome	OMIM:147920
+7	0.3	Fragile X syndrome	OMIM:300624
+8	0.2	Cockayne syndrome	OMIM:216400
+9	0.1	Treacher Collins syndrome	OMIM:154500
+10	0.05	Smith-Lemli-Opitz syndrome	OMIM:270400

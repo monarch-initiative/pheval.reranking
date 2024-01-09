@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.7	Coffin-Siris syndrome	OMIM:135900
+3	0.6	Rothmund-Thomson syndrome	OMIM:268400
+3	0.6	Ataxia-telangiectasia syndrome	OMIM:208900
+5	0.5	Seckel syndrome	OMIM:210600

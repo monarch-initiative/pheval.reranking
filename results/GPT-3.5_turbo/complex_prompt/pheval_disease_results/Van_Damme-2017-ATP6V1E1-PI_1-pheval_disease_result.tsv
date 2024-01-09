@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Ehlers-Danlos syndrome	OMIM:130000
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Williams syndrome	OMIM:194050
+6	0.4	Loeys-Dietz syndrome	OMIM:609192
+7	0.3	Progeria	OMIM:176670
+8	0.2	Cornelia de Lange syndrome	OMIM:122470
+9	0.1	Turner syndrome	OMIM:313850

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Osteogenesis imperfecta	OMIM:166200
+3	0.8	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+4	0.75	Osteopetrosis, autosomal dominant 1	OMIM:607634
+5	0.7	Osteopetrosis, autosomal recessive 1	OMIM:259700
+6	0.65	Dentinogenesis imperfecta	OMIM:125490
+7	0.6	Pycnodysostosis	OMIM:265800
+8	0.55	Coffin-Lowry syndrome	OMIM:303600
+9	0.5	Achondrogenesis, type II or hypochondrogenesis	OMIM:200610
+10	0.45	Achondroplasia	OMIM:100800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+2	0.8	Piezogenic pedal papules	OMIM:602593
+3	0.7	Marfan syndrome	OMIM:154700
+3	0.7	Joint hypermobility syndrome	OMIM:130020
+5	0.6	Ehlers-Danlos syndrome, classical type	OMIM:130000
+5	0.6	Osteogenesis imperfecta	OMIM:166200
+7	0.5	Connective tissue disorder	OMIM:130000
+8	0.4	Hypermobile Ehlers-Danlos syndrome/vascular-like phenotype	OMIM:225400
+8	0.4	Joint dislocation	OMIM:143091
+10	0.3	Generalized joint laxity	OMIM:130020

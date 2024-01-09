@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.8	Arthrogryposis, distal, type 5	OMIM:108145
+3	0.7	Pierre Robin sequence	OMIM:261800
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+6	0.4	CHARGE syndrome	OMIM:214800
+7	0.3	Congenital knee dislocation	OMIM:208250
+8	0.2	Crouzon syndrome	OMIM:123500
+9	0.1	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.05	Ethylmalonic encephalopathy	OMIM:602473

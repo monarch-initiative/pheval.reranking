@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	X-linked hydrocephalus	OMIM:307000
+2	0.8	Hypophosphatasia	OMIM:241500
+3	0.7	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+4	0.6	Creatine phosphokinase, elevated serum	OMIM:123320
+5	0.5	Pituitary hormone deficiency, combined, 3	OMIM:221750
+6	0.4	Intellectual disability	OMIM:240400

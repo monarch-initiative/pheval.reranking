@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Feingold syndrome 2	OMIM:614326
+2	0.95	Pontocerebellar hypoplasia type 13	OMIM:616287
+3	0.92	Spinal muscular atrophy with respiratory distress type 1	OMIM:614748
+4	0.91	Severe intellectual disability - epilepsy - anal anomalies - distal phalangeal hypoplasia	OMIM:617527
+5	0.88	Oculotrichodysplasia	OMIM:601953
+6	0.86	Progressive myoclonus epilepsy 3	OMIM:611726
+7	0.84	Peroxisome biogenesis disorder 11A	OMIM:614860
+8	0.82	Osteoporosis with pseudoglioma	OMIM:259770
+9	0.8	Arthrogryposis, distal, type 8	OMIM:178110
+10	0.78	Peripheral neuropathy, myopia, and deafness	OMIM:614607

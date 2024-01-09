@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 4B1	OMIM:601382
+2	0.85	Charcot-Marie-Tooth disease, type 4B2	OMIM:605589
+3	0.8	Charcot-Marie-Tooth disease, type 4B3	OMIM:615284
+4	0.75	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+5	0.7	Dysautonomia, familial	OMIM:223900
+6	0.65	Hereditary sensory and autonomic neuropathy, type 2	OMIM:201300

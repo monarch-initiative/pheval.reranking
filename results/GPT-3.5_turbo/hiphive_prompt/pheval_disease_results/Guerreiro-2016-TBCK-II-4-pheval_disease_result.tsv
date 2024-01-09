@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.75	Rett syndrome	OMIM:312750
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Angelman syndrome	OMIM:105830
+6	0.55	Alpha-thalassemia mental retardation syndrome	OMIM:301040
+7	0.5	Cri-du-chat syndrome	OMIM:123450
+8	0.45	Smith-Magenis syndrome	OMIM:182290
+9	0.4	1p36 deletion syndrome	OMIM:607872
+10	0.35	Phelan-McDermid syndrome	OMIM:606232

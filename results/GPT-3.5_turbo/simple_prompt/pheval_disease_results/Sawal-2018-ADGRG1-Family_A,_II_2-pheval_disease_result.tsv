@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria, anterior to posterior gradient	OMIM:611041
+2	0.8	Global developmental delay	OMIM:615634
+3	0.7	Delayed speech and language development	OMIM:608411
+4	0.6	Generalized tonic-clonic seizures	OMIM:613078

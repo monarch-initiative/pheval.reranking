@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis	OMIM:191100
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Tuberous sclerosis-1	OMIM:191100
+4	0.6	Tuberous sclerosis-2	OMIM:613254
+5	0.5	Familial angiofibromas	OMIM:600796
+6	0.4	Tuberous sclerosis complex	OMIM:191100
+7	0.3	Fragile X syndrome	OMIM:300624
+8	0.2	Neurofibromatosis type 2	OMIM:101000
+9	0.1	PTEN hamartoma tumor syndrome	OMIM:158350
+10	0.05	Tuberous sclerosis 1	OMIM:191100

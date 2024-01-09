@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Urea cycle disorders	OMIM: 238970
+2	0.8	Hypokalemic periodic paralysis	OMIM: 170400
+3	0.7	McArdle disease	OMIM: 232600

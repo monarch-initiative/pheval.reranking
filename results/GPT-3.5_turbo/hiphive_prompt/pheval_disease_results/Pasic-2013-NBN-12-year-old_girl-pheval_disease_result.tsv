@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Comel-Netherton syndrome	OMIM:214100
+2	0.86	Sebaceous gland carcinoma	OMIM:603086
+3	0.84	Primary ciliary dyskinesia	OMIM:244400
+4	0.82	Netherton syndrome	OMIM:256500
+5	0.81	Incontinentia pigmenti	OMIM:308300
+6	0.8	Ectodermal dysplasia	OMIM:305100
+7	0.79	Kleefstra syndrome	OMIM:610253
+8	0.78	Congenital disorder of glycosylation	OMIM:605515
+9	0.77	Conjunctivitis	OMIM:120200
+10	0.76	Hyper IgM syndrome	OMIM:308230

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous Sclerosis	OMIM:191100
+2	0.85	Cowden Syndrome	OMIM:158350
+3	0.82	Peutz-Jeghers Syndrome	OMIM:175200
+4	0.8	Familial Adenomatous Polyposis	OMIM:175100
+5	0.78	Neurofibromatosis Type 1	OMIM:162200
+6	0.77	Gorlin Syndrome	OMIM:109400
+7	0.76	Carney Complex	OMIM:160980
+8	0.73	McCune-Albright Syndrome	OMIM:174800
+9	0.71	Familial Multiple Trichoepithelioma	OMIM:601606
+10	0.7	Legius Syndrome	OMIM:611431

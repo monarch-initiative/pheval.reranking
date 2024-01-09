@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	17-beta hydroxysteroid dehydrogenase 3 deficiency	OMIM:264300
+3	0.7	3-Beta-Hydroxysteroid Dehydrogenase Deficiency	OMIM:201810
+4	0.6	5-Alpha-Reductase Deficiency	OMIM:264600
+5	0.5	7-Dehydrocholesterol Reductase Deficiency	OMIM:270400

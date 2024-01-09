@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spinal muscular atrophy, type 3	OMIM:253400
+2	0.95	Duchenne muscular dystrophy	OMIM:310200
+3	0.9	Myasthenia gravis	OMIM:254200
+4	0.85	Amyotrophic lateral sclerosis, type 1	OMIM:105400
+5	0.8	Friedreich ataxia	OMIM:229300
+6	0.75	Autosomal dominant nocturnal frontal lobe epilepsy	OMIM:600513
+7	0.7	Parkinson disease	OMIM:168600
+8	0.65	Autosomal dominant limb-girdle muscular dystrophy type 1F	OMIM:608423
+9	0.6	Mitochondrial myopathy with epilepsy	OMIM:500003
+10	0.55	Myotonic dystrophy type 1	OMIM:160900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson syndrome	OMIM:235730
+2	0.85	Peroxisome biogenesis disorder 1B	OMIM:601539
+3	0.8	Rett syndrome	OMIM:312750
+4	0.75	Phelan-McDermid syndrome	OMIM:606232
+5	0.7	Angelman syndrome	OMIM:105830
+6	0.65	Fragile X syndrome	OMIM:300624
+7	0.6	Salla disease	OMIM:604369
+8	0.55	Pontocerebellar hypoplasia type 6	OMIM:611523
+9	0.5	Acrocallosal syndrome	OMIM:200990
+10	0.45	Pitt-Hopkins-like syndrome 2	OMIM:617763

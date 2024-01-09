@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.85	Joubert syndrome	OMIM:213300
+3	0.8	Alström syndrome	OMIM:203800
+4	0.75	Senior-Løken syndrome	OMIM:266900
+5	0.7	Meckel syndrome	OMIM:249000
+6	0.65	Leber congenital amaurosis	OMIM:204000
+7	0.6	Cohen syndrome	OMIM:216550

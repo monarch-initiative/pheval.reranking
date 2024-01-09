@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation, type IIf	OMIM:603585
+2	0.8	Multiple sulfatase deficiency	OMIM:272200
+3	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.6	Immunodeficiency with hyper-IgM, type 1	OMIM:308230
+5	0.5	Neutropenia, severe congenital	OMIM:202700

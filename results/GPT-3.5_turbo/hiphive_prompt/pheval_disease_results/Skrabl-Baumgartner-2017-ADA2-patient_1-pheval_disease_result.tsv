@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.85	Rheumatoid arthritis	OMIM:180300
+3	0.8	Temporal arteritis	OMIM:187360
+4	0.75	Crohn's disease	OMIM:266600
+5	0.7	Polymyalgia rheumatica	OMIM:605767
+6	0.65	Multiple sclerosis	OMIM:126200
+7	0.6	Cogan syndrome	OMIM:303120
+8	0.55	Giant cell arteritis	OMIM:187360
+9	0.5	Polyarteritis nodosa	OMIM:600983
+10	0.45	Vasculitis	OMIM:615688

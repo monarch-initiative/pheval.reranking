@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Familial hypercholesterolemia	OMIM:143890
+2	0.89	Congenital disorder of glycosylation, type Ia	OMIM:212065
+3	0.85	Usher syndrome type 1F	OMIM:605472
+4	0.84	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.81	Mowat-Wilson syndrome	OMIM:235730
+6	0.8	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.78	Cohen syndrome	OMIM:216550
+8	0.76	Aicardi-Goutières syndrome	OMIM:225750
+9	0.75	CHARGE syndrome	OMIM:214800
+10	0.74	Congenital disorder of glycosylation, type Ie	OMIM:608799

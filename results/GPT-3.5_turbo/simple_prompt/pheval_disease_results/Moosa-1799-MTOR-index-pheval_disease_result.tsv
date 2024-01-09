@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cowden syndrome	OMIM:158350
+2	0.8	Cockayne syndrome	OMIM:133540
+3	0.7	Autosomal dominant polycystic kidney disease	OMIM:173900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Congenital myasthenic syndromes with tubular aggregates	OMIM:617045
+2	0.95	Congenital myasthenic syndrome	OMIM:601462
+3	0.91	Myasthenic syndrome, congenital, 19	OMIM:617143
+4	0.85	Myasthenia gravis	OMIM:254200
+5	0.82	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency	OMIM:616441
+6	0.78	Myasthenic syndrome, congenital, 10, associated with acetylcholinesterase deficiency	OMIM:254300
+7	0.75	Congenital myasthenic syndrome with episodic apnea	OMIM:616720
+8	0.72	Myasthenic syndrome, congenital, 5	OMIM:610542
+9	0.68	Myasthenic syndrome, congenital, 14	OMIM:616224
+10	0.65	Myasthenic syndrome, congenital, 28, presynaptic	OMIM:616720

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Jervell and Lange-Nielsen syndrome	OMIM:220400
+2	0.92	Usher syndrome, type 3	OMIM:276902
+3	0.88	Waardenburg syndrome, type 2A	OMIM:193510
+4	0.86	Waardenburg syndrome, type 2D	OMIM:608890
+5	0.85	Mohr-Tranebjaerg syndrome	OMIM:304700
+6	0.84	Usher syndrome, type I	OMIM:276900
+7	0.82	Usher syndrome, type 2	OMIM:276901
+8	0.81	Branchiootic syndrome 1	OMIM:602588
+9	0.79	Pendred syndrome	OMIM:274600
+10	0.77	Enlarged vestibular aqueduct	OMIM:600791

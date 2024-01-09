@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Johanson-Blizzard syndrome	OMIM:243800
+2	0.85	Cockayne syndrome	OMIM:216400
+3	0.8	Seckel syndrome 1	OMIM:210600
+4	0.75	Nance-Horan syndrome	OMIM:302350
+5	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.65	Craniofrontonasal dysplasia	OMIM:304110
+7	0.6	Coffin-Lowry syndrome	OMIM:303600
+8	0.55	Opitz G/BBB syndrome	OMIM:145410
+9	0.5	Cleidocranial dysplasia	OMIM:119600
+10	0.45	Cornelia de Lange syndrome	OMIM:122470

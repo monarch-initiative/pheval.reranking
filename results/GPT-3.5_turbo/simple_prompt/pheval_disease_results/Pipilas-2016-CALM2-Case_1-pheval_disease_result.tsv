@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Left ventricular noncompaction	OMIM:604169
+2	0.9	Prolonged QTc interval	OMIM:609629
+3	0.8	Sinus bradycardia	OMIM:609629
+4	0.7	Atrioventricular block	OMIM:609629

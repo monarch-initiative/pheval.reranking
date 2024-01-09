@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+2	0.75	Noonan Syndrome	OMIM:163950
+3	0.6	Juvenile Nephrocalcinosis	OMIM:605220
+4	0.3	Cutis Laxa	OMIM:123.png

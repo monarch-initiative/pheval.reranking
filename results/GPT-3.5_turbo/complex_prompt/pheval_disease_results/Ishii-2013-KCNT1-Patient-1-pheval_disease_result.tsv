@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 3	OMIM:609304
+2	0.8	Epileptic encephalopathy, early infantile, 6	OMIM:607208
+3	0.7	Epilepsy, childhood absence, susceptibility to, 1	OMIM:600131
+4	0.6	Generalized epilepsy with febrile seizures plus, type 2	OMIM:604233
+5	0.5	Epileptic encephalopathy, early infantile, 13	OMIM:614558
+6	0.4	Epileptic encephalopathy, early infantile, 9	OMIM:300088
+7	0.3	Epileptic encephalopathy, early infantile, 2	OMIM:300672
+8	0.2	Developmental delay with hypotonia, epileptic seizures, and ataxia	OMIM:614558
+9	0.1	Hypotonia, infantile, with psychomotor retardation and characteristic facies 1	OMIM:615419

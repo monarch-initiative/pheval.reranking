@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Kyphoscoliosis	OMIM:218600
+2	0.9	Muscle weakness	OMIM:160300
+3	0.8	Neck muscle weakness	OMIM:613954
+4	0.7	High palate	OMIM:614136
+5	0.6	Gowers sign	OMIM:255600
+6	0.5	Breech presentation	OMIM:601462
+7	0.4	Delayed ability to walk	OMIM:604668
+8	0.3	Abnormal nerve conduction velocity	OMIM:601278
+9	0.2	Knee flexion contracture	OMIM:208100
+10	0.1	Muscle fibrillation	OMIM:605377
+10	0.1	Intellectual disability	OMIM:616809
+10	0.1	Respiratory insufficiency due to muscle weakness	OMIM:610772

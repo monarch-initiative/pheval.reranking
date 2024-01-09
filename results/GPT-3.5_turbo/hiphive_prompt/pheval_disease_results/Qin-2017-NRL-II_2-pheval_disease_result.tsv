@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa	OMIM:268000
+2	0.92	Usher syndrome type 2A	OMIM:276901
+3	0.89	Usher syndrome type 1F	OMIM:602083
+4	0.86	Rod-cone dystrophy	OMIM:268050
+5	0.82	Leber congenital amaurosis	OMIM:204000
+6	0.8	Cone-rod dystrophy	OMIM:120970
+7	0.75	Senior-Loken syndrome	OMIM:606995
+8	0.72	Retinal dystrophy	OMIM:312612
+9	0.68	Autosomal recessive retinitis pigmentosa	OMIM:268000
+10	0.65	Cone dystrophy	OMIM:120800

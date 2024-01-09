@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple Epiphyseal Dysplasia	OMIM:132400
+2	0.8	Camptodactyly-Arthropathy-Coxa Vara-Pericarditis Syndrome	OMIM:208250
+3	0.7	Fragile X Syndrome	OMIM:300624
+4	0.6	Rett Syndrome	OMIM:312750
+5	0.5	Prader-Willi Syndrome	OMIM:176270
+6	0.4	Angelman Syndrome	OMIM:105830
+7	0.3	Cornelia de Lange Syndrome	OMIM:122470
+8	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Growth Hormone Deficiency	OMIM:262600
+10	0.05	Kabuki Syndrome	OMIM:147920

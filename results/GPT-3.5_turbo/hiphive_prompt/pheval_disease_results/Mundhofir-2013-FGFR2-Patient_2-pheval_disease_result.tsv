@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Saethre-Chotzen syndrome	OMIM:101400
+2	0.93	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+3	0.91	Pfeiffer syndrome	OMIM:101600
+4	0.89	Jackson-Weiss syndrome	OMIM:123150
+5	0.88	Apert syndrome	OMIM:101200
+6	0.86	Acrocephalosyndactyly type I	OMIM:101200
+7	0.84	Acrocephalosyndactyly type III	OMIM:101200
+8	0.82	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+9	0.8	Cleidocranial dysplasia	OMIM:119600
+10	0.78	Gorlin-Chaudhry-Moss syndrome	OMIM:233500

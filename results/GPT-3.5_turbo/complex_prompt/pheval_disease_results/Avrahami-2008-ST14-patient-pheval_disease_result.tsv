@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Netherton syndrome	OMIM:256500
+2	0.8	Ichthyosis vulgaris	OMIM:146700
+2	0.8	Atrichia with papular lesions	OMIM:209500
+4	0.7	Hypotrichosis 8	OMIM:278150
+5	0.6	Ichthyosis, Harlequin type	OMIM:242500
+5	0.6	Trichorrhexis invaginata	OMIM:190320
+7	0.5	Pili torti	OMIM:261900
+7	0.5	Ectodermal dysplasia 4, hair/nail type	OMIM:602032
+9	0.4	Ankyloblepharon-ectodermal defects-cleft lip/palate syndrome	OMIM:106260
+9	0.4	Hidrotic ectodermal dysplasia	OMIM:601375

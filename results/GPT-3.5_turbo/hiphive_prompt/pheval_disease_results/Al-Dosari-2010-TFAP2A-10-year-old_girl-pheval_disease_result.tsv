@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.8	CHARGE syndrome	OMIM:214800
+3	0.75	Axenfeld-Rieger syndrome	OMIM:180500
+4	0.72	Marfan syndrome	OMIM:154700
+5	0.7	Peters plus syndrome	OMIM:261540
+6	0.68	Alport syndrome	OMIM:301050
+7	0.65	Lowe syndrome	OMIM:309000
+8	0.6	Branchiooculofacial syndrome	OMIM:113620
+9	0.58	Fraser syndrome	OMIM:219000
+10	0.55	Hirschsprung disease	OMIM:142623

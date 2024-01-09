@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyperphosphatasia with Mental Retardation Syndrome 2	OMIM:614749
+2	0.85	Thyroid Hormone Resistance, Generalized, Autosomal Dominant	OMIM:188570
+3	0.8	Robinow Syndrome, Autosomal Dominant 1	OMIM:180700
+4	0.75	Hypochondroplasia	OMIM:146000
+5	0.7	Stickler Syndrome, Type III	OMIM:184840
+6	0.65	Laron Syndrome	OMIM:262500
+7	0.6	Brachydactyly-Syndactyly Syndrome	OMIM:610713
+8	0.55	Multiple Epiphyseal Dysplasia, Autosomal Recessive	OMIM:226900
+9	0.5	Multiple Epiphyseal Dysplasia, Dominant	OMIM:132400
+10	0.45	Mucopolysaccharidosis Type IVA	OMIM:253000

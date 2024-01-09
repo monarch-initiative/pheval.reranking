@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 1	OMIM:164400
+2	0.8	Pontocerebellar hypoplasia type 2A	OMIM:277470
+3	0.7	Spondylocostal dysostosis 1, autosomal recessive	OMIM:277300
+4	0.6	Oculopalatocerebral syndrome	OMIM:257910
+5	0.5	Congenital corneal opacities, corneal clouding, and absent uridine 5'-phosphate synthase	OMIM:236710
+6	0.4	Chromosome Xp11.22 duplication syndrome	OMIM:300706
+7	0.3	Autosomal dominant deafness 44	OMIM:616165
+8	0.2	Schneckenbecken dysplasia	OMIM:269250
+9	0.1	Pyruvate dehydrogenase E2 deficiency	OMIM:245348

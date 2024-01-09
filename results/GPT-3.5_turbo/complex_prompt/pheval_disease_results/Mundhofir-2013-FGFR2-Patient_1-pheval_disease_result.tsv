@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Noonan syndrome	OMIM:163950
+3	0.7	Costello syndrome	OMIM:218040
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Cohen syndrome	OMIM:216550
+6	0.4	Apert syndrome	OMIM:101200
+7	0.3	Carpenter syndrome	OMIM:201000
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Saethre-Chotzen syndrome	OMIM:101400
+9	0.1	Pfeiffer syndrome	OMIM:101600

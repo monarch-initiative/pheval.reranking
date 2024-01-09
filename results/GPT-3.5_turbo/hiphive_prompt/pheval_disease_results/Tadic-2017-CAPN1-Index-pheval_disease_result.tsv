@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 14	OMIM:605361
+2	0.86	Spinocerebellar ataxia type 14, autosomal recessive	OMIM:615386
+3	0.85	Spinocerebellar ataxia type 31	OMIM:613909
+4	0.8	Spinocerebellar ataxia type 15/16	OMIM:613718
+5	0.75	Meier-Gorlin syndrome 7	OMIM:617063
+6	0.72	Pontocerebellar hypoplasia type 2A	OMIM:277470
+7	0.7	Mental retardation, autosomal recessive 14	OMIM:614020
+8	0.68	Spinocerebellar ataxia type 12	OMIM:604326
+9	0.67	Spinocerebellar ataxia type 35	OMIM:613908
+10	0.66	Xeroderma pigmentosum, variant type	OMIM:278750

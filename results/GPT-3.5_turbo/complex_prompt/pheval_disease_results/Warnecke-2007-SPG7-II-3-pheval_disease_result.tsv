@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich Ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia 1	OMIM:164400
+3	0.7	Hereditary Spastic Paraplegia	OMIM:600363
+4	0.6	Ataxia with Oculomotor Apraxia	OMIM:208920
+5	0.5	Autosomal Dominant Cerebellar Ataxia	OMIM:125150
+6	0.4	Multiple System Atrophy	OMIM:146500
+7	0.3	X-Linked Spinocerebellar Ataxia	OMIM:302500
+8	0.2	Vitamin B12 Deficiency	OMIM:261100
+9	0.1	CANVAS Syndrome	OMIM:614575

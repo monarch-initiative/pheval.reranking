@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta	OMIM:104500
+2	0.8	Dentinogenesis imperfecta	OMIM:125490
+3	0.75	Hypohidrotic ectodermal dysplasia	OMIM:305100
+4	0.7	Oculodentodigital dysplasia	OMIM:164200
+5	0.65	Taurodontism	OMIM:272350
+6	0.6	X-linked hypohidrotic ectodermal dysplasia	OMIM:305100
+7	0.55	Anhidrotic ectodermal dysplasia	OMIM:305100
+8	0.5	Ectodermal dysplasia	OMIM:305100
+9	0.45	Trichodentoosseous syndrome	OMIM:190320
+10	0.4	Keratoderma, Palmoplantar, Papillon-Lefevre Type	OMIM:245000

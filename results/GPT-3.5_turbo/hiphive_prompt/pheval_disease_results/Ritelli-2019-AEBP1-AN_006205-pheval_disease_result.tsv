@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.955	Ehlers-Danlos syndrome, classical type	OMIM:130000
+2	0.945	Marfan syndrome	OMIM:154700
+3	0.94	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+4	0.937	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+5	0.925	Stickler syndrome	OMIM:108300
+6	0.922	Lumbar disc herniation	OMIM:603932
+7	0.921	Joint hypermobility syndrome	OMIM:130020
+8	0.92	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+9	0.915	Dermatosparaxis Ehlers-Danlos syndrome	OMIM:225410
+10	0.91	Loeys-Dietz syndrome	OMIM:609192

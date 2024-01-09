@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+3	0.7	Weill-Marchesani syndrome	OMIM:608328
+4	0.6	Shprintzen-Goldberg syndrome	OMIM:182212
+5	0.5	Loeys-Dietz syndrome	OMIM:609192
+6	0.4	Marfanoid habitus with microcephaly and glomerulopathy	OMIM:609056
+7	0.3	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+8	0.2	Familial aortic dissection	OMIM:607087
+9	0.1	Pseudoxanthoma elasticum	OMIM:264800
+10	0.05	Acromegaly	OMIM:102200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital heart disease with or without mitochondrial respiratory chain disease	OMIM:251880
+2	0.94	Congenital disorder of glycosylation, type IIa	OMIM:607091
+3	0.92	Mental retardation, X-linked, syndromic, Claes-Jensen type	OMIM:300534
+4	0.91	Fibrochondrogenesis 1	OMIM:228520
+5	0.89	Kniest dysplasia	OMIM:156550
+6	0.88	Oculofaciocardiodental syndrome	OMIM:300166
+7	0.87	Ossification of the posterior longitudinal ligament of spine	OMIM:602475
+8	0.86	Autosomal recessive spastic ataxia with leukoencephalopathy	OMIM:270550
+9	0.85	Duane retraction syndrome 2	OMIM:604356
+10	0.84	Diastrophic dysplasia	OMIM:222600

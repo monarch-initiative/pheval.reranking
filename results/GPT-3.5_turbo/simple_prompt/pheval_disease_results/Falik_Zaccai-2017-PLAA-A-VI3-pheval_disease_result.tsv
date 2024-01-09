@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+2	0.9	Nonketotic Hyperglycinemia	OMIM:605899
+3	0.85	Infantile-onset Pompe Disease	OMIM:232300
+4	0.8	Multiple Carboxylase Deficiency	OMIM:253270
+5	0.75	Peroxisome Biogenesis Disorder 1A	OMIM:214100

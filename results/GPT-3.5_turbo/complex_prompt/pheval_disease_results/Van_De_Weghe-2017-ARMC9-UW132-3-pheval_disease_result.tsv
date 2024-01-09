@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Meckel syndrome	OMIM:249000

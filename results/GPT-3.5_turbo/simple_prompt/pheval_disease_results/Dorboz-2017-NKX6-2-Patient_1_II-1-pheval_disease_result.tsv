@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sjogren-Larsson syndrome	OMIM:270200
+2	0.8	Phenylketonuria	OMIM:261600
+3	0.7	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.6	L-2-hydroxyglutaric aciduria	OMIM:236792
+5	0.5	X-linked creatine transporter deficiency	OMIM:300352
+6	0.4	Glutaric acidemia type 1	OMIM:231670
+7	0.3	Methylmalonic acidemia	OMIM:251000
+8	0.2	Leigh syndrome	OMIM:256000
+9	0.1	Ataxia with oculomotor apraxia type 1	OMIM:208920

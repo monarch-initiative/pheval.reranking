@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis complex	OMIM:191100
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.6	PTEN hamartoma tumor syndrome	OMIM:158350
+5	0.5	Tuberous sclerosis complex	OMIM:191100
+6	0.4	Neurofibromatosis type 2	OMIM:101000
+7	0.3	Giant cell astrocytoma	OMIM:607341
+8	0.2	Cowden syndrome	OMIM:158350
+9	0.1	Phakomatosis pigmentovascularis	OMIM:203400
+10	0.05	Hypomelanosis of Ito	OMIM:300337

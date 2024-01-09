@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Sepsis	OMIM:
+2	0.9	Fetal distress	OMIM:
+3	0.8	Hyperreflexia	OMIM:
+4	0.7	Short stature	OMIM:
+5	0.6	Erythroderma	OMIM:
+6	0.5	Global developmental delay	OMIM:
+7	0.4	Oligoclonal T cell expansion	OMIM:
+8	0.3	Generalized-onset seizure	OMIM:
+9	0.2	Disproportionate short-limb short stature	OMIM:
+10	0.1	Opisthotonus	OMIM:

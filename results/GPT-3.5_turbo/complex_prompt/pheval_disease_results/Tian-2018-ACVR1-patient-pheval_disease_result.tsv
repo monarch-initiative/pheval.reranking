@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fibrodysplasia ossificans progressiva	OMIM:135100
+2	0.8	Paget disease of bone	OMIM:602080
+3	0.7	Osteomalacia	OMIM:259660
+4	0.6	Hypophosphatasia	OMIM:241500
+5	0.5	Ankylosing spondylitis	OMIM:106300
+6	0.4	Rheumatoid arthritis	OMIM:180300
+7	0.3	Multiple myeloma	OMIM:254500
+8	0.2	Hypophosphatemic rickets	OMIM:241520
+9	0.1	Hyperparathyroidism	OMIM:145000

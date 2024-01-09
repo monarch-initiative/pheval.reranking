@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Cranioectodermal dysplasia	OMIM:218330
+3	0.7	Weill-Marchesani syndrome	OMIM:277600
+4	0.6	Beals syndrome	OMIM:121050
+5	0.5	Bruck syndrome	OMIM:259450
+6	0.4	Marfanoid habitus with skeletal anomalies	OMIM:616382

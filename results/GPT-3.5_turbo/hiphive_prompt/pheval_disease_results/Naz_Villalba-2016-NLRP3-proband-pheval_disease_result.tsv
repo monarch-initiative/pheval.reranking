@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.8	Cogan syndrome	OMIM:300790
+3	0.7	Rheumatoid arthritis	OMIM:180300
+4	0.6	Temporal arteritis	OMIM:187360
+5	0.5	Behcet syndrome	OMIM:109650
+6	0.4	Granulomatosis with polyangiitis	OMIM:608710
+7	0.3	Chronic inflammatory demyelinating polyneuropathy	OMIM:139393
+8	0.2	Giant cell arteritis	OMIM:187360
+9	0.1	Polymyalgia rheumatica	OMIM:187360
+9	0.1	Eosinophilic granulomatosis with polyangiitis	OMIM:608710

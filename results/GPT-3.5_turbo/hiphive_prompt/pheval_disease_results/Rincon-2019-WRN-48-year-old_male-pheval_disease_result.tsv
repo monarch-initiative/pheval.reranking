@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteoporosis	OMIM:166710
+2	0.92	Premature graying of hair	OMIM:211480
+3	0.88	High pitched voice	OMIM:314300
+4	0.85	Hypothyroidism	OMIM:275200
+5	0.83	Hypertension	OMIM:145500
+6	0.82	Hypertriglyceridemia	OMIM:144650
+7	0.81	Type II diabetes mellitus	OMIM:125853
+8	0.78	Short stature	OMIM:604271
+9	0.75	Cataract	OMIM:116600
+10	0.72	Corneal ulceration	OMIM:217700

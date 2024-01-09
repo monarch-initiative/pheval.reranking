@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondylocostal dysostosis	OMIM:277300
+2	0.88	Alagille syndrome	OMIM:118450
+3	0.85	Mucopolysaccharidosis type II	OMIM:309900
+4	0.83	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.8	Muscular dystrophy, Duchenne type	OMIM:310200
+6	0.78	Osteogenesis imperfecta type I	OMIM:166200
+7	0.75	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.73	Mucopolysaccharidosis type I	OMIM:607014
+9	0.7	Mucopolysaccharidosis type IIIA	OMIM:252900
+10	0.68	Greig cephalopolysyndactyly syndrome	OMIM:175700

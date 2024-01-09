@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fragile X syndrome	OMIM:300624
+2	0.85	Cornelia de Lange syndrome	OMIM:122470
+3	0.8	Angelman syndrome	OMIM:105830
+4	0.75	Pitt-Hopkins syndrome	OMIM:610954
+5	0.7	Smith-Magenis syndrome	OMIM:182290
+6	0.65	Rett syndrome	OMIM:312750
+7	0.6	Sotos syndrome	OMIM:117550
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	22q11.2 deletion syndrome	OMIM:192430
+10	0.45	Cri-du-chat syndrome	OMIM:123450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher disease	OMIM:230800
+2	0.87	Niemann-Pick disease	OMIM:257200
+3	0.85	Farber lipogranulomatosis	OMIM:228000
+4	0.82	Wolman disease	OMIM:278000
+5	0.8	Ichthyosis, congenital, autosomal recessive 4A	OMIM:601277
+6	0.77	Ichthyosis, congenital, autosomal recessive 4B	OMIM:614592
+7	0.75	Ichthyosis, congenital, autosomal recessive 5	OMIM:604777
+8	0.73	lysosomal acid lipase deficiency	OMIM:278000
+9	0.7	gray platelet syndrome	OMIM:139090
+10	0.68	GATA2-deficiency	OMIM:614172

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic diplegia	OMIM:603513
+2	0.8	Intellectual disability	OMIM:614607
+3	0.7	Cerebral palsy	OMIM:603513
+3	0.7	Hypomyelination	OMIM:608804
+5	0.6	Periventricular leukomalacia	OMIM:605557
+5	0.6	Congenital myopathy	OMIM:160500
+7	0.5	Communicating hydrocephalus	OMIM:236600
+7	0.5	Axonal neuropathy	OMIM:605218
+9	0.4	Muscular dystrophy	OMIM:310200
+9	0.4	Niemann-Pick disease	OMIM:257200

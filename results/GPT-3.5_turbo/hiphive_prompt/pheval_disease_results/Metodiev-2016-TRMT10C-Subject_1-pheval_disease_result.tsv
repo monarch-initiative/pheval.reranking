@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex IV Deficiency	OMIM:220110
+2	0.88	Cytochrome C Oxidase Deficiency	OMIM:220110
+3	0.85	Leigh Syndrome	OMIM:256000
+4	0.84	Mitochondrial Myopathy	OMIM:500002
+5	0.82	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+6	0.8	Multiple Acyl-CoA Dehydrogenase Deficiency	OMIM:231680
+7	0.78	Myopathy, Congenital, with Lactic Acidosis and Sudden Death	OMIM:255125
+8	0.76	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+9	0.74	Childhood-Onset Neurodegeneration with Brain Atrophy	OMIM:617104
+10	0.72	Pyruvate Carboxylase Deficiency	OMIM:266150

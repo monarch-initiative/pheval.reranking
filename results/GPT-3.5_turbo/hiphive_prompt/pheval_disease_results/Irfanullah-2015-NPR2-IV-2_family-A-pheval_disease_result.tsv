@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Carpenter syndrome	OMIM:201000
+2	0.96	Coffin-Siris syndrome	OMIM:135900
+3	0.94	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.92	Brachydactyly type E	OMIM:113300
+5	0.9	Coffin-Lowry syndrome	OMIM:303600
+6	0.87	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	OMIM:617073
+7	0.85	Braddock-Carey syndrome	OMIM:113900
+8	0.83	Craniofacial-deafness-hand syndrome	OMIM:122880
+9	0.81	Protein C deficiency	OMIM:176860
+10	0.79	Braddock syndrome	OMIM:113800

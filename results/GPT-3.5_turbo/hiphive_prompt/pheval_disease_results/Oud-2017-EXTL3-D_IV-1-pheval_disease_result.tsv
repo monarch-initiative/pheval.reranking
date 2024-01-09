@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia	OMIM:600791
+2	0.88	Hepatic cysts	OMIM:600003
+3	0.85	Cervical instability	OMIM:601215
+4	0.82	Kyphoscoliosis	OMIM:181450
+5	0.8	Spinal cord compression	OMIM:125620
+6	0.75	Pectus excavatum	OMIM:169300
+7	0.7	Coxa valga	OMIM:211550
+8	0.68	Redundant skin	OMIM:184760
+9	0.65	Neonatal hyperbilirubinemia	OMIM:237800
+10	0.6	Abnormal pelvis bone morphology	OMIM:126250

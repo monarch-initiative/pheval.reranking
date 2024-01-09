@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgM syndrome type 1	OMIM:308230
+2	0.8	Hyper-IgM syndrome type 2	OMIM:605258
+3	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.7	Severe combined immunodeficiency, X-linked	OMIM:300400
+5	0.65	Ataxia-telangiectasia	OMIM:208900
+6	0.6	Immunodeficiency 22	OMIM:615758
+7	0.55	X-linked severe combined immunodeficiency	OMIM:300400
+8	0.5	Immunodeficiency 14	OMIM:617514
+9	0.45	Corticosteroid-sensitive nephrotic syndrome 2	OMIM:614196
+10	0.4	Pfeiffer syndrome	OMIM:101600

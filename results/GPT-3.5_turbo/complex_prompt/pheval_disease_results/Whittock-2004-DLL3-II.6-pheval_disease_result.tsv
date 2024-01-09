@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Mucopolysaccharidosis Type IV	OMIM:253000
+3	0.7	Marfan Syndrome	OMIM:154700
+4	0.6	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.5	Osteogenesis Imperfecta	OMIM:166200
+6	0.4	Cleidocranial Dysplasia	OMIM:119600
+7	0.3	Spondylocarpotarsal Synostosis Syndrome	OMIM:272460
+8	0.2	Robinow Syndrome	OMIM:268310
+9	0.1	Klippel-Feil Syndrome	OMIM:118100

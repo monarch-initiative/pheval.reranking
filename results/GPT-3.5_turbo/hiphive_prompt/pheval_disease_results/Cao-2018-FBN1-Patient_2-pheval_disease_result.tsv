@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.92	Ehlers-Danlos syndrome, type IV	OMIM:130050
+3	0.9	Loeys-Dietz syndrome	OMIM:609192
+4	0.88	Ehlers-Danlos syndrome, classic type	OMIM:130000
+5	0.85	Weill-Marchesani syndrome	OMIM:613195
+6	0.82	Stickler syndrome	OMIM:108300
+7	0.8	Ocular hypertension	OMIM:241225
+8	0.78	Lujan-Fryns syndrome	OMIM:309520
+9	0.75	Noonan syndrome	OMIM:163950
+10	0.72	Kearns-Sayre syndrome	OMIM:530000

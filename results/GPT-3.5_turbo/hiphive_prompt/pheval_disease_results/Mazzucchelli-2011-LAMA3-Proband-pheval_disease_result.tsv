@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+2	0.85	Epidermolysis bullosa, junctional, non-Herlitz type	OMIM:226650
+3	0.8	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+4	0.75	PIEZO1-related generalized lymphatic dysplasia	OMIM:614401
+5	0.7	Ehlers-Danlos syndrome, classic type	OMIM:130000
+6	0.65	Epidermolysis bullosa, pretibial dystrophic	OMIM:131750
+7	0.6	PIEZO2-related generalized lymphatic dysplasia	OMIM:618210
+8	0.55	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+9	0.5	Ehlers-Danlos syndrome, arthrochalasia type	OMIM:130060
+10	0.45	Ehlers-Danlos syndrome, periodontal type	OMIM:130080

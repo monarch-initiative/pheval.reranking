@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa simplex, Dowling-Meara type	OMIM:131760
+1	0.9	Epidermolysis bullosa simplex, Koebner type	OMIM:131900
+3	0.8	Epidermolysis bullosa simplex, Weber-Cockayne type	OMIM:131800
+3	0.8	Epidermolysis bullosa, generalized atrophic benign	OMIM:131950
+5	0.7	Staphylococcal scalded skin syndrome	OMIM:604658
+5	0.7	Toxic epidermal necrolysis	OMIM:608579
+7	0.6	Herpes simplex encephalitis	OMIM:603903
+7	0.6	Mucous membrane pemphigoid	OMIM:614051
+7	0.6	Staphylococcal skin infection	OMIM:601468
+10	0.5	Pemphigus vulgaris	OMIM:169610

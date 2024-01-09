@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon Syndrome	OMIM:123500
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.8	Stickler Syndrome	OMIM:108300
+4	0.75	Waardenburg Syndrome	OMIM:193500
+5	0.7	Alport Syndrome	OMIM:301050
+6	0.65	Beckwith-Wiedemann Syndrome	OMIM:130650
+7	0.6	Noonan Syndrome	OMIM:163950
+8	0.55	Hypertrophic Cardiomyopathy	OMIM:192600
+9	0.5	Gorlin Syndrome	OMIM:109400
+10	0.45	Smith-Lemli-Opitz Syndrome	OMIM:270400

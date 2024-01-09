@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pituitary adenoma	OMIM:102200
+2	0.8	Thymoma	OMIM:188500
+3	0.7	Adrenocorticotropic hormone deficiency	OMIM:201400
+4	0.6	Primary hyperparathyroidism	OMIM:145000
+5	0.5	Neuroendocrine neoplasm	OMIM:600916
+6	0.4	Carcinoid tumor	OMIM:114900
+7	0.3	Duodenal ulcer	OMIM:616266
+8	0.2	Hypergastrinemia	OMIM:137200
+9	0.1	Nephrolithiasis	OMIM:283000
+10	0.05	Elevated circulating parathyroid hormone level	OMIM:168450
+11	0.0	Macroscopic hematuria	
+11	0.0	Galactorrhea	
+11	0.0	Headache	
+11	0.0	Secondary amenorrhea	
+11	0.0	Back pain	

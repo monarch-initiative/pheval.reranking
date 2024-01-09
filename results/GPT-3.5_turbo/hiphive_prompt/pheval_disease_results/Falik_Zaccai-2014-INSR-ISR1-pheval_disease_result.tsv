@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Fanconi anemia	OMIM:227650
+2	0.85	Mevalonic aciduria	OMIM:610377
+3	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.79	Bardet-Biedl syndrome	OMIM:209900
+5	0.78	Cystic fibrosis	OMIM:219700
+6	0.75	X-linked intellectual disability	OMIM:300983
+7	0.73	Beckwith-Wiedemann syndrome	OMIM:130650
+8	0.72	Wilms tumor	OMIM:194070
+9	0.71	Congenital disorder of glycosylation	OMIM:236800
+10	0.7	Becker muscular dystrophy	OMIM:300376

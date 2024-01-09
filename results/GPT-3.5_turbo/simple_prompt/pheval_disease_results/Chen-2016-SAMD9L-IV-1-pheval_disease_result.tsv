@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 3	OMIM:109150
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Ataxia-telangiectasia	OMIM:208900
+4	0.6	Autosomal recessive spastic ataxia	OMIM:270500
+5	0.5	Cerebellar atrophy with peripheral neuropathy	OMIM:613768

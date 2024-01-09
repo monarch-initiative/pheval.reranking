@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ichthyosis, congenital, autosomal recessive 3	OMIM:606545
+2	0.9	Cataract, juvenile, with microcornea and glucosuria	OMIM:612018
+3	0.8	Cockayne syndrome B	OMIM:133540
+4	0.7	Microcephaly 5, primary, autosomal recessive	OMIM:608716
+5	0.6	Microphthalmia, isolated, with coloboma 6	OMIM:613703
+6	0.5	Xeroderma pigmentosum, group D	OMIM:278730
+7	0.4	Cutis laxa, autosomal recessive, type IIIA	OMIM:219150
+8	0.3	Oculocutaneous albinism type 1	OMIM:203100
+9	0.2	Nephrocalcinosis	OMIM:605669
+10	0.1	Gorlin syndrome	OMIM:109400

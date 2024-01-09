@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 2	OMIM:300672
+2	0.8	Unspecified global developmental delay	OMIM:618674
+3	0.7	Hypotonia, infantile, with psychomotor retardation and characteristic facies 2	OMIM:618354
+4	0.6	Hypotonia, infantile, with psychomotor retardation and characteristic facies 1	OMIM:615419
+5	0.5	Developmental delay and variable seizures and neurologic abnormalities	OMIM:618314

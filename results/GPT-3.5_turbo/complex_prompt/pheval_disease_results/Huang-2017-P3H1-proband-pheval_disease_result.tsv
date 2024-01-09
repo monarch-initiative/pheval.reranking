@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple Epiphyseal Dysplasia, Dominant	OMIM:132400
+2	0.8	Campomelic Dysplasia	OMIM:114290
+3	0.7	Hermansky-Pudlak syndrome 2	OMIM:608233
+4	0.6	Short Stature, Facial Dysmorphism, and Skeletal Anomalies with or without Cardiac Anomalies	OMIM:617607
+5	0.5	Atelosteogenesis, Type I	OMIM:108720
+6	0.4	Short Rib-Polydactyly Syndrome, Type III	OMIM:263510
+7	0.3	Rhizomelic Chondrodysplasia Punctata, Type 3	OMIM:600121
+8	0.2	Langer Mesomelic Dysplasia	OMIM:249700
+9	0.1	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+10	0.05	Omodysplasia 1	OMIM:258315

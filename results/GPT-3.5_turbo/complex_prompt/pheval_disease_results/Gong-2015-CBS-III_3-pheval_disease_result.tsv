@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Cerebellar ataxia, autosomal recessive 3	OMIM:607310
+3	0.7	Homocystinuria	OMIM:236200
+4	0.6	Spinocerebellar ataxia 7	OMIM:164500
+5	0.5	Friedreich ataxia	OMIM:229300
+6	0.4	Stickler syndrome	OMIM:108300
+7	0.3	Multiple system atrophy	OMIM:146500
+8	0.2	Ehlers-Danlos syndrome, classic type	OMIM:130000
+9	0.1	Hyper IgM syndrome	OMIM:308230

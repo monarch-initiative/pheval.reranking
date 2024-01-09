@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 15	OMIM:270700
+2	0.9	Huntington disease	OMIM:143100
+3	0.88	Amyotrophic lateral sclerosis type 1	OMIM:105400
+4	0.87	Spastic paraplegia 11	OMIM:604360
+5	0.86	Amyotrophic lateral sclerosis type 2	OMIM:205100
+6	0.85	Amyotrophic lateral sclerosis type 8	OMIM:105600
+6	0.85	Amyotrophic lateral sclerosis type 4	OMIM:602433
+8	0.84	Amyotrophic lateral sclerosis type 3	OMIM:606070
+9	0.83	Ataxia-oculomotor apraxia syndrome	OMIM:208920
+10	0.82	Dystonia 16	OMIM:612067

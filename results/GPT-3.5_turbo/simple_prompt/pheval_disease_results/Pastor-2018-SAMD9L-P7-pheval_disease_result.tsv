@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.8	Thrombocytopenia-absent radius syndrome	OMIM:274000

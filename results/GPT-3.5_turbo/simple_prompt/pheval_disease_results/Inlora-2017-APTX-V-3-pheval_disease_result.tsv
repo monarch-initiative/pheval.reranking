@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	PHARC syndrome	OMIM:612674
+2	0.8	Nielsen syndrome	OMIM:616173
+3	0.7	Leigh syndrome	OMIM:256000
+4	0.6	Wilson disease	OMIM:277900

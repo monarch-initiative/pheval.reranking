@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.957	Thyroid dysgenesis	OMIM:218700
+2	0.909	Cleft palate, X-linked	OMIM:303400
+3	0.902	Mitchell-Riley syndrome	OMIM:615710
+4	0.883	Pituitary stalk interruption syndrome	OMIM:173110
+5	0.879	Pendred syndrome	OMIM:274600
+6	0.875	Persistent hyperplastic primary vitreous	OMIM:221900
+7	0.845	Public health research	OMIM:614208
+8	0.843	Joaquim syndrome	OMIM:244300
+9	0.831	Hyperthyroidism, nonautoimmune	OMIM:609152
+10	0.826	Arthrogryposis, renal dysfunction, cholestasis syndrome	OMIM:208085

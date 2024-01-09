@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.8	Antiphospholipid syndrome	OMIM:107320
+3	0.7	Cogan syndrome	OMIM:141300
+4	0.6	Behçet's syndrome	OMIM:109650
+5	0.5	Giant cell arteritis	OMIM:187360

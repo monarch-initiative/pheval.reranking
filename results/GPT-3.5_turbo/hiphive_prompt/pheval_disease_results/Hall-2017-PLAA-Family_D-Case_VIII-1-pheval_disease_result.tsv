@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, Type 1	OMIM:162200
+2	0.8	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.7	Costello Syndrome	OMIM:218040
+4	0.6	Coffin-Siris Syndrome 1	OMIM:135900
+5	0.5	Noonan Syndrome 1	OMIM:163950
+6	0.4	Wiedemann-Steiner Syndrome	OMIM:605130
+7	0.3	CFC Syndrome	OMIM:115150
+8	0.2	Roberts Syndrome	OMIM:268300
+9	0.1	Perlman Syndrome	OMIM:267000
+10	0.05	Baraitser-Winter Syndrome 1	OMIM:243310

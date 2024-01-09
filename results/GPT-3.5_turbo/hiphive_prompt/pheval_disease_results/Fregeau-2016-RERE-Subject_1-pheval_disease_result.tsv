@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bardet-Biedl syndrome	OMIM:209900
+2	0.92	Cornelia de Lange syndrome	OMIM:122470
+3	0.9	Cri-du-chat syndrome	OMIM:123450
+4	0.88	Familial hypercholesterolemia	OMIM:143890
+5	0.86	Kabuki syndrome	OMIM:147920
+6	0.84	Ornithine transcarbamylase deficiency	OMIM:311250
+7	0.82	Joubert syndrome	OMIM:213300
+8	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.78	Stickler syndrome	OMIM:108300
+10	0.76	Waardenburg syndrome	OMIM:277580

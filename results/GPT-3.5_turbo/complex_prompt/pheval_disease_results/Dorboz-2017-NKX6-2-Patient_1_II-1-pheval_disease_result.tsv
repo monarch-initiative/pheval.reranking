@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.9	Mitochondrial complex I deficiency	OMIM:252010
+3	0.85	Pontocerebellar hypoplasia type 6	OMIM:611523
+4	0.8	Severe neonatal encephalopathy	OMIM:607499
+4	0.8	Progressive external ophthalmoplegia	OMIM:157640
+6	0.75	Infantile-onset neurodegenerative disorder	OMIM:617941
+7	0.7	Leigh-like syndrome	OMIM:256000
+7	0.7	Juvenile Huntington disease	OMIM:143100
+9	0.65	Benign hereditary chorea	OMIM:118700
+10	0.6	Pelizaeus-Merzbacher-like disease	OMIM:PLMLD

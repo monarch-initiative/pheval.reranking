@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous Sclerosis 1	OMIM:191100
+2	0.8	Cowden Syndrome	OMIM:158350
+3	0.7	Bannayan-Riley-Ruvalcaba Syndrome	OMIM:153480
+4	0.6	Peutz-Jeghers Syndrome	OMIM:175200
+5	0.5	Neurofibromatosis type 1	OMIM:162200
+6	0.4	Rothmund-Thomson Syndrome	OMIM:268400
+7	0.3	Jeune Syndrome	OMIM:208500
+8	0.2	Fibromatosis, Gingival, Hereditary	OMIM:135300
+9	0.1	Proteus Syndrome	OMIM:176920
+10	0.05	Muir-Torre Syndrome	OMIM:158320

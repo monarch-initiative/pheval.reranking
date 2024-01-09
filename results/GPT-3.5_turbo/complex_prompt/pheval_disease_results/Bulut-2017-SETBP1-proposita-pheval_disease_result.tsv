@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+1	0.9	Meckel syndrome	OMIM:249000
+3	0.85	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+3	0.85	Senior-Løken syndrome	OMIM:266900
+5	0.8	Jalili syndrome	OMIM:217080
+5	0.8	Lowry-Wood syndrome	OMIM:616067

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.8	Multiple system atrophy	OMIM:146500
+3	0.7	Lewy body dementia	OMIM:127750
+4	0.6	Progressive supranuclear palsy	OMIM:601104
+5	0.5	Parkinson-dementia complex	OMIM:260540

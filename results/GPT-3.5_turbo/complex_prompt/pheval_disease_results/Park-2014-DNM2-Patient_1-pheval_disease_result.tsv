@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Myotonic dystrophy	OMIM:160900
+2	0.9	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.8	Limb-girdle muscular dystrophy type 2I	OMIM:607155
+4	0.7	Myoadenylate deaminase deficiency	OMIM:615511
+5	0.6	Congenital muscular dystrophy, Ullrich type	OMIM:254090
+6	0.5	Amyotrophic lateral sclerosis	OMIM:105400
+7	0.4	Facial onset sensory and motor neuronopathy	OMIM:209880
+8	0.3	Oculopharyngeal muscular dystrophy	OMIM:164300
+9	0.2	Emery-Dreifuss muscular dystrophy	OMIM:310300
+10	0.1	Distal spinal muscular atrophy, X-linked 2	OMIM:302800

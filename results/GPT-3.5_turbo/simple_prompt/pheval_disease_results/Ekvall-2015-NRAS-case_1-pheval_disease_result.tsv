@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Costello syndrome	OMIM:218040
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Sotos syndrome	OMIM:117550

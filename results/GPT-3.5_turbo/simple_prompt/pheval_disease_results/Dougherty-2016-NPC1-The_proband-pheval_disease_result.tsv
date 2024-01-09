@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Alzheimer disease	OMIM:104300
+2	0.95	Frontotemporal dementia	OMIM:600274
+3	0.9	Huntington disease	OMIM:143100
+4	0.8	Gaucher disease	OMIM:230800
+5	0.7	Metachromatic leukodystrophy	OMIM:250100

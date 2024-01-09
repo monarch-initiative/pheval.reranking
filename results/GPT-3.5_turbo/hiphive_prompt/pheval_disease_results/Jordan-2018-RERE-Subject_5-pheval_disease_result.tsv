@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Atrial septal defect	OMIM:108800
+2	0.85	Choanal atresia	OMIM:607363
+3	0.8	Hypoventilation	OMIM:209880
+4	0.75	Central hypoventilation	OMIM:209880
+5	0.7	Hypermetropia	OMIM:138500
+6	0.65	Strabismus	OMIM:185100
+7	0.6	Macrotia	OMIM:614085
+8	0.55	Abnormality of the eye	OMIM:600165
+9	0.5	Abnormality of brain morphology	OMIM:225755
+10	0.45	Scoliosis	OMIM:181800

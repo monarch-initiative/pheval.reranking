@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alexander disease	OMIM:203450
+2	0.85	Vanishing white matter leukodystrophy	OMIM:603896
+2	0.85	Leukoencephalopathy with vanishing white matter	OMIM:603896
+4	0.8	POLR3A-related leukodystrophy	OMIM:607694
+4	0.8	POLR3B-related leukodystrophy	OMIM:614381
+6	0.75	Cockayne syndrome	OMIM:216400
+7	0.7	Sturge-Weber syndrome	OMIM:185300
+7	0.7	Smith-Magenis syndrome	OMIM:182290
+9	0.65	Rett syndrome	OMIM:312750
+10	0.6	Tay-Sachs disease	OMIM:272800

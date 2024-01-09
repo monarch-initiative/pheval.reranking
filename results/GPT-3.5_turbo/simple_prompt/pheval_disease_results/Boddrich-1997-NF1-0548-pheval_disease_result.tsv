@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Neurofibromatosis type 1	OMIM:162200
+2	0.8	Neurofibromatosis type 2	OMIM:101000
+3	0.75	Von Recklinghausen Neurofibromatosis	OMIM:162200
+4	0.5	McCune-Albright syndrome	OMIM:174800
+5	0.4	Legius syndrome	OMIM:611431

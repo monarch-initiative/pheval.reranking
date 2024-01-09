@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9614	Peroxisome biogenesis disorder 1B	OMIM:601539
+2	0.953	Short-rib thoracic dysplasia 1 with or without polydactyly	OMIM:208500
+3	0.9421	Combined immunodeficiency, X-linked	OMIM:312863
+4	0.9407	Pontocerebellar hypoplasia, type 1B	OMIM:614678
+5	0.9383	Floating-Harbor syndrome	OMIM:136140
+6	0.9349	Autosomal recessive spastic paraplegia type 49	OMIM:615031
+7	0.9251	Stiff skin syndrome	OMIM:184900
+8	0.9209	Hyper-IgM syndrome, type 4	OMIM:608184
+9	0.918	CHARGE syndrome	OMIM:214800
+10	0.916	Hyperlipoproteinemia, type II	OMIM:144250

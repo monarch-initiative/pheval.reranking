@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chediak-Higashi syndrome	OMIM:214500
+2	0.8	Hermansky-Pudlak syndrome	OMIM:203300
+3	0.7	Pulmonary alveolar microlithiasis	OMIM:265100
+4	0.6	Bloom syndrome	OMIM:210900
+5	0.5	Rothmund-Thomson syndrome	OMIM:268400
+6	0.4	Nail-patella syndrome	OMIM:161200
+7	0.3	Ataxia telangiectasia	OMIM:208900
+8	0.2	Xeroderma pigmentosum, complementation group D	OMIM:278730
+9	0.1	Incontinentia pigmenti	OMIM:308300

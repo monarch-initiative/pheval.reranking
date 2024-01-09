@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy, Duchenne type	OMIM:310200
+2	0.85	Muscular dystrophy, Becker type	OMIM:300376
+3	0.83	Muscle eye brain disease	OMIM:253280
+4	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+5	0.75	Myotonic dystrophy type 1	OMIM:160900
+6	0.7	Limb-girdle muscular dystrophy type 1B	OMIM:159001
+7	0.65	Nemaline myopathy 1	OMIM:161800
+8	0.6	Congenital fiber-type disproportion myopathy	OMIM:255310
+9	0.55	Central core disease	OMIM:117000
+10	0.5	Bethlem myopathy	OMIM:158810

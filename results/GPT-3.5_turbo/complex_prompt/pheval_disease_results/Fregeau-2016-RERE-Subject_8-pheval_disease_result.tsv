@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peters anomaly	OMIM:604229
+1	0.9	Coloboma	OMIM:120200
+3	0.8	Autistic behavior	OMIM:209850
+3	0.8	Cafe-au-lait spot	OMIM:162200
+5	0.7	Growth delay	OMIM:601634
+5	0.7	Syndactyly	OMIM:186500
+7	0.6	Hearing impairment	OMIM:220200
+7	0.6	Microcephaly	OMIM:251200
+9	0.5	Triangular face	OMIM:190180
+9	0.5	Seizures	OMIM:600669

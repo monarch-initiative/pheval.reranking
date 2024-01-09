@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome, type 1	OMIM:193500
+2	0.8	Wegener granulomatosis	OMIM:608809
+3	0.7	Albinism, oculocutaneous, type II	OMIM:203200
+4	0.6	Piebaldism	OMIM:172800

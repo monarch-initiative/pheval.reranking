@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.8	MELAS syndrome	OMIM:540000
+3	0.7	Wilson disease	OMIM:277900
+4	0.6	Infantile spasms	OMIM:308350
+5	0.5	Metachromatic leukodystrophy	OMIM:250100
+6	0.4	Progressive myoclonic epilepsy	OMIM:254800
+7	0.3	Lactic acidosis	OMIM:236750
+8	0.2	Pyruvate dehydrogenase deficiency	OMIM:312170
+9	0.1	Alexander disease	OMIM:203450
+10	0.05	Alpers syndrome	OMIM:203700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peters anomaly	OMIM:604229
+2	0.8	Cerebral hypomyelination	OMIM:610532
+3	0.7	Delayed myelination	OMIM:614381
+4	0.6	Microcephaly	OMIM:251200
+5	0.5	Microphthalmia	OMIM:251270
+6	0.4	Coloboma	OMIM:216800
+7	0.3	CNS hypomyelination	OMIM:610532
+8	0.2	Sensorineural hearing impairment	OMIM:612353
+9	0.1	Abnormality of the anterior commissure	OMIM:147750
+9	0.1	Abnormality of the cerebellar vermis	OMIM:211470

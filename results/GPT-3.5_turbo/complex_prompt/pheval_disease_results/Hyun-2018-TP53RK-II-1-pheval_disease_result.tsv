@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalencephaly-capillary malformation-polymicrogyria syndrome	OMIM:614042
+2	0.85	Congenital nephrotic syndrome	OMIM:160200
+3	0.8	Aicardi Syndrome	OMIM:304050
+4	0.75	Holoprosencephaly	OMIM:236100
+5	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.65	Meckel syndrome	OMIM:249000
+7	0.6	Meningoencephalocele	OMIM:300701
+8	0.55	Microcephaly with simplified gyral pattern	OMIM:613402
+9	0.5	Baraitser-Winter Syndrome	OMIM:243310
+10	0.45	Cornelia de Lange Syndrome	OMIM:122470

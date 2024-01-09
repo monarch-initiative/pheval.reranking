@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Schwartz-Jampel syndrome	OMIM:255800
+2	0.92	22q11.2 deletion syndrome	OMIM:188400
+3	0.89	MODY type 1	OMIM:125850
+4	0.88	Pseudohypoparathyroidism type 1A	OMIM:103580
+5	0.85	Cornelia de Lange syndrome	OMIM:122470
+6	0.83	Holt-Oram syndrome	OMIM:142900
+7	0.81	Aarskog-Scott syndrome	OMIM:305400
+8	0.8	Alagille syndrome	OMIM:118450
+9	0.78	Familial isolated dilated cardiomyopathy	OMIM:604145
+10	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400

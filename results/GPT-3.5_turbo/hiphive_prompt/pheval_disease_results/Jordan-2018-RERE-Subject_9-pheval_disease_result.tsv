@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism	OMIM:209850
+2	0.85	Scoliosis	OMIM:181800
+3	0.8	Choanal Atresia	OMIM:108010
+4	0.75	Hypertelorism	OMIM:145410
+5	0.7	Abnormal Eye Morphology	OMIM:601095
+6	0.65	Abnormal Heart Morphology	OMIM:600001
+7	0.6	Sleep Disturbance	OMIM:614080
+8	0.55	Anxiety	OMIM:607834
+9	0.5	Delayed Speech and Language Development	OMIM:602081
+10	0.45	Synophrys	OMIM:145730

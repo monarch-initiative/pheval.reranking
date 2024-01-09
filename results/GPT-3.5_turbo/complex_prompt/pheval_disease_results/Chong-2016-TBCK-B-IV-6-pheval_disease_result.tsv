@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Aicardi syndrome	OMIM:304050
+5	0.5	Fragile X syndrome	OMIM:300624
+6	0.4	Kabuki syndrome	OMIM:147920
+7	0.3	CHARGE syndrome	OMIM:214800
+7	0.3	Pallister-Killian syndrome	OMIM:601803
+9	0.2	Coffin-Lowry syndrome	OMIM:303600
+10	0.1	Cornelia de Lange syndrome	OMIM:122470

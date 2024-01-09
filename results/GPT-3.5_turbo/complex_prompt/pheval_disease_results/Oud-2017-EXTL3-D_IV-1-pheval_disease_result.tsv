@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia	OMIM:271640
+2	0.85	Coxa valga	OMIM:123550
+3	0.8	Hypoplasia of the capital femoral epiphysis	OMIM:141840
+4	0.75	Mitral regurgitation	OMIM:157700
+5	0.7	Pectus excavatum	OMIM:169300
+6	0.65	Short stature	OMIM:604271
+7	0.6	Abnormal facial shape	OMIM:606579
+8	0.55	Redundant skin	OMIM:180849
+9	0.5	Coarse facial features	OMIM:134780
+10	0.45	Muscular hypotonia	OMIM:170290

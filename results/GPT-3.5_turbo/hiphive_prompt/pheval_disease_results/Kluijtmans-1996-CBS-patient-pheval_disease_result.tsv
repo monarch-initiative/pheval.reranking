@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.85	Homocystinuria	OMIM:236200
+3	0.8	Sotos syndrome	OMIM:117550
+4	0.75	Weill-Marchesani syndrome	OMIM:608328
+5	0.7	FBN1-related disorders	OMIM:134797
+6	0.65	Marshall-Smith syndrome	OMIM:602535
+7	0.6	Achondroplasia	OMIM:100800
+8	0.55	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.5	Simpson-Golabi-Behmel syndrome	OMIM:312870
+10	0.45	Beckwith-Wiedemann syndrome	OMIM:130650

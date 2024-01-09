@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Cornelia de Lange syndrome	OMIM:122470
+2	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.93	Coffin-Lowry syndrome	OMIM:303600
+4	0.92	Kabuki syndrome	OMIM:147920
+5	0.91	Branchiooculofacial syndrome	OMIM:113620
+6	0.89	Treacher Collins syndrome	OMIM:154500
+7	0.88	FG syndrome	OMIM:305450
+8	0.87	CHARGE syndrome	OMIM:214800
+9	0.86	Alagille syndrome	OMIM:118450
+10	0.85	DiGeorge syndrome	OMIM:188400

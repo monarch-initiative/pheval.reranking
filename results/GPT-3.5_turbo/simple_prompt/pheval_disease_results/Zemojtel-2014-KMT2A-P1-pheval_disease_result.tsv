@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Cohen syndrome	OMIM:216550
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Angelman syndrome	OMIM:105830

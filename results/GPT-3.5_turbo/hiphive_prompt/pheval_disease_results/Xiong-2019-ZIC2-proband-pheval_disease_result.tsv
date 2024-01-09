@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 4	OMIM:609142
+2	0.8	Holoprosencephaly 9	OMIM:610829
+3	0.7	Holoprosencephaly 3	OMIM:142945
+3	0.7	Holoprosencephaly 13	OMIM:610194
+5	0.6	Lobar holoprosencephaly	OMIM:236100
+5	0.6	Holoprosencephaly 5	OMIM:611470
+5	0.6	Holoprosencephaly 12	OMIM:618136
+8	0.5	Holoprosencephaly 6	OMIM:609637
+8	0.5	Alobar holoprosencephaly	OMIM:236100
+8	0.5	Holoprosencephaly	OMIM:236100

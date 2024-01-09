@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Phelan-McDermid syndrome	OMIM:606232
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	Sotos syndrome	OMIM:117550
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Cohen syndrome	OMIM:216550
+8	0.2	Coffin-Lowry syndrome	OMIM:303600
+9	0.1	Fragile X syndrome	OMIM:300624

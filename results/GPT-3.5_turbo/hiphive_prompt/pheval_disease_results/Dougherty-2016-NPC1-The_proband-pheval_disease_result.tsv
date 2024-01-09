@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer disease	OMIM:104300
+2	0.87	Frontotemporal dementia	OMIM:600274
+3	0.85	Huntington disease	OMIM:143100
+4	0.82	Cerebellar ataxia	OMIM:176300
+5	0.8	Parkinson disease	OMIM:168600
+6	0.77	Machado-Joseph disease	OMIM:109150
+7	0.75	Lewy body dementia	OMIM:127750
+8	0.73	Multiple system atrophy	OMIM:146500
+9	0.7	Parkinsonism	OMIM:168600
+10	0.68	Pick disease	OMIM:172700

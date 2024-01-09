@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Essential thrombocythemia	OMIM:187950
+2	0.92	Polycythemia vera	OMIM:263300
+3	0.88	Thrombocythemia 1	OMIM:601977
+4	0.87	Thrombocythemia 2	OMIM:615938
+5	0.86	Thrombocythemia 3	OMIM:617443
+6	0.85	Thrombocythemia 4	OMIM:617595
+7	0.82	MYH9-related disorders	OMIM:155100
+8	0.81	Hereditary thrombocythemia, X-linked	OMIM:300367
+9	0.79	Familial thrombocytosis	OMIM:601977
+10	0.78	Budd-Chiari syndrome	OMIM:600880

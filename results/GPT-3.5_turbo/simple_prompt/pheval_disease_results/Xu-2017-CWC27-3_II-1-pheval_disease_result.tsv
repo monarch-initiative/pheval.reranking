@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leber congenital amaurosis	OMIM:204000
+2	0.8	Retinitis pigmentosa	OMIM:268000

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.8	Hereditary Motor and Sensory Neuropathy	OMIM:162400
+3	0.7	Friedreich Ataxia	OMIM:229300
+4	0.6	Hereditary Neuropathy with Liability to Pressure Palsies	OMIM:162500
+5	0.5	Peripheral Neuropathy	OMIM:162500

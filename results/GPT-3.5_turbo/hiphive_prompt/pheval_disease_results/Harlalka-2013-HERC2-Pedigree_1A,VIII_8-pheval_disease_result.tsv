@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.8	Rett syndrome	OMIM:312750
+4	0.75	Cri-du-chat syndrome	OMIM:123450
+5	0.7	Kabuki syndrome	OMIM:147920
+6	0.65	Jacobsen syndrome	OMIM:147791
+7	0.6	Angelman syndrome	OMIM:105830
+8	0.55	Phelan-McDermid syndrome	OMIM:606232
+9	0.5	Fragile X syndrome	OMIM:300624
+10	0.45	Rubinstein-Taybi syndrome	OMIM:180849

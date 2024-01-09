@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Alagille syndrome	OMIM:118450
+3	0.7	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.7	Crigler-Najjar syndrome type I	OMIM:218800
+3	0.7	Crigler-Najjar syndrome type II	OMIM:606785
+3	0.7	A1AT deficiency, severe	OMIM:613490
+7	0.6	Gilbert syndrome	OMIM:143500
+7	0.6	Familial hypercholesterolemia	OMIM:143890
+7	0.6	Congenital disorder of glycosylation type I	OMIM:212065
+7	0.6	Familial hypercholesterolemia due to LDL receptor mutation	OMIM:143890

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Wilson disease	OMIM:277900
+2	0.86	Alpha-1-antitrypsin deficiency	OMIM:613490
+3	0.8	Glycoprotein storage diseases	OMIM:232900
+4	0.75	Congenital disorder of glycosylation	OMIM:212065
+5	0.7	Muscular dystrophy	OMIM:310200
+6	0.65	Familial hypercholesterolemia	OMIM:143890
+7	0.6	Hernia	OMIM:255100
+8	0.55	Neonatal jaundice	OMIM:237400
+9	0.5	Nonalcoholic steatohepatitis	OMIM:613282
+10	0.45	Mental retardation, autosomal dominant	OMIM:156200

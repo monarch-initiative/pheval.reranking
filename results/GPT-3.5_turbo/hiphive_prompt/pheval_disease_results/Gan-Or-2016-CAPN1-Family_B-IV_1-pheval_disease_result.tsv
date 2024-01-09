@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:182600
+2	0.8	Charcot-Marie-Tooth disease, type 2B1	OMIM:605588
+3	0.75	Spastic paraplegia 31	OMIM:610250
+4	0.7	Distal hereditary motor neuronopathy type VIIA	OMIM:158580
+5	0.65	Spastic ataxia 2	OMIM:611302
+6	0.6	Distal spinal muscular atrophy type V	OMIM:600794
+7	0.55	Distal spinal muscular atrophy type III	OMIM:182960
+8	0.5	Spastic paraplegia 20, autosomal recessive	OMIM:275900
+9	0.45	Spinal muscular atrophy, distal, autosomal recessive, 4	OMIM:611067
+10	0.4	Spastic ataxia 1	OMIM:108600

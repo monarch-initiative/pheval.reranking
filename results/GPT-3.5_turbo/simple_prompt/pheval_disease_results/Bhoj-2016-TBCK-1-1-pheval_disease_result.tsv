@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Zellweger Syndrome	OMIM:214100
+3	0.7	Pierre Robin Sequence	OMIM:261800
+4	0.6	Mucolipidosis Type IV	OMIM:252650
+5	0.5	Wolfram Syndrome	OMIM:222300

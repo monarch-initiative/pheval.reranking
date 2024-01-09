@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypotrichosis	OMIM:146550
+2	0.9	Aplasia cutis congenita	OMIM:107600
+3	0.8	Hay-Wells syndrome	OMIM:106260
+4	0.7	Anhidrotic ectodermal dysplasia	OMIM:305100
+5	0.6	Trichodental syndrome	OMIM:190320
+6	0.5	Monilethrix	OMIM:158000
+7	0.4	Hidrotic ectodermal dysplasia	OMIM:601375
+8	0.3	Alopecia areata	OMIM:104000
+9	0.2	Ectodermal dysplasia 10B, hypohidrotic/anhidrotic type, with or without immune deficiency	OMIM:225500
+10	0.1	Trichorhinophalangeal syndrome	OMIM:190350

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Coffin-Lowry syndrome	OMIM:303600
+3	0.7	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Costello syndrome	OMIM:218040
+5	0.6	Phelan-McDermid syndrome	OMIM:606232
+5	0.6	Fragile X syndrome	OMIM:300624
+7	0.5	Kabuki syndrome	OMIM:147920
+7	0.5	Sotos syndrome	OMIM:117550
+9	0.4	Angelman syndrome	OMIM:105830
+9	0.4	Smith-Magenis syndrome	OMIM:182290

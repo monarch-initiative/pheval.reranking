@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Silver-Russell syndrome	OMIM:180860
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Coffin-Lowry syndrome	OMIM:303600
+4	0.7	Saethre-Chotzen syndrome	OMIM:101400
+4	0.7	Acrocraniofacial dysostosis	OMIM:201050
+6	0.6	Joubert syndrome	OMIM:213300
+6	0.6	Meckel syndrome	OMIM:249000
+6	0.6	Craniofacial-deafness-hand syndrome	OMIM:122880
+9	0.5	Aarskog-Scott syndrome	OMIM:305400
+9	0.5	Robinow syndrome	OMIM:268310

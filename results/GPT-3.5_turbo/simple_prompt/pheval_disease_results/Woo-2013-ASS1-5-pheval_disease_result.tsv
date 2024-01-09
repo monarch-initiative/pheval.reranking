@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyperammonemia	OMIM:238970
+2	0.8	Hypoargininemia	OMIM:207800
+3	0.7	Oroticaciduria	OMIM:258900
+4	0.6	Seizures	OMIM:613907
+5	0.5	Citrullinuria	OMIM:215700
+6	0.4	Elevated plasma citrulline	OMIM:215700
+7	0.3	Hyperprolinemia	OMIM:239500
+8	0.2	Cerebral edema	OMIM:218000

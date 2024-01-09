@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peutz-Jeghers syndrome	OMIM:175200
+2	0.8	Neurofibromatosis, type 1	OMIM:162200
+3	0.7	Cowden syndrome	OMIM:158350
+4	0.6	Juvenile polyposis syndrome	OMIM:174900
+5	0.5	Mutation-related melanoma	OMIM:155600
+6	0.4	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+7	0.3	Fanconi anemia	OMIM:227650
+8	0.2	Li-Fraumeni syndrome	OMIM:151623
+9	0.1	Familial atypical multiple mole melanoma syndrome	OMIM:155601

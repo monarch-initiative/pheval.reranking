@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.8	Noonan syndrome	OMIM:163950
+4	0.75	RASopathies	OMIM:605384
+5	0.7	Neurofibromatosis type 1	OMIM:162200
+6	0.65	Stickler syndrome	OMIM:108300
+7	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.55	Fragile X syndrome	OMIM:300624
+9	0.5	Apert syndrome	OMIM:101200
+10	0.45	Treacher Collins syndrome	OMIM:154500

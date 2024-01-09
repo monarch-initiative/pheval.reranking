@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Facioscapulohumeral muscular dystrophy	OMIM:158900
+2	0.9	Myotonic dystrophy type 1	OMIM:160900
+3	0.8	Charcot-Marie-Tooth disease, type 2E	OMIM:607684
+4	0.7	Spinal muscular atrophy, type 3	OMIM:253400
+5	0.6	Congenital muscular dystrophy-dystroglycanopathy with mental retardation, type B1	OMIM:613155

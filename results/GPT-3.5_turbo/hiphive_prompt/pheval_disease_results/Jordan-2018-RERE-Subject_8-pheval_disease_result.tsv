@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.98	Cornelia de Lange syndrome	OMIM:122470
+3	0.97	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.94	Oculodentodigital dysplasia	OMIM:164200
+5	0.93	Trichothiodystrophy	OMIM:601675
+6	0.91	Waardenburg syndrome	OMIM:193500
+7	0.89	Rubinstein-Taybi syndrome due to CREBBP mutations	OMIM:613684
+8	0.88	Proximal spinal muscular atrophy	OMIM:253300
+9	0.86	Mucopolysaccharidosis type IIIA	OMIM:252900
+10	0.85	Alpha-thalassemia X-linked intellectual disability syndrome	OMIM:301040

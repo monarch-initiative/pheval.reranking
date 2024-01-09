@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Emery-Dreifuss muscular dystrophy	OMIM:310300
+2	0.85	Myotonic dystrophy type 1	OMIM:160900
+3	0.8	Congenital muscular dystrophy	OMIM:613205
+4	0.75	Nemaline myopathy	OMIM:161800
+5	0.7	Facioscapulohumeral muscular dystrophy	OMIM:158900
+6	0.65	Distal muscular dystrophy	OMIM:254300
+7	0.6	Limb-girdle muscular dystrophy type 2A	OMIM:253600
+8	0.55	Amyotrophic lateral sclerosis type 7	OMIM:608627
+9	0.5	Bethlem myopathy	OMIM:158810
+10	0.45	Duchenne muscular dystrophy	OMIM:310200

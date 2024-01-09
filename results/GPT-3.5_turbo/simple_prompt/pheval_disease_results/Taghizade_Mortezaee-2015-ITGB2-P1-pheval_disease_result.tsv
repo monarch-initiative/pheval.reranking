@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Omphalitis	OMIM:25711
+2	0.8	Skin Ulcer	OMIM:226530
+3	0.7	Delayed Umbilical Cord Separation	OMIM:618877
+4	0.6	Neutrophilia	OMIM:162830

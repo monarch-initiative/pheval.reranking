@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.92	Cardiomyopathy, dilated, 1B	OMIM:600884
+3	0.89	Noonan syndrome 1	OMIM:163950
+4	0.87	Hypothyroidism, congenital, nongoitrous, 1	OMIM:275200
+5	0.85	Marfan syndrome	OMIM:154700
+6	0.82	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.8	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+8	0.78	Osteogenesis imperfecta, type VII	OMIM:610682
+9	0.75	Robinow syndrome, autosomal recessive	OMIM:268310
+10	0.72	Peroxisome biogenesis disorder 2A (Zellweger)	OMIM:202370

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Cataract	OMIM:116800
+2	0.85	Pontocerebellar Hypoplasia Type 6	OMIM:611523
+3	0.82	Glycogen Storage Disease VII	OMIM:232800
+4	0.79	Congenital Ichthyosis	OMIM:242100
+5	0.76	Lethal Congenital Contracture Syndrome 1	OMIM:253310
+6	0.73	Epidermolysis Bullosa, Junctional, Herlitz Type	OMIM:226700
+7	0.7	Marfan Syndrome	OMIM:154700
+8	0.67	Osteogenesis Imperfecta Type III	OMIM:259420
+9	0.64	Coffin-Siris Syndrome	OMIM:135900
+10	0.61	Bardet-Biedl Syndrome 1	OMIM:209900

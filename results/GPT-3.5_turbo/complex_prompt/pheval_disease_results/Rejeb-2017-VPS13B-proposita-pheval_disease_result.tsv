@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Bardet-Biedl syndrome	OMIM:209900
+2	0.8	Alström syndrome	OMIM:203800
+4	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.7	Weaver syndrome	OMIM:277590
+7	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.6	Marfan syndrome	OMIM:154700
+7	0.6	Congenital disorder of glycosylation type Ia	OMIM:212065

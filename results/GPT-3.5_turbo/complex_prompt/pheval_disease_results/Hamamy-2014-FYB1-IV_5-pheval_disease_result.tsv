@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+2	0.8	Bernard-Soulier syndrome	OMIM:231200
+2	0.8	May-Hegglin anomaly	OMIM:155100
+4	0.7	Gray platelet syndrome	OMIM:139090
+4	0.7	Fanconi anemia, complementation group T	OMIM:616435
+6	0.6	Paris-Trousseau thrombocytopenia	OMIM:188025
+6	0.6	Hereditary thrombocytopenia with normal platelets	OMIM:616937
+8	0.5	Fechtner syndrome	OMIM:153640
+8	0.5	MYH9-related disorder	OMIM:160775
+8	0.5	Amegakaryocytic thrombocytopenia, X-linked	OMIM:301000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Brugada syndrome	OMIM:601144
+2	0.9	Long QT syndrome	OMIM:192500
+3	0.85	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+4	0.8	Short QT syndrome	OMIM:609620
+5	0.75	Idiopathic ventricular fibrillation	OMIM:603829
+6	0.7	Arrhythmogenic right ventricular cardiomyopathy	OMIM:107970
+7	0.65	Jervell and Lange-Nielsen syndrome	OMIM:220400
+8	0.6	Andersen-Tawil syndrome	OMIM:170390
+9	0.55	Timothy syndrome	OMIM:601005
+10	0.5	Atrial fibrillation	OMIM:608583

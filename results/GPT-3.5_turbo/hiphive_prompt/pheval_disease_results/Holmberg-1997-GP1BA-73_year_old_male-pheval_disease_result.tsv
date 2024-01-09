@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gray Platelet Syndrome	OMIM:139090
+2	0.8	Bernard-Soulier Syndrome	OMIM:231200
+3	0.75	Glanzmann thrombasthenia	OMIM:273800
+4	0.7	Afibrinogenemia, congenital	OMIM:202400
+5	0.65	Factor X deficiency	OMIM:227600
+6	0.6	Type 2B von Willebrand disease	OMIM:613554
+7	0.55	Quebec platelet disorder	OMIM:601709
+8	0.5	Factor XIII deficiency	OMIM:613225
+9	0.45	Disseminated Intravascular Coagulation	OMIM:614154
+10	0.4	Bleeding Disorder, Platelet-Type, 11	OMIM:614201

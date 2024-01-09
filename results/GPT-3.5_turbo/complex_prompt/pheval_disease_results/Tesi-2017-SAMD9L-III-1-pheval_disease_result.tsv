@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency due to adenosine deaminase deficiency	OMIM:102700
+2	0.8	Ataxia-telangiectasia	OMIM:208900

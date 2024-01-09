@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Retinitis pigmentosa	OMIM:268000
+2	0.9	Leber congenital amaurosis	OMIM:204000
+3	0.8	Cone-rod dystrophy	OMIM:120970
+4	0.7	Joubert syndrome	OMIM:213300
+5	0.6	Bardet-Biedl syndrome	OMIM:209900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Craniosynostosis 1	OMIM:123100
+2	0.92	Frontonasal dysplasia 1	OMIM:136760
+3	0.91	Curly hair-ankyloblepharon-nail dysplasia syndrome	OMIM:601331
+4	0.88	Craniosynostosis, Boston type	OMIM:604757
+5	0.86	Oculodentodigital dysplasia	OMIM:164200
+6	0.85	Seckel syndrome 2	OMIM:606744
+7	0.83	Crouzon syndrome	OMIM:123500
+8	0.82	Acrocephalosyndactylia	OMIM:101200
+9	0.81	Sacral defect with anterior meningocele	OMIM:600145
+10	0.78	Greig cephalopolysyndactyly syndrome	OMIM:175700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta type 2	OMIM:166210
+2	0.8	Osteogenesis imperfecta type 3	OMIM:259420
+3	0.7	Osteogenesis imperfecta type 1	OMIM:166200
+3	0.7	Cole-Carpenter syndrome type 1	OMIM:112240
+5	0.6	Dentinogenesis imperfecta type 1	OMIM:125490
+5	0.6	Osteoporosis	OMIM:166710
+7	0.5	Ehlers-Danlos syndrome, kyphoscoliotic form	OMIM:225400
+7	0.5	Stickler syndrome	OMIM:108300
+9	0.4	Osteogenesis imperfecta type 4	OMIM:166220
+9	0.4	Mucopolysaccharidosis type II	OMIM:309900

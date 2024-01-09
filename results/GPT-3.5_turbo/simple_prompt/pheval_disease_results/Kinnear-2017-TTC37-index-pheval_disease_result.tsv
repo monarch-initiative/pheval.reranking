@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation, type Ia	OMIM:212065
+2	0.8	Combined immunodeficiency, X-linked	OMIM:312863
+3	0.7	Alpha-1-antitrypsin deficiency	OMIM:613490
+4	0.6	I-cell disease	OMIM:252500
+5	0.5	Hermansky-Pudlak syndrome 2	OMIM:609018

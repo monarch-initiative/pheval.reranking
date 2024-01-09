@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.8	Usher syndrome	OMIM:276900
+3	0.7	Chorioretinal dystrophy, zonular, atrophic	OMIM:617105
+4	0.6	Cone-rod dystrophy	OMIM:120970
+5	0.5	Retinal dystrophy, early-onset severe	OMIM:268000
+6	0.4	Leber congenital amaurosis	OMIM:204000
+7	0.3	Bardet-Biedl syndrome	OMIM:209900
+8	0.2	Alstrom syndrome	OMIM:203800
+9	0.1	Cone dystrophy	OMIM:300032
+9	0.1	Retinopathy, pigmentary, and mental retardation	OMIM:268050

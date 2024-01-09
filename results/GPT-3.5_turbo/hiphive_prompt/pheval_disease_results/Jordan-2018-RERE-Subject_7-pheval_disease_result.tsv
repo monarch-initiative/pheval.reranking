@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Diabetes Mellitus, Noninsulin-Dependent	OMIM:125853
+2	0.94	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.93	Hypothyroidism	OMIM:275200
+4	0.92	Bardet-Biedl Syndrome 10	OMIM:615987
+5	0.91	Chlamydia	OMIM:215220
+6	0.9	Atrial Septal Defect 4	OMIM:611363
+7	0.89	Angelman Syndrome	OMIM:105830
+8	0.88	WAGR Syndrome	OMIM:194072
+9	0.87	Cystic Fibrosis	OMIM:219700
+10	0.86	Beckwith-Wiedemann Syndrome 2	OMIM:130651

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Knuckle pads, leuconychia and sensorineural deafness	OMIM:614949
+2	0.8	Pili torti	OMIM:264705
+3	0.75	Macular dystrophy, retinal, 1	OMIM:248200
+4	0.7	Pallister-Hall syndrome	OMIM:146510
+5	0.65	Erythrokeratodermia variabilis with erythema gyratum repens	OMIM:133200
+6	0.6	Deficiency of guanidinoacetate methyltransferase	OMIM:612736
+7	0.55	Deafness, autosomal dominant 49	OMIM:614949
+8	0.5	Deafness, autosomal dominant 3a	OMIM:601544
+9	0.45	Dyskeratosis congenita, autosomal recessive 2	OMIM:613987
+10	0.4	Norrie disease	OMIM:310600

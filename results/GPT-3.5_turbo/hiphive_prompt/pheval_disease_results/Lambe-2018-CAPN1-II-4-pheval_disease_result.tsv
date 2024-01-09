@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia 2	OMIM:183090
+2	0.92	Autosomal recessive spastic paraplegia type 53	OMIM:617705
+3	0.91	Hereditary spastic paraplegia 9A	OMIM:601162
+4	0.89	Autosomal recessive spastic paraplegia type 15	OMIM:270700
+5	0.88	Autosomal recessive spastic paraplegia type 35	OMIM:612319
+6	0.87	Autosomal recessive spastic paraplegia type 8	OMIM:603563
+7	0.85	Autosomal recessive spastic paraplegia type 31	OMIM:610250
+8	0.84	CAPN5-related proliferative vitreoretinopathy	OMIM:612370
+9	0.83	Spastic paraplegia 54, autosomal recessive	OMIM:615033
+10	0.82	Spastic paraplegia 58, autosomal recessive	OMIM:615658

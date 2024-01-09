@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Osteogenesis imperfecta	OMIM:166200
+3	0.7	Ehlers-Danlos syndrome	OMIM:130000
+4	0.6	Coffin-Lowry syndrome	OMIM:303600
+5	0.5	Crouzon syndrome	OMIM:123500
+6	0.4	Pycnodysostosis	OMIM:265800
+7	0.3	Craniosynostosis	OMIM:123100
+8	0.2	Osteopetrosis	OMIM:166600
+9	0.1	Hypophosphatasia	OMIM:241500
+10	0.05	Noonan syndrome	OMIM:163950

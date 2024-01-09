@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia	OMIM:305100
+2	0.8	Hypohidrotic ectodermal dysplasia	OMIM:305100
+2	0.8	Anhidrotic ectodermal dysplasia	OMIM:305100
+4	0.7	Peeling skin syndrome	OMIM:607936
+5	0.6	Alopecia areata	OMIM:104000
+5	0.6	Microcephalic osteodysplastic primordial dwarfism (MOPD) type I	OMIM:210710
+5	0.6	Pachyonychia congenita syndrome type 1	OMIM:167200
+5	0.6	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive	OMIM:617392
+9	0.5	Incontinentia pigmenti	OMIM:308300
+9	0.5	Hyper IgM syndrome type 4	OMIM:608184

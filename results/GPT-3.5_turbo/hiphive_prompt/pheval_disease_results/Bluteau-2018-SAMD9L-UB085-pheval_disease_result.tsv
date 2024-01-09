@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.974	Leukodystrophy	OMIM:603896
+2	0.954	Neurodegeneration with brain iron accumulation	OMIM:234200
+3	0.931	Microcephaly	OMIM:251200
+4	0.929	X-linked hydrocephalus	OMIM:307000
+5	0.925	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+6	0.917	Muscular dystrophy	OMIM:253300
+7	0.915	Severe intellectual disability-progressive spastic diplegia syndrome	OMIM:616398
+8	0.898	Alzheimer disease	OMIM:104300
+9	0.896	Dercum disease	OMIM:136800
+10	0.892	Neurofibromatosis, type 1	OMIM:162200

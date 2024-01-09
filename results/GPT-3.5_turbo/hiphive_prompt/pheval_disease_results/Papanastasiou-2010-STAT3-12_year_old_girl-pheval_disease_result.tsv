@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hyper-IgM syndrome type 1	OMIM:308230
+2	0.93	Immunodeficiency, common variable, 2	OMIM:240500
+3	0.92	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.88	Eczema, atopic, 1	OMIM:603165
+5	0.85	Immunodeficiency, common variable, 5	OMIM:613495
+6	0.84	Immunodeficiency, common variable, 12	OMIM:616576
+7	0.83	Immunodeficiency, common variable, 10	OMIM:615577
+8	0.82	Immunodeficiency, common variable, 7	OMIM:614699
+9	0.81	Lymphoproliferative syndrome 2	OMIM:615122
+10	0.8	Ataxia-telangiectasia	OMIM:208900

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson syndrome	OMIM:235730
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+3	0.75	Angelman syndrome	OMIM:105830
+4	0.7	Rett syndrome	OMIM:312750
+5	0.6	Rubinstein-Taybi syndrome	OMIM:180849

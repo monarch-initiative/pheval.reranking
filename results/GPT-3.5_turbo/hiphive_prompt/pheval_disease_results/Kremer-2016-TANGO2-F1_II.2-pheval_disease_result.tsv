@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Pyruvate kinase deficiency of red cells	OMIM:266200
+2	0.75	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+3	0.71	Pyruvate dehydrogenase E1-beta deficiency	OMIM:614111
+4	0.68	Phosphoenolpyruvate carboxykinase 1 deficiency	OMIM:261680
+4	0.68	Leigh syndrome	OMIM:256000
+6	0.67	Lacticacidemia due to PDX1 deficiency	OMIM:610949
+7	0.66	3-methylglutaconic aciduria type 7	OMIM:616271
+8	0.65	Combined oxidative phosphorylation deficiency 2	OMIM:610498
+9	0.63	Short chain acyl-CoA dehydrogenase deficiency	OMIM:201470
+9	0.63	Electron transfer flavoprotein dehydrogenase deficiency	OMIM:231680

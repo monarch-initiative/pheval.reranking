@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic hyperkeratosis	OMIM:113800
+2	0.8	Diffuse non-epidermolytic palmoplantar keratoderma	OMIM:604767
+3	0.7	Diffuse non-epidermolytic plantar keratoderma	OMIM:148700

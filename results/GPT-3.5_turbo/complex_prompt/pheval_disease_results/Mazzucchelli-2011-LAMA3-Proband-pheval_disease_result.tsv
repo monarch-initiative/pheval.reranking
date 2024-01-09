@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa simplex, generalized	OMIM:131900
+2	0.8	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+3	0.7	Epidermolysis bullosa, junctional, non-Herlitz type	OMIM:226650
+4	0.6	Epidermolysis bullosa, pretibial, acquired	OMIM:131750
+5	0.5	Epidermolysis bullosa, pretibial, congenital	OMIM:131850
+6	0.4	Epidermolysis bullosa, simplex with migratory circinate erythema	OMIM:609352
+7	0.3	Epidermolysis bullosa, localisata variant	OMIM:131800
+8	0.2	Epidermolysis bullosa, dystrophic, autosomal dominant	OMIM:132200
+9	0.1	Epidermolysis bullosa, dystrophic, autosomal recessive	OMIM:226600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia, autosomal recessive 20	OMIM:616354
+2	0.8	Hereditary motor and sensory neuropathy, type VIA	OMIM:601152
+2	0.8	Spastic paraparesis 48, autosomal recessive	OMIM:618257
+4	0.7	Spinocerebellar ataxia, autosomal recessive 12	OMIM:614322
+4	0.7	Spastic paraplegia 78, autosomal recessive	OMIM:617225
+4	0.7	Spinocerebellar ataxia, autosomal recessive 8	OMIM:610743
+7	0.6	Spinocerebellar ataxia, autosomal recessive 14	OMIM:615386
+7	0.6	Spastic paraplegia 64, autosomal recessive	OMIM:616459
+7	0.6	Distal spinal muscular atrophy, autosomal recessive, 1	OMIM:604320
+7	0.6	Spinocerebellar ataxia, autosomal recessive 6	OMIM:608278

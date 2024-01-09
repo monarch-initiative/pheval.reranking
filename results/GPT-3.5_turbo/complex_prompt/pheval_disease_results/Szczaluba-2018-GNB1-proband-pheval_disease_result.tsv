@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Fragile X syndrome	OMIM:300624
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Prader-Willi syndrome	OMIM:176270
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Isodicentric chromosome 15 syndrome	OMIM:146410
+7	0.3	Cornelia de Lange syndrome	OMIM:122470
+8	0.2	Cri du chat syndrome	OMIM:123450
+9	0.1	Poland syndrome	OMIM:173800
+10	0.05	3-M syndrome	OMIM:273750

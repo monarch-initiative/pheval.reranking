@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Tuberous sclerosis complex 1	OMIM:191100
+2	0.9	Tuberous sclerosis complex 2	OMIM:613254
+3	0.88	Tuberous sclerosis complex 1 without renal manifestations	OMIM:618575
+4	0.86	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.84	Hepatic fibrosis, renal cysts, and intellectual disability syndrome	OMIM:617874
+6	0.82	Neurofibromatosis, type 1	OMIM:162200
+7	0.8	Megalencephaly-capillary malformation-polymicrogyria syndrome	OMIM:602501
+8	0.74	Huntington disease	OMIM:143100
+9	0.72	Neurofibromatosis, type 2	OMIM:101000
+10	0.7	Cowden syndrome 1	OMIM:158350

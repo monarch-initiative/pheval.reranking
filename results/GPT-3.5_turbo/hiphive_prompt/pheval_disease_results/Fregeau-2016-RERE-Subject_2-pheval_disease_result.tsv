@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Cohen syndrome	OMIM:216550
+3	0.7	Nager syndrome	OMIM:154400
+3	0.7	Oculodentodigital dysplasia	OMIM:164200
+5	0.6	Townes-Brocks syndrome	OMIM:107480
+5	0.6	Saethre-Chotzen syndrome	OMIM:101400
+5	0.6	Familial hypercholesterolemia	OMIM:143890
+8	0.5	Opitz G/BBB syndrome	OMIM:300000
+8	0.5	Noonan syndrome	OMIM:163950
+8	0.5	Greig cephalopolysyndactyly syndrome	OMIM:175700

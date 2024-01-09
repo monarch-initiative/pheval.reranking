@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.891	Dandy-Walker Malformation	OMIM:220200
+2	0.882	Waardenburg Syndrome	OMIM:277580
+3	0.874	Cockayne Syndrome	OMIM:216400
+4	0.868	Alagille Syndrome	OMIM:118450
+5	0.864	Treacher Collins Syndrome	OMIM:154500
+6	0.861	CHARGE Syndrome	OMIM:214800
+7	0.849	Cornelia de Lange Syndrome	OMIM:122470
+8	0.843	Turner Syndrome	OMIM:313850
+9	0.835	Kleefstra Syndrome	OMIM:610253
+10	0.828	FRAXE Intellectual Disability	OMIM:309548

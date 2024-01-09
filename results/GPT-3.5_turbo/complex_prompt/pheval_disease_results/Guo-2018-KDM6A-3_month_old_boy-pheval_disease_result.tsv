@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.85	Cri-du-chat syndrome	OMIM:123450
+3	0.8	Trisomy 18	OMIM:190146
+4	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.7	CHARGE syndrome	OMIM:214800
+6	0.65	Mowat-Wilson syndrome	OMIM:235730
+7	0.6	Kabuki syndrome	OMIM:147920
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	Goldenhar syndrome	OMIM:164210
+10	0.45	Congenital hypothyroidism	OMIM:218700

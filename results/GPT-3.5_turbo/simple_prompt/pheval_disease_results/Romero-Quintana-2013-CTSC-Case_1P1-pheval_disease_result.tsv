@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Severe periodontitis	OMIM:170650
+2	0.8	Alveolar bone loss around teeth	OMIM:170650
+3	0.7	Chronic furunculosis	OMIM:614303
+4	0.6	Folliculitis	OMIM:614303
+5	0.5	Palmoplantar hyperkeratosis	OMIM:144200
+6	0.4	Premature loss of primary teeth	OMIM:147630

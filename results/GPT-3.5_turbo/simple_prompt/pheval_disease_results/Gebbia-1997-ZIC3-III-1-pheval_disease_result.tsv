@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Transposition of the great arteries	OMIM:608808
+2	0.92	Complete atrioventricular canal defect	OMIM:600309
+3	0.9	Ventricular septal defect	OMIM:614429
+4	0.86	Single ventricle	OMIM:614980
+5	0.81	Patent ductus arteriosus	OMIM:607411
+6	0.78	Pulmonary artery hypoplasia	OMIM:265400
+7	0.72	Pulmonary artery atresia	OMIM:265150
+8	0.68	Asplenia	OMIM:271400
+9	0.63	Posteriorly placed anus	OMIM:301830
+10	0.57	Arrhinencephaly	OMIM:600329
+11	0.52	Abdominal situs inversus	OMIM:270100
+12	0.47	Abnormal ciliary motility	OMIM:244400

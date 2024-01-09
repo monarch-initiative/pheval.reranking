@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Cerebral palsy	OMIM:603513
+2	0.91	Attention deficit hyperactivity disorder	OMIM:143465
+3	0.88	Lissencephaly	OMIM:607432
+4	0.85	Cognitive impairment	OMIM:614327
+5	0.82	Hip dysplasia	OMIM:142700
+6	0.79	Genu valgum	OMIM:606641
+7	0.76	Myoclonus	OMIM:254650
+8	0.73	Postural tremor	OMIM:190300
+9	0.7	Hyperlordosis	OMIM:144410
+10	0.67	Torticollis	OMIM:189600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bartter syndrome, type 4b, neonatal, with sensorineural deafness	OMIM:613090
+2	0.8	Branchiootorenal syndrome 1	OMIM:113650
+3	0.7	Wolcott-Rallison syndrome	OMIM:226980
+4	0.6	Fanconi-Bickel syndrome	OMIM:227810
+5	0.5	Seckel syndrome 1	OMIM:210600
+6	0.4	Sickle cell anemia	OMIM:603903
+7	0.3	Donohue syndrome	OMIM:246200
+8	0.2	Fanconi anemia, complementation group A	OMIM:227650
+9	0.1	Joubert syndrome 2	OMIM:608091
+10	0.05	Alagille syndrome 1	OMIM:118450

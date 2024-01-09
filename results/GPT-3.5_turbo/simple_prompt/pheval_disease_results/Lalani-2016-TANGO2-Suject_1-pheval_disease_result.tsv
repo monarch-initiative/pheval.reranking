@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial Myopathy	OMIM:251900
+2	0.9	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+3	0.85	Carnitine Palmitoyltransferase II Deficiency	OMIM:600649
+4	0.8	Glutaric Acidemia Type I	OMIM:231670
+5	0.75	Pyruvate Dehydrogenase E1-alpha Deficiency	OMIM:312170
+6	0.7	Nonketotic Hyperglycinemia	OMIM:605899
+7	0.65	Pyruvate Dehydrogenase E1-beta Deficiency	OMIM:614111
+8	0.6	GRACILE Syndrome	OMIM:603358
+9	0.55	Generalized Epilepsy with Febrile Seizures Plus	OMIM:604233
+10	0.5	Pontocerebellar Hypoplasia Type 2A	OMIM:277470

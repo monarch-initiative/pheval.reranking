@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Chédiak-Higashi syndrome	OMIM:214500
+3	0.7	Refsum disease	OMIM:266500
+4	0.6	Biotinidase deficiency	OMIM:253260
+5	0.5	Ataxia with oculomotor apraxia type 2	OMIM:606002
+6	0.4	Mitochondrial DNA depletion syndrome	OMIM:251880
+7	0.3	ATM-related telangiectasia disorder	OMIM:208900
+8	0.2	Galloway-Mowat syndrome	OMIM:251300
+9	0.1	Lowe syndrome	OMIM:309000
+10	0.05	Pseudohypoaldosteronism type 1	OMIM:264350

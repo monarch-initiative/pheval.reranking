@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.8	Usher syndrome type 2A	OMIM:276901
+3	0.7	Kearns-Sayre syndrome	OMIM:530000
+4	0.6	Bardet-Biedl syndrome	OMIM:209900
+5	0.5	Leber congenital amaurosis	OMIM:204000
+6	0.4	Choroideremia	OMIM:303100
+7	0.3	Cone-rod dystrophy	OMIM:120970
+8	0.2	X-linked retinoschisis	OMIM:312700
+9	0.1	Macular degeneration	OMIM:603075

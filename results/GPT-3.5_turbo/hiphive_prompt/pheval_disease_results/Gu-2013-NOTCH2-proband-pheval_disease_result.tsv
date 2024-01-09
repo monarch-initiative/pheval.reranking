@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta	OMIM:166200
+2	0.92	Coffin-Lowry syndrome	OMIM:303600
+3	0.88	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.87	Treacher Collins syndrome	OMIM:154500
+5	0.86	Noonan syndrome	OMIM:163950
+6	0.85	Silver-Russell syndrome	OMIM:180860
+7	0.82	Crouzon syndrome	OMIM:123500
+8	0.81	Werner syndrome	OMIM:277700
+9	0.8	Cohen syndrome	OMIM:216550
+10	0.79	Fanconi anemia	OMIM:227650

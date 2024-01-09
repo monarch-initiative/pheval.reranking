@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly	OMIM:142945
+2	0.85	Microcephaly	OMIM:251200
+3	0.8	Cleft Lip/Palate	OMIM:119530
+4	0.78	Diabetes Insipidus	OMIM:125700
+5	0.75	Septo-Optic Dysplasia	OMIM:182230
+6	0.72	Diabetes Mellitus	OMIM:222100
+7	0.7	Depressed Nasal Tip	OMIM:615505
+8	0.68	Nasopalpebral Lipoma-Coloboma Syndrome	OMIM:167730
+9	0.65	Craniofacial Dysmorphism-Hypotelorism-Abnormal Cortical Brain Morphology Syndrome	OMIM:618536
+10	0.63	Septo-Optic-Pituitary Dysplasia	OMIM:182230

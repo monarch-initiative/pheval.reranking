@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.85	Leber congenital amaurosis	OMIM:204000
+3	0.8	Cone-rod dystrophy	OMIM:120970
+4	0.75	Retinal vasculopathy with cerebral leukodystrophy	OMIM:192315
+5	0.7	Enhanced S-cone syndrome	OMIM:268100
+6	0.65	Foveal hypoplasia	OMIM:136520
+7	0.6	Bardet-Biedl syndrome	OMIM:209900
+8	0.55	Choroideremia	OMIM:303100
+9	0.5	Senior-Løken syndrome	OMIM:266900
+10	0.45	Alström syndrome	OMIM:203800

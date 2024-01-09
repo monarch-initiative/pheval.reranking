@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Iron deficiency anemia	OMIM:615104
+2	0.8	Vitamin B12 deficiency anemia	OMIM:261100
+3	0.7	Megaloblastic anemia 1	OMIM:261100
+4	0.6	Fanconi anemia, complementation group A	OMIM:227650
+4	0.6	Fanconi anemia, complementation group B	OMIM:227650
+4	0.6	Fanconi anemia, complementation group C	OMIM:227650
+4	0.6	Fanconi anemia, complementation group D1	OMIM:227646
+4	0.6	Fanconi anemia, complementation group D2	OMIM:227646
+4	0.6	Fanconi anemia, complementation group E	OMIM:613845
+4	0.6	Fanconi anemia, complementation group F	OMIM:613897

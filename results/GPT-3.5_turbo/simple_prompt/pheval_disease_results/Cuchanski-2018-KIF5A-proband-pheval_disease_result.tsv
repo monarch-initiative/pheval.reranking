@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Spastic paraplegia 4, autosomal recessive	OMIM:609195
+4	0.6	Hereditary spastic paraplegia	OMIM:604805
+5	0.5	Charcot-Marie-Tooth disease type 2A1	OMIM:118210
+6	0.4	Spastic paraplegia 3A	OMIM:182600
+7	0.3	Charcot-Marie-Tooth disease type 4D	OMIM:601455
+8	0.2	Charcot-Marie-Tooth disease type 2A2	OMIM:609260
+9	0.1	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+10	0.05	Ataxia with oculomotor apraxia type 2	OMIM:606002

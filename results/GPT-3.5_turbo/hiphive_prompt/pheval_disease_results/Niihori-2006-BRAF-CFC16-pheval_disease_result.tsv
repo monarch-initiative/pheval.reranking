@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+3	0.82	Noonan syndrome	OMIM:163950
+4	0.8	Brunzell syndrome	OMIM:400500
+5	0.75	Ichthyosis follicularis, atrichia, and photophobia syndrome	OMIM:308205
+6	0.7	Rett syndrome	OMIM:312750
+7	0.65	Congenital disorder of glycosylation type IIi	OMIM:607091
+8	0.6	Kohlschütter-Tönz syndrome	OMIM:226750
+9	0.55	X-linked intellectual disability, Siderius type	OMIM:300263
+10	0.5	Mabry syndrome	OMIM:241510

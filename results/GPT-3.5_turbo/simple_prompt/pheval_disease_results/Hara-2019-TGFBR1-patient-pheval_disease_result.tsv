@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Homocystinuria	OMIM:236200
+5	0.5	Stickler syndrome	OMIM:108300

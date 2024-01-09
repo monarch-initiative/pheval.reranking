@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson syndrome	OMIM:235730
+2	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	NGLY1 deficiency	OMIM:615273
+6	0.4	Pontocerebellar hypoplasia type 2A	OMIM:277470
+7	0.3	17q21.31 microdeletion syndrome	OMIM:610443
+8	0.2	1p36 deletion syndrome	OMIM:607872
+9	0.1	Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome	OMIM:601338
+9	0.1	Floating-Harbor syndrome	OMIM:136140

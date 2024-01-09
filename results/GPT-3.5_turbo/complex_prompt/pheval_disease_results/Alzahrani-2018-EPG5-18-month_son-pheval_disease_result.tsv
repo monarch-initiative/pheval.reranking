@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Cri-du-chat syndrome	OMIM:123450
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+4	0.7	Trisomy 18	OMIM:190685
+4	0.7	Prader-Willi syndrome	OMIM:176270
+4	0.7	Angelman syndrome	OMIM:105830
+4	0.7	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+8	0.6	Oculoauriculovertebral spectrum	OMIM:164210
+8	0.6	Williams syndrome	OMIM:194050
+8	0.6	Cohen syndrome	OMIM:216550

@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Polymorphic ventricular tachycardia	OMIM:192500
+2	0.9	Ventricular fibrillation	OMIM:603829
+3	0.8	Myocarditis	OMIM:604145
+4	0.7	Prolonged QTc interval	OMIM:609621

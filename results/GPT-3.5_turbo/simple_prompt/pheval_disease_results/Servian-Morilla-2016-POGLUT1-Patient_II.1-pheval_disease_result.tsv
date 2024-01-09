@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Facioscapulohumeral muscular dystrophy	OMIM:158900
+2	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.8	Becker muscular dystrophy	OMIM:300376
+4	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+5	0.6	Duchenne muscular dystrophy	OMIM:310200

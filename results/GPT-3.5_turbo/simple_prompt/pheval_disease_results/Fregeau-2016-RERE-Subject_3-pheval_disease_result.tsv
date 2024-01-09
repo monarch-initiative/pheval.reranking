@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cohen Syndrome	OMIM:216550
+2	0.990909090909091	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.9818181818181818	Cri-du-Chat Syndrome	OMIM:123450
+4	0.9545454545454546	Cornelia de Lange Syndrome	OMIM:122470
+5	0.9454545454545454	Neurofibromatosis, Type 1	OMIM:162200
+6	0.9260869565217391	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.9090909090909091	Autism Spectrum Disorder	OMIM:209850
+8	0.9	Kabuki Syndrome	OMIM:147920
+9	0.8636363636363636	Beckwith-Wiedemann Syndrome	OMIM:130650
+10	0.8454545454545455	Alagille Syndrome	OMIM:118450

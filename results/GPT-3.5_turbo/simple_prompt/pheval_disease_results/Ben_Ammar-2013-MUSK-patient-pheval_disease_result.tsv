@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myasthenic Syndrome	OMIM:CMS
+2	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Mitochondrial Myopathy	OMIM:157640
+4	0.6	Congenital ptosis	OMIM:178325
+5	0.5	Obstructive Sleep Apnea	OMIM:107650

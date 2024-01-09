@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inflammatory bowel disease 25, autosomal recessive	OMIM:226250
+2	0.8	Niemann-Pick disease, type C1	OMIM:257220
+2	0.8	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive	OMIM:608971
+4	0.7	Cutaneous mastocytosis, somatic	OMIM:154800
+4	0.7	Chilblain lupus 2	OMIM:614415
+6	0.6	Griscelli syndrome, type 2	OMIM:607624
+6	0.6	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+8	0.5	Congenital disorder of glycosylation, type Ia	OMIM:212065
+8	0.5	Cartilage-hair hypoplasia	OMIM:250250
+10	0.4	Short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies	OMIM:617862

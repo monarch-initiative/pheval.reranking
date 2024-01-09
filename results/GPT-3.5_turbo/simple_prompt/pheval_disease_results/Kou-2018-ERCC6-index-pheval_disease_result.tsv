@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.7	Trisomy 13	OMIM:190685
+4	0.6	Seckel Syndrome 1	OMIM:210600
+5	0.5	Cockayne Syndrome	OMIM:216400

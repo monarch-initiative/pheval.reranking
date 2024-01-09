@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hepatic steatosis	OMIM:142400
+1	1.0	Hypercholesterolemia	OMIM:143890
+3	0.9	Elevated serum alanine aminotransferase	OMIM:104200
+3	0.9	Elevated alkaline phosphatase	OMIM:171760
+3	0.9	Elevated serum aspartate aminotransferase	OMIM:104300
+6	0.8	Decreased serum ceruloplasmin	OMIM:117700
+6	0.8	Reduced antithrombin III activity	OMIM:613118
+6	0.8	Abnormal protein N-linked glycosylation	OMIM:615273
+9	0.7	Increased LDL cholesterol concentration	OMIM:143890
+10	0.6	Abnormal circulating copper concentration	OMIM:219700
+10	0.6	Abnormal protein O-linked glycosylation	OMIM:615273

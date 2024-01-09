@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypotrichosis 7	OMIM:604379
+2	0.85	Keratosis palmoplantaris papulosa	OMIM:148600
+3	0.8	Ectodermal dysplasia 4, hair/nail type	OMIM:602032
+4	0.75	Macular dystrophy, retinal, 1	OMIM:248200
+5	0.7	Focal facial dermal dysplasia 3, Setleis type	OMIM:229520
+6	0.65	Hidrotic ectodermal dysplasia 2	OMIM:602302
+7	0.6	Monilethrix	OMIM:158000
+8	0.55	Hypotrichosis 2	OMIM:146520
+9	0.5	Monilethrix	OMIM:158000
+10	0.45	Hypotrichosis 8	OMIM:278150

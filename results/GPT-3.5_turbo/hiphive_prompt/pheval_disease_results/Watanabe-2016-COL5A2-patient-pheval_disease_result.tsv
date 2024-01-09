@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.8	Stickler syndrome type 2	OMIM:604841
+3	0.75	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.7	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+5	0.65	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+6	0.6	Congenital disorder of glycosylation type 1D	OMIM:601110
+7	0.55	Muscular dystrophy, Duchenne type	OMIM:310200
+8	0.5	Muscular dystrophy, limb-girdle, type 2A	OMIM:253600
+9	0.45	Ehlers-Danlos syndrome, tenascin X deficient type	OMIM:606408
+10	0.4	Marfan syndrome	OMIM:154700

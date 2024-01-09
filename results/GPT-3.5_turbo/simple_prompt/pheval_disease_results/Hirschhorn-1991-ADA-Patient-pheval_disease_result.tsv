@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Combined immunodeficiency	OMIM:613496
+2	0.8	Bare lymphocyte syndrome, type I	OMIM:604571
+3	0.7	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive	OMIM:608971
+4	0.6	Severe combined immunodeficiency, X-linked	OMIM:300400
+5	0.5	X-linked lymphoproliferative disease	OMIM:308240

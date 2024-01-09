@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+2	0.8	Hematologic abnormalities with mental retardation	OMIM:300200
+3	0.7	Bernard-Soulier syndrome, type B	OMIM:153670
+4	0.6	Bernard-Soulier syndrome, type A	OMIM:231200
+5	0.5	Platelet-type bleeding disorder 18	OMIM:615888

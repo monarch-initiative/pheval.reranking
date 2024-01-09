@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epilepsy, idiopathic generalized	OMIM:600669
+2	0.89	Autism Spectrum Disorder	OMIM:209850
+3	0.87	Developmental delay with epilepsy and neonatal diabetes	OMIM:614499
+4	0.83	Infantile spasms	OMIM:308350
+5	0.82	Global developmental delay, absent or delayed speech, dysmorphic features, and catatonia	OMIM:617065
+6	0.81	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	OMIM:618322
+7	0.79	Epileptic encephalopathy, early infantile, 2	OMIM:300672
+8	0.77	Intellectual developmental disorder with behavioral abnormality and craniofacial dysmorphism	OMIM:618399
+9	0.76	Heterotaxy, visceral, 3, autosomal recessive	OMIM:314390
+10	0.75	Developmental and epileptic encephalopathy 35	OMIM:616647

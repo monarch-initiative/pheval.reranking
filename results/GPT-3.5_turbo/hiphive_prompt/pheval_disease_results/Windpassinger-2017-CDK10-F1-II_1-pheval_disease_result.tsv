@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Rubinstein-Taybi syndrome	OMIM:610543
+2	0.95	Schinzel-Giedion syndrome	OMIM:269150
+3	0.93	Coffin-Lowry syndrome	OMIM:303600
+4	0.92	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+5	0.89	Pitt-Hopkins syndrome	OMIM:610954
+6	0.85	Sotos syndrome	OMIM:117550
+7	0.82	Coffin-Siris syndrome	OMIM:135900
+8	0.79	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.72	Say-Meyer syndrome	OMIM:309580
+10	0.7	Marshall-Smith syndrome	OMIM:602535

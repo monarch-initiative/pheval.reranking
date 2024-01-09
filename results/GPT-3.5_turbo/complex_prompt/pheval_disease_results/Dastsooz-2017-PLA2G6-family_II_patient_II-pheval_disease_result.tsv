@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial myopathy	OMIM:251850
+2	0.85	Glycogen storage disease type II	OMIM:232300
+3	0.8	Muscular dystrophy, Duchenne type	OMIM:310200
+4	0.75	Leigh syndrome	OMIM:256000
+5	0.7	Lysosomal acid lipase deficiency	OMIM:278000
+6	0.65	Familial hemophagocytic lymphohistiocytosis	OMIM:267700
+7	0.6	Pyruvate kinase deficiency of erythrocytes	OMIM:266200
+8	0.55	Lafora disease	OMIM:254780
+9	0.5	Carnitine palmitoyltransferase II deficiency	OMIM:600649
+10	0.45	Neuronal ceroid lipofuscinosis	OMIM:204500

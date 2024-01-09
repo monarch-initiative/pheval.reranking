@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Albinism	OMIM:203100
+3	0.7	Epilepsy	OMIM:613001
+4	0.6	Cerebral palsy	OMIM:603513
+5	0.5	Pontocerebellar hypoplasia	OMIM:607596

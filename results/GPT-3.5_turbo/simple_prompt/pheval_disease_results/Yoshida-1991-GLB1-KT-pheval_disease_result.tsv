@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	GM1 gangliosidosis	OMIM:230500
+2	0.85	Mucopolysaccharidosis, type VI	OMIM:253200
+3	0.8	Mucopolysaccharidosis, type IVB	OMIM:253010

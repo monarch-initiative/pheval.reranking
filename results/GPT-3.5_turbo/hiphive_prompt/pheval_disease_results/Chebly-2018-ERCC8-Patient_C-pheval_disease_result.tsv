@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly	OMIM:251200
+2	0.8	Congenital Cataract	OMIM:604219
+3	0.7	Branchiootic Syndrome 1	OMIM:602588
+4	0.6	Cat Eye Syndrome	OMIM:115470
+5	0.5	Cockayne Syndrome	OMIM:133540
+6	0.4	Lethal Faciocardiomelic Dysplasia	OMIM:277810
+7	0.3	Fontaine Progeroid Syndrome	OMIM:612289
+8	0.2	Familial Isolated Trigonocephaly	OMIM:190440
+9	0.1	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Combined Oxidative Phosphorylation Deficiency	OMIM:609060

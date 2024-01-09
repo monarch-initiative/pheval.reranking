@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis	OMIM:605284
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Tuberous sclerosis-1	OMIM:191100
+4	0.6	Neurofibromatosis-Noonan syndrome	OMIM:601321

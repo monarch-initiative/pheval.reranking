@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.85	Cohen syndrome	OMIM:216550
+3	0.83	Coffin-Lowry syndrome	OMIM:303600
+4	0.82	Saethre-Chotzen syndrome	OMIM:101400
+5	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.79	Cerebellar ataxia	OMIM:208600
+7	0.76	Seckel syndrome	OMIM:210600
+8	0.74	CHARGE syndrome	OMIM:214800
+9	0.72	Angelman syndrome	OMIM:105830
+10	0.7	Prader-Willi syndrome	OMIM:176270

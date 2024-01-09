@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome	OMIM:117550
+2	0.8	Weaver syndrome	OMIM:277590
+2	0.8	Simpson-Golabi-Behmel syndrome	OMIM:312870
+4	0.7	Pallister-Hall syndrome	OMIM:146510
+4	0.7	Opitz-Kaveggia syndrome	OMIM:305450
+6	0.6	X-linked intellectual disability, Lubs type	OMIM:300260
+6	0.6	Floating-Harbor syndrome	OMIM:136140
+6	0.6	Aarskog-Scott syndrome	OMIM:305400
+9	0.5	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.5	Ondine syndrome	OMIM:244320

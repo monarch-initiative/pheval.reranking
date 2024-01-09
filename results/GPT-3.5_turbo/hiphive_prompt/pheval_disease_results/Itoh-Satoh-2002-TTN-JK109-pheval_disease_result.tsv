@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dilated cardiomyopathy	OMIM:115200
+2	0.92	Congestive heart failure	OMIM:614930
+3	0.85	Premature atrial contractions	OMIM:108950
+4	0.8	Atrioventricular block	OMIM:609046

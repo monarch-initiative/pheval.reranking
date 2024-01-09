@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Hypophosphatasia	OMIM:241500
+3	0.7	Pseudohypoparathyroidism	OMIM:103580
+4	0.6	Short stature due to primary acid-labile subunit deficiency	OMIM:604271
+5	0.5	Osteogenesis imperfecta type XI	OMIM:610968

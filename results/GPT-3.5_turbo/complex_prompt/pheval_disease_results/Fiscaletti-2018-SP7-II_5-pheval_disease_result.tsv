@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:614134
+2	0.85	Osteogenesis imperfecta	OMIM:259420
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.75	Ehlers-Danlos syndrome	OMIM:130050
+5	0.7	Chondrodysplasia punctata	OMIM:302950
+6	0.65	Ehlers-Danlos syndrome, arthrochalasia type	OMIM:130060
+7	0.6	Kniest dysplasia	OMIM:156550
+8	0.55	Brittle cornea syndrome	OMIM:229200
+9	0.5	Otospondylomegaepiphyseal dysplasia	OMIM:215150
+10	0.45	Larsen syndrome	OMIM:150250

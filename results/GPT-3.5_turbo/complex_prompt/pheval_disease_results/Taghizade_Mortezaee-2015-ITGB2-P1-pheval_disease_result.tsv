@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Omphalitis, neonatal, with persistent omphalomesenteric duct	OMIM:603457
+2	0.8	Neutrophilia	OMIM:162830
+3	0.7	Skin Ulcer	OMIM:278800
+4	0.6	Omphalitis	OMIM:232900
+5	0.5	Neonatal Umbilical Cord Infection	OMIM:270525
+6	0.4	Primary Omphalitis	OMIM:270528

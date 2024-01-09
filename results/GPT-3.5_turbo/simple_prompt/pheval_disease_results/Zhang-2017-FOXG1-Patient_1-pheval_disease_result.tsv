@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	1p36 deletion syndrome	OMIM:607872
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+5	0.5	X-linked intellectual disability	OMIM:300898
+6	0.4	Triple X syndrome	OMIM:314390
+7	0.3	Cri-du-chat syndrome	OMIM:123450
+8	0.2	17q12 deletion syndrome	OMIM:614527
+9	0.1	MECP2 duplication syndrome	OMIM:300260
+10	0.05	Kabuki syndrome	OMIM:147920

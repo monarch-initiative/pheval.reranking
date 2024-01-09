@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, type 3	OMIM:253400
+2	0.8	Congenital myasthenic syndrome	OMIM:601462
+3	0.7	Spinal muscular atrophy, type 1	OMIM:253300
+4	0.6	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.5	Huntington disease	OMIM:143100

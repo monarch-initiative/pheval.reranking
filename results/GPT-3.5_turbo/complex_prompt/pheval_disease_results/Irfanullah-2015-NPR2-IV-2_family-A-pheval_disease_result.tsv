@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fibular hypoplasia-intellectual disability-short stature syndrome	OMIM:228960
+2	0.8	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+3	0.7	Metaphyseal dysplasia with maxillary hypoplasia with or without brachydactyly	OMIM:156610
+4	0.6	Baller-Gerold syndrome	OMIM:218600
+5	0.5	Nievergelt syndrome	OMIM:141400
+6	0.4	Robin sequence with cleft mandible and limb anomalies	OMIM:268305
+7	0.3	Acrodysostosis with multiple hormone resistance	OMIM:101800
+8	0.2	Schneckenbecken dysplasia	OMIM:269250
+9	0.1	Grebe-type chondrodysplasia	OMIM:200700
+10	0.05	Achondroplasia	OMIM:100800

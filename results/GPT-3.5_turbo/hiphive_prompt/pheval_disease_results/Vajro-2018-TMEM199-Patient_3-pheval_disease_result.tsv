@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.87	Alpha-1-antitrypsin deficiency	OMIM:613490
+3	0.85	Crigler-Najjar syndrome	OMIM:218800
+4	0.83	Gilbert syndrome	OMIM:143500
+5	0.81	Glycogen storage disease type III	OMIM:232400
+6	0.8	Hemochromatosis	OMIM:235200
+7	0.79	Primary biliary cholangitis	OMIM:109720
+8	0.78	Congenital disorder of glycosylation type Ia	OMIM:212065
+9	0.77	Familial hypercholesterolemia	OMIM:143890
+10	0.76	Rheumatoid arthritis	OMIM:180300

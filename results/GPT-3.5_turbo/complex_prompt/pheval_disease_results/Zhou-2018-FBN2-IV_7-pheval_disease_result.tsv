@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Loeys-Dietz syndrome	OMIM:609192
+3	0.7	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.6	Homocystinuria	OMIM:236200
+5	0.5	Stickler syndrome	OMIM:108300
+6	0.4	Osteogenesis imperfecta	OMIM:166200
+7	0.3	Kabuki syndrome	OMIM:147920
+8	0.2	Fragile X syndrome	OMIM:300624
+9	0.1	Prader-Willi syndrome	OMIM:176270
+10	0.05	Beckwith-Wiedemann syndrome	OMIM:130650

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Fragile X syndrome	OMIM:300624
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Phelan-McDermid syndrome	OMIM:606232
+7	0.3	Cri-du-chat syndrome	OMIM:123450
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Prader-Willi syndrome	OMIM:176270
+9	0.1	Fragile X-associated tremor/ataxia syndrome	OMIM:300623

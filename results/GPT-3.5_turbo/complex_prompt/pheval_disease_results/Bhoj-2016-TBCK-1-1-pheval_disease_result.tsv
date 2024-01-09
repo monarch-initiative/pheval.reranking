@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	Cri-du-chat syndrome	OMIM:123450
+4	0.7	Phelan-McDermid syndrome	OMIM:606232
+4	0.7	Smith-Magenis syndrome	OMIM:182290
+7	0.6	Microcephaly	OMIM:251200
+7	0.6	Fragile X syndrome	OMIM:300624
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.5	Pitt-Hopkins-like syndrome	OMIM:610042

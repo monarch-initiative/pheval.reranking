@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary elliptocytosis	OMIM:182900
+2	0.8	Glucose-6-phosphate dehydrogenase deficiency	OMIM:305900
+3	0.7	Hereditary spherocytosis	OMIM:182900
+4	0.6	Autoimmune hemolytic anemia	OMIM:205700
+5	0.5	Congenital dyserythropoietic anemia type II	OMIM:224100
+6	0.4	Chronic myeloid leukemia	OMIM:608232
+7	0.3	Hemoglobinopathies	OMIM:141800
+8	0.2	Gilbert syndrome	OMIM:143500
+9	0.1	Thalassemia	OMIM:141800

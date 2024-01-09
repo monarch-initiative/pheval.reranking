@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Andersen-Tawil syndrome	OMIM:170390

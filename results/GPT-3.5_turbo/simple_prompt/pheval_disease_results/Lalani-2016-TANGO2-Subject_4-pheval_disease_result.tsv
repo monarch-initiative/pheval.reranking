@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Hyperthyroidism	OMIM:609152
+2	0.7	McArdle Disease	OMIM:232600
+2	0.7	Familial Hypokalemic Periodic Paralysis	OMIM:170400
+2	0.7	Hypokalemic Periodic Paralysis	OMIM:170400
+5	0.6	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+5	0.6	Multiple Acyl-CoA Dehydrogenase Deficiency	OMIM:231680
+7	0.5	Hypothyroidism	OMIM:610978
+7	0.5	Hyperammonemia-Hyperornithinemia-Homocitrullinuria Syndrome	OMIM:238970
+9	0.4	Protein Essentiality in Multiple Organ Systems Dysfunction Syndrome	OMIM:618725
+9	0.4	Hyperthyroxinemia	OMIM:145680

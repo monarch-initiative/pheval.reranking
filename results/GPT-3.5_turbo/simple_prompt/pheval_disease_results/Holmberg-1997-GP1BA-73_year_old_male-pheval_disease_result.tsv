@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome	OMIM:231200
+2	0.8	Glanzmann thrombasthenia	OMIM:273800
+3	0.7	Gray platelet syndrome	OMIM:139090
+4	0.6	Scott syndrome	OMIM:262890
+5	0.5	May-Hegglin anomaly	OMIM:155100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Charcot-Marie-Tooth Disease, X-Linked Dominant, 2	OMIM:302801
+2	0.8	Hereditary Motor and Sensory Neuropathy, TYPE Vii, Aka Roussy-Levy Syndrome	OMIM:162400
+3	0.75	Motor Neuron Disease, Sporadic Adult-Onset, 1	OMIM:105400
+4	0.7	Ataxia-Telangiectasia-like Disorder	OMIM:604391
+5	0.65	Huntington Disease-Like 2	OMIM:606438
+6	0.6	Ataxia, Combined Cerebellar and Peripheral, with hearing loss and diabetes mellitus	OMIM:609282
+7	0.55	Charcot-Marie-Tooth Disease, Type 2a2a2b1c	OMIM:617087
+8	0.5	Charcot-Marie-Tooth Disease, Type 2n	OMIM:613287
+9	0.45	Autosomal Recessive Inclusion Body Myopathy with Early-onset Paget Disease and Frontotemporal Dementia	OMIM:615471
+10	0.4	Metachondromatosis	OMIM:156250

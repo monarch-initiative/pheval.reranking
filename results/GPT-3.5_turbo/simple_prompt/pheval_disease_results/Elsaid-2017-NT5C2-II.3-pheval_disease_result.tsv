@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Congenital Talipes Equinovarus	OMIM:192100
+2	0.9	Global Developmental Delay	OMIM:617732
+3	0.8	Intellectual Disability	OMIM:616418
+4	0.7	Hypoplasia of the Corpus Callosum	OMIM:217990
+5	0.6	Progressive Spasticity	OMIM:603513

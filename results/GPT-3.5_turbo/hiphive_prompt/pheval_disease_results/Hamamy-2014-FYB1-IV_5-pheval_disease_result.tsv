@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Paris-Trousseau syndrome	OMIM:188025
+2	0.89	Bernard-Soulier syndrome	OMIM:231200
+3	0.88	May-Hegglin anomaly	OMIM:155100
+4	0.86	Gray platelet syndrome	OMIM:139090
+5	0.82	Thrombocytopenia, X-linked, with or without dyserythropoietic anemia	OMIM:300367
+6	0.81	CAMT syndrome	OMIM:OMIM:305900
+7	0.79	Myh10-related disorders	OMIM:OMIM:613303
+8	0.78	thrombocytopenia 1	OMIM:313900
+9	0.76	neutropenia and thrombocytopenia 1	OMIM:OMIM:617441
+10	0.71	thrombocytopenia 2	OMIM:188000

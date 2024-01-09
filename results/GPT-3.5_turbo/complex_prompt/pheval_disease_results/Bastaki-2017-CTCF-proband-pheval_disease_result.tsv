@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.6	Coffin-Lowry syndrome	OMIM:303600
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Cornelia de Lange syndrome 2	OMIM:300590
+7	0.3	Noonan syndrome	OMIM:163950
+8	0.2	22q11.2 deletion syndrome	OMIM:188400
+9	0.1	Cri du chat syndrome	OMIM:123450

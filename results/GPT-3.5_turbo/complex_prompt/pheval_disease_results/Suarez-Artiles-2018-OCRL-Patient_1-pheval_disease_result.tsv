@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Open Angle Glaucoma	OMIM:137760
+2	0.8	Renal Glucosuria	OMIM:233100
+3	0.7	Nephropathy with Pretibial Epidermolysis Bullosa and Deafness	OMIM:609057
+4	0.6	Cataract, Central Nuclear	OMIM:601286
+5	0.5	Intellectual Disability	OMIM:614607
+6	0.4	Hypotonia, Infantile	OMIM:607654
+7	0.3	Aminoaciduria	OMIM:204750

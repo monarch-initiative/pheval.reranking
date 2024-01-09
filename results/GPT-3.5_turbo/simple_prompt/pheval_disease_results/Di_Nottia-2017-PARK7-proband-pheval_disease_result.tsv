@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Friedreich ataxia	OMIM:229300
+2	0.9	Spastic ataxia 1	OMIM:108600
+3	0.8	Ataxia-telangiectasia	OMIM:208900
+4	0.7	Hereditary sensory neuropathy type IE	OMIM:617403
+5	0.6	Mitochondrial myopathy with diabetes	OMIM:500458

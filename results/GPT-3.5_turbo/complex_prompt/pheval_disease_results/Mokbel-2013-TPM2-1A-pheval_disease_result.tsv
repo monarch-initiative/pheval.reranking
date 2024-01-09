@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Myopathy, nemaline, 4	OMIM:609169
+2	0.9	Nemaline myopathy 8	OMIM:615348
+3	0.8	Myopathy, nemaline, 1	OMIM:161800
+4	0.7	Myopathy, nemaline, 5	OMIM:605355
+5	0.6	Myopathy, nemaline, 3	OMIM:161800
+6	0.5	Myopathy, nemaline, 6	OMIM:609273
+7	0.4	Myopathy, cap-like structures	OMIM:614807
+8	0.3	Distal myopathy with vocal cord weakness	OMIM:605809
+9	0.2	Centronuclear myopathy	OMIM:160150
+10	0.1	Limb-girdle muscular dystrophy type 2B	OMIM:253601

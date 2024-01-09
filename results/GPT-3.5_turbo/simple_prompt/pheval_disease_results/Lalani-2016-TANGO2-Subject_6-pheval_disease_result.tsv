@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:590650
+2	0.9	Medium-chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+3	0.8	Glutaric aciduria type 1	OMIM:231670
+4	0.7	Propionic acidemia	OMIM:606054
+5	0.6	Methylmalonic acidemia with homocystinuria	OMIM:251100
+6	0.5	Maple syrup urine disease	OMIM:248600
+7	0.4	Organic acidemia	OMIM:232050
+8	0.3	Pyruvate dehydrogenase lipoic acid synthetase deficiency	OMIM:614462
+9	0.2	L-2-hydroxyglutaric aciduria	OMIM:236792
+10	0.1	Glutaric acidemia type 2	OMIM:231680

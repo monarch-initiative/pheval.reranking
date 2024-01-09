@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Wilson Disease	OMIM:277900
+2	0.8	Hemochromatosis	OMIM:235200
+3	0.7	Leukoencephalopathy, cystic, without megalencephaly	OMIM:604004
+4	0.6	Lactate Dehydrogenase Deficiency	OMIM:150000
+5	0.5	Ferritinopathy	OMIM:615604

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.8	Achondroplasia	OMIM:100800
+3	0.7	Metaphyseal Anadysplasia 2	OMIM:613073
+4	0.6	Short Rib-Polydactyly Syndrome	OMIM:263520
+5	0.5	Osteoporosis	OMIM:166710
+6	0.4	Brittle Cornea Syndrome	OMIM:229200
+7	0.35	Campomelic Dysplasia	OMIM:114290
+8	0.3	Cleidocranial Dysplasia	OMIM:119600
+9	0.25	Stickler Syndrome	OMIM:108300
+10	0.2	Diastrophic Dysplasia	OMIM:222600

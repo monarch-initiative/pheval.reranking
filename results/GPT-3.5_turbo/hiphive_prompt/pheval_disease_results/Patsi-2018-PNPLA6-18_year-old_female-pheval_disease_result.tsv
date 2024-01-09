@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Friedreich ataxia	OMIM:229300
+2	0.93	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.91	Spinocerebellar ataxia type 2	OMIM:183090
+4	0.9	Spinocerebellar ataxia type 3	OMIM:109150
+4	0.9	Friedreich-like ataxia	OMIM:606977
+6	0.89	Spinocerebellar ataxia type 10	OMIM:603516
+7	0.88	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+8	0.87	Spinocerebellar ataxia type 4	OMIM:166700
+9	0.86	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome	OMIM:224050
+10	0.85	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome	OMIM:614575

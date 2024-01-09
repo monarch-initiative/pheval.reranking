@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuch's endothelial corneal dystrophy	OMIM:136800
+2	0.85	Posterior polymorphous corneal dystrophy	OMIM:122000
+3	0.8	Congenital hereditary endothelial dystrophy	OMIM:122100
+4	0.75	Congenital stromal corneal dystrophy	OMIM:610048
+5	0.7	Keratoconus	OMIM:148300
+6	0.65	Anterior segment mesenchymal dysgenesis	OMIM:107250
+7	0.6	Arcus juvenilis	OMIM:107250
+8	0.55	Central cloudy dystrophy of François	OMIM:121800
+9	0.5	Secondary congenital glaucoma	OMIM:600975
+10	0.45	Primary open angle glaucoma	OMIM:137760

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Stickler syndrome	OMIM:108300
+5	0.7	Weill-Marchesani syndrome	OMIM:277600
+6	0.65	Lujan-Fryns syndrome	OMIM:309520
+7	0.6	Autosomal dominant polycystic kidney disease	OMIM:173900
+8	0.55	Loeys-Dietz syndrome-like	OMIM:610168
+9	0.5	Autosomal recessive cutis laxa type 1C	OMIM:612172
+10	0.45	Ehlers-Danlos syndrome, classic type	OMIM:130000

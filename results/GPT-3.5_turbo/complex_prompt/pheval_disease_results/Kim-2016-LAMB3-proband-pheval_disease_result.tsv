@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta, type II	OMIM:204700
+2	0.8	Amelogenesis imperfecta, type III	OMIM:130900
+3	0.7	Amelogenesis imperfecta, type I	OMIM:104530
+4	0.6	Amelogenesis imperfecta, type IV	OMIM:104510
+5	0.5	Amelogenesis imperfecta, type AI	OMIM:611095
+6	0.4	Amelogenesis imperfecta, type IA	OMIM:104530
+7	0.3	Amelogenesis imperfecta, type 2A1	OMIM:204700
+8	0.2	Amelogenesis imperfecta, type IVB	OMIM:104510
+9	0.1	Amelogenesis imperfecta, type IAB	OMIM:611095
+10	0.05	Enamel hypoplasia	OMIM:611095

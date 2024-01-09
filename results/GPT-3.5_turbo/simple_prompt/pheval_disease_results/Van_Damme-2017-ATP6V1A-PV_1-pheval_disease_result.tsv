@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa	OMIM:123400
+2	0.85	Kyphoscoliosis	OMIM:181600
+3	0.8	Hip dysplasia	OMIM:607592
+4	0.75	Abnormal facial shape	OMIM:277180
+5	0.7	Abnormal heart morphology	OMIM:600001
+6	0.65	Abnormal cardiac septum morphology	OMIM:277930
+7	0.6	Generalized hypotonia	OMIM:209900
+8	0.55	Flexion contracture	OMIM:121600
+9	0.5	Entropion	OMIM:178000
+10	0.45	Disproportionate tall stature	OMIM:606255
+11	0.4	Abnormal subcutaneous fat tissue distribution	OMIM:614524

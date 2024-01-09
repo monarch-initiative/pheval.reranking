@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Sotos syndrome	OMIM:117550
+3	0.7	Smith-Magenis syndrome	OMIM:182290
+4	0.6	Coffin-Lowry syndrome	OMIM:303600
+5	0.5	Mowat-Wilson syndrome	OMIM:235730
+6	0.4	X-linked hydrocephalus	OMIM:307000
+7	0.3	Angelman syndrome	OMIM:105830
+8	0.2	Cohen syndrome	OMIM:216550
+9	0.1	Gomez-Lopez-Hernandez syndrome	OMIM:601853

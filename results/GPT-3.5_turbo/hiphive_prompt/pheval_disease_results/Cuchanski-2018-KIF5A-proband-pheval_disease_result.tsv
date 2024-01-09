@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Familial spastic paraplegia	OMIM:182600
+2	0.92	Charcot-Marie-Tooth Disease, Type 2B1	OMIM:605588
+3	0.91	Hereditary Spastic Paraplegia	OMIM:182601
+4	0.89	Peripheral Neuropathy, Autosomal Dominant, with Cranial Nerve Involvement	OMIM:614609
+5	0.88	Spastic Paraplegia 4, Autosomal Dominant	OMIM:182601
+6	0.87	Spastic Paraplegia 8, Autosomal Dominant	OMIM:603563
+7	0.86	Hereditary Spastic Paraplegia 5A	OMIM:270800
+8	0.85	Spastic Paraplegia 11, Autosomal Dominant	OMIM:604360
+9	0.83	Motor Neuron Disease	OMIM:156400
+10	0.82	Spastic Ataxia, Charlevoix-Saguenay Type	OMIM:270550

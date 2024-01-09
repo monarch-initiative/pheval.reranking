@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.85	Treacher Collins syndrome	OMIM:154500
+3	0.8	Cornelia de Lange syndrome	OMIM:122470
+4	0.75	CHARGE syndrome	OMIM:214800
+5	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.65	Noonan syndrome	OMIM:163950
+7	0.6	Pierre Robin sequence	OMIM:261800
+8	0.55	Deletion syndrome	OMIM:PS200100
+9	0.5	Mowat-Wilson syndrome	OMIM:235730
+10	0.45	Kabuki syndrome	OMIM:147920

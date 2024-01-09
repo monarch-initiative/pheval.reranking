@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Williams-Beuren syndrome	OMIM:194050
+3	0.7	Cleidocranial dysplasia	OMIM:119600
+4	0.6	Sotos syndrome	OMIM:117550
+5	0.5	Otopalatodigital syndrome type I	OMIM:311300

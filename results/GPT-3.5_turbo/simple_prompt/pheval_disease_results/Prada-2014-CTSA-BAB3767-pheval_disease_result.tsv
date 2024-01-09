@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	GM1-gangliosidosis, type I	OMIM:230500
+2	0.8	Tay-Sachs disease	OMIM:272800
+3	0.7	Fabry disease	OMIM:301500
+4	0.6	Mucopolysaccharidosis type IIIA	OMIM:252900
+5	0.5	Niemann-Pick disease type A	OMIM:257200

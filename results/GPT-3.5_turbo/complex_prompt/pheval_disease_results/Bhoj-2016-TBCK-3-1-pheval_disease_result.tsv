@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Phelan-McDermid syndrome	OMIM:606232
+2	0.94	Angelman syndrome	OMIM:105830
+3	0.92	Rett syndrome	OMIM:312750
+4	0.89	Pitt-Hopkins syndrome	OMIM:610954
+5	0.88	Potocki-Lupski syndrome	OMIM:610883
+6	0.86	Phenylketonuria	OMIM:261600
+7	0.84	Maternally inherited Leigh syndrome	OMIM:516030
+8	0.82	Smith-Magenis syndrome	OMIM:182290
+9	0.8	CHARGE syndrome	OMIM:214800
+10	0.78	Fragile X syndrome	OMIM:300624

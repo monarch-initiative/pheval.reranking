@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's disease	OMIM:168600
+2	0.8	Parkinson's disease, juvenile, type 1	OMIM:600116
+3	0.7	Parkinson's disease, juvenile, type 3	OMIM:611187
+4	0.6	Parkinson's disease, juvenile, type 4	OMIM:616643
+4	0.6	Parkinson's disease, early-onset	OMIM:168600
+6	0.5	Parkinson's disease, late-onset	OMIM:168600
+7	0.4	Parkinson's disease, autosomal dominant	OMIM:168600
+7	0.4	Parkinson's disease, autosomal recessive	OMIM:600116
+9	0.3	Parkinson's disease, X-linked	OMIM:313700
+10	0.2	Secondary parkinsonism	OMIM:168600

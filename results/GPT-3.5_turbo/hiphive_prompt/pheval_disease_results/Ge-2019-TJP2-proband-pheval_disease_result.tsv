@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.904	Gilbert syndrome	OMIM:143500
+2	0.897	Dubin-Johnson syndrome	OMIM:237500
+3	0.874	Crigler-Najjar syndrome, type I	OMIM:218800
+4	0.854	Crigler-Najjar syndrome, type II	OMIM:606785
+5	0.828	Rotor syndrome	OMIM:237450
+6	0.819	Bile acid synthesis defect, congenital, 1	OMIM:607765
+7	0.809	Glycogen storage disease IXb	OMIM:610860
+8	0.797	Alagille syndrome 1	OMIM:118450
+9	0.796	Melhem-Fahl syndrome	OMIM:617005
+10	0.786	Syndromic diarrhea	OMIM:266600

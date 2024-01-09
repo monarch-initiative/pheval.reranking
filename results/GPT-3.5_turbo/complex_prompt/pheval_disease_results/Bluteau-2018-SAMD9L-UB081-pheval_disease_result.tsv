@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.8	Seckel syndrome	OMIM:210600
+3	0.7	Ataxia-telangiectasia	OMIM:208900
+4	0.6	Diamond-Blackfan anemia	OMIM:105650
+5	0.5	Hemophagocytic lymphohistiocytosis	OMIM:267700
+6	0.4	Shwachman-Diamond syndrome	OMIM:260400
+7	0.3	Severe combined immunodeficiency	OMIM:601457
+8	0.2	Evan syndrome	OMIM:117900
+9	0.1	Hermansky-Pudlak syndrome	OMIM:203300

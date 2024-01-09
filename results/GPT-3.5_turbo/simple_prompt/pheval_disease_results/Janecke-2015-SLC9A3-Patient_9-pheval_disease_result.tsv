@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Polyhydramnios	OMIM:611890
+2	0.9	Small for gestational age	OMIM:604387
+3	0.8	Growth delay	OMIM:601656
+4	0.7	Acidemia	OMIM:614462
+5	0.6	Secretory diarrhea	OMIM:251850
+6	0.5	Abdominal distention	OMIM:614519
+7	0.4	Hyponatriuria	OMIM:212750
+8	0.3	Elevated fecal sodium	OMIM:614383
+9	0.2	Reduced fecal osmolality	OMIM:270100

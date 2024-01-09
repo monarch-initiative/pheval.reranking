@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epilepsy	OMIM:613693
+2	0.8	Language delay	OMIM:606369
+3	0.7	Constipation	OMIM:611642
+4	0.6	Creatine deficiency syndrome	OMIM:300352
+5	0.5	Developmental delay	OMIM:614608
+6	0.4	Nausea	OMIM:609643
+7	0.3	Autism spectrum disorder	OMIM:209850

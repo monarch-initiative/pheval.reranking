@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dravet syndrome	OMIM:607208
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Prader-Willi syndrome	OMIM:176270
+5	0.5	Smith-Magenis syndrome	OMIM:182290
+6	0.4	Cri-du-chat syndrome	OMIM:123450

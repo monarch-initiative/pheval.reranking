@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa 1	OMIM:180100
+2	0.92	Leber congenital amaurosis 1	OMIM:204000
+3	0.89	Macular degeneration, age-related, 1	OMIM:603075
+4	0.87	Cone-rod dystrophy 2	OMIM:120970
+5	0.84	Leber hereditary optic neuropathy	OMIM:535000
+6	0.82	Stickler syndrome, type I	OMIM:108300
+7	0.8	Cataract	OMIM:116200
+8	0.78	Pigmentary retinopathy	OMIM:608133
+9	0.76	North Carolina macular dystrophy	OMIM:136550
+10	0.74	Retinitis pigmentosa 48	OMIM:613827

@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer disease	OMIM:104300
+2	0.8	Frontotemporal dementia	OMIM:600274

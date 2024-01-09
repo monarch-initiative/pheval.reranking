@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Olsen syndrome	OMIM:215150
+2	0.8	SCARF syndrome	OMIM:312830
+3	0.7	Aicardi syndrome	OMIM:304050
+4	0.6	Zimmerman-Laband syndrome	OMIM:135400
+5	0.5	Cranioectodermal dysplasia	OMIM:218330
+6	0.4	Craniofrontonasal dysplasia	OMIM:304110
+7	0.3	Sanjad-Sakati/Carney Complex	OMIM:208800
+8	0.2	Meckel syndrome, type 1	OMIM:249000
+9	0.1	Joubert syndrome 3	OMIM:608629

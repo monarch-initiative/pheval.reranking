@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy	OMIM:603513
+2	0.8	Friedreich Ataxia	OMIM:229300
+2	0.8	Spastic Paraplegia 4	OMIM:182601
+4	0.7	Rett Syndrome	OMIM:312750
+4	0.7	Angelman Syndrome	OMIM:105830
+6	0.6	Pontocerebellar Hypoplasia Type 2	OMIM:277470
+6	0.6	Aicardi Syndrome	OMIM:304050
+8	0.5	Gilles de la Tourette Syndrome	OMIM:137580
+8	0.5	Spinal Muscular Atrophy	OMIM:253300
+10	0.4	Lynch Syndrome	OMIM:120435

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	West syndrome	OMIM:308350
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Severe fetal brain disruption sequence	OMIM:229850
+4	0.6	Aicardi syndrome	OMIM:304050
+5	0.5	Angelman syndrome	OMIM:105830

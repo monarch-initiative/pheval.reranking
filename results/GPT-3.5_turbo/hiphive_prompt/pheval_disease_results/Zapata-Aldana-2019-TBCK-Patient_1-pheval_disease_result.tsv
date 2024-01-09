@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epilepsy, partial, with myoclonic-atonic seizures	OMIM:616054
+2	0.8	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+3	0.7	Joubert syndrome 2	OMIM:608091
+3	0.7	Febrile seizures, familial, 3A	OMIM:604403
+5	0.6	Focal cortical dysplasia, type II	OMIM:607341
+5	0.6	3-methylglutaconic aciduria, type VIII	OMIM:617248
+7	0.5	Bardet-Biedl syndrome 4	OMIM:615982
+7	0.5	Perrault syndrome 2	OMIM:614926
+9	0.4	Peters anomaly	OMIM:604229
+9	0.4	Familial hemiplegic migraine 1	OMIM:141500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.75	Tay-Sachs disease	OMIM:272800
+5	0.7	Friedreich ataxia	OMIM:229300
+6	0.65	Lissencephaly	OMIM:607432
+7	0.6	Spinocerebellar ataxia	OMIM:164400
+8	0.55	Joubert syndrome	OMIM:213300
+9	0.5	Glycogen storage disease type II	OMIM:232300
+10	0.45	Williams-Beuren syndrome	OMIM:194050

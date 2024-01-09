@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.85	Diamond-Blackfan anemia	OMIM:105650
+3	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.75	Fanconi anemia	OMIM:227650
+5	0.7	Congenital disorder of glycosylation type Ia	OMIM:212065
+6	0.65	Seckel syndrome 1	OMIM:210600
+7	0.6	Costello syndrome	OMIM:218040
+8	0.55	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.5	Coffin-Lowry syndrome	OMIM:303600
+10	0.45	Fryns syndrome	OMIM:229850

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myelodysplastic syndrome	OMIM:614286
+2	0.8	Fanconi Anemia	OMIM:227650
+3	0.7	Severe Congenital Neutropenia	OMIM:202700
+4	0.6	Attention Deficit Hyperactivity Disorder	OMIM:143465
+5	0.5	Immunodeficiency	OMIM:242850
+6	0.4	Thrombocytopenia	OMIM:272900
+7	0.3	Bronchiolitis	OMIM:211980
+8	0.2	Joint Stiffness	OMIM:149100
+9	0.1	Dysmetria	OMIM:612421
+9	0.1	Postural Instability	OMIM:161950

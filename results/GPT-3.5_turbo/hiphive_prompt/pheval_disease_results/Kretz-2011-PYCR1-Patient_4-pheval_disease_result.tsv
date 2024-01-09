@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome	OMIM:130000
+2	0.85	Cutis Laxa	OMIM:219100
+3	0.8	Marfan Syndrome	OMIM:154700
+4	0.75	Lujan-Fryns Syndrome	OMIM:309520
+5	0.7	Geleophysic Dysplasia	OMIM:231050
+6	0.65	Joint Hypermobility Syndrome	OMIM:130020
+7	0.6	Cutis Marmorata Telangiectatica Congenita	OMIM:219250
+8	0.55	Ehlers-Danlos Syndrome, Classical Type	OMIM:130060
+9	0.5	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+10	0.45	Loeys-Dietz Syndrome	OMIM:609192

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Common Variable Immunodeficiency	OMIM:607594
+2	0.9	Hyper-IgM Syndrome	OMIM:308230
+3	0.8	Chronic Granulomatous Disease	OMIM:306400
+4	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+5	0.6	Gaucher Disease	OMIM:230800
+6	0.5	Familial Mediterranean Fever	OMIM:249100
+7	0.4	Bruton Agammaglobulinemia	OMIM:300300
+8	0.3	Felty Syndrome	OMIM:134750
+9	0.2	Leukocyte Adhesion Deficiency Type I	OMIM:116920
+10	0.1	Severe Combined Immunodeficiency	OMIM:601457

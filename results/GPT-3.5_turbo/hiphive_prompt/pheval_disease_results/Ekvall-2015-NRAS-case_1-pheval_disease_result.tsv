@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurofibromatosis type 1	OMIM:162200
+2	0.93	Noonan syndrome	OMIM:163950
+3	0.92	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.91	Coffin-Lowry syndrome	OMIM:303600
+5	0.89	Costello syndrome	OMIM:218040
+6	0.88	Sotos syndrome	OMIM:117550
+7	0.87	Gorlin syndrome	OMIM:109400
+8	0.86	Crouzon syndrome	OMIM:123500
+9	0.85	Rubinstein-Taybi syndrome	OMIM:613684
+10	0.84	Beckwith-Wiedemann syndrome	OMIM:130650

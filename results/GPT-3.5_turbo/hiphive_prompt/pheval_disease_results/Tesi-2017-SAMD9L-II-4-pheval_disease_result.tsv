@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe congenital neutropenia	OMIM:202700
+2	0.8	Dyskeratosis congenita	OMIM:127550
+3	0.75	Fanconi anemia	OMIM:227650
+4	0.7	Shwachman-Diamond syndrome	OMIM:260400
+4	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.7	X-linked agammaglobulinemia	OMIM:300755
+7	0.65	Thrombocytopenia-absent radius syndrome	OMIM:274000
+8	0.6	Ataxia-telangiectasia	OMIM:208900
+8	0.6	Chronic myelomonocytic leukemia	OMIM:614191
+10	0.55	Cerebellar ataxia	OMIM:608002

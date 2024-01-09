@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cryptorchidism	OMIM:219050
+2	0.8	Split hand-foot malformation	OMIM:183600
+3	0.7	Microcephaly	OMIM:156200
+4	0.6	Cleft palate	OMIM:119540
+5	0.5	Congenital heart defects	OMIM:614782

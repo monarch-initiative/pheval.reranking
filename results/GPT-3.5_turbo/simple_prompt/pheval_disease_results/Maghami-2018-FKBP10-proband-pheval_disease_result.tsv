@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.8	Alkaptonuria	OMIM:203500
+3	0.7	Hypophosphatasia	OMIM:241500
+4	0.6	Osteopetrosis	OMIM:166600
+5	0.5	Ehlers-Danlos syndrome	OMIM:130050

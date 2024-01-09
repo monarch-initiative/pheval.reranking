@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	RASopathies	OMIM:186000
+2	0.7	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+3	0.6	Williams syndrome	OMIM:194050
+4	0.5	Noonan syndrome	OMIM:163950
+4	0.5	Cornelia de Lange syndrome	OMIM:122470

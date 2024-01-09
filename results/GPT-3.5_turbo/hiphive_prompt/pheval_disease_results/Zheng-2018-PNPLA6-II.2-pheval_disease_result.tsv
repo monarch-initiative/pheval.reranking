@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kallmann syndrome	OMIM:308700
+2	0.92	Sheehan syndrome	OMIM:182360
+3	0.91	Hypogonadotropic hypogonadism	OMIM:146110
+4	0.89	Prader-Willi syndrome	OMIM:176270
+5	0.85	Ataxia-telangiectasia	OMIM:208900
+6	0.84	Spinocerebellar ataxia type 1	OMIM:164400
+7	0.81	Spinocerebellar ataxia type 3	OMIM:109150
+8	0.8	Spinocerebellar ataxia type 6	OMIM:183086
+9	0.77	Congenital disorder of glycosylation type 1A	OMIM:212065
+10	0.76	Laron syndrome	OMIM:262500

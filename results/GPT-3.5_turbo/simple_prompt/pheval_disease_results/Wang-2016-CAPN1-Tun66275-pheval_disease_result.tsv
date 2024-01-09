@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.8	Hereditary spastic paraplegia	OMIM:604805
+3	0.7	Friedreich ataxia	OMIM:229300

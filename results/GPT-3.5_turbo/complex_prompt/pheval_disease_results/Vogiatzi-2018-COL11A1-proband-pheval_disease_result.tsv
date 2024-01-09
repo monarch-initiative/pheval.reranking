@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Stickler syndrome	OMIM:108300
+4	0.75	Osteogenesis imperfecta	OMIM:166200
+5	0.7	Weill-Marchesani syndrome	OMIM:608328
+6	0.65	Larsen syndrome	OMIM:150250
+7	0.6	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.55	Stickler-like syndrome	OMIM:614134
+9	0.5	Pierre Robin sequence	OMIM:261800
+10	0.45	Spondyloepiphyseal dysplasia	OMIM:183900

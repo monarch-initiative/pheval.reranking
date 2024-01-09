@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson disease	OMIM:168600
+2	0.9	Parkinson disease 17	OMIM:614203
+3	0.85	Parkinson disease 7	OMIM:606324
+4	0.8	Parkinson disease 14	OMIM:612953
+5	0.75	Parkinson disease 2	OMIM:600116
+6	0.7	Parkinson disease 5	OMIM:613643
+7	0.65	Distal hereditary motor neuronopathy type 5	OMIM:600794
+8	0.6	Mitochondrial complex I deficiency	OMIM:252010
+9	0.55	Spinocerebellar ataxia 2	OMIM:183090
+10	0.5	Parkinson disease 8	OMIM:607060

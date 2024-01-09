@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Loeys-Dietz syndrome	OMIM:609192
+3	0.7	Ehlers-Danlos syndrome, classic type	OMIM:130000
+4	0.6	Osteogenesis imperfecta	OMIM:166200
+5	0.5	Beals syndrome	OMIM:121050
+6	0.4	Arterial tortuosity syndrome	OMIM:208050
+7	0.3	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+8	0.2	Loeys-Dietz syndrome type 2	OMIM:610168
+9	0.1	Congenitally short tendons	OMIM:615363
+9	0.1	Cutis laxa, autosomal recessive, type IIA	OMIM:219200

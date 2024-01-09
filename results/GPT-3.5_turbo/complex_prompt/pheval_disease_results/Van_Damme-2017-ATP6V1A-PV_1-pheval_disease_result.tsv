@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:225400
+3	0.7	Lowe syndrome	OMIM:309000
+4	0.6	X-linked cutis laxa	OMIM:304150
+5	0.5	Arterial tortuosity syndrome	OMIM:208050
+6	0.4	Neurofibromatosis type 1	OMIM:162200
+7	0.3	Hutchinson-Gilford progeria syndrome	OMIM:176670
+8	0.2	Congenital generalized lipodystrophy	OMIM:612526
+9	0.1	Costello syndrome	OMIM:218040
+10	0.05	Werner syndrome	OMIM:277700

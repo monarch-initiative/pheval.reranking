@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.85	Rheumatoid arthritis	OMIM:180300
+3	0.8	Granulomatosis with polyangiitis	OMIM:166710
+4	0.75	Meningitis	OMIM:614231
+5	0.7	Inflammatory bowel disease	OMIM:266600
+6	0.65	Idiopathic thrombocytopenic purpura	OMIM:188030
+7	0.6	Systemic vasculitis	OMIM:605105
+8	0.55	Temporal arteritis	OMIM:187360
+9	0.5	Bacterial meningitis	OMIM:614231
+10	0.45	Acute myeloid leukemia	OMIM:601626

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Truncus arteriosus	OMIM:601565
+2	0.94	Tetralogy of Fallot with pulmonary atresia	OMIM:614090
+3	0.92	Pulmonary artery atresia	OMIM:265150
+4	0.9	Interrupted aortic arch	OMIM:208500
+5	0.88	Tricuspid atresia	OMIM:605067
+6	0.87	Right aortic arch	OMIM:615007
+7	0.84	Systolic heart murmur	OMIM:613616
+8	0.82	Persistent left superior vena cava	OMIM:108900
+9	0.8	Cyanosis	OMIM:211400
+10	0.77	Elevated serum creatinine	OMIM:613706

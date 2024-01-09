@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hyper-IgM syndrome, type 2	OMIM:605258
+2	0.89	Autosomal dominant hyper-IgE syndrome	OMIM:147060
+3	0.85	Selective immunoglobulin deficiency disease	OMIM:147500
+4	0.82	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive, IL7R-related	OMIM:608971
+5	0.81	Immunodeficiency 44	OMIM:616897
+5	0.81	Immunodeficiency 44 and atopic dermatitis	OMIM:616897
+7	0.78	Hyper-IgM syndrome, type 1	OMIM:308230
+8	0.77	Immunodeficiency, common variable, 13	OMIM:616873
+8	0.77	Immunodeficiency, common variable, 12, with autoimmunity	OMIM:616576
+10	0.76	Immunodeficiency 18	OMIM:615615

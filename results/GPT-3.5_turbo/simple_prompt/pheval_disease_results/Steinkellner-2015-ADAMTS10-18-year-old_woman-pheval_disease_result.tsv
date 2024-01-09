@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular ventricular septal defect	OMIM:614429
+2	0.8	Pulmonic stenosis	OMIM:178600
+3	0.7	Scoliosis	OMIM:181800
+4	0.6	Lumbar hyperlordosis	OMIM:200000
+5	0.5	High myopia	OMIM:160700
+6	0.4	Brachydactyly	OMIM:113100
+7	0.3	Microspherophakia	OMIM:251750
+8	0.2	Short stature	OMIM:604271
+9	0.1	Joint stiffness	OMIM:148900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.7	Coffin-Lowry Syndrome	OMIM:303600
+3	0.65	Noonan Syndrome	OMIM:163950
+4	0.6	Sotos Syndrome	OMIM:117550
+5	0.55	Carpenter Syndrome	OMIM:201000
+6	0.5	Cornelia de Lange Syndrome	OMIM:122470
+7	0.45	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.4	Familial Hypercholesterolemia	OMIM:143890
+9	0.35	TRPS1-Related Disorders	OMIM:190350
+10	0.3	Pallister-Hall Syndrome	OMIM:146510

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Parkinson Disease	OMIM:168600
+2	0.93	Parkinson Disease 2	OMIM:600116
+3	0.89	Parkinson Disease 12	OMIM:300557
+4	0.87	Parkinson Disease 15	OMIM:260300
+5	0.82	Parkinson Disease 6, Autosomal Recessive Early-Onset	OMIM:605242
+6	0.79	Parkinson Disease 5	OMIM:613643
+7	0.75	Parkinson Disease 4	OMIM:605543
+8	0.71	Parkinson Disease 7	OMIM:606324
+9	0.68	Parkinson Disease 10	OMIM:605645
+10	0.65	Parkinson Disease 11	OMIM:607688

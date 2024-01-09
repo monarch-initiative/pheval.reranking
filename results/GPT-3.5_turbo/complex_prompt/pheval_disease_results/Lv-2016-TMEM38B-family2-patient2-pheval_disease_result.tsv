@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Osteoporosis	OMIM:166710
+3	0.7	Paget disease of bone	OMIM:167250
+4	0.6	Cleidocranial dysplasia	OMIM:119600
+5	0.5	Hyperphosphatasia with mental retardation syndrome 1	OMIM:239300
+6	0.4	Hyperparathyroidism-jaw tumor syndrome	OMIM:145001
+7	0.3	Pycnodysostosis	OMIM:265800
+8	0.2	Camurati-Engelmann disease	OMIM:131300
+9	0.1	Osteopetrosis	OMIM:166600

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency	OMIM:300636
+2	0.8	Bone marrow hypocellularity	OMIM:216100
+3	0.7	Pancytopenia	OMIM:164300
+4	0.6	Hydrocephalus	OMIM:236600
+5	0.5	Growth delay	OMIM:601806
+6	0.4	Abnormality of the genitourinary system	OMIM:000000
+7	0.3	Arachnoid cyst	OMIM:107600

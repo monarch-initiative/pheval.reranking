@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Otodental dysplasia	OMIM:166750
+3	0.83	Osteopetrosis, autosomal dominant 1	OMIM:607634
+4	0.81	Frontometaphyseal dysplasia	OMIM:305620
+5	0.8	Pyle disease	OMIM:265900
+6	0.79	Craniodiaphyseal dysplasia	OMIM:218300
+7	0.78	Osteopetrosis, autosomal recessive 1	OMIM:259700
+8	0.75	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.74	Kleefstra syndrome	OMIM:610253
+10	0.72	Frontonasal dysplasia	OMIM:136760

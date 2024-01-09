@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spherocytosis	OMIM:182900
+2	0.8	Congenital hemolytic anemia	OMIM:266200
+3	0.7	Hereditary elliptocytosis	OMIM:611804
+4	0.6	Pyruvate kinase deficiency of red cells	OMIM:266200
+5	0.5	Glucose-6-phosphate dehydrogenase deficiency	OMIM:305900
+6	0.4	Sickle cell anemia	OMIM:603903
+7	0.3	Thalassemia	OMIM:141800
+8	0.2	Autoimmune hemolytic anemia	OMIM:205700
+9	0.1	Malaria	OMIM:611162
+10	0.05	Paroxysmal nocturnal hemoglobinuria	OMIM:300818

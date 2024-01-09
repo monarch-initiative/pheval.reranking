@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diastrophic dysplasia	OMIM:222600
+2	0.8	Achondrogenesis, type Ib	OMIM:600972
+3	0.7	Stickler syndrome, type 1	OMIM:108300
+4	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+5	0.5	Megalocornea	OMIM:249300
+6	0.4	Familial osteochondritis dissecans	OMIM:165800
+7	0.3	Pseudoachondroplasia	OMIM:177170
+8	0.2	Mucopolysaccharidosis, type IX	OMIM:601492

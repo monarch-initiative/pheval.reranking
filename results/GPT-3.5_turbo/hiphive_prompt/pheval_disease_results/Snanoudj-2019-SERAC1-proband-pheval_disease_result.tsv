@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.865	Leigh syndrome	OMIM:256000
+2	0.842	Mitochondrial complex I deficiency	OMIM:252010
+3	0.822	Combined oxidative phosphorylation deficiency	OMIM:609060
+4	0.805	Leber hereditary optic neuropathy	OMIM:535000
+5	0.796	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+6	0.792	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:245348
+7	0.782	3-Methylglutaconic aciduria type 1	OMIM:250950
+8	0.775	Medium chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+9	0.77	Pyruvate carboxylase deficiency	OMIM:266150
+10	0.756	Juvenile-onset Leigh syndrome	OMIM:248200

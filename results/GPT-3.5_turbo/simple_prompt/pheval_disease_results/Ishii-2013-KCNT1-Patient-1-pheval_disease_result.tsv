@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 42	OMIM:617106
+2	0.8	West syndrome	OMIM:308350
+3	0.75	Dravet syndrome	OMIM:607208
+4	0.7	Rett syndrome	OMIM:312750
+5	0.65	Angelman syndrome	OMIM:105830

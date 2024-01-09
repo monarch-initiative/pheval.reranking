@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Short-rib thoracic dysplasia 1 with or without polydactyly	OMIM:208500
+2	0.85	Meckel syndrome 1	OMIM:249000
+3	0.8	Bardet-Biedl syndrome 13	OMIM:615990
+4	0.75	Acrocallosal syndrome	OMIM:200990
+5	0.7	Nephronophthisis 1	OMIM:256100
+6	0.65	Polycystic kidney disease 1 with or without polycystic liver disease	OMIM:173900
+7	0.6	Congenital hepatic fibrosis	OMIM:263800
+8	0.55	Dopamine beta-hydroxylase deficiency	OMIM:223360
+9	0.5	Hypertelorism	OMIM:145400
+10	0.45	Horseshoe kidney	OMIM:235650

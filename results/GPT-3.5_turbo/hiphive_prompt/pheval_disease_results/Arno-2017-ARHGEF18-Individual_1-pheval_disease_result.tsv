@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa	OMIM:268000
+2	0.92	Leber congenital amaurosis	OMIM:204000
+3	0.89	Cone-rod dystrophy	OMIM:120970
+4	0.87	Fundus albipunctatus	OMIM:136880
+5	0.85	Goldmann-Favre syndrome	OMIM:268100
+6	0.82	Senior-Løken syndrome	OMIM:266900
+7	0.8	Bardet-Biedl syndrome	OMIM:209900
+8	0.78	Joubert syndrome	OMIM:213300
+9	0.75	Neurodegeneration with brain iron accumulation	OMIM:234200
+10	0.73	Alstrom syndrome	OMIM:203800

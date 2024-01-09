@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Limb-girdle muscular dystrophy type 2B	OMIM:253010
+2	0.9	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.85	Muscular dystrophy, congenital, with intellectual disability	OMIM:617403
+4	0.8	Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1	OMIM:157640
+5	0.75	Charcot-Marie-Tooth disease, type 2A2	OMIM:605589
+6	0.7	Charcot-Marie-Tooth disease, type 2I	OMIM:607677
+7	0.65	Spinal muscular atrophy, distal, autosomal recessive, 1	OMIM:604320
+8	0.6	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:605382
+9	0.55	Dysferlinopathy	OMIM:608091
+10	0.5	Amyotrophic lateral sclerosis type 5	OMIM:602099

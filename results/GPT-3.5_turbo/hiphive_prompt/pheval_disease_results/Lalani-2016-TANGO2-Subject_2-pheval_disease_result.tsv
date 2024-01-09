@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myopathy	OMIM:160800
+2	0.86	Rhabdomyolysis	OMIM:268200
+3	0.83	Severe Infantile Axonal Neuropathy	OMIM:256850
+4	0.82	Myoglobinuria	OMIM:160600
+5	0.79	Fanconi-Bickel Syndrome	OMIM:227810
+6	0.78	Ventricular Tachycardia, Catecholaminergic Polymorphic, 1	OMIM:604772
+7	0.76	Mitochondrial DNA Depletion Syndrome 7 (hepatocerebral Type)	OMIM:271245
+8	0.73	Cytochrome C Oxidase Deficiency	OMIM:220110
+9	0.72	Tay-Sachs Disease	OMIM:272800
+10	0.7	Methylglutaconic Aciduria, Type I	OMIM:250950

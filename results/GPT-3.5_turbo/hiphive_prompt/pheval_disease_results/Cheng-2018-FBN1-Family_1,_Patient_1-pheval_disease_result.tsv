@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Noonan syndrome 1	OMIM:163950
+2	0.95	Cardiofaciocutaneous syndrome	OMIM:115150
+3	0.92	Noonan syndrome 3	OMIM:609942
+4	0.91	Noonan syndrome 5	OMIM:611553
+5	0.87	Short stature, facial, and skeletal anomalies with or without cardiac anomalies	OMIM:617662
+6	0.86	Otopalatodigital syndrome type 2	OMIM:304120
+7	0.84	Microcephaly, short stature, and limb abnormalities	OMIM:617778
+8	0.82	Short stature, developmental delay, and congenital heart defects	OMIM:617056
+9	0.8	Noonan syndrome-like disorder with loose anagen hair 2	OMIM:617506
+10	0.78	Hennekam syndrome	OMIM:237450

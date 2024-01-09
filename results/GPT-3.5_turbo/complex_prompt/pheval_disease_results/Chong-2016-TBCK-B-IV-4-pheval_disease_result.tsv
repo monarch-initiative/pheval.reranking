@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zellweger syndrome	OMIM:214100
+2	0.8	Amish infantile epilepsy syndrome	OMIM:613722
+2	0.8	Peroxisomal acyl-CoA oxidase deficiency	OMIM:264470
+4	0.7	Infantile Refsum disease	OMIM:601539
+4	0.7	Infantile cerebellar-retinal degeneration	OMIM:614559
+6	0.6	Spastic paraplegia 14, autosomal recessive	OMIM:605229
+6	0.6	Pontocerebellar hypoplasia type 6	OMIM:611523
+8	0.5	Pontocerebellar hypoplasia type 9	OMIM:614876
+8	0.5	Distal hereditary motor neuronopathy type 5	OMIM:614751
+8	0.5	Epilepsy, progressive myoclonic 3	OMIM:611726

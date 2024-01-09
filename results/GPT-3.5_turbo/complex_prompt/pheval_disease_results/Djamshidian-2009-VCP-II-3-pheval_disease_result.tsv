@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Proximal spinal muscular atrophy	OMIM:253300
+2	0.8	Distal muscular dystrophy	OMIM:254130
+3	0.7	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:167320
+4	0.6	Myofibrillar myopathy 1	OMIM:601419
+5	0.5	Emery-Dreifuss muscular dystrophy	OMIM:310300
+6	0.4	Facioscapulohumeral muscular dystrophy	OMIM:158900
+7	0.3	Dysferlinopathy	OMIM:608056
+8	0.2	Muscle-eye-brain disease	OMIM:253280
+9	0.1	Spinal muscular atrophy with respiratory distress type 1	OMIM:613410
+10	0.05	Charcot-Marie-Tooth disease type 2A2A	OMIM:609260

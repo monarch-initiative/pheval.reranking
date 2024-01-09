@@ -1,0 +1,15 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Skeletal dysplasia	OMIM:184400
+2	0.8	Hepatic cysts	OMIM:143600
+3	0.7	Multiple renal cysts	OMIM:173900
+3	0.7	Renal insufficiency	OMIM:173900
+3	0.7	Horseshoe kidney	OMIM:173900
+6	0.6	Platyspondyly	OMIM:184400
+7	0.5	Ventriculomegaly	OMIM:236680
+8	0.4	Abnormal facial shape	OMIM:200000
+9	0.3	Hypoplasia of the corpus callosum	OMIM:300004
+10	0.2	Tachypnea	OMIM:277720
+11	0.1	Brachydactyly	OMIM:113100
+11	0.1	Limb undergrowth	OMIM:125350
+11	0.1	Abnormal T cell count	OMIM:242700
+11	0.1	Preterm intraventricular hemorrhage	OMIM:607554

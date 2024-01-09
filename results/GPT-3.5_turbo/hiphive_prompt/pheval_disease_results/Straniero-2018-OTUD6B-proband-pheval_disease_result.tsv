@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurodevelopmental Disorders	OMIM:613874
+2	0.89	Gastroesophageal Reflux	OMIM:109350
+3	0.86	Tetralogy of Fallot	OMIM:187500
+4	0.82	Macrotia	OMIM:614078
+5	0.79	Smooth Philtrum	OMIM:249000
+6	0.76	Intrauterine Growth Retardation	OMIM:608271
+7	0.71	Deafness	OMIM:220500
+8	0.66	Microcephaly	OMIM:251200
+9	0.61	Ptosis	OMIM:178300
+10	0.57	Feeding Difficulties	OMIM:613163

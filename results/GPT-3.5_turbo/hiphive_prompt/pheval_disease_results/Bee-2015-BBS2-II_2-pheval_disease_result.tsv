@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bardet-Biedl syndrome	OMIM:209900
+2	0.94	Alport syndrome	OMIM:301050
+3	0.93	Birt-Hogg-Dubé syndrome	OMIM:135150
+4	0.92	Nephronophthisis	OMIM:256100
+5	0.91	Laurence-Moon syndrome	OMIM:245800
+6	0.9	Polycystic kidney disease	OMIM:173900
+7	0.89	Congenital nephrotic syndrome	OMIM:600995
+8	0.88	Zellweger spectrum disorder	OMIM:601539
+9	0.87	Joubert syndrome	OMIM:213300
+10	0.86	Meckel syndrome	OMIM:249000

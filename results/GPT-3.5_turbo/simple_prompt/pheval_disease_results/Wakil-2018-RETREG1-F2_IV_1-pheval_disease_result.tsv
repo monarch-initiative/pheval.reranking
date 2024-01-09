@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Spastic paraplegia 7	OMIM:607259
+2	0.7	Charcot-Marie-Tooth disease type 2A1	OMIM:118210
+3	0.6	Hereditary motor and sensory neuropathy type VI	OMIM:601152
+4	0.5	Familial episodic pain syndrome	OMIM:615548
+5	0.4	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+6	0.3	Osteomyelitis	OMIM:612208
+7	0.2	Morphological central nervous system abnormality	OMIM:605364
+8	0.1	Familial episodic pain syndrome with bony fragility	OMIM:615551

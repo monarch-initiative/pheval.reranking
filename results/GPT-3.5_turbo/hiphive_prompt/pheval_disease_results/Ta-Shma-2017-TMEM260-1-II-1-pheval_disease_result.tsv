@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ventricular septal defect	OMIM:614429
+2	0.85	Partial anomalous pulmonary venous return	OMIM:614429
+3	0.8	Truncus arteriosus	OMIM:614429
+4	0.75	Tetralogy of Fallot with pulmonary atresia	OMIM:187500
+5	0.7	Tricuspid atresia	OMIM:187500
+6	0.65	Right aortic arch	OMIM:614429
+7	0.6	Cyanosis	OMIM:257200
+8	0.55	Renal cyst	OMIM:137920
+9	0.5	Microcephaly	OMIM:156200
+10	0.45	Renal insufficiency	OMIM:137920

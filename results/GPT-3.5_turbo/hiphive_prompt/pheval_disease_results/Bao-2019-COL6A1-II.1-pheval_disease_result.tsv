@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Spinal muscular atrophy	OMIM:253300
+2	0.92	Charcot-Marie-Tooth disease	OMIM:118220
+3	0.91	Myotonic dystrophy	OMIM:160900
+4	0.89	Congenital muscular dystrophy	OMIM:607855
+5	0.87	Congenital myopathy	OMIM:255200
+6	0.85	Hereditary motor and sensory neuropathy	OMIM:162400
+7	0.84	Niemann-Pick disease	OMIM:257200
+8	0.81	Sjögren-Larsson syndrome	OMIM:270200
+9	0.79	Friedreich ataxia	OMIM:229300
+10	0.77	Buerger disease	OMIM:211480

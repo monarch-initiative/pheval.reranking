@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiofaciocutaneous syndrome	OMIM:115150
+2	0.8	Noonan syndrome	OMIM:163950
+2	0.8	CHARGE syndrome	OMIM:214800

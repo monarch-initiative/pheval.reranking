@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:182600
+2	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Multiple sclerosis	OMIM:126200
+4	0.6	Cerebral palsy	OMIM:603513
+5	0.5	Primary lateral sclerosis	OMIM:606353

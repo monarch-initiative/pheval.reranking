@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Left Ventricular Noncompaction	OMIM:604169
+2	0.92	Ventricular Fibrillation	OMIM:192500
+3	0.87	Sinus Bradycardia	OMIM:163800
+4	0.82	Familial Dilated Cardiomyopathy	OMIM:115210
+5	0.78	Arrhythmogenic Right Ventricular Dysplasia	OMIM:604400
+6	0.73	Hypertrophic Cardiomyopathy	OMIM:192600
+7	0.68	Long QT Syndrome	OMIM:192500
+8	0.65	Ventricular Tachycardia	OMIM:192500
+9	0.61	Wolff-Parkinson-White Syndrome	OMIM:194200
+10	0.57	Brugada Syndrome	OMIM:601144

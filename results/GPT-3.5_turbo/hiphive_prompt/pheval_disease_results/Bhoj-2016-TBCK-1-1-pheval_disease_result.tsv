@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Galloway-Mowat syndrome	OMIM:251300
+2	0.93	Rett syndrome	OMIM:312750
+3	0.89	Angelman syndrome	OMIM:105830
+4	0.88	Seckel syndrome	OMIM:210600
+5	0.87	Phenylketonuria	OMIM:261600
+6	0.86	Tuberous sclerosis	OMIM:191100
+7	0.85	Fragile X syndrome	OMIM:300624
+8	0.84	Pitt-Hopkins syndrome	OMIM:610954
+9	0.83	Coffin-Lowry syndrome	OMIM:303600
+10	0.82	Prader-Willi syndrome	OMIM:176270

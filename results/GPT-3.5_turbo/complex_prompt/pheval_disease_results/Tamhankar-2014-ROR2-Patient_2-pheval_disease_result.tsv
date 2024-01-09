@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Silver-Russell syndrome	OMIM:180860
+2	0.8	Crouzon syndrome	OMIM:123500
+2	0.8	Noonan syndrome	OMIM:163950
+4	0.7	Williams syndrome	OMIM:194050
+4	0.7	Treacher Collins syndrome	OMIM:154500
+6	0.6	Seckel syndrome	OMIM:210600
+6	0.6	Fanconi anemia	OMIM:227650
+8	0.5	Apert syndrome	OMIM:101200
+8	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.4	Sotos syndrome	OMIM:117550

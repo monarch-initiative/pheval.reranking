@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.82	Freeman-Sheldon syndrome	OMIM:193700
+4	0.8	Opitz G/BBB syndrome	OMIM:145410
+5	0.78	Cohen syndrome	OMIM:216550
+6	0.76	Williams syndrome	OMIM:194050
+7	0.74	Smith-Magenis syndrome	OMIM:182290
+8	0.72	Gorlin syndrome	OMIM:109400
+9	0.7	Noonan syndrome	OMIM:163950
+10	0.68	Fragile X syndrome	OMIM:300624

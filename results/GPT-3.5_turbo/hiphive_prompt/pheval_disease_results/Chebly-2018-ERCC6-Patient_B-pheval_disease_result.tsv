@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Microcephaly	OMIM:251200
+2	0.95	Cockayne syndrome	OMIM:216400
+3	0.9	Werner syndrome	OMIM:277700
+4	0.85	Xeroderma pigmentosum	OMIM:278700
+5	0.8	Seckel syndrome	OMIM:210600
+6	0.75	Fanconi anemia	OMIM:227650
+7	0.7	Nijmegen breakage syndrome	OMIM:251260
+8	0.65	Ataxia-telangiectasia	OMIM:208900
+9	0.6	Bloom syndrome	OMIM:210900
+10	0.55	Primary autosomal recessive microcephaly	OMIM:251200

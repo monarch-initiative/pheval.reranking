@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Papillon-Lefevre Syndrome	OMIM:245000
+2	0.85	Haim-Munk Syndrome	OMIM:245010
+3	0.8	Hyper-IgE Syndrome	OMIM:147060
+4	0.75	Papillon-Lefevre Syndrome 2	OMIM:615598
+5	0.7	Localized Juvenile Periodontitis	OMIM:189600
+6	0.65	Prepubertal Periodontitis	OMIM:617301
+7	0.6	Dowling-Degos Disease	OMIM:179850
+8	0.55	Papillon-Lefevre Syndrome 3	OMIM:617331
+9	0.5	Ectodermal Dysplasia-Syndactyly Syndrome 1	OMIM:613573
+10	0.45	Papillon-Lefevre Syndrome 4	OMIM:617936

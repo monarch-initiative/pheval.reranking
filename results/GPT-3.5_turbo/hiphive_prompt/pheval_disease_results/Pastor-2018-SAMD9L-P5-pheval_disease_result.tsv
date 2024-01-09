@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Shwachman-Diamond syndrome	OMIM:260400
+2	0.92	Fanconi anemia	OMIM:227650
+3	0.89	Dyskeratosis congenita, X-linked	OMIM:305000
+4	0.85	Amegakaryocytic thrombocytopenia, congenital	OMIM:604498
+5	0.81	Thrombocytopenia-absent radius syndrome	OMIM:274000
+6	0.78	Diamond-Blackfan anemia	OMIM:105650
+7	0.75	Essential thrombocythemia	OMIM:187950
+8	0.72	Myelodysplastic syndrome	OMIM:614286
+9	0.68	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.65	Congenital amegakaryocytic thrombocytopenia	OMIM:604498

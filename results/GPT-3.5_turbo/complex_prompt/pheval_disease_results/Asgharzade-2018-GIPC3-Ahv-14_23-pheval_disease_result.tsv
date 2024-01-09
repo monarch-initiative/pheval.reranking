@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Non-syndromic hearing loss	OMIM:220290
+2	0.8	Usher syndrome type 1	OMIM:276900
+3	0.7	Pendred syndrome	OMIM:274600
+4	0.6	Jervell and Lange-Nielsen syndrome	OMIM:220400
+5	0.5	Branchiootorenal syndrome	OMIM:113650
+6	0.4	Long QT syndrome	OMIM:613688
+7	0.3	DFNB59-related hearing loss	OMIM:610220
+8	0.2	Waardenburg syndrome type 2D	OMIM:608890
+9	0.1	DFNB1-related hearing loss	OMIM:220290

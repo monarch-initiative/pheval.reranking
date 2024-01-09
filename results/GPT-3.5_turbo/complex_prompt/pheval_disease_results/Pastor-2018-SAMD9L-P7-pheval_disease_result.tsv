@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aplastic anemia	OMIM:609135
+2	0.8	Fanconi anemia	OMIM:227650
+3	0.7	Diamond-Blackfan anemia	OMIM:105650
+4	0.6	Myelodysplastic syndromes	OMIM:614286
+5	0.5	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+6	0.4	Glanzmann thrombasthenia	OMIM:273800
+7	0.3	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.2	Congenital thrombocytopenia	OMIM:313900
+9	0.1	Bernard-Soulier syndrome	OMIM:231200

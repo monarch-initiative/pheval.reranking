@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolysis bullosa	OMIM:131800
+2	0.93	Junctional epidermolysis bullosa	OMIM:226700
+3	0.92	Herlitz junctional epidermolysis bullosa	OMIM:226700
+4	0.9	Kindler syndrome	OMIM:173650
+5	0.88	Generalized atrophic benign epidermolysis bullosa	OMIM:131705
+6	0.86	Epidermolysis bullosa dystrophica	OMIM:131750
+7	0.84	Dystrophic epidermolysis bullosa	OMIM:226600
+8	0.82	Herlitz syndrome	OMIM:234500
+9	0.81	Lethal acantholytic epidermolysis bullosa	OMIM:609352
+10	0.8	Epidermolysis bullosa letalis	OMIM:226700

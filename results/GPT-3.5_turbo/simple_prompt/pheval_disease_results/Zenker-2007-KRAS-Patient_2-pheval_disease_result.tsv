@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Coffin-Lowry Syndrome	OMIM:303600
+2	0.9	Cardiofaciocutaneous Syndrome	OMIM:115150
+3	0.8	Noonan Syndrome	OMIM:163950
+4	0.7	Rasopathies	OMIM:166710
+5	0.6	Rubinstein-Taybi Syndrome	OMIM:180849

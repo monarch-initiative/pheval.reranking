@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Adrenocorticotropic hormone deficiency	OMIM:201400
+2	0.8	Macroscopic hematuria	OMIM:609886
+3	0.7	Galactorrhea	OMIM:615555
+4	0.6	Headache	OMIM:614196
+5	0.5	Duodenal ulcer	OMIM:616095
+6	0.4	Thymoma	OMIM:188500
+7	0.3	Hypergastrinemia	OMIM:137250
+8	0.2	Back pain	OMIM:251400
+9	0.1	Secondary amenorrhea	OMIM:615713
+10	0.05	Pituitary adenoma	OMIM:102200

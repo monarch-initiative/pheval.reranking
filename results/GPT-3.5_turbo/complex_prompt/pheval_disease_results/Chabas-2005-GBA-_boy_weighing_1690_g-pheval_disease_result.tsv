@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher disease	OMIM:230800
+2	0.8	Niemann-Pick disease, type C1	OMIM:257220
+3	0.7	Congenital disorder of glycosylation, type IIb	OMIM:603585
+4	0.6	Congenital hypotonia	OMIM:614080
+5	0.5	Congenital ichthyosiform erythroderma	OMIM:242100
+6	0.4	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.3	Bernard-Soulier syndrome	OMIM:231200
+8	0.2	Severe congenital neutropenia	OMIM:202700
+9	0.1	Dyskeratosis congenita	OMIM:127550
+9	0.1	Familial platelet disorder with associated myeloid malignancy	OMIM:601399

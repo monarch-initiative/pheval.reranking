@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Werner syndrome	OMIM:277700
+2	0.8	Familial hypercholesterolemia	OMIM:143890
+3	0.7	Congenital generalized lipodystrophy	OMIM:612526
+4	0.6	Charcot-Marie-Tooth disease type 4	OMIM:214400
+5	0.5	Facioscapulohumeral muscular dystrophy	OMIM:158900
+6	0.4	Phosphoglycerate kinase 1 deficiency	OMIM:300653
+7	0.3	Myotonic dystrophy type 1	OMIM:160900
+8	0.2	Familial exudative vitreoretinopathy	OMIM:133780
+9	0.1	Congenital contractural arachnodactyly	OMIM:121050
+10	0.0	Kniest dysplasia	OMIM:156550

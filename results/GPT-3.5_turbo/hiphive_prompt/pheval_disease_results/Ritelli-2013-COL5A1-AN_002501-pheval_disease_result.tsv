@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+2	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+3	0.7	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Osteogenesis imperfecta	OMIM:166200
+6	0.4	Stickler syndrome	OMIM:108300
+7	0.3	Lowe syndrome	OMIM:309000
+8	0.2	X-linked hypophosphatemic rickets	OMIM:307800
+9	0.1	Hypermobility syndrome	OMIM:147200
+10	0.05	Cutis laxa	OMIM:123700

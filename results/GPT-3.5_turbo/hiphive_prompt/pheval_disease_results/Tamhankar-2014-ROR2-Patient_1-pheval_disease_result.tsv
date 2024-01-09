@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Carpenter syndrome	OMIM:201000
+3	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.8	Orofaciodigital syndrome I	OMIM:311200
+5	0.78	Acrodysostosis 1 with or without hormone resistance	OMIM:101800
+6	0.75	Kleefstra syndrome	OMIM:610253
+7	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.7	Severe achondroplasia with developmental delay and acanthosis nigricans (SADDAN)	OMIM:616089
+9	0.68	CHARGE syndrome	OMIM:214800
+10	0.65	Pitt-Hopkins syndrome	OMIM:610954

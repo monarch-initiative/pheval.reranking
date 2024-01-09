@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gastroesophageal reflux	OMIM:109350
+2	0.8	Anxiety	OMIM:607834
+3	0.7	Asthma	OMIM:600807
+4	0.6	Self-injurious behavior	OMIM:614254
+5	0.5	Spontaneous pneumothorax	OMIM:173600
+6	0.4	Failure to thrive	OMIM:214850
+7	0.3	Strabismus	OMIM:185100
+8	0.2	Upslanted palpebral fissure	OMIM:194750
+9	0.1	Synophrys	OMIM:186550
+10	0.05	Sleep disturbance	OMIM:608707

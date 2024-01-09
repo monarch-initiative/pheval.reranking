@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome	OMIM:117550
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Cohen syndrome	OMIM:216550
+4	0.6	Fragile X syndrome	OMIM:300624
+5	0.5	Weaver syndrome	OMIM:277590

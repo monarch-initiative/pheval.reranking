@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.926	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.915	Autism Spectrum Disorder	OMIM:209850
+3	0.907	Phelan-McDermid Syndrome	OMIM:606232
+4	0.894	CHARGE Syndrome	OMIM:214800
+5	0.89	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.888	22q11.2 Deletion Syndrome	OMIM:192430
+7	0.871	Noonan Syndrome	OMIM:163950
+8	0.866	Kabuki Syndrome	OMIM:147920
+9	0.863	Cornelia de Lange Syndrome	OMIM:122470
+10	0.861	Miller-Dieker Syndrome	OMIM:247200

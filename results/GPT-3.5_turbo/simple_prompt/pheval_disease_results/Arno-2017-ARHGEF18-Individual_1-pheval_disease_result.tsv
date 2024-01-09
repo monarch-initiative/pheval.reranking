@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rod-cone dystrophy	OMIM:179605
+2	0.9	Attenuation of retinal blood vessels	OMIM:613411
+3	0.85	Nyctalopia	OMIM:257470
+4	0.8	Hypoautofluorescent retinal lesion	OMIM:136880
+5	0.75	Diffuse optic disc pallor	OMIM:165200
+6	0.7	Pigmentary retinopathy	OMIM:268000
+7	0.65	Visual field defect	OMIM:253770
+8	0.6	Reduced visual acuity	OMIM:615521

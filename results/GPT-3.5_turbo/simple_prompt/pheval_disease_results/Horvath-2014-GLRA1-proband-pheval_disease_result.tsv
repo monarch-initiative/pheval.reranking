@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Dyskinesia	OMIM:271950
+2	0.9	Dilatation of the renal pelvis	OMIM:173900
+3	0.8	Hypertonia	OMIM:602356
+4	0.7	Pneumothorax	OMIM:173600
+5	0.6	Morphological abnormality of the central nervous system	OMIM:613668

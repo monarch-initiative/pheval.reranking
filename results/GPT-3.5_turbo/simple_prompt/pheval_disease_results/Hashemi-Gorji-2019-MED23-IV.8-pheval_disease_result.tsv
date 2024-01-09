@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy	OMIM:602530
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Severe intellectual disability and progressive spastic paraplegia	OMIM:615234
+4	0.6	Microcephaly	OMIM:251200
+5	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.4	Angelman syndrome	OMIM:105830
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400

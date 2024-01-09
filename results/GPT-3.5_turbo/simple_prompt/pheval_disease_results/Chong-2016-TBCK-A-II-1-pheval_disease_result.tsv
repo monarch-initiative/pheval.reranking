@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Seckel Syndrome 1	OMIM:210600
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.75	Aicardi Syndrome	OMIM:304050
+4	0.7	Kabuki Syndrome 1	OMIM:147920
+5	0.65	Angelman Syndrome	OMIM:105830

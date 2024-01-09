@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Amelogenesis imperfecta, hypomaturation type, IIA1	OMIM:204700
+2	0.88	Amelogenesis imperfecta, type II	OMIM:104500
+3	0.86	Amelogenesis imperfecta, hypomaturation type, IIB	OMIM:612529
+4	0.82	Dentinogenesis imperfecta	OMIM:125500
+5	0.76	Odontohypophosphatasia	OMIM:146300
+6	0.7	Amelogenesis imperfecta, type IV	OMIM:104510
+7	0.68	Amelogenesis imperfecta, hypomaturation type, IIC	OMIM:612529
+8	0.64	Amelogenesis imperfecta, hypocalcified type	OMIM:204690
+9	0.58	Keratosis palmoplantaris striata II	OMIM:612908
+10	0.54	Hypocalciuric hypercalcemia, familial, type III	OMIM:600740

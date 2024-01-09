@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Silver-Russell syndrome	OMIM:180860
+2	0.89	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.88	Floating-Harbor syndrome	OMIM:136140
+4	0.87	Fibrodysplasia ossificans progressiva	OMIM:135100
+5	0.85	Meier-Gorlin syndrome 1	OMIM:224690
+6	0.84	Perry syndrome	OMIM:168605
+7	0.82	WAGR syndrome	OMIM:194072
+8	0.81	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.8	Angelman syndrome	OMIM:105830
+10	0.79	Borjeson-Forssman-Lehmann syndrome	OMIM:301900

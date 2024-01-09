@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukoencephalopathy with brain stem and spinal cord involvement-high lactate	OMIM:611105
+2	0.8	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.7	Mitochondrial complex IV deficiency	OMIM:220110
+4	0.6	Spinocerebellar ataxia type 5	OMIM:600224
+5	0.5	Krabbe disease	OMIM:245200
+6	0.4	Pelizaeus-Merzbacher-like disease	OMIM:312080
+7	0.3	Spinocerebellar ataxia type 7	OMIM:164500
+8	0.2	Leukodystrophy, hypomyelinating, 12	OMIM:616683
+9	0.1	Aicardi-Goutières syndrome 6	OMIM:615010

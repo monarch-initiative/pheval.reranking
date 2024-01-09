@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Otitis media	OMIM:166760
+2	0.89	Craniosynostosis	OMIM:123100
+3	0.85	Marfan syndrome	OMIM:154700
+4	0.82	Autism spectrum disorder	OMIM:209850
+5	0.81	Hirschsprung disease	OMIM:142623
+6	0.8	Neurofibromatosis type I	OMIM:162200
+7	0.78	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.77	Phelan-McDermid syndrome	OMIM:606232
+9	0.76	Meckel syndrome	OMIM:249000
+10	0.75	Goldenhar syndrome	OMIM:164210

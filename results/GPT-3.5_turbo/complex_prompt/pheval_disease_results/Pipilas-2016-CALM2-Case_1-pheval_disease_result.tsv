@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:192500
+2	0.8	Atrioventricular block	OMIM:113900
+3	0.7	Left ventricular noncompaction	OMIM:604169
+4	0.6	Sinus bradycardia	OMIM:114000
+5	0.5	Brugada syndrome	OMIM:601144
+6	0.4	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+7	0.3	Hypertrophic cardiomyopathy	OMIM:192600
+8	0.2	Dilated cardiomyopathy	OMIM:115200
+9	0.1	Wolff-Parkinson-White syndrome	OMIM:194200
+9	0.1	Sick sinus syndrome	OMIM:142900

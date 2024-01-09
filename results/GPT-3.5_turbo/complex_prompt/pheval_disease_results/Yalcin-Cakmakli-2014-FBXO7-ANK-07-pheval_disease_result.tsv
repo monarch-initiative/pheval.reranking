@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.8	Progressive supranuclear palsy	OMIM:601104
+2	0.8	Multiple system atrophy	OMIM:146500
+4	0.7	Dementia with Lewy bodies	OMIM:127750
+4	0.7	Essential Tremor	OMIM:190300
+6	0.6	Spinocerebellar ataxia type 3	OMIM:109150
+6	0.6	Corticobasal degeneration	OMIM:601104
+8	0.5	Huntington disease	OMIM:143100
+8	0.5	Wilson disease	OMIM:277900
+10	0.4	Hydrocephalus	OMIM:236600

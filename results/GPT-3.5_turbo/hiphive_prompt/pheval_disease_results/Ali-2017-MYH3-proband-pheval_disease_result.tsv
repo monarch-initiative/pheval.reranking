@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Microcephaly	OMIM:251200
+2	0.95	Robinow syndrome	OMIM:268310
+3	0.92	Craniofrontonasal syndrome	OMIM:304110
+4	0.89	Craniosynostosis	OMIM:123100
+5	0.86	Stickler syndrome	OMIM:108300
+6	0.84	Treacher Collins syndrome	OMIM:154500
+7	0.82	Fetal alcohol syndrome	OMIM:134630
+8	0.79	Ehlers-Danlos syndrome	OMIM:130000
+9	0.76	Apert syndrome	OMIM:101200
+10	0.73	Kallmann syndrome	OMIM:308700

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.8	Cockayne syndrome	OMIM:133540
+3	0.7	Seckel syndrome	OMIM:210600
+4	0.6	Microcephalic osteodysplastic primordial dwarfism	OMIM:603805
+5	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.4	Xeroderma pigmentosum	OMIM:278700
+7	0.3	Mandibular prognathism-deafness-microcephaly syndrome	OMIM:600065

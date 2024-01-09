@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.972	1p36 deletion syndrome	OMIM:607872
+2	0.97	Coffin-Lowry syndrome	OMIM:303600
+3	0.968	Cri-du-chat syndrome	OMIM:123450
+4	0.966	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.964	Opitz G/BBB syndrome	OMIM:300000
+6	0.962	Schinzel-Giedion syndrome	OMIM:269150
+7	0.958	Aarskog-Scott syndrome	OMIM:305400
+8	0.956	Angelman syndrome	OMIM:105830
+9	0.954	CHARGE syndrome	OMIM:214800
+10	0.95	Smith-Lemli-Opitz syndrome	OMIM:270400

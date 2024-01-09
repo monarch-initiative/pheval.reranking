@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Duchenne muscular dystrophy	OMIM:310200
+2	0.75	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.65	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.6	Inclusion body myositis	OMIM:147421
+6	0.55	Hyperparathyroidism, neonatal severe	OMIM:239200
+7	0.5	Polyglucosan body disease, adult form	OMIM:263570
+8	0.45	Sarcoidosis	OMIM:181000
+9	0.4	Osteomalacia	OMIM:259660
+10	0.35	Scapuloperoneal muscular dystrophy	OMIM:181405

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.75	Angelman syndrome	OMIM:105830
+5	0.7	Prader-Willi syndrome	OMIM:176270
+6	0.65	Smith-Magenis syndrome	OMIM:182290
+7	0.6	Williams syndrome	OMIM:194050
+8	0.55	Cri-du-chat syndrome	OMIM:123450
+9	0.5	Sotos syndrome	OMIM:117550
+10	0.45	Cohen syndrome	OMIM:216550

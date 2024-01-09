@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Poikiloderma with Neutropenia	OMIM:604173
+2	0.93	Dyskeratosis Congenita	OMIM:127550
+3	0.9	Cohen Syndrome	OMIM:216550
+4	0.88	Bloom Syndrome	OMIM:210900
+5	0.85	Chediak-Higashi Syndrome	OMIM:214500
+6	0.83	Werner Syndrome	OMIM:277700
+7	0.81	Seckel Syndrome	OMIM:210600
+8	0.78	Cockayne Syndrome	OMIM:216400
+9	0.76	Fanconi Anemia	OMIM:227650
+10	0.73	Gordon Holmes Syndrome	OMIM:212840

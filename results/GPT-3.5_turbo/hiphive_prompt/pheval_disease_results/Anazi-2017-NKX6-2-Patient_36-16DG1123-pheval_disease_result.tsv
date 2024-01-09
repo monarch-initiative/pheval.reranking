@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukodystrophy, hypomyelinating, 3	OMIM:260600
+2	0.85	Intellectual disability, X-linked 1	OMIM:300419
+3	0.8	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+4	0.75	Strabismus	OMIM:185100
+5	0.7	Scoliosis, idiopathic 1	OMIM:180100
+6	0.65	Intellectual disability, X-linked 14	OMIM:300676
+7	0.6	Encephalopathy due to sulfite oxidase deficiency	OMIM:272300
+8	0.55	Cockayne syndrome A	OMIM:216400
+9	0.5	Intellectual disability, X-linked 102	OMIM:300983
+10	0.45	Myoclonus-dystonia	OMIM:159900

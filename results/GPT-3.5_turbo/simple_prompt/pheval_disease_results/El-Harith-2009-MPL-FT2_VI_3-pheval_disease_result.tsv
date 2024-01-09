@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.8	Refractory Anemia with Excess Blasts	OMIM:601626
+3	0.7	Chronic Myelogenous Leukemia	OMIM:608232
+4	0.6	Polycythemia Vera	OMIM:263300
+5	0.5	Primary Myelofibrosis	OMIM:254450

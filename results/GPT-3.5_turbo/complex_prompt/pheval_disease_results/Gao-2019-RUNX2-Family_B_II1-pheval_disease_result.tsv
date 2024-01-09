@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Caffey disease	OMIM:114000
+3	0.7	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+4	0.6	Osteogenesis imperfecta type I	OMIM:166200
+5	0.5	Frontometaphyseal dysplasia	OMIM:305620
+6	0.4	Metaphyseal chondrodysplasia, Jansen type	OMIM:156400
+7	0.3	Cleidocranial dysplasia, forme fruste	OMIM:119600
+8	0.2	Osteogenesis imperfecta type IV	OMIM:166220
+9	0.1	Metaphyseal chondrodysplasia, Shwachman-Diamond type	OMIM:260660
+10	0.05	Osteogenesis imperfecta type III	OMIM:259420

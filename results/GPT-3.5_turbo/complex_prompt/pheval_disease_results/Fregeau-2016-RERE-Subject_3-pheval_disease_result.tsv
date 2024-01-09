@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome	OMIM:117550
+2	0.8	Noonan syndrome	OMIM:163950
+2	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.7	Marfan syndrome	OMIM:154700
+4	0.7	Coffin-Siris syndrome	OMIM:135900
+6	0.6	Klinefelter syndrome	OMIM:109250
+6	0.6	Gorlin syndrome	OMIM:109400
+8	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.5	Pitt-Hopkins syndrome	OMIM:605309
+10	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400

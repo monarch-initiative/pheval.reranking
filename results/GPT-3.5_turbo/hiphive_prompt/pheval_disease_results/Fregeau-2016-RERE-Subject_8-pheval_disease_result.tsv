@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Disorder of Glycosylation, Type 1p	OMIM:614921
+2	0.92	X-Linked Intellectual Disability, Nascimento Araujo Type	OMIM:300860
+3	0.91	Pierre Robin Syndrome	OMIM:261800
+4	0.89	Rubinstein-Taybi Syndrome 1	OMIM:180849
+5	0.87	Borderline Intellectual Functioning	OMIM:300636
+6	0.86	Charcot-Marie-Tooth Disease, Type 4H	OMIM:609311
+7	0.85	Asthma	OMIM:600807
+8	0.84	Spina Bifida	OMIM:182940
+9	0.83	Craniosynostosis 1	OMIM:123100
+10	0.82	Scott Syndrome	OMIM:262890

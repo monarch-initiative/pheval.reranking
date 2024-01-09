@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Waardenburg syndrome, type 1	OMIM:193500
+3	0.7	Peters-plus syndrome	OMIM:261540
+4	0.6	Kabuki syndrome 1	OMIM:147920
+5	0.5	Seckel syndrome 1	OMIM:210600
+6	0.4	Coloboma, ocular, with or without hearing impairment, cleft lip/palate, and/or mental retardation	OMIM:216820
+7	0.3	Cri du chat syndrome	OMIM:123450
+8	0.2	Opitz G/BBB syndrome, type I	OMIM:300000
+9	0.1	Norrie disease	OMIM:310600

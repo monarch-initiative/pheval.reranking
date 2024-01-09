@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pitt-Hopkins syndrome	OMIM:610954
+2	0.88	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.86	Rett syndrome	OMIM:312750
+5	0.83	Fragile X syndrome	OMIM:300624
+6	0.81	Angelman syndrome	OMIM:105830
+7	0.79	Cockayne syndrome	OMIM:133540
+8	0.78	Cornelia de Lange syndrome	OMIM:122470
+9	0.77	22q11.2 deletion syndrome	OMIM:192430
+10	0.76	Duchenne muscular dystrophy	OMIM:310200

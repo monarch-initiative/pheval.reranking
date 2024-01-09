@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Leukodystrophy, hypomyelinating, 14	OMIM:618740
+2	0.9	Leigh syndrome 2	OMIM:256000
+2	0.9	Spinocerebellar ataxia autosomal recessive 18	OMIM:615957
+2	0.9	Dystonia 25	OMIM:615577
+5	0.7	Friedreich ataxia	OMIM:229300
+6	0.6	Spinocerebellar ataxia 2	OMIM:183090
+6	0.6	Spinocerebellar ataxia 1	OMIM:164400
+8	0.5	Joubert syndrome 1	OMIM:213300
+9	0.4	Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis	OMIM:201750
+10	0.3	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	OMIM:612674

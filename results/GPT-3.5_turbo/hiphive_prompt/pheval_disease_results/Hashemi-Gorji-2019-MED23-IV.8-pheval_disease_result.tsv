@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy	OMIM:253300
+2	0.8	Spinal muscular atrophy	OMIM:253300
+3	0.7	Cerebral palsy	OMIM:603513
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	Angelman syndrome	OMIM:105830
+6	0.4	Prader-Willi syndrome	OMIM:176270
+7	0.3	Fragile X syndrome	OMIM:300624
+8	0.2	Cornelia de Lange syndrome	OMIM:122470
+9	0.1	Smith-Magenis syndrome	OMIM:182290
+10	0.05	Pitt-Hopkins syndrome	OMIM:610954

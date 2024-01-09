@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Cockayne syndrome type 2	OMIM:133540
+2	0.8	Hypomyelinating leukodystrophy	OMIM:312080
+4	0.7	22q11.2 deletion syndrome	OMIM:188400
+4	0.7	Mitochondrial respiratory chain complex I deficiency	OMIM:252010
+6	0.6	Leigh syndrome	OMIM:256000
+6	0.6	Seckel syndrome 1	OMIM:210600
+8	0.5	Phenylketonuria	OMIM:261600
+8	0.5	Spastic paraplegia 4	OMIM:182601
+8	0.5	Ataxia-telangiectasia	OMIM:208900

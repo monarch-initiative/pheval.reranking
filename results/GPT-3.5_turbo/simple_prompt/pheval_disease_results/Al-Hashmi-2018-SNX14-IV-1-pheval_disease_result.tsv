@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucolipidosis II alpha/beta	OMIM:252500
+2	0.9	Mucopolysaccharidosis type IIIA	OMIM:252900
+3	0.85	Niemann-Pick disease type C	OMIM:257220
+4	0.8	Mucopolysaccharidosis type II	OMIM:309900
+5	0.75	NGLY1-congenital disorder of deglycosylation	OMIM:615273

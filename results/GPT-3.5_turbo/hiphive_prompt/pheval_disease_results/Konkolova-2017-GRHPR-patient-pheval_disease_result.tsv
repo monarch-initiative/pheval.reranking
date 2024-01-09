@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria	OMIM:259900
+2	0.91	Hemolytic anemia	OMIM:141800
+3	0.85	Leukocytosis	OMIM:607857
+4	0.84	Pyuria	OMIM:123300
+5	0.81	Renal tubular acidosis	OMIM:179800
+6	0.79	Hip dysplasia	OMIM:142700
+7	0.76	Nephrolithiasis	OMIM:605903
+8	0.75	Hematuria	OMIM:141200
+9	0.71	Polycystic kidney disease	OMIM:173900
+10	0.69	Nephropathy	OMIM:611593

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Poland syndrome	OMIM:173800
+2	0.8	Radius aplasia	OMIM:268000
+3	0.7	Osteogenesis imperfecta type IV	OMIM:166220
+4	0.6	Osteogenesis imperfecta with normal sclerae, dominant form	OMIM:166200
+5	0.5	Diaphyseal medullary stenosis with malignant fibrous histiocytoma	OMIM:112250

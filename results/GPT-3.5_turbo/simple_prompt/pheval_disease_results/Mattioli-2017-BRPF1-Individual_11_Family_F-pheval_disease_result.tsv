@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	X-linked intellectual disability	OMIM:300624

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris syndrome	OMIM:135900
+2	0.92	KBG syndrome	OMIM:148050
+3	0.915	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.905	Cornelia de Lange syndrome	OMIM:122470
+5	0.9	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+6	0.89	Floating-Harbor syndrome	OMIM:136140
+7	0.88	Holoprosencephaly 9	OMIM:610829
+8	0.875	PHACE syndrome	OMIM:606519
+9	0.87	FG syndrome 4	OMIM:300422
+10	0.865	Branchiootic syndrome 1	OMIM:602588

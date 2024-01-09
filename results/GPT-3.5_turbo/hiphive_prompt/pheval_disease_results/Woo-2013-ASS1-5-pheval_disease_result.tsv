@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyperammonemia	OMIM:614759
+2	0.8	Citrullinemia, Type I	OMIM:215700
+3	0.75	Hyperprolinemia, Type II	OMIM:239510
+4	0.7	Hyperargininemia	OMIM:207800
+5	0.6	Oroticaciduria	OMIM:258900
+6	0.55	Citrullinemia, Type II	OMIM:605814
+7	0.5	Maple Syrup Urine Disease	OMIM:248600
+8	0.4	Propionic Acidemia	OMIM:606054
+9	0.35	Argininosuccinic Aciduria	OMIM:207900
+10	0.3	Citrullinemia, Type III	OMIM:603471

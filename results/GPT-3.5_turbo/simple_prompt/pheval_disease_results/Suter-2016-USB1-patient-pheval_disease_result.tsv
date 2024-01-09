@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Poikiloderma	OMIM:166720
+2	0.857	Bronchiectasis	OMIM:211400
+3	0.714	Granuloma	OMIM:233670
+4	0.571	Neutropenia	OMIM:202700
+5	0.429	Hypogonadotrophic hypogonadism	OMIM:146110
+6	0.286	Interstitial pulmonary abnormality	OMIM:613556
+7	0.143	Short stature	OMIM:604271

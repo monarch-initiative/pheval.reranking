@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spherocytosis	OMIM:182900
+2	0.8	Pyruvate kinase deficiency	OMIM:266200
+3	0.7	Sickle cell disease	OMIM:603903
+4	0.6	G6PD deficiency	OMIM:305900
+5	0.5	Hemoglobin C disease	OMIM:603903
+6	0.4	Hemoglobin E disease	OMIM:603903
+7	0.3	Hemoglobin D disease	OMIM:603902
+8	0.2	Paroxysmal nocturnal hemoglobinuria	OMIM:300818
+9	0.1	Autoimmune hemolytic anemia	OMIM:224500
+10	0.05	Thalassemia	OMIM:604131

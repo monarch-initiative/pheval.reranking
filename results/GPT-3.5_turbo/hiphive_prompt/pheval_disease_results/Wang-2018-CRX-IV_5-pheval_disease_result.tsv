@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.87	Cone-rod dystrophy	OMIM:120970
+3	0.85	Rod-cone dystrophy	OMIM:610142
+4	0.82	Congenital stationary night blindness	OMIM:310500
+5	0.8	Cone dystrophy	OMIM:610021
+6	0.78	Night blindness	OMIM:310500
+7	0.75	Choroideremia	OMIM:303100
+8	0.73	Leber congenital amaurosis	OMIM:204000
+9	0.7	Usher syndrome	OMIM:276900
+10	0.68	Optic atrophy	OMIM:165500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+2	0.88	Osteogenesis Imperfecta, Type III	OMIM:259420
+3	0.86	Osteogenesis Imperfecta, Type II	OMIM:166210
+4	0.85	Stickler Syndrome, Type I	OMIM:108300
+5	0.84	Stickler Syndrome, Type II	OMIM:604841
+6	0.83	Otofaciocervical Syndrome	OMIM:166780
+7	0.82	Hajdu-Cheney Syndrome	OMIM:102500
+8	0.81	Osteogenesis Imperfecta, Type VIII	OMIM:610915
+9	0.79	Lunatotriquetral Dissociation	OMIM:607668
+10	0.77	Osteogenesis Imperfecta, Type I	OMIM:166200

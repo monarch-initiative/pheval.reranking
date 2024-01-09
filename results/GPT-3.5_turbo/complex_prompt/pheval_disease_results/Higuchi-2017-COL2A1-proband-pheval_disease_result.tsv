@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome type I	OMIM:108300
+2	0.8	Mucopolysaccharidosis IV	OMIM:253000
+3	0.7	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.6	Pierre Robin sequence	OMIM:261800
+5	0.5	Otopalatodigital syndrome type II	OMIM:304120

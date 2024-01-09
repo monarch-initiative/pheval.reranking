@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Werner syndrome	OMIM:277700
+2	0.92	Hutchinson-Gilford progeria syndrome	OMIM:176670
+3	0.88	Familial partial lipodystrophy, Dunnigan type	OMIM:151660
+4	0.85	Emery-Dreifuss muscular dystrophy	OMIM:310300
+5	0.82	Congenital muscular dystrophy type 1A	OMIM:607855
+6	0.8	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+7	0.78	Lipodystrophy, familial partial, type 2	OMIM:151660
+8	0.76	Familial partial lipodystrophy, Köbberling type	OMIM:151660
+9	0.74	Neuromuscular disease	OMIM:615515
+10	0.72	Mitochondrial DNA depletion syndrome 12A (cardiomyopathic type), autosomal dominant	OMIM:616860

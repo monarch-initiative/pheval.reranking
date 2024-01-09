@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency	OMIM:202700
+2	0.8	DiGeorge syndrome	OMIM:188400
+3	0.7	Kawasaki disease	OMIM:611775
+4	0.6	Common variable immunodeficiency	OMIM:607594
+5	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.4	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.3	X-linked agammaglobulinemia	OMIM:300755
+8	0.2	Severe combined immunodeficiency, Athabascan type	OMIM:602450
+9	0.1	Hyper-IgM syndrome, type 2	OMIM:605258
+10	0.05	Selective IgA deficiency	OMIM:137100

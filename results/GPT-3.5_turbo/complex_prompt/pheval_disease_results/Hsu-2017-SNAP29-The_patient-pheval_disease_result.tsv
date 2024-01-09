@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency 38	OMIM:616126
+2	0.85	Netherton syndrome	OMIM:256500
+3	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.8	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+5	0.78	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.75	Oculocerebrorenal syndrome of Lowe	OMIM:309000
+7	0.72	Neurofibromatosis, type 1	OMIM:162200
+8	0.7	Rubinstein-Taybi syndrome 2	OMIM:613684
+9	0.68	Ataxia-telangiectasia-like disorder	OMIM:604391
+10	0.65	Lujan-Fryns syndrome	OMIM:309520

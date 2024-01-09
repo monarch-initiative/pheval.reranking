@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypophosphatasia	OMIM:146300
+2	0.8	Multiple Epiphyseal Dysplasia, Al-Gazali Type	OMIM:226960
+3	0.7	Achondroplasia	OMIM:100800
+4	0.6	Brachydactyly Type A2	OMIM:112600
+5	0.5	Laron Dwarfism	OMIM:262500
+6	0.4	Multiple Epiphyseal Dysplasia, Fairbank Type	OMIM:226900
+7	0.3	Hypoparathyroidism, Familial Isolated	OMIM:146200
+8	0.2	Iliac Horns	OMIM:601414
+9	0.1	Dyssegmental Dysplasia, Silverman-Handmaker Type	OMIM:224410
+10	0.05	Chondrodysplasia Punctata, X-Linked Dominant	OMIM:302950

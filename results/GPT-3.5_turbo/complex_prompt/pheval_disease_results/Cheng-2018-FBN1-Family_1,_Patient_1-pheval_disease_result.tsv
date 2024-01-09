@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Turner Syndrome	OMIM:314550
+2	0.85	Noonan Syndrome	OMIM:163950
+3	0.8	Klinefelter Syndrome	OMIM:109250
+4	0.75	Osteogenesis Imperfecta	OMIM:166200
+5	0.7	Aarskog-Scott Syndrome	OMIM:305400
+6	0.65	Homocystinuria	OMIM:236200
+7	0.6	Marfan Syndrome	OMIM:154700
+8	0.55	Apert Syndrome	OMIM:101200
+9	0.5	Crouzon Syndrome	OMIM:123500
+10	0.45	Achondroplasia	OMIM:100800

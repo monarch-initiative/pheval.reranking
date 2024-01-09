@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Otitis media, susceptibility to	OMIM:166760
+2	0.91	Ventricular septal defect 1	OMIM:614429
+3	0.87	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+4	0.84	Bronchomalacia	OMIM:211400
+5	0.81	Axenfeld-Rieger syndrome, type 3	OMIM:602482
+6	0.79	Orofacial cleft 8	OMIM:610543
+7	0.77	Pallister-Hall syndrome	OMIM:146510
+8	0.74	Polyhydramnios, megalencephaly, and symptomatic epilepsy 	OMIM:603387
+9	0.72	Esophageal atresia	OMIM:189960
+10	0.69	Orofacial cleft 12	OMIM:612555

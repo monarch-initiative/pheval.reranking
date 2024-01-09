@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myasthenic Syndrome	OMIM:254300
+2	0.8	Myotonic Dystrophy	OMIM:160900
+3	0.7	Congenital Myopathy	OMIM:255200
+4	0.6	Congenital Myasthenic Syndrome with Episodic Apnea	OMIM:614077
+5	0.5	Severe Infantile Axonal Neuropathy	OMIM:256600

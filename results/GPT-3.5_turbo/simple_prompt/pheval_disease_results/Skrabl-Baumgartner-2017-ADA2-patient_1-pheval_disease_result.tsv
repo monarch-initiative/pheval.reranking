@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Systemic Lupus Erythematosus	OMIM:152700
+2	0.9	Antiphospholipid Syndrome	OMIM:107320
+3	0.8	Behçet Disease	OMIM:109650
+4	0.7	Migraine	OMIM:157300
+5	0.6	Ischemic Stroke	OMIM:601367

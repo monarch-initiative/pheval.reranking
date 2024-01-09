@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Coffin-Siris Syndrome	OMIM:135900
+4	0.7	Noonan Syndrome	OMIM:163950
+4	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.6	Fryns Syndrome	OMIM:229850
+6	0.6	Kabuki Syndrome	OMIM:147920
+8	0.5	Klinefelter Syndrome	OMIM:148500
+8	0.5	Trisomy 21	OMIM:190685
+10	0.4	Angelman Syndrome	OMIM:105830

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital myasthenic syndrome	OMIM:601462
+2	0.8	Spinal muscular atrophy	OMIM:253300
+3	0.7	Myotonic dystrophy	OMIM:160900
+3	0.7	Myasthenia gravis	OMIM:254200
+5	0.6	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.6	Lambert-Eaton myasthenic syndrome	OMIM:254200
+7	0.5	Central core disease	OMIM:117000
+7	0.5	Oculopharyngeal muscular dystrophy	OMIM:164300
+9	0.4	Myotonia congenita	OMIM:160800
+9	0.4	Facioscapulohumeral muscular dystrophy	OMIM:158900

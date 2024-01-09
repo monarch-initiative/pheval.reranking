@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Sotos syndrome	OMIM:117550
+2	0.9	Weaver syndrome	OMIM:277590
+3	0.89	Simpson-Golabi-Behmel syndrome	OMIM:312870
+4	0.88	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.87	Megalencephaly-capillary malformation-polymicrogyria syndrome	OMIM:602501
+6	0.86	Kabuki syndrome	OMIM:147920
+7	0.85	Coffin-Lowry syndrome	OMIM:303600
+8	0.84	PTEN hamartoma tumor syndrome	OMIM:158350
+9	0.83	CDKL5 disorder	OMIM:300672
+10	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400

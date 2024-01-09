@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential thrombocythemia	OMIM:187950
+2	0.8	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+3	0.7	Thrombocytopenia-absent radius syndrome	OMIM:274000
+4	0.6	Bernard-Soulier syndrome	OMIM:231200
+5	0.5	Thrombotic thrombocytopenic purpura	OMIM:274150
+6	0.4	Myelodysplastic syndrome	OMIM:614286

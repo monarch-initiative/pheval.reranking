@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arthrogryposis multiplex congenita	OMIM:108120
+2	0.8	Talipes equinovarus	OMIM:192100
+3	0.7	Cryptorchidism	OMIM:219050
+4	0.6	Hypertelorism	OMIM:145400
+5	0.5	Hydronephrosis	OMIM:138900
+6	0.4	Hyperextensible skin	OMIM:607438
+7	0.3	Adducted thumb	OMIM:186100
+8	0.2	Downslanted palpebral fissures	OMIM:133700
+9	0.1	Low-set ears	OMIM:601869
+10	0.05	High palate	OMIM:615081

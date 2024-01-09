@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cornelia de Lange syndrome	OMIM:122470
+2	0.89	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.85	Rett syndrome	OMIM:312750
+4	0.8	Simpson-Golabi-Behmel syndrome	OMIM:312870
+5	0.77	Pallister-Hall syndrome	OMIM:146510
+6	0.75	Cantu syndrome	OMIM:239850
+7	0.73	Cockayne syndrome	OMIM:216400
+8	0.71	Aicardi-Goutieres syndrome	OMIM:225750
+9	0.68	Joubert syndrome	OMIM:213300
+10	0.66	Seckel syndrome	OMIM:210600

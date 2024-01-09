@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Myotonic Dystrophy Type 1	OMIM:160900
+2	0.7	Congenital Myasthenic Syndrome	OMIM:615120
+3	0.6	Centronuclear Myopathy	OMIM:160150
+4	0.5	Prader-Willi Syndrome	OMIM:176270
+5	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.3	Oculopharyngeal Muscular Dystrophy	OMIM:164300
+7	0.2	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+8	0.1	Plagiocephaly	OMIM:612530

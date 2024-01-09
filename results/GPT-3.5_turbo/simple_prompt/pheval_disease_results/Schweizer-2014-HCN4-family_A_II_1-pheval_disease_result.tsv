@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Left ventricular noncompaction	OMIM:601494
+2	0.8	Ventricular fibrillation	OMIM:603829
+3	0.7	Sinus bradycardia	OMIM:163800

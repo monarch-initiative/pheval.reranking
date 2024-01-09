@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.9	Weill-Marchesani syndrome	OMIM:608328
+3	0.85	Beals syndrome	OMIM:121050
+4	0.8	Stickler syndrome	OMIM:108300
+5	0.75	Larsen syndrome	OMIM:150250
+6	0.7	Loeys-Dietz syndrome	OMIM:609192
+7	0.65	Kniest dysplasia	OMIM:156550
+8	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.5	Nonaka myopathy	OMIM:605820
+10	0.4	Otitis media	OMIM:166760

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Spondylocostal dysostosis 1	OMIM:277300
+2	0.92	Stickler syndrome type 1	OMIM:108300
+3	0.9	Osteogenesis imperfecta type III	OMIM:259420
+4	0.89	Brachydactyly type B1	OMIM:113000
+5	0.85	Trichorhinophalangeal syndrome type I	OMIM:190350
+6	0.83	Marfan syndrome	OMIM:154700
+7	0.8	Kniest dysplasia	OMIM:156550
+8	0.78	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome	OMIM:208250
+9	0.76	Multiple epiphyseal dysplasia type 1	OMIM:132400
+10	0.74	Diastrophic dysplasia	OMIM:222600

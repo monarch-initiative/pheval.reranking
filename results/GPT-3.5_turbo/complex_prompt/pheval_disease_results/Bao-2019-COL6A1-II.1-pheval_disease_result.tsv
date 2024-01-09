@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy with lower extremity predominance 2, autosomal dominant	OMIM:618048
+2	0.8	Charcot-Marie-Tooth disease, type 2N	OMIM:615248
+3	0.7	Amyotrophic lateral sclerosis 1	OMIM:105400
+4	0.6	Spinal muscular atrophy, distal, autosomal recessive, 1	OMIM:604320
+5	0.5	Distal hereditary motor neuronopathy 1	OMIM:604320
+6	0.4	Familial amyotrophic lateral sclerosis type 5	OMIM:602099
+7	0.3	Charcot-Marie-Tooth disease, type IIA	OMIM:607376
+8	0.2	Spinal muscular atrophy with lower extremity predominance 3	OMIM:618040
+9	0.1	Charcot-Marie-Tooth disease, type IIB	OMIM:605588
+10	0.05	Congenital muscular dystrophy with cerebellar involvement	OMIM:614182

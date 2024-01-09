@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bartter syndrome	OMIM:601678
+2	0.8	Congenital chloride diarrhea	OMIM:214700
+3	0.7	Congenital sodium diarrhea	OMIM:270420
+4	0.6	Cystic fibrosis	OMIM:219700
+5	0.5	Gitelman syndrome	OMIM:263800
+6	0.4	Mucolipidosis III	OMIM:252600
+7	0.3	Williams-Beuren syndrome	OMIM:194050
+8	0.2	Liddle syndrome	OMIM:177200
+9	0.1	Meconium ileus	OMIM:614665

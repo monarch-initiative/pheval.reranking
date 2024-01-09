@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.7	Larsen syndrome	OMIM:150250
+4	0.6	Stickler Syndrome	OMIM:604841
+5	0.5	Osteogenesis imperfecta type V	OMIM:610967
+6	0.4	Cole-Carpenter Syndrome	OMIM:112240
+7	0.3	Wolcott-Rallison syndrome	OMIM:226980
+8	0.2	Raine syndrome	OMIM:259775
+9	0.1	Osteogenesis imperfecta type XV	OMIM:615220
+10	0.05	Weissenbacher-Zweymuller syndrome	OMIM:277610

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate dehydrogenase deficiency	OMIM:312170
+2	0.8	Leigh syndrome	OMIM:256000
+3	0.7	Infantile hypertrophic cardiomyopathy	OMIM:192600
+4	0.6	Mitochondrial complex I deficiency	OMIM:252010
+5	0.5	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000

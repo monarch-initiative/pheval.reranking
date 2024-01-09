@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aicardi syndrome	OMIM:304050
+2	0.87	Angelman syndrome	OMIM:105830
+3	0.85	Pitt-Hopkins syndrome	OMIM:610954
+4	0.83	Rett syndrome	OMIM:312750
+5	0.78	Phelan-McDermid syndrome	OMIM:606232
+6	0.76	Cri-du-chat syndrome	OMIM:123450
+7	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.72	Joubert syndrome	OMIM:213300
+9	0.71	Coffin-Lowry syndrome	OMIM:303600
+10	0.69	Sturge-Weber syndrome	OMIM:185300

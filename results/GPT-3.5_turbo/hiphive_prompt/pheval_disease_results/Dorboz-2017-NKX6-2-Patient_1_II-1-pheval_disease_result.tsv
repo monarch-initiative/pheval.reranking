@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Spastic Paraplegia 7, Autosomal Recessive	OMIM:607259
+2	0.82	Spastic Paraplegia 15, Autosomal Recessive	OMIM:270700
+3	0.8	Spastic Paraplegia 25, Autosomal Recessive	OMIM:609535
+4	0.78	Spastic Paraplegia 11, Autosomal Recessive	OMIM:604360
+5	0.77	Infantile Spasms	OMIM:308350
+6	0.75	Spastic Paraplegia 4, Autosomal Dominant	OMIM:182601
+7	0.73	Spastic Paraplegia 30, Autosomal Recessive	OMIM:610357
+8	0.71	Spastic Paraplegia 20, Autosomal Recessive	OMIM:275900
+9	0.69	Charcot-Marie-Tooth Disease, Recessive Intermediate A	OMIM:608340
+10	0.68	Intellectual Developmental Disorder, Autosomal Recessive 48	OMIM:618535

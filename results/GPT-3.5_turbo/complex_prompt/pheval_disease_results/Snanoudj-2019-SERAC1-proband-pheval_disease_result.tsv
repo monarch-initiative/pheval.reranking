@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.92	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+3	0.89	3-Methylglutaconic aciduria type 1	OMIM:250950
+4	0.88	Leigh-like syndrome	OMIM:256000
+5	0.87	Combined oxidative phosphorylation deficiency	OMIM:609060
+6	0.85	Mitochondrial DNA depletion syndrome 6	OMIM:256810
+7	0.84	Mitochondrial DNA depletion syndrome 3	OMIM:251880
+8	0.82	Mitochondrial DNA depletion syndrome 10	OMIM:615418
+9	0.8	Leigh-like syndrome with genital anomalies	OMIM:256000
+10	0.78	Pontocerebellar hypoplasia type 6	OMIM:611523

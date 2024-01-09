@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	OMIM:605489
+2	0.8	Ataxia with Vitamin E Deficiency	OMIM:277460
+3	0.7	Coffin-Lowry Syndrome	OMIM:303600
+4	0.6	L1 Syndrome	OMIM:308840
+5	0.5	Wiskott-Aldrich Syndrome	OMIM:301000
+6	0.4	X-Linked Agammaglobulinemia	OMIM:300755
+7	0.3	Closed Spinal Dysraphism	OMIM:182940
+8	0.2	Marfan Syndrome	OMIM:154700
+9	0.1	Fanconi Anemia, Complementation Group A	OMIM:227650
+10	0.05	Severe Combined Immunodeficiency, X-Linked	OMIM:300400

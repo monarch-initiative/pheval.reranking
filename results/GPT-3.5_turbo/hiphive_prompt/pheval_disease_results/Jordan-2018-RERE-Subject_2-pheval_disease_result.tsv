@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9234	Cockayne syndrome	OMIM:216400
+2	0.9128	Fanconi anemia	OMIM:227650
+3	0.9011	Xeroderma pigmentosum	OMIM:278700
+4	0.8985	Cornelia de Lange syndrome	OMIM:122470
+5	0.8932	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.8887	Schwartz-Jampel syndrome	OMIM:255800
+7	0.8852	Charcot-Marie-Tooth disease	OMIM:118220
+8	0.8816	Waardenburg syndrome	OMIM:193500
+9	0.8769	Polycystic kidney disease	OMIM:173900
+10	0.8721	Cranioectodermal dysplasia	OMIM:613610

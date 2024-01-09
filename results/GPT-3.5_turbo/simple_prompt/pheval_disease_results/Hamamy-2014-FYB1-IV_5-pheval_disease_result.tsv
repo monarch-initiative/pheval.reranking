@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+2	0.9	Grey Platelet Syndrome	OMIM:139090
+3	0.8	Bernard-Soulier Syndrome, Type A2, Autosomal Dominant	OMIM:153670
+4	0.7	Bernard-Soulier Syndrome, Type C	OMIM:231200

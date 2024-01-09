@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Charcot-Marie-Tooth Disease	OMIM:118200
+2	0.9	Hereditary Sensory and Autonomic Neuropathy	OMIM:223900
+3	0.8	Hereditary Motor and Sensory Neuropathy	OMIM:108740
+4	0.7	Peripheral Neuropathy	OMIM:162500
+5	0.6	Recurrent Infections, Autosomal Dominant, Due to TLR1 Deficiency	OMIM:614192

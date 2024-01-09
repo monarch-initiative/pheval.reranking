@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Orofaciodigital Syndrome I	OMIM:311200
+2	0.94	Saethre-Chotzen Syndrome	OMIM:101400
+3	0.93	Craniosynostosis 1	OMIM:123100
+4	0.92	Crouzon Syndrome	OMIM:123500
+5	0.91	Apert Syndrome	OMIM:101200
+6	0.9	Familial Scaphocephaly Syndrome	OMIM:609579
+7	0.88	Pfeiffer Syndrome	OMIM:101600
+8	0.87	Saethre-Chotzen Syndrome with Eyelid Anomalies	OMIM:101600
+9	0.86	Craniosynostosis 2	OMIM:604757
+10	0.85	Acrocephalosyndactyly, Type II	OMIM:101200

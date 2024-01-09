@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.9	Osteogenesis imperfecta	OMIM:166200
+3	0.85	Craniofrontonasal syndrome	OMIM:304110
+4	0.8	Spondylocostal dysostosis	OMIM:277300
+5	0.75	Achondroplasia	OMIM:100800

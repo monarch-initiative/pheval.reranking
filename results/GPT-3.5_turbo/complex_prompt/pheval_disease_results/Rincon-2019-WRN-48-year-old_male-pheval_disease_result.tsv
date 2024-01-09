@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Albright hereditary osteodystrophy	OMIM:103580
+2	0.8	MODY, type 4	OMIM:606392
+3	0.7	Hyperphosphatemic familial tumoral calcinosis, van Buchem type	OMIM:611718
+4	0.6	Pseudohypoparathyroidism type 1B	OMIM:603233
+5	0.5	Mucolipidosis III gamma	OMIM:252605
+6	0.4	McCune-Albright syndrome	OMIM:174800
+7	0.3	Familial hypocalciuric hypercalcemia type 3	OMIM:600740
+8	0.2	Hypophosphatemic rickets, X-linked recessive	OMIM:300554
+9	0.1	Osteogenesis imperfecta type XV	OMIM:615066

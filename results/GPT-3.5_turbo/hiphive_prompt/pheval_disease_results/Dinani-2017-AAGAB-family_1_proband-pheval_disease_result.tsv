@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia 92, Sixma type	OMIM:618545
+2	0.88	Palmoplantar keratoderma and congenital alopecia 2, KRT74-related	OMIM:616099
+3	0.86	Haim-Munk syndrome	OMIM:245010
+4	0.84	Pachyonychia congenita 1, Jackson-Lawler type	OMIM:167200
+5	0.82	Dahlberg-Borer-Newcomer syndrome	OMIM:601235
+6	0.8	Polydactyly, postaxial A1	OMIM:174200
+7	0.78	Pachyonychia congenita 2, Clouston type	OMIM:167210
+8	0.76	Rothmund-Thomson syndrome, type 2	OMIM:619087
+9	0.74	Palmoplantar punctate keratoderma with ichthyosis	OMIM:616469
+10	0.72	Pachyonychia congenita 3	OMIM:615726

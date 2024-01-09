@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta	OMIM:166200
+2	0.9	Stickler syndrome	OMIM:108300
+3	0.85	Ehlers-Danlos syndrome	OMIM:130000
+4	0.8	Klippel-Feil syndrome	OMIM:118100
+5	0.75	Seckel syndrome	OMIM:210600

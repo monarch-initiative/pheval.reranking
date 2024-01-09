@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia type 3	OMIM:109150
+3	0.7	Spinocerebellar ataxia type 2	OMIM:183090
+4	0.6	Hereditary spastic paraplegia	OMIM:604805
+4	0.6	Parkinson disease	OMIM:168600
+6	0.5	Spinocerebellar ataxia type 6	OMIM:183086
+6	0.5	Spinocerebellar ataxia type 10	OMIM:603516
+8	0.4	Rett syndrome	OMIM:312750
+8	0.4	Spinocerebellar ataxia type 7	OMIM:164500
+10	0.3	Machado-Joseph disease	OMIM:109150

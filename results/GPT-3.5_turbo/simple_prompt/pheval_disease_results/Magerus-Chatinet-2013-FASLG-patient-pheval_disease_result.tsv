@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Common Variable Immunodeficiency	OMIM:240500
+2	0.8	Severe combined immunodeficiency due to complete RAG1/2 deficiency	OMIM:209920
+3	0.7	Hypogammaglobulinemia and isolated glycosylation defect	OMIM:617098
+4	0.6	Immunodeficiency 31A	OMIM:614162
+5	0.5	Immunodeficiency 47	OMIM:300972

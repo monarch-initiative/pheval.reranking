@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holt-Oram syndrome	OMIM:142900
+2	0.8	Diamond-Blackfan anemia 9	OMIM:618144
+3	0.7	Silver-Russell syndrome 1	OMIM:180860
+4	0.6	Albright hereditary osteodystrophy	OMIM:103580
+5	0.5	Noonan syndrome 1	OMIM:163950
+6	0.4	Neurofibromatosis-Noonan syndrome	OMIM:601321
+7	0.3	Costello syndrome	OMIM:218040

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen syndrome	OMIM:216550
+2	0.9	Coffin-Lowry syndrome	OMIM:303600
+3	0.85	Fetal alcohol syndrome	OMIM:134200
+4	0.8	Spondyloepiphyseal dysplasia, Stanescu type	OMIM:616583
+5	0.77	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.75	Seckel syndrome 1	OMIM:210600

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microlissencephaly	OMIM:300049
+2	0.8	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:236670
+3	0.7	Aicardi-Goutières syndrome 8	OMIM:615010
+4	0.6	Cerebellar ataxia, autosomal recessive, with coenzyme Q10 deficiency	OMIM:607426
+5	0.5	Microcephaly 4, primary, autosomal recessive	OMIM:604317
+6	0.4	Leber congenital amaurosis 11	OMIM:613837
+7	0.3	Leukoencephalopathy with vanishing white matter	OMIM:603896
+8	0.2	Megalocornea 1, X-linked	OMIM:309300

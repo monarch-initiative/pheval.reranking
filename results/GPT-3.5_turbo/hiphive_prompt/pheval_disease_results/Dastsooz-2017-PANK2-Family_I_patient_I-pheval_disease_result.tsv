@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Neurofibromatosis type 1	OMIM:162200
+2	0.96	Alkaptonuria	OMIM:203500
+3	0.94	Wilson disease	OMIM:277900
+4	0.92	Tyrosinemia type I	OMIM:276700
+5	0.9	Hypophosphatasia	OMIM:241500
+6	0.88	Phenylketonuria	OMIM:261600
+7	0.86	Dentatorubral-pallidoluysian atrophy	OMIM:125370
+8	0.84	Xeroderma pigmentosum	OMIM:278700
+9	0.82	Lysosomal acid lipase deficiency	OMIM:278000
+10	0.8	Tay-Sachs disease	OMIM:272800

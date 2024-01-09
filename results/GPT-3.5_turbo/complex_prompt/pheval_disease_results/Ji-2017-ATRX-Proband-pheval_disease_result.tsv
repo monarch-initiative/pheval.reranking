@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome	OMIM:122470
+2	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.85	Coffin-Siris syndrome	OMIM:135900
+4	0.8	Kabuki syndrome	OMIM:147920
+5	0.75	Silver-Russell syndrome	OMIM:180860
+6	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.65	Spondyloepiphyseal dysplasia congenita	OMIM:183900

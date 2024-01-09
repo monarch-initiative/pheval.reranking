@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Common variable immunodeficiency	OMIM:607594
+2	0.8	Chronic lymphocytic leukemia	OMIM:151400
+3	0.7	Hodgkin lymphoma	OMIM:236000
+4	0.6	Lymphoproliferative syndrome 1	OMIM:613011
+5	0.5	T-cell prolymphocytic leukemia	OMIM:616005
+6	0.4	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.3	Hairy cell leukemia	OMIM:609195
+8	0.2	Refractory cytopenia with multilineage dysplasia	OMIM:614332
+9	0.1	Severe combined immunodeficiency	OMIM:202900
+10	0.05	Autoimmune lymphoproliferative syndrome	OMIM:601859

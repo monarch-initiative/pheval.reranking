@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 7	OMIM:164500
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.8	Hereditary spastic paraplegia	OMIM:182600
+4	0.75	Hereditary sensory and autonomic neuropathy type IA	OMIM:162400
+5	0.7	Charcot-Marie-Tooth disease type 2C	OMIM:606071
+6	0.65	Friedreich-like ataxia	OMIM:606829
+7	0.6	Ataxia with vitamin E deficiency	OMIM:277460
+8	0.55	Episodic ataxia type 2	OMIM:108500
+9	0.5	X-linked spinocerebellar ataxia type 2	OMIM:301830
+10	0.45	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550

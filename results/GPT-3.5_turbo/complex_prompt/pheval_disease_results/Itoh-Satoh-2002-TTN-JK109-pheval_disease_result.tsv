@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Dilated cardiomyopathy	OMIM:115200
+2	0.9	Congestive heart failure	OMIM:107650
+3	0.8	Premature atrial contractions	OMIM:615329
+4	0.7	Atrioventricular block	OMIM:113900
+5	0.6	Hypertrophic cardiomyopathy	OMIM:192600
+6	0.5	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604400
+7	0.4	Myocarditis	OMIM:611878
+8	0.3	Lipoprotein lipase deficiency	OMIM:238600
+9	0.2	Myotonic dystrophy type 1	OMIM:160900
+10	0.1	Mitral valve prolapse	OMIM:157700

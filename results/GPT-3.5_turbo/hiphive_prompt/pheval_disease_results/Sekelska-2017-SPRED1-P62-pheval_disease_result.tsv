@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis type 1	OMIM:162200
+2	0.8	Neurofibromatosis type 2	OMIM:101000
+3	0.7	Costello syndrome	OMIM:218040
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Huntington disease	OMIM:143100
+6	0.4	Gorlin syndrome	OMIM:109400
+7	0.3	McCune-Albright syndrome	OMIM:174800
+8	0.2	Cowden syndrome	OMIM:158350
+9	0.1	Russell-Silver syndrome	OMIM:180860
+9	0.1	Noonan syndrome	OMIM:163950

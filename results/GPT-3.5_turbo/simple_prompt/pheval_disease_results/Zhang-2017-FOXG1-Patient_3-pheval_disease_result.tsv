@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Phelan-McDermid syndrome	OMIM:606232
+5	0.5	1q21.1 microdeletion syndrome	OMIM:613884

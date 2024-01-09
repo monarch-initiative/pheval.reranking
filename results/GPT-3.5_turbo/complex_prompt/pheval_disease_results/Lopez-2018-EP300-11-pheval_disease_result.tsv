@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.8	Say-Barber/Biesecker/Young-Simpson syndrome	OMIM:601912
+4	0.75	Talon cusp syndrome	OMIM:184600
+5	0.7	Cornelia de Lange syndrome	OMIM:122470
+6	0.65	Rett syndrome	OMIM:312750
+7	0.6	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome	OMIM:224050
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Pitt-Hopkins syndrome	OMIM:610954
+10	0.45	Costello syndrome	OMIM:218040

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Osteogenesis imperfecta, type I	OMIM:166200
+3	0.7	Glaucoma	OMIM:137760
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Retinitis pigmentosa	OMIM:268000
+6	0.4	Osteogenesis imperfecta, type IV	OMIM:166220
+7	0.3	Achondroplasia	OMIM:100800
+8	0.2	Patellofemoral pain syndrome	OMIM:147600
+9	0.1	Myopia	OMIM:160700

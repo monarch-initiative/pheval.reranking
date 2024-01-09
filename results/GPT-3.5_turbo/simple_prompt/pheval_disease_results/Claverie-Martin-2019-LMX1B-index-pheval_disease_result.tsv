@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kohler's Disease	OMIM:148800
+2	0.9	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.85	Alport Syndrome	OMIM:301050
+4	0.8	Larsen Syndrome	OMIM:150250
+5	0.7	Omodysplasia 1	OMIM:616941
+6	0.65	Arthrogryposis, Renal Dysfunction, and Cholestasis Syndrome	OMIM:208085

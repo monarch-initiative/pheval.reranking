@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency	OMIM:202700
+2	0.85	Fanconi anemia	OMIM:227650
+3	0.8	Schimke immunoosseous dysplasia	OMIM:242900
+4	0.75	Diamond-Blackfan anemia	OMIM:105650
+5	0.7	Ataxia-telangiectasia	OMIM:208900
+6	0.65	Cockayne syndrome	OMIM:216400
+7	0.6	Shwachman-Diamond syndrome	OMIM:260400
+8	0.55	Amegakaryocytic thrombocytopenia	OMIM:604498
+9	0.5	Wolcott-Rallison syndrome	OMIM:226980
+10	0.45	Wiskott-Aldrich syndrome	OMIM:301000

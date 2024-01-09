@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Arthrogryposis, Distal, Type 1A	OMIM:108120
+2	0.91	Chronic Inflammatory Demyelinating Polyradiculoneuropathy	OMIM:613327
+3	0.89	Diabetic Neuropathy	OMIM:614458
+4	0.87	Hyperekplexia 1	OMIM:149400
+5	0.86	Charcot-Marie-Tooth Disease Type 4B1	OMIM:601382
+6	0.85	Charcot-Marie-Tooth Disease With Ptosis And Parkinson Disease	OMIM:614255
+7	0.84	Charcot-Marie-Tooth Disease, Axonal, Type 2B1	OMIM:605588
+8	0.82	Hereditary Motor And Sensory Neuropathy, Okinawa Type	OMIM:604484
+9	0.81	Primary Orthostatic Tremor	OMIM:607814
+10	0.8	Familial Neuropathy With Or Without Paraproteinemia	OMIM:167820

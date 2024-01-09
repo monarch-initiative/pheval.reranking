@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa, junctional, Herlitz-type	OMIM:226700
+2	0.85	Epidermolysis bullosa, junctional, non-Herlitz-type	OMIM:226650
+3	0.8	Junctional epidermolysis bullosa with pyloric atresia	OMIM:226730
+4	0.75	Epidermolysis bullosa simplex, Dowling-Meara type	OMIM:131760
+5	0.7	Epidermolysis bullosa simplex, Weber-Cockayne type	OMIM:131800
+6	0.65	Epidermolysis bullosa, letalis, with pyloric atresia	OMIM:226730
+7	0.6	Epidermolysis bullosa, junctional	OMIM:226650
+8	0.55	Epidermolysis bullosa, letalis, with tracheolaryngomalacia and anal stenosis	OMIM:226730
+9	0.5	Epidermolysis bullosa simplex	OMIM:131760
+10	0.45	Epidermolysis bullosa, letalis, with congenitalis absence of skin and deformity of nails	OMIM:226730

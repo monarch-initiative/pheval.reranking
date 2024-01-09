@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Tuberous sclerosis 1	OMIM:191100
+2	0.88	Phelan-McDermid syndrome	OMIM:606232
+3	0.86	Angelman syndrome	OMIM:105830
+4	0.85	Rett syndrome	OMIM:312750
+5	0.82	KAT6A syndrome	OMIM:617182
+6	0.79	Smith-Magenis syndrome	OMIM:182290
+7	0.76	Pitt-Hopkins syndrome	OMIM:610954
+8	0.75	CHARGE syndrome	OMIM:214800
+9	0.72	Kleefstra syndrome	OMIM:610253
+10	0.71	Jacobsen syndrome	OMIM:147791

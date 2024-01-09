@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Sarcoglycanopathies	OMIM:604286
+2	0.96	Muscular dystrophy, limb-girdle, type 2C	OMIM:611423
+3	0.95	Muscular dystrophy, Duchenne and Becker types	OMIM:310200
+4	0.94	Muscular dystrophy, limb-girdle, type 2B	OMIM:253601
+5	0.92	Muscular dystrophy, limb-girdle, type 2D	OMIM:608099
+6	0.91	Muscular dystrophy, limb-girdle, type 2A	OMIM:253600
+7	0.9	Muscular dystrophy, limb-girdle, type 2E	OMIM:604286
+8	0.87	Muscular dystrophy, limb-girdle, type 2G	OMIM:601287
+9	0.84	Myofibrillar myopathy 1	OMIM:601419
+10	0.82	Muscular dystrophy, limb-girdle, type 2F	OMIM:601287

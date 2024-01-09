@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria type 1	OMIM:300049
+2	0.8	Polymicrogyria type 2	OMIM:606854
+3	0.7	Polymicrogyria type 3	OMIM:612285
+4	0.6	Polymicrogyria type 4	OMIM:614833
+5	0.5	Polymicrogyria type 5	OMIM:615356
+6	0.4	Polymicrogyria type 6	OMIM:616726
+7	0.3	Polymicrogyria type 7	OMIM:616903
+8	0.2	Polymicrogyria type 8	OMIM:617092
+9	0.1	Polymicrogyria type 9	OMIM:617271

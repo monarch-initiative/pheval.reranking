@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune lymphoproliferative syndrome	OMIM:601859
+2	0.93	Chronic lymphocytic leukemia	OMIM:151400
+3	0.91	Lymphoma	OMIM:605027
+4	0.9	Hodgkin lymphoma	OMIM:236000
+5	0.89	Chronic myelomonocytic leukemia	OMIM:614237
+6	0.88	Adult-T cell leukemia/lymphoma	OMIM:607366
+7	0.86	Systemic lupus erythematosus	OMIM:152700
+8	0.84	Chronic neutrophilic leukemia	OMIM:215270
+9	0.82	Acute lymphoblastic leukemia	OMIM:613065
+10	0.81	Histiocytosis	OMIM:188200

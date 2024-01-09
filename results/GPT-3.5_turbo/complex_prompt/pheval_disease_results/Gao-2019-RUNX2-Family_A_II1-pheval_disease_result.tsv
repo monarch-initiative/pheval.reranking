@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.9	Metatropic dysplasia	OMIM:156530
+3	0.85	Osteogenesis imperfecta type I	OMIM:166200
+4	0.8	Achondroplasia	OMIM:100800
+5	0.75	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+6	0.7	Marfan syndrome	OMIM:154700
+7	0.65	Campomelic dysplasia	OMIM:114290
+8	0.6	Coffin-Lowry syndrome	OMIM:303600
+9	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.5	Sotos syndrome	OMIM:117550

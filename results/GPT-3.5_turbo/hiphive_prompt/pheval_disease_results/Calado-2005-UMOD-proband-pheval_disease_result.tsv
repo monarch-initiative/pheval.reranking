@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polycystic kidney disease	OMIM:173900
+2	0.8	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+3	0.7	Medullary cystic kidney disease	OMIM:174000
+4	0.6	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis syndrome	OMIM:613845
+5	0.5	Refsum disease	OMIM:266500
+6	0.4	Primary hyperoxaluria type 1	OMIM:259900
+7	0.3	Bardet-Biedl syndrome	OMIM:209900
+8	0.2	Nephronophthisis	OMIM:256100
+9	0.1	Cystinosis	OMIM:219800
+10	0.0	Fabry disease	OMIM:301500

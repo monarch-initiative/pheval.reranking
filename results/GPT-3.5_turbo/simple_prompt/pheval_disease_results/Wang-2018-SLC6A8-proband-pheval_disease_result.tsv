@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency, X-linked	OMIM:300036
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Autism spectrum disorder	OMIM:209850
+4	0.6	Hirschsprung disease 1	OMIM:142623
+5	0.5	Epileptic encephalopathy, early infantile, 2	OMIM:300672
+6	0.4	Childhood-onset dystonia	OMIM:606798
+7	0.3	Hepatic encephalopathy, early-onset, due to GLUL deficiency	OMIM:617239

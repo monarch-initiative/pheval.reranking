@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Xeroderma Pigmentosum	OMIM:278700
+2	0.8	Norrie Disease	OMIM:310600
+3	0.7	Cockayne Syndrome	OMIM:133540
+4	0.6	Microcephaly-Cataract Syndrome	OMIM:251250
+5	0.5	Microcephaly, Seizures, and Developmental Delay	OMIM:613402

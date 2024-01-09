@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Stickler syndrome type 1	OMIM:108300
+2	0.9	Potocki-Shaffer syndrome	OMIM:601224
+3	0.85	Waardenburg syndrome, type 1	OMIM:193500
+4	0.8	Branchiooculofacial syndrome	OMIM:113620
+5	0.75	Focal dermal hypoplasia	OMIM:305600

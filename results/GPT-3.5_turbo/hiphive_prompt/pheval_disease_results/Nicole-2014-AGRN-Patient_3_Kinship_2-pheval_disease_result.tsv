@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Congenital Myasthenic Syndrome	OMIM:606464
+2	0.92	Muscular Dystrophy, Duchenne Type	OMIM:310200
+3	0.89	Myasthenia Gravis	OMIM:254200
+4	0.87	Congenital Myopathy	OMIM:255500
+5	0.85	Nemaline Myopathy	OMIM:161800
+6	0.83	Spinal Muscular Atrophy	OMIM:253300
+7	0.81	Muscle-Eye-Brain Disease	OMIM:253280
+8	0.78	Neuromuscular Junction Disease	OMIM:254210
+9	0.76	Centronuclear Myopathy	OMIM:160150
+10	0.72	Congenital Fiber-Type Disproportion Myopathy	OMIM:255310

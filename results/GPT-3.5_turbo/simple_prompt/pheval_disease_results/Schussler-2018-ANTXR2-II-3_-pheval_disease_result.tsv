@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Fanconi anemia	OMIM:227650
+2	0.9	Cystic fibrosis	OMIM:219700
+3	0.8	Alport syndrome	OMIM:301050
+4	0.7	Duchenne muscular dystrophy	OMIM:310200
+5	0.6	Wilms tumor	OMIM:194070

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria	OMIM:612691
+2	0.8	Epilepsy, Idiopathic Generalized	OMIM:607681
+3	0.7	Developmental Delay, Autosomal Dominant 3	OMIM:616977
+4	0.6	Epileptic Encephalopathy, Early Infantile, 2	OMIM:300672
+5	0.5	Epilepsy, Rolandic, With Speech Dyspraxia	OMIM:245570
+6	0.4	Developmental Delay And Seizures With Or Without Movement Abnormalities	OMIM:615408
+7	0.3	Muscular Dystrophy, Congenital, With Infantile Cataract And Hypogonadism	OMIM:614899
+7	0.3	Polymicrogyria, Bilateral Frontoparietal	OMIM:606854
+9	0.2	Spinocerebellar Ataxia, Autosomal Recessive 21	OMIM:616719
+10	0.1	Cataract 40	OMIM:616427

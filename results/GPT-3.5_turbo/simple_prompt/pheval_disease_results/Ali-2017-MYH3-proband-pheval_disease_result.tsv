@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	22q11.2 deletion syndrome	OMIM:188400
+2	0.8	Velocardiofacial syndrome	OMIM:192430
+3	0.7	DiGeorge syndrome	OMIM:188400
+4	0.6	Opitz G/BBB syndrome	OMIM:145410
+5	0.5	CHARGE syndrome	OMIM:214800

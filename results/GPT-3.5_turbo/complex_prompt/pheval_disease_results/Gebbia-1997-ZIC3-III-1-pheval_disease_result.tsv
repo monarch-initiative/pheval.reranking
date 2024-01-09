@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dextrocardia	OMIM:605376
+2	0.8	Primary ciliary dyskinesia	OMIM:244400
+3	0.7	Heterotaxy	OMIM:306955
+4	0.6	Hypoplastic left heart syndrome	OMIM:241550
+5	0.5	Right aortic arch	OMIM:611045
+6	0.4	Alagille syndrome	OMIM:118450
+7	0.3	Congenital diaphragmatic hernia	OMIM:142340
+8	0.2	Ivemark syndrome	OMIM:208530
+9	0.1	Tetralogy of Fallot	OMIM:187500
+10	0.05	Total anomalous pulmonary venous connection	OMIM:106700

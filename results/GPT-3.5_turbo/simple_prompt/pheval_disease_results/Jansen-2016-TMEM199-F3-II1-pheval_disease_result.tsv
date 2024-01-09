@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypercholesterolemia	OMIM:143890
+2	0.9	Elevated serum alanine aminotransferase	OMIM:612863
+3	0.8	Global developmental delay	OMIM:618386
+4	0.7	Elevated serum aspartate aminotransferase	OMIM:612863
+5	0.6	Elevated alkaline phosphatase	OMIM:143470
+6	0.5	Decreased serum ceruloplasmin	OMIM:117700
+7	0.4	Abnormal protein N-linked glycosylation	OMIM:614501
+8	0.3	Generalized hypotonia	OMIM:209900
+9	0.2	Increased LDL cholesterol concentration	OMIM:143890
+10	0.1	Infantile muscular hypotonia	OMIM:209900
+10	0.1	Abnormal protein O-linked glycosylation	OMIM:618381
+10	0.1	Muscular hypotonia	OMIM:209900

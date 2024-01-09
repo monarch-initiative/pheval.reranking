@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Say-Barber-Biesecker-Young-Simpson syndrome	OMIM:603736
+2	0.98	Achondrogenesis type 1A	OMIM:200600
+3	0.97	Ehlers-Danlos syndrome, musculocontractural type 2	OMIM:615539
+4	0.93	Weaver syndrome	OMIM:277590
+5	0.92	Schinzel-Giedion midface retraction syndrome	OMIM:269150
+5	0.92	Raine syndrome	OMIM:259775
+7	0.91	Hurler syndrome	OMIM:607014
+8	0.89	Pallister-Hall syndrome	OMIM:146510
+9	0.87	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	OMIM:613684
+10	0.86	Kallmann syndrome 6	OMIM:614842

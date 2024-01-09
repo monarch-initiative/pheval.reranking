@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer disease	OMIM:104300
+2	0.8	Frontotemporal dementia	OMIM:600274
+3	0.7	Behavioral variant of frontotemporal dementia	OMIM:600274
+4	0.6	Pick disease	OMIM:172700
+5	0.5	Semantic dementia	OMIM:607485
+6	0.4	Primary progressive aphasia	OMIM:606688
+7	0.3	Lewy body dementia	OMIM:127750
+8	0.2	Vascular dementia	OMIM:600142
+9	0.1	Huntington disease-like syndrome	OMIM:603218
+10	0.05	Neuropsychiatric systemic lupus erythematosus	OMIM:152740

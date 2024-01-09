@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	1p36 deletion syndrome	OMIM:607872
+2	0.92	Rett syndrome	OMIM:312750
+3	0.91	Angelman syndrome	OMIM:105830
+4	0.89	Pitt-Hopkins syndrome	OMIM:610954
+5	0.86	MeCP2 duplication syndrome	OMIM:300260
+6	0.85	Phelan-McDermid syndrome	OMIM:606232
+7	0.82	Smith-Magenis syndrome	OMIM:182290
+8	0.8	Mowat-Wilson syndrome	OMIM:235730
+9	0.78	Aicardi syndrome	OMIM:304050
+10	0.76	Peroxisome biogenesis disorder	OMIM:214100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.83	Microcephaly	OMIM:251200
+2	0.79	Coffin-Lowry syndrome	OMIM:303600
+3	0.75	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	Saethre-Chotzen syndrome	OMIM:101400
+5	0.65	Seckel syndrome	OMIM:210600
+6	0.6	Congenital myasthenic syndrome	OMIM:601927
+7	0.55	Alagille syndrome	OMIM:118450
+8	0.5	Williams-Beuren syndrome	OMIM:194050
+9	0.45	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.4	Nephronophthisis	OMIM:256100

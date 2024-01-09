@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Intellectual developmental disorder with persistence of fetal hemoglobin	OMIM:617101
+2	0.96	Autosomal dominant nonsyndromic intellectual disability 1	OMIM:616078
+3	0.95	Epileptic encephalopathy, early infantile, 15	OMIM:615006
+4	0.93	Autosomal recessive non-syndromic intellectual disability	OMIM:249500
+5	0.92	Intellectual developmental disorder with speech delay, autism, and dysmorphism	OMIM:618042
+6	0.91	Intellectual developmental disorder with gastrointestinal difficulties and high pain threshold	OMIM:616457
+7	0.89	Autism, susceptibility to, X-linked 5	OMIM:300847
+8	0.88	AUTS8	OMIM:607373
+9	0.85	Autism, susceptibility to, 10	OMIM:611015
+10	0.83	Severe intellectual disability-epilepsy-anal anomalies distal phalanges	OMIM:617903

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Potocki-Lupski syndrome	OMIM:610883
+2	0.87	Angelman syndrome	OMIM:105830
+3	0.86	Phelan-McDermid syndrome	OMIM:606232
+4	0.85	Pitt-Hopkins syndrome	OMIM:610954
+5	0.83	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.82	Rett syndrome	OMIM:312750
+7	0.81	Cri-du-chat syndrome	OMIM:123450
+8	0.79	Smith-Magenis syndrome	OMIM:182290
+9	0.78	Joubert syndrome	OMIM:213300
+10	0.76	Wolf-Hirschhorn syndrome	OMIM:194190

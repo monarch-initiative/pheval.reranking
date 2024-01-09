@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Craniosynostosis	OMIM:123100
+1	1.0	Skeletal dysplasia	OMIM:184600
+1	1.0	Macroglossia	OMIM:153630
+1	1.0	Cleft anterior mitral valve leaflet	OMIM:611941
+1	1.0	Bifid uvula	OMIM:192630
+6	0.9	Lumbar kyphosis	OMIM:192600
+6	0.9	Hyperbilirubinemia	OMIM:237500
+6	0.9	Recurrent respiratory infections	OMIM:614700
+9	0.8	Lymphopenia	OMIM:247640
+9	0.8	Patent foramen ovale	OMIM:611948
+9	0.8	Abnormal facial shape	OMIM:604447
+9	0.8	Hypoglycemia	OMIM:240800

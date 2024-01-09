@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta 1G	OMIM:617086
+2	0.85	Amelogenesis imperfecta 1H	OMIM:617297
+3	0.8	Amelogenesis imperfecta 1D	OMIM:104500
+4	0.75	Amelogenesis imperfecta 1F	OMIM:617928
+5	0.7	Amelogenesis imperfecta 1E	OMIM:104510
+6	0.65	Amelogenesis imperfecta 1C	OMIM:204700
+7	0.6	Amelogenesis imperfecta 1B	OMIM:104500
+8	0.55	Amelogenesis imperfecta 1A	OMIM:104530
+9	0.5	Amelogenesis imperfecta 2A1	OMIM:204700
+10	0.45	Dentinogenesis imperfecta type 3	OMIM:125500

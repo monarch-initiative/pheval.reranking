@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Centronuclear myopathy	OMIM:160150
+2	0.8	Congenital myopathy with excess of thin filaments	OMIM:161470
+3	0.7	Distal myopathy, Welander type	OMIM:604454
+4	0.6	Emery-Dreifuss muscular dystrophy	OMIM:310300
+5	0.5	Glioma 3	OMIM:613028

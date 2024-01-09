@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis type I	OMIM:252800
+2	0.85	Niemann-Pick disease type C	OMIM:607625
+3	0.8	Congenital disorder of glycosylation type IIa	OMIM:212066
+4	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.7	Gaucher disease	OMIM:230800
+6	0.65	Griscelli syndrome type 2	OMIM:607624
+7	0.6	Cockayne syndrome	OMIM:133540
+8	0.55	Ataxia-telangiectasia	OMIM:208900
+9	0.5	Rett syndrome	OMIM:312750
+10	0.45	Severe combined immunodeficiency	OMIM:608971

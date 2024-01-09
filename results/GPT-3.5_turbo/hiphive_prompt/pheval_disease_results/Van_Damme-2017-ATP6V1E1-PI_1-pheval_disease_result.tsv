@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Loeys-Dietz syndrome	OMIM:609192
+3	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.75	Mucopolysaccharidosis type IV	OMIM:253000
+5	0.7	Silver-Russell syndrome	OMIM:180860
+6	0.65	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.6	Myotonic dystrophy type 1	OMIM:160900
+8	0.55	Larsen syndrome	OMIM:150250
+9	0.5	Stickler syndrome	OMIM:108300
+10	0.45	Weaver syndrome	OMIM:277590

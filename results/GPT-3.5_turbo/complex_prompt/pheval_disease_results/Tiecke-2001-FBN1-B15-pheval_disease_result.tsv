@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130050
+3	0.7	Stickler syndrome	OMIM:108300
+4	0.6	Lowe syndrome	OMIM:309000
+5	0.5	Homocystinuria due to CBS deficiency	OMIM:236200
+6	0.4	Weill-Marchesani syndrome	OMIM:277600
+7	0.3	Loeys-Dietz syndrome	OMIM:609192
+8	0.2	Congenital contractural arachnodactyly	OMIM:121050
+9	0.1	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250

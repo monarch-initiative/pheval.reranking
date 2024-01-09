@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.6	Prader-Willi syndrome	OMIM:176270
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.4	Fragile X syndrome	OMIM:300624
+7	0.3	Pitt-Hopkins syndrome	OMIM:610954
+8	0.2	Kabuki syndrome	OMIM:147920
+9	0.1	Coffin-Lowry syndrome	OMIM:303600

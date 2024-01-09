@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia	OMIM:182600
+2	0.8	Spastic gait	OMIM:607584
+3	0.7	Difficulty walking	OMIM:613768

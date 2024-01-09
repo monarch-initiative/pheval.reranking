@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130050
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Homocystinuria	OMIM:236200
+5	0.5	Stickler syndrome	OMIM:108300
+6	0.4	Aortic dissection	OMIM:207600
+7	0.3	Aortic aneurysm, familial thoracic 4	OMIM:132900
+8	0.2	Marfanoid syndrome, type 2	OMIM:616914
+9	0.1	Marfanoid habitus with microcephaly and glomerulonephritis	OMIM:614168

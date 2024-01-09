@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+2	0.89	Multiple Epiphyseal Dysplasia, Type 2	OMIM:600204
+3	0.88	Legg-Calve-Perthes Disease	OMIM:150600
+4	0.85	Stickler Syndrome, Type I	OMIM:108300
+5	0.84	Pseudoachondroplasia	OMIM:177170
+6	0.82	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+7	0.81	Hypochondroplasia	OMIM:146000
+8	0.8	Achondrogenesis, Type IB	OMIM:600972
+9	0.79	Chondrodysplasia Punctata, X-Linked Dominant	OMIM:302950
+9	0.79	Achondrogenesis, Type IA	OMIM:200600

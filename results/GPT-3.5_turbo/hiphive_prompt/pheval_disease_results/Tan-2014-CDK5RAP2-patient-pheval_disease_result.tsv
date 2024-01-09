@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Cleft palate, isolated	OMIM:119540
+2	0.91	Velocardiofacial syndrome	OMIM:192430
+3	0.89	Cornelia de Lange syndrome	OMIM:122470
+4	0.88	Williams-Beuren syndrome	OMIM:194050
+5	0.87	Perry syndrome	OMIM:168605
+6	0.85	Langdon down syndrome	OMIM:190685
+7	0.83	Fanconi anemia, complementation group A	OMIM:607139
+8	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.81	Spastic paraplegia 23, autosomal recessive	OMIM:270750
+10	0.8	X-linked nonspecific mental retardation with dystonia	OMIM:300983

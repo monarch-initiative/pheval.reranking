@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spondyloepiphyseal dysplasia	OMIM:184253
+2	0.9	Atrial septal defect	OMIM:108800
+3	0.88	Severe combined immunodeficiency	OMIM:601457
+4	0.86	Microcephaly	OMIM:156200
+5	0.85	Profound global developmental delay	OMIM:612621
+6	0.82	Delayed gross motor development	OMIM:158555
+7	0.8	Hypertonia	OMIM:602763
+8	0.78	Seizures	OMIM:600512
+9	0.75	Combined immunodeficiency	OMIM:600802
+10	0.72	Brachydactyly	OMIM:113000

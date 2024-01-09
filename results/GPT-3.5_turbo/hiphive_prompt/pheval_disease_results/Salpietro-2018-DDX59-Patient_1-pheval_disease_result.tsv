@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Arthrogryposis, Distal, Type 7	OMIM:158300
+2	0.94	Craniosynostosis 1	OMIM:123100
+3	0.93	Treacher Collins syndrome 1	OMIM:154500
+4	0.92	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.91	Carpenter syndrome 1	OMIM:201000
+6	0.9	Warburg Micro syndrome 1	OMIM:600118
+7	0.85	Craniofacial deafness hand syndrome	OMIM:122880
+8	0.83	Miller-Dieker Lissencephaly syndrome	OMIM:247200
+9	0.82	Mowat-Wilson syndrome	OMIM:235730
+10	0.81	Opitz G/BBB syndrome, type I	OMIM:300000

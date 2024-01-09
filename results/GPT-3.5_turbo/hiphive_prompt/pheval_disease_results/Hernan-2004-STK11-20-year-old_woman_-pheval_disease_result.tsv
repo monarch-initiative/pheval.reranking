@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peutz-Jeghers syndrome	OMIM:175200
+2	0.8	Carney complex	OMIM:160980
+3	0.7	LEOPARD syndrome	OMIM:151100
+3	0.7	Noonan syndrome with multiple lentigines	OMIM:151100
+5	0.6	Generalized lentiginosis	OMIM:151001
+5	0.6	Cowden syndrome	OMIM:158350
+7	0.5	McCune-Albright syndrome	OMIM:174800
+7	0.5	Familial melanoma	OMIM:155600
+9	0.4	Juvenile polyposis syndrome	OMIM:174900
+9	0.4	Hereditary hemorrhagic telangiectasia	OMIM:187300

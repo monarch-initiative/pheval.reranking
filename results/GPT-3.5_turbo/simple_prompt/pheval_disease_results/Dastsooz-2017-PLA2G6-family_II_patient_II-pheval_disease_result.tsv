@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Multiple Acyl-CoA dehydrogenase deficiency, mild type	OMIM:231680
+2	0.82	Familial hyperinsulinism due to HADH deficiency	OMIM:601820
+3	0.75	Pyruvate kinase deficiency of red cells	OMIM:266200
+4	0.72	GLUT1 deficiency syndrome 1	OMIM:606777
+5	0.68	Pontocerebellar hypoplasia, type 6	OMIM:611523

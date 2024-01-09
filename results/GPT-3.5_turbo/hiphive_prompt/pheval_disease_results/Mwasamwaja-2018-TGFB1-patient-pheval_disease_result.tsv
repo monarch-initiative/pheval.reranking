@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Oculopharyngeal muscular dystrophy	OMIM:164300
+2	0.93	Duchenne muscular dystrophy	OMIM:310200
+3	0.92	Facioscapulohumeral muscular dystrophy	OMIM:158900
+4	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.87	Becker muscular dystrophy	OMIM:300376
+6	0.85	Autoimmune myopathy	OMIM:160750
+7	0.83	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+8	0.82	Emery-Dreifuss muscular dystrophy	OMIM:310300
+9	0.8	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:236670
+10	0.78	Inclusion body myositis	OMIM:147421

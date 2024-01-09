@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia, complementation group A	OMIM:227650
+2	0.8	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+3	0.7	Diamond-Blackfan anemia 4	OMIM:612527
+4	0.6	Shwachman-Diamond syndrome 1	OMIM:260400
+5	0.5	Seckel syndrome 1	OMIM:210600
+6	0.4	Dyskeratosis congenita, autosomal dominant 2	OMIM:613989
+7	0.3	Thrombocytopenia 2	OMIM:188000
+8	0.2	Diamond-Blackfan anemia 3	OMIM:610629
+9	0.1	Short stature, microcephaly, and endocrine dysfunction	OMIM:616541

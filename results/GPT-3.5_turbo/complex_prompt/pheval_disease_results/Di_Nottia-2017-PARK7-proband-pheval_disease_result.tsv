@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 1	OMIM:164400
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.8	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+4	0.75	Myoclonic epilepsy with ragged-red fibers	OMIM:545000
+5	0.7	Hereditary motor and sensory neuropathy VI	OMIM:601152
+6	0.65	Hereditary motor and sensory neuropathy IIA	OMIM:118200
+7	0.6	Charcot-Marie-Tooth disease, type 4C	OMIM:601596
+8	0.55	NARP syndrome	OMIM:551500
+9	0.5	Essential tremor	OMIM:190300
+10	0.45	Dopa-responsive dystonia	OMIM:128230

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia type 2	OMIM:183090
+2	0.92	Spinocerebellar ataxia type 3	OMIM:109150
+3	0.9	Spinocerebellar ataxia type 7	OMIM:164500
+4	0.87	Friedreich ataxia	OMIM:229300
+5	0.85	Spinocerebellar ataxia type 1	OMIM:164400
+6	0.83	Spinocerebellar ataxia type 12	OMIM:604326
+7	0.8	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+8	0.75	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+9	0.7	Hereditary ataxia	OMIM:109150
+10	0.65	Cortical basal ganglionic degeneration	OMIM:601104

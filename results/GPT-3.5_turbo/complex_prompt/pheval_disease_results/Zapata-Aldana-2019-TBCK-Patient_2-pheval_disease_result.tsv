@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Prader-Willi syndrome	OMIM:176270
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Cri du Chat syndrome	OMIM:123450
+6	0.4	Aicardi syndrome	OMIM:304050
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	CHARGE syndrome	OMIM:214800
+9	0.1	Neurofibromatosis type 1	OMIM:162200

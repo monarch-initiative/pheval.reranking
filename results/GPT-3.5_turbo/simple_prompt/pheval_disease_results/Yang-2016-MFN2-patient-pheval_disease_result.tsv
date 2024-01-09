@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Periventricular leukomalacia	OMIM:607596
+2	0.9090909090909091	Decreased sensory nerve conduction velocity	OMIM:221000
+3	0.8181818181818182	Lower limb muscle weakness	OMIM:600334
+4	0.7272727272727273	Pes cavus	OMIM:603776
+5	0.6363636363636364	Babinski sign	OMIM:213700
+6	0.5454545454545454	Decreased patellar reflex	OMIM:115260
+7	0.45454545454545453	Abnormality of the cerebrospinal fluid	OMIM:243150
+8	0.36363636363636365	Oppenheim reflex	OMIM:607694
+9	0.2727272727272727	Gordon reflex	OMIM:607712
+10	0.18181818181818182	Decreased Achilles reflex	OMIM:115880
+11	0.09090909090909091	Falls	N/A

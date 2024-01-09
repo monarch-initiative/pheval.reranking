@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Cohen syndrome	OMIM:216550
+2	0.88	Chédiak-Higashi syndrome	OMIM:214500
+3	0.87	Shwachman-Diamond syndrome	OMIM:260400
+4	0.85	Cartilage-hair hypoplasia	OMIM:250250
+5	0.82	Fanconi anemia, complementation group N	OMIM:615272
+6	0.79	Werner syndrome	OMIM:277700
+7	0.76	Ataxia-telangiectasia	OMIM:208900
+8	0.74	Bloom syndrome	OMIM:210900
+9	0.73	Familial corticotropin-independent macronodular adrenal hyperplasia	OMIM:615830
+10	0.71	Wiskott-Aldrich syndrome	OMIM:301000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Palmoplantar Keratoderma and Woolly Hair	OMIM:607655
+2	0.8	Ameloonychohypohidrotic Syndrome	OMIM:104570
+3	0.7	Tooth Agenesis	OMIM:150400
+4	0.6	Anodontia	OMIM:206780
+5	0.5	Palmoplantar Keratoderma-Esophageal Carcinoma Syndrome	OMIM:148900
+6	0.4	Rapp-Hodgkin Syndrome	OMIM:129400
+7	0.3	Anonychia Congenita	OMIM:206800
+8	0.2	Hypodontia	OMIM:106600
+9	0.1	Palmoplantar Keratoderma and Congenital Alopecia	OMIM:614093
+10	0.05	Dysplastic Nails	OMIM:204000

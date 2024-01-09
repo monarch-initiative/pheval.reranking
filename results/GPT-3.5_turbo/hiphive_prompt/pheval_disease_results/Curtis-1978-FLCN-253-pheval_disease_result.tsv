@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Birt-Hogg-Dubé syndrome	OMIM:135150
+2	0.88	Primary spontaneous pneumothorax	OMIM:173600
+3	0.87	Tuberous sclerosis	OMIM:191100
+4	0.85	Gorlin syndrome	OMIM:109400
+5	0.82	Familial pneumothorax	OMIM:178600
+6	0.8	PTEN hamartoma tumor syndrome	OMIM:158350
+7	0.78	Lymphangioleiomyomatosis	OMIM:606690
+8	0.77	Gastrointestinal stromal tumor	OMIM:606764
+9	0.76	Cowden syndrome	OMIM:158350
+10	0.75	Multiple lipomatosis	OMIM:151800

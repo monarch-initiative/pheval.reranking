@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progressive supranuclear palsy, atypical	OMIM:605220
+2	0.85	Huntington disease-like 3	OMIM:604802
+3	0.8	Friedreich ataxia	OMIM:229300
+4	0.75	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.7	Progressive supranuclear palsy	OMIM:601104
+6	0.65	Amyotrophic lateral sclerosis type 20	OMIM:615426
+7	0.6	Dystonia 16	OMIM:616557
+8	0.55	Chorea-acanthocytosis	OMIM:200150
+9	0.5	Spinocerebellar ataxia type 2	OMIM:183090
+10	0.45	Ataxia with oculomotor apraxia type 2	OMIM:606002

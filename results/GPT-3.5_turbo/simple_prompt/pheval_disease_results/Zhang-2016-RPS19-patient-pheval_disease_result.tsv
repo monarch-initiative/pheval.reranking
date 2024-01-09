@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inherited thrombocytopenia	OMIM:616937
+2	0.8	Cardiomyopathy, dilated, 1C	OMIM:601493
+3	0.7	Macrocytic anemia and mitochondriopathy	OMIM:615634
+4	0.6	Chronic granulomatous disease	OMIM:306400
+5	0.5	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart	OMIM:619086

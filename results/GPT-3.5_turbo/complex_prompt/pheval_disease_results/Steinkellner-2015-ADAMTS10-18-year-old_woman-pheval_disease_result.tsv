@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.7	Loeys-Dietz Syndrome	OMIM:609192
+3	0.7	Stickler Syndrome	OMIM:108300
+5	0.6	Alport Syndrome	OMIM:301050
+5	0.6	Osteogenesis Imperfecta	OMIM:166200
+7	0.5	Noonan Syndrome	OMIM:163950
+8	0.4	Multiple Pterygium Syndrome	OMIM:253290
+9	0.3	Holt-Oram Syndrome	OMIM:142900
+10	0.2	Beals Syndrome	OMIM:121050

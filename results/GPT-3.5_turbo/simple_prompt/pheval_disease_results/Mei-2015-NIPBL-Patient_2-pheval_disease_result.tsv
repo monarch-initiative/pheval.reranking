@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Seckel syndrome 1	OMIM:210600
+3	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.6	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.5	Fetal alcohol syndrome	OMIM:134030

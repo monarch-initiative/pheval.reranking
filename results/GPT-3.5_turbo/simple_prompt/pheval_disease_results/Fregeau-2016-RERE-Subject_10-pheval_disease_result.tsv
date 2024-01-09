@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Autism	OMIM:209850
+2	0.9	Sleep Apnea	OMIM:107605
+3	0.8	Intellectual Disability	OMIM:609704
+4	0.7	Delayed Speech and Language Development	OMIM:600997
+5	0.6	Enuresis Nocturna	OMIM:600280
+6	0.5	Absent Speech	OMIM:614401

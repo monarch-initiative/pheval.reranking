@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Retinitis pigmentosa	OMIM:268000
+2	0.9	Usher syndrome, type 1B	OMIM:276900
+3	0.8	Usher syndrome, type 3A	OMIM:276902
+4	0.7	Alport syndrome	OMIM:301050

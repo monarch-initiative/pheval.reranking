@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar hypoplasia type 3	OMIM:608027
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Miller-Dieker syndrome	OMIM:247200
+5	0.5	Prader-Willi syndrome	OMIM:176270
+6	0.4	Cri-du-chat syndrome	OMIM:123450
+7	0.3	Aicardi syndrome	OMIM:304050
+8	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.1	Lennox-Gastaut syndrome	OMIM:616139
+10	0.05	Prader-Willi/Angelman syndrome	OMIM:182200
+11	0.01	Congenital disorder of glycosylation type Ia	OMIM:212065

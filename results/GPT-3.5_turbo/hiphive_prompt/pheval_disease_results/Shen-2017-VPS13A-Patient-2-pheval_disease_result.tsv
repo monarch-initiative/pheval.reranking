@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Chorea	OMIM:118700
+2	0.91	Huntington Disease	OMIM:143100
+3	0.89	Wilson Disease	OMIM:277900
+4	0.88	Sydenham Chorea	OMIM:118700
+5	0.87	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+6	0.85	Neuroacanthocytosis	OMIM:200150
+7	0.83	McLeod Phenotype	OMIM:300842
+8	0.82	Juvenile Huntington Disease	OMIM:143100
+9	0.81	X-linked Choreoacanthocytosis	OMIM:314500
+10	0.8	Chorea-acanthocytosis	OMIM:200150

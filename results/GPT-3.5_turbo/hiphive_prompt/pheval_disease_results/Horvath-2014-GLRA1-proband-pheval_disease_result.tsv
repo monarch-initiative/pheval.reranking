@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskinesia	OMIM:607584
+2	0.85	Renal Pelvis Dilatation	OMIM:173900
+3	0.82	Hypertonia	OMIM:602134
+4	0.8	Pneumothorax	OMIM:173600
+5	0.75	Central Nervous System Malformation	OMIM:613668
+6	0.72	Congenital Muscular Dystrophy	OMIM:613205
+7	0.7	Parkinsonism	OMIM:168600
+8	0.68	Epilepsy	OMIM:613186
+9	0.65	Corticobasal Degeneration	OMIM:601104
+10	0.6	Hydrocephalus	OMIM:236600

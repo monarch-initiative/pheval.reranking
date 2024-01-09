@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Phenylketonuria	OMIM:261600
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Prader-Willi syndrome	OMIM:176270
+7	0.3	Cri-du-chat syndrome	OMIM:123450
+8	0.2	Tuberous sclerosis complex	OMIM:191100
+9	0.1	Wolf-Hirschhorn syndrome	OMIM:194190

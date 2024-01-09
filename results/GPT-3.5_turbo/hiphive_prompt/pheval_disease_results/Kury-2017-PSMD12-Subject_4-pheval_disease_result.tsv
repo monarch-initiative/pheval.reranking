@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Monosomy X	OMIM:758050
+2	0.87	Sotos syndrome	OMIM:117550
+3	0.85	Fragile X syndrome	OMIM:300624
+4	0.83	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.82	Coffin-Lowry syndrome	OMIM:303600
+6	0.8	Prader-Willi syndrome	OMIM:176270
+7	0.78	Down syndrome	OMIM:190685
+8	0.76	Holt-Oram syndrome	OMIM:142900
+9	0.73	Klinefelter syndrome	OMIM:148190
+10	0.7	Alpers-Huttenlocher syndrome	OMIM:203700

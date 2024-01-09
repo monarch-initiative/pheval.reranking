@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM syndrome, type 1	OMIM:308230
+2	0.8	Acute myeloid leukemia	OMIM:601626
+3	0.7	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-positive, NK cell-positive	OMIM:608971
+4	0.6	Combined immunodeficiency, X-linked	OMIM:312863
+5	0.5	SHORT syndrome	OMIM:269880
+6	0.4	Ollier disease	OMIM:166000
+7	0.3	Trisomy 8	OMIM:613918
+8	0.2	Glycine encephalopathy with normal serum glycine	OMIM:605899
+9	0.1	Neurodegeneration with brain iron accumulation 3	OMIM:606159
+10	0.05	Propionic acidemia	OMIM:606054

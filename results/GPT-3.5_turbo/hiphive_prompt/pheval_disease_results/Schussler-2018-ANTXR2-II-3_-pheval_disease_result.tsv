@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pain	OMIM:614963
+2	0.92	Hypoalbuminemia	OMIM:241600
+3	0.9	Erythematous papule	OMIM:227020
+4	0.87	Irritability	OMIM:614516
+5	0.85	Protein-losing enteropathy	OMIM:190310
+6	0.82	Cutaneous sclerotic plaque	OMIM:184900
+7	0.79	Weight loss	OMIM:222100
+8	0.76	Malnutrition	OMIM:609708
+9	0.73	Acidosis	OMIM:214800
+10	0.7	Flexion contracture	OMIM:185600

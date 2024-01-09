@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carnitine Palmitoyltransferase II Deficiency, Infantile	OMIM:600649
+2	0.8	Mitochondrial Myopathy with Reversible Cytochrome c Oxidase Deficiency	OMIM:500009
+3	0.7	Medium Chain Acyl CoA Dehydrogenase Deficiency	OMIM:201450
+4	0.6	Carnitine Palmitoyltransferase II Deficiency, Myopathic Form	OMIM:255110
+5	0.5	Multiple Acyl-CoA Dehydrogenase Deficiency	OMIM:231680
+6	0.4	Carnitine Palmitoyltransferase I Deficiency	OMIM:255120

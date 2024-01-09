@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.75	Cornelia de Lange syndrome	OMIM:122470
+5	0.7	Alagille syndrome	OMIM:118450
+6	0.65	Coffin-Siris syndrome	OMIM:135900
+7	0.6	Lowe syndrome	OMIM:309000
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	Williams syndrome	OMIM:194050
+10	0.45	Ehlers-Danlos syndrome	OMIM:130050

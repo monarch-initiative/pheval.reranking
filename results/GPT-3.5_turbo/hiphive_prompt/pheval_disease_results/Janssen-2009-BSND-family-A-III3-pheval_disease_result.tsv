@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bartter syndrome	OMIM:601678
+2	0.92	Gitelman syndrome	OMIM:263800
+3	0.89	Liddle syndrome	OMIM:177200
+4	0.87	Nephrogenic syndrome of inappropriate antidiuresis	OMIM:300539
+5	0.84	Hartnup disorder	OMIM:234500
+6	0.81	Nephrogenic diabetes insipidus	OMIM:125800
+7	0.78	Gordon syndrome	OMIM:145500
+8	0.75	Distal renal tubular acidosis	OMIM:602722
+9	0.72	Cystinuria	OMIM:220100
+10	0.69	Primary hyperparathyroidism	OMIM:145000

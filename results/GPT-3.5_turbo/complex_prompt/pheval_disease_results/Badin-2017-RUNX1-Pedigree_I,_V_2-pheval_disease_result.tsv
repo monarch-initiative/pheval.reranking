@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Paris-Trousseau thrombocytopenia	OMIM:188025
+2	0.8	Acute promyelocytic leukemia	OMIM:612476
+3	0.7	Dense granule deficiency	OMIM:609404
+3	0.7	Gray platelet syndrome	OMIM:139090
+5	0.6	Bernard-Soulier syndrome	OMIM:231200
+5	0.6	May-Hegglin anomaly	OMIM:155100
+7	0.5	Pseudo-Von Willebrand disease	OMIM:177820
+7	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+9	0.4	Acute lymphoblastic leukemia	OMIM:613065
+9	0.4	Essential thrombocytosis	OMIM:187950

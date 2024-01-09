@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy	OMIM:253300
+2	0.85	Hyperekplexia	OMIM:149400
+3	0.8	Angelman Syndrome	OMIM:105830
+4	0.75	Prader-Willi Syndrome	OMIM:176270
+5	0.7	Glycogen Storage Disease Type II	OMIM:232300
+6	0.65	Myotonic Dystrophy	OMIM:160900
+7	0.6	Mucopolysaccharidosis Type II	OMIM:309900
+8	0.55	Duchenne Muscular Dystrophy	OMIM:310200
+9	0.5	Cystic Fibrosis	OMIM:219700
+10	0.45	West Syndrome	OMIM:308350

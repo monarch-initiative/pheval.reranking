@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome	OMIM:231200
+2	0.8	Glanzmann thrombasthenia	OMIM:273800
+3	0.7	Inherited thombocytopenia	OMIM:313900
+4	0.6	Scott syndrome	OMIM:262890
+5	0.5	Gray platelet syndrome	OMIM:139090
+5	0.5	May-Hegglin anomaly	OMIM:155100
+7	0.4	Platelet-type bleeding disorder 17	OMIM:187940
+7	0.4	Platelet-type bleeding disorder 14	OMIM:615193
+9	0.3	X-linked thrombocytopenia	OMIM:313900
+10	0.2	Rubella-associated thrombocytopenic purpura	OMIM:267440

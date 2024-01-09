@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Sotos syndrome	OMIM:117550
+2	0.9	Mucopolysaccharidosis type IVB	OMIM:253010
+3	0.85	Pallister-Killian syndrome	OMIM:601803
+4	0.8	Cockayne syndrome	OMIM:133540
+5	0.75	Simpson-Golabi-Behmel syndrome	OMIM:312870

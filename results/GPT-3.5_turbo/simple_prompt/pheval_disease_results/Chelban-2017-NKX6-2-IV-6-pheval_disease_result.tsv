@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 7	OMIM:607259
+2	0.8	Leber congenital amaurosis 1	OMIM:204000
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Pontocerebellar hypoplasia type 2D	OMIM:613811

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary hyperoxaluria type II	OMIM:260000
+2	0.8	Hyperoxaluria, primary, type I	OMIM:259900
+3	0.7	Isolated primary hyperparathyroidism	OMIM:145000
+4	0.6	Analgesic nephropathy	OMIM:105960
+5	0.5	Hemolytic uremic syndrome	OMIM:235400
+6	0.4	Renal cell carcinoma	OMIM:144700
+7	0.3	Polycystic kidney disease, autosomal dominant	OMIM:173900
+8	0.2	Lupus nephritis	OMIM:152700
+9	0.1	Urolithiasis	OMIM:278300
+10	0.05	Fanconi syndrome	OMIM:227810

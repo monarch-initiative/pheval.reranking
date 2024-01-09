@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Macrocephaly	OMIM:116860
+2	0.8	Cerebral atrophy	OMIM:212540
+3	0.7	Subdural hemorrhage	OMIM:617035
+4	0.6	Glutaric aciduria	OMIM:231670
+5	0.5	Dystonia	OMIM:128230

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic hyperkeratosis, localized	OMIM:144200
+2	0.8	Focal palmoplantar keratoderma	OMIM:600962
+3	0.7	Pachyonychia congenita 1	OMIM:167200
+4	0.6	Palmoplantar keratoderma-contractures syndrome	OMIM:191090
+5	0.5	Keratoderma palmoplantar-periodontopathy syndrome	OMIM:245000
+6	0.4	Diffuse epidermolytic palmoplantar keratoderma	OMIM:144790
+7	0.3	Erythrokeratodermia variabilis et progressiva 2	OMIM:617888
+8	0.2	Oliver-McFarlane syndrome	OMIM:275400
+9	0.1	Epidermolytic palmoplantar keratoderma with woolly hair and cardiomyopathy	OMIM:609532
+10	0.05	Howel-Evans syndrome	OMIM:133200

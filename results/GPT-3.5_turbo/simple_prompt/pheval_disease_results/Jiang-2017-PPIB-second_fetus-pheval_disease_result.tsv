@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Achondroplasia	OMIM:100800
+3	0.7	Arthrogryposis multiplex congenita	OMIM:108110
+4	0.6	Diastrophic dysplasia	OMIM:222600
+5	0.5	Congenital contractural arachnodactyly	OMIM:121050

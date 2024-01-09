@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, type 3	OMIM:253400
+2	0.8	Spastic paraplegia 11	OMIM:604360
+3	0.7	Spinal muscular atrophy with pontocerebellar hypoplasia	OMIM:615809
+3	0.7	Autosomal recessive spastic paraplegia type 14	OMIM:605229
+5	0.6	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+5	0.6	Autosomal recessive spastic paraplegia type 21	OMIM:248900
+7	0.5	Spinal muscular atrophy with respiratory distress type 1	OMIM:616895
+7	0.5	Cerebral visual impairment	OMIM:614990
+9	0.4	Optic atrophy type 1	OMIM:165500
+9	0.4	Oculopalatocerebral syndrome	OMIM:257910

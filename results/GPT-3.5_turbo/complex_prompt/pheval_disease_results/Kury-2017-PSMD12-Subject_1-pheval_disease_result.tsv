@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypoplastic aortic arch	OMIM:614474
+2	0.85	Truncus arteriosus	OMIM:614696
+3	0.8	Patent ductus arteriosus	OMIM:607411
+3	0.8	Ventricular septal defect	OMIM:614429
+5	0.75	Atrial septal defect	OMIM:607941
+6	0.7	Crossed fused renal ectopia	OMIM:177910
+6	0.7	Horseshoe kidney	OMIM:143400
+6	0.7	Ectopic kidney	OMIM:180000
+9	0.65	Microretrognathia	OMIM:164810
+10	0.6	Hypospadias	OMIM:300633

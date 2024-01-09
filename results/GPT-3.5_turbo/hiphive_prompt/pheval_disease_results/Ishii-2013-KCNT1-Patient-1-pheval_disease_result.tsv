@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Lennox-Gastaut Syndrome	OMIM:616139
+2	0.89	Rett Syndrome	OMIM:312750
+3	0.86	Epileptic Encephalopathy, Early Infantile, 2	OMIM:300672
+4	0.84	Developmental Delay and Seizures with or without Movement Abnormalities	OMIM:617836
+5	0.81	Mental Retardation, Autosomal Dominant 30	OMIM:616083
+6	0.78	Epileptic Encephalopathy, Early Infantile, 4	OMIM:612164
+7	0.76	Epilepsy, Progressive Myoclonic, 3	OMIM:611725
+8	0.74	Psychomotor Retardation, Epilepsy, and Craniofacial Dysmorphism	OMIM:614501
+9	0.72	Pontocerebellar Hypoplasia, Type 2C	OMIM:612390
+10	0.69	Epileptic Encephalopathy, Early Infantile, 6	OMIM:607208

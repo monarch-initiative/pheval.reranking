@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Distal arthrogryposis type 1	OMIM:108120
+2	0.93	Aarskog-Scott syndrome	OMIM:305400
+3	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.84	Carbamoyl phosphate synthetase I deficiency	OMIM:237300
+5	0.82	3-Methylglutaconic aciduria type III	OMIM:258501
+6	0.78	Smith-Magenis syndrome	OMIM:182290
+7	0.74	Marfan syndrome	OMIM:154700
+8	0.72	Noonan syndrome	OMIM:163950
+9	0.68	Cornelia de Lange syndrome	OMIM:122470
+10	0.66	Apert syndrome	OMIM:101200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+2	0.8	Hereditary sensory and autonomic neuropathy type IA	OMIM:162400
+3	0.7	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+3	0.7	Hereditary sensory and autonomic neuropathy type IC	OMIM:613640
+5	0.6	Charcot-Marie-Tooth disease, type 2A2	OMIM:608323
+5	0.6	Charcot-Marie-Tooth disease, type 4C	OMIM:601596
+5	0.6	Charcot-Marie-Tooth disease, type 2E	OMIM:607684
+8	0.5	Hereditary motor and sensory neuropathy, Russe type	OMIM:605285
+8	0.5	Charcot-Marie-Tooth disease, type 1C	OMIM:601098
+10	0.4	Dejerine-Sottas disease	OMIM:145900

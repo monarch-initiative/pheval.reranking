@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism	OMIM:209850
+2	0.85	Intellectual disability	OMIM:614318
+3	0.8	Speech and language disorder with or without developmental delay or autism	OMIM:606369
+4	0.75	Language delay	OMIM:606369
+5	0.7	Nocturnal enuresis	OMIM:166500
+6	0.65	Sleep apnea	OMIM:107880
+7	0.6	Speech apraxia	OMIM:606370
+8	0.55	Intellectual developmental disorder with speech delay and autism	OMIM:614325
+9	0.5	Sleep disturbance	OMIM:614106
+10	0.45	Speech and language delay due to UPF3B deficiency	OMIM:300451

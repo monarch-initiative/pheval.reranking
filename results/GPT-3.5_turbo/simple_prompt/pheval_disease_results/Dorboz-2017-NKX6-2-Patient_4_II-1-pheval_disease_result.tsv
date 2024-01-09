@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spastic paraplegia 79, autosomal recessive	OMIM:617113
+2	0.9	Deafness, autosomal recessive 12	OMIM:601386
+3	0.8	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+4	0.7	Autosomal recessive spastic diplegia	OMIM:609604
+5	0.6	Congenital disorder of glycosylation, type Iah	OMIM:608104
+6	0.5	Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia	OMIM:208920
+7	0.4	Optic atrophy 1	OMIM:165500
+8	0.3	Cockayne syndrome A	OMIM:216400
+9	0.2	CODAS syndrome	OMIM:600373
+10	0.1	Ataxia, posterior column, with retinitis pigmentosa	OMIM:609033

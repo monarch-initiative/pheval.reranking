@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+2	0.89	Charcot-Marie-Tooth Disease, Type 1B	OMIM:118200
+3	0.87	Charcot-Marie-Tooth Disease, Type 1C	OMIM:601098
+4	0.85	Charcot-Marie-Tooth Disease, Type 1D	OMIM:607678
+5	0.82	Charcot-Marie-Tooth Disease, Type 1E	OMIM:118300
+6	0.78	Charcot-Marie-Tooth Disease, Type 1F	OMIM:607734
+7	0.75	Charcot-Marie-Tooth Disease, Type 1G	OMIM:607706
+8	0.72	Charcot-Marie-Tooth Disease, Type 2A	OMIM:118210
+9	0.68	Charcot-Marie-Tooth Disease, Type 2E	OMIM:607684
+10	0.65	Charcot-Marie-Tooth Disease, Type 2J	OMIM:607736

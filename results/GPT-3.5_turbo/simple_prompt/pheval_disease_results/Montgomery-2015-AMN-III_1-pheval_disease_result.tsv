@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Anemia	OMIM:209000
+2	0.8	Proteinuria	OMIM:173900
+3	0.7	Vitamin B12 deficiency	OMIM:261100

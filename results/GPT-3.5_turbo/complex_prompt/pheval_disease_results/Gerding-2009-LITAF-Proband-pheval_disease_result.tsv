@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich's ataxia	OMIM:229300
+2	0.85	Charcot-Marie-Tooth disease, type 2A2B1	OMIM:606071
+3	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+4	0.75	Hereditary motor and sensory neuropathy type V	OMIM:608654
+5	0.7	Spinocerebellar ataxia type 3	OMIM:109150
+6	0.65	Hereditary sensory and autonomic neuropathy type 1	OMIM:162400
+7	0.6	Spinocerebellar ataxia type 2	OMIM:183090
+8	0.55	Autosomal recessive spinocerebellar ataxia 17	OMIM:616127
+9	0.5	Hereditary motor and sensory neuropathy type VIB	OMIM:601152
+10	0.45	Autosomal dominant optic atrophy and cataract	OMIM:165500

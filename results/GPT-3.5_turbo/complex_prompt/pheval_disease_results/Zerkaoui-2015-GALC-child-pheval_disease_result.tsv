@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy	OMIM:253600
+2	0.8	Spinal muscular atrophy	OMIM:253300
+2	0.8	Congenital myopathy	OMIM:160300
+4	0.7	Infantile spasms	OMIM:308750
+5	0.6	Cerebral palsy	OMIM:603513
+5	0.6	Epileptic encephalopathy	OMIM:613722
+7	0.5	Prader-Willi Syndrome	OMIM:176270
+8	0.4	Angelman Syndrome	OMIM:105830
+8	0.4	Epilepsy	OMIM:613720
+10	0.3	Rett Syndrome	OMIM:312750

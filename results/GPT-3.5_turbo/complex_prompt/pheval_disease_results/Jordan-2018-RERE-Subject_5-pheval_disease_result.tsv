@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Kabuki syndrome	OMIM:147920
+3	0.7	8p23.1 deletion syndrome	OMIM:613253
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia	OMIM:613563
+6	0.4	Alagille syndrome	OMIM:118450
+7	0.3	Oculo-auriculo-vertebral spectrum	OMIM:164210
+8	0.2	Char syndrome	OMIM:169100
+9	0.1	Cerebrooculofacioskeletal syndrome	OMIM:214150
+10	0.05	Baraitser-Winter syndrome	OMIM:243310

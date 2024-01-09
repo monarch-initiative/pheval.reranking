@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Noonan syndrome	OMIM:163950
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.6	Kniest dysplasia	OMIM:156550
+5	0.5	Cornelia de Lange syndrome	OMIM:122470

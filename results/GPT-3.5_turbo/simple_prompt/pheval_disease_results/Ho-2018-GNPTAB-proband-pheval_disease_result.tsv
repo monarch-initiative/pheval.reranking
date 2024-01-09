@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Crouzon syndrome	OMIM:123500
+2	0.9	Achondroplasia	OMIM:100800
+3	0.85	Trisomy 18	OMIM:190685
+4	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.7	Silver-Russell syndrome	OMIM:180860
+7	0.65	Cornelia de Lange syndrome	OMIM:122470
+8	0.6	Congenital hypothyroidism	OMIM:275200
+9	0.55	Prader-Willi syndrome	OMIM:176270
+10	0.5	Fragile X syndrome	OMIM:309550

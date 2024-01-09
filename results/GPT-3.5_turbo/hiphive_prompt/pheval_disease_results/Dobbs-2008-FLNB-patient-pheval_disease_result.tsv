@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Multiple synostoses syndrome 1	OMIM:186500
+2	0.95	Otopalatodigital syndrome type 2	OMIM:304120
+3	0.94	Catel-Manzke syndrome	OMIM:613126
+4	0.92	Cleft palate, psychomotor retardation, and distinctive facial features	OMIM:619181
+5	0.91	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+6	0.87	Arthrogryposis-like hand anomaly and sensorineural hearing loss	OMIM:609428
+7	0.85	Fraser syndrome 1	OMIM:219000
+8	0.84	Nonsyndromic-ocular coloboma	OMIM:120200
+9	0.82	Distal arthrogryposis type 1	OMIM:108120
+10	0.81	Beckwith-Wiedemann syndrome	OMIM:130650

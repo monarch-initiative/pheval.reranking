@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital ichthyosiform erythroderma	OMIM:242100
+2	0.94	Congenital nonbullous ichthyosiform erythroderma	OMIM:242100
+3	0.92	Microphthalmia	OMIM:251600
+4	0.9	Trigonocephaly	OMIM:190440
+5	0.88	Ichthyosis	OMIM:242100
+6	0.87	Ectropion	OMIM:129600
+7	0.86	Hypotelorism	OMIM:145400
+8	0.84	Pes planus	OMIM:180700
+9	0.82	Natal tooth	OMIM:189500
+10	0.8	Low-set ears	OMIM:153100

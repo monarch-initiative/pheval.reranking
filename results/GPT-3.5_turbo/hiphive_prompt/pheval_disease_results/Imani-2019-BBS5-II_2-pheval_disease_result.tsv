@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.88	Albinism	OMIM:203100
+3	0.86	Retinitis pigmentosa	OMIM:268000
+4	0.85	Leber congenital amaurosis	OMIM:204000
+5	0.82	Senior-Loken syndrome	OMIM:266900
+6	0.8	Laurence-Moon syndrome	OMIM:245800
+7	0.78	Usher syndrome	OMIM:276900
+8	0.77	Bassen-Kornzweig syndrome	OMIM:210100
+9	0.75	Alström syndrome	OMIM:203800
+10	0.7	Prader-Willi syndrome	OMIM:176270

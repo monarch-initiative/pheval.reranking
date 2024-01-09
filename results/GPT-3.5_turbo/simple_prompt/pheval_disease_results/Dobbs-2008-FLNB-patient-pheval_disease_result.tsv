@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Scoliosis	OMIM:123100
+2	0.9	Cervical kyphosis	OMIM:123100
+3	0.8	Elbow flexion contracture	OMIM:147000
+4	0.7	Hip dislocation	OMIM:142800
+5	0.6	Knee dislocation	OMIM:147360
+6	0.5	Short metacarpal	OMIM:156300
+7	0.4	Spinal dysraphism	OMIM:182940
+8	0.3	Hypertelorism	OMIM:145410
+9	0.2	Depressed nasal bridge	OMIM:313500
+10	0.1	Cleft palate	OMIM:119540
+11	0.0	High maternal serum alpha-fetoprotein	OMIM:615349
+11	0.0	Breech presentation	OMIM:198500

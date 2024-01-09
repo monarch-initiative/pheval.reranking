@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glycogen storage disease type II	OMIM:232300
+2	0.9	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.85	Severe combined immunodeficiency, X-linked	OMIM:300400
+4	0.8	Chediak-Higashi syndrome	OMIM:214500
+5	0.75	Griscelli syndrome type 2	OMIM:607624
+6	0.7	Hyper-IgM syndrome type 2	OMIM:605258
+7	0.65	Leigh syndrome, X-linked	OMIM:308930
+8	0.6	Combined immunodeficiency and megacolon	OMIM:300643
+9	0.55	Fuhrmann syndrome	OMIM:619147
+10	0.5	Myeloperoxidase deficiency	OMIM:254600

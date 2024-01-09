@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta	OMIM:166200
+2	0.92	Idiopathic Juvenile Osteoporosis	OMIM:259750
+3	0.9	Osteoporosis-Pseudoglioma Syndrome	OMIM:259770
+4	0.85	Primary Osteoporosis	OMIM:259710
+5	0.82	Albers-Schonberg Osteopetrosis	OMIM:259700
+6	0.8	Osteopetrosis, Autosomal Dominant 1	OMIM:607634
+7	0.78	Osteoporosis, Autosomal Dominant 2	OMIM:166710
+8	0.72	Bruck Syndrome	OMIM:259450
+9	0.7	Jansen Type Metaphyseal Chondrodysplasia	OMIM:156400
+10	0.68	Camurati-Engelmann Disease	OMIM:131300

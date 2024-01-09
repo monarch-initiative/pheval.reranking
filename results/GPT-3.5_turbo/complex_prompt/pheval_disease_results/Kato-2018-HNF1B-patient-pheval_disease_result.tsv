@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Type 1 diabetes mellitus	OMIM:125853
+2	0.8	Maturity-onset diabetes of the young, type 3	OMIM:600496
+3	0.7	Maturity-onset diabetes of the young, type 1	OMIM:125850
+4	0.6	Constitutional pancreas hypoplasia	OMIM:609029
+5	0.5	Hyperglycemia and/or ketonuria in infancy and childhood	OMIM:608373
+6	0.4	Cystic kidney disease	OMIM:614642
+7	0.3	Pancreatic agenesis and congenital heart defects	OMIM:600001
+8	0.2	Transient neonatal diabetes mellitus	OMIM:601410
+9	0.1	Multi-minicore disease with external ophthalmoplegia	OMIM:615345

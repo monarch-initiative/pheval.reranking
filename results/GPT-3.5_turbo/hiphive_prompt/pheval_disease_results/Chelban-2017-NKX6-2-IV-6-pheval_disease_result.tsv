@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 7	OMIM:607259
+2	0.85	Congenital disorder of glycosylation, type IIh	OMIM:611182
+3	0.83	Spinocerebellar ataxia, autosomal recessive 5	OMIM:614487
+4	0.82	Intellectual developmental disorder with gastrointestinal problems and high pain threshold	OMIM:617514
+5	0.8	Spastic paraplegia 8	OMIM:603563
+6	0.77	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	OMIM:618351
+7	0.76	Muscular hypotonia of the trunk	OMIM:614432
+8	0.75	Neuropathy, hereditary sensory, type IIC	OMIM:614213
+9	0.73	Leigh syndrome with leukodystrophy	OMIM:617681
+10	0.72	Spastic tetraplegia, thin corpus callosum, and progressive microcephaly	OMIM:616657

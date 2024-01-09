@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Down syndrome	OMIM:190685
+2	0.8	Fragile X syndrome	OMIM:300624
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Prader-Willi syndrome	OMIM:176270
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Cerebral palsy	OMIM:603513
+9	0.1	Fragile X tremor/ataxia syndrome	OMIM:300623
+10	0.05	Landau-Kleffner syndrome	OMIM:245570

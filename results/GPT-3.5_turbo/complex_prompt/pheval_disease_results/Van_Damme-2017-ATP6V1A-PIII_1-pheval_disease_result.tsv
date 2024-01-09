@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, kyphoscoliotic and deafness type	OMIM:614557
+2	0.8	Cardiac valvular dysplasia, X-linked	OMIM:314400
+3	0.7	Marfan syndrome	OMIM:154700
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Aarskog-Scott syndrome	OMIM:305400
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Costello syndrome	OMIM:218040
+9	0.1	Seckel syndrome 2	OMIM:606744

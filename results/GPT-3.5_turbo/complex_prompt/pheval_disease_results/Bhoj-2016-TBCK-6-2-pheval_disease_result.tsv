@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Prader-Willi syndrome	OMIM:176270
+4	0.6	Smith-Magenis syndrome	OMIM:182290
+5	0.5	Coffin-Lowry syndrome	OMIM:303600
+6	0.4	Cornelia de Lange syndrome	OMIM:122470
+7	0.3	Williams syndrome	OMIM:194050
+8	0.2	Fragile X syndrome	OMIM:300624
+9	0.1	Down syndrome	OMIM:190685

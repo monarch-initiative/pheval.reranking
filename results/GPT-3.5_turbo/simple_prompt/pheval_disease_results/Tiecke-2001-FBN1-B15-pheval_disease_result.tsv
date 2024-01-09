@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Aortic root aneurysm	OMIM:132900
+2	0.8571428571428571	Kyphoscoliosis	OMIM:218100
+3	0.8	Pectus excavatum	OMIM:169300
+4	0.7	Arachnodactyly	OMIM:181400
+5	0.6666666666666666	Mitral regurgitation	OMIM:157700
+6	0.6	Lens luxation	OMIM:129600
+7	0.5714285714285714	High myopia	OMIM:160700

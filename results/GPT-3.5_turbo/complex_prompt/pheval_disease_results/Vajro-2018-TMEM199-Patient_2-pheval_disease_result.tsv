@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Non-alcoholic fatty liver disease	OMIM:613282
+3	0.7	Familial hypercholesterolemia	OMIM:143890
+4	0.6	Alpha-1-antitrypsin deficiency	OMIM:613490
+5	0.5	Copper deficiency	OMIM:214400
+6	0.4	Autoimmune hepatitis	OMIM:308250
+7	0.3	Alpha-mannosidosis	OMIM:248500

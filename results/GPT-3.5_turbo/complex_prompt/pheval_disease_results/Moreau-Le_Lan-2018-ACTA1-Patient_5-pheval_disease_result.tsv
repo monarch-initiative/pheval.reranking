@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy	OMIM:603025
+2	0.8	Myotonic Dystrophy	OMIM:160900
+2	0.8	Spinal Muscular Atrophy	OMIM:253300
+4	0.7	Amyotrophic Lateral Sclerosis	OMIM:105400
+4	0.7	Friedreich Ataxia	OMIM:229300
+6	0.6	Hypotonia-Cystinuria Syndrome	OMIM:606407
+6	0.6	Narcolepsy	OMIM:161400
+8	0.5	Brown-Vialetto-Van Laere Syndrome	OMIM:211530
+8	0.5	Congenital Myasthenic Syndrome	OMIM:616791
+8	0.5	Spinal Muscular Atrophy with Respiratory Distress type 1	OMIM:613577

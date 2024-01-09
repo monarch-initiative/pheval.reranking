@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Limb-girdle muscular dystrophy type 2D	OMIM:608099
+2	0.85	Autosomal recessive nail dystrophy	OMIM:616459
+3	0.8	Congenital patellar aplasia	OMIM:167300
+4	0.75	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+5	0.7	Congenital muscular dystrophy with intellectual disability	OMIM:613179
+6	0.65	Arthrogryposis multiplex congenita	OMIM:108110
+7	0.6	Myotonia congenita	OMIM:160800
+8	0.55	Bethlem myopathy	OMIM:158810
+9	0.5	Neu-Laxova syndrome	OMIM:256520
+10	0.45	Holt-Oram syndrome	OMIM:142900

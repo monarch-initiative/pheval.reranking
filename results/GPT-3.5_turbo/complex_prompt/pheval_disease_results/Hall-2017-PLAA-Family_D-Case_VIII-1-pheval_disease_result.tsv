@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Adams-Oliver syndrome	OMIM:125100
+2	0.85	Tuberous sclerosis complex	OMIM:191100
+3	0.8	Cornelia de Lange syndrome	OMIM:122470
+4	0.75	Floating-Harbor syndrome	OMIM:136140
+5	0.7	Costello syndrome	OMIM:218040
+6	0.65	Noonan syndrome	OMIM:163950
+7	0.6	Severe combined immunodeficiency	OMIM:600802
+8	0.55	Coffin-Siris syndrome	OMIM:135900
+9	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.45	Trisomy 21	OMIM:190685

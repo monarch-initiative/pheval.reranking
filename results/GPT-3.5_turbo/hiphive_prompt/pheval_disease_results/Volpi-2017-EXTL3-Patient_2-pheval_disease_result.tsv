@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome	OMIM:123500
+2	0.88	Joubert syndrome	OMIM:213300
+3	0.85	Smith-Magenis syndrome	OMIM:182290
+4	0.82	CHARGE syndrome	OMIM:214800
+5	0.8	Pfeiffer syndrome	OMIM:101600
+6	0.78	Trisomy 13	OMIM:190685
+7	0.76	Trisomy 18	OMIM:190190
+8	0.75	Williams-Beuren syndrome	OMIM:194050
+9	0.72	Cri-du-chat syndrome	OMIM:123450
+10	0.7	Rubinstein-Taybi syndrome	OMIM:180849

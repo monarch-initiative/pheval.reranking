@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Mucopolysaccharidosis VII	OMIM:253220
+2	0.8	Mucolipidosis II alpha/beta	OMIM:252500
+4	0.7	MEDNIK syndrome	OMIM:609313
+4	0.7	Mucolipidosis III alpha/beta	OMIM:252600
+6	0.6	Metaphyseal dysplasia without hypotrichosis	OMIM:250460
+6	0.6	Multiple sulfatase deficiency	OMIM:272200
+6	0.6	Sticker syndrome	OMIM:614558
+6	0.6	Mucopolysaccharidosis type IVB	OMIM:253010
+10	0.5	Mucolipidosis IV	OMIM:252650

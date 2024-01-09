@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypomyelinating leukodystrophy 4	OMIM:612233
+2	0.93	Hypomyelinating leukodystrophy 5	OMIM:610532
+3	0.91	Hypomyelinating leukodystrophy 6	OMIM:612438
+4	0.89	Hypomyelinating leukodystrophy 7	OMIM:607694
+5	0.88	Hypomyelinating leukodystrophy 8	OMIM:604827
+6	0.85	Pelizaeus-Merzbacher-Like disease	OMIM:608804
+7	0.83	Pontocerebellar hypoplasia type 1B	OMIM:614678
+8	0.82	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+9	0.81	Cerebellar ataxia, hypogonadism, and chorioretinal dystrophy	OMIM:603629
+10	0.8	Neurodegeneration with brain iron accumulation 8	OMIM:617917

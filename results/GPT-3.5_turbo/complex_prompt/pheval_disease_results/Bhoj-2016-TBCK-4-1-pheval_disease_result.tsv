@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Autism spectrum disorder	OMIM:209850
+4	0.6	Smith-Magenis syndrome	OMIM:182290
+5	0.5	Fragile X syndrome	OMIM:300624
+6	0.4	Tuberous sclerosis complex	OMIM:191100
+7	0.3	Phenylketonuria	OMIM:261600
+8	0.2	Down syndrome	OMIM:190685
+9	0.1	Jacobsen syndrome	OMIM:147791
+9	0.1	Kabuki syndrome	OMIM:147920

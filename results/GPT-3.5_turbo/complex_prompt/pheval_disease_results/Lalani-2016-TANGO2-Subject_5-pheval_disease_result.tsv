@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome 1	OMIM:192500
+2	0.8	Rhabdomyolysis	OMIM:268200
+3	0.7	Long QT Syndrome 2	OMIM:613688
+4	0.6	Generalized Epilepsy with Febrile Seizures Plus, Type 2	OMIM:604403
+5	0.5	Infantile Hypoglycemia	OMIM:609975
+6	0.4	Intellectual Disability	OMIM:609441
+7	0.3	Muscular Dystrophy, Duchenne Type	OMIM:310200
+8	0.2	Infantile Hypoglycemia, AR	OMIM:609975
+9	0.1	Catecholaminergic Polymorphic Ventricular Tachycardia, Type 5	OMIM:613616
+10	0.05	Catecholaminergic Polymorphic Ventricular Tachycardia, Type 1	OMIM:604772

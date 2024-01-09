@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:182601
+2	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.8	Charcot-Marie-Tooth disease type 2A	OMIM:118210
+4	0.75	Autosomal dominant spastic paraplegia type 4	OMIM:182601
+5	0.7	Friedreich ataxia	OMIM:229300
+6	0.65	Multiple system atrophy	OMIM:146500
+7	0.6	Peripheral neuropathy	OMIM:162500
+8	0.55	Hereditary sensory and autonomic neuropathy	OMIM:162400
+9	0.5	Leukodystrophy	OMIM:312080
+10	0.45	Stroke	OMIM:601367

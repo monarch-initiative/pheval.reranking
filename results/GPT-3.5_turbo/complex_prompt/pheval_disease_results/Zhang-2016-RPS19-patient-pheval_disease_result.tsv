@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Congenital disorder of glycosylation, type IIf	OMIM:603585
+2	0.82	22q11.2 deletion syndrome	OMIM:188400
+3	0.8	Diamond-Blackfan anemia 14 with mandibulofacial dysostosis	OMIM:617777
+4	0.78	Amegakaryocytic thrombocytopenia	OMIM:614496
+5	0.77	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.75	Down syndrome	OMIM:190685
+7	0.73	Giant platelet syndrome with thrombocytopenia	OMIM:138720
+8	0.7	Kabuki syndrome 1	OMIM:147920
+9	0.68	CINCA syndrome	OMIM:607115
+10	0.65	Inflammatory bowel disease 1	OMIM:266600

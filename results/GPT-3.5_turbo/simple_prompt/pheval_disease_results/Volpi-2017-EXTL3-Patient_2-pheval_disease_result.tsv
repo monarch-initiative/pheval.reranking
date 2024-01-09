@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Severe combined immunodeficiency	OMIM:611672
+2	0.875	Developmental stagnation	OMIM:616922
+3	0.857	Fetal distress	OMIM:228120
+4	0.833	Anal atresia	OMIM:301950
+5	0.812	Focal clonic seizures	OMIM:600355
+6	0.8	Clonus	OMIM:185100
+7	0.786	Cloverleaf skull	OMIM:148800
+8	0.769	Nystagmus	OMIM:310700

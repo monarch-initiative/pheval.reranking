@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Thrombocytopenia	OMIM:313900
+2	0.9	Impaired epinephrine-induced platelet aggregation	OMIM:614077
+3	0.8	Impaired ADP-induced platelet aggregation	OMIM:184350
+4	0.7	Impaired arachidonic acid-induced platelet aggregation	OMIM:613111
+5	0.6	Petechiae	OMIM:292900
+6	0.5	Epistaxis	OMIM:605249
+7	0.4	Gingival bleeding	OMIM:278750
+8	0.3	Impaired ristocetin-induced platelet aggregation	OMIM:174700
+9	0.2	Increased mean platelet volume	OMIM:174150
+10	0.1	Decreased serum ferritin	OMIM:615604

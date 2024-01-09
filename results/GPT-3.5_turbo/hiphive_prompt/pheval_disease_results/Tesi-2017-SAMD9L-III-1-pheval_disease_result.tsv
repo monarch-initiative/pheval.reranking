@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fanconi anemia complementation group A	OMIM:227650
+2	0.94	Severe combined immunodeficiency, X-linked	OMIM:300400
+3	0.92	Immunodeficiency 47	OMIM:300972
+4	0.9	Ataxia-telangiectasia-like disorder 2	OMIM:615919
+5	0.89	Wiskott-Aldrich syndrome 2	OMIM:614493
+6	0.87	Schimke immuno-osseous dysplasia	OMIM:242900
+7	0.86	X-linked sideroblastic anemia with ataxia	OMIM:301310
+8	0.85	X-linked immunodeficiency 19	OMIM:300636
+9	0.84	X-linked agammaglobulinemia	OMIM:300755
+10	0.82	Ataxia-telangiectasia	OMIM:208900

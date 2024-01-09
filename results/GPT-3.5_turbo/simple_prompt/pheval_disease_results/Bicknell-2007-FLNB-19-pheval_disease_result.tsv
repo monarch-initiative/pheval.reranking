@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Brachyolmia Type 3	OMIM:113500
+2	0.8	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Spondyloperipheral Dysplasia	OMIM:271700
+4	0.7	Stickler Syndrome Type 1	OMIM:108300
+5	0.6	Larsen Syndrome	OMIM:150250

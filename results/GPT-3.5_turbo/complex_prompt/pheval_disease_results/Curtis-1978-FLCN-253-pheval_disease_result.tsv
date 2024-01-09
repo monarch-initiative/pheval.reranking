@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Birt-Hogg-Dubé syndrome	OMIM:135150
+2	0.85	Langerhans cell histiocytosis	OMIM:604856
+3	0.8	Alpha-1 antitrypsin deficiency	OMIM:613490
+4	0.75	Lymphangioleiomyomatosis	OMIM:606690
+5	0.7	Gorlin syndrome	OMIM:109400
+5	0.7	Pulmonary Langerhans cell histiocytosis	OMIM:604856
+7	0.65	Marfan syndrome	OMIM:154700
+8	0.6	Pulmonary histiocytosis	OMIM:145140
+9	0.55	Lymphoid interstitial pneumonia	OMIM:247670
+10	0.5	Bazex-Dupré-Christol syndrome	OMIM:301845

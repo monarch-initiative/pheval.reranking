@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy	OMIM:603513
+2	0.8	Lissencephaly	OMIM:607432
+3	0.7	Myoclonus	OMIM:254700
+4	0.6	Cerebellar Dysplasia	OMIM:614890
+5	0.5	Hyperreflexia	OMIM:138800
+6	0.4	Genu Valgum	OMIM:211370
+7	0.3	Attention Deficit Hyperactivity Disorder	OMIM:143465
+8	0.2	Generalized Tonic-Clonic Seizures	OMIM:137000
+9	0.1	Motor Delay	OMIM:613167

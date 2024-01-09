@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's disease	OMIM:168600
+2	0.8	Spinocerebellar ataxia 2	OMIM:183090
+3	0.7	Spastic paraplegia 4	OMIM:182601
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Huntington's disease	OMIM:143100
+6	0.4	Parkinsonism with spasticity, X-linked	OMIM:300911
+7	0.3	Juvenile Huntington disease	OMIM:143100
+8	0.2	Dopa-responsive dystonia	OMIM:128230
+9	0.1	Ataxia with oculomotor apraxia type 1	OMIM:208920
+9	0.1	Fragile X syndrome	OMIM:300624

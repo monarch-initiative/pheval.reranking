@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.983	Griscelli syndrome, type 2	OMIM:607624
+2	0.97	Griscelli syndrome, type 1	OMIM:214450
+3	0.966	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.96	Severe combined immunodeficiency, X-linked	OMIM:300400
+5	0.946	Autosomal recessive hypophosphatemic rickets	OMIM:241520
+6	0.945	Chédiak-Higashi syndrome	OMIM:214500
+7	0.944	Laron syndrome	OMIM:262500
+8	0.94	Usher syndrome, type 1C	OMIM:276904
+9	0.933	Intestinal lymphangiectasia	OMIM:152800
+10	0.932	Immunodeficiency, common variable, 3	OMIM:613494

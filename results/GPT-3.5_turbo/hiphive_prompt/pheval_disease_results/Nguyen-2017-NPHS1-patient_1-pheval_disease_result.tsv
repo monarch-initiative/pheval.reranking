@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+2	0.9	Denys-Drash syndrome	OMIM:194080
+3	0.87	Pierson syndrome	OMIM:609049
+4	0.85	Lipoprotein glomerulopathy	OMIM:611771
+5	0.83	Alport syndrome, autosomal dominant	OMIM:104200
+6	0.8	Focal segmental glomerulosclerosis	OMIM:603278
+7	0.75	Minimal change nephrotic syndrome	OMIM:256300
+8	0.7	Nail-patella syndrome	OMIM:161200
+9	0.65	Congenital disorder of glycosylation, type Ia	OMIM:212065
+10	0.6	Fanconi renotubular syndrome 1	OMIM:134600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly	OMIM:251200
+2	0.92	Autistic behavior	OMIM:209850
+3	0.89	Global developmental delay	OMIM:615759
+4	0.88	Intellectual disability, moderate	OMIM:614562
+5	0.87	Delayed speech and language development	OMIM:613696
+6	0.85	Scoliosis	OMIM:181800
+7	0.83	Coloboma	OMIM:120200
+8	0.82	Strabismus	OMIM:185100
+9	0.81	Feeding difficulties in infancy	OMIM:208540
+10	0.8	Thick eyebrow	OMIM:604317

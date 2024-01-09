@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Fryns syndrome	OMIM:229850
+2	0.95	CHARGE syndrome	OMIM:214800
+3	0.93	Cerebrooculofacioskeletal syndrome 2	OMIM:610756
+4	0.92	Microcephaly-microphthalmia syndrome, Lenz type	OMIM:309801
+5	0.91	Microcephaly and chorioretinopathy, autosomal recessive, 2	OMIM:616171
+6	0.9	Microcephaly, growth restriction, and increased sister chromatid exchange 2	OMIM:616606
+7	0.89	Kahrizi syndrome	OMIM:612713
+8	0.87	Cenani-Lenz syndrome	OMIM:212780
+9	0.85	Psychomotor retardation, epilepsy, and craniofacial dysmorphism	OMIM:614501
+10	0.83	Orofaciodigital syndrome XVII	OMIM:617926

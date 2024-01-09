@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Saethre-Chotzen Syndrome	OMIM:101400
+2	0.93	Crouzon Syndrome	OMIM:123500
+3	0.92	Pfeiffer Syndrome	OMIM:101600
+4	0.91	Apert Syndrome	OMIM:101200
+5	0.87	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.86	Treacher Collins Syndrome	OMIM:154500
+7	0.83	Silver-Russell Syndrome	OMIM:180860
+8	0.81	Williams Syndrome	OMIM:194050
+9	0.8	Oral-Facial-Digital Syndrome	OMIM:311200
+10	0.78	CHARGE Syndrome	OMIM:214800

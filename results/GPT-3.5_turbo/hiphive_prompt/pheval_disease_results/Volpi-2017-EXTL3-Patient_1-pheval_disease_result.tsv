@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Sepsis	OMIM:109400
+2	0.9	Familial Mediterranean fever	OMIM:249100
+3	0.85	Hyper IgM syndrome	OMIM:308230
+4	0.8	Short stature	OMIM:604271
+5	0.75	Erythrokeratodermia variabilis	OMIM:133200
+6	0.7	Intellectual developmental disorder with persistent speech impairment	OMIM:618780
+7	0.65	Epileptic encephalopathy, early infantile, 6	OMIM:613722
+8	0.6	Achondroplasia	OMIM:100800
+9	0.55	Immunodeficiency 16	OMIM:615593
+10	0.5	Spastic tetraplegia, intellectual disability, epilepsy, and characteristic facies	OMIM:616657

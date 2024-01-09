@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gorlin-Chaudhry-Moss Syndrome	OMIM:233500
+2	0.84	Alkaptonuria	OMIM:203500
+3	0.81	Glanzmann Thrombasthenia	OMIM:273800
+4	0.8	Gorlin-Chaudhry-Moss Syndrome	OMIM:233505
+4	0.8	Gorlin-Chaudhry-Moss Syndrome	OMIM:233550
+6	0.79	Selbst Syndrome	OMIM:601466
+7	0.78	Jorgensen-Turner Syndrome	OMIM:244450
+8	0.77	Generalized Arterial Calcification of Infancy	OMIM:208000
+8	0.77	Feingold Syndrome 2	OMIM:614326
+10	0.76	Trichodental Syndrome	OMIM:275370

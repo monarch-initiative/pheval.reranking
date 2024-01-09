@@ -1,0 +1,15 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cutis laxa	OMIM:123700
+2	0.92	Hypertrophic cardiomyopathy	OMIM:192600
+3	0.88	Aortic aneurysm	OMIM:100070
+4	0.87	Generalized hypotonia	OMIM:209900
+5	0.85	Ventriculomegaly	OMIM:236700
+6	0.82	Kyphoscoliosis	OMIM:181400
+7	0.79	Abnormal facial shape	OMIM:200000
+8	0.75	Generalized tonic-clonic seizures	OMIM:137000
+9	0.73	Flexion contracture	OMIM:121050
+10	0.7	Abnormal heart morphology	OMIM:600001
+11	0.68	Tall stature	OMIM:606255
+12	0.65	Disproportionate tall stature	OMIM:130650
+13	0.63	Hip dysplasia	OMIM:146000
+14	0.6	Entropion	OMIM:147710

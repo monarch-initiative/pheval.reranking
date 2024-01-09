@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Asthma	OMIM:600807
+2	0.8	Autosomal dominant intellectual disability with associated malformations	OMIM:614562
+3	0.7	Short stature	OMIM:604271
+4	0.6	Developmental delay and variable intellectual disability	OMIM:614562
+5	0.5	Sleep apnea	OMIM:107650
+6	0.4	Intellectual disability, autosomal dominant	OMIM:614562
+7	0.3	Hypotonia	OMIM:300958
+8	0.2	Delayed fine motor development	OMIM:614562
+9	0.1	Delayed skeletal maturation	OMIM:259050
+9	0.1	Delayed speech and language development	OMIM:614562

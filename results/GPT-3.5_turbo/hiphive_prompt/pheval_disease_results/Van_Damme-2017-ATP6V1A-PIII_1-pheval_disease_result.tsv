@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.93	Loeys-Dietz syndrome	OMIM:609192
+3	0.91	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.89	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.87	Neurofibromatosis type 1	OMIM:162200
+6	0.86	Alagille syndrome	OMIM:118450
+7	0.84	Marshall-Smith syndrome	OMIM:602535
+8	0.82	Gorlin syndrome	OMIM:109400
+9	0.81	Homocysteinuria due to MTHFR deficiency	OMIM:236250
+10	0.79	Weill-Marchesani syndrome	OMIM:277600

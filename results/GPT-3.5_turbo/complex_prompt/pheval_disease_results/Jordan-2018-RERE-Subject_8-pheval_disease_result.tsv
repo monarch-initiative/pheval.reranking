@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.87	Otofaciocervical syndrome 1	OMIM:166780
+3	0.85	Opitz-Kaveggia syndrome	OMIM:305450
+4	0.83	13q deletion syndrome	OMIM:613884
+5	0.81	Miller-Dieker syndrome	OMIM:247200
+6	0.8	Sotos syndrome	OMIM:117550
+7	0.78	Cantu syndrome	OMIM:239850
+8	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.74	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.72	Fragile X syndrome	OMIM:300624

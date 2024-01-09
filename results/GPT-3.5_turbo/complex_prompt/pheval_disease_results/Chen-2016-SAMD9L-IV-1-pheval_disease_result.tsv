@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia	OMIM:164400
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Ataxia telangiectasia	OMIM:208900
+4	0.6	X-linked recessive ataxia	OMIM:301040
+5	0.5	Hereditary spastic paraplegia	OMIM:182601
+6	0.4	Multiple system atrophy	OMIM:146500
+7	0.3	Charcot-Marie-Tooth disease	OMIM:118220
+8	0.2	Corticobasal degeneration	OMIM:601378
+9	0.1	X-linked adrenoleukodystrophy	OMIM:300100

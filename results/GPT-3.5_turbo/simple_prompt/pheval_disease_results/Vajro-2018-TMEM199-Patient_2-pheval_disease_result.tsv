@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hepatic steatosis	OMIM:269600
+2	0.857	Periportal fibrosis	OMIM:177060
+2	0.857	Hypercholesterolemia	OMIM:143890
+2	0.857	Decreased circulating copper concentration	OMIM:277900
+2	0.857	Decreased serum ceruloplasmin	OMIM:117700
+2	0.857	Elevated alkaline phosphatase	OMIM:171760
+2	0.857	Elevated serum creatine kinase	OMIM:123680

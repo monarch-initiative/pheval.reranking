@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Microcephaly	OMIM:251200
+2	0.9	Cataract	OMIM:116200
+3	0.8	Growth delay	OMIM:601336
+4	0.7	Hearing impairment	OMIM:220290
+5	0.6	Proptosis	OMIM:145680

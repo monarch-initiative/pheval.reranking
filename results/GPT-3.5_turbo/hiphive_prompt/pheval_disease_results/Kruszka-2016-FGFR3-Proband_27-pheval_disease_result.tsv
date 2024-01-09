@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+2	0.95	Coffin-Siris syndrome	OMIM:135900
+3	0.94	Kleefstra syndrome	OMIM:610253
+4	0.92	Mowat-Wilson syndrome	OMIM:235730
+5	0.91	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.89	Pitt-Hopkins syndrome	OMIM:610954
+8	0.88	Opitz GBBB syndrome	OMIM:300000
+9	0.86	Crouzon syndrome	OMIM:123500
+10	0.84	Smith-Magenis syndrome	OMIM:182290

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital myopathies	OMIM:160100
+2	0.85	Limb-girdle muscular dystrophy	OMIM:253600
+3	0.8	Myotonic dystrophy	OMIM:160900
+4	0.75	Facioscapulohumeral muscular dystrophy	OMIM:158900
+5	0.7	Duchenne muscular dystrophy	OMIM:310200
+6	0.65	Myoadenylate deaminase deficiency	OMIM:615511
+7	0.6	Central core disease	OMIM:117000
+8	0.55	Spinal muscular atrophy	OMIM:253300
+9	0.5	Limb-girdle muscular dystrophy type 2A	OMIM:253600
+10	0.45	Congenital myasthenic syndrome	OMIM:608931

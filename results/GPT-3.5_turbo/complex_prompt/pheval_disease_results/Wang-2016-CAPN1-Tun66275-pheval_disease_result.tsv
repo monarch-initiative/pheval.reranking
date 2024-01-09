@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich Ataxia	OMIM:229300
+2	0.8	Spinocerebellar Ataxia Type 1	OMIM:164400
+3	0.7	Spinocerebellar Ataxia Type 2	OMIM:183090
+4	0.6	Spinocerebellar Ataxia Type 3	OMIM:109150
+5	0.5	Hereditary Spastic Paraplegia	OMIM:182600
+6	0.4	Ataxia-Telangiectasia	OMIM:208900
+7	0.3	Spinocerebellar Ataxia Type 14	OMIM:605361
+8	0.2	Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome	OMIM:224050
+9	0.1	Hereditary Spastic Paraplegia Type 4	OMIM:182601
+10	0.05	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	OMIM:270550

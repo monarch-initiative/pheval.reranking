@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	FGFR2-related isolated coronal synostosis	OMIM:605600
+2	0.7	Apert syndrome	OMIM:101200
+3	0.6	Pfeiffer syndrome	OMIM:101600
+4	0.5	Carpenter syndrome	OMIM:201000
+5	0.4	Crouzon syndrome with acanthosis nigricans	OMIM:612247

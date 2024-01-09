@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebellar Ataxia, Nonprogressive, with Mental Retardation	OMIM:614756
+2	0.8	Hereditary Spastic Paraplegia, Autosomal Recessive	OMIM:609530
+3	0.7	Spastic Paraplegia-deafness Syndrome	OMIM:312910
+4	0.6	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+5	0.5	L1 Syndrome	OMIM:308840

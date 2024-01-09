@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa	OMIM:268000
+2	0.9	Leber congenital amaurosis	OMIM:204000
+3	0.85	Cone-rod dystrophy	OMIM:120970
+4	0.8	Fundus albipunctatus	OMIM:136880
+5	0.75	Choroideremia	OMIM:303100
+6	0.7	Congenital stationary night blindness	OMIM:310500
+7	0.65	Stargardt disease	OMIM:248200
+8	0.6	Juvenile retinoschisis	OMIM:312700
+9	0.55	Familial exudative vitreoretinopathy	OMIM:133780
+10	0.5	Cone dystrophy	OMIM:120600

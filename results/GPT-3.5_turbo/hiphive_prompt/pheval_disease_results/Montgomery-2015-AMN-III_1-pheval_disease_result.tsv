@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megaloblastic Anemia 1	OMIM:261100
+2	0.8	Juvenile-Onset Bipolar Disorder	OMIM:609373
+2	0.8	Atypical Hemolytic Uremic Syndrome	OMIM:235400
+2	0.8	Cobalamin C Deficiency	OMIM:277400
+5	0.7	Cobalamin E Type 1	OMIM:609845
+5	0.7	Hereditary Coproporphyria	OMIM:121300
+5	0.7	Bipolar I Disorder	OMIM:125480
+8	0.6	Nonsyndromic Hearing Loss	OMIM:600101
+8	0.6	Megaloblastic Anemia due to Dihydrofolate Reductase Deficiency	OMIM:613839
+8	0.6	Congenital Intrinsic Factor Deficiency	OMIM:261000

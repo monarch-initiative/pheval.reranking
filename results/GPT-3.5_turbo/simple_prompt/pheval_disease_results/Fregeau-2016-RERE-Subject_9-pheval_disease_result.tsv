@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.98	Nager Syndrome	OMIM:154400
+3	0.95	Angelman Syndrome	OMIM:105830
+4	0.93	Coffin-Siris Syndrome	OMIM:135900
+5	0.91	Smith-Magenis Syndrome	OMIM:182290

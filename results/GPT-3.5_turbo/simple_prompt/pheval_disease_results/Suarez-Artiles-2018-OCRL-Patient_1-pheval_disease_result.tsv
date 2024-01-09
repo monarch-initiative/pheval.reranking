@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Glaucoma	OMIM:137760
+2	0.9	Low-molecular-weight proteinuria	OMIM:191830
+3	0.85	Glycosuria	OMIM:138800
+4	0.8	Albuminuria	OMIM:104200
+5	0.75	Cataract	OMIM:115650
+6	0.6	Intellectual disability	OMIM:614607
+7	0.5	Muscular hypotonia	OMIM:209880
+8	0.4	Aminoaciduria	OMIM:242600

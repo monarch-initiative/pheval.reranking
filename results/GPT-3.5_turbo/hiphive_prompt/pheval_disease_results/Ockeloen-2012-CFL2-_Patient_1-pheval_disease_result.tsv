@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinal muscular atrophy with lower extremity predominance 1	OMIM:615048
+2	0.92	Muscular dystrophy, Duchenne type	OMIM:310200
+3	0.9	Congenital muscular dystrophy, Fukuyama type	OMIM:253800
+4	0.88	Congenital muscular dystrophy, Ullrich type	OMIM:254090
+5	0.85	Spinal muscular atrophy with respiratory distress type 1	OMIM:604320
+6	0.8	Spinal muscular atrophy, Jokela type	OMIM:615048
+7	0.75	Kyphosis	OMIM:Kyphosis
+8	0.72	Muscular dystrophy, Emery-Dreifuss type 2	OMIM:181350
+9	0.7	Nemaline myopathy 2	OMIM:256030
+10	0.68	Congenital muscular dystrophy, rigid spine type	OMIM:602771

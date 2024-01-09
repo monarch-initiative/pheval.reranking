@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Ehlers-Danlos syndrome, kyphoscoliotic type, autosomal recessive	OMIM:225400
+3	0.8	Ehlers-Danlos syndrome, classical-like type 2	OMIM:618000
+3	0.8	Cutis laxa, autosomal recessive, type IA	OMIM:219100
+5	0.7	Cutis laxa, autosomal recessive, type IIB	OMIM:612940
+5	0.7	Ehlers-Danlos syndrome, classic-like, 3	OMIM:616229
+7	0.6	Cutis laxa, autosomal dominant, type IIIA	OMIM:123700
+7	0.6	Marfan syndrome	OMIM:154700
+9	0.5	Gerodermia osteodysplastica	OMIM:231070
+9	0.5	Hyperlysinemia, type I	OMIM:238700

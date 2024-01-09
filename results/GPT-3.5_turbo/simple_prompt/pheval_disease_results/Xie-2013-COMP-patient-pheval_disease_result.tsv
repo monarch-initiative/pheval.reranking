@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondrogenesis, type II	OMIM:200610
+2	0.8	Spondyloepiphyseal dysplasia, Maroteaux type	OMIM:184095
+3	0.7	Metaphyseal dysplasia, Spahr type	OMIM:250400
+4	0.6	Pseudoachondroplasia	OMIM:177170
+5	0.5	Multiple epiphyseal dysplasia, Beighton type	OMIM:130000

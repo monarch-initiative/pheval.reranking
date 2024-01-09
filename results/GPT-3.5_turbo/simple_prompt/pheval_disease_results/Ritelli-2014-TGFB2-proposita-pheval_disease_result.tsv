@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Stickler syndrome type 1	OMIM:108300
+5	0.7	Larsen syndrome	OMIM:150250

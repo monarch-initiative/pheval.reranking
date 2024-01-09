@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly	OMIM:251200
+2	0.91	Arnold-Chiari type I malformation	OMIM:207950
+3	0.89	Camptodactyly	OMIM:114290
+4	0.87	Bilateral cryptorchidism	OMIM:219050
+5	0.86	Renal cyst	OMIM:243630
+6	0.84	Hydronephrosis	OMIM:143400
+7	0.82	Strabismus	OMIM:185100
+8	0.8	Chronic constipation	OMIM:612494
+9	0.79	Submucous cleft soft palate	OMIM:119540
+10	0.77	Muscular hypotonia	OMIM:605373

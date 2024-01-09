@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, type VIIB	OMIM:130060
+2	0.8	Marfan syndrome	OMIM:154700
+2	0.8	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+4	0.7	Weill-Marchesani syndrome	OMIM:277600
+5	0.6	Congenital contractural arachnodactyly	OMIM:121050
+6	0.5	Neurofibromatosis, type I	OMIM:162200
+7	0.4	Stickler syndrome, type I	OMIM:108300
+8	0.3	Alport syndrome, autosomal dominant	OMIM:104200
+9	0.2	Noonan syndrome	OMIM:163950
+10	0.1	Turner syndrome	OMIM:313500

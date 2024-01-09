@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis type 1	OMIM:162200
+2	0.8	Legius syndrome	OMIM:611431
+3	0.7	McCune-Albright syndrome	OMIM:174800
+4	0.6	Noonan syndrome	OMIM:163950
+5	0.5	Carney complex	OMIM:160980
+6	0.4	LEOPARD syndrome	OMIM:151100
+7	0.3	Tuberous sclerosis complex	OMIM:191100
+8	0.2	Neurofibromatosis-Noonan syndrome	OMIM:601321
+9	0.1	Watson syndrome	OMIM:193520
+10	0.05	Rubinstein-Taybi syndrome	OMIM:180849

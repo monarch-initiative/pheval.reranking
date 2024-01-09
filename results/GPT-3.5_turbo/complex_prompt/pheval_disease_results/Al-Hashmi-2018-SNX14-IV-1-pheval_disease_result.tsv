@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis type II	OMIM:309900
+2	0.8	Hunter syndrome	OMIM:309900
+3	0.7	Mucolipidosis II	OMIM:252500
+4	0.6	Alpha-mannosidosis	OMIM:248500
+5	0.5	Maroteaux-Lamy syndrome	OMIM:253200
+6	0.4	Sanfilippo syndrome type A	OMIM:252900
+7	0.3	Niemann-Pick disease type C	OMIM:257220
+8	0.2	Prader-Willi syndrome	OMIM:176270
+9	0.1	Mucopolysaccharidosis type III	OMIM:252900
+10	0.05	Rett syndrome	OMIM:312750

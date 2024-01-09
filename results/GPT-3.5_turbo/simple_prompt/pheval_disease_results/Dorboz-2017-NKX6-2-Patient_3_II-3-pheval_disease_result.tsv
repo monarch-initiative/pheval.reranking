@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia Type 7	OMIM:164500
+2	0.8	Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain And Eye Anomalies), Type A, 2	OMIM:613150
+3	0.7	Xeroderma Pigmentosum, Complementation Group F	OMIM:278760
+4	0.6	Coffin-Lowry Syndrome	OMIM:303600
+5	0.5	Pseudohypoparathyroidism, Type Ib	OMIM:603233

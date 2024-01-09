@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Congenital myasthenic syndrome	OMIM:CMS1A
+2	0.87	Congenital myasthenic syndrome	OMIM:CMS1B
+3	0.86	Congenital myasthenic syndrome	OMIM:CMS1C
+4	0.85	Congenital myasthenic syndrome	OMIM:CMS1D
+5	0.82	Myasthenic syndrome, congenital, 1G, associated with acetylcholine receptor deficiency	OMIM:600720
+5	0.82	Congenital myasthenic syndrome	OMIM:CMS1F
+5	0.82	Congenital myasthenic syndrome	OMIM:CMS1E
+5	0.82	Congenital myasthenic syndrome	OMIM:CMS1R
+5	0.82	Congenital myasthenic syndrome	OMIM:CMS1P
+5	0.82	Congenital myasthenic syndrome	OMIM:CMS1H

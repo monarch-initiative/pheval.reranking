@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Frontotemporal dementia	OMIM:600274
+2	0.85	Alzheimer disease	OMIM:104300
+3	0.8	Neurodegeneration with brain iron accumulation	OMIM:234200
+4	0.75	Binswanger disease	OMIM:603750
+5	0.7	Corticobasal degeneration	OMIM:601145
+6	0.65	Pick disease	OMIM:172700
+7	0.6	Creutzfeldt-Jakob disease	OMIM:123400
+8	0.55	Huntington disease	OMIM:143100
+9	0.5	Dementia with Lewy bodies	OMIM:127750
+10	0.45	Primary progressive aphasia	OMIM:606688

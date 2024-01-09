@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Cornelia de Lange Syndrome 1	OMIM:122470
+2	0.78	Coffin-Siris Syndrome	OMIM:135900
+3	0.75	Rubinstein-Taybi Syndrome 1	OMIM:180849
+4	0.73	Cri-du-chat Syndrome	OMIM:123450
+5	0.71	Fragile X Syndrome	OMIM:300624

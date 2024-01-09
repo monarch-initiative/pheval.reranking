@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Mitochondrial Complex IV Deficiency	OMIM:220110
+2	0.93333	Craniosynostosis-Dandy-Walker Malformation-Hydrocephalus Syndrome	OMIM:220200
+3	0.91176	Acyl-CoA Dehydrogenase, Very Long-Chain, Deficiency of	OMIM:201475
+4	0.88889	Infantile Feeding Disorder	OMIM:300281
+4	0.88889	Myopathy with Lactic Acidosis and Sideroblastic Anemia	OMIM:600462
+4	0.88889	Carnitine Palmitoyltransferase II Deficiency, Infantile	OMIM:600649
+7	0.88235	Feingold Syndrome	OMIM:164280
+7	0.88235	Lactic Acidosis, Primary, Due to Defects in Glycolysis	OMIM:245340
+7	0.88235	Hyperinsulinism due to glucokinase deficiency	OMIM:601820
+10	0.875	Lactic Acidemia due to PDX1 Deficiency	OMIM:615411

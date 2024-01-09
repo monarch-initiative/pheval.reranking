@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+3	0.7	Lujan-Fryns syndrome	OMIM:309520
+4	0.6	Noonan syndrome	OMIM:163950
+5	0.5	Congenital disorder of glycosylation	OMIM:603147
+6	0.4	Hurler syndrome	OMIM:607014
+7	0.3	Neurofibromatosis type I	OMIM:162200
+8	0.2	Williams syndrome	OMIM:194050
+9	0.1	Homocystinuria	OMIM:236200
+10	0.05	Beckwith-Wiedemann syndrome	OMIM:130650

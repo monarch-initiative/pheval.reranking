@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Soto's Syndrome	OMIM:117550
+2	0.92	Cockayne Syndrome	OMIM:133540
+3	0.89	Cornelia de Lange Syndrome	OMIM:122470
+4	0.88	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.86	Angelman Syndrome	OMIM:105830
+6	0.85	Prader-Willi Syndrome	OMIM:176280
+7	0.8	Fragile X Syndrome	OMIM:300624
+8	0.77	Pitt-Hopkins Syndrome	OMIM:610954
+9	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.72	Rett Syndrome	OMIM:312750

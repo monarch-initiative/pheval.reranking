@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome	OMIM:192500
+2	0.8	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+3	0.7	Romano-Ward Syndrome	OMIM:192500
+4	0.6	Autosomal Recessive Nonsyndromic Deafness	OMIM:220400
+5	0.5	Autosomal Dominant Nonsyndromic Deafness	OMIM:600101

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Spinal muscular atrophy, type I	OMIM:253300
+2	0.92	Spinal muscular atrophy, type III	OMIM:253400
+3	0.91	Spinal muscular atrophy, type II	OMIM:253550
+4	0.88	Amyotrophic lateral sclerosis 1	OMIM:105400
+5	0.87	Spinal muscular atrophy, type IV	OMIM:271150
+6	0.85	Amyotrophic lateral sclerosis 2	OMIM:600794
+7	0.81	Amyotrophic lateral sclerosis 3	OMIM:105450
+8	0.77	Amyotrophic lateral sclerosis 4	OMIM:602433
+9	0.76	Amyotrophic lateral sclerosis 5	OMIM:602099
+10	0.75	Amyotrophic lateral sclerosis 6	OMIM:608030

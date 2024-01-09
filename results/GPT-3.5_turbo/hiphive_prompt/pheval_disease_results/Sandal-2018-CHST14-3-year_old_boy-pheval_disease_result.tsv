@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.96	Stickler syndrome, type I	OMIM:108300
+3	0.94	Freeman-Sheldon syndrome	OMIM:193700
+4	0.92	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.89	Cohen syndrome	OMIM:216550
+6	0.87	Syndactyly type 1	OMIM:185900
+7	0.85	Alagille syndrome 1	OMIM:118450
+8	0.83	Fraser syndrome 1	OMIM:219000
+9	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.78	Turner syndrome	OMIM:313850

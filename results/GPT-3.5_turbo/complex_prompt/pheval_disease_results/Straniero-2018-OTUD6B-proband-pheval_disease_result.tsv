@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:209850
+2	0.8	Gastroesophageal reflux disease	OMIM:109350
+2	0.8	Tetralogy of Fallot	OMIM:187500
+4	0.7	Cri-du-chat syndrome	OMIM:123450
+4	0.7	Fetal alcohol syndrome	OMIM:134100
+6	0.6	Cornelia de Lange syndrome	OMIM:122470
+6	0.6	Williams-Beuren syndrome	OMIM:194050
+6	0.6	Angelman syndrome	OMIM:105830
+9	0.5	22q11.2 deletion syndrome	OMIM:188400
+9	0.5	CHARGE syndrome	OMIM:214800

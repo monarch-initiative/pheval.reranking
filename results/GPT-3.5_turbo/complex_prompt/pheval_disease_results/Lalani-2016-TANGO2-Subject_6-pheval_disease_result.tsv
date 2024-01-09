@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Propionic acidemia	OMIM:606054
+2	0.85	Methylmalonic acidemia	OMIM:251100
+3	0.83	Citrullinemia type I	OMIM:215700
+4	0.8	Medium-chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+5	0.78	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+6	0.75	Glutaric acidemia type II	OMIM:231680
+7	0.73	Isovaleric acidemia	OMIM:243500
+8	0.7	Organic acidemia	OMIM:250950
+9	0.68	Maple syrup urine disease type 1B	OMIM:248600
+10	0.65	Glucose transporter 1 deficiency syndrome	OMIM:606777

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Hemochromatosis	OMIM:235200
+3	0.7	Alpha-1 antitrypsin deficiency	OMIM:613490
+4	0.6	Hepatitis C	OMIM:609532
+5	0.5	Hemolytic anemia	OMIM:236000
+6	0.4	Neurodegeneration with brain iron accumulation	OMIM:234200

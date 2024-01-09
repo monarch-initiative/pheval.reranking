@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly	OMIM:251200
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Angelman syndrome	OMIM:105830
+4	0.75	Prader-Willi syndrome	OMIM:176270
+5	0.7	Cerebellar hypoplasia	OMIM:607654
+6	0.65	Epileptic encephalopathy	OMIM:613477
+7	0.6	Lennox-Gastaut syndrome	OMIM:616139
+8	0.55	Tuberous sclerosis	OMIM:191100
+9	0.5	Prune belly syndrome	OMIM:100100
+10	0.45	Alternating hemiplegia of childhood	OMIM:614820

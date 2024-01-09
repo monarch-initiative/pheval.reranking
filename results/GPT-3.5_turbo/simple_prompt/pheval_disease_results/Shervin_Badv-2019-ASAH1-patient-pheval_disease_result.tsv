@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Muscular Dystrophy, Duchenne Type	OMIM:310200
+2	0.87	Muscular Dystrophy, Becker Type	OMIM:300376
+3	0.83	Myotonic Dystrophy Type 1	OMIM:160900
+4	0.81	Spinal Muscular Atrophy, Type III	OMIM:253400
+5	0.8	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+6	0.78	Spinal Muscular Atrophy, Type IV	OMIM:271150

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Arterial tortuosity syndrome	OMIM:208050
+5	0.7	Mitral valve prolapse, familial	OMIM:157700
+6	0.65	Osteogenesis imperfecta	OMIM:166200
+7	0.6	Pseudoxanthoma elasticum	OMIM:264800
+8	0.55	Cushing syndrome	OMIM:219080
+9	0.5	Hurler syndrome	OMIM:607014
+10	0.45	Williams syndrome	OMIM:194050

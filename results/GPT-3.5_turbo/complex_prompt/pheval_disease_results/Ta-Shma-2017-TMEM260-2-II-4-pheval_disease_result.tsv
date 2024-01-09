@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tetralogy of Fallot	OMIM:187500
+2	0.8	Tricuspid atresia	OMIM:607854
+3	0.7	Pulmonary atresia	OMIM:265150
+4	0.6	Interrupted aortic arch	OMIM:208250
+5	0.5	Microcephaly	OMIM:251200
+6	0.4	Truncus arteriosus	OMIM:217095
+7	0.3	Persistent left superior vena cava	OMIM:108970
+8	0.2	Aortopulmonary collateral arteries	OMIM:307045
+9	0.1	Generalized edema	OMIM:265000
+10	0.05	Systolic heart murmur	OMIM:613117

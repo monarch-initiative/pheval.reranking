@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cri-du-chat syndrome	OMIM:123450
+2	0.8	Klinefelter syndrome	OMIM:123460
+3	0.7	Smith-Magenis syndrome	OMIM:123470
+4	0.6	Cockayne syndrome	OMIM:123480
+5	0.5	Rubinstein-Taybi syndrome	OMIM:123490
+6	0.4	Noonan syndrome	OMIM:123500
+7	0.3	Prader-Willi syndrome	OMIM:123510
+8	0.2	Angelman syndrome	OMIM:123520
+9	0.1	Cornelia de Lange syndrome	OMIM:123530
+10	0.05	Fragile X syndrome	OMIM:123540

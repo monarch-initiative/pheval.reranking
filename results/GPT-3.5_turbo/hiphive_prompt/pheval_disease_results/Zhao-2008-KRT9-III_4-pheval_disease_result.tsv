@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic hyperkeratosis, localized	OMIM:144050
+2	0.85	Epidermolytic palmoplantar keratoderma	OMIM:165100
+3	0.8	Hyperkeratosis palmoplantaris	OMIM:144200
+4	0.75	Palmoplantar keratoderma, epidermolytic	OMIM:144200
+5	0.7	Carvajal syndrome	OMIM:605676
+6	0.65	Naxos disease	OMIM:601214
+7	0.6	Erythrokeratodermia variabilis et progressiva	OMIM:133200
+8	0.55	Palmoplantar keratoderma and congenital alopecia	OMIM:616099
+9	0.5	Palmoplantar keratoderma, nonepidermolytic	OMIM:172600
+10	0.45	Keratoderma, nonepidermolytic, diffuse	OMIM:600962

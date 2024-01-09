@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crigler-Najjar syndrome, type 1	OMIM:218800
+2	0.8	Dubin-Johnson syndrome	OMIM:237500
+2	0.8	Rotor syndrome	OMIM:237450
+4	0.7	Progressive familial intrahepatic cholestasis	OMIM:601847
+4	0.7	Alpha-1-antitrypsin deficiency	OMIM:613490
+6	0.6	Crigler-Najjar syndrome, type 2	OMIM:606785
+6	0.6	Cystic fibrosis	OMIM:219700
+8	0.5	Alagille syndrome	OMIM:118450
+8	0.5	Wilson disease	OMIM:277900
+10	0.4	Alpha-mannosidosis	OMIM:248500

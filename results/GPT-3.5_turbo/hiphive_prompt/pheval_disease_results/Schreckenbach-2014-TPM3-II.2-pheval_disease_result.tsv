@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Congenital myasthenic syndrome	OMIM:608930
+2	0.95	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:236670
+3	0.92	Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 1	OMIM:613155
+4	0.9	Myasthenic syndrome, congenital, 7, associated with acetylcholine receptor deficiency	OMIM:616040
+5	0.88	Congenital myasthenic syndrome, type 1A	OMIM:601462
+6	0.87	Muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type B, 1	OMIM:613156
+7	0.85	Congenital myasthenic syndrome, type 1F	OMIM:608930
+8	0.84	Muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type A, 7	OMIM:614643
+9	0.8	Cytochrome c oxidase deficiency, renal cell carcinoma, and nephroblastoma	OMIM:614924
+10	0.78	Myasthenic syndrome, congenital, 18, presynaptic	OMIM:617239

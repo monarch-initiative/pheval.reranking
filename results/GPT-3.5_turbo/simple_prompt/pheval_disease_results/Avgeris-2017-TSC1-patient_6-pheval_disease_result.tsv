@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Tuberous sclerosis complex	OMIM:191100
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.6	Tuberous sclerosis complex 2	OMIM:613254
+5	0.5	ADNP syndrome	OMIM:611386
+6	0.4	PTEN hamartoma tumor syndrome	OMIM:158350
+7	0.3	Angelman syndrome	OMIM:105830
+8	0.2	Cowden syndrome	OMIM:158350
+9	0.1	Smith-Magenis syndrome	OMIM:182290

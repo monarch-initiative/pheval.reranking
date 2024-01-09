@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Frontonasal dysplasia 1	OMIM:136760
+4	0.6	Upgrade earlobe	OMIM:618811
+5	0.5	Down syndrome	OMIM:190685
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Fanconi anemia, complementation group G	OMIM:614082
+8	0.2	Pleomorphic adenoma	OMIM:171000
+9	0.1	Subaortic stenosis, familial	OMIM:185500

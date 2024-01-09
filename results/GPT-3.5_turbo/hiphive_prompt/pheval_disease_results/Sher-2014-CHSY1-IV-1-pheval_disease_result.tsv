@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Syndromic microphthalmia type 5	OMIM:610125
+2	0.9	Saethre-Chotzen syndrome	OMIM:101400
+3	0.88	Frontometaphyseal dysplasia	OMIM:305620
+4	0.87	Distal arthrogryposis type 5	OMIM:108145
+5	0.85	Kabuki syndrome	OMIM:147920
+6	0.83	Stiff skin syndrome	OMIM:184900
+7	0.82	FG syndrome 1	OMIM:305450
+8	0.8	Otopalatodigital syndrome type 1	OMIM:311300
+9	0.78	Potocki-Shaffer syndrome	OMIM:601224
+10	0.75	Treacher Collins syndrome	OMIM:154500

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Waardenburg syndrome, type 1	OMIM:193500
+2	0.8333333333333334	Piebaldism	OMIM:172800
+3	0.6666666666666666	Prelingual sensorineural hearing loss	OMIM:220290
+4	0.5	Blue irides, juvenile	OMIM:300162
+5	0.3333333333333333	Oculocutaneous albinism	OMIM:203100
+6	0.16666666666666666	Hypopigmentation of the fundus	OMIM:307580

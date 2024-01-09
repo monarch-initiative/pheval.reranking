@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia type 2	OMIM:183090
+2	0.8	Spinocerebellar ataxia type 3	OMIM:109150
+4	0.7	Spinocerebellar ataxia type 6	OMIM:183086
+5	0.6	Familial spastic paraplegia	OMIM:600363
+6	0.5	Fragile X-associated tremor/ataxia syndrome	OMIM:300623
+7	0.4	Cerebellar ataxia	OMIM:607167
+7	0.4	Hereditary spastic paraplegia	OMIM:604360
+9	0.3	Ataxia with vitamin E deficiency	OMIM:277460
+10	0.2	X-linked adrenoleukodystrophy	OMIM:300100

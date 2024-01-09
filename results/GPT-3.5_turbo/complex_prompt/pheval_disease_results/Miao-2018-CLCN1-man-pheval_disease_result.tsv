@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonic dystrophy	OMIM:160900
+2	0.85	Myotonia congenita	OMIM:160800
+3	0.8	Mitochondrial myopathy	OMIM:590001
+4	0.75	Becker muscular dystrophy	OMIM:300376
+5	0.7	Duchenne muscular dystrophy	OMIM:310200
+6	0.65	Myopathy, cytochrome C oxidase deficiency	OMIM:609060
+7	0.6	Glycogen storage disease type II	OMIM:232300

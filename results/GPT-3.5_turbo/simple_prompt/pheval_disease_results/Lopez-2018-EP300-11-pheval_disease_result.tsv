@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome 1	OMIM:135900
+2	0.89	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.88	Opitz-Kaveggia syndrome	OMIM:305450
+4	0.87	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.86	Smith-Magenis syndrome	OMIM:182290
+6	0.85	PTEN hamartoma tumor syndrome	OMIM:158350
+7	0.84	Autism susceptibility, X-linked 2	OMIM:300495
+8	0.83	Kabuki syndrome 1	OMIM:147920
+9	0.82	Floating-Harbor syndrome	OMIM:136140
+10	0.81	Fragile X syndrome	OMIM:300624

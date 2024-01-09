@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Stickler syndrome, type I	OMIM:108300
+4	0.6	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+5	0.5	Lipodystrophy, congenital generalized, type 1	OMIM:608594
+6	0.4	Osteogenesis imperfecta, type I	OMIM:166200
+7	0.3	Alport syndrome	OMIM:301050
+8	0.2	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+9	0.1	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+10	0.05	Stickler syndrome, type II	OMIM:604841

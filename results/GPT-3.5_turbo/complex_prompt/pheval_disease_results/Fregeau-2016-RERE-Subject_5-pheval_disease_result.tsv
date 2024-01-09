@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peters anomaly	OMIM:604229
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+3	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.75	Cri-du-chat syndrome	OMIM:123450
+5	0.7	Angelman syndrome	OMIM:105830
+6	0.65	Carpenter syndrome	OMIM:201000
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.55	Noonan syndrome	OMIM:163950
+9	0.5	Cornelia de Lange syndrome	OMIM:122470
+10	0.45	Kabuki syndrome	OMIM:147920

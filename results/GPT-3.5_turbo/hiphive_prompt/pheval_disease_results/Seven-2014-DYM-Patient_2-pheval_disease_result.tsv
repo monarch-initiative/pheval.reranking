@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Intellectual disability	OMIM:ID300818
+2	0.91	Rett syndrome	OMIM:ID312750
+3	0.89	Smith-Lemli-Opitz syndrome	OMIM:ID270400
+4	0.87	Lujan-Fryns syndrome	OMIM:ID309520
+5	0.85	Sotos syndrome	OMIM:ID117550
+6	0.83	Shprintzen-Goldberg syndrome	OMIM:ID182212
+7	0.81	Autism spectrum disorder	OMIM:ID209850
+8	0.79	Marfan syndrome	OMIM:ID154700
+9	0.77	Stickler syndrome	OMIM:ID108300
+10	0.75	Beckwith-Wiedemann syndrome	OMIM:ID130650

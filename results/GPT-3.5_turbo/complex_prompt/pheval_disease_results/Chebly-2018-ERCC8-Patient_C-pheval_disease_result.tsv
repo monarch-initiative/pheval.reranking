@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microphthalmia, isolated 5	OMIM:611040
+2	0.8	Fanconi anemia, complementation group B	OMIM:300514
+3	0.7	Cognitive impairment with or without cerebellar ataxia	OMIM:614306
+4	0.6	Meckel syndrome, type 2	OMIM:603194
+5	0.5	Microcephaly, short stature, and limb abnormalities	OMIM:614298
+6	0.4	Microcephaly and chorioretinopathy, autosomal recessive, 1	OMIM:251270
+7	0.3	Microcephaly, primary autosomal recessive	OMIM:251200
+8	0.2	Microcephaly 1, primary, autosomal recessive	OMIM:251200
+9	0.1	Fanconi anemia, complementation group E	OMIM:600901
+10	0.05	Microphthalmia, isolated 6	OMIM:613517

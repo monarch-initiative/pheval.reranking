@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	3-M syndrome	OMIM: 273750
+2	0.8	Coffin-Lowry syndrome	OMIM: 303600
+3	0.7	Prader-Willi syndrome	OMIM: 176270
+4	0.6	Angelman syndrome	OMIM: 105830

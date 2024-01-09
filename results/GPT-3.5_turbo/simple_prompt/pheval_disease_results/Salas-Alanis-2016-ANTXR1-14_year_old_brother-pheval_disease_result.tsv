@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Seckel syndrome 1	OMIM:210600
+2	0.8	Hallermann-Streiff syndrome	OMIM:234100
+3	0.7	Werner syndrome	OMIM:277700
+4	0.6	Oculofaciocardiodental syndrome	OMIM:300166
+5	0.5	Wiedemann-Rautenstrauch syndrome	OMIM:264090

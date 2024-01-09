@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Short rib-polydactyly syndrome, type III	OMIM:263520
+2	0.85	Jeune syndrome	OMIM:208500
+3	0.8	Meckel syndrome, type 1	OMIM:249000
+4	0.75	Autosomal dominant polycystic kidney disease	OMIM:173900
+5	0.72	Orofaciodigital syndrome IV	OMIM:258860
+6	0.7	Abdominal cystic lymphangioma	OMIM:103150
+7	0.68	Nephronophthisis 1	OMIM:256100
+8	0.65	Ellis-Van Creveld syndrome	OMIM:225500
+9	0.6	Renal-hepatic-pancreatic dysplasia	OMIM:263200
+10	0.58	Congenital hepatic fibrosis	OMIM:263600

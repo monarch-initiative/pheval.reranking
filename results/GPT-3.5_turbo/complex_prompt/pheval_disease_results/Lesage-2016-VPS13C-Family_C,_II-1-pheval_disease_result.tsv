@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.8	Spastic paraplegia 4	OMIM:182601
+3	0.7	Huntington disease	OMIM:143100
+3	0.7	Adult neuronal ceroid lipofuscinosis	OMIM:204200
+5	0.6	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+5	0.6	Wilson disease	OMIM:277900
+7	0.5	Ataxia-telangiectasia-like disorder	OMIM:604391
+7	0.5	Stereotypic movement disorder	OMIM:618059
+9	0.4	Tay-Sachs disease	OMIM:272800
+9	0.4	Dystonia 26	OMIM:616156

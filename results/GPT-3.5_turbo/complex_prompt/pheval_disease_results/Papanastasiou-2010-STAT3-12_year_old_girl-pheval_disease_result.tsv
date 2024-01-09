@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Job syndrome	OMIM:607326
+2	0.85	Hyper IgE syndrome	OMIM:147060
+3	0.8	Chronic granulomatous disease	OMIM:306400
+4	0.75	Severe combined immunodeficiency	OMIM:601457
+5	0.7	Atopic dermatitis	OMIM:603165
+6	0.65	Job syndrome-like	OMIM:253280
+7	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.55	Comel-Netherton syndrome	OMIM:256500
+9	0.5	Phosphomannomutase 2 deficiency	OMIM:601785
+10	0.45	Hyper-IgM syndrome	OMIM:308230

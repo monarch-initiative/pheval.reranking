@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spastic Paraplegia 49, Autosomal Dominant	OMIM:618480
+2	0.9	Cerebellar Ataxia, Autosomal Recessive 2	OMIM:610990
+3	0.8	Spastic Paraplegia 46, Autosomal Recessive	OMIM:614409
+4	0.7	Friedreich Ataxia	OMIM:229300

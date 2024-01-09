@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia, autosomal recessive 21	OMIM:616719
+2	0.85	Spinocerebellar ataxia 3	OMIM:109150
+3	0.8	Spinocerebellar ataxia 2	OMIM:183090
+4	0.75	Spastic paraplegia 7	OMIM:607259
+5	0.7	Spinocerebellar ataxia 27	OMIM:609307
+6	0.65	Hereditary sensory neuropathy type 1	OMIM:162400
+7	0.6	Episodic ataxia, type 1	OMIM:160120
+8	0.55	Spinocerebellar ataxia 8	OMIM:608768
+9	0.5	Spastic paraplegia 39	OMIM:612020
+10	0.45	Spastic paraplegia 3A	OMIM:182600

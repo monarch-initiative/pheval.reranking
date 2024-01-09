@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Phenylketonuria	OMIM:261600
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Pitt-Hopkins syndrome	OMIM:610954

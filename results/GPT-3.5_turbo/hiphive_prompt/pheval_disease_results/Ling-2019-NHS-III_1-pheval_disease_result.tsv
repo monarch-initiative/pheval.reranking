@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+2	0.91	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.88	Leukodystrophy, hypomyelinating, 12	OMIM:616683
+4	0.85	Microcephaly, short stature, and limb abnormalities	OMIM:617405
+5	0.82	Waardenburg syndrome, type 3	OMIM:148820
+6	0.79	Shprintzen-Goldberg syndrome	OMIM:182212
+7	0.76	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+8	0.73	Intellectual developmental disorder with behavioral abnormality and craniofacial anomalies	OMIM:618441
+9	0.7	Cockayne syndrome B	OMIM:133540
+10	0.67	Atelosteogenesis type II	OMIM:256050

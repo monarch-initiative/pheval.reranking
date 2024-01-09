@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carnitine palmitoyltransferase II deficiency, infantile	OMIM:600649
+2	0.91	Congenital disorder of glycosylation, type Ih	OMIM:608799
+3	0.89	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+4	0.84	Sialuria	OMIM:269921
+5	0.81	Combined oxidative phosphorylation deficiency 11	OMIM:614922
+6	0.79	Multiple carboxylase deficiency	OMIM:253270
+7	0.73	Neurodegeneration with brain iron accumulation 2A	OMIM:256600
+8	0.71	Congenital disorder of glycosylation, type Ia	OMIM:212065
+9	0.69	Thermoacidic Mucopolysaccharidosis	OMIM:615539
+10	0.68	Phosphoglycerate kinase 1 deficiency	OMIM:311800

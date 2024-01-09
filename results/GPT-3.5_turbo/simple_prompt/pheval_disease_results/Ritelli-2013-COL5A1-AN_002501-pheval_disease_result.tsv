@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Type I	OMIM:130000
+2	0.8	Ehlers-Danlos Syndrome, Type III	OMIM:130020
+3	0.7	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+4	0.6	Ehlers-Danlos Syndrome, Classical Type, 1	OMIM:130010
+5	0.5	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Jaundice	OMIM:124000
+2	0.8	Hemolytic anemia	OMIM:235700
+3	0.7	Splenomegaly	OMIM:182950
+4	0.6	Reticulocytosis	OMIM:114206
+5	0.5	Increased red cell osmotic fragility	OMIM:266800

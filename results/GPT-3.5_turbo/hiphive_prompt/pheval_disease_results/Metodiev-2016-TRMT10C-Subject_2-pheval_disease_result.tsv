@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+2	0.85	Pyruvate dehydrogenase E1-beta deficiency	OMIM:245349
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	MELAS syndrome	OMIM:540000
+5	0.7	Lactic acidosis, primary	OMIM:245348
+6	0.65	Propionic acidemia	OMIM:606054
+7	0.6	Methylmalonic acidemia	OMIM:251000
+8	0.55	Leukodystrophy, hypomyelinating, 11	OMIM:616494
+9	0.5	Combined oxidative phosphorylation deficiency	OMIM:609060
+10	0.45	Infantile hypertrophic cardiomyopathy	OMIM:192600

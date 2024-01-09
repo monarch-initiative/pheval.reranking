@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa	OMIM:268000
+2	0.8	Congenital Stationary Night Blindness	OMIM:310500
+3	0.7	Retinal Dystrophy, Iris Coloboma, and Comedogenic Acne Syndrome	OMIM:614303
+4	0.6	Refsum Disease	OMIM:266500
+5	0.5	Bardet-Biedl Syndrome	OMIM:209900
+6	0.4	Cone-Rod Dystrophy	OMIM:120970
+7	0.3	Leber Congenital Amaurosis	OMIM:204000
+8	0.2	Usher Syndrome Type 1	OMIM:276900
+9	0.1	X-Linked Retinitis Pigmentosa	OMIM:312600
+10	0.05	Rod-Cone Dystrophy	OMIM:179605

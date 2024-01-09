@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.85	Spinocerebellar ataxia 1	OMIM:164400
+3	0.8	Spinocerebellar ataxia 2	OMIM:183090
+4	0.75	Ataxia telangiectasia	OMIM:208900
+5	0.7	Spastic paraplegia 7	OMIM:607259
+6	0.65	Leigh syndrome	OMIM:256000
+7	0.6	Mitochondrial complex I deficiency	OMIM:252010
+8	0.55	Mucolipidosis IV	OMIM:252650
+9	0.5	Marfan syndrome	OMIM:154700
+10	0.45	Kearns-Sayre syndrome	OMIM:530000

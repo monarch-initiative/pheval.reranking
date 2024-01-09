@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Brachydactyly type B2	OMIM:611377
+2	0.9	Lenz-Majewski hyperostotic dwarfism	OMIM:151050
+3	0.8	Wiedemann-Rautenstrauch syndrome	OMIM:264090

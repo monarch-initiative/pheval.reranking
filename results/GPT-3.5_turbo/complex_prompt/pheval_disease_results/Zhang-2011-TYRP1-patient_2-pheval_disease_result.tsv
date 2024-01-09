@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Oculocutaneous albinism	OMIM:203100
+2	0.8	Waardenburg syndrome, type 1	OMIM:193500
+3	0.7	Hermansky-Pudlak syndrome 1	OMIM:203300
+4	0.6	Albinism, oculocutaneous, type IV	OMIM:606574
+5	0.5	Familial juvenile nephronophthisis	OMIM:256100
+6	0.4	Hypomelanosis of Ito	OMIM:300337
+7	0.3	Piebaldism	OMIM:172800
+8	0.2	Tietz syndrome	OMIM:103500
+9	0.1	Albinism, yellow mutant type	OMIM:203290
+10	0.05	Hypomelanosis universalis	OMIM:236550

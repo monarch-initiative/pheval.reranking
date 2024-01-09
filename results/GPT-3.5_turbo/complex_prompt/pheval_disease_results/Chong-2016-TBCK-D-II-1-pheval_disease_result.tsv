@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome 2	OMIM:614753
+2	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.7	Sotos syndrome 1	OMIM:117550
+4	0.6	Coffin-Siris syndrome	OMIM:135900
+5	0.5	Kabuki syndrome 1	OMIM:147920
+6	0.4	Weaver syndrome	OMIM:277590
+7	0.3	Chromosome 2q37 deletion syndrome	OMIM:600430
+8	0.2	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.1	Angelman syndrome	OMIM:105830
+10	0.05	Prader-Willi syndrome	OMIM:176270

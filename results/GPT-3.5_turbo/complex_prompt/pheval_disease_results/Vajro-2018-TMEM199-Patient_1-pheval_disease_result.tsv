@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Nonalcoholic fatty liver disease	OMIM:613282
+3	0.7	Familial hypercholesterolemia	OMIM:143890
+4	0.6	Alpha-1 antitrypsin deficiency	OMIM:613490
+5	0.5	Primary biliary cholangitis	OMIM:109720
+6	0.4	Hemochromatosis	OMIM:235200
+7	0.3	Alpha-mannosidosis	OMIM:248500
+8	0.2	Copper deficiency	OMIM:210300
+9	0.1	Muscular dystrophy	OMIM:310200
+9	0.1	Primary sclerosing cholangitis	OMIM:613806

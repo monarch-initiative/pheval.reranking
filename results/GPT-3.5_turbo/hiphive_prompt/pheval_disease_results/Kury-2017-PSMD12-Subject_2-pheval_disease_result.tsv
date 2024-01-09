@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cerebral visual impairment	OMIM:614140
+1	0.8	Seizures	OMIM:603308
+3	0.7	Autistic behavior	OMIM:209850
+3	0.7	Urinary retention	OMIM:601665
+3	0.7	Abnormality of the kidney	OMIM:137920
+3	0.7	Abnormality of the upper limb	OMIM:186570
+7	0.6	Hearing impairment	OMIM:220290
+7	0.6	Feeding difficulties	OMIM:615877
+7	0.6	Abnormality of the optic disc	OMIM:601225
+7	0.6	Abnormality of the outer ear	OMIM:612078

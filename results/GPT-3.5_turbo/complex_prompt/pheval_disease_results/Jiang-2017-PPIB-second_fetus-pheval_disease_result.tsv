@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta type 2	OMIM:166210
+2	0.8	Achondroplasia	OMIM:100800
+3	0.7	Osteogenesis Imperfecta type 3	OMIM:259420
+4	0.6	Osteogenesis Imperfecta type 1	OMIM:166200
+5	0.5	Campomelic Dysplasia	OMIM:114290
+6	0.4	Diastrophic Dysplasia	OMIM:222600
+7	0.3	Aarskog-Scott Syndrome	OMIM:305400
+8	0.2	Metatropic Dysplasia	OMIM:156530
+9	0.1	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+10	0.05	Dyssegmental Dysplasia, Silverman-Handmaker type	OMIM:224410

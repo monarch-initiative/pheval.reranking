@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.7	Cornelia de Lange syndrome	OMIM:122470
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Aarskog-Scott syndrome	OMIM:305400

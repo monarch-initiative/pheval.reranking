@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge syndrome	OMIM:188400
+2	0.8	22q11.2 deletion syndrome	OMIM:192430
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	Michels syndrome	OMIM:603621
+5	0.5	Kabuki syndrome	OMIM:147920
+6	0.4	Opitz G/BBB syndrome	OMIM:145410
+7	0.3	Jacobsen syndrome	OMIM:147791
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	KAAG1-related disorder	OMIM:617875
+9	0.1	Beckwith-Wiedemann syndrome	OMIM:130650

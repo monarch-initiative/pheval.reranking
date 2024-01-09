@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Stickler syndrome type 2	OMIM:604841
+5	0.5	Ehlers-Danlos syndrome, classic type	OMIM:130090
+6	0.4	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+7	0.3	Kyphoscoliotic Ehlers-Danlos syndrome	OMIM:225400
+8	0.2	Beals syndrome	OMIM:121050
+9	0.1	Larsen syndrome	OMIM:150250

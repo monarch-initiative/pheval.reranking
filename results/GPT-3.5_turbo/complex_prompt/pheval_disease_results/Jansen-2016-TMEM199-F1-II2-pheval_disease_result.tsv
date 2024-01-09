@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nonalcoholic fatty liver disease 1	OMIM:613282
+2	0.8	Familial Hypercholesterolemia	OMIM:143890
+3	0.7	Wilson disease	OMIM:277900
+4	0.6	Congenital disorder of glycosylation, type IIg	OMIM:603147
+5	0.5	Thrombophilia, hereditary, due to congenital antithrombin III deficiency	OMIM:613118
+6	0.4	Hypercholesterolemia, autosomal dominant, type B	OMIM:144010
+7	0.3	Copper transport disorder, ATP7B-related	OMIM:277900
+8	0.2	Familial defective apolipoprotein B-100	OMIM:107730
+9	0.1	Congenital disorder of glycosylation, type Ip	OMIM:607906

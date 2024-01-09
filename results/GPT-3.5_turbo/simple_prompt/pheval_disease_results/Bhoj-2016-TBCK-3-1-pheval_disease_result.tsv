@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Intellectual disability	OMIM:614607
+2	0.85	Autism	OMIM:209850
+3	0.8	Seizures	OMIM:253400
+4	0.7	Scoliosis	OMIM:181800
+5	0.6	Delayed speech and language development	OMIM:608053
+6	0.55	Broad finger	OMIM:161200
+7	0.5	Wide nasal bridge	OMIM:194050
+8	0.4	Epicanthus	OMIM:133700
+9	0.35	Muscular hypotonia	OMIM:205200
+10	0.3	High palate	OMIM:190200
+11	0.25	Deeply set eye	OMIM:180090
+12	0.2	Mild global developmental delay	OMIM:616044
+13	0.1	Bipolar affective disorder	OMIM:125480
+14	0.05	Broad toe	OMIM:600057
+15	0.01	Developmental regression	OMIM:617923

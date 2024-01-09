@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rhabdomyolysis	OMIM:268200
+2	0.95	Dicarboxylic acidemia	OMIM:607575
+3	0.9	Lactic acidosis	OMIM:236750
+4	0.85	Myoglobinuria	OMIM:255110
+5	0.8	Hypoglycemia	OMIM:240800

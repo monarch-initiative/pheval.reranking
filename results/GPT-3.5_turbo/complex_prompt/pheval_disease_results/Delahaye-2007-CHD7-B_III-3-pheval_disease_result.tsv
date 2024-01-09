@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congestive heart failure	OMIM:608582
+2	0.85	Neonatal respiratory distress	OMIM:267450
+3	0.8	Incomplete partition of the cochlea type II	OMIM:220290
+4	0.75	Gastroesophageal reflux	OMIM:109350
+5	0.7	Facial palsy	OMIM:167770
+6	0.65	Generalized hypotonia	OMIM:209900
+7	0.6	Poor suck	OMIM:220100
+8	0.55	Cryptorchidism	OMIM:219050
+9	0.5	Dysphagia	OMIM:125050
+10	0.45	Retinal coloboma	OMIM:120200

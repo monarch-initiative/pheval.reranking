@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Autoimmune polyendocrinopathy syndrome type 1	OMIM:240300
+2	0.92	Dent disease	OMIM:300009
+3	0.91	Dentinogenesis imperfecta type 1	OMIM:125490
+4	0.9	Jansen metaphyseal chondrodysplasia	OMIM:156400
+5	0.88	Familial hypocalciuric hypercalcemia	OMIM:145980
+6	0.87	Hypoparathyroidism, sensorineural deafness, and renal disease	OMIM:146255
+7	0.85	Dent disease 2	OMIM:300555
+8	0.84	Kearns-Sayre syndrome	OMIM:530000
+9	0.82	Pseudopseudohypoparathyroidism	OMIM:177100
+10	0.8	Hypoparathyroidism, X-linked	OMIM:307700

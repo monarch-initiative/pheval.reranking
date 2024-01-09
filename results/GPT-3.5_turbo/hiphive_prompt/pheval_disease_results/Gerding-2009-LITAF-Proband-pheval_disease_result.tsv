@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Friedreich ataxia	OMIM:229300
+2	0.88	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.85	Hereditary sensory and autonomic neuropathy type IA	OMIM:162400
+4	0.82	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.8	Charcot-Marie-Tooth disease type 2A1	OMIM:118210
+6	0.77	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+7	0.75	Silent corticotroph adenoma	OMIM:114182
+8	0.73	Refsum disease	OMIM:266500
+9	0.72	Peripheral neuropathy, sensorineural hearing loss, and distal involvement of lower limbs	OMIM:609020
+10	0.7	Mitochondrial complex I deficiency	OMIM:252010

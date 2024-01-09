@@ -1,0 +1,4 @@
+rank	score	gene_symbol	gene_identifier
+1	0.9	RET	ENSG00000165731
+2	0.85	SDHD	ENSG00000204370
+3	0.8	SDHB	ENSG00000117118

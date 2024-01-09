@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Deafness, autosomal dominant 1	OMIM:124900
+2	0.8	Deafness, autosomal recessive 1	OMIM:220290
+3	0.7	Deafness, autosomal recessive 2	OMIM:600060
+4	0.6	Deafness, autosomal recessive 3	OMIM:600316
+5	0.5	Deafness, autosomal dominant 2	OMIM:600316

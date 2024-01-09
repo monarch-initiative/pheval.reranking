@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia	OMIM:184252
+2	0.85	Microcephaly	OMIM:251200
+3	0.8	Short stature	OMIM:604271
+4	0.75	Severe global developmental delay	OMIM:614284
+5	0.7	Abnormal bone ossification	OMIM:165800
+6	0.65	Global developmental delay	OMIM:618186
+7	0.6	Failure to thrive	OMIM:601680
+8	0.55	Epileptic spasms	OMIM:612164
+9	0.5	Short neck	OMIM:611522
+10	0.45	Abnormal facial shape	OMIM:605156

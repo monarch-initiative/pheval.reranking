@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Keratosis palmoplantaris striata II	OMIM:612908
+2	0.9	Ectodermal dysplasia 4, hair/nail type	OMIM:602032
+3	0.85	Pili torti-deafness syndrome	OMIM:619398
+4	0.8	Sjögren-Larsson syndrome	OMIM:270200
+5	0.75	Ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis	OMIM:607626

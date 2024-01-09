@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.911	Holt-Oram syndrome	OMIM:142900
+2	0.899	VATER association	OMIM:192350
+3	0.885	Townes-Brocks syndrome	OMIM:107480
+4	0.858	Orofacial cleft 11	OMIM:602793
+5	0.855	Alagille syndrome 2	OMIM:610205
+6	0.841	CHARGE syndrome	OMIM:214800
+7	0.836	Fryns syndrome	OMIM:229850
+8	0.831	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.831	Fanconi anemia, complementation group D2	OMIM:227646
+10	0.83	22q11.2 deletion syndrome	OMIM:188400

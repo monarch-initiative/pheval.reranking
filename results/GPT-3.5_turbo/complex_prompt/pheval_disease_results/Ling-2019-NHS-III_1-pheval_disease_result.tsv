@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Crouzon syndrome	OMIM:123500
+3	0.7	Pfeiffer syndrome	OMIM:101600
+4	0.6	Coffin-Lowry syndrome	OMIM:303600
+5	0.5	Williams-Beuren syndrome	OMIM:194050
+6	0.4	Treacher Collins syndrome	OMIM:154500
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400

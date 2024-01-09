@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukoencephalopathy with vanishing white matter	OMIM:603896
+2	0.8	Cerebellar ataxia	OMIM:223200
+3	0.7	Williams-Beuren syndrome	OMIM:194050
+3	0.7	Coxa valga	OMIM:211300
+5	0.6	Coloboma	OMIM:120433
+5	0.6	Fanconi anemia	OMIM:227650
+7	0.5	Juvenile rheumatoid arthritis	OMIM:604302
+8	0.4	Aicardi syndrome	OMIM:304050
+8	0.4	Megaloblastic anemia	OMIM:261100
+10	0.3	Spina bifida	OMIM:182940

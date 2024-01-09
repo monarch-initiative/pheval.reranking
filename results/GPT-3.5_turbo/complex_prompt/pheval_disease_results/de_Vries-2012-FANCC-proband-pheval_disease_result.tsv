@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Fanconi Anemia	OMIM:227650
+3	0.7	Growth Hormone Deficiency	OMIM:139250
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Osteogenesis Imperfecta	OMIM:166200
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Noonan-like syndrome with loose anagen hair	OMIM:607721
+8	0.2	Gordon Holmes syndrome	OMIM:212840
+9	0.1	Myotonic dystrophy	OMIM:160900

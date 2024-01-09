@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Friedreich ataxia	OMIM:229300
+2	0.8	Aplastic anemia	OMIM:609135
+3	0.7	Congenital nystagmus	OMIM:310700
+4	0.6	Cerebellar ataxia	OMIM:213300
+5	0.5	Hereditary ataxia	OMIM:600223
+6	0.4	Ataxia with oculomotor apraxia	OMIM:208920

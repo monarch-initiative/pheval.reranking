@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Stickler syndrome	OMIM:108300
+4	0.75	Loeys-Dietz syndrome	OMIM:609192
+5	0.7	Osteogenesis imperfecta	OMIM:166200
+6	0.65	Ehlers-Danlos syndrome, classic type	OMIM:130000
+7	0.6	Vascular Ehlers-Danlos syndrome	OMIM:130050
+8	0.55	Beals syndrome	OMIM:121050
+9	0.5	Osteoporosis	OMIM:166710
+10	0.45	Lujan-Fryns syndrome	OMIM:309520

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rod-cone dystrophy	OMIM:268000
+2	0.8	Optic atrophy	OMIM:165500
+3	0.7	Retinal thinning	OMIM:613093
+4	0.6	Attenuation of retinal blood vessels	OMIM:613100
+5	0.5	Visual impairment	OMIM:613093
+6	0.4	Delayed speech and language development	OMIM:613096
+7	0.3	Intellectual disability	OMIM:613096
+8	0.2	Polydactyly	OMIM:174400
+9	0.1	Truncal obesity	OMIM:601665
+10	0.05	Retinal pigment epithelial mottling	OMIM:613093

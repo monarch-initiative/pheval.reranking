@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:182601
+2	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Cerebral palsy	OMIM:603513
+4	0.6	Multiple system atrophy	OMIM:146500
+5	0.5	Leigh syndrome	OMIM:256000
+6	0.4	Corticobasal degeneration	OMIM:601523
+7	0.3	Infantile-onset ascending hereditary spastic paralysis	OMIM:607225
+8	0.2	Wilson disease	OMIM:277900
+9	0.1	Alexander disease	OMIM:203450

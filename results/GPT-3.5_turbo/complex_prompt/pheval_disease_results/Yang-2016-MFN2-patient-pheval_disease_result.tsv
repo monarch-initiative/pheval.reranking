@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.8	Peripheral Neuropathy	OMIM:162400
+3	0.7	Leukodystrophy	OMIM:312080
+4	0.6	Spastic Paraplegia	OMIM:182600
+5	0.5	Cerebral Palsy	OMIM:603513
+6	0.4	Hereditary Spastic Paraplegia	OMIM:182600
+7	0.3	Muscular Dystrophy	OMIM:253550
+8	0.2	Motor Neuron Disease	OMIM:105400
+9	0.1	Multiple Sclerosis	OMIM:126200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diamond-Blackfan anemia	OMIM:105650
+2	0.85	Fanconi anemia	OMIM:227650
+3	0.8	Aplastic anemia	OMIM:609135
+4	0.75	Shwachman-Diamond syndrome	OMIM:260400
+5	0.7	Refractory cytopenia of childhood	OMIM:602216
+6	0.65	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+7	0.6	Congenital dyserythropoietic anemia	OMIM:224120
+8	0.55	Schimke immuno-osseous dysplasia	OMIM:242900
+9	0.5	Evans syndrome	OMIM:616398
+10	0.45	Fanconi-like syndrome	OMIM:227650

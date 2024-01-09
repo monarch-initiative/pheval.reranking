@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.85	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.8	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome	OMIM:603387
+4	0.75	Cornelia de Lange syndrome	OMIM:122470
+5	0.7	Cardiofaciocutaneous syndrome	OMIM:115150
+6	0.65	Goldenhar syndrome	OMIM:164210
+7	0.6	Costello syndrome	OMIM:218040
+8	0.55	Kabuki syndrome	OMIM:147920
+9	0.5	Scurvy	OMIM:240400
+10	0.45	DiGeorge syndrome	OMIM:188400

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arthrogryposis multiplex congenita, distal, X-linked	OMIM:300695
+2	0.8	Neu-Laxova syndrome	OMIM:256520
+3	0.7	Stickler syndrome, type 1	OMIM:108300
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Ehlers-Danlos syndrome, classic type	OMIM:130000
+6	0.4	Cornelia de Lange syndrome 3	OMIM:610759
+7	0.3	Mandibulofacial dysostosis, Guion-Almeida type	OMIM:610536
+8	0.2	Trichorhinophalangeal syndrome type III	OMIM:190351
+9	0.1	Martinez-Frias syndrome	OMIM:601346

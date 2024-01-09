@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gitelman syndrome	OMIM:263800
+2	0.8	Bartter syndrome, type 1	OMIM:601678
+3	0.7	Liddle syndrome	OMIM:177200
+4	0.6	Dent disease	OMIM:300009

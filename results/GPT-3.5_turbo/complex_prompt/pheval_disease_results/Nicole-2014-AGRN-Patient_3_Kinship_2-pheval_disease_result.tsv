@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myasthenic Syndromes	OMIM:608930
+2	0.8	Limb-Girdle Muscular Dystrophy	OMIM:253600
+3	0.7	Spinal Muscular Atrophy with Respiratory Distress 1	OMIM:604320
+3	0.7	Nemaline Myopathy 9	OMIM:615348
+5	0.6	Charcot-Marie-Tooth Disease	OMIM:118220
+5	0.6	Congenital Muscular Dystrophy	OMIM:613205
+7	0.5	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+7	0.5	Myotonic Dystrophy Type 1	OMIM:160900
+9	0.4	Central Core Disease	OMIM:117000
+9	0.4	Hereditary Inclusion Body Myopathy	OMIM:600737

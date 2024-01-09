@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypoargininemia	OMIM:207800
+2	0.8	Citrullinuria	OMIM:215700
+3	0.7	Hyperprolinemia	OMIM:239500
+4	0.6	Hyperammonemia	OMIM:237300
+5	0.5	Oroticaciduria	OMIM:258900

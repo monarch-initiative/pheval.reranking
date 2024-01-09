@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Phosphoserine phosphatase deficiency	OMIM:614023
+2	0.95	Argininemia	OMIM:207800
+3	0.93	Citrullinemia type I	OMIM:215700
+4	0.91	Nonketotic hyperglycinemia	OMIM:605899
+5	0.9	2-aminoadipic 2-oxoadipic aciduria	OMIM:204750
+6	0.89	Mills syndrome	OMIM:159100
+7	0.88	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+8	0.87	Glycine encephalopathy, folate-dependent	OMIM:617699
+9	0.85	Neuropathy, hereditary sensory and autonomic, type VII	OMIM:615548
+10	0.84	Glyceraldehyde-3-phosphate dehydrogenase deficiency	OMIM:614105

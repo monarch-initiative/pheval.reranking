@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome	OMIM:118450
+2	0.8	Glycogen storage disease type I	OMIM:232200
+3	0.7	Wilson disease	OMIM:277900
+4	0.6	Niemann-Pick disease type C	OMIM:607625
+5	0.5	Cockayne syndrome	OMIM:216400
+6	0.4	Lysosomal acid lipase deficiency	OMIM:278000
+7	0.3	Congenital disorder of glycosylation type Ia	OMIM:212065
+8	0.2	Propionic acidemia	OMIM:606054
+9	0.1	Maple syrup urine disease	OMIM:248600
+10	0.05	Citrullinemia type I	OMIM:215700

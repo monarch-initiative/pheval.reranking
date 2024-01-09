@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Xeroderma pigmentosum	OMIM:278700
+2	0.88	Cockayne syndrome	OMIM:216400
+3	0.87	Cockayne syndrome type II	OMIM:133540
+4	0.85	Werner syndrome	OMIM:277700
+5	0.84	Rett syndrome	OMIM:312750
+6	0.81	Seckel syndrome	OMIM:210600
+7	0.8	Fanconi anemia	OMIM:227650
+8	0.79	Monilethrix	OMIM:158000
+9	0.78	Craniosynostosis	OMIM:123100
+10	0.75	Coloboma	OMIM:120200

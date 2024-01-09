@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinal Vasculopathy with Cerebral Leukodystrophy	OMIM:192315
+2	0.9	Obesity	OMIM:601665
+3	0.85	Age-Related Macular Degeneration	OMIM:603075
+4	0.8	Strabismus	OMIM:185100
+5	0.75	Learning Disability, Language Impairment, Attention Deficit-Hyperactivity Disorder, Developmental Coordination Disorder, and Mild Dysmorphic Features	OMIM:613203
+6	0.7	Retinitis Pigmentosa	OMIM:268000
+7	0.65	Developmental Delay with Variable Intellectual Impairment and Behavioral Abnormalities	OMIM:618805
+8	0.6	Obesity, Hyperphagia, and Developmental Delay	OMIM:611739
+9	0.55	Retinitis Pigmentosa, Late-Onset	OMIM:605446
+10	0.5	Short Stature, Developmental Delay, and Congenital Heart Defects	OMIM:617044

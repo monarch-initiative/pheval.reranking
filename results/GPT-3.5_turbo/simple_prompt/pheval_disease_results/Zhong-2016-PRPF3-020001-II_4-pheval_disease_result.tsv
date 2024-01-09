@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Retinitis Pigmentosa	OMIM:268000
+2	0.9	Leber Congenital Amaurosis	OMIM:204000
+3	0.8	Retinal Dystrophy	OMIM:603075

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Paget disease of bone	OMIM:602080
+2	0.9	Osteopetrosis, autosomal dominant 1	OMIM:607634
+3	0.85	Osteogenesis imperfecta, type I	OMIM:166200
+4	0.8	Osteogenesis imperfecta, type IV	OMIM:166220
+5	0.75	Alkaptonuria	OMIM:203500
+6	0.7	Osteogenesis imperfecta, type III	OMIM:259420
+7	0.65	Albright hereditary osteodystrophy	OMIM:103580
+8	0.6	Osteopetrosis, autosomal recessive 1	OMIM:259700
+9	0.55	Idiopathic osteoporosis	OMIM:166710
+10	0.5	Cole-Carpenter syndrome	OMIM:112240

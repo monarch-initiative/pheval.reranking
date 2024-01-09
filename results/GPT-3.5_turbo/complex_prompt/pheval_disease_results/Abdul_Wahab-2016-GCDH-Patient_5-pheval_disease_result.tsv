@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Glutaric acidemia type 1	OMIM:231670
+2	0.9	Dystonia	OMIM:128235
+3	0.8	Subdural hemorrhage	OMIM:263130
+4	0.7	Macrocephaly	OMIM:603816
+5	0.6	Cerebral atrophy	OMIM:212540

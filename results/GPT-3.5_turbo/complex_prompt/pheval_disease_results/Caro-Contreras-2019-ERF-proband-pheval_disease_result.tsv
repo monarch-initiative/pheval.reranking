@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Crouzon syndrome	OMIM:123500
+3	0.7	Pierre Robin sequence	OMIM:261800
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Fryns syndrome	OMIM:229850
+6	0.4	Apert syndrome	OMIM:101200
+7	0.3	Cohen syndrome	OMIM:216550
+8	0.2	Hutchinson-Gilford progeria syndrome	OMIM:176670
+9	0.1	Trisomy 13	OMIM:190685
+9	0.1	Schinzel-Giedion syndrome	OMIM:269150

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Paris-Trousseau thrombocytopenia	OMIM:188025
+2	0.91	Bernard-Soulier syndrome	OMIM:231200
+3	0.88	Scott syndrome	OMIM:262890
+4	0.87	Platelet-type bleeding disorder 11	OMIM:614201
+5	0.86	Platelet-type bleeding disorder 19	OMIM:616176
+6	0.85	Gray platelet syndrome	OMIM:139090
+7	0.84	Delta-storage pool disease 2	OMIM:613116
+8	0.81	Platelet-type bleeding disorder 8	OMIM:609821
+9	0.8	Platelet-type bleeding disorder 15	OMIM:615193
+10	0.78	Acquired von Willebrand syndrome	OMIM:613160

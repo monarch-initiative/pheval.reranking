@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh Syndrome	OMIM:256000
+2	0.8	Severe Infantile Carnitine Palmitoyltransferase II Deficiency	OMIM:600649
+3	0.7	Lipoamide Dehydrogenase Deficiency	OMIM:250850
+4	0.6	Medium Chain Acyl-CoA Dehydrogenase Deficiency	OMIM:201450

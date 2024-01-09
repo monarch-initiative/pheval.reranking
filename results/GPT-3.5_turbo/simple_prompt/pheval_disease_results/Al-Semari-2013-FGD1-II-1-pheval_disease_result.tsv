@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Noonan syndrome	OMIM:163950
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Williams syndrome	OMIM:194050
+5	0.5	Pallister-Killian syndrome	OMIM:601803

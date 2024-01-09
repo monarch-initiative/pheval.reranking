@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.917	Macrocephaly-capillary malformation syndrome	OMIM:602501
+2	0.917	Weaver syndrome	OMIM:277590
+4	0.908	Sotos syndrome	OMIM:117550
+5	0.9	Sturge-Weber syndrome	OMIM:185300
+6	0.897	Noonan syndrome-like disorder with loose anagen hair 1	OMIM:607721
+7	0.896	Neurofibromatosis, type 1	OMIM:162200
+8	0.892	Coffin-Siris syndrome	OMIM:135900
+9	0.891	Craniofacial-deafness-hand syndrome	OMIM:122880
+9	0.891	Floating-Harbor syndrome	OMIM:136140

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kabuki syndrome	OMIM:147920
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+4	0.8	Cri-du-chat syndrome	OMIM:123450
+4	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.8	Angelman syndrome	OMIM:105830
+4	0.8	Trisomy 21	OMIM:190685
+8	0.7	Smith-Magenis syndrome	OMIM:182290
+8	0.7	Fragile X syndrome	OMIM:300624
+8	0.7	Williams syndrome	OMIM:194050

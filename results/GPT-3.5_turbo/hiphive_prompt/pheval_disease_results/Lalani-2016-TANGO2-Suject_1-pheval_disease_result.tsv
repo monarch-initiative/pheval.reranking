@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glycogen Storage Disease Type V	OMIM:232600
+2	0.92	Spinal Muscular Atrophy	OMIM:253300
+3	0.91	Myoclonic Epilepsy	OMIM:254800
+4	0.89	Hyperinsulinism	OMIM:256450
+5	0.88	Alkaptonuria	OMIM:203500
+5	0.88	Primary Lateral Sclerosis	OMIM:605622
+7	0.87	Spastic Paraplegia 4, Autosomal Dominant	OMIM:182601
+8	0.85	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+9	0.84	Hypokalemic Periodic Paralysis	OMIM:170400
+10	0.83	Lissencephaly 1	OMIM:607432

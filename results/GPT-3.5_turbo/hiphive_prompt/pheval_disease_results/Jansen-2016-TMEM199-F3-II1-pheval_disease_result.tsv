@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Congenital disorder of glycosylation type Iap	OMIM:614921
+2	0.89	Congenital disorder of glycosylation type Iaj	OMIM:614474
+3	0.87	Congenital disorder of glycosylation type Iad	OMIM:607143
+4	0.85	Congenital disorder of glycosylation type Iaq	OMIM:615042
+5	0.84	Congenital disorder of glycosylation type Iar	OMIM:615598
+6	0.82	Congenital disorder of glycosylation type Iab	OMIM:614576
+7	0.81	Aspartylglucosaminuria	OMIM:208400
+8	0.8	Ichthyosis follicularis-alopecia-photophobia syndrome	OMIM:308205
+9	0.79	Glycoproteinosis (Type II)	OMIM:230800
+10	0.78	Congenital disorder of glycosylation type Iad-2	OMIM:617890

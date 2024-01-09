@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	Aicardi syndrome	OMIM:304050
+4	0.7	Dravet syndrome	OMIM:607208
+6	0.6	Infantile spasms	OMIM:308350
+6	0.6	Lennox-Gastaut syndrome	OMIM:606369
+6	0.6	Aicardi-Goutieres syndrome	OMIM:225750
+6	0.6	Mowat-Wilson syndrome	OMIM:235730
+10	0.5	Ponto cerebellar hypoplasia type 2	OMIM:612389

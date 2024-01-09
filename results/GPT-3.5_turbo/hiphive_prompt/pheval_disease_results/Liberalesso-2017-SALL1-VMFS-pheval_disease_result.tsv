@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Bardet-Biedl syndrome	OMIM:209900
+2	0.96	Cornelia de Lange syndrome	OMIM:122470
+3	0.95	Cerebellar ataxia, mental retardation, and dysequlibrium syndrome	OMIM:614109
+4	0.94	Intellectual disability, autosomal dominant 61	OMIM:617182
+5	0.91	Autism spectrum disorder	OMIM:209850
+6	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.87	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.86	Branchiootorenal syndrome	OMIM:113650
+9	0.82	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+10	0.8	Coffin-Siris syndrome	OMIM:135900

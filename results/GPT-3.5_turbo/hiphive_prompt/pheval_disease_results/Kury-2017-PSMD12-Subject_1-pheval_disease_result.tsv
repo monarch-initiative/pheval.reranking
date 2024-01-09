@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Cor triatriatum	OMIM:614954
+2	0.96	Waardenburg syndrome 4A	OMIM:277580
+3	0.95	Otitis media, susceptibility to, 2	OMIM:612987
+3	0.95	Rieger syndrome	OMIM:601499
+5	0.91	Pallister-Hall syndrome	OMIM:146510
+6	0.89	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.88	Congenital hypothyroidism	OMIM:218701
+7	0.88	Dejerine-Sottas disease	OMIM:145900
+9	0.87	Silver-Russell syndrome	OMIM:180860
+10	0.86	Microphthalmia, isolated 6	OMIM:613517

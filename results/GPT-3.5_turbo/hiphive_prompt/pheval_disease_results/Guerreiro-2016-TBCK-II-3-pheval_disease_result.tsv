@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Angelman syndrome	OMIM:105830
+2	0.93	Prader-Willi syndrome	OMIM:176270
+3	0.92	Rett syndrome	OMIM:312750
+4	0.9	Cornelia de Lange syndrome	OMIM:122470
+5	0.89	Hypotonia-Cystinuria syndrome	OMIM:606407
+6	0.88	Floating-Harbor syndrome	OMIM:136140
+7	0.85	Seizures, benign familial neonatal, 2	OMIM:121200
+8	0.84	22q11.2 deletion syndrome	OMIM:188400
+9	0.83	Fragile X syndrome	OMIM:300624
+10	0.82	Williams-Beuren syndrome	OMIM:194050

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 3A	OMIM:182600
+2	0.8	Spastic paraplegia 7	OMIM:607259
+3	0.7	Hereditary spastic paraplegia	OMIM:182600
+4	0.6	Hereditary spastic paraparesis	OMIM:607259
+5	0.5	Primary lateral sclerosis	OMIM:606353
+6	0.4	Familial spastic paraplegia	OMIM:182600
+7	0.3	Spastic paraplegia 8	OMIM:603563
+8	0.2	Spastic gait	OMIM:Unknown
+9	0.1	Difficulty walking	OMIM:Unknown

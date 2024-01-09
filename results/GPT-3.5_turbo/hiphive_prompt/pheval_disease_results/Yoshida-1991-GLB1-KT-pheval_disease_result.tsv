@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	GM1 gangliosidosis	OMIM:230500
+2	0.92	Mucopolysaccharidosis VII	OMIM:253220
+3	0.89	Gaucher disease	OMIM:230800
+4	0.87	Niemann-Pick disease, type A	OMIM:257200
+5	0.84	Fabry disease	OMIM:301500
+6	0.81	Niemann-Pick disease, type C1	OMIM:257220
+7	0.78	Sandhoff disease	OMIM:268800
+8	0.76	Aspartylglucosaminuria	OMIM:208400
+9	0.74	Multiple sulfatase deficiency	OMIM:272200
+10	0.72	Galactosialidosis	OMIM:256540

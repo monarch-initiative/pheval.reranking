@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Netherton syndrome	OMIM:256500
+2	0.8	Trichohepatoenteric syndrome	OMIM:222470
+3	0.7	Glycogen storage disease type Ia	OMIM:232200
+4	0.6	Congenital disorder of glycosylation type Ia	OMIM:212065
+5	0.5	VACTERL association	OMIM:192350
+6	0.4	Meckel syndrome, type 1	OMIM:249000
+7	0.3	Alpha-mannosidosis	OMIM:248500
+8	0.2	Fucosidosis	OMIM:230000
+9	0.1	Cystinosis, nephropathic type	OMIM:219800

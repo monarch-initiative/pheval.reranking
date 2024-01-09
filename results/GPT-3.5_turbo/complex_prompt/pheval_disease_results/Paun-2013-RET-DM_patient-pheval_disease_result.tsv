@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia, type IIA	OMIM:171400
+2	0.8	Multiple endocrine neoplasia, type IIB	OMIM:162300
+3	0.7	Familial medullary thyroid carcinoma	OMIM:155240
+4	0.6	Pheochromocytoma	OMIM:171300
+5	0.5	Multiple endocrine neoplasia, type I	OMIM:131100
+6	0.4	Isolated familial medullary thyroid carcinoma	OMIM:155240
+7	0.3	Thyroid carcinoma	OMIM:188570
+8	0.2	Familial isolated hyperparathyroidism	OMIM:145000
+9	0.1	Carney complex	OMIM:160980
+9	0.1	MEN2-related cutaneous lichen amyloidosis	OMIM:600958

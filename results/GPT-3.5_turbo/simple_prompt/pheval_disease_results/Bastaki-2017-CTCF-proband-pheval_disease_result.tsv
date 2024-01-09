@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Cornelia de Lange syndrome	OMIM:122470
+2	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.4	Noonan syndrome	OMIM:163950
+5	0.3	Crouzon syndrome	OMIM:123500
+6	0.2	Fryns syndrome	OMIM:229850
+7	0.1	CHARGE syndrome	OMIM:214800

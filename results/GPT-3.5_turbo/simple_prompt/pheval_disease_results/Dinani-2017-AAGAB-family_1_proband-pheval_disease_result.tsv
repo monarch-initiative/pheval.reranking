@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pachyonychia congenita	OMIM:167200
+2	0.8	Ectodermal dysplasia-syndactyly syndrome 1	OMIM:613573
+3	0.7	Ectodermal dysplasia, hypohidrotic, with immune deficiency	OMIM:300291
+4	0.6	Rapp-Hodgkin syndrome	OMIM:129400

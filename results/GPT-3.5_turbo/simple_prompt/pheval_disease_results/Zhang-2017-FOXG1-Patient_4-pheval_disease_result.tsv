@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rett syndrome	OMIM:312750
+2	0.9	Angelman syndrome	OMIM:105830
+3	0.85	West syndrome	OMIM:308350
+4	0.8	Pitt-Hopkins syndrome	OMIM:610954
+5	0.75	Phelan-McDermid syndrome	OMIM:606232
+6	0.7	MECP2 duplication syndrome	OMIM:300260
+7	0.65	CDKL5 deficiency disorder	OMIM:300203

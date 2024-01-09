@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bardet-Biedl syndrome	OMIM:209900
+2	0.89	Leber congenital amaurosis	OMIM:204000
+3	0.86	Senior-Loken syndrome	OMIM:266900
+4	0.85	Usher syndrome	OMIM:276900
+5	0.82	Alstrom syndrome	OMIM:203800
+6	0.8	Cranioectodermal dysplasia	OMIM:218330
+7	0.78	Laurence-Moon syndrome	OMIM:245800
+8	0.76	Oculocutaneous albinism	OMIM:203100
+9	0.75	Warburg micro syndrome	OMIM:600118
+10	0.72	Albinism, oculocutaneous, type II	OMIM:203200

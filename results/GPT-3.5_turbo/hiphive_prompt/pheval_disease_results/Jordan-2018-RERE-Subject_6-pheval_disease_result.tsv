@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Intellectual disability	OMIM:616030
+2	0.9	Global developmental delay	OMIM:618052
+3	0.85	Autism spectrum disorder	OMIM:209850
+4	0.8	Cerebral palsy	OMIM:603513
+5	0.75	Sensorineural hearing loss	OMIM:220290
+6	0.7	Craniofacial abnormalities	OMIM:123000
+7	0.65	Myopia	OMIM:160700
+8	0.6	Strabismus	OMIM:185100
+9	0.55	Familial clinodactyly	OMIM:122470
+10	0.5	Ear malformation	OMIM:128950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Autism	OMIM:209850
+2	0.9	Angelman syndrome	OMIM:105830
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.7	Smith-Magenis syndrome	OMIM:182290
+5	0.6	Rett syndrome	OMIM:312750
+6	0.5	Williams syndrome	OMIM:194050
+7	0.4	Noonan syndrome	OMIM:163950
+8	0.3	Kabuki syndrome	OMIM:147920
+9	0.2	DiGeorge syndrome	OMIM:188400
+10	0.1	Cornelia de Lange syndrome	OMIM:122470

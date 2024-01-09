@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inclusion Body Myopathy 2	OMIM:600737
+2	0.8	Werner Syndrome	OMIM:277700
+3	0.7	Paget Disease of Bone 2	OMIM:602080
+4	0.6	Cockayne Syndrome A	OMIM:216400
+5	0.5	Oculopharyngodistal Myopathy 1	OMIM:618654
+6	0.4	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+7	0.3	Melorheostosis	OMIM:155950
+8	0.2	Glycogen Storage Disease II	OMIM:232300
+9	0.1	Cohen Syndrome	OMIM:216550

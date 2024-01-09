@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.6	Scoliosis	OMIM:181800
+5	0.5	Cleidocranial dysplasia	OMIM:119600
+6	0.4	Neu-Laxova syndrome	OMIM:256520
+7	0.3	Pierpont syndrome	OMIM:602342
+8	0.2	Stickler syndrome	OMIM:108300
+9	0.1	Mucopolysaccharidosis type IV	OMIM:253000
+9	0.1	Chondrodysplasia punctata	OMIM:302950

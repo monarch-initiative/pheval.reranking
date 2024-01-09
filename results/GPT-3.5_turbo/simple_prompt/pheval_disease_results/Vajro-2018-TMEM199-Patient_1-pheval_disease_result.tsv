@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Wilson disease	OMIM:277900
+2	0.9	Nonalcoholic fatty liver disease	OMIM:613282
+3	0.8	Familial hypercholesterolemia	OMIM:143890
+4	0.7	Alkaline phosphatase, low serum level of, due to intestinal malabsorption	OMIM:241500
+5	0.6	Muscular dystrophy, Duchenne type	OMIM:310200
+6	0.5	Congenital hepatic fibrosis	OMIM:263600

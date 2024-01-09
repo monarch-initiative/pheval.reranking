@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Alport syndrome	OMIM:301050
+4	0.6	Ehlers-Danlos syndrome	OMIM:130000
+5	0.5	Osteogenesis imperfecta	OMIM:166200
+6	0.4	Short rib-polydactyly syndrome	OMIM:263520
+7	0.3	Primary ciliary dyskinesia	OMIM:244400
+8	0.2	Noonan syndrome	OMIM:163950
+9	0.1	Kniest dysplasia	OMIM:156550
+9	0.1	Schwartz-Jampel syndrome	OMIM:255800

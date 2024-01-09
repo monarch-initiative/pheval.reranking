@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Meckel syndrome	OMIM:249000
+3	0.7	Dandy-Walker malformation	OMIM:220200
+3	0.7	Aicardi syndrome	OMIM:304050
+5	0.6	Walker-Warburg syndrome	OMIM:236670
+5	0.6	Periventricular leukomalacia	OMIM:605,813
+7	0.5	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+7	0.5	Leigh syndrome	OMIM:256,000
+7	0.5	Hallermann-Streiff syndrome	OMIM:234100
+10	0.4	Peroxisomal biogenesis disorder	OMIM:1704,000

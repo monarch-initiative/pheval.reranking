@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130050
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Williams syndrome	OMIM:194050
+5	0.7	Turner syndrome	OMIM:313850
+5	0.7	Hyperimmunoglobulin E syndrome	OMIM:147060
+7	0.65	Stickler syndrome	OMIM:108300
+8	0.6	Lujan-Fryns syndrome	OMIM:309520
+8	0.6	Alport syndrome	OMIM:301050
+10	0.55	Cardiofaciocutaneous syndrome	OMIM:115150

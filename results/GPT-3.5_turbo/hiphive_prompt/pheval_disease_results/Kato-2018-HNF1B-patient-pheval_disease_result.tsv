@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Maturity-Onset Diabetes of the Young	OMIM:600496
+2	0.93	Diabetes Mellitus, Noninsulin-Dependent	OMIM:125853
+3	0.89	Fanconi Anemia, Complementation Group A	OMIM:227650
+4	0.87	Alagille Syndrome	OMIM:118450
+5	0.85	Bardet-Biedl Syndrome 11	OMIM:615988
+6	0.82	Cystic Kidney Disease	OMIM:123150
+7	0.81	Wolfram Syndrome 1	OMIM:222300
+8	0.79	Renal Cysts and Diabetes Syndrome	OMIM:137920
+9	0.78	Wolfram-like Syndrome, Autosomal Dominant	OMIM:614296
+10	0.74	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065

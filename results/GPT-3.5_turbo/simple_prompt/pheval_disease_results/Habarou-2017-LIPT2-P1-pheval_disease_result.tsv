@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation type Im	OMIM:607143
+2	0.8	Hypereplexia, familial	OMIM:149400
+3	0.7	3-methylglutaconic aciduria, type I	OMIM:250950
+4	0.6	Sjogren-Larsson syndrome	OMIM:270200
+5	0.5	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170

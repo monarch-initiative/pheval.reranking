@@ -1,0 +1,15 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lop ear	OMIM:130070
+1	0.9	Short stature	OMIM:604271
+3	0.8	Clinodactyly of the 5th finger	OMIM:223600
+3	0.8	Pulmonic stenosis	OMIM:265550
+3	0.8	Moderate myopia	OMIM:160700
+6	0.7	Retinal dystrophy	OMIM:268000
+6	0.7	Abnormality of radial ray	OMIM:179300
+6	0.7	Toe syndactyly	OMIM:186200
+9	0.6	Septate vagina	OMIM:600749
+9	0.6	Bicuspid aortic valve	OMIM:109730
+9	0.6	Telecanthus	OMIM:115300
+12	0.5	Sagittal craniosynostosis	OMIM:174800
+12	0.5	Anal atresia	OMIM:301500
+14	0.4	Bicornuate uterus	OMIM:110650

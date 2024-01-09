@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Junctional Epidermolysis Bullosa	OMIM:226700
+2	0.8	Epidermolysis Bullosa Simplex	OMIM:131950
+3	0.7	Toxic Epidermal Necrolysis	OMIM:608579
+4	0.6	Pemphigus Vulgaris	OMIM:169610
+5	0.5	Staphylococcal Scalded Skin Syndrome	OMIM:604536

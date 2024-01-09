@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Leigh syndrome	OMIM:256000
+2	0.95	Epilepsy	OMIM:613001
+3	0.93	Alzheimer disease	OMIM:104300
+4	0.89	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.88	Prader-Willi syndrome	OMIM:176270
+6	0.87	Mucolipidosis II alpha/beta	OMIM:252500
+7	0.86	Polyglucosan body myopathy 1	OMIM:615895
+8	0.85	Spastic paraplegia 7	OMIM:607259
+9	0.83	Bardet-Biedl syndrome 13	OMIM:615987
+10	0.82	Hyperekplexia 1	OMIM:149400

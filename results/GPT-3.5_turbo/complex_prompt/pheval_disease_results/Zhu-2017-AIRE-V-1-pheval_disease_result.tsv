@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal recessive hypoparathyroidism	OMIM:146200
+2	0.8	Hypoparathyroidism, X-linked recessive	OMIM:307700
+3	0.7	Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy	OMIM:240300
+4	0.6	Autoimmune polyglandular syndrome type 1	OMIM:240300
+5	0.5	Adrenocorticotropic hormone deficiency	OMIM:201400
+6	0.4	Familial Cushing syndrome	OMIM:219080
+6	0.4	46,XY disorder of sex development	OMIM:400044
+8	0.3	Hypocalcemic vitamin D-dependent rickets	OMIM:600081
+9	0.2	Hematuria, benign familial	OMIM:141200
+10	0.1	Cataract, autosomal recessive congenital 1	OMIM:601286

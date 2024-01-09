@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Jaundice	OMIM:0000952
+2	0.85	Hypergalactosemia	OMIM:230400
+3	0.8	Delayed speech and language development	OMIM:606369
+4	0.75	Feeding difficulties	OMIM:614939
+5	0.7	Generalized tonic-clonic seizures	OMIM:613464
+6	0.65	Vomiting	OMIM:186700
+7	0.6	Generalized hypotonia	OMIM:209900

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	MEN 2A	OMIM:171400
+2	0.8	MEN 2B	OMIM:162300
+3	0.7	Familial Medullary Thyroid Carcinoma	OMIM:155240

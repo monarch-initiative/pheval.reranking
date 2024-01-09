@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.9	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.85	Alagille Syndrome 1	OMIM:118450
+4	0.8	Classic Homocystinuria	OMIM:236200
+5	0.75	Familial Hypercholesterolemia	OMIM:143890
+6	0.7	Primary Hyperoxaluria Type 1	OMIM:259900
+7	0.65	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+8	0.6	Chediak-Higashi Syndrome 1	OMIM:214500
+9	0.55	Tyrosinemia Type 1	OMIM:276700
+10	0.5	Familial Hypertriglyceridemia	OMIM:145750

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Achondroplasia	OMIM:100800
+2	0.9	Noonan syndrome	OMIM:163950
+3	0.8	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.7	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+5	0.6	Pseudoxanthoma elasticum	OMIM:264800

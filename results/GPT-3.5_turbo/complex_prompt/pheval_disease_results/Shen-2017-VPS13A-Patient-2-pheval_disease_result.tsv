@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Huntington Disease	OMIM:143100
+2	0.85	Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	OMIM:125310
+3	0.8	X-linked McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+4	0.75	Wilson Disease	OMIM:277900
+5	0.7	Hypoglycemia	OMIM:240800
+6	0.65	Friedreich Ataxia	OMIM:229300
+7	0.6	Spinocerebellar Ataxia Type 17	OMIM:607136
+8	0.55	Neuroacanthocytosis	OMIM:200150
+9	0.5	Globoid Cell Leukodystrophy	OMIM:245200
+10	0.45	Huntington Disease-like Syndrome Type 2	OMIM:606438

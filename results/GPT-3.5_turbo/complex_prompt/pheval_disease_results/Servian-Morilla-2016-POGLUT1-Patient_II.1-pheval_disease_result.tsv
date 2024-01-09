@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.85	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.8	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.75	Emery-Dreifuss muscular dystrophy	OMIM:310300
+5	0.7	Spinal muscular atrophy	OMIM:253300
+6	0.65	Congenital muscular dystrophy	OMIM:607855
+7	0.6	Bethlem myopathy	OMIM:158810
+8	0.55	Limb-girdle muscular dystrophy with beta-sarcoglycan deficiency	OMIM:603148
+9	0.5	Fascioscapulohumeral muscular dystrophy 2	OMIM:158901
+10	0.45	Oculopharyngeal muscular dystrophy	OMIM:164300

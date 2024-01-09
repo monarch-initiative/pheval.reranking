@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mental retardation, autosomal dominant 5	OMIM:611609
+2	0.92	Microcephaly 12, primary, autosomal recessive	OMIM:616080
+3	0.91	Coffin-Lowry syndrome	OMIM:303600
+4	0.9	Cowden syndrome 1	OMIM:158350
+5	0.88	Intellectual developmental disorder with cardiac arrhythmia	OMIM:617173
+6	0.87	Coffin-Siris syndrome	OMIM:135900
+7	0.85	Cerebrooculofacioskeletal syndrome 1	OMIM:214150
+8	0.84	Distal arthrogryposis type 9	OMIM:617258
+9	0.83	Pontocerebellar hypoplasia type 2C	OMIM:612390
+10	0.82	Kniest dysplasia	OMIM:156550

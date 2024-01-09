@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:192500
+2	0.85	Atrioventricular Block	OMIM:113900
+3	0.8	Hypertrophic cardiomyopathy	OMIM:192600
+4	0.75	Brugada syndrome	OMIM:601144
+5	0.7	Short QT syndrome	OMIM:609620
+6	0.65	Dilated cardiomyopathy	OMIM:115200
+7	0.6	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604400
+8	0.55	Familial sick sinus syndrome	OMIM:163800
+9	0.5	Jervell and Lange-Nielsen syndrome	OMIM:220400
+10	0.45	Andersen-Tawil syndrome	OMIM:170390

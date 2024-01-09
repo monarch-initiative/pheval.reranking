@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy	OMIM:253300
+2	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.8	Optic atrophy	OMIM:165500
+4	0.75	Cerebral palsy	OMIM:603513
+5	0.7	Myasthenia gravis	OMIM:254200
+6	0.65	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.6	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+8	0.55	Congenital muscular dystrophy	OMIM:607155
+9	0.5	Ataxia telangiectasia	OMIM:208900
+10	0.45	Glutaric acidemia type 1	OMIM:231670

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neutropenia	OMIM:162800
+2	0.85	Omenn syndrome	OMIM:603554
+3	0.8	Severe combined immunodeficiency	OMIM:202500
+4	0.7	Leukocyte adhesion deficiency	OMIM:116920
+4	0.7	Neutrophil immunodeficiency syndrome	OMIM:608203
+6	0.65	Chronic granulomatous disease	OMIM:306400
+7	0.6	Myeloperoxidase deficiency	OMIM:254600
+8	0.55	Hyper-IgM syndrome	OMIM:308230
+8	0.55	Leukocyte adhesion deficiency type II	OMIM:266265
+10	0.5	Leukocyte adhesion deficiency type III	OMIM:612840

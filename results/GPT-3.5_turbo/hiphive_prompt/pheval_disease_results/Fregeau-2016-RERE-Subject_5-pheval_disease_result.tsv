@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE syndrome	OMIM:214800
+2	0.92	Cockayne syndrome	OMIM:216400
+3	0.91	Branchiooculofacial syndrome	OMIM:113620
+4	0.9	Wiedemann-Steiner syndrome	OMIM:605130
+5	0.89	FG syndrome	OMIM:305450
+6	0.87	Mowat-Wilson syndrome	OMIM:235730
+7	0.86	Bardet-Biedl syndrome	OMIM:209900
+8	0.85	Van den Ende-Gupta syndrome	OMIM:600920
+9	0.83	Arthrogryposis, renal dysfunction, and cholestasis syndrome	OMIM:208085
+10	0.82	Opitz G/BBB syndrome	OMIM:145410

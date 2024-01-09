@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Mucopolysaccharidosis Type IV	OMIM:253000
+3	0.7	Marshall Syndrome	OMIM:154780

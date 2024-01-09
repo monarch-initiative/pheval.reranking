@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Lowry syndrome	OMIM:303600
+2	0.94	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.92	Noonan syndrome	OMIM:163950
+4	0.89	Townes-Brocks syndrome	OMIM:107480
+5	0.88	Cornelia de Lange syndrome	OMIM:122470
+6	0.87	Oculocutaneous albinism	OMIM:203100
+7	0.86	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.85	Rett syndrome	OMIM:312750
+9	0.83	Clinical characteristics of autism spectrum disorder	OMIM:209850
+10	0.81	Pili torti-deafness syndrome	OMIM:304400

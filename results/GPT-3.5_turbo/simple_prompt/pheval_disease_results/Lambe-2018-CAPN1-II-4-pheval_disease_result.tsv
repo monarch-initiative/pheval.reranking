@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spastic paraplegia 7	OMIM:607259
+3	0.7	Hereditary spastic paraplegia	OMIM:604360
+4	0.6	Cerebral palsy	OMIM:603513
+5	0.5	Multiple system atrophy	OMIM:146500

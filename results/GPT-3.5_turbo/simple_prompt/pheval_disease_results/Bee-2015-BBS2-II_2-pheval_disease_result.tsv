@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Renal insufficiency	OMIM:191800
+2	0.8	Diabetes mellitus	OMIM:125853
+3	0.7	Obesity	OMIM:601665
+4	0.6	Rod-cone dystrophy	OMIM:268000
+5	0.5	Postaxial polydactyly	OMIM:174200
+5	0.5	Postaxial hand polydactyly	OMIM:174200
+7	0.4	Proteinuria	OMIM:613673
+8	0.3	Dental crowding	OMIM:304800
+9	0.2	Specific learning disability	OMIM:604887

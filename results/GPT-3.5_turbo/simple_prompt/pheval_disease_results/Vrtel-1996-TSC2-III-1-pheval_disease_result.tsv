@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypomelanotic macule	OMIM:605002
+2	0.9	Rhabdomyoma	OMIM:132600
+3	0.8	Dental enamel pits	OMIM:174300
+4	0.7	Gingival fibromatosis	OMIM:135300

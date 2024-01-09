@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, distal, autosomal recessive, 1	OMIM:604320
+2	0.8	Congenital myasthenic syndrome	OMIM:614198
+3	0.7	Hereditary sensory and autonomic neuropathy type 4	OMIM:613115
+4	0.6	Charcot-Marie-Tooth disease, axonal, with vocal cord paresis, autosomal dominant	OMIM:607706
+5	0.5	Williams syndrome	OMIM:194050

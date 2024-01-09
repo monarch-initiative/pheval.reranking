@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spastic paraplegia 7	OMIM:602783
+2	0.89	Spastic paraplegia 11	OMIM:604360
+3	0.87	Hereditary spastic paraplegia	OMIM:182600
+4	0.86	Spastic paraplegia 21	OMIM:248900
+5	0.83	Amyotrophic lateral sclerosis 1	OMIM:105400
+6	0.82	Spastic paraplegia 3A	OMIM:182600
+7	0.81	Spastic paraplegia 4	OMIM:182601
+8	0.8	Angelman syndrome	OMIM:105830
+9	0.78	Leigh syndrome, French-Canadian type	OMIM:220111
+10	0.77	Autosomal dominant spastic paraplegia type 4	OMIM:182601

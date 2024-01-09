@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Pelizaeus-Merzbacher-like disease	OMIM:300491
+2	0.94	Hypomyelinating leukodystrophy 2	OMIM:616140
+3	0.91	Charcot-Marie-Tooth Disease, Type 4C	OMIM:601596
+4	0.89	Leukodystrophy, Hypomyelinating, 11	OMIM:616494
+5	0.87	Autosomal recessive spastic ataxia with leukoencephalopathy	OMIM:270600
+6	0.85	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.82	Friedreich ataxia	OMIM:229300
+8	0.79	Leukodystrophy, Hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism	OMIM:614381
+9	0.77	Spastic Ataxia 2, Autosomal Recessive	OMIM:611302
+10	0.74	Sjogren-Larsson syndrome	OMIM:270200

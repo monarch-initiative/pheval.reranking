@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary congenital glaucoma	OMIM:231300
+2	0.8	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+3	0.7	Peters anomaly	OMIM:604229
+4	0.6	Ectopia lentis	OMIM:129600
+5	0.5	Congenital glaucoma	OMIM:231300
+6	0.4	Fuchs' heterochromic iridocyclitis	OMIM:613767
+7	0.3	Accommodative esotropia	OMIM:603827
+8	0.2	Microspherophakia and/or megalocornea	OMIM:251750
+9	0.1	Goniodysgenesis	OMIM:231300
+9	0.1	Retinal vasculopathy with cerebral leukodystrophy	OMIM:192315

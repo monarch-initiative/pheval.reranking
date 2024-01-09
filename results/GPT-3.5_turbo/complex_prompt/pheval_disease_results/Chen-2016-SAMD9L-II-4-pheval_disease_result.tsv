@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.85	Idiopathic aplastic anemia	OMIM:609135
+3	0.8	Hereditary ataxia	
+4	0.75	Spinocerebellar ataxia	
+5	0.7	Congenital dyserythropoietic anemia	OMIM:224120
+6	0.6	Cerebellar ataxia	
+6	0.6	Hereditary sideroblastic anemia	OMIM:300751
+8	0.55	Acquired pure red cell aplasia	
+9	0.5	Spastic ataxia	
+9	0.5	Oculomotor apraxia	OMIM:258300

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2A	OMIM:609260
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Spinocerebellar ataxia, autosomal recessive 2	OMIM:213200
+4	0.6	Familial amyloid polyneuropathy	OMIM:105210
+5	0.5	Hereditary sensory and autonomic neuropathy type I	OMIM:162400

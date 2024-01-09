@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM:225410
+2	0.8	Weaver syndrome	OMIM:277590
+3	0.7	Bohring-Opitz syndrome	OMIM:605039
+4	0.6	CHARGE syndrome	OMIM:214800
+5	0.5	1q21.1 subtelomeric deletion syndrome	OMIM:612474
+6	0.4	Autosomal dominant non-syndromic intellectual disability	OMIM:615005
+7	0.3	Otofaciocervical syndrome 2	OMIM:615560
+8	0.2	Intellectual developmental disorder, X-linked 2	OMIM:300215
+9	0.1	Partial agenesis of the corpus callosum	OMIM:304100
+10	0.05	Epidermolysis bullosa simplex	OMIM:131900

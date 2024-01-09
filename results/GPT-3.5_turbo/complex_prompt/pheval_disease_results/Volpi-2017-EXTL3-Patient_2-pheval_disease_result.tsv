@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+2	0.85	Fryns syndrome	OMIM:229850
+3	0.8	Joubert syndrome	OMIM:213300
+4	0.75	Townes-Brocks syndrome	OMIM:107480
+5	0.7	Goldenhar syndrome	OMIM:164210
+6	0.65	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.6	Treacher Collins syndrome	OMIM:154500
+8	0.55	CHARGE syndrome	OMIM:214800
+9	0.5	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+10	0.45	Pierre Robin sequence with pectus excavatum and rib and scapular anomalies	OMIM:618482

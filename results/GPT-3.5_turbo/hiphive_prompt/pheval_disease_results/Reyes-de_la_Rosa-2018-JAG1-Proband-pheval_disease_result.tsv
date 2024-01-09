@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sjogren-Larsson syndrome	OMIM:270200
+2	0.85	Familial hypercholesterolemia	OMIM:143890
+3	0.8	Kaufman oculocerebrofacial syndrome	OMIM:244450
+4	0.75	Alagille syndrome	OMIM:118450
+5	0.7	Noonan syndrome	OMIM:163950
+6	0.65	Congenital disorder of glycosylation type Ia	OMIM:212065
+7	0.6	Oculoauriculofrontonasal syndrome	OMIM:604145
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	Progressive familial intrahepatic cholestasis	OMIM:601847
+10	0.45	Wiedemann-Rautenstrauch syndrome	OMIM:264090

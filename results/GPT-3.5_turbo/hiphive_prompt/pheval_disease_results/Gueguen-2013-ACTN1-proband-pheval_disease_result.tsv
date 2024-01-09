@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	MYH9-related disorders	OMIM:153670
+2	0.92	Bernard-Soulier syndrome	OMIM:231200
+3	0.89	Essential thrombocythemia	OMIM:187950
+4	0.87	Familial platelet disorder with associated myeloid malignancy	OMIM:601399
+5	0.86	Gray platelet syndrome	OMIM:139090
+6	0.85	Tuberculosis, susceptibility to	OMIM:607948
+7	0.84	MYH9-related disorders	OMIM:606131
+7	0.84	MYH9-related disorders	OMIM:153640
+9	0.83	Giant platelet disorder	OMIM:111250
+10	0.81	May-Hegglin anomaly	OMIM:155100

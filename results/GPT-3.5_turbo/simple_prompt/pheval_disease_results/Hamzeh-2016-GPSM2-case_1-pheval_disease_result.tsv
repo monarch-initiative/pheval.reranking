@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+2	0.8	CHARGE syndrome	OMIM:214800
+3	0.7	16p11.2 deletion syndrome	OMIM:611913
+4	0.6	Waardenburg syndrome, type 2D	OMIM:608890
+5	0.5	Developmental delay with hearing loss	OMIM:616976
+6	0.4	Marfan syndrome	OMIM:154700
+7	0.3	Cohen syndrome	OMIM:216550
+8	0.2	CHN1-related disorder	OMIM:255800
+9	0.1	Speech and language delay due to NDE1 deficiency	OMIM:617644
+9	0.1	Frontonasal dysplasia 1	OMIM:136760

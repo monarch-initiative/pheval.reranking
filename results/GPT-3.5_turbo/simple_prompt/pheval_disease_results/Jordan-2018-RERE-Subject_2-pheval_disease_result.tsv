@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.92	Cri-du-chat syndrome	OMIM:123450
+3	0.9	Congenital central hypoventilation syndrome	OMIM:209880
+4	0.88	Costello syndrome	OMIM:218040
+5	0.86	Beckwith-Wiedemann syndrome	OMIM:130650

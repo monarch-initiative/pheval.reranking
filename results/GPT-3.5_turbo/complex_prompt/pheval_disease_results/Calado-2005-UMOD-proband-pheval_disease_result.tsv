@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic kidney disease, autosomal dominant	OMIM:174800
+2	0.8	Polycystic kidney disease 1 with or without polycystic liver disease	OMIM:173900
+3	0.7	Gout, familial idiopathic	OMIM:138900
+4	0.6	Hyperuricemia, juvenile, 1	OMIM:612076
+5	0.5	Nephronophthisis 1	OMIM:256100
+6	0.4	Autosomal dominant tubulointerstitial kidney disease	OMIM:174000
+7	0.3	Autosomal dominant polycystic kidney disease	OMIM:173900
+8	0.2	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+9	0.1	Medullary cystic kidney disease	OMIM:174000

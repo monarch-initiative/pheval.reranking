@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Juvenile polyposis syndrome	OMIM:174900
+2	0.85	Macrocephaly-capillary malformation syndrome	OMIM:613089
+3	0.8	Macrocephaly-intellectual disability-autism syndrome	OMIM:605309
+4	0.75	Cowden syndrome	OMIM:158350
+5	0.7	Familial adenomatous polyposis	OMIM:175100
+6	0.65	Nephronophthisis	OMIM:256100
+7	0.6	Intellectual disability	OMIM:251450
+8	0.55	Primary autosomal recessive microcephaly	OMIM:251200
+9	0.5	Gardner syndrome	OMIM:175100
+10	0.45	Porencephaly	OMIM:175780

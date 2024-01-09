@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.91	Waardenburg syndrome type 2E	OMIM:611584
+3	0.88	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.85	Alagille syndrome 2	OMIM:610205
+5	0.83	Silver-Russell syndrome 1	OMIM:180860
+6	0.8	CHARGE syndrome	OMIM:214800
+7	0.79	Familial hypertrophic cardiomyopathy	OMIM:192600
+8	0.77	Kabuki syndrome 1	OMIM:147920
+9	0.75	Fraser syndrome 1	OMIM:219000
+10	0.72	Oculocutaneous albinism type 2	OMIM:203200

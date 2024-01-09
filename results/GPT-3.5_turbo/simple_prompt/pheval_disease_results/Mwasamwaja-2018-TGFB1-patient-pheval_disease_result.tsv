@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ossification of the posterior longitudinal ligament	OMIM:602475
+2	0.8	Idiopathic hyperphosphatasia	OMIM:146300
+3	0.7	Wolcott-Rallison syndrome	OMIM:226980
+4	0.6	Myopathy, centronuclear	OMIM:160150
+5	0.5	Hypogonadotropic hypogonadism 8 with or without anosmia	OMIM:614837
+6	0.4	Fungal infection	OMIM:614433
+7	0.3	Mandibuloacral dysplasia with type A lipodystrophy	OMIM:248370
+8	0.2	Cardiomegaly	OMIM:115200
+9	0.1	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 11	OMIM:615181
+10	0.05	Raymond syndrome	OMIM:167990

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.8	Optic atrophy	OMIM:165500
+3	0.7	Leber congenital amaurosis	OMIM:204000
+4	0.6	Bardet-Biedl syndrome	OMIM:209900
+5	0.5	Usher syndrome type 2	OMIM:276901
+6	0.4	Friedreich ataxia	OMIM:229300
+7	0.3	Alström syndrome	OMIM:203800
+8	0.2	Refsum disease	OMIM:266500
+9	0.1	Cone-rod dystrophy	OMIM:120970
+9	0.1	Senior-Løken syndrome	OMIM:266900

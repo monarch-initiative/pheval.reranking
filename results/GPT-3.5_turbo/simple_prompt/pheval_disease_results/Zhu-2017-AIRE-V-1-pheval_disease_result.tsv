@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypocalcemia	OMIM: 302700
+2	0.9	Hypoparathyroidism	OMIM: 146200
+3	0.8	Malabsorption	OMIM: 209850
+4	0.7	Tetany	OMIM: 187790
+5	0.6	Primary adrenal insufficiency	OMIM: 240200
+6	0.5	Chronic mucocutaneous candidiasis	OMIM: 114580
+7	0.4	Cataract	OMIM: 116800
+8	0.3	Vertigo	OMIM: 604499
+9	0.2	Hematuria	OMIM: 614199
+10	0.1	Hypoplasia of dental enamel	OMIM: 217080

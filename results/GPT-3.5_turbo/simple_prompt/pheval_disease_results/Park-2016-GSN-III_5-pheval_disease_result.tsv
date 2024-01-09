@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Danon Disease	OMIM:300257
+2	0.8	Familial Dysautonomia	OMIM:223900
+3	0.7	Lambert-Eaton Myasthenic Syndrome	OMIM: Lambert-Eaton Myasthenic Syndrome
+4	0.6	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+5	0.5	Familial Dysautonomia Onset at Birth	OMIM:223930
+6	0.4	Familial Dysautonomia Onset in Childhood	OMIM:223940

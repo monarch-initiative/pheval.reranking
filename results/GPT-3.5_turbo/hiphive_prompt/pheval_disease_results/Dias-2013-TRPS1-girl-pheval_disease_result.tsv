@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fragile X Syndrome	OMIM:300624
+2	0.85	Attention Deficit Hyperactivity Disorder	OMIM:143465
+3	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.75	Coffin-Lowry Syndrome	OMIM:303600
+5	0.7	Chromosome 2q37 Deletion Syndrome	OMIM:600430
+6	0.65	Smith-Magenis Syndrome	OMIM:182290
+7	0.6	Seckel Syndrome 1	OMIM:210600
+8	0.55	Phelan-McDermid Syndrome	OMIM:606232
+9	0.5	Pitt-Hopkins Syndrome	OMIM:610954
+10	0.45	Angelman Syndrome	OMIM:105830

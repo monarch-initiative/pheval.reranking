@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Branchiootorenal syndrome	OMIM:113650
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	Retinitis pigmentosa-deafness syndrome	OMIM:268000
+4	0.7	Neurofibromatosis type 1	OMIM:162200
+6	0.6	Caudal regression syndrome	OMIM:600145
+6	0.6	Alport syndrome	OMIM:301050
+6	0.6	VACTERL association	OMIM:192350
+9	0.5	CHARGE-like syndrome	OMIM:606708
+9	0.5	NOG-related symphalangism spectrum disorder	OMIM:185800

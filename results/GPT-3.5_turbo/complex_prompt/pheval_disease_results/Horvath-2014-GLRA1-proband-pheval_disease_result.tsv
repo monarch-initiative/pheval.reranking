@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary ciliary dyskinesia	OMIM:244400
+2	0.8	Hypertension	OMIM:145500
+3	0.7	Renal pelvis dilation	OMIM:173900
+4	0.6	Idiopathic pulmonary fibrosis	OMIM:178500
+5	0.5	Huntington disease	OMIM:143100
+6	0.4	Aortic aneurysm	OMIM:100070
+7	0.3	Bronchiectasis	OMIM:211400
+8	0.2	Arterial stiffness	OMIM:614473
+9	0.1	Polycystic kidney disease	OMIM:173900
+10	0.05	Pneumomediastinum	OMIM:614373

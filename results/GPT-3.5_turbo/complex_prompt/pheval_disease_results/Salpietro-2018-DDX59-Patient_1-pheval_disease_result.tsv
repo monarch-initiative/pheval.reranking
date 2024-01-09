@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Townes-Brocks syndrome	OMIM:107480
+2	0.85	Oculoauriculovertebral spectrum	OMIM:164210
+3	0.8	Fanconi anemia	OMIM:227650
+4	0.75	CHARGE syndrome	OMIM:214800
+5	0.7	Ventruto syndrome	OMIM:192430
+6	0.65	Diamond-Blackfan anemia	OMIM:105650
+7	0.6	Larsen syndrome	OMIM:150250
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Mowat-Wilson syndrome	OMIM:235730
+10	0.45	Oculodentodigital dysplasia	OMIM:164200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome, type IV	OMIM:130050
+3	0.7	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+4	0.6	Marfan lipodystrophy syndrome	OMIM:616914
+5	0.5	Larin syndrome	OMIM:612367
+6	0.4	Weill-Marchesani syndrome 2	OMIM:608328
+7	0.3	Acrocephalosyndactylia	OMIM:101200
+8	0.2	Mucopolysaccharidosis, type IIIC	OMIM:252930
+9	0.1	Mucopolysaccharidosis, type IS	OMIM:607016
+10	0.05	Stickler syndrome	OMIM:108300

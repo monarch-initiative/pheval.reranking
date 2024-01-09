@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.85	Mowat-Wilson syndrome	OMIM:235730
+3	0.8	Coffin-Siris syndrome	OMIM:135900
+4	0.75	Schinzel-Giedion syndrome	OMIM:269150
+5	0.7	Aarskog-Scott syndrome	OMIM:305400
+6	0.65	Trichothiodystrophy 1, photosensitive	OMIM:601675
+7	0.6	Cohen syndrome	OMIM:216550
+8	0.55	Cockayne syndrome	OMIM:133540
+9	0.5	Kabuki syndrome 1	OMIM:147920
+10	0.45	Cornelia de Lange syndrome 1	OMIM:122470

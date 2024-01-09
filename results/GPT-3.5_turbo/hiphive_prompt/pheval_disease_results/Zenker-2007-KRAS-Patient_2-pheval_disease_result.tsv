@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.92	Coffin-Lowry syndrome	OMIM:303600
+3	0.89	Sotos syndrome	OMIM:117550
+4	0.88	Weaver syndrome	OMIM:277590
+5	0.87	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.83	Floating-Harbor syndrome	OMIM:136140
+7	0.82	Noonan syndrome	OMIM:163950
+8	0.81	Megalencephaly-capillary malformation syndrome	OMIM:602501
+9	0.79	PTEN hamartoma tumor syndrome	OMIM:158350
+10	0.76	Smith-Magenis syndrome	OMIM:182290

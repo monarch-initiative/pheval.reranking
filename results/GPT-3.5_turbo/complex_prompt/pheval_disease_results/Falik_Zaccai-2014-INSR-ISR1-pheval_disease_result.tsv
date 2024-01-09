@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Pneumonia	OMIM:611778
+1	1.0	Recurrent infections	OMIM:614474
+3	0.9	Abdominal distention	OMIM:271830
+4	0.8	Hyperinsulinemia	OMIM:601820
+5	0.7	Global developmental delay	OMIM:614886
+6	0.6	Ovarian cyst	OMIM:184750
+7	0.5	Rectal prolapse	OMIM:179830
+8	0.4	Enlarged kidney	OMIM:173900
+9	0.3	Labial hypertrophy	OMIM:100050
+10	0.2	Clitoral hypertrophy	OMIM:102150

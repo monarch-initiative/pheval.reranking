@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Long QT Syndrome	OMIM:192500
+2	0.7	Rhabdomyolysis	OMIM:268200
+3	0.65	Congenital Myasthenic Syndrome	OMIM:608930
+4	0.6	Intellectual Disability	OMIM:610212
+5	0.55	Hypoglycemia	OMIM:240800
+6	0.5	Acute Myocardial Infarction	OMIM:608446
+7	0.45	Developmental Delay	OMIM:615759
+8	0.4	Torsade de Pointes	OMIM:192500
+9	0.35	Cardiac Arrest	OMIM:115150
+10	0.3	Arrhythmia	OMIM:102900

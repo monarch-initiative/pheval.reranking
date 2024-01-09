@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.923	Jervell and Lange-Nielsen syndrome	OMIM:220400
+2	0.897	Alagille syndrome	OMIM:118450
+3	0.889	Bartter syndrome	OMIM:241200
+4	0.882	East syndrome	OMIM:613426
+5	0.872	Tay-Sachs disease	OMIM:272800
+6	0.865	Sjögren-Larsson syndrome	OMIM:270200
+7	0.858	Cystinosis	OMIM:219800
+8	0.852	NOMID syndrome	OMIM:607115
+9	0.846	Kearns-Sayre syndrome	OMIM:530000
+10	0.839	Arc syndrome	OMIM:208450

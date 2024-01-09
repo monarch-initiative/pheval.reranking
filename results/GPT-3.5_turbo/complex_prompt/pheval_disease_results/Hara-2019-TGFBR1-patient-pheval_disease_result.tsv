@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130010
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Lujan-Fryns syndrome	OMIM:309520
+5	0.5	Weill-Marchesani syndrome	OMIM:608328
+6	0.4	Homocystinuria	OMIM:236200
+7	0.3	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.2	Stickler syndrome	OMIM:108300
+9	0.1	Beals syndrome	OMIM:121050

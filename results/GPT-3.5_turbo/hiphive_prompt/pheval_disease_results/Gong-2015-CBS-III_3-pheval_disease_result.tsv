@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Syndactyly	OMIM:186300
+2	0.92	Marfan syndrome	OMIM:154700
+3	0.91	Ehlers-Danlos syndrome	OMIM:130000
+4	0.89	Stickler syndrome	OMIM:108300
+5	0.87	Neurofibromatosis type 1	OMIM:162200
+6	0.85	Hereditary spastic paraplegia	OMIM:182600
+7	0.83	Tuberous sclerosis	OMIM:191100
+8	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.78	Alport syndrome	OMIM:301050
+10	0.76	Hurler syndrome	OMIM:607014

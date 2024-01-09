@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.9	Hypercholesterolemia due to LDL receptor deficiency	OMIM:143890
+3	0.85	Alpha-1-antitrypsin deficiency	OMIM:613490
+4	0.8	Alagille syndrome	OMIM:118450
+5	0.75	Cystic fibrosis	OMIM:219700
+6	0.7	Familial hypercholesterolemia	OMIM:606945
+7	0.65	Glycogen storage disease type I	OMIM:232200
+8	0.6	Liver cirrhosis	OMIM:215600
+9	0.55	Niemann-Pick disease type C	OMIM:607625
+10	0.5	Gaucher disease	OMIM:230800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome type VI	OMIM:225400
+3	0.7	Stickler syndrome type I	OMIM:108300
+4	0.6	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+5	0.5	Weill-Marchesani syndrome	OMIM:277600
+6	0.4	Loeys-Dietz syndrome type 1A	OMIM:609192
+7	0.3	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+8	0.2	Phacomatosis pigmentovascularis	OMIM:173000
+9	0.1	Congenital contractural arachnodactyly	OMIM:121050
+10	0.05	Lymphatic malformation 6	OMIM:616843

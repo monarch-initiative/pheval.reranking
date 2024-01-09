@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Craniosynostosis, Sagittal, with Drumstick Terminal Phalanges	OMIM:615529
+2	0.9	Vaginal Anomalies	OMIM:615876
+3	0.85	Uterus Bicornis Bicollis	OMIM:125200
+4	0.8	Retinitis Pigmentosa	OMIM:268000
+5	0.75	Clinodactyly	OMIM:122470
+6	0.7	Lop-Ear Deformity	OMIM:128500
+7	0.65	Aortic Valve Disease	OMIM:109730
+8	0.6	Anal Atresia	OMIM:306030
+9	0.55	Radial Ray Abnormality	OMIM:179000
+10	0.5	Short Stature	OMIM:604271

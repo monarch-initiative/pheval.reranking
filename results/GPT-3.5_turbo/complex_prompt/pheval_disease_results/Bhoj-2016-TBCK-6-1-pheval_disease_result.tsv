@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lujan-Fryns syndrome	OMIM:309520
+2	0.8	Smith-Magenis syndrome	OMIM:182290
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+5	0.5	Chromosome 9q deletion syndrome	OMIM:610253
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Angelman-like syndrome	OMIM:105830
+8	0.2	Potocki-Lupski syndrome	OMIM:610883
+9	0.1	Koolen-de Vries syndrome	OMIM:610443

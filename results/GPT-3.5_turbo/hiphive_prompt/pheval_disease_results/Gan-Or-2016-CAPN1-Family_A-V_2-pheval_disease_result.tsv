@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:182600
+2	0.86	Spastic Paraplegia 7	OMIM:607259
+3	0.82	Spastic Paraplegia 4	OMIM:182601
+4	0.81	Spastic Paraplegia 17	OMIM:270685
+5	0.79	Spastic Paraplegia 3A	OMIM:182600
+6	0.77	Spastic Paraplegia 3B	OMIM:182601
+7	0.73	X-Linked Spastic Paraplegia Type 2	OMIM:312920
+8	0.71	Spastic Paraplegia 5A	OMIM:270800
+9	0.67	Spastic Paraplegia 15	OMIM:270700
+10	0.61	Congenital Disorder of Glycosylation Type IIm	OMIM:603585

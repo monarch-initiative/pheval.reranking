@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Parkinson's disease	OMIM:168600
+2	0.89	Lewy body dementia	OMIM:127750
+3	0.84	Dystonia	OMIM:128230
+4	0.81	Multiple system atrophy	OMIM:146500
+5	0.75	Autosomal dominant cerebellar ataxia	OMIM:164400
+6	0.71	Alzheimer disease	OMIM:104300
+7	0.68	Spinocerebellar ataxia Type 2	OMIM:183090
+8	0.65	Spinocerebellar ataxia Type 3	OMIM:109150
+9	0.61	X-linked dystonia-parkinsonism	OMIM:314250
+10	0.58	Vascular parkinsonism	OMIM:168600

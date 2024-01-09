@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Congenital muscular dystrophy	OMIM:607155
+2	0.92	Spinal muscular atrophy with respiratory distress type 1	OMIM:604320
+3	0.89	Myotonic dystrophy type 1	OMIM:160900
+4	0.88	Congenital myopathy with fiber-type disproportion	OMIM:255310
+5	0.87	Charcot-Marie-Tooth disease type 4E	OMIM:614297
+6	0.85	Myopathy, centronuclear, autosomal dominant	OMIM:160150
+7	0.84	X-linked myotubular myopathy	OMIM:310400
+8	0.82	Spinal muscular atrophy with lower extremity predominance	OMIM:611067
+9	0.81	Myofibrillar myopathy	OMIM:609524
+10	0.8	Distal spinal muscular atrophy type 1	OMIM:604320

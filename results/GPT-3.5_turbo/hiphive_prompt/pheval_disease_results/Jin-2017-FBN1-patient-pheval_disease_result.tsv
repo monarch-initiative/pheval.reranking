@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Thrombocytopenia-absent radius syndrome	OMIM:274000
+2	0.93	Hypophosphatemic rickets, X-linked recessive	OMIM:300554
+3	0.91	Cleidocranial dysplasia	OMIM:119600
+4	0.9	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.88	Pfeiffer syndrome	OMIM:101600
+6	0.86	Coffin-Lowry syndrome	OMIM:303600
+7	0.84	Silver-Russell syndrome	OMIM:180860
+8	0.82	Rubinstein-Taybi syndrome 2	OMIM:613684
+9	0.8	Noonan syndrome 1	OMIM:163950
+10	0.79	Noonan syndrome 6	OMIM:613224

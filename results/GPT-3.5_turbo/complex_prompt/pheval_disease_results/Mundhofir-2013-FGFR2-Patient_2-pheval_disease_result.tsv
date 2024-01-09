@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome	OMIM:123500
+2	0.85	Pfeiffer syndrome	OMIM:101600
+3	0.8	Apert syndrome	OMIM:101200
+4	0.75	Saethre-Chotzen syndrome	OMIM:101400
+5	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.6	Carpenter syndrome	OMIM:201000
+7	0.55	Cleidocranial dysplasia	OMIM:119600
+8	0.5	Orofaciodigital syndrome type 3	OMIM:258860

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial Myopathy, Isolated, Autosomal Dominant	OMIM:500003
+2	0.89	Dilated Cardiomyopathy 1G	OMIM:604145
+3	0.88	Myotonia Congenita, Autosomal Dominant	OMIM:160800
+4	0.85	Muscular Hypertrophy	OMIM:255200
+5	0.81	Myopathy with Lactic Acidosis and Sideroblastic Anemia	OMIM:600462
+6	0.8	Niemann-Pick Disease, Type C2	OMIM:607625
+7	0.78	Myopathy, X-Linked	OMIM:310400
+8	0.75	Mitochondrial Complex IV Deficiency	OMIM:220110
+9	0.72	Congenital Myopathy with Excess of Thin Filaments	OMIM:255320
+10	0.68	Spinal Muscular Atrophy with Respiratory Distress 1	OMIM:604320

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ataxia telangiectasia	OMIM:208900
+2	0.85	Nijmegen breakage syndrome	OMIM:251260
+3	0.8	Fanconi anemia	OMIM:227650
+4	0.75	Werner syndrome	OMIM:277700
+5	0.7	Cockayne syndrome	OMIM:133540
+6	0.65	Bloom syndrome	OMIM:210900
+7	0.6	Xeroderma pigmentosum	OMIM:278700
+8	0.55	Seckel syndrome	OMIM:210600
+9	0.5	Berlin breakage syndrome	OMIM:210000
+10	0.45	Rothmund-Thomson syndrome	OMIM:268400

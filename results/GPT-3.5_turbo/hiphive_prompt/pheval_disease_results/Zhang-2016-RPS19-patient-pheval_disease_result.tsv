@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fanconi anemia	OMIM:227650
+2	0.92	Diamond-Blackfan anemia	OMIM:105650
+3	0.91	Congenital dyserythropoietic anemia	OMIM:224100
+4	0.89	Paroxysmal nocturnal hemoglobinuria	OMIM:611943
+5	0.85	Myelodysplastic syndrome	OMIM:614286
+6	0.84	Shwachman-Diamond syndrome	OMIM:260400
+7	0.82	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+8	0.81	Fanconi-Bickel syndrome	OMIM:227810
+9	0.78	Thrombocytopenia with absent radius syndrome	OMIM:274000
+10	0.76	X-linked sideroblastic anemia with ataxia	OMIM:301310

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.92	Friedreich Ataxia	OMIM:229300
+3	0.88	Hereditary Motor and Sensory Neuropathy	OMIM:601097
+4	0.85	Giant Axonal Neuropathy	OMIM:256850
+5	0.83	HMSN with ARSACS and CMT	OMIM:607706
+6	0.81	Refsum Disease	OMIM:266500
+7	0.79	Spinal Muscular Atrophy Type 3	OMIM:253400
+8	0.76	Congenital Hypomyelinating Neuropathy	OMIM:605253
+9	0.73	Neurophysin II Deficiency	OMIM:162340
+10	0.7	Duplication 17p11.2 Syndrome	OMIM:614676

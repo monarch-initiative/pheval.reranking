@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.6	Aicardi-Goutières syndrome	OMIM:225750
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.5	Trisomy 21	OMIM:190685
+7	0.4	Leigh syndrome	OMIM:256000
+7	0.4	Congenital Zika syndrome	OMIM:618695
+9	0.3	Holoprosencephaly	OMIM:236100
+9	0.3	Cockayne syndrome	OMIM:216400

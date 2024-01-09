@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Cri-du-chat syndrome	OMIM:123450
+4	0.75	Noonan syndrome	OMIM:163950
+5	0.7	Williams syndrome	OMIM:194050
+6	0.65	Crouzon syndrome	OMIM:123500
+7	0.6	Turner syndrome	OMIM:313850
+8	0.55	Treacher Collins syndrome	OMIM:154500
+9	0.5	Aarskog-Scott syndrome	OMIM:305400
+10	0.45	Potocki-Lupski syndrome	OMIM:610883

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Leigh Syndrome	OMIM:256000
+2	0.95	Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes	OMIM:540000
+3	0.9	Mitochondrial Complex IV Deficiency	OMIM:220111
+4	0.85	3-Methylglutaconic Aciduria Type I	OMIM:250950
+5	0.8	Mitochondrial DNA Depletion Syndrome 4A	OMIM:203700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kallmann syndrome	OMIM:146110
+2	0.92	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.89	Noonan syndrome	OMIM:163950
+4	0.87	Prader-Willi syndrome	OMIM:176270
+5	0.86	Angelman syndrome	OMIM:105830
+6	0.84	Alagille syndrome	OMIM:118450
+7	0.82	CHARGE syndrome	OMIM:214800
+8	0.8	Coffin-Lowry syndrome	OMIM:303600
+9	0.78	Robinow syndrome	OMIM:268310
+10	0.77	Smith-Lemli-Opitz syndrome	OMIM:270400

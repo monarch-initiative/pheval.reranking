@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Craniosynostosis	OMIM:123100
+2	0.92	Marfan syndrome	OMIM:154700
+3	0.91	Stickler syndrome	OMIM:108300
+4	0.88	Ehlers-Danlos syndrome	OMIM:130000
+5	0.87	Hurler syndrome	OMIM:607014
+6	0.85	Pendred syndrome	OMIM:274600
+7	0.83	Noonan syndrome	OMIM:163950
+8	0.8	Treacher Collins syndrome	OMIM:154500
+9	0.78	Osteogenesis imperfecta	OMIM:166200
+10	0.76	Chondrodysplasia punctata	OMIM:215105

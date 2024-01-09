@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Microcephaly	OMIM:251200
+2	0.9	Polymicrogyria	OMIM:614833
+3	0.8	Cerebellar vermis hypoplasia	OMIM:213000
+4	0.7	Hypoplasia of the corpus callosum	OMIM:300004
+5	0.6	Neurodevelopmental delay	OMIM:608096
+6	0.5	Delayed speech and language development	OMIM:602081
+7	0.4	Emotional lability	OMIM:615573
+8	0.3	Short stature	OMIM:604271
+9	0.2	Overlapping toe	OMIM:600918
+10	0.1	Decreased body weight	OMIM:601628

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Orofaciodigital Syndrome I	OMIM:311200
+2	0.7	Lethal Congenital Contracture Syndrome 9	OMIM:616503
+3	0.6	Mohr-Majewski Syndrome	OMIM:605781
+4	0.5	Aicardi Syndrome	OMIM:304050
+5	0.4	Lenz-Majewski Hyperostotic Dwarfism	OMIM:151050

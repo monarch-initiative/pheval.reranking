@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.85	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+3	0.8	Multiple Epiphyseal Dysplasia, Autosomal Dominant	OMIM:132400
+4	0.75	Multiple Epiphyseal Dysplasia, Autosomal Recessive	OMIM:600969
+5	0.7	Brachydactyly, Type A1	OMIM:112500
+6	0.65	Brachydactyly, Type B1	OMIM:113000
+7	0.6	Acromesomelic Dysplasia, Demirhan Type	OMIM:609441
+8	0.55	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+9	0.5	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+10	0.45	Campomelic Dysplasia	OMIM:114290

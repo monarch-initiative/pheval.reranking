@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia type 5	OMIM:600224
+3	0.7	Refsum disease	OMIM:266500
+4	0.6	Tay-Sachs disease	OMIM:272800
+5	0.5	Biemond syndrome type 2	OMIM:615349

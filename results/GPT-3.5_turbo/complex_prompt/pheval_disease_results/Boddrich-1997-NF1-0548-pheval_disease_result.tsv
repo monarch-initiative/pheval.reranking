@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Neurofibromatosis type 1	OMIM:162200
+2	0.9	Legius syndrome	OMIM:611431
+3	0.8	Neurofibromatosis-Noonan syndrome	OMIM:601321
+4	0.7	Jaffe-Campanacci syndrome	OMIM:169230
+5	0.6	Neurofibromatosis-Noonan syndrome-like	OMIM:613675
+6	0.5	Mosaic neurofibromatosis 1	OMIM:162200
+7	0.4	Watson syndrome	OMIM:193520
+8	0.3	McCune-Albright syndrome	OMIM:174800
+9	0.2	Familial thoracic aortic aneurysm and dissection	OMIM:607086
+10	0.1	Neurofibromatosis, Schwannomatosis, and Meningioma	OMIM:615365

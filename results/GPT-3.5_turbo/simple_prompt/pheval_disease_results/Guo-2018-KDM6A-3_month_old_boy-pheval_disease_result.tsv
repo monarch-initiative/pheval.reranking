@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Pierre Robin Sequence	OMIM:261800
+3	0.7	Congenital Hypothyroidism	OMIM:218700
+4	0.6	Craniosynostosis	OMIM:123100
+5	0.5	Holoprosencephaly	OMIM:236100
