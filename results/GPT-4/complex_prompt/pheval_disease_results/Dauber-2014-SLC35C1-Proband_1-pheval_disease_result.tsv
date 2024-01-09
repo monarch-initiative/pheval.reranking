@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Smith-Magenis Syndrome	OMIM:182290
+2	0.7	Mucopolysaccharidosis Type 3	OMIM:252920
+3	0.6	Sanfilippo Syndrome	OMIM:252920
+3	0.6	Sotos Syndrome	OMIM:117550
+5	0.5	Weaver Syndrome	OMIM:277590
+6	0.4	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.3	Char Syndrome	OMIM:169100
+7	0.3	Mucopolysaccharidosis Type 7	OMIM:253220
+9	0.2	Coffin-Lowry Syndrome	OMIM:303600
+10	0.1	Floating-Harbor syndrome	OMIM:136140

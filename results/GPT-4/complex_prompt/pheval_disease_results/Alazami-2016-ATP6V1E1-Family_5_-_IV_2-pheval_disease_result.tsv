@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Geroderma osteodysplastica	OMIM:231070
+2	0.8	Occipital horn syndrome	OMIM:304150
+3	0.7	De Barsy syndrome	OMIM:219150
+3	0.7	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+5	0.6	Menkes disease	OMIM:309400
+6	0.5	Cutis laxa, autosomal recessive, type IIB	OMIM:612940
+6	0.5	Cutis laxa, autosomal recessive, type IB	OMIM:614437
+8	0.4	Cutis laxa, autosomal recessive, type IIIA	OMIM:219150
+9	0.3	Ehlers-Danlos syndrome, kifunensine-responsive	OMIM:614557
+9	0.3	Cutis laxa, autosomal dominant	OMIM:123700

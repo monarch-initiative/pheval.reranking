@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Hemochromatosis	OMIM:235200
+3	0.7	Hypoceruloplasminemia	OMIM:604290
+4	0.6	Acute Hepatic Porphyria	OMIM:176000
+5	0.5	Hemophagocytic Lymphohistiocytosis	OMIM:267700
+6	0.4	Autoimmune Hepatitis	OMIM:614812
+7	0.3	Tyrosinemia Type I	OMIM:276700
+8	0.2	Alcoholic Hepatitis	OMIM:208600
+9	0.1	Mitochondrial Trifunctional Protein Deficiency	OMIM:609015

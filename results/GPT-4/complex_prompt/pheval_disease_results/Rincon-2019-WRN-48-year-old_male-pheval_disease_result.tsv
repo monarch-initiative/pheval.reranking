@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+2	0.8	Werner Syndrome	OMIM:277700
+3	0.7	Hallermann-Streiff Syndrome	OMIM:234100
+4	0.6	Lipodystrophy, Familial, Type 3	OMIM:246370
+5	0.5	Carpenter Syndrome	OMIM:201000
+6	0.4	Rothmund-Thomson Syndrome	OMIM:268400
+7	0.3	Ehlers-Danlos Syndrome	OMIM:130000
+8	0.2	Pituitary Hormone Deficiency, Combined, 2	OMIM:262600
+9	0.1	Trichorhinophalangeal Syndrome, Type I	OMIM:190350
+9	0.1	Bloom Syndrome	OMIM:210900

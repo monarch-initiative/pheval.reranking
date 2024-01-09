@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Ehlers-Danlos syndrome, kyperselasticiler type	OMIM:614557
+3	0.7	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM:225410
+4	0.6	Ehlers-Danlos syndrome, musculocontractural type	OMIM:601776
+4	0.6	Marfan Syndrome	OMIM:154700
+6	0.5	Osteogenesis imperfecta	OMIM:166200
+7	0.4	Larsen syndrome	OMIM:150250
+8	0.3	Congenital contractural arachnodactyly	OMIM:121050
+8	0.3	Stickler Syndrome	OMIM:108300
+10	0.2	Loeys-Dietz syndrome	OMIM:610168

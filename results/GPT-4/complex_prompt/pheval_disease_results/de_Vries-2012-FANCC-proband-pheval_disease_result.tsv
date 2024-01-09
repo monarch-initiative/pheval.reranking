@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Noonan Syndrome	OMIM:163950
+2	0.7	Ras-associated autoimmune leukoproliferative disorder	OMIM:614470
+2	0.7	Dyskeratosis Congenita	OMIM:224230
+4	0.6	LEOPARD Syndrome	OMIM:151100
+4	0.6	Shwachman-Diamond syndrome	OMIM:260400
+6	0.5	Seckel syndrome	OMIM:210600
+6	0.5	Fanconi Anemia	OMIM:227650
+8	0.4	Roberts Syndrome	OMIM:268300
+8	0.4	Cornelia de Lange syndrome	OMIM:122470
+10	0.3	Fetal akinesia deformation sequence	OMIM:208150

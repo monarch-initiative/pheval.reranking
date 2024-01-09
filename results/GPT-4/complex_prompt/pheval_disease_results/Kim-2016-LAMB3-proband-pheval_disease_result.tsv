@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Johanson-Blizzard Syndrome	OMIM:243800
+2	0.8	Enamel-renal syndrome	OMIM:204690
+3	0.7	Amelogenesis Imperfecta	OMIM:104530
+4	0.6	Oculodentodigital dysplasia	OMIM:164200
+5	0.5	Hypoplastic Amelogenesis Imperfecta	OMIM:614253

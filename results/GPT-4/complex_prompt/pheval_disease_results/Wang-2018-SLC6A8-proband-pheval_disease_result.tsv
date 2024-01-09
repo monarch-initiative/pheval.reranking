@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency, X-linked	OMIM:300352
+2	0.8	Autism, susceptibility to, 1	OMIM:209850
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Fragile X syndrome	OMIM:300624
+5	0.5	Angelman syndrome	OMIM:105830
+6	0.4	Tuberous sclerosis 1	OMIM:191100
+7	0.3	West syndrome	OMIM:308350
+8	0.2	Landau-Kleffner syndrome	OMIM:245570
+9	0.1	Phelan-McDermid syndrome	OMIM:606232

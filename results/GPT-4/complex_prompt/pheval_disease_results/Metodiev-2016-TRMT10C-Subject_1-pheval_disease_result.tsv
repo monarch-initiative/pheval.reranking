@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex IV deficiency	OMIM:220110
+2	0.85	Leigh Syndrome	OMIM:256000
+3	0.8	Myoadenylate Deaminase Deficiency	OMIM:615511
+4	0.75	MERRF syndrome	OMIM:545000
+5	0.7	Carnitine Acylcarnitine Translocase Deficiency	OMIM:212138
+6	0.65	Kearns-Sayre syndrome	OMIM:530000
+7	0.6	Primary Carnitine Deficiency	OMIM:212140
+8	0.55	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)	OMIM:540000
+9	0.5	Glycogen Storage Disease Type V	OMIM:232600
+10	0.45	Mitochondrial DNA Depletion Syndrome 3 (Hepatocerebral type)	OMIM:251880

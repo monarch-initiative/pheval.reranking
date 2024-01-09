@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ataxia with Vitamin E Deficiency	OMIM:277460
+2	0.8	Ataxia with oculomotor apraxia	OMIM:208920
+3	0.7	Friedreich's ataxia	OMIM:229300
+4	0.6	Episodic ataxia, type 2	OMIM:108500
+5	0.5	SPG7 (spastic paraplegia 7)	OMIM:607259
+5	0.5	SPG11 (Spastic paraplegia 11)	OMIM:604360
+7	0.4	Spinocerebellar ataxia	OMIM:164400
+8	0.3	Wilson disease	OMIM:277900
+9	0.2	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.1	Ataxia – telangiectasia	OMIM:208900

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi syndrome	OMIM:176270
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.7	Coffin-Lowry Syndrome	OMIM:303600
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Jacobsen syndrome	OMIM:147791
+6	0.4	Noonan syndrome	OMIM:163950
+7	0.3	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.2	Sotos syndrome	OMIM:117550
+9	0.1	Williams syndrome	OMIM:194050

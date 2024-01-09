@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Auricle malformation	OMIM:604830
+2	0.8	Van der Woude Syndrome	OMIM:119300
+3	0.7	Popliteal Pterygium Syndrome	OMIM:119500
+4	0.6	Cleft lip and/or palate	OMIM:119530

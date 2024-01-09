@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome 1	OMIM:118450
+2	0.85	Progressive familial intrahepatic cholestasis	OMIM:211600
+3	0.8	Wilson disease	OMIM:277900
+4	0.75	Proteus syndrome	OMIM:176920
+5	0.7	Tyrosinemia type I	OMIM:276700
+6	0.65	Hepatic failure, early-onset, and neurologic disorder due to cytochrome C oxidase deficiency	OMIM:617022
+7	0.6	Niemann-Pick disease type C1	OMIM:257220
+8	0.55	Hepatocellular carcinoma	OMIM:114550
+9	0.5	Biliary atresia	OMIM:210500
+10	0.45	Metabolic syndrome X	OMIM:605552

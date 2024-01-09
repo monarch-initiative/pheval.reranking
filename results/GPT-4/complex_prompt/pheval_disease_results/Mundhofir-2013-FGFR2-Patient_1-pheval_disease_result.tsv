@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+3	0.75	Coffin-Siris Syndrome	OMIM:135900
+4	0.7	Carpenter syndrome	OMIM:201000
+5	0.6	Apert syndrome	OMIM:101200
+5	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.5	Pfeiffer syndrome	OMIM:101600
+8	0.4	Trisomy 13	OMIM:264480
+8	0.4	Saethre-Chotzen Syndrome	OMIM:101400
+10	0.3	Crouzon syndrome	OMIM:123500

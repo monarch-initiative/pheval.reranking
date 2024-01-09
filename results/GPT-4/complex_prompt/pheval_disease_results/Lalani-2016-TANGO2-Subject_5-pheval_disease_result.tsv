@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome	OMIM:192500
+2	0.8	Ryanodine receptor type 1 related Myopathies	OMIM:255310
+3	0.7	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:614021
+4	0.6	Malignant Hyperthermia	OMIM:145600
+5	0.5	Brugada Syndrome	OMIM:600144
+6	0.4	Andersen-Tawil Syndrome	OMIM:170390
+7	0.3	Glycogen Storage Disease Type V	OMIM:232600
+8	0.2	Short QT Syndrome	OMIM:609620
+9	0.1	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+10	0.05	Myoadenylate Deaminase Deficiency	OMIM:615511

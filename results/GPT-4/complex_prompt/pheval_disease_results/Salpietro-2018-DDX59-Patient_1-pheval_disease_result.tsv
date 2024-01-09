@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Aicardi-Goutieres syndrome 5	OMIM:612952
+2	0.65	Congenital disorder of deglycosylation	OMIM:615273
+3	0.55	Orofaciodigital syndrome I	OMIM:311200
+3	0.55	Mosaic variegated aneuploidy syndrome 1	OMIM:257300
+5	0.47	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+6	0.43	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.42	Acrocallosal syndrome	OMIM:200990
+8	0.38	Aicardi-Goutieres syndrome 1	OMIM:225750
+9	0.35	Meier-Gorlin syndrome 6	OMIM:616835
+10	0.33	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	OMIM:615937

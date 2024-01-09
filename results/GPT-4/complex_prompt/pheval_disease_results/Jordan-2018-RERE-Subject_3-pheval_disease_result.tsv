@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.7	Hypotonia-Cystinuria syndrome	OMIM:606407
+4	0.6	Mowat-Wilson syndrome	OMIM:235730
+5	0.5	Cornelia de Lange Syndrome	OMIM:122470
+5	0.5	Joubert syndrome	OMIM:213300
+7	0.4	Noonan syndrome	OMIM:163950
+8	0.3	Aicardi-Goutieres syndrome	OMIM:225750
+9	0.2	Williams syndrome	OMIM:194050
+10	0.1	Angelman syndrome	OMIM:105830

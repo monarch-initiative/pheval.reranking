@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Homocystinuria	OMIM:236200
+3	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.6	Congenital Contractural Arachnodactyly	OMIM:121050
+4	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.5	Stickler Syndrome	OMIM:108300
+7	0.4	Sotos Syndrome	OMIM:117550
+8	0.3	Aneurysm-osteoarthritis Syndrome	OMIM:100050
+9	0.2	Neonatal Marfan Syndrome	OMIM:608967
+10	0.1	Beals Syndrome	OMIM:121050

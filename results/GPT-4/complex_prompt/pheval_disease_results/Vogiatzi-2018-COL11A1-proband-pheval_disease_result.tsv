@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130000
+2	0.7	Marfan syndrome	OMIM:154700
+3	0.6	Stickler syndrome	OMIM:108300
+3	0.6	Osteogenesis Imperfecta	OMIM:166200
+5	0.5	Pseudoachondroplasia	OMIM:177170
+6	0.4	Weill-Marchesani Syndrome	OMIM:277600
+7	0.3	Larsen syndrome	OMIM:150250
+8	0.1	Achondroplasia	OMIM:100800
+8	0.1	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+8	0.1	Hypochondroplasia	OMIM:146000

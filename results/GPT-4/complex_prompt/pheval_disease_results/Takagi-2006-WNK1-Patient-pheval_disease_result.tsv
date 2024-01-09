@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial dysautonomia	OMIM:223900
+2	0.8	Chronic inflammatory demyelinating polyradiculoneuropathy	OMIM:605710
+3	0.7	Hereditary sensory and autonomic neuropathy	OMIM:613640
+4	0.6	Krabbé disease	OMIM:245200
+4	0.6	Metachromatic leukodystrophy	OMIM:250100
+6	0.5	Guillain-Barré syndrome	OMIM:139393
+7	0.4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+8	0.3	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+9	0.2	Hereditary motor and sensory neuropathy, type VI	OMIM:601152
+9	0.2	Refsum disease	OMIM:266500

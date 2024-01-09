@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ectopia Lentis Syndrome	OMIM:129600
+3	0.7	Weill-Marchesani Syndrome	OMIM:608328
+4	0.65	Sly Syndrome	OMIM:253200
+5	0.6	Homocystinuria due to MTHFR deficiency	OMIM:236250
+6	0.55	Ataxia-Telangiectasia	OMIM:208900
+7	0.5	Neurofibromatosis, type II	OMIM:101000
+8	0.45	Niemann-Pick disease type C	OMIM:257220
+9	0.4	Nasu-Hakola disease	OMIM:221770
+10	0.35	Autosomal Recessive Spinocerebellar Ataxia 7	OMIM:610246

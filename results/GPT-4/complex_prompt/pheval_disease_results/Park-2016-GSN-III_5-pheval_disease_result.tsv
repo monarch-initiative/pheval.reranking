@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myasthenia Gravis	OMIM:254200
+2	0.75	Lambert-Eaton Syndrome	OMIM:600512
+3	0.65	Gerodermia Osteodysplastica	OMIM:231070
+4	0.6	Familial Dysautonomia	OMIM:223900
+5	0.55	Riley-Day Syndrome	OMIM:223900
+6	0.45	Cutis Laxa, Autosomal Dominant	OMIM:123700
+6	0.45	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+6	0.45	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940

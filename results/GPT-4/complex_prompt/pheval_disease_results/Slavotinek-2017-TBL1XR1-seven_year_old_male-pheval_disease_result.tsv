@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Meckel Syndrome	OMIM:249000
+2	0.9	Coffin-Lowry Syndrome	OMIM:303600
+3	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.82	Cohen Syndrome	OMIM:216550
+5	0.81	Schinzel-Giedion Syndrome	OMIM:269150
+6	0.8	Bardet-Biedl Syndrome	OMIM:209900
+7	0.75	Zellweger Syndrome	OMIM:214100
+8	0.7	Crigler-Najjar Syndrome	OMIM:218800
+9	0.6	Hurler Syndrome	OMIM:607014
+10	0.5	Prader-Willi Syndrome	OMIM:176270

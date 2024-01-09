@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly	OMIM:236100
+2	0.7	Diabetes Insipidus, Neurohypophyseal	OMIM:125700
+3	0.6	Midline Interhemispheric Variant of Holoprosencephaly	OMIM:236100

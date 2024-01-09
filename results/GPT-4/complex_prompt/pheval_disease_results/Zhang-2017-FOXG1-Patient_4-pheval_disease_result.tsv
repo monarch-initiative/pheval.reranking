@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.8	Congenital disorder of glycosylation type 1A	OMIM:212065
+3	0.7	Angelman Syndrome	OMIM:105830
+3	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.6	Smith-Magenis Syndrome	OMIM:182290
+6	0.5	Mowat-Wilson Syndrome	OMIM:235730

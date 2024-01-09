@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Acrofrontofacionasal dysostosis	OMIM:200980
+2	0.65	Short Stature-Bifid Sternum-Acral Anomalies-Syndactyly syndrome	OMIM:269720
+3	0.6	Craniofrontonasal dysplasia	OMIM:304110
+4	0.55	Autosomal recessive Robinow syndrome	OMIM:268310
+5	0.5	Mandibuloacral dysplasia	OMIM:248370
+6	0.45	Shprintzen-Goldberg syndrome	OMIM:182212
+7	0.4	Pfeiffer syndrome	OMIM:101600
+8	0.35	Coffin-Siris syndrome	OMIM:135900
+9	0.3	Acrodysostosis	OMIM:101800
+10	0.25	Noonan syndrome	OMIM:163950

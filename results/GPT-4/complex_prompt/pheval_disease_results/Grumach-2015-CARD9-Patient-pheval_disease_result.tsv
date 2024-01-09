@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM syndrome	OMIM:308230
+2	0.8	Omenn syndrome	OMIM:603554
+3	0.7	Hyper IgE syndrome	OMIM:147060
+4	0.6	Common Variable Immunodeficiency	OMIM:240500
+5	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.4	Chronic Mucocutaneous Candidiasis	OMIM:114580
+7	0.3	Severe Combined Immunodeficiency	OMIM:102700
+8	0.2	DOCK8 deficiency	OMIM:243700
+9	0.1	Ataxia-Telangiectasia syndrome	OMIM:208900

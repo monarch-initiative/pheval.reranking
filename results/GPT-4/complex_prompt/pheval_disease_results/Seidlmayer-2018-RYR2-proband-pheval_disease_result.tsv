@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+2	0.85	Cardiomyopathy, Dilated, 1O	OMIM:608569
+3	0.8	Brugada Syndrome 1	OMIM:601144
+4	0.7	Cardioencephalomyopathy, Fatal Infantile, Due to Cytochrome C Oxidase Deficiency 1	OMIM:604377
+5	0.65	Myocarditis, Familial	OMIM:604771
+6	0.6	Ventricular Fibrillation, Paroxysmal Familial, 1	OMIM:603829
+7	0.55	Cardiomyopathy, Hypertrophic 1	OMIM:192600
+8	0.5	Cardioencephalomyopathy, Fatal Infantile, Due to Cytochrome C Oxidase Deficiency 2	OMIM:615157
+9	0.4	Cardiomyopathy, Familial Restrictive, 1	OMIM:115210
+10	0.3	Cardiomyopathy, Dilated, 1U	OMIM:613694

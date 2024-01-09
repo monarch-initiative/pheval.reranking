@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Desmosterolosis	OMIM:602398
+2	0.8	Refsum Disease	OMIM:266500
+3	0.7	Ataxia Telangiectasia	OMIM:208900
+4	0.6	Cerebrotendinous Xanthomatosis	OMIM:213700
+5	0.5	Axenfeld-Rieger Syndrome	OMIM:180500
+6	0.4	Perry syndrome	OMIM:168605
+7	0.3	Osteogenesis imperfecta	OMIM:166210
+8	0.2	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.1	Fucosidosis	OMIM:230000
+10	0.05	Ataxia with Vitamin E Deficiency	OMIM:277460

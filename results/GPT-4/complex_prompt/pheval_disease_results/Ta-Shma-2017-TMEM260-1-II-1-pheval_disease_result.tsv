@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Trisomy 18	OMIM:190685
+2	0.9	Trisomy 13	OMIM:264480
+3	0.86	Ellis-van Creveld syndrome	OMIM:225500
+4	0.85	Chromosome 22q11.2 deletion syndrome	OMIM:611867
+5	0.82	Primary ciliary dyskinesia	OMIM:244400
+6	0.8	Alagille syndrome 1	OMIM:118450
+7	0.78	Noonan syndrome 1	OMIM:163950
+8	0.76	Holt-Oram syndrome	OMIM:142900
+9	0.72	Joubert syndrome 1	OMIM:213300
+10	0.7	Endocardial fibroelastosis	OMIM:226000

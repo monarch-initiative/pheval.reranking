@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diabetes Mellitus, insulin-dependent	OMIM:222100
+2	0.8	MODY, type 2	OMIM:125851
+3	0.7	Stiff person syndrome	OMIM:184850
+4	0.6	MODY, type 1	OMIM:606391
+5	0.5	MODY, type 3	OMIM:600496
+6	0.4	Diabetes mellitus, transient neonatal, 3	OMIM:610582
+7	0.3	MODY, type 5	OMIM:137920
+8	0.2	MODY, type 6	OMIM:606394
+9	0.1	Polycystic kidney disease, adult type	OMIM:173910

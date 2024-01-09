@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pallister Hall Syndrome	OMIM:146510
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.7	Noonan syndrome	OMIM:163950
+4	0.6	Coffin-Lowry syndrome	OMIM:303600
+5	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.4	Larsen syndrome	OMIM:150250
+7	0.3	Cornelia de Lange Syndrome	OMIM:122470
+8	0.2	Kenny-Caffey syndrome	OMIM:127000
+9	0.1	Mandibuloacral dysplasia	OMIM:248370

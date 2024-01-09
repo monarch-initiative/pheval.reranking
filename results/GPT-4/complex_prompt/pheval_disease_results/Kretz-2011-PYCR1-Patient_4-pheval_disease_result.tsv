@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+2	0.8	Reynolds Syndrome	OMIM:613471
+3	0.7	Gerodermia Osteodysplastica	OMIM:231070
+4	0.6	De Barsy Syndrome	OMIM:219150
+5	0.5	Marfan Syndrome	OMIM:154700
+6	0.4	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+7	0.3	Lipodystrophy, Congenital Generalized, Type 1	OMIM:608594
+8	0.2	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+9	0.1	Congenital Contractural Arachnodactyly	OMIM:121050
+9	0.1	Wrinkly Skin Syndrome	OMIM:278250

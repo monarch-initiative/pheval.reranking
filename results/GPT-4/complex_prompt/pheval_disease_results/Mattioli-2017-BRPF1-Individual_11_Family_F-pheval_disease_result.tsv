@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Williams syndrome	OMIM:194050
+5	0.6	Rett syndrome	OMIM:312750
+7	0.5	Fragile X syndrome	OMIM:300624
+7	0.5	Prader-Willi syndrome	OMIM:176270
+7	0.5	Angelman syndrome	OMIM:105830
+10	0.4	Autosomal recessive non-syndromic intellectual disability	OMIM:249500

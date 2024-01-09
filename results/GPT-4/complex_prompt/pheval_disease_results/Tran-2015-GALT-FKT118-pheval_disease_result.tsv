@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.7	Hereditary Fructose Intolerance	OMIM:229600
+3	0.6	Congenital disorder of glycosylation, type Ih	OMIM:608104
+4	0.5	Urea Cycle Disorder	OMIM:237300
+5	0.4	Crigler Najjar Syndrome, type 1	OMIM:218800
+6	0.3	Crigler Najjar Syndrome, type 2	OMIM:606785
+7	0.2	Gilbert Syndrome	OMIM:143500

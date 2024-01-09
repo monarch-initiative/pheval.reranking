@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.7	Weaver syndrome	OMIM:277590
+3	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.5	Bardet-Biedl syndrome	OMIM:209900
+4	0.5	Smith-Magenis syndrome	OMIM:182290
+6	0.4	Prader-Willi syndrome	OMIM:176270
+7	0.3	Alagille syndrome	OMIM:118450
+8	0.2	Sotos syndrome	OMIM:117550
+9	0.1	Cornelia de Lange syndrome	OMIM:122470
+9	0.1	Williams syndrome	OMIM:194050

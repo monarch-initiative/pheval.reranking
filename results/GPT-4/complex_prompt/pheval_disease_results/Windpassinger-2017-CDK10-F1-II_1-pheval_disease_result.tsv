@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Freeman-Sheldon syndrome	OMIM:193700
+2	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Kabuki syndrome	OMIM:147920
+5	0.5	Cornelia de Lange syndrome	OMIM:122470
+6	0.4	Noonan syndrome	OMIM:163950
+7	0.3	Opitz G/BBB syndrome	OMIM:145410
+8	0.2	Williams syndrome	OMIM:194050
+9	0.1	Turner syndrome	OMIM:312560

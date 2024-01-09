@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 2	OMIM:157170
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.7	Meckel Syndrome, Type 1	OMIM:249000
+4	0.6	Aicardi syndrome	OMIM:304050
+5	0.5	Hydrolethalus Syndrome	OMIM:236680
+6	0.4	Joubert syndrome 1	OMIM:213300
+7	0.3	Fryns syndrome	OMIM:229850
+8	0.2	AGENESIS OF THE CORPUS CALLOSUM WITH PERIPHERAL NEUROPATHY	OMIM:218000
+9	0.1	Zellweger Syndrome	OMIM:214100

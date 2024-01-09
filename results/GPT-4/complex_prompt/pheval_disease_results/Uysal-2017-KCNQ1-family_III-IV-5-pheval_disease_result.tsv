@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome 1	OMIM:192500
+2	0.85	Long QT Syndrome 2	OMIM:613688
+3	0.8	Long QT Syndrome 3	OMIM:603830
+3	0.8	Jervell and Lange-Nielsen syndrome 1	OMIM:220400
+5	0.7	Jervell and Lange-Nielsen syndrome 2	OMIM:612347
+5	0.7	Timothy syndrome	OMIM:601005
+7	0.65	Long QT Syndrome 5	OMIM:613695
+8	0.6	Long QT Syndrome 6	OMIM:613693
+9	0.55	Long QT Syndrome 9	OMIM:611818
+10	0.5	Long QT Syndrome 10	OMIM:611819

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's Disease	OMIM:168600
+2	0.8	Dopa-Responsive Dystonia	OMIM:128230
+3	0.7	Multiple System Atrophy	OMIM:146500
+4	0.6	Lewy Body Dementia	OMIM:127750
+5	0.5	Supranuclear Palsy, Progressive	OMIM:601104
+6	0.4	Spinocerebellar Ataxia 2	OMIM:183090
+7	0.3	Corticobasal Degeneration	OMIM:615705
+8	0.2	Wilson Disease	OMIM:277900
+9	0.1	Neuroacanthocytosis	OMIM:200150

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy	OMIM:253300
+2	0.85	Duchenne Muscular Dystrophy	OMIM:310200
+3	0.8	Congenital Muscular Dystrophy	OMIM:613205
+4	0.75	Rigid Spine Syndrome	OMIM:602771
+5	0.7	Bethlem Myopathy	OMIM:158810
+5	0.7	Ullrich Congenital Muscular Dystrophy	OMIM:254090
+7	0.6	Charcot-Marie-Tooth Disease, Type 2	OMIM:101500
+7	0.6	Merosin-deficient congenital muscular dystrophy	OMIM:613204
+9	0.5	Limb-Girdle Muscular Dystrophy	OMIM:253600
+10	0.4	Fukuyama Congenital Muscular Dystrophy	OMIM:253800

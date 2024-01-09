@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenic syndrome, congenital, 9, associated with Acetylcholine Receptor Deficiency	OMIM:616313
+2	0.8	Amyotrophic Lateral Sclerosis	OMIM:105400
+3	0.75	Myasthenia Gravis	OMIM:254200
+4	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+5	0.65	Spinal Muscular Atrophy	OMIM:253300
+6	0.6	Lambert-Eaton Syndrome	OMIM:254200
+7	0.55	Progressive Muscular Dystrophy	OMIM:312520
+8	0.5	Charcot-Marie-Tooth Disease	OMIM:118220
+9	0.4	Congenital Myopathy	OMIM:609284
+10	0.3	Centronuclear Myopathy	OMIM:160150

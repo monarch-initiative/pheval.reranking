@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	IMMUNODEFICIENCY 16	OMIM:615574
+2	0.8	Hyper-IgM Immunodeficiency Syndrome	OMIM:308230
+3	0.7	Common Variable Immunodeficiency	OMIM:607594
+4	0.6	Autosomal Recessive Agammaglobulinemia	OMIM:613500
+5	0.5	Selective IgA Deficiency	OMIM:137100
+6	0.4	Immunodeficiency, Common Variable, 5	OMIM:613495
+7	0.3	Bare Lymphocyte Syndrome, Type II	OMIM:209920
+8	0.2	Acrofacial Dysostosis	OMIM:615284
+9	0.1	Immunodeficiency with Hyper IgM, Type 2	OMIM:605258

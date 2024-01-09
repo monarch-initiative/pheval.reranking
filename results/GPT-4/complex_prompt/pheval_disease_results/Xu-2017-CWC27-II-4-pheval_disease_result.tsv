@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.75	Crouzon syndrome	OMIM:123500
+2	0.75	Legius syndrome	OMIM:611431
+4	0.65	Apert syndrome	OMIM:101200
+5	0.6	Pfeiffer syndrome	OMIM:101600
+5	0.6	Saethre-Chotzen syndrome	OMIM:101400
+7	0.5	Muenke syndrome	OMIM:602849
+7	0.5	Jackson-Weiss syndrome	OMIM:123150
+9	0.4	Coffin-Lowry syndrome	OMIM:303600
+10	0.3	Noonan syndrome	OMIM:163950

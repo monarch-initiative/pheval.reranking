@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita	OMIM:224230
+2	0.85	Hoyeraal-Hreidarsson syndrome	OMIM:300240
+3	0.8	Revesz syndrome	OMIM:268130
+4	0.75	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 1	OMIM:614742
+5	0.7	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 2	OMIM:614743
+6	0.65	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 3	OMIM:616373
+7	0.6	Peeling skin syndrome 4	OMIM:618165

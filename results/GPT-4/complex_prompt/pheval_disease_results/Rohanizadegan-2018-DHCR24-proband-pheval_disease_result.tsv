@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 4	OMIM:614609
+2	0.7	Cornelia De Lange Syndrome 2	OMIM:300590
+3	0.6	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.6	Waardenburg Syndrome Type 1	OMIM:193500
+5	0.5	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.5	Williams Syndrome	OMIM:194050
+7	0.4	Treacher Collins Syndrome 2	OMIM:613717
+8	0.3	Oculodentodigital Dysplasia	OMIM:164200
+9	0.2	Blepharophimosis, Ptosis, and Epicanthus Inversus	OMIM:110100
+10	0.1	Popliteal Pterygium Syndrome	OMIM:119500

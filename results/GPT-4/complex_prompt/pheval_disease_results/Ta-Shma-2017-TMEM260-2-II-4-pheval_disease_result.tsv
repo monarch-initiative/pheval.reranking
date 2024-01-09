@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge syndrome	OMIM:188400
+2	0.8	Trisomy 18	OMIM:190685
+3	0.75	Truncus Arteriosus, Type I	OMIM:217095
+4	0.7	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+5	0.65	Alagille syndrome 1	OMIM:118450
+6	0.6	CHARGE syndrome	OMIM:214800
+7	0.5	Noonan syndrome 1	OMIM:163950
+8	0.4	Holt-Oram syndrome	OMIM:142900
+9	0.3	Cardiofaciocutaneous syndrome	OMIM:115150

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Craniofrontonasal Syndrome	OMIM:304110
+2	0.75	Apert Syndrome	OMIM:101200
+3	0.73	Saethre-Chotzen Syndrome	OMIM:101400
+4	0.7	Pfeiffer Syndrome	OMIM:101600
+4	0.7	Crouzon Syndrome	OMIM:123500
+6	0.65	Antley-Bixler Syndrome	OMIM:202650
+7	0.6	Ballard Syndrome	OMIM:214200
+8	0.55	Carpenter Syndrome	OMIM:201000
+9	0.5	Bohring-Opitz Syndrome	OMIM:605039
+10	0.45	Jackson-Weiss Syndrome	OMIM:123150

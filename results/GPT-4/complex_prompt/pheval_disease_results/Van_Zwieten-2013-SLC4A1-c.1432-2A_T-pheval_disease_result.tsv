@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.6	Hereditary Elliptocytosis	OMIM:130600
+3	0.5	Pyropoikilocytosis, Hereditary	OMIM:266140
+4	0.4	Spherocytosis Type 4	OMIM:612653
+5	0.3	Spherocytosis Type 3	OMIM:270970
+6	0.2	Spherocytosis Type 2	OMIM:616649
+7	0.1	Spherocytosis Type 5	OMIM:612690

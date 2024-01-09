@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Hyperoxaluria	OMIM:259900
+2	0.8	Dent disease	OMIM:300009
+3	0.7	Cystinuria	OMIM:220100
+4	0.6	Familial Hypomagnesemia with Hypercalciuria and Nephrocalcinosis	OMIM:248250
+5	0.5	Urolithiasis, Calcium Oxalate	OMIM:167030
+6	0.4	Distal Renal Tubular Acidosis	OMIM:179800
+7	0.3	Bartter syndrome	OMIM:241200
+8	0.2	Nephropathic Cystinosis	OMIM:219800
+9	0.1	Hypercalciuria, Absorptive	OMIM:114290

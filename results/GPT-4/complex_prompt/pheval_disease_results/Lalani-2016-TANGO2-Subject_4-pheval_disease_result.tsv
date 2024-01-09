@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carnitine Palmitoyltransferase II Deficiency	OMIM:600650
+2	0.8	Myoadenylate Deaminase Deficiency	OMIM:615511
+3	0.7	Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome	OMIM:238970
+4	0.6	Myopathic Carnitine Deficiency	OMIM:212140
+5	0.5	Congenital Hypothyroidism	OMIM:218700
+6	0.4	Congenital Muscular Dystrophy	OMIM:613205
+7	0.3	Proximal Myopathy with Focal Depletion of Mitochondria	OMIM:617123
+8	0.2	Familial Hypertrophic Cardiomyopathy 1	OMIM:192600
+9	0.1	Autosomal Recessive Limb-Girdle Muscular Dystrophy	OMIM:253600
+9	0.1	Autosomal Dominant Adult-Onset Proximal Spinal Muscular Atrophy	OMIM:181400

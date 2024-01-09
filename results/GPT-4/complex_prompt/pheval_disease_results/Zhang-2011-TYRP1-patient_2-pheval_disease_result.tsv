@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Oculocutaneous Albinism Type 1	OMIM:203100
+2	0.85	Oculocutaneous Albinism Type 2	OMIM:203200
+3	0.8	Chédiak-Higashi Syndrome	OMIM:214500
+4	0.7	Oculocutaneous Albinism Type 3	OMIM:203290
+5	0.6	Hermansky-Pudlak Syndrome	OMIM:203300
+6	0.5	Oculocutaneous Albinism Type 4	OMIM:606574
+7	0.4	Griscelli Syndrome Type 2	OMIM:607624
+8	0.3	Cross Syndrome	OMIM:273800
+9	0.2	Woolly Hair Hypotrichosis	OMIM:278150
+10	0.1	Pigmented Nodular Oncocytosis	OMIM:168600

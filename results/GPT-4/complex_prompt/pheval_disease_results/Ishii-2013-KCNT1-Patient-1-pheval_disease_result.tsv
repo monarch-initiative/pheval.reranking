@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dravet Syndrome	OMIM:607208
+2	0.85	SESAME Syndrome	OMIM:612780
+3	0.8	Lissencephaly	OMIM:607432
+4	0.75	Rett Syndrome	OMIM:312750
+5	0.7	Lennox-Gastaut Syndrome	OMIM:616346
+6	0.65	West Syndrome	OMIM:308350
+7	0.6	Angelman Syndrome	OMIM:105830
+8	0.55	Phelan-McDermid Syndrome	OMIM:606232
+9	0.5	CDKL5 Deficiency Disorder	OMIM:300672
+10	0.45	Aicardi Syndrome	OMIM:304050

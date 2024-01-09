@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan Syndrome	OMIM:163950
+2	0.8	Neurofibromatosis	OMIM:162200
+3	0.7	Cardiofaciocutaneous Syndrome	OMIM:115150
+4	0.6	Costello Syndrome	OMIM:218040
+5	0.5	Leopard Syndrome	OMIM:151100
+6	0.4	Turner Syndrome	OMIM:163950
+7	0.3	Williams Syndrome	OMIM:194050
+8	0.2	Char Syndrome	OMIM:169100
+9	0.1	Waardenburg Syndrome	OMIM:193500
+9	0.1	Hypertelorism, Teebi Type	OMIM:145420

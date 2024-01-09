@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.7	Hypomelanosis of Ito	OMIM:300337
+4	0.7	Cohen Syndrome	OMIM:216550
+6	0.65	Aicardi syndrome	OMIM:304050
+7	0.6	Zellweger syndrome	OMIM:214100
+7	0.6	Kabuki syndrome	OMIM:147920
+9	0.55	Crouzon syndrome	OMIM:123500
+10	0.5	Agammaglobulinemia	OMIM:300755

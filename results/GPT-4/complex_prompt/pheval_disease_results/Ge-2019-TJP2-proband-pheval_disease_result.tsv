@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progressive familial intrahepatic cholestasis	OMIM:607626
+2	0.8	Alagille syndrome 1	OMIM:118450
+3	0.7	Dubin-Johnson syndrome	OMIM:237500
+4	0.6	Wilson disease	OMIM:277900
+5	0.5	Primary biliary cirrhosis	OMIM:109720
+6	0.4	Alpha-1-antitrypsin deficiency	OMIM:613490
+7	0.3	Hemochromatosis	OMIM:235200
+8	0.2	Galactosemia	OMIM:230400
+9	0.1	Zellweger syndrome	OMIM:214100
+9	0.1	Tyrosinemia type 1	OMIM:276700

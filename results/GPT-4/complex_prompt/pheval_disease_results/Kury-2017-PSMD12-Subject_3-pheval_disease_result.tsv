@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fragile X syndrome	OMIM:300624
+2	0.85	Cohen syndrome	OMIM:216550
+3	0.8	Rett syndrome	OMIM:312750
+4	0.75	22q11.2 deletion syndrome	OMIM:188400
+5	0.5	Autosomal dominant non-syndromic intellectual disability	OMIM:156200
+6	0.4	Pitt-Hopkins syndrome	OMIM:610954
+7	0.3	Kleefstra syndrome	OMIM:610253
+7	0.3	CHARGE syndrome	OMIM:214800
+9	0.2	Autosomal recessive non-syndromic intellectual disability	OMIM:249500
+10	0.1	Mowat-Wilson syndrome	OMIM:235730

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Type 1A	OMIM:104530
+2	0.8	Amelogenesis Imperfecta, Type 1B	OMIM:180730
+3	0.7	Amelogenesis Imperfecta, Type 3A	OMIM:130900
+4	0.6	Amelogenesis Imperfecta, Type 2A	OMIM:204700
+5	0.5	Amelogenesis Imperfecta, Type 4	OMIM:104510
+6	0.4	Amelogenesis Imperfecta and Nephrocalcinosis	OMIM:204690
+7	0.3	Amelogenesis Imperfecta and Gingival Fibromatosis Syndrome	OMIM:614253
+8	0.2	Amelogenesis Imperfecta, Type 2B	OMIM:612529
+9	0.1	Amelogenesis Imperfecta with Taurodontism	OMIM:104510
+9	0.1	Amelogenesis Imperfecta-Pseudopapilledema Syndrome	OMIM:601216

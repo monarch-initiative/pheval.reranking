@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.7	Spinocerebellar ataxia, autosomal recessive 1	OMIM:606002
+4	0.6	Charcot-Marie-Tooth disease, type 2A	OMIM:609260
+4	0.6	Hereditary motor and sensory neuropathy, Russe type	OMIM:608088
+6	0.5	Charcot-Marie-Tooth disease, dominant intermediate C	OMIM:608323
+7	0.4	Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy	OMIM:607250
+7	0.4	Ataxia with vitamin E deficiency	OMIM:277460
+9	0.3	Abetalipoproteinemia	OMIM:200100
+10	0.2	Dejerine-Sottas syndrome	OMIM:145900

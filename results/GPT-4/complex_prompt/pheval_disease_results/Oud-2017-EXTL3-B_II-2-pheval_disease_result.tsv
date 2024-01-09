@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zori Stalker Williams syndrome	OMIM:603270
+2	0.8	Severe combined immunodeficiency	OMIM:102700
+3	0.7	Aicardi-Goutières syndrome	OMIM:225750
+4	0.6	West syndrome	OMIM:308350
+5	0.5	Coffin-Siris syndrome 4	OMIM:614609
+6	0.4	Atrial septal defect	OMIM:108800
+7	0.3	Brachydactyly	OMIM:113000
+8	0.2	Spondyloepiphyseal dysplasia	OMIM:183900
+9	0.1	Polydactyly Postaxial	OMIM:174200
+9	0.1	Skeletal dysplasia	OMIM:100800

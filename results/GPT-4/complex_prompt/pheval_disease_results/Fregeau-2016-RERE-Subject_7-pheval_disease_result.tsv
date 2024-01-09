@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Mowat-Wilson Syndrome	OMIM:235730
+2	0.82	CHARGE syndrome	OMIM:214800
+3	0.81	Coffin-Lowry syndrome	OMIM:303600
+4	0.76	Rubinstein-Taybi Syndrome 1	OMIM:180849
+5	0.72	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.7	Williams Syndrome	OMIM:194050
+7	0.68	Cornelia de Lange Syndrome 1	OMIM:122470
+8	0.65	Fragile X Syndrome	OMIM:300624
+9	0.63	18q Deletion Syndrome	OMIM:601808
+10	0.6	Kabuki Syndrome 1	OMIM:147920

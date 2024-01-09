@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Coffin-Lowry syndrome	OMIM:303600
+2	0.7	Apert syndrome	OMIM:101200
+3	0.65	Pfeiffer syndrome	OMIM:101600
+4	0.6	Crouzon syndrome	OMIM:123500
+5	0.55	Saethre-Chotzen syndrome	OMIM:101400
+6	0.5	Carpenter syndrome	OMIM:201000
+7	0.4	Mucopolysaccharidosis type IH	OMIM:607014
+8	0.3	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.1	Cornelia de Lange syndrome	OMIM:122470

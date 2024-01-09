@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier Syndrome	OMIM:231200
+2	0.75	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+3	0.65	May-Hegglin Anomaly	OMIM:155100
+4	0.6	Gray Platelet Syndrome	OMIM:139090
+5	0.5	Wiskott-Aldrich Syndrome	OMIM:301000
+6	0.45	Alport Syndrome	OMIM:301050
+7	0.4	Platelet-type Bleeding Disorder	OMIM:600200
+8	0.35	Thrombocytopenia With Absent Radii	OMIM:274000
+9	0.3	Paris-Trousseau Syndrome	OMIM:188025
+10	0.2	Hemolytic Uremic Syndrome	OMIM:235400

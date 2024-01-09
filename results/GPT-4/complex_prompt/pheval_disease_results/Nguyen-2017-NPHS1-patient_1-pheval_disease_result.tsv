@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neonatal Nephrotic Syndrome, Finnish type	OMIM:256300
+2	0.8	Nephrotic Syndrome, Type 1, Congenital	OMIM:614199
+3	0.7	Nephrotic Syndrome, Type 2, Congenital	OMIM:614196
+4	0.6	Nephrotic Syndrome, Type 3, Congenital	OMIM:610725
+5	0.5	Congenital Lipoid Adrenal Hyperplasia	OMIM:201710
+6	0.4	Infantile Cortical Hyperostosis	OMIM:114000
+7	0.3	Nephrotic Syndrome, Type 4, Congenital	OMIM:256370
+8	0.2	Nephrotic Syndrome, Type 5, Congenital	OMIM:614199
+9	0.1	Congenital Nephrosis, Finnish type	OMIM:602716

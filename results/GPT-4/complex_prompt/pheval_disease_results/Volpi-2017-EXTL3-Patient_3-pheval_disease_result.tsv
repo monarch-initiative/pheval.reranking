@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloenchondrodysplasia due to ACP5 deficiency	OMIM:271550
+2	0.8	Schwartz-Lelek syndrome	OMIM:269160
+3	0.7	Short-rib thoracic dysplasia 9 with or without polydactyly	OMIM:266920
+4	0.6	Leri-Weill dyschondrosteosis	OMIM:127300
+4	0.6	Ellis-van Creveld syndrome	OMIM:225500
+6	0.5	Pyle disease	OMIM:265900
+7	0.4	Coffin-Siris syndrome	OMIM:135900
+7	0.4	Smith-McCort dysplasia 2	OMIM:615222
+9	0.3	Cranioectodermal dysplasia 4	OMIM:613610
+10	0.2	Thanatophoric dysplasia, type I	OMIM:187600

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Orofaciodigital syndrome I	OMIM:311200
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Hallermann-Streiff syndrome	OMIM:234100
+4	0.6	Trisomy 13	OMIM:264480
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Pfeiffer syndrome	OMIM:101600
+7	0.3	Apert syndrome	OMIM:101200
+8	0.2	Crouzon syndrome	OMIM:123500
+9	0.1	Greig cephalopolysyndactyly syndrome	OMIM:175700

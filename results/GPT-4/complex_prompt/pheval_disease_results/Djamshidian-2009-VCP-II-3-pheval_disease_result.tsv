@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	GNE Myopathy	OMIM:605820
+2	0.8	Paget Disease of Bone	OMIM:167250
+3	0.7	Distal Myopathy Markesbery-Griggs Type	OMIM:608423
+4	0.6	Inclusion Body Myopathy 2	OMIM:600737
+5	0.5	Hereditary Inclusion Body Myopathy	OMIM:600737
+6	0.4	Amyotrophic Lateral Sclerosis	OMIM:105400
+7	0.3	Myopathy Distal Type	OMIM:601846
+8	0.2	Spinal Muscular Atrophy	OMIM:253300
+9	0.1	Limb-Girdle Muscular Dystrophy	OMIM:253600

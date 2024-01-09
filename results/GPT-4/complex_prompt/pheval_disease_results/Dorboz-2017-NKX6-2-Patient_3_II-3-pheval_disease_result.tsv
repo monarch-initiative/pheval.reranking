@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.8	Phosphoserine Phosphatase Deficiency	OMIM:614023
+3	0.7	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	De Barsy Syndrome	OMIM:219150
+4	0.6	Ataxia-telangiectasia syndrome	OMIM:208900
+6	0.5	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.4	Siegel-Causey syndrome	OMIM:269720
+8	0.3	Gaucher Disease Type 3	OMIM:231000
+9	0.2	Berardinelli-Seip Congenital Lipodystrophy	OMIM:608594
+10	0.1	Zellweger Syndrome	OMIM:214100

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.8	Congenital hypothyroidism	OMIM:218700
+3	0.7	Congenital nongoitrous hypothyroidism 6	OMIM:218700
+4	0.6	Charge syndrome	OMIM:214800
+5	0.5	Ectodermal dysplasia	OMIM:129490
+6	0.4	Pfeiffer Syndrome	OMIM:101600
+7	0.3	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.2	Pallister-Hall syndrome	OMIM:146510

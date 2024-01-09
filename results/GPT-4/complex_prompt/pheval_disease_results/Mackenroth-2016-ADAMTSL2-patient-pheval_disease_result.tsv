@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Desbuquois Dysplasia 1	OMIM:251450
+2	0.8	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+3	0.7	Acrofacial Dysostosis, Weyers Type	OMIM:193530
+3	0.7	Cranioectodermal Dysplasia 4	OMIM:612378
+3	0.7	Brachydactyly type A1	OMIM:112500
+6	0.6	Ellis-van Creveld syndrome	OMIM:225500
+6	0.6	Schinzel-Giedion syndrome	OMIM:269150
+6	0.6	Smith-McCort Dysplasia	OMIM:607326
+6	0.6	Doyle Syndrome	OMIM:301300
+10	0.5	Saul-Wilson syndrome	OMIM:618150

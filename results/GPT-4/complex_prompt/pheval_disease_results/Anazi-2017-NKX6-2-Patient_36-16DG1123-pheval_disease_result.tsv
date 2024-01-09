@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.8	Hypomyelination and Congenital Cataract	OMIM:610532
+3	0.7	Vanishing White Matter Disease	OMIM:603896
+4	0.6	Metachromatic Leukodystrophy	OMIM:250100
+5	0.5	Cockayne Syndrome Type 1	OMIM:216400
+6	0.4	Alexander Disease	OMIM:203450
+7	0.3	Canavan Disease	OMIM:271900
+8	0.2	Krabbe Disease	OMIM:245200
+9	0.1	Zellweger Syndrome	OMIM:214100

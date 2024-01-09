@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Treacher Collins Syndrome	OMIM:154500
+2	0.7	Marfan Syndrome	OMIM:154700
+3	0.6	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+3	0.6	Pycnodysostosis	OMIM:265800
+5	0.5	Ectodermal Dysplasia	OMIM:129490
+6	0.4	Stickler Syndrome	OMIM:108300
+6	0.4	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.3	Cleidocranial Dysplasia	OMIM:119600
+9	0.2	Crouzon Syndrome	OMIM:123500
+10	0.1	Apert Syndrome	OMIM:101200

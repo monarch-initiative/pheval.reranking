@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic Hyperkeratosis	OMIM:113800
+2	0.8	Keratosis Palmaris et Plantaris	OMIM:144200
+3	0.7	Palmoplantar Keratoderma type 1	OMIM:144200
+4	0.6	Ichthyosis Bullosa of Siemens	OMIM:146800
+5	0.5	Diffuse nonepidermolytic palmoplantar keratoderma	OMIM:612908

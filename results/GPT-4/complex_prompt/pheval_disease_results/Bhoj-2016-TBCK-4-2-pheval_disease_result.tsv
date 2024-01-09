@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader Willi Syndrome	OMIM:176270
+2	0.8	Down Syndrome	OMIM:190685
+2	0.8	Rett Syndrome	OMIM:312750
+4	0.7	Angelman Syndrome	OMIM:105830
+4	0.7	Spinal Muscular Atrophy	OMIM:253300
+6	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.6	Tay-Sachs Disease	OMIM:272800
+8	0.5	Canavan Disease	OMIM:271900
+8	0.5	Fragile X Syndrome	OMIM:300624
+10	0.4	Krabbe Disease	OMIM:245200

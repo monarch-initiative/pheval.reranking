@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Coffin-Siris syndrome 4	OMIM:614223
+3	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.6	Rapp-Hodgkin syndrome	OMIM:129400
+5	0.5	Cornelia de Lange syndrome 4	OMIM:614701
+6	0.4	Cornelia de Lange syndrome 2	OMIM:300590
+7	0.3	Kabuki syndrome 1	OMIM:147920
+8	0.2	Rubinstein-Taybi syndrome 2	OMIM:613684
+9	0.1	Dermatopathia pigmentosa reticularis	OMIM:125595
+10	0.05	Coffin-Siris syndrome 1	OMIM:135900

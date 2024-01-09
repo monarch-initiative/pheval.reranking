@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Leber Congenital Amaurosis	OMIM:204000
+3	0.75	Retinitis Pigmentosa	OMIM:268000
+4	0.7	Alstrom Syndrome	OMIM:203800
+5	0.65	Usher Syndrome	OMIM:276900
+6	0.6	Cohen Syndrome	OMIM:216550
+7	0.55	Stargardt Disease	OMIM:248200
+8	0.5	Juvenile Macular Degeneration	OMIM:248200

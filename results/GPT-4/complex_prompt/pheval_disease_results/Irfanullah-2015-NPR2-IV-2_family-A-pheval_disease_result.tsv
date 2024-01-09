@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Three M Syndrome 1	OMIM:273750
+2	0.8	Three M Syndrome 2	OMIM:612921
+3	0.7	Three M Syndrome 3	OMIM:614608
+4	0.6	Pseudohypoparathyroidism Type 1A	OMIM:103580
+5	0.5	Acrodysostosis 1, With Or Without Hormone Resistance	OMIM:101800
+6	0.4	Hypochondroplasia	OMIM:146000
+7	0.3	Achondroplasia	OMIM:100800
+8	0.2	Albright Hereditary Osteodystrophy	OMIM:103580
+9	0.1	Acromesomelic Dysplasia, Hunter-Thompson Type	OMIM:201250

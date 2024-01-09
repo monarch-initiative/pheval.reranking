@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mucopolysaccharidosis type IIIA	OMIM:252900
+2	0.8	Mucopolysaccharidosis type IIIB	OMIM:252920
+3	0.75	Mucopolysaccharidosis type IIIC	OMIM:252930
+4	0.7	Mucopolysaccharidosis type IIID	OMIM:252940
+5	0.65	Mucopolysaccharidosis type IV	OMIM:253000
+6	0.6	Mucopolysaccharidosis type VI	OMIM:253200
+7	0.55	Sotos syndrome	OMIM:117550
+8	0.5	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.45	Weaver syndrome	OMIM:277590
+10	0.4	Coffin-Lowry syndrome	OMIM:303600

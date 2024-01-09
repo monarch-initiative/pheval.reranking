@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital insensitivity to pain	OMIM:243000
+2	0.8	Hereditary sensory and autonomic neuropathy type V	OMIM:608654
+3	0.7	Spastic paraplegia	OMIM:312910
+4	0.6	Pyomyositis	OMIM:615464
+5	0.5	Peripheral neuropathy	OMIM:162500
+6	0.4	Hereditary motor and sensory neuropathy	OMIM:145900
+7	0.3	Trimethadione syndrome	OMIM:556340
+8	0.2	Myelitis	OMIM:156580
+9	0.1	Sarcopenia	OMIM:601788

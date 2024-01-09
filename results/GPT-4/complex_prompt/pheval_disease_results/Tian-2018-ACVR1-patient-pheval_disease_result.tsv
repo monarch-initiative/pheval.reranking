@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Alkaptonuria	OMIM:203500
+2	0.7	Progressive osseous heteroplasia	OMIM:166350
+3	0.6	Osteogenesis imperfecta	OMIM:166200
+3	0.6	Fibrodysplasia ossificans progressiva	OMIM:135100
+3	0.6	Hypophosphatasia	OMIM:241500
+6	0.5	Hyperphosphatemic familial tumoral calcinosis	OMIM:211900
+7	0.4	Pseudogout	OMIM:612372
+8	0.3	Hypercalcemia, infantile, 1	OMIM:143880
+9	0.2	Hyperphosphatemia, polyuria, and seizures	OMIM:143095
+10	0.1	Polyarteritis nodosa	OMIM:615688

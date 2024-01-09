@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+2	0.85	Amegakaryocytic Thrombocytopenia	OMIM:604498
+3	0.8	Bernard-Soulier Syndrome	OMIM:231200
+4	0.7	Thrombocytopenia 2	OMIM:188000
+5	0.65	Thrombocytopenia 1	OMIM:313900
+6	0.6	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+7	0.55	Thrombocytopenia 4	OMIM:612004
+8	0.5	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.45	Gray Platelet Syndrome	OMIM:139090
+10	0.4	CAMT (congenital amegakaryocytic thrombocytopenia)	OMIM:604498

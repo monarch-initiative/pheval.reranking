@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.7	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+3	0.6	Loeys-Dietz Syndrome	OMIM:609192
+3	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.5	Conductive Hearing Loss	OMIM:606959
+6	0.4	Stickler Syndrome, Type I	OMIM:108300
+7	0.3	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.3	Ehlers-Danlos Syndrome, Hypermobile Type	OMIM:130020
+9	0.2	Weill-Marchesani Syndrome	OMIM:277600
+10	0.1	Homocystinuria due to MTHFR deficiency	OMIM:236250

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Adenosine Deaminase Deficiency	OMIM:102700
+2	0.8	Severe Combined Immunodeficiency	OMIM:102700
+3	0.7	Immunodeficiency with Hyper IgM, type 1	OMIM:308230
+4	0.6	Common Variable Immunodeficiency	OMIM:607594
+5	0.5	Selective IgA Deficiency	OMIM:137100
+6	0.4	Hyper IgM Syndrome, type 3	OMIM:606843
+7	0.3	Immunodeficiency with Hyper IgM, type 2	OMIM:605258
+8	0.2	Bare Lymphocyte Syndrome, type II	OMIM:209920
+9	0.1	Immunodeficiency with Elevated IgM and Hypogammaglobulinemia	OMIM:308380

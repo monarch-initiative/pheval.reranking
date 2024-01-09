@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis Type IIIA	OMIM:252900
+2	0.8	Mucolipidosis Type III Alpha/Beta	OMIM:252600
+3	0.7	Multiple Sulphatase Deficiency	OMIM:272200
+4	0.6	Alpha-Mannosidosis	OMIM:248500
+5	0.5	Mucolipidosis Type II Alpha/Beta	OMIM:252500
+6	0.4	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+7	0.3	Beta-Mannosidosis	OMIM:248510
+8	0.2	Sanfilippo Syndrome Type B	OMIM:252920
+9	0.1	Sanfilippo Syndrome Type C	OMIM:252930
+9	0.1	Sanfilippo Syndrome Type D	OMIM:252940

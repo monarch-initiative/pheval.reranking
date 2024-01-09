@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:182600
+2	0.8	Cerebral Palsy	OMIM:605388
+3	0.7	Amyotrophic Lateral Sclerosis	OMIM:105400
+4	0.6	Tight Hamstring Syndrome	OMIM:617391
+5	0.5	Charcot-Marie-Tooth Disease	OMIM:601097
+6	0.4	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+7	0.3	Cortical Basal Ganglionic Degeneration	OMIM:615493
+8	0.2	Primary Lateral Sclerosis	OMIM:300117
+9	0.1	Sjögren-Larsson Syndrome	OMIM:270200
+9	0.1	Infantile Neuroaxonal Dystrophy	OMIM:256600

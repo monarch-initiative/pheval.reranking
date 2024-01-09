@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+2	0.8	Posterior Column Ataxia With Retinitis Pigmentosa	OMIM:609033
+3	0.7	Aicardi-Goutieres syndrome	OMIM:225750
+4	0.6	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+5	0.5	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+6	0.4	Hereditary sensory and autonomic neuropathy type II	OMIM:201300
+7	0.3	Hypomyelinating leukodystrophy 6	OMIM:616531
+8	0.2	Roussy-Levy syndrome	OMIM:180800
+9	0.1	Episodic ataxia, type 1	OMIM:160120
+10	0.05	Leukoencephalopathy with vanishing white matter	OMIM:603896

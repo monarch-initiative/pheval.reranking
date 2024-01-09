@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE Syndrome	OMIM:214800
+2	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+3	0.6	Moebius Syndrome	OMIM:157900
+4	0.5	Noonan Syndrome	OMIM:163950
+5	0.4	DiGeorge Syndrome	OMIM:188400
+6	0.3	Goldenhar Syndrome	OMIM:164210
+7	0.2	Prader-Willi Syndrome	OMIM:176270
+8	0.1	Hypoplastic Left Heart Syndrome	OMIM:241550

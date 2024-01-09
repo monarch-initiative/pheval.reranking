@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Hypophosphatasia	OMIM:146300
+3	0.7	Paget disease of bone	OMIM:602080
+4	0.6	Cole-Carpenter syndrome	OMIM:112240
+5	0.5	Alagille syndrome	OMIM:118450
+6	0.4	Cholestasis, progressive familial intrahepatic 2	OMIM:601847
+7	0.3	Bruck syndrome	OMIM:259450
+8	0.2	Hajdu-Cheney syndrome	OMIM:102500
+9	0.1	Pyle's disease	OMIM:265900
+9	0.1	Ehlers-Danlos syndrome	OMIM:130000

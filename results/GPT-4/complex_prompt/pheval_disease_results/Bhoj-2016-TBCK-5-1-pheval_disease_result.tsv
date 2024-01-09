@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Congenital generalized lipodystrophy	OMIM:608594
+2	0.7	Coffin-Lowry syndrome	OMIM:303600
+3	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Costello syndrome	OMIM:218040
+6	0.4	Mucopolysaccharidosis	OMIM:252700
+7	0.3	Sanfilippo syndrome	OMIM:252900
+7	0.3	Marshall-Smith syndrome	OMIM:602535
+9	0.2	Williams syndrome	OMIM:194050
+10	0.1	Alpha-mannosidosis	OMIM:248500

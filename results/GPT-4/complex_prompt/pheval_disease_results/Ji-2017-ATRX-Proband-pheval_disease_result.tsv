@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+3	0.6	Coffin-Lowry Syndrome	OMIM:303600
+4	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.4	Rothmund-Thomson Syndrome	OMIM:268400
+6	0.3	Baller-Gerold Syndrome	OMIM:218600
+7	0.2	Diamond-Blackfan anemia	OMIM:105650
+8	0.1	Williams Syndrome	OMIM:194050
+9	0.05	Feingold Syndrome	OMIM:164280
+10	0.01	Oculo-Auriculo-Vertebral Spectrum	OMIM:164210

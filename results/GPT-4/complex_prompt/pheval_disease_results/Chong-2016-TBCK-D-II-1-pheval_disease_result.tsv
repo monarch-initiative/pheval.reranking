@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Alpha-thalassemia X-linked intellectual disability syndrome	OMIM:301040
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.6	Barth syndrome	OMIM:302060
+6	0.5	Rett Syndrome	OMIM:312750
+6	0.5	Pelizaeus-Merzbacher disease	OMIM:312080
+8	0.4	Aicardi syndrome	OMIM:304050
+8	0.4	Canavan disease	OMIM:271900
+10	0.3	Pantothenate kinase-associated neurodegeneration	OMIM:234200

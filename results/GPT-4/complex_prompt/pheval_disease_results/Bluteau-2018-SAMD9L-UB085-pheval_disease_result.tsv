@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ataxia-Pancytopenia Syndrome	OMIM:159550
+2	0.8	Dyskeratosis Congenita, Autosomal Recessive, 6	OMIM:616353
+3	0.7	Seckel Syndrome 2	OMIM:606744
+4	0.6	Joubert Syndrome 10	OMIM:300804
+5	0.5	Aicardi Goutieres Syndrome 6	OMIM:615010
+6	0.4	Immunodeficiency With Hyper-IgM, Type 2	OMIM:605258
+7	0.3	Joubert Syndrome 2	OMIM:608091
+8	0.2	Mitchell Syndrome	OMIM:601052
+9	0.1	Dandy-Walker Syndrome	OMIM:220200

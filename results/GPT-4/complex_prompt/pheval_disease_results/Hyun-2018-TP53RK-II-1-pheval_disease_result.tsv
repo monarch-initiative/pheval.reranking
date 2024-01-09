@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Frasier Syndrome	OMIM:136680
+2	0.8	MECKEL SYNDROME, TYPE 1; MKS1	OMIM:249000
+3	0.7	Galloway-Mowat Syndrome 1, X-Linked	OMIM:305040
+3	0.7	Denys-Drash Syndrome	OMIM:194080
+5	0.6	Lissencephaly 6 With Microcephaly	OMIM:616212
+5	0.6	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.5	ARX-related encephalopathy spectrum disorder	OMIM:300382
+7	0.5	Galloway-Mowat Syndrome	OMIM:251300
+9	0.4	Seckel Syndrome 1	OMIM:210600
+9	0.4	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720

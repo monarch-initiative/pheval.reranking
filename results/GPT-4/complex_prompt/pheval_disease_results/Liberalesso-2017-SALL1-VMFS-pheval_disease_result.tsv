@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Townes-Brocks Syndrome	OMIM:107480
+2	0.85	Feingold Syndrome	OMIM:164280
+3	0.78	Branchiootorenal Syndrome	OMIM:113650
+4	0.71	Verloes Bourguignon Syndrome	OMIM:615560
+5	0.66	3MC Syndrome	OMIM:257920
+6	0.63	Alagille Syndrome 1	OMIM:118450
+7	0.57	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.51	Cornelia De Lange Syndrome	OMIM:122470
+9	0.45	Saethre-Chotzen Syndrome	OMIM:101400
+10	0.42	Smith-Lemli-Opitz Syndrome	OMIM:270400

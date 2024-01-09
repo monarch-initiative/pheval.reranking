@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Beals Syndrome	OMIM:121050
+3	0.7	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.7	Congenital Contractural Arachnodactyly	OMIM:121050
+5	0.5	Stickler Syndrome, Type I	OMIM:108300
+6	0.4	Sotos Syndrome	OMIM:117550
+7	0.3	Klippel-Feil Syndrome	OMIM:118100
+8	0.2	Homocystinuria	OMIM:236200
+9	0.1	Spondyloepimetaphyseal Dysplasia	OMIM:272350
+9	0.1	Pfeiffer Syndrome	OMIM:101600

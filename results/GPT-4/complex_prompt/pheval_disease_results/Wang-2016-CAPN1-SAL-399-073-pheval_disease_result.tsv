@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia	OMIM:164400
+2	0.7	Ataxia-Telangiectasia	OMIM:208900
+3	0.6	Friedreich Ataxia	OMIM:229300
+4	0.5	Ataxia with Vitamin E deficiency	OMIM:277460
+5	0.4	Paraneoplastic cerebellar degeneration	OMIM:114240
+6	0.3	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+7	0.2	Episodic ataxia type 2	OMIM:108500
+8	0.1	Autosomal dominant spastic paraplegia type 4	OMIM:182601

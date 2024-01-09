@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal Recessive Spastic Paraplegia Type 56	OMIM:615030
+2	0.85	Coffin-Siris Syndrome 1	OMIM:135900
+2	0.85	Cornelia de Lange Syndrome 1	OMIM:122470
+4	0.8	Neurodevelopmental Disorder with Structural Brain Anomalies and Dysmorphic Facies	OMIM:618577
+4	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.8	Ohdo Syndrome	OMIM:249620
+7	0.7	Ehlers-Danlos Syndrome, Classic Type, 2	OMIM:130010
+8	0.6	Mental Retardation, Autosomal Dominant 22	OMIM:615516
+9	0.5	Autosomal Recessive Hypotrichosis	OMIM:612132
+10	0.4	FG Syndrome 2	OMIM:300321

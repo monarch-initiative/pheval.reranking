@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Pfeiffer Syndrome	OMIM:101600
+3	0.7	CHARGE Syndrome	OMIM:214800
+4	0.6	Apert Syndrome	OMIM:101200
+4	0.6	Craniofrontonasal Syndrome	OMIM:304110
+6	0.5	Cornelia De Lange Syndrome	OMIM:122470
+7	0.4	Treacher Collins Syndrome	OMIM:154500
+8	0.3	Crouzon Syndrome	OMIM:123500
+9	0.2	Nager Syndrome	OMIM:154400
+10	0.1	Wolf-Hirschhorn Syndrome	OMIM:194190

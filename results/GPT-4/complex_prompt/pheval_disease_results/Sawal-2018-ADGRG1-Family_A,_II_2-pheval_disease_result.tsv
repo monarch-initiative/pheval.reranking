@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 47	OMIM:617166
+2	0.8	Mental retardation, autosomal recessive 51	OMIM:616739
+3	0.7	Polymicrogyria, asymmetric	OMIM:300643
+4	0.6	Epilepsy, focal, with speech disorder and with or without mental retardation	OMIM:245570
+5	0.5	Epileptic encephalopathy, early infantile, 23	OMIM:615859
+6	0.4	Polymicrogyria, bilateral perisylvian, autosomal recessive	OMIM:615752
+7	0.3	Epileptic encephalopathy, early infantile, 18	OMIM:615476
+8	0.2	Epilepsy, idiopathic generalized 13	OMIM:616645
+9	0.1	Epileptic encephalopathy, early infantile, 3	OMIM:604403
+10	0.05	Epileptic encephalopathy, early infantile, 55	OMIM:617599

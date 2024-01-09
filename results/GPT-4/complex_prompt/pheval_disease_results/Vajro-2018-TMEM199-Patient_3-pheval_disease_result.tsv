@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Hepatic steatosis	OMIM:600673
+3	0.75	Alpha-1 antitrypsin deficiency	OMIM:613490
+4	0.7	Alagille syndrome	OMIM:118450
+5	0.65	Nonalcoholic Fatty Liver Disease	OMIM:211600
+6	0.6	Hemochromatosis	OMIM:235200
+7	0.5	Transferrin deficiency	OMIM:209300
+8	0.4	Primary biliary cirrhosis	OMIM:109720
+9	0.3	Glycogen storage disease type 3	OMIM:232400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Chronic Kidney Disease	OMIM:613095
+2	0.9	Gout	OMIM:138900
+3	0.85	Medullary Cystic Kidney Disease	OMIM:603860
+4	0.8	Polycystic Kidney Disease, Autosomal Dominant	OMIM:173900
+5	0.7	Polycystic Kidney Disease, Autosomal Recessive	OMIM:613095
+6	0.65	Urolithiasis, Calcium Oxalate	OMIM:167030
+7	0.6	Hyperuricemia, Familial Juvenile, 1	OMIM:220150
+8	0.5	Renal Hypouricemia 1	OMIM:220150
+9	0.45	Hypertension, Diastolic, Resistance To	OMIM:614823
+10	0.4	Renal Tubular Acidosis, Distal	OMIM:179800

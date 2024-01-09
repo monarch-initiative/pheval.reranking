@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith Lemli Opitz Syndrome	OMIM:270400
+2	0.7	Kleeblattschadel Syndrome	OMIM:148200
+3	0.65	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.6	18q Deletion Syndrome	OMIM:601808
+5	0.55	Coffin Siris Syndrome	OMIM:135900
+6	0.5	Opitz Gbbb Syndrome	OMIM:300000
+7	0.45	Orofaciodigital Syndrome	OMIM:311200
+8	0.4	Williams Syndrome	OMIM:194050
+9	0.35	Nager Acrofacial Dysostosis	OMIM:154400
+10	0.3	Goldenhar Syndrome	OMIM:164210

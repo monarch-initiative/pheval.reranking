@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Leukodystrophy, Hypomyelinating, 5	OMIM:605253
+3	0.8	Spastic Paraplegia 49, Autosomal Recessive	OMIM:612014
+4	0.75	Aicardi-Goutieres syndrome 2	OMIM:610181
+5	0.72	Leigh syndrome	OMIM:256000
+6	0.68	Spastic Paraplegia 2, X-linked	OMIM:312920
+7	0.65	Rett syndrome	OMIM:312750
+8	0.63	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+9	0.6	Muscular Dystrophy, Congenital, Compton-North	OMIM:613204
+10	0.58	Neurodegeneration with Brain Iron Accumulation 4	OMIM:610217

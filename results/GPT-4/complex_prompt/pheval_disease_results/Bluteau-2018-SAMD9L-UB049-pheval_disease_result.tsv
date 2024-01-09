@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hoyeraal Hreidarsson Syndrome	OMIM:300240
+2	0.8	Dyskeratosis Congenita, Autosomal Dominant 6	OMIM:616353
+3	0.7	Dyskeratosis Congenita, Autosomal Recessive 6	OMIM:615282
+4	0.6	Revesz Syndrome	OMIM:268130
+5	0.5	Dyskeratosis Congenita, X-Linked	OMIM:305000
+6	0.4	Severe Combined Immunodeficiency	OMIM:102700
+7	0.3	Familial Aplastic Anemia	OMIM:609135
+8	0.2	Fanconi Anemia, Complementation Group L	OMIM:608111
+9	0.1	Seckel Syndrome	OMIM:210600
+9	0.1	Nijmegen Breakage Syndrome	OMIM:251260

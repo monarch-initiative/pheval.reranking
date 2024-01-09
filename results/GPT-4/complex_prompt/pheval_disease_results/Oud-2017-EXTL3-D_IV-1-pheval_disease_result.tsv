@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ellis-van Creveld syndrome	OMIM:225500
+2	0.85	Chondrodysplasia punctata 1, X-linked recessive	OMIM:302960
+3	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.75	Pallister-Killian syndrome	OMIM:601803
+5	0.7	Schmid metaphyseal chondrodysplasia	OMIM:156500
+6	0.65	Pseudoachondroplasia	OMIM:177170
+7	0.6	Campomelic dysplasia	OMIM:114290
+8	0.55	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+9	0.5	Smith-Magenis syndrome	OMIM:182290
+10	0.45	Jeune syndrome	OMIM:208500

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aicardi-Goutieres syndrome	OMIM:225750
+2	0.8	Coffin-Lowry syndrome	OMIM:303600
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Early infantile epileptic encephalopathy	OMIM:308350
+5	0.5	Tuberous sclerosis	OMIM:191100
+6	0.4	West syndrome	OMIM:308350
+7	0.3	Dravet syndrome	OMIM:607208
+8	0.2	Lennox-Gastaut syndrome	OMIM:615369

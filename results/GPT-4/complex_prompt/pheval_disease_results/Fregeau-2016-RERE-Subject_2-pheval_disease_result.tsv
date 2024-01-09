@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	CHARGE syndrome	OMIM:214800
+2	0.82	Mental retardation-hypotonic facies syndrome, X-linked, 1	OMIM:309580
+3	0.79	Opitz-Kaveggia syndrome	OMIM:305450
+4	0.75	VACTERL association, X-linked, with or without hydrocephalus	OMIM:314390
+5	0.72	Kabuki syndrome 1	OMIM:147920
+6	0.68	Coffin-Siris syndrome 1	OMIM:135900
+7	0.67	Mowat-Wilson syndrome	OMIM:235730
+8	0.63	Noonan syndrome 1	OMIM:163950
+9	0.61	Cornelia de Lange syndrome 1	OMIM:122470
+10	0.57	Ritscher-Schinzel syndrome	OMIM:220210

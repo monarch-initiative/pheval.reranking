@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.8	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+3	0.75	Progressive supranuclear palsy	OMIM:601104
+4	0.7	Friedreich ataxia	OMIM:229300
+5	0.65	Multiple system atrophy	OMIM:146500
+6	0.6	Striatonigral degeneration, autosomal dominant	OMIM:271930
+7	0.55	Cerebrotendinous xanthomatosis	OMIM:213700
+8	0.5	Ataxia with Vitamin E Deficiency	OMIM:277460
+9	0.45	Spinocerebellar ataxia type 2	OMIM:183090
+10	0.4	Spinocerebellar Ataxia, Autosomal Recessive 2	OMIM:213200

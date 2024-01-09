@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa, autosomal recessive, type IIA (ARCL2A)	OMIM:219200
+2	0.85	Urban-Rifkin-Davis Syndrome	OMIM:613177
+3	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.75	Gerodermia osteodysplastica	OMIM:231070
+5	0.7	Marfan Syndrome	OMIM:154700
+6	0.65	Lujan-Fryns syndrome	OMIM:309520
+7	0.6	Alport Syndrome	OMIM:301050
+8	0.55	Loeys-Dietz syndrome	OMIM:609192
+9	0.5	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+10	0.45	Williams syndrome	OMIM:194050

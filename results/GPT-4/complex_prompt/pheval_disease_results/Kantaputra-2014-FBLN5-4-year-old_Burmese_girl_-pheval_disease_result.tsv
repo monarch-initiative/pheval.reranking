@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Gerodermia Osteodysplastica	OMIM:231070
+2	0.75	Ehlers-Danlos Syndrome, Arthrochalasia Type, 1	OMIM:130060
+3	0.72	Loeys-Dietz Syndrome	OMIM:610168
+4	0.69	Marfan Syndrome	OMIM:154700
+5	0.67	Cutis Laxa, Autosomal Recessive, Type 1A	OMIM:219100
+6	0.63	Acrogeria, Gottron Type	OMIM:201250
+7	0.58	Homocystinuria due to CBS deficiency	OMIM:236200
+8	0.57	Ehlers-Danlos Syndrome, Classic Type, 1	OMIM:130000
+9	0.53	Ehlers-Danlos Syndrome, Classic Type, 2	OMIM:130010
+10	0.52	Ehlers-Danlos Syndrome, Type Vii, Autosomal Dominant	OMIM:130060

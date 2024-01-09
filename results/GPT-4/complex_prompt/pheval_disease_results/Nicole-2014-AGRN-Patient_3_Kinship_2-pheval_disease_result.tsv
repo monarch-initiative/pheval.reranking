@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myasthenic Syndrome	OMIM:608931
+2	0.8	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+3	0.7	Lambert-Eaton Syndrome	OMIM:600603
+3	0.7	Myasthenia Gravis	OMIM:254200
+5	0.6	Mitochondrial Myopathy	OMIM:251900
+6	0.5	Central Core Disease	OMIM:117000
+7	0.4	Spinal Muscular Atrophy	OMIM:253300
+8	0.3	Chronic Progressive External Ophthalmoplegia	OMIM:157640
+9	0.2	Muscular Dystrophy-Dystroglycanopathy	OMIM:613152
+10	0.1	Hereditary Inclusion Body Myopathy	OMIM:600737

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ulnar-Mammary Syndrome	OMIM:181450
+2	0.8	Léri-Weill Dyschondrosteosis	OMIM:127300
+3	0.7	Achondroplasia	OMIM:100800
+4	0.6	Brachydactyly Type A1	OMIM:112500
+5	0.5	Brachydactyly Type E	OMIM:113300
+6	0.4	Hypochondroplasia	OMIM:152900
+7	0.3	Peters Plus Syndrome	OMIM:261540
+8	0.2	Turner Syndrome	OMIM:312360
+9	0.1	Schwartz-Jampel Syndrome	OMIM:255800

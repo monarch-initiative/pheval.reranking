@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Congenital Disorders of Glycosylation Type 1a (CDG1A)	OMIM:212065
+2	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.7	Rett Syndrome	OMIM:312750
+4	0.6	Prader-Willi Syndrome	OMIM:176270
+4	0.6	Myotonic Dystrophy 1	OMIM:160900
+6	0.5	Duchenne Muscular Dystrophy	OMIM:310200
+7	0.4	Marfan Syndrome	OMIM:154700
+8	0.3	Charcot-Marie-Tooth Disease	OMIM:118220
+8	0.3	Niemann-Pick Disease Type C	OMIM:257220
+10	0.2	Alstrom Syndrome	OMIM:203800

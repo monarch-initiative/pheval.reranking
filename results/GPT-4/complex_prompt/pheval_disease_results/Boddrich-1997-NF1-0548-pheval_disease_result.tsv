@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.6	Legius syndrome	OMIM:611431
+3	0.5	Watson syndrome	OMIM:193520
+4	0.3	Noonan syndrome	OMIM:163950
+5	0.2	Noonan syndrome with multiple lentigines	OMIM:151100
+6	0.1	Cardiofaciocutaneous syndrome	OMIM:115150

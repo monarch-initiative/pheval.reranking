@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease, Type 1	OMIM:118220
+2	0.8	Charcot-Marie-Tooth Disease, Type 2	OMIM:118210
+3	0.75	Guillain-Barré syndrome	OMIM:139393
+4	0.7	Demyelinating Hereditary Motor and Sensory Neuropathy	OMIM:145900
+5	0.6	Refsum Disease	OMIM:266500
+6	0.55	Krabbe Disease	OMIM:245200
+7	0.5	Acute Inflammatory Demyelinating Polyradiculoneuropathy	OMIM:139393
+8	0.45	Roussy-Levy syndrome	OMIM:180800

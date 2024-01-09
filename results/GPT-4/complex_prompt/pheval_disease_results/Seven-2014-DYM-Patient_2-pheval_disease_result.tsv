@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-McCort Dysplasia	OMIM:607326
+2	0.8	Pseudoachondroplasia	OMIM:177170
+3	0.7	Shwachman-Bodian-Diamond syndrome	OMIM:260400
+4	0.6	Larsen Syndrome	OMIM:150250
+5	0.5	Cleidocranial Dysplasia	OMIM:119600
+6	0.4	Achondroplasia	OMIM:100800

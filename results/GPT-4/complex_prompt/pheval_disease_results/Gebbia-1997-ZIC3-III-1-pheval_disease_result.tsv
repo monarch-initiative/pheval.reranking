@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+2	0.8	Kartagener Syndrome	OMIM:244400
+3	0.7	Primary ciliary dyskinesia	OMIM:244400
+4	0.6	Asplenia, isolated congenital	OMIM:614388
+5	0.5	Congenital heart defects, multiple types	OMIM:617297
+6	0.4	Transposition of the great arteries	OMIM:608808
+7	0.3	Anus, posterior placement of, with or without congenital heart defect	OMIM:600430
+8	0.2	Arrhinencephaly	OMIM:105200
+9	0.1	Pulmonary artery, hypoplasia of	OMIM:265430
+9	0.1	Single ventricle	OMIM:618164

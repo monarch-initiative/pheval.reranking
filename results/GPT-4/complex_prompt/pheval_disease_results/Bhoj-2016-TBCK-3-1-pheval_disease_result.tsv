@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.83	MECP2 duplication syndrome	OMIM:300260
+3	0.81	Coffin-Lowry syndrome	OMIM:303600
+4	0.8	Angelman syndrome	OMIM:105830
+5	0.75	Lennox-Gastaut syndrome	OMIM:613720

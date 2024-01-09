@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Spondyloepimetaphyseal dysplasia	OMIM:612687
+2	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.75	Spondyloepiphyseal dysplasia tarda	OMIM:184100
+4	0.7	Diastrophic dysplasia	OMIM:222600
+5	0.65	Ellis-van Creveld syndrome	OMIM:225500
+6	0.6	Pseudoachondroplastic dysplasia 1	OMIM:177170
+7	0.55	Polydactyly, postaxial	OMIM:174200
+8	0.5	Clubfoot, congenital	OMIM:119800
+9	0.45	Cleidocranial dysplasia	OMIM:119600
+10	0.4	Talipes equinovarus	OMIM:186780

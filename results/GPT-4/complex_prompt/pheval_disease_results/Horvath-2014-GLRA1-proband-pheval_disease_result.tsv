@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial or Benign Infantile Seizures	OMIM:601764
+2	0.85	Hereditary Primary Fanconi Disease	OMIM:134600
+3	0.8	Arthrogryposis, Cleft Palate, Craniosynostosis, and Impaired Intellectual Development	OMIM:618701
+4	0.75	Porencephaly 1	OMIM:175780
+5	0.7	Parkinson Disease 7, Autosomal Recessive Early-Onset	OMIM:606324
+6	0.65	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIly	OMIM:617271
+7	0.6	Pontocerebellar Hypoplasia, Type 2E	OMIM:610204
+8	0.55	Dyskinesia, Seizures, and Intellectual Developmental Disorder	OMIM:616645
+9	0.5	Spastic Tetraplegia and Axial Hypotonia, Progressive	OMIM:618044
+10	0.45	Polycystic Kidney Disease 2	OMIM:613095

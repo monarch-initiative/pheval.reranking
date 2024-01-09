@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pompe disease	OMIM:232300
+2	0.85	Mitochondrial myopathy, encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS)	OMIM:540000
+3	0.8	McArdle disease	OMIM:232600
+4	0.75	Mucopolysaccharidosis type III (Sanfilippo syndrome)	OMIM:252900
+5	0.7	Niemann-Pick disease type C	OMIM:257220
+6	0.65	Carnitine palmitoyltransferase II deficiency	OMIM:600650
+7	0.6	Alpers-Huttenlocher syndrome	OMIM:203700
+8	0.55	Leigh syndrome	OMIM:256000
+9	0.5	Kearns-Sayre syndrome	OMIM:530000
+10	0.45	Neuronal ceroid lipofuscinosis	OMIM:256730

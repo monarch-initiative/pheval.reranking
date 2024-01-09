@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Autistic Disorder	OMIM:209850
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.7	Chrna7-Related Disorder	OMIM:616399
+5	0.7	Epilepsy, Generalized, With Febrile Seizures Plus, Type 5	OMIM:613863
+7	0.6	Epileptic Encephalopathy, Early Infantile, 67	OMIM:618141
+7	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+7	0.6	Smith-Magenis Syndrome	OMIM:182290
+10	0.5	Mowat-Wilson Syndrome	OMIM:235730

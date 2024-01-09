@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+2	0.8	Loeys-Dietz Syndrome	OMIM:609192
+4	0.7	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic and Deafness Type	OMIM:225400
+6	0.6	Geleophysic Dysplasia	OMIM:231050
+6	0.6	Weill-Marchesani Syndrome	OMIM:277600
+8	0.5	Homocystinuria due to MTHFR deficiency	OMIM:236250
+8	0.5	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+10	0.4	Osteogenesis Imperfecta, Type II	OMIM:166210

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome, Type 2A	OMIM:193510
+2	0.8	Piebald Trait	OMIM:172800
+3	0.7	Waardenburg Syndrome, Type 2E	OMIM:611584
+4	0.6	Tietz Syndrome	OMIM:103500
+5	0.5	Waardenburg Syndrome, Type 2B	OMIM:600193
+6	0.4	Scleroderma	OMIM:181750
+7	0.3	Melanoma, Cutaneous Malignant, Susceptibility To, 8	OMIM:614456
+8	0.2	Waardenburg Syndrome, Type 2C	OMIM:606662
+9	0.1	Waardenburg Syndrome, Type 2D	OMIM:608890
+10	0.05	Vitiligo	OMIM:193200

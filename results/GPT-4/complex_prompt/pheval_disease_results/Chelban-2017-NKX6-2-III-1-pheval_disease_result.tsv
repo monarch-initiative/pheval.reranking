@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Metachromatic leukodystrophy	OMIM:250100
+3	0.8	Charcot-Marie-Tooth disease	OMIM:118200
+4	0.75	Adrenoleukodystrophy	OMIM:300100
+5	0.7	Alexander disease	OMIM:203450

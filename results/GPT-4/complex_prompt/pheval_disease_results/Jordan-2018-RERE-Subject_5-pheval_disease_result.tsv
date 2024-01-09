@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rohhad Syndrome	OMIM:615878
+2	0.8	Congenital Central Hypoventilation Syndrome	OMIM:209880
+3	0.7	CHARGE Syndrome	OMIM:214800
+4	0.6	Orofaciodigital Syndrome I	OMIM:311200
+5	0.5	Cornelia De Lange Syndrome	OMIM:122470
+5	0.5	Prader-Willi Syndrome	OMIM:176270
+7	0.4	Coffin-Siris Syndrome	OMIM:135900
+8	0.3	Ehlers-Danlos Syndrome	OMIM:130000
+9	0.2	Meckel Syndrome	OMIM:249000
+10	0.1	Noonan Syndrome	OMIM:163950

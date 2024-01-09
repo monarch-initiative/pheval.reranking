@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Achondroplasia	OMIM:100800
+2	0.8	Pfeiffer syndrome	OMIM:101600
+4	0.7	Apert syndrome	OMIM:101200
+4	0.7	Sotos Syndrome	OMIM:117550
+6	0.6	Thanatophoric dysplasia	OMIM:187600
+7	0.5	Crouzon syndrome	OMIM:123500
+8	0.4	Treacher Collins syndrome	OMIM:154500

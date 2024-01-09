@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chorea-Acanthocytosis	OMIM:200150
+2	0.8	Huntington's disease	OMIM:143100
+3	0.7	Spinocerebellar ataxia	OMIM:164400
+4	0.6	McLeod syndrome	OMIM:300842
+5	0.5	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+6	0.3	Wilson disease	OMIM:277900
+7	0.2	Friedreich ataxia	OMIM:229300
+8	0.1	Mitochondrial neurogastrointestinal encephalopathy syndrome	OMIM:603041

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Nonalcoholic Fatty Liver Disease	OMIM:211600
+3	0.7	Hepatic Steatosis	OMIM:617464
+4	0.6	Liver Cirrhosis	OMIM:215600
+4	0.6	Premature Atherosclerosis With Hepatic Disease	OMIM:617780
+6	0.5	Primary Biliary Cirrhosis	OMIM:109720

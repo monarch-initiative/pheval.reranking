@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizeaus-Merzbacher disease	OMIM:312080
+2	0.8	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+3	0.7	Leukodystrophy, hypomyelinating, 14	OMIM:616544
+3	0.7	Leukodystrophy, hypomyelinating, 7	OMIM:607694
+5	0.6	Cerebral atrophy, developmental delay, and seizures	OMIM:617572
+5	0.6	Neurodevelopmental disorder with microcephaly, epilepsy, and brain atrophy	OMIM:617862
+7	0.5	Pontocerebellar hypoplasia, type 1b	OMIM:614678
+7	0.5	Spastic paraplegia 2, X-linked	OMIM:312920
+9	0.4	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1	OMIM:224050
+9	0.4	Aicardi-Goutieres syndrome 2	OMIM:610181

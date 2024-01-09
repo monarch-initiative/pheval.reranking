@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Glycogen storage disease due to liver phosphorylase kinase deficiency	OMIM:261750
+2	0.75	Citrullinemia	OMIM:215700
+3	0.7	Carnitine palmitoyltransferase II deficiency	OMIM:600650
+4	0.65	Beta-ketothiolase deficiency	OMIM:203750
+5	0.6	Glutaric acidemia I	OMIM:231670
+6	0.55	Mitochondrial complex I deficiency	OMIM:252010
+7	0.5	Succinic semialdehyde dehydrogenase deficiency	OMIM:271980
+8	0.45	Argininemia	OMIM:207800
+9	0.4	Valinemia	OMIM:243500
+10	0.35	Hypothyroidism due to iodide transport defect	OMIM:274400

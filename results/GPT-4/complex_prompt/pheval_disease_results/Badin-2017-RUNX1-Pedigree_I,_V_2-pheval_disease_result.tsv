@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Platelet-Type Bleeding Disorder 20	OMIM:617443
+2	0.8	Platelet-Type Bleeding Disorder 17	OMIM:613116
+3	0.7	Acute Myeloid Leukemia	OMIM:601626
+4	0.6	Hermansky-Pudlak Syndrome 2	OMIM:608233
+5	0.5	Hermansky-Pudlak Syndrome 1	OMIM:203300
+6	0.4	Beta-Thalassemia	OMIM:613985
+7	0.3	Chediak-Higashi Syndrome	OMIM:214500
+8	0.2	Hemophilia B	OMIM:306900
+9	0.1	Hemolytic-Uremic Syndrome	OMIM:235400
+10	0.05	Wiskott-Aldrich Syndrome	OMIM:301000

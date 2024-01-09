@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.7	Hyperphosphatasia with Mental Retardation Syndrome	OMIM:239300
+3	0.65	Ehlers-Danlos Syndrome	OMIM:225410
+4	0.6	Paget's Disease of Bone	OMIM:167250
+5	0.55	Cole-Carpenter Syndrome	OMIM:112240
+6	0.5	Juvenile Paget Disease	OMIM:239000
+7	0.4	Hypophosphatasia	OMIM:241500
+8	0.3	Marfan Syndrome	OMIM:154700
+9	0.2	Pseudohypoparathyroidism	OMIM:103580
+10	0.1	Osteopetrosis	OMIM:259700

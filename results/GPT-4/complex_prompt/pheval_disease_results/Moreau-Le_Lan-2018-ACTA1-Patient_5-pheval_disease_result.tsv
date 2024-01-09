@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy	OMIM:253300
+2	0.8	Myasthenia gravis	OMIM:254200
+3	0.7	Amyotrophic Lateral Sclerosis	OMIM:105400
+4	0.6	Muscular Dystrophy, Duchenne Type	OMIM:310200
+5	0.5	Pompe disease	OMIM:232300
+6	0.4	Moebius syndrome	OMIM:157900
+7	0.3	Charcot-Marie-Tooth Disease	OMIM:118220
+8	0.2	Congenital Muscular Dystrophy	OMIM:613151
+9	0.1	Congenital Myopathy With Excess Of Muscle Spindles	OMIM:218040
+10	0.05	Friedreich Ataxia	OMIM:229300

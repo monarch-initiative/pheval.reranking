@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan Syndrome	OMIM:163950
+2	0.8	Costello Syndrome	OMIM:218040
+3	0.7	Netherton Syndrome	OMIM:256500
+3	0.7	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.6	Ichthyosis vulgaris	OMIM:146700
+6	0.5	Gorlin Syndrome	OMIM:109400
+7	0.4	Down syndrome	OMIM:190685
+7	0.4	Autosomal dominant intellectual disability	OMIM:615073
+9	0.3	Lambdoid craniosynostosis	OMIM:615529
+9	0.3	Cornelia De Lange Syndrome	OMIM:122470

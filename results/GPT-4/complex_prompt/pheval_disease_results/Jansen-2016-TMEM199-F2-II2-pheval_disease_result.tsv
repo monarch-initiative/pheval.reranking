@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.7	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.6	Galactosemia	OMIM:230400
+4	0.5	Congenital disorder of glycosylation	OMIM:212065
+5	0.4	Rhabdomyolysis	OMIM:268200
+6	0.3	Alagille syndrome	OMIM:118450
+7	0.2	Gilbert Syndrome	OMIM:143500
+8	0.1	Familial hypercholesterolemia	OMIM:143890

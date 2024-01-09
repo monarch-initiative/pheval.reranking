@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypohidrotic Ectodermal Dysplasia	OMIM:224900
+2	0.8	Anhidrotic Ectodermal Dysplasia	OMIM:305100
+3	0.7	Christ-Siemens-Touraine syndrome	OMIM:305100
+4	0.6	Odonto-Onycho-Dermal Dysplasia	OMIM:257980
+5	0.5	Ectodermal dysplasia 1	OMIM:129490

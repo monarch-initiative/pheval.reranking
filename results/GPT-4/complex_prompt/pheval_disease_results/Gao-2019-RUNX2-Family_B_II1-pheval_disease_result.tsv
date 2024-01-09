@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.7	Hypochondroplasia	OMIM:146000
+3	0.6	Pyknodysostosis	OMIM:265800
+4	0.5	Ellis-van Creveld syndrome	OMIM:225500
+5	0.4	Noonan syndrome	OMIM:163950
+6	0.3	Crouzon syndrome	OMIM:123500
+7	0.2	Hypophosphatasia	OMIM:241500
+7	0.2	Smith-Magenis Syndrome	OMIM:182290
+9	0.1	Metopic Synostosis	OMIM:602032
+9	0.1	Pfeiffer syndrome	OMIM:101600

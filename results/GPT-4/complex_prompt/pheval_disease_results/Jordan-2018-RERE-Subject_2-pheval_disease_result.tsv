@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan Syndrome	OMIM:163950
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+3	0.7	CHARGE Syndrome	OMIM:214800
+4	0.6	Cohen Syndrome	OMIM:216550
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.4	Cardio-facio-cutaneous Syndrome	OMIM:115150
+7	0.3	Fragile X Syndrome	OMIM:300624
+8	0.2	Pierre Robin Sequence	OMIM:261800
+9	0.1	Williams Syndrome	OMIM:194050

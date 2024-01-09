@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, spondylodysplastic type, 2	OMIM:615349
+2	0.8	Osteogenesis imperfecta, type IV	OMIM:166220
+3	0.7	Cole-Carpenter syndrome 1	OMIM:112240
+4	0.6	Kabuki syndrome 1	OMIM:147920
+5	0.5	Stickler syndrome, type III	OMIM:184840
+6	0.4	Larsen syndrome	OMIM:150250
+7	0.3	Marfan syndrome	OMIM:154700
+8	0.2	Smith-Magenis syndrome	OMIM:182290
+9	0.1	Coffin-Lowry syndrome	OMIM:303600

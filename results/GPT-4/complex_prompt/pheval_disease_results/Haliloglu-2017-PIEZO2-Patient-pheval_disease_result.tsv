@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease, Type 4B1	OMIM:601382
+2	0.8	Spinal Muscular Atrophy, Type 5	OMIM:615319
+3	0.7	Ullrich Congenital Muscular Dystrophy 1	OMIM:254090
+4	0.6	Hereditary Sensory And Autonomic Neuropathy Type II	OMIM:201300
+5	0.5	Infantile Neuroaxonal Dystrophy	OMIM:256600
+6	0.4	Progressive Bulbar Palsy of Childhood	OMIM:606104
+7	0.3	Friedreich Ataxia	OMIM:229300
+8	0.2	Alzheimer Disease, Type 3	OMIM:607822
+9	0.1	Dystonia 3, Torsion	OMIM:605204
+10	0.05	Amyotrophic Lateral Sclerosis 1	OMIM:105400

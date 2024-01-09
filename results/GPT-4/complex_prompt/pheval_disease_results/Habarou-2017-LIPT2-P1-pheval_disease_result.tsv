@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Non-ketotic hyperglycinemia	OMIM:605899
+2	0.85	Canavan disease	OMIM:271900
+3	0.8	Zellweger syndrome	OMIM:214100
+4	0.75	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+5	0.7	Alpha-mannosidosis	OMIM:248500
+6	0.65	Leigh syndrome, French Canadian type	OMIM:220111
+7	0.6	Early infantile epileptic encephalopathy 10	OMIM:613402
+8	0.55	Niemann-Pick disease type C	OMIM:257220
+9	0.5	Pelizaeus-Merzbacher disease	OMIM:312080
+10	0.45	Angelman syndrome	OMIM:105830

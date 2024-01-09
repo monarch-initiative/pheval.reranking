@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Alström Syndrome	OMIM:203800
+3	0.7	Retinitis Pigmentosa	OMIM:268000
+4	0.6	Primary Ciliary Dyskinesia	OMIM:244400
+5	0.5	Usher Syndrome	OMIM:276900
+6	0.4	Cohen Syndrome	OMIM:216550
+7	0.3	Laurence-Moon Syndrome	OMIM:245800
+8	0.2	Beetz Syndrome	OMIM:211770
+9	0.1	Batten Disease	OMIM:204200
+9	0.1	Ceroid lipofuscinosis, neuronal	OMIM:256731

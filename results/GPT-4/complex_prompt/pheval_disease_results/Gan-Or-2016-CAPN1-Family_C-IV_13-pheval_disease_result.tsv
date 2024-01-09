@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:182601
+2	0.8	Spastic gait syndrome, familial	OMIM:103580
+3	0.7	Spastic paraparesis, optic atrophy, and neuropathy	OMIM:609541
+4	0.6	Cerebral palsy, spastic tetraplegic	OMIM:603513
+5	0.5	Multiple sclerosis	OMIM:126200
+6	0.4	Strumpell-Lorrain disease	OMIM:270800
+7	0.3	Amyotrophic lateral sclerosis	OMIM:105400
+8	0.2	Spinal cord injury	OMIM:601367
+9	0.1	Spinal muscular atrophy, lower extremity-predominant, type 1	OMIM:158600
+9	0.1	Muscular dystrophy	OMIM:310200

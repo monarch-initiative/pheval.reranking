@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Non-alcoholic Fatty Liver Disease	OMIM:613282
+3	0.75	Alcoholic cirrhosis	OMIM:215600
+4	0.6	Congenital disorder of glycosylation	OMIM:212065
+5	0.55	Hyperlipoproteinemia, type II	OMIM:238600
+6	0.5	Antithrombin III deficiency	OMIM:613118

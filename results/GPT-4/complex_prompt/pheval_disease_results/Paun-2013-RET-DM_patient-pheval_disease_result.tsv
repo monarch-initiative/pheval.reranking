@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia type 2A	OMIM:171400
+2	0.8	Multiple endocrine neoplasia type 2B	OMIM:162300
+3	0.7	Familial medullary thyroid carcinoma	OMIM:155240
+4	0.6	Familial nonmedullary thyroid carcinoma	OMIM:616534
+5	0.5	Hyperparathyroidism	OMIM:145000
+6	0.4	Papillary thyroid carcinoma	OMIM:188550
+7	0.3	Thyroid carcinoma, follicular	OMIM:188470
+8	0.2	Thyroid carcinoma, anaplastic	OMIM:188470
+9	0.1	Hurthle cell thyroid carcinoma	OMIM:607464
+9	0.1	C cell hyperplasia	OMIM:114970

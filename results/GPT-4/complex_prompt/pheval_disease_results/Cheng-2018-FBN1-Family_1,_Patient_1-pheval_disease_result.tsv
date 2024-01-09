@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan Syndrome	OMIM:163950
+2	0.75	Williams-Beuren Syndrome	OMIM:194050
+3	0.73	Costello Syndrome	OMIM:218040
+4	0.55	Pyknodysostosis	OMIM:265800
+5	0.4	Multiple Epiphyseal Dysplasia	OMIM:600204

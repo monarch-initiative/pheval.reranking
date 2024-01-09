@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:182601
+2	0.8	Multiple Sclerosis	OMIM:126200
+3	0.75	Charcot-Marie-Tooth disease type 2	OMIM:118210
+4	0.7	Friedreich Ataxia	OMIM:229300
+5	0.65	Amyotrophic lateral sclerosis	OMIM:105400
+6	0.6	Spinal Muscular Atrophy	OMIM:253300
+7	0.55	Ataxia with Vitamin E Deficiency	OMIM:277460
+8	0.5	Parkinson disease	OMIM:168600
+9	0.45	Spinocerebellar Ataxia	OMIM:164400
+10	0.4	Peripheral Neuropathy, Myopathy, Hoarseness, and Hearing Loss	OMIM:614369

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Williams syndrome	OMIM:194050
+7	0.4	Sotos syndrome	OMIM:117550
+8	0.3	CHARGE syndrome	OMIM:214800
+9	0.2	Treacher Collins syndrome	OMIM:154500
+10	0.1	Marfan syndrome	OMIM:154700

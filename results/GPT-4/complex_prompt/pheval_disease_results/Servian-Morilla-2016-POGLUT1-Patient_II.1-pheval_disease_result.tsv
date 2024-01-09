@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Erb-Duchenne and Dejerine-Klumpke Palsies	OMIM:223500
+2	0.8	Osteogenesis Imperfecta	OMIM:166200
+3	0.7	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+4	0.6	Marfan Syndrome	OMIM:154700
+4	0.6	Duchenne Muscular Dystrophy	OMIM:310200
+6	0.5	Pompe Disease	OMIM:232300
+6	0.5	Limb-Girdle Muscular Dystrophy	OMIM:253600
+8	0.4	Amyotrophic Lateral Sclerosis	OMIM:105400
+8	0.4	Centronuclear Myopathy	OMIM:160150
+8	0.4	Spinal Bulbar Muscular Atrophy	OMIM:313200

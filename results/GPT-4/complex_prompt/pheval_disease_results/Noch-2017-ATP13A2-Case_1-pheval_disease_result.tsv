@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.85	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+3	0.8	Spastic paraplegia 19	OMIM:607152
+4	0.75	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+5	0.7	Coffin-Lowry syndrome	OMIM:303600
+6	0.66	Ataxia with Vitamin E Deficiency	OMIM:277460
+7	0.6	Friedreich ataxia	OMIM:229300
+8	0.5	Cerebral palsy, spastic quadriplegic	OMIM:603513
+9	0.45	Early-Onset Parkinson Disease 1	OMIM:168600
+10	0.4	Krabbe disease	OMIM:245200

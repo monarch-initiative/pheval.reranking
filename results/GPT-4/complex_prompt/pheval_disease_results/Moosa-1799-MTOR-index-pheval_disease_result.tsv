@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cohen Syndrome	OMIM:216550
+2	0.75	Sotos Syndrome	OMIM:117550
+3	0.7	Meckel Syndrome	OMIM:249000
+4	0.65	Pallister-Hall Syndrome	OMIM:146510
+5	0.6	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.55	Familial Adenomatous Polyposis	OMIM:175100
+7	0.5	Gardner Syndrome	OMIM:175100
+8	0.45	Potter's Syndrome	OMIM:263200
+9	0.4	Smith-Lemli-Opitz Syndrome	OMIM:270400
+10	0.3	Polycystic Kidney Disease	OMIM:173900

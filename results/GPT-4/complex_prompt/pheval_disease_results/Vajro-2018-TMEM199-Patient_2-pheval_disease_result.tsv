@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.7	Cirrhosis	OMIM:215600
+3	0.6	Nonalcoholic Fatty Liver Disease	OMIM:211980
+3	0.6	Hypercholesterolemia, Familial	OMIM:143890
+5	0.5	Cholestasis, Progressive Familial Intrahepatic 3	OMIM:602347
+5	0.5	Hepatolenticular Degeneration	OMIM:277900
+7	0.4	Alcoholic Fatty Liver	OMIM:611876
+8	0.3	Hypophosphatasia	OMIM:241500
+9	0.2	Crigler-Najjar Syndrome	OMIM:218800
+9	0.2	Hypocupremia	OMIM:604290

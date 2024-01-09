@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Platelet Disorder, Familial, with Associated Myeloid Malignancy	OMIM:601977
+2	0.8	Thrombocytopenia 6	OMIM:616937
+3	0.77	MYH9-Related Thrombocytopenia	OMIM:160775
+4	0.75	Thrombocytopenia 4	OMIM:611490
+5	0.7	Thrombocytopenia 2	OMIM:188000
+5	0.7	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+7	0.6	Thrombocytopenia 1	OMIM:313900
+7	0.6	Thrombocytopenia 5	OMIM:605275

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Campomelic Dysplasia	OMIM:114290
+2	0.85	Atelosteogenesis, Type II	OMIM:256050
+3	0.8	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+4	0.75	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.7	Thanatophoric dysplasia, type I	OMIM:187600
+6	0.65	Achondrogenesis, Type IB	OMIM:600972
+7	0.6	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+8	0.55	Spondyloepiphyseal Dysplasia, Kimberley Type	OMIM:608361
+9	0.5	Opsismodysplasia	OMIM:258480
+10	0.45	Metaphyseal Chondrodysplasia, Shwachman type	OMIM:250230

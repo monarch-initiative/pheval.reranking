@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.8	Polycythemia Vera	OMIM:263300
+3	0.7	Primary Myelofibrosis	OMIM:254450
+4	0.6	Chronic Myelogenous Leukemia	OMIM:608232
+5	0.5	Familial Thrombocytosis	OMIM:187950
+6	0.4	Paroxysmal Nocturnal Hemoglobinuria	OMIM:615399
+7	0.3	Leukemia, Acute Myeloid	OMIM:601626
+8	0.2	Leukemia, B-Cell Chronic Lymphocytic	OMIM:151400
+9	0.1	Iron Deficiency Anemia	OMIM:604741
+10	0.05	Megaloblastic Anemia	OMIM:609135

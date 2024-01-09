@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pontocerebellar Hypoplasia Type 2A	OMIM:277470
+2	0.8	Aicardi-Goutières syndrome	OMIM:225750
+3	0.75	Zellweger syndrome	OMIM:214100
+4	0.7	Ververi-Brady syndrome	OMIM:617982
+4	0.7	Congenital disorder of Glycosylation type 1a	OMIM:212065
+6	0.65	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+7	0.6	Rett syndrome	OMIM:312750
+8	0.55	Alexander disease	OMIM:203450
+9	0.5	Infantile neuroaxonal dystrophy	OMIM:256600
+10	0.45	Canavan disease	OMIM:271900

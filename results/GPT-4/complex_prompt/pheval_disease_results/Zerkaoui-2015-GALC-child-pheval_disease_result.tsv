@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 47, autosomal recessive	OMIM:613194
+2	0.85	Leigh syndrome	OMIM:256000
+3	0.83	Hypomyelinating leukodystrophy 2	OMIM:608804
+4	0.81	Glutaric acidemia IIC	OMIM:231680
+5	0.8	Mucopolysaccharidosis type IIIA	OMIM:252900
+6	0.77	Cyclic neutropenia	OMIM:162800
+7	0.75	Aicardi-Goutieres syndrome 4	OMIM:610333
+8	0.73	Canavan disease	OMIM:271900
+9	0.71	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.7	Neurodegeneration with brain iron accumulation 1	OMIM:234200

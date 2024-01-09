@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta, Type III	OMIM:259420
+2	0.8	Osteogenesis Imperfecta, Type IV	OMIM:166220
+3	0.7	Ehlers-Danlos Syndrome, Spondylodysplastic Type, 3	OMIM:612350
+4	0.6	Osteogenesis Imperfecta, Type II	OMIM:166210
+5	0.5	Bruck Syndrome 1	OMIM:259450
+6	0.4	Cole-Carpenter Syndrome 1	OMIM:112240
+7	0.3	Osteogenesis Imperfecta, Type I	OMIM:166200
+8	0.2	Ehlers-Danlos Syndrome, Spondylodysplastic Type, 1	OMIM:130070
+9	0.1	Craniofacial Dysplasia, Osteopenia, Fractures, and Mental Retardation Syndrome	OMIM:618333

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome Type 2	OMIM:193510
+2	0.8	Waardenburg Syndrome Type 1	OMIM:193500
+3	0.75	Waardenburg Syndrome Type 4	OMIM:277580
+4	0.7	Waardenburg Syndrome Type 3	OMIM:148820
+5	0.65	Piebaldism	OMIM:172800
+6	0.6	Tietz Syndrome	OMIM:103500
+7	0.5	Oculocutaneous Albinism	OMIM:203100
+8	0.4	Griscelli Syndrome	OMIM:214450

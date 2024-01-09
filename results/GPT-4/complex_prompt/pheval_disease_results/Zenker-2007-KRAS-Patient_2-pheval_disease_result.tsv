@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Coffin-Lowry syndrome	OMIM:303600
+3	0.75	Costello syndrome	OMIM:218040
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Marfan syndrome	OMIM:154700
+6	0.55	Sotos syndrome	OMIM:117550
+7	0.5	Lujan-Fryns syndrome	OMIM:309520
+8	0.45	Crouzon syndrome	OMIM:123500
+9	0.4	Lenz microphthalmia syndrome	OMIM:309800
+10	0.35	Saethre–Chotzen syndrome	OMIM:101400

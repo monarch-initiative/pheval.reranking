@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Papillon-Lefevre Disease	OMIM:245000
+2	0.8	Haim-Munk Syndrome	OMIM:245010
+3	0.7	Acrodynia	OMIM:200600
+4	0.6	Cherubism	OMIM:118400
+5	0.5	Cone-Rod Dystrophy And Amelogenesis Imperfecta	OMIM:616575

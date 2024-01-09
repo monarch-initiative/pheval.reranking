@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+2	0.8	Mitochondrial Complex I Deficiency	OMIM:252010
+3	0.7	Leigh Syndrome	OMIM:256000
+3	0.7	Creatine Deficiency, X-Linked	OMIM:300352
+5	0.6	MELAS	OMIM:540000
+6	0.5	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+7	0.4	Kearns-Sayre Syndrome	OMIM:530000

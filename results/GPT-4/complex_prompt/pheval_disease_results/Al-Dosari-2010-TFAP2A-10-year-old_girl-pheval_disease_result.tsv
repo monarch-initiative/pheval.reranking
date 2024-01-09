@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Nance-Horan syndrome	OMIM:302350
+2	0.7	Alport syndrome	OMIM:301050
+3	0.6	Oculocerebrorenal syndrome	OMIM:309000
+4	0.5	Peters anomaly	OMIM:604229
+5	0.4	Ectrodactyly, Ectodermal dysplasia, and Cleft lip/palate syndrome 3	OMIM:604292
+6	0.3	Anophthalmia - microphthalmia	OMIM:206900
+7	0.2	Lenz-Majewski hyperostotic dwarfism	OMIM:151050

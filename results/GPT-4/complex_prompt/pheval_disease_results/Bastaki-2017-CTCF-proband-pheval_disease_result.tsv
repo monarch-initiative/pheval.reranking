@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Ablepharon macrostomia syndrome	OMIM:200110
+3	0.75	Barber-Say syndrome	OMIM:209885
+4	0.7	Antley-Bixler Syndrome	OMIM:207410
+5	0.65	Coffin-Siris Syndrome	OMIM:135900
+6	0.6	FG Syndrome	OMIM:305450
+7	0.55	Freeman-Sheldon syndrome	OMIM:193700
+8	0.5	Ohdo syndrome	OMIM:249620
+9	0.45	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.4	Popliteal pterygium syndrome	OMIM:119500

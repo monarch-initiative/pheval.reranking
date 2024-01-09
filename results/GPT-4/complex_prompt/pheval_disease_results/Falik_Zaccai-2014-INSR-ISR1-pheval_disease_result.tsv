@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Congenital Generalized Lipodystrophy	OMIM:612526
+2	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.6	Alström Syndrome	OMIM:203800
+3	0.6	Polycystic Ovary Syndrome	OMIM:184700
+5	0.5	Hypoglycemia, Hyperinsulinemic	OMIM:240800
+5	0.5	Donohue Syndrome	OMIM:246200
+7	0.4	Wilms Tumor	OMIM:194070
+8	0.3	Barth Syndrome	OMIM:302060
+9	0.2	Leprechaunism Syndrome	OMIM:246200
+10	0.1	Congenital Myasthenic Syndrome	OMIM:614750

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lissencephaly	OMIM:607432
+2	0.85	Pachygyria	OMIM:600176
+3	0.8	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+4	0.75	Cerebral palsy, spastic quadriplegic, 5	OMIM:613744
+5	0.7	Epileptic Encephalopathy, Early Infantile, 1	OMIM:308350
+6	0.65	Juberg-Marsidi Syndrome	OMIM:308350
+7	0.6	Neuronal Ceroid Lipofuscinosis 10	OMIM:610127
+8	0.55	Juvenile Amyotrophic Lateral Sclerosis	OMIM:205600
+9	0.5	Neurodevelopmental Disorder with Hyperreflexia and Variable Intellectual and Behavioral Abnormalities	OMIM:618621
+10	0.45	Neurodevelopmental Disorder With Epilepsy, Cataracts, Feeding Difficulties, and Delayed Brain Myelination	OMIM:617393

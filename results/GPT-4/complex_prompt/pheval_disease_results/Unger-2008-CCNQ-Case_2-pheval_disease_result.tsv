@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Feingold syndrome 1	OMIM:164280
+2	0.8	Pallister-Hall syndrome	OMIM:146510
+3	0.7	Townes-Brocks syndrome	OMIM:107480
+4	0.6	Ellis-van Creveld syndrome	OMIM:225500
+4	0.6	McKusick-Kaufman syndrome	OMIM:236700
+6	0.5	Craniofrontonasal syndrome	OMIM:304110
+7	0.4	Kallmann syndrome	OMIM:147950
+8	0.3	Bardet-Biedl syndrome	OMIM:209900
+9	0.2	Elliptocytosis 3	OMIM:617948
+10	0.1	Meckel syndrome 1	OMIM:249000

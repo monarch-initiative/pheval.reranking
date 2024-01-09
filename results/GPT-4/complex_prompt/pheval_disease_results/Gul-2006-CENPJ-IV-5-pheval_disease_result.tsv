@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.85	Zellweger Syndrome	OMIM:214100
+3	0.8	Angelman Syndrome	OMIM:105830
+4	0.7	Pontocerebellar Hypoplasia	OMIM:614961
+4	0.7	Childhood-onset Neurodegeneration with Brain Atrophy	OMIM:618170
+6	0.65	Coffin-Siris syndrome	OMIM:135900
+7	0.6	Pitt-Hopkins syndrome	OMIM:610954
+8	0.55	Kleefstra syndrome	OMIM:610253
+9	0.5	Microcephaly, Epilepsy, and Diabetes Syndrome	OMIM:614231
+10	0.45	West Syndrome	OMIM:308350

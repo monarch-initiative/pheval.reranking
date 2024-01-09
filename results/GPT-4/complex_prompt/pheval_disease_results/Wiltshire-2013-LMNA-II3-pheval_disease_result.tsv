@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+2	0.8	Werner Syndrome	OMIM:277700
+3	0.7	Cockayne Syndrome	OMIM:216400
+4	0.6	Mandibuloacral Dysplasia	OMIM:248370
+5	0.5	Laminopathy	OMIM:150330
+6	0.4	Lipodystrophy, Congenital Generalized	OMIM:608594
+7	0.3	Crandall Syndrome	OMIM:608132

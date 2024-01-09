@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schwartz-Jampel Syndrome	OMIM:255800
+2	0.8	Sotos Syndrome	OMIM:117550
+3	0.7	Desbuquois Dysplasia	OMIM:251450
+4	0.6	Coffin-Lowry Syndrome	OMIM:303600
+5	0.5	Odontochondrodysplasia	OMIM:184260
+6	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650
+7	0.3	Robinow Syndrome	OMIM:180700
+8	0.2	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.1	Gaucher Disease	OMIM:230800

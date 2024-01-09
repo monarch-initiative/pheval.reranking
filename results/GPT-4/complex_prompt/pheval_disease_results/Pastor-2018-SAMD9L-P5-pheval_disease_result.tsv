@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aplastic Anemia	OMIM:609135
+2	0.85	Fanconi Anemia	OMIM:227650
+3	0.8	Dyskeratosis Congenita	OMIM:127550
+4	0.7	Myelodysplastic Syndrome	OMIM:614286
+4	0.7	Amegakaryocytic Thrombocytopenia	OMIM:604498
+6	0.65	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+6	0.65	Diamond-Blackfan Anemia	OMIM:105650
+8	0.6	Paroxysmal Nocturnal Hemoglobinuria	OMIM:300818
+9	0.55	Wiskott-Aldrich Syndrome	OMIM:301000
+10	0.5	Severe Congenital Neutropenia	OMIM:202700

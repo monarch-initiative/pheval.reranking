@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.8	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.7	Cerebrooculofacioskeletal Syndrome 2	OMIM:610756
+3	0.7	Primary Ciliary Dyskinesia	OMIM:244400
+5	0.6	Schmid Fraccaro Syndrome	OMIM:194190
+5	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.5	Tricho-Rhino-Phalangeal Syndrome	OMIM:190350
+7	0.5	Seckel Syndrome	OMIM:210600
+9	0.4	Meier-Gorlin Syndrome	OMIM:224690
+9	0.4	Pitt-Hopkins Syndrome	OMIM:610954

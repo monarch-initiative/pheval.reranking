@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Early Infantile Epileptic Encephalopathy	OMIM:308350
+2	0.85	Progressive Sclerosing Poliodystrophy	OMIM:263570
+3	0.8	Ohtahara Syndrome	OMIM:308350
+4	0.75	Lennox-Gastaut Syndrome	OMIM:606369
+5	0.7	CDKL5 Deficiency Disorder	OMIM:300672
+6	0.65	Aicardi-Goutieres Syndrome	OMIM:225750
+7	0.6	Rett Syndrome	OMIM:312750
+8	0.55	Krabbe Disease	OMIM:245200
+9	0.5	Zellweger Syndrome	OMIM:214100
+10	0.45	Pelizaeus-Merzbacher Disease	OMIM:312080

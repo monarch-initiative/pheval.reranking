@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypohidrotic Ectodermal Dysplasia	OMIM:224900
+2	0.85	Bjornstad Syndrome	OMIM:262000
+3	0.75	Rapp-Hodgkin Syndrome	OMIM:129400
+3	0.75	Pachyonychia Congenita	OMIM:167210
+5	0.7	Keratitis-Ichthyosis-Deafness Syndrome	OMIM:242150
+6	0.65	Oculocutaneous Albinism	OMIM:203200
+6	0.65	Sjogren-Larsson Syndrome	OMIM:270200
+8	0.6	Rothmund-Thomson Syndrome	OMIM:268400
+9	0.55	Ectrodactyly-Ectodermal Dysplasia-Clefting Syndrome	OMIM:129900
+10	0.5	Darier Disease	OMIM:124200

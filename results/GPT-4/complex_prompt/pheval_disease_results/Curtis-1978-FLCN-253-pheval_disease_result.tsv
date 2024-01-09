@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Birt-Hogg-Dube syndrome	OMIM:135150
+2	0.7	Pneumothorax, primary spontaneous	OMIM:173600
+3	0.5	Familial multiple discoid fibromas	OMIM:605408

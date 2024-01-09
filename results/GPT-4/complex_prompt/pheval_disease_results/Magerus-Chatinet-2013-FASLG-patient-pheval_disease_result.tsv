@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic Granulomatous Disease	OMIM:306400
+2	0.85	Hyper IgM Syndrome	OMIM:308230
+3	0.8	Selective IgA Deficiency	OMIM:137100
+4	0.75	Common Variable Immunodeficiency	OMIM:276580
+5	0.7	Chronic Myelogenous Leukemia	OMIM:608232
+6	0.65	Hodgkin Lymphoma	OMIM:236300
+7	0.6	Non-Hodgkin Lymphoma	OMIM:605027
+8	0.55	Sarcoidosis	OMIM:181000
+9	0.5	Hereditary Spherocytosis	OMIM:182900
+10	0.45	Castleman Disease	OMIM:604113

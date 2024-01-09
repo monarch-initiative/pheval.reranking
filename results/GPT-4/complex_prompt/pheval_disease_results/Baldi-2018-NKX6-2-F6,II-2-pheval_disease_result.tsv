@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizeaus-Merzbacher disease	OMIM:312080
+2	0.8	Metachromatic leukodystrophy	OMIM:250100
+2	0.8	Canavan disease	OMIM:271900
+4	0.7	Alexander disease	OMIM:203450
+5	0.6	Adrenoleukodystrophy	OMIM:300100

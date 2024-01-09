@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Selective IgM deficiency	OMIM:154690
+2	0.7	Hyper IgM syndrome	OMIM:308230
+3	0.6	Common variable immunodeficiency	OMIM:607594
+4	0.5	IgA deficiency	OMIM:137100
+5	0.4	CD27 deficiency	OMIM:615514
+6	0.3	X-linked lymphoproliferative disease	OMIM:308240

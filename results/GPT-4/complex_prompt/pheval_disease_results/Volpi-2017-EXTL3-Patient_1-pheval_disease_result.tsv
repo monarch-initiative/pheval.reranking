@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	OMIM:614592	OMIM:614592
+3	0.7	Achondrogenesis, type IB	OMIM:600972
+4	0.6	OMIM:615139	OMIM:615139
+5	0.5	OMIM:616420	OMIM:616420
+6	0.4	Raine Syndrome	OMIM:259775
+7	0.3	OMIM:615526	OMIM:615526
+8	0.2	Bohring-Opitz Syndrome	OMIM:605039

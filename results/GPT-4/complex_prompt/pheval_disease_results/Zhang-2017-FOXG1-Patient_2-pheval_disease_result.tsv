@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Agenesis of the Corpus Callosum with Peripheral Neuropathy	OMIM:218000
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Lennox-Gastaut syndrome	OMIM:615619
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Foxg1 syndrome	OMIM:164874
+7	0.3	Aicardi syndrome	OMIM:304050
+8	0.2	Mowat-Wilson syndrome	OMIM:235730
+9	0.1	West syndrome	OMIM:308350

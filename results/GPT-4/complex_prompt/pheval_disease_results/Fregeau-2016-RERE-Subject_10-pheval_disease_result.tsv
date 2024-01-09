@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autism Spectrum Disorder	OMIM:209850
+2	0.85	Childhood Disintegrative Disorder	OMIM:244310
+3	0.8	Rett Syndrome	OMIM:312750
+4	0.75	Fragile X Syndrome	OMIM:300624
+5	0.7	Phelan-McDermid syndrome	OMIM:606232
+6	0.65	Angelman Syndrome	OMIM:105830
+7	0.6	Cohen Syndrome	OMIM:216550
+8	0.55	Joubert Syndrome	OMIM:213300
+9	0.5	Smith-Magenis Syndrome	OMIM:182290
+10	0.45	Prader-Willi Syndrome	OMIM:176270

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Zlotogora-Ogur Syndrome	OMIM:258480
+2	0.75	Severe Combined Immunodeficiency	OMIM:102700
+3	0.65	Congenital Hypothyroidism	OMIM:275200
+4	0.6	Acute Infantile Encephalopathy Predominantly Affecting The Frontal Lobes	OMIM:308350
+5	0.5	Acute Respiratory Distress Syndrome	OMIM:608014
+6	0.45	Reticular Dysgenesis	OMIM:267500
+7	0.4	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.4	Dyskeratosis Congenita, Autosomal Dominant	OMIM:127550
+7	0.4	Kabuki Syndrome	OMIM:147920
+10	0.3	Intellectual Developmental Disorder with Dysmorphic Facies and Ptosis	OMIM:618515

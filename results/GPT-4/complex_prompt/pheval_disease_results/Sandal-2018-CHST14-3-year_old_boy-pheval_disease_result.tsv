@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Freeman-Sheldon syndrome	OMIM:193700
+2	0.7	Distal arthrogryposis type 5	OMIM:108145
+3	0.6	Ehlers-Danlos syndrome	OMIM:130020
+3	0.6	Carpenter syndrome	OMIM:201000
+5	0.5	Coffin-Siris syndrome	OMIM:135900
+6	0.4	Stickler syndrome	OMIM:108300
+6	0.4	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+8	0.3	FG Syndrome	OMIM:305450
+9	0.2	Apert syndrome	OMIM:101200
+10	0.1	Saethre-Chotzen syndrome	OMIM:101400

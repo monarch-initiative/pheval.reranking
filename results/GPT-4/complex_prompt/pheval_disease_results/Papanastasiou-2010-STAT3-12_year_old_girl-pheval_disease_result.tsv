@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE Syndrome	OMIM:147060
+2	0.8	Job Syndrome	OMIM:147060
+3	0.7	Dermatitis	OMIM:603165
+4	0.6	Chronic Mucocutaneous Candidiasis	OMIM:114580
+5	0.5	Chediak-Higashi syndrome	OMIM:214500

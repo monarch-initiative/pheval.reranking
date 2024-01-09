@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome, type 1	OMIM:276900
+2	0.8	Pendred syndrome	OMIM:274600
+3	0.75	DFNB1 nonsyndromic hearing loss and deafness	OMIM:220290
+4	0.7	Usher syndrome, type 2	OMIM:276901
+5	0.65	Biotinidase deficiency	OMIM:253260
+6	0.6	Jervell and Lange-Nielsen syndrome	OMIM:220400

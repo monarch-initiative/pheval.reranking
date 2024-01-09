@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.8	Guillain-Barre syndrome	OMIM:139393
+3	0.7	Spinal muscular atrophy	OMIM:253300
+4	0.6	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.5	Friedreich's ataxia	OMIM:229300
+6	0.4	Myasthenia gravis	OMIM:159400
+7	0.3	Lambert-Eaton syndrome	OMIM:154400
+8	0.2	Polymyositis	OMIM:160120
+9	0.1	Dermatomyositis	OMIM:126200
+10	0.05	Muscular dystrophy	OMIM:310200

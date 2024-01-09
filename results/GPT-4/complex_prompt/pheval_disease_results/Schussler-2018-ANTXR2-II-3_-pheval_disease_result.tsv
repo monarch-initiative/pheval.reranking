@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cronkhite-Canada Syndrome	OMIM:175500
+2	0.75	Systemic Sclerosis	OMIM:181750
+3	0.65	MPO deficiency	OMIM:254600
+4	0.6	Hyper IgM syndrome type 1	OMIM:308230
+5	0.55	Nephrotic Syndrome, Type 1	OMIM:256300
+6	0.5	Zollinger-Ellison syndrome	OMIM:139400
+7	0.45	Celiac disease	OMIM:212750
+8	0.4	Whipple disease	OMIM:193400
+9	0.35	Primary Hyperaldosteronism	OMIM:103900
+10	0.3	Malabsorption Syndrome	OMIM:212050

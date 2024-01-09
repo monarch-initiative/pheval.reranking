@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.8	Pyknodysostosis	OMIM:265800
+3	0.6	Hypophosphatasia	OMIM:241500
+4	0.4	Ehlers-Danlos Syndrome	OMIM:130000
+5	0.3	Osteogenesis Imperfecta	OMIM:166200

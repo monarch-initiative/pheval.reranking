@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.8	Pontocerebellar Hypoplasia	OMIM:614961
+3	0.7	Lissencephaly	OMIM:607432
+4	0.6	Coffin-Siris syndrome	OMIM:135900
+5	0.5	Aicardi syndrome	OMIM:304050
+6	0.4	Rett syndrome	OMIM:312750
+7	0.3	Walker-Warburg syndrome	OMIM:236670
+8	0.2	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.1	Angelman syndrome	OMIM:105830
+9	0.1	Duchenne Muscular Dystrophy	OMIM:310200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+3	0.7	Smith-Magenis syndrome	OMIM:182290
+5	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Fragile X syndrome	OMIM:300624
+7	0.5	Rett syndrome	OMIM:312750
+7	0.5	Kabuki syndrome	OMIM:147920
+9	0.4	Patau syndrome	OMIM:263500
+9	0.4	Prader-Willi syndrome	OMIM:176270

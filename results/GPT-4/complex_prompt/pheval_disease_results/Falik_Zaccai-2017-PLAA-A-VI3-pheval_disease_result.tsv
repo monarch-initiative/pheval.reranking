@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.8	Infantile Neuroaxonal Dystrophy	OMIM:256600
+3	0.7	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+4	0.6	Leigh Syndrome, Nuclear Type 4	OMIM:256000
+4	0.6	Costeff Optic Atrophy Syndrome	OMIM:615166
+6	0.5	Glycogen Storage Disease due to Liver Phosphorylase Kinase Deficiency	OMIM:306600
+6	0.5	Pontocerebellar Hypoplasia, Type 6	OMIM:277470
+8	0.4	Complex I, Mitochondrial Respiratory Chain, Deficiency Of	OMIM:252010
+9	0.3	Infantile Neuroaxonal Dystrophy 1	OMIM:256600
+10	0.2	GDAP1-Related Hereditary Motor and Sensory Neuropathy	OMIM:214400

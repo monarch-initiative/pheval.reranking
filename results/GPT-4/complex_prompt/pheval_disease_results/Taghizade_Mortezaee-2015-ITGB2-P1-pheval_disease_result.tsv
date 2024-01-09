@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency	OMIM:116920
+2	0.74	Neutrophil Defects	OMIM:2564
+3	0.68	Omphalitis of newborn	OMIM:608063
+4	0.62	Neutrophic Ulcers	OMIM:235320
+5	0.58	Immune System Disorders	OMIM:267700

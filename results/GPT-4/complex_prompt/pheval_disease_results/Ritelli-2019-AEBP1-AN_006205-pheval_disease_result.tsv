@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+2	0.85	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+3	0.6	Marfan Syndrome	OMIM:154700
+4	0.55	Ehlers-Danlos Syndrome, Musculocontractural Type 1	OMIM:601776
+5	0.4	Stickler Syndrome	OMIM:108300
+6	0.35	Lipoid Congenital Adrenal Hyperplasia	OMIM:201710
+7	0.3	Menkes Disease	OMIM:309400
+8	0.25	Osteogenesis Imperfecta	OMIM:166240
+9	0.2	Prader-Willi Syndrome	OMIM:176270
+10	0.15	Kabuki Syndrome	OMIM:147920

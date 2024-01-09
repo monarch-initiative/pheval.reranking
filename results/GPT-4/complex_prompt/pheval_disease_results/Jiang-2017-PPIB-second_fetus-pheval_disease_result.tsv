@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta Type II	OMIM:166210
+2	0.85	Osteogenesis Imperfecta Type III	OMIM:259420
+3	0.75	Osteogenesis Imperfecta Type IV	OMIM:166220
+4	0.7	Campomelic dysplasia	OMIM:114290
+5	0.65	Achondrogenesis	OMIM:200600
+6	0.6	Atelosteogenesis	OMIM:108720
+7	0.55	Hypochondrogenesis	OMIM:200610
+8	0.5	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+9	0.45	Spondyloepimetaphyseal Dysplasia	OMIM:184250
+10	0.4	Diastrophic Dysplasia	OMIM:222600

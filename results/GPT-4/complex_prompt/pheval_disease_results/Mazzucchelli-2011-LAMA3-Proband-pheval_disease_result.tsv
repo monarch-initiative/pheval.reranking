@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis Bullosa Simplex	OMIM:131800
+2	0.8	Epidermolysis Bullosa Junctional	OMIM:226650
+3	0.7	Bullous Pemphigoid	OMIM:176600
+3	0.7	Pemphigus Vulgaris	OMIM:169610
+5	0.6	Dermatitis Herpetiformis	OMIM:601847
+5	0.6	Porphyria Cutanea Tarda	OMIM:176100
+7	0.5	Kindler Syndrome	OMIM:173650
+8	0.4	Hereditary Benign Intraepithelial Dyskeratosis	OMIM:601259
+8	0.4	Epidermolysis Bullosa Acquisita	OMIM:226600
+10	0.3	Epidermolysis Bullosa Pruriginosa	OMIM:604129

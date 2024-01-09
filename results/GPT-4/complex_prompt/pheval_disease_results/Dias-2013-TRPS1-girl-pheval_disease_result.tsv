@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+3	0.7	Aarskog-Scott Syndrome	OMIM:305400
+4	0.6	Heckmatt Syndrome	OMIM:612284
+5	0.5	Short Syndrome	OMIM:269880
+6	0.4	Autism Spectrum Disorder	OMIM:209850
+7	0.3	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.2	Williams Syndrome	OMIM:194050
+9	0.1	Wilson-Turner Syndrome	OMIM:309585

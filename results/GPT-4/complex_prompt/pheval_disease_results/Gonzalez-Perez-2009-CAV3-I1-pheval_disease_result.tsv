@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Myopathy, Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes	OMIM:540000
+2	0.75	McArdle Disease	OMIM:232600
+3	0.65	Charcot-Marie-Tooth disease, type 2A	OMIM:118210
+4	0.6	Amyotrophic Lateral Sclerosis	OMIM:105400
+5	0.55	Congenital Muscular Dystrophy due to LAMA2-Mutation	OMIM:607855
+6	0.5	Mitochondrial Complex I Deficiency	OMIM:252010
+7	0.4	Rigid Spine Muscular Dystrophy	OMIM:602771
+8	0.35	Spinal Muscular Atrophy	OMIM:253300
+9	0.3	Muscular Dystrophy, Limb-Girdle, Autosomal Recessive type	OMIM:253600
+10	0.2	Myopathy, Distal, with Anterior Tibial Onset	OMIM:606768

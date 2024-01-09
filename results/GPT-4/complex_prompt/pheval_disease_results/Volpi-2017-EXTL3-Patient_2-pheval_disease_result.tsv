@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer syndrome	OMIM:101600
+2	0.8	Cloverleaf skull syndrome	OMIM:649150
+3	0.75	Immune deficiency diseases	OMIM:242500
+4	0.7	Jackson-Weiss syndrome	OMIM:123150
+5	0.6	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+6	0.55	Severe combined immunodeficiency disease	OMIM:102700
+7	0.5	Antley-Bixler syndrome	OMIM:207410

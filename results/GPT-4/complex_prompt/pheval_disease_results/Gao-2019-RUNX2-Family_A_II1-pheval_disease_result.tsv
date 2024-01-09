@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Pycnodysostosis	OMIM:265800
+3	0.7	Hypochondroplasia	OMIM:146000
+4	0.6	Campomelic dysplasia	OMIM:114290
+5	0.5	Achondroplasia	OMIM:100800
+6	0.4	Osteogenesis imperfecta	OMIM:166200
+7	0.3	Skeletal dysplasia	OMIM:600204
+8	0.2	Multiple epiphyseal dysplasia, autosomal recessive	OMIM:226900
+9	0.1	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+9	0.1	Craniofrontonasal dysplasia	OMIM:304110

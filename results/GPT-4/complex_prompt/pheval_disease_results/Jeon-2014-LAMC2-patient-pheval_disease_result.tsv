@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa, junctional	OMIM:226700
+2	0.8	Epidermolysis bullosa simplex	OMIM:131760
+3	0.7	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+3	0.7	Epidermolysis bullosa, junctional, non-Herlitz type	OMIM:226650
+5	0.6	Epidermolysis bullosa dystrophica	OMIM:226600
+5	0.6	Dermatitis herpetiformis	OMIM:603741
+5	0.6	Bullous pemphigoid	OMIM:609479
+8	0.5	Epidermolysis bullosa with pyloric atresia	OMIM:226730
+9	0.4	Herpes simplex	OMIM:610551
+10	0.3	Pemphigus vulgaris	OMIM:169610

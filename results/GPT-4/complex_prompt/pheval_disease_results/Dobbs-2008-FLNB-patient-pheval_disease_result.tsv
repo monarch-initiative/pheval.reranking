@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Larsen syndrome, autosomal dominant	OMIM:150250
+2	0.7	Diastrophic dysplasia	OMIM:222600
+3	0.6	Freeman-Sheldon syndrome	OMIM:193700
+4	0.5	Multiple pterygium syndrome, Escobar type	OMIM:265000
+4	0.5	Campomelic dysplasia	OMIM:114290
+6	0.4	Spondyloepimetaphyseal dysplasia with multiple dislocations	OMIM:603546

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.7	Wilson disease	OMIM:277900
+3	0.6	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+4	0.5	Creutzfeldt-Jakob disease	OMIM:123400
+5	0.4	Menkes disease	OMIM:309400
+6	0.3	Neuronal ceroid lipofuscinosis	OMIM:204200
+7	0.2	Biotinidase deficiency	OMIM:253260
+8	0.1	Aicardi Goutières syndrome	OMIM:225750

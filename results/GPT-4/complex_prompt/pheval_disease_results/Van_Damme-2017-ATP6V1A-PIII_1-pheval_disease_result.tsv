@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities	OMIM:613177
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.8	Lujan-Fryns syndrome	OMIM:309520
+4	0.7	Ehlers-Danlos syndrome, kyphoscoliotic and deafness type	OMIM:614557
+5	0.65	Loeys-Dietz syndrome	OMIM:609192
+6	0.6	Weill-Marchesani syndrome	OMIM:608328
+7	0.55	Homocystinuria due to MTHFR deficiency	OMIM:236250
+8	0.5	Mitochondrial Complex V (ATP synthase) Deficiency	OMIM:604273
+9	0.4	MASS Phenotype	OMIM:604308
+10	0.3	Familial thoracic aortic aneurysm and aortic dissection	OMIM:607086

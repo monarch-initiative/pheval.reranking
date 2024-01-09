@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.8	Trichothiodystrophy	OMIM:601675
+3	0.7	Cerebrooculofacioskeletal Syndrome	OMIM:214150
+4	0.6	Bloom Syndrome	OMIM:210900
+5	0.5	Xeroderma Pigmentosum	OMIM:278700
+6	0.4	Rothmund-Thomson Syndrome	OMIM:268400
+7	0.3	Pitt-Hopkins Syndrome	OMIM:610954
+8	0.2	Sjogren-Larsson Syndrome	OMIM:270200
+9	0.1	Rapp-Hodgkin Syndrome	OMIM:129400
+9	0.1	Werner Syndrome	OMIM:277700

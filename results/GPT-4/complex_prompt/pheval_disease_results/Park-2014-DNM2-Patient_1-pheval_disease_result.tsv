@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myotonic Dystrophy	OMIM:160900
+2	0.8	Myotonia Congenita	OMIM:255700
+3	0.75	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.7	Oculopharyngeal Muscular Dystrophy	OMIM:164300
+5	0.65	Bulbospinal Muscular Atrophy	OMIM:313200
+6	0.6	Paramyotonia Congenita	OMIM:168300
+7	0.58	Muscular Dystrophy-Dystroglycanopathy	OMIM:613154
+8	0.55	Mitochondrial Myopathy	OMIM:500003
+9	0.52	Spinal Bulbar Muscular Atrophy	OMIM:313200
+10	0.5	Neuropathy, Hereditary Motor and Sensory, Lom type	OMIM:600175

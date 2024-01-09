@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	22q11.2 deletion syndrome	OMIM:188400
+2	0.85	Cohen syndrome	OMIM:216550
+3	0.8	Renpenning syndrome	OMIM:309500
+4	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.7	Williams syndrome	OMIM:194050
+6	0.65	Cornelia de Lange syndrome	OMIM:122470
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.55	Fragile X syndrome	OMIM:300624
+9	0.5	Prader-Willi syndrome	OMIM:176270

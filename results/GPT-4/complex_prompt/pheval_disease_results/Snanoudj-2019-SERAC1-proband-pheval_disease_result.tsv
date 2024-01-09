@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh Syndrome	OMIM:256000
+2	0.8	MELAS	OMIM:540000
+2	0.8	MERRF	OMIM:545000
+4	0.7	Costeff Optic Atrophy Syndrome	OMIM:125650
+4	0.7	Congenital Lactic Acidosis, Finnish Type	OMIM:271650
+6	0.6	Familial Dysautonomia	OMIM:223900
+7	0.5	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+7	0.5	Congenital Disorder of Glycosylation Type 1A	OMIM:212065
+7	0.5	Neonatal Adrenoleukodystrophy	OMIM:264120
+7	0.5	West Syndrome	OMIM:308350

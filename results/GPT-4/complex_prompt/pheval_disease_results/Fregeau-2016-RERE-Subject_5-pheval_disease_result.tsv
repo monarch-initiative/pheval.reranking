@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry Syndrome	OMIM:303600
+2	0.8	Peters Plus Syndrome	OMIM:261540
+3	0.7	Aicardi syndrome	OMIM:304050
+4	0.6	Holoprosencephaly	OMIM:236100
+5	0.5	Nager Syndrome	OMIM:154400
+6	0.4	Pallister-Hall Syndrome	OMIM:146510
+7	0.3	Pfeiffer Syndrome	OMIM:101600
+8	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Joubert Syndrome	OMIM:213300
+9	0.1	Sotos Syndrome	OMIM:117550

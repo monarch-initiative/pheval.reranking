@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Homocystinuria	OMIM:236200
+3	0.6	Ehlers-Danlos Syndrome, Marfanoid Form	OMIM:601776
+4	0.5	Weill Marchesani Syndrome	OMIM:277600
+5	0.4	Loeys-Dietz Syndrome	OMIM:609192
+6	0.3	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.2	Stickler Syndrome, Type I	OMIM:108300
+8	0.1	Isolated Ectopia Lentis	OMIM:129600

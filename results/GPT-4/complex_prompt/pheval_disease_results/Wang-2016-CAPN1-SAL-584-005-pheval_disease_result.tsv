@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia	OMIM:164400
+2	0.85	Friedreich Ataxia	OMIM:229300
+3	0.8	Ataxia with Oculomotor Apraxia	OMIM:208920
+4	0.7	Episodic Ataxia	OMIM:160120
+5	0.65	Hereditary Spastic Paraplegia	OMIM:182601
+6	0.6	Ataxia-telangiectasia	OMIM:208900
+7	0.55	Spinocerebellar ataxia 11	OMIM:604432
+8	0.5	Wilson Disease	OMIM:277900
+9	0.45	Charlevoix-Saguenay spastic ataxia	OMIM:270550
+10	0.4	Multiple System Atrophy	OMIM:146500

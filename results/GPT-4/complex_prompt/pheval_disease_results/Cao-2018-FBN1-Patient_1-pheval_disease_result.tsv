@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+3	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.6	Weill-Marchesani Syndrome	OMIM:277600
+5	0.5	Stickler Syndrome, Type I	OMIM:108300
+6	0.4	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+7	0.3	Beals Syndrome	OMIM:121050
+8	0.2	Loeys-Dietz syndrome type 4	OMIM:614816
+9	0.1	Congenital Contractural Arachnodactyly	OMIM:121050

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorder of Deglycosylation	OMIM:615273
+2	0.8	Congenital Disorders of N-Linked Glycosylation and Multiple Pathway Overview	OMIM:212065
+3	0.7	Alagille Syndrome	OMIM:118450
+4	0.6	Hypercholesterolemia, Familial	OMIM:143890
+5	0.5	Wilson Disease	OMIM:277900
+6	0.4	Congenital Myasthenic Syndrome	OMIM:608931
+7	0.3	Prader-Willi Syndrome	OMIM:176270

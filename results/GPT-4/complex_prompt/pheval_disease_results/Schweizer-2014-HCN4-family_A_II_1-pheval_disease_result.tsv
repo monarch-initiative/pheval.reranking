@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Barth syndrome	OMIM:302060
+2	0.7	Left ventricular noncompaction 1	OMIM:604169
+3	0.6	Primary familial hypertrophic cardiomyopathy	OMIM:192600
+4	0.5	Cardiac Conduction Disease	OMIM:115080
+5	0.4	Familial Atrial Fibrillation	OMIM:608583
+6	0.3	Long QT Syndrome	OMIM:192500
+7	0.2	Myh7-Related Scapuloperoneal Myopathy	OMIM:181430
+8	0.1	Isolated noncompaction of the ventricular myocardium	OMIM:600183

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral palsy, spastic quadriplegic type 1	OMIM:603513
+2	0.8	Spastic paraplegia 49, autosomal recessive	OMIM:615031
+3	0.7	Spastic paraplegia 50, autosomal recessive	OMIM:612936
+4	0.6	Microcephaly, growth deficiency, seizures, and brain malformations	OMIM:617481
+5	0.5	Alpha-thalassemias X-linked intellectual disability syndrome	OMIM:301040
+6	0.4	Mental retardation, autosomal dominant 6	OMIM:613970
+7	0.3	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+8	0.2	Mental retardation, X-linked, syndromic, Christianson type	OMIM:300243
+9	0.1	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome	OMIM:213200
+10	0.05	X-linked spinocerebellar ataxia type 5	OMIM:302500

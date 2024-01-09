@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carnitine palmitoyltransferase II deficiency	OMIM:600650
+2	0.85	Multiple acyl-CoA dehydrogenation deficiency	OMIM:231680
+3	0.82	Medium-chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+4	0.8	Organic acidemia	OMIM:606489
+5	0.78	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609016
+6	0.75	Glutaric acidemia type II	OMIM:231680
+7	0.71	Mitochondrial trifunctional protein deficiency	OMIM:609015
+8	0.7	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+9	0.65	Urea cycle disorder	OMIM:238970
+10	0.6	Non-ketotic hyperglycinemia	OMIM:605899

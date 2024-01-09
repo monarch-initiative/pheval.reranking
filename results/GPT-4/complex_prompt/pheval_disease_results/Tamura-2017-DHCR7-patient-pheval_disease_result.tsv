@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.75	Partial Androgen Insensitivity Syndrome	OMIM:312300
+3	0.7	Disorder of Sex Development	OMIM:400044
+4	0.65	5-Alpha Reductase Deficiency	OMIM:264600
+5	0.6	Fraser syndrome	OMIM:219000
+6	0.5	Kallmann syndrome	OMIM:308700
+7	0.4	Hypogonadotropic hypogonadism	OMIM:146110
+8	0.3	Leydig cell hypoplasia	OMIM:238320
+9	0.2	Denys-Drash syndrome	OMIM:194080
+10	0.1	Turner Syndrome	OMIM:312560

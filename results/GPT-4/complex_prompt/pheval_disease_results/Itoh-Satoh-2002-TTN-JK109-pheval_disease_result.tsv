@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dilated cardiomyopathy 1A	OMIM:115200
+2	0.85	Arrhythmogenic right ventricular dysplasia	OMIM:107970
+3	0.8	Dilated cardiomyopathy 1B	OMIM:611880
+4	0.75	Endocardial fibroelastosis	OMIM:226000
+5	0.7	Familial idiopathic dilated cardiomyopathy	OMIM:192600
+6	0.65	Familial hypertrophic cardiomyopathy	OMIM:192600
+7	0.6	Left ventricular noncompaction	OMIM:604169
+8	0.5	Restrictive cardiomyopathy	OMIM:115210
+9	0.45	Hypertrophic cardiomyopathy	OMIM:192600
+10	0.4	Cardiomyopathy, familial restrictive	OMIM:115210

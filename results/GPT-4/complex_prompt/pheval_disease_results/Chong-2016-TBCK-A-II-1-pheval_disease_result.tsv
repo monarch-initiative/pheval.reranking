@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alpers syndrome	OMIM:203700
+2	0.8	Lissencephaly syndrome, Norman-Roberts type	OMIM:257320
+3	0.7	Joubert syndrome	OMIM:213300
+4	0.65	Pontocerebellar Hypoplasia	OMIM:614961
+5	0.6	Coffin-Lowry syndrome	OMIM:303600
+6	0.55	Mowat-Wilson syndrome	OMIM:235730
+7	0.5	Aicardi syndrome	OMIM:304050
+8	0.45	Alpha-Mannosidosis	OMIM:248500
+9	0.4	Cornelia de Lange syndrome	OMIM:122470
+10	0.35	Zellweger syndrome	OMIM:214100

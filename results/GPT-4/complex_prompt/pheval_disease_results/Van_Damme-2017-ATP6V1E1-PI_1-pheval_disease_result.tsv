@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130050
+2	0.8	Congenital Contractural Arachnodactyly	OMIM:121050
+4	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.7	Beals syndrome	OMIM:121050
+6	0.65	Congenital Muscular Dystrophy	OMIM:613205
+7	0.6	Familial Thoracic Aortic Aneurysm and Aortic Dissection	OMIM:607086
+7	0.6	Cutis Laxa	OMIM:219100
+9	0.5	Larsen syndrome	OMIM:150250
+9	0.5	Stuve-Wiedemann Syndrome	OMIM:601559

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.8	Spastic Paraplegia 2	OMIM:312920
+3	0.7	Cerebral Palsy, Ataxic, Autosomal Recessive	OMIM:605388
+4	0.6	Hereditary Spastic Paraplegia	OMIM:604360
+5	0.5	Aicardi-Goutières syndrome	OMIM:610181
+6	0.4	Cortical Dysplasia, complex, with other brain malformations	OMIM:615831
+7	0.3	Leigh Syndrome, French-Canadian Type	OMIM:220111
+8	0.2	2-Hydroxyglutaricaciduria	OMIM:236792
+9	0.1	Cerebral Atrophy, Autosomal Recessive, Infantile-Onset	OMIM:617721
+9	0.1	Amyotrophic lateral sclerosis 4, juvenile	OMIM:602433

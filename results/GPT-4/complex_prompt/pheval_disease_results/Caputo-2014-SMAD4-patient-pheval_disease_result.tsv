@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Say-Barber-Miller syndrome	OMIM:180920
+2	0.84	Pfeiffer syndrome	OMIM:101600
+3	0.78	Coffin-Lowry syndrome	OMIM:303600
+4	0.74	Stickler syndrome	OMIM:108300
+5	0.7	Kabuki syndrome	OMIM:147920
+6	0.65	Autosomal dominant Robinow syndrome	OMIM:180700
+7	0.62	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.57	Treacher Collins syndrome	OMIM:154500
+9	0.55	Weaver syndrome	OMIM:277590
+10	0.51	Cornelia de Lange syndrome	OMIM:122470

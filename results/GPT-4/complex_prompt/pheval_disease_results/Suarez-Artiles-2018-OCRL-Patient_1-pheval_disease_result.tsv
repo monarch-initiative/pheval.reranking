@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dent Disease	OMIM:300009
+2	0.7	Renal Tubular Dysgenesis	OMIM:267430
+3	0.6	Fanconi Syndrome	OMIM:134600
+4	0.5	Primary Congenital Glaucoma	OMIM:231300
+5	0.4	Cystinuria	OMIM:220100
+6	0.3	Down Syndrome	OMIM:190685
+7	0.2	Angelman Syndrome	OMIM:105830
+8	0.1	Microcephaly 13, Primary, Autosomal Recessive	OMIM:616051

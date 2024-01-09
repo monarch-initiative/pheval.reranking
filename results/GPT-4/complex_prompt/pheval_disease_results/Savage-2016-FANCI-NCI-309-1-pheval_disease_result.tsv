@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.8	DiGeorge Syndrome	OMIM:188400
+3	0.7	Ballard Syndrome	OMIM:607369
+4	0.6	Noonan Syndrome	OMIM:163950
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849

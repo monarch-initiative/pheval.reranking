@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.8	Parkinson disease, late-onset	OMIM:168600
+3	0.7	Huntington disease	OMIM:143100

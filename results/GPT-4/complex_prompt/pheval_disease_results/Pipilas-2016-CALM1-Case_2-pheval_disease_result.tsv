@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome	OMIM:192500
+2	0.8	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.7	Myocarditis	OMIM:604771
+4	0.6	Brugada syndrome	OMIM:601144
+4	0.6	Arrhythmogenic Right Ventricular Cardiomyopathy	OMIM:107970
+6	0.5	Left Ventricular Noncompaction	OMIM:615092
+6	0.5	Dilated Cardiomyopathy	OMIM:115200
+8	0.4	Hypertrophic Cardiomyopathy	OMIM:192600
+9	0.3	Familial Atrial Fibrillation	OMIM:605980
+10	0.2	Wolff-Parkinson-White Syndrome	OMIM:194200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zellweger Syndrome	OMIM:214100
+2	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.7	Miller-Dieker Lissencephaly Syndrome	OMIM:247200
+4	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.6	Rett Syndrome	OMIM:312750
+6	0.6	Mowat-Wilson Syndrome	OMIM:235730
+8	0.5	Aicardi-Goutières Syndrome	OMIM:225750
+8	0.5	Angelman Syndrome	OMIM:105830
+10	0.4	Coffin-Siris Syndrome	OMIM:135900

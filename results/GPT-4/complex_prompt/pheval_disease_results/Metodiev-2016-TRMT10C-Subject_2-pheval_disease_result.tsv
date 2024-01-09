@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh Syndrome	OMIM:256000
+2	0.8	Mitochondrial Complex I Deficiency	OMIM:252010
+3	0.7	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+4	0.6	Mitochondrial Pyruvate Carrier Deficiency	OMIM:245349
+5	0.5	Combined Oxidative Phosphorylation Deficiency 1	OMIM:609060
+6	0.4	Glutaric Acidemia IIC	OMIM:231680
+7	0.3	Combined Oxidative Phosphorylation Deficiency 2	OMIM:610498
+8	0.2	Pyruvate Carboxylase Deficiency	OMIM:266150
+9	0.1	Multiple Mitochondrial Dysfunctions Syndrome 1	OMIM:605711

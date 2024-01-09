@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia 1	OMIM:129490
+2	0.85	Ectodermal dysplasia 10, hypohidrotic/hair/tooth/nail type	OMIM:129490
+3	0.8	Hidrotic ectodermal dysplasia	OMIM:602032
+4	0.75	Clouston syndrome	OMIM:129500
+5	0.65	Pachyonychia congenita	OMIM:167210
+6	0.55	Anhidrotic ectodermal dysplasia	OMIM:224900
+7	0.5	Hypohidrotic ectodermal dysplasia	OMIM:305100
+8	0.4	Dyskeratosis congenita	OMIM:224230
+9	0.3	Rothmund-Thomson syndrome	OMIM:268400
+10	0.2	Cartilage-hair hypoplasia	OMIM:250250

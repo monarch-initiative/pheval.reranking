@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.8	Meckel syndrome	OMIM:249000
+3	0.7	Alström syndrome	OMIM:203800
+4	0.6	Laurence-Moon syndrome	OMIM:245800
+5	0.5	Cohen syndrome	OMIM:216550
+6	0.4	McKusick-Kaufman syndrome	OMIM:236700
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Joubert syndrome	OMIM:213300
+9	0.1	Ellis-van Creveld syndrome	OMIM:225500

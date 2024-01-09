@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia type 1	OMIM:131100
+2	0.8	Pituitary Adenoma, ACTH-Secreting	OMIM:102200
+3	0.7	Pituitary Adenoma, Prolactin-Secreting	OMIM:102230
+4	0.6	Primary Hyperparathyroidism	OMIM:145000
+4	0.6	Neuroendocrine tumor	OMIM:615554
+4	0.6	MEN1 syndrome	OMIM:610733
+7	0.5	Hypopituitarism, isolated ACTH deficiency	OMIM:201400
+7	0.5	Peptic ulcer disease	OMIM:263200
+7	0.5	Gastrinoma	OMIM:137215
+10	0.4	Carcinoid Tumor, Intestinal	OMIM:114900

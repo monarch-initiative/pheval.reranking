@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizeus-Merzbacher disease	OMIM:312080
+2	0.8	Alexander disease	OMIM:203450
+2	0.8	CACH syndrome	OMIM:601896
+4	0.7	Muscle-eye-brain disease	OMIM:253280
+4	0.7	Seckel syndrome	OMIM:210600
+4	0.7	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+7	0.6	Leukodystrophy, hypomyelinating, 5	OMIM:611660

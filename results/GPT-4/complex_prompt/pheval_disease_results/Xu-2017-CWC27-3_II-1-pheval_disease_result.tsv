@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa	OMIM:268000
+2	0.85	Usher Syndrome	OMIM:276900
+3	0.8	Leber Congenital Amaurosis	OMIM:204000
+4	0.7	Bardet-Biedl Syndrome	OMIM:209900
+5	0.65	Cone-Rod Dystrophy	OMIM:120970
+6	0.6	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+7	0.55	Alstrom Syndrome	OMIM:203800
+8	0.5	Joubert Syndrome	OMIM:213300
+9	0.45	Neuronal Ceroid Lipofuscinosis	OMIM:256730
+10	0.4	Kearns-Sayre Syndrome	OMIM:530000

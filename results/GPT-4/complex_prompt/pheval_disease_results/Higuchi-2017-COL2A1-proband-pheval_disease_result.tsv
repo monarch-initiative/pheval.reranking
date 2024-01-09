@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler Syndrome, Type I	OMIM:108300
+2	0.85	Stickler Syndrome, Type II	OMIM:604841
+3	0.75	Stickler Syndrome, Type III	OMIM:614134
+4	0.6	Marshall Syndrome	OMIM:154780
+5	0.5	Weissenbacher-Zweymuller syndrome	OMIM:277610
+6	0.45	Pierpont syndrome	OMIM:602342
+7	0.4	Otospondylomegaepiphyseal dysplasia	OMIM:215150
+8	0.35	Osteogenesis imperfecta	OMIM:166200
+9	0.3	Osteopetrosis	OMIM:259700
+10	0.25	Cleidocranial dysplasia	OMIM:119600

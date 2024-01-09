@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.8	Epileptic Encephalopathy, Early Infantile, 49	OMIM:617281
+3	0.7	Lennox-Gastaut Syndrome	OMIM:606369
+4	0.6	Dravet Syndrome	OMIM:607208
+5	0.5	Cornelia De Lange Syndrome	OMIM:610759
+6	0.4	West Syndrome	OMIM:308350
+7	0.3	Coffin-Siris Syndrome	OMIM:135900
+8	0.2	Kabuki Syndrome	OMIM:147920

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille Syndrome 1	OMIM:118450
+2	0.75	Osteogenesis Imperfecta	OMIM:166200
+3	0.65	Treacher Collins Syndrome	OMIM:154500
+4	0.6	Adams-Oliver Syndrome	OMIM:100300
+5	0.55	Cutis Laxa	OMIM:123700
+6	0.5	Williams Syndrome	OMIM:194050
+7	0.45	Niemann-Pick Disease	OMIM:257200
+8	0.4	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.35	Cockayne Syndrome	OMIM:216400
+10	0.3	Noonan Syndrome	OMIM:163950

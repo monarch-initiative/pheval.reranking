@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nail-Patella syndrome	OMIM:161200
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+3	0.7	Congenital contractural arachnodactyly	OMIM:121050
+4	0.6	Prader-Willi Syndrome	OMIM:176270
+5	0.5	Osteogenesis imperfecta	OMIM:166200
+6	0.4	Pena Shokeir syndrome type I	OMIM:208150
+7	0.3	Trisomy 18	OMIM:190685
+8	0.2	Congenital muscular dystrophy	OMIM:613205
+9	0.1	Hypotonia-Cystinuria syndrome	OMIM:606407

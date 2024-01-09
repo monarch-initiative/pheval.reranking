@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Freeman-Sheldon syndrome	OMIM:193700
+2	0.7	Distal arthrogryposis type 2A	OMIM:108120
+3	0.65	Distal arthrogryposis type 2B	OMIM:601680
+4	0.6	Marden-Walker syndrome	OMIM:248700
+5	0.5	SC phocomelia syndrome	OMIM:269000
+6	0.45	Gordon syndrome	OMIM:230690
+7	0.4	Arthrogryposis multiplex congenita, distal, type 2B	OMIM:618435
+8	0.35	Larsen syndrome	OMIM:150250
+9	0.3	Geleophysic dysplasia	OMIM:231050
+10	0.25	Pfeiffer syndrome	OMIM:101600

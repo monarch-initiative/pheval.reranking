@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Leigh syndrome	OMIM:256000
+2	0.6	Meckel syndrome	OMIM:249000
+3	0.5	Apert syndrome	OMIM:101200
+4	0.4	Coffin-Siris syndrome	OMIM:135900
+4	0.4	Holoprosencephaly	OMIM:236100
+6	0.3	Rett syndrome	OMIM:312750
+7	0.2	Miller-Dieker lissencephaly syndrome	OMIM:247200
+7	0.2	Zellweger syndrome	OMIM:214100
+9	0.1	Canavan disease	OMIM:271900
+9	0.1	Aicardi syndrome	OMIM:304050

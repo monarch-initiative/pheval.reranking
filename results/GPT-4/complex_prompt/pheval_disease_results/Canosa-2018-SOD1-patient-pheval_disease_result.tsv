@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic Lateral Sclerosis	OMIM:105400
+2	0.8	Bulbar Palsy, Progressive	OMIM:608603
+3	0.7	Primary Lateral Sclerosis	OMIM:606554
+4	0.6	Spinal Muscular Atrophy, Distal, Autosomal Recessive	OMIM:604320
+5	0.5	Spinal and Bulbar Muscular Atrophy	OMIM:313200
+6	0.4	Spinal Muscular Atrophy, Late-onset, Finkel type	OMIM:182980
+7	0.3	Hypophosphatasia, Adult	OMIM:146300
+8	0.2	Glycogen Storage Disease Type 2	OMIM:232300
+9	0.1	Myopathy, Distal, with Upper Limb Predominance	OMIM:614399
+9	0.1	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200

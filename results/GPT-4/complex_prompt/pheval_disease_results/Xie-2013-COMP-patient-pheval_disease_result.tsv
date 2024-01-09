@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis type 4	OMIM:253000
+2	0.8	Mucopolysaccharidosis type 6	OMIM:253200
+3	0.7	Mucopolysaccharidosis type 4B	OMIM:253010
+4	0.6	Spondyloepiphyseal dysplasia tarda	OMIM:313400
+5	0.5	Spondyloepimetaphyseal dysplasia	OMIM:271665
+6	0.4	Rickets	OMIM:613312
+7	0.3	Schwartz-Jampel syndrome	OMIM:255800
+8	0.2	Metaphyseal dysplasia	OMIM:156500

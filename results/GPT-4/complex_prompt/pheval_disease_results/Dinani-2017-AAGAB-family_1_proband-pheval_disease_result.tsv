@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Clouston syndrome	OMIM:129500
+2	0.8	Palmoplantar keratoderma, Bothnian type	OMIM:600231
+3	0.7	Palmoplantar keratoderma, Nagashima type	OMIM:615598
+4	0.6	Palmoplantar keratoderma, non-epidermolytic	OMIM:600962
+5	0.5	Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques	OMIM:124230
+6	0.4	Palmoplantar keratoderma, epidermolytic	OMIM:144200
+7	0.3	Congenital erythroderma, ichthyosiform	OMIM:609165
+8	0.2	Ectodermal dysplasia 4, hair/nail type	OMIM:602032
+9	0.1	Ectodermal dysplasia 7, hair/nail type	OMIM:614927
+9	0.1	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive	OMIM:224900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Dyskeratosis Congenita	OMIM:127550
+2	0.8	Severe Combined Immunodeficiency	OMIM:102700
+3	0.75	Kenny-Caffey Syndrome	OMIM:244460
+4	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.65	Hypochondroplasia	OMIM:146000
+6	0.6	Cornelia de Lange Syndrome	OMIM:122470
+7	0.55	Greenberg Dysplasia	OMIM:215140
+8	0.5	Roberts Syndrome	OMIM:268300
+9	0.45	BALLER-GEROLD SYNDROME	OMIM:218600
+10	0.4	Pitt-Hopkins Syndrome	OMIM:610954

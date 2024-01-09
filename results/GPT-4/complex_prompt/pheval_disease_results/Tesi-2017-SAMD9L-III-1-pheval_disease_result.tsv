@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immune Dysregulation-Polyendocrinopathy-Enteropathy-X-Linked Syndrome	OMIM:304790
+2	0.85	Agammaglobulinemia 1, Autosomal Recessive	OMIM:601495
+3	0.8	Hyper IgM Syndrome	OMIM:308230
+4	0.75	Antley-Bixler Syndrome	OMIM:207410
+5	0.7	Ataxia-Telangiectasia	OMIM:208900
+6	0.65	Adrenoleukodystrophy	OMIM:300100
+7	0.6	Metachromatic Leukodystrophy	OMIM:250100
+8	0.55	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.5	Langerhans Cell Histiocytosis	OMIM:604874
+10	0.45	IgA Deficiency	OMIM:137100

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi syndrome	OMIM:176270
+2	0.85	Turner syndrome	OMIM:163950
+3	0.8	Russell-Silver syndrome	OMIM:180860
+4	0.75	Smith-Magenis syndrome	OMIM:182290
+5	0.7	Angelman syndrome	OMIM:105830
+6	0.65	Williams syndrome	OMIM:194050
+7	0.6	Cornelia de Lange syndrome	OMIM:122470

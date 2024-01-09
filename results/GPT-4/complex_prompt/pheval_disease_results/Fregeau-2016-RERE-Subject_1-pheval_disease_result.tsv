@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Coffin-Lowry syndrome	OMIM:303600
+2	0.6	Rett syndrome	OMIM:312750
+2	0.6	Pitt-Hopkins syndrome	OMIM:610954
+4	0.5	Aicardi-Goutieres syndrome	OMIM:225750
+4	0.5	Marinesco-Sjögren syndrome	OMIM:248800
+6	0.4	Fragile X syndrome	OMIM:300624
+7	0.3	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.3	Weaver syndrome	OMIM:277590

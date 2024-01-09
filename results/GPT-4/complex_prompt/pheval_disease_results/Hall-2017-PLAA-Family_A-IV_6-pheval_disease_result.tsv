@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.6	Schinzel-Giedion Syndrome	OMIM:269150
+4	0.5	Coffin-Siris Syndrome	OMIM:135900
+5	0.4	Pallister-Hall Syndrome	OMIM:146510
+5	0.4	Holoprosencephaly	OMIM:236100
+7	0.3	Coffin-Lowry syndrome	OMIM:303600
+7	0.3	Bardet-Biedl Syndrome	OMIM:209900
+9	0.2	Mowat-Wilson Syndrome	OMIM:235730
+10	0.1	Zellweger Syndrome	OMIM:214100

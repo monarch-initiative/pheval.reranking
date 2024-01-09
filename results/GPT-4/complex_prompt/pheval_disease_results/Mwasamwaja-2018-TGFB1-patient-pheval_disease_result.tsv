@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hyperphosphatasia with mental retardation syndrome	OMIM:239300
+2	0.8	Myofibrillar myopathies	OMIM:601419
+3	0.7	Juvenile Paget disease	OMIM:239000
+4	0.65	Paget disease of bone	OMIM:167250
+5	0.6	Sarcoglycanopathies	OMIM:608896
+6	0.5	Coffin-Lowry syndrome	OMIM:303600
+7	0.45	Fibrodysplasia ossificans progressiva	OMIM:135100
+8	0.4	Muscular dystrophy, limb-girdle, type 2A	OMIM:253600
+9	0.35	McLeod syndrome	OMIM:300842
+10	0.3	Glycogen storage disease type V	OMIM:232600

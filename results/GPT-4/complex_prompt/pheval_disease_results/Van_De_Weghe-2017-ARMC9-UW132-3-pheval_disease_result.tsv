@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Joubert syndrome	OMIM:213300
+2	0.88	Ponto-cerebellar hypoplasia	OMIM:614968
+3	0.8	Dandy-Walker syndrome	OMIM:220200
+3	0.8	Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome	OMIM:224050
+5	0.75	Aicardi syndrome	OMIM:304050
+6	0.7	Pontocerebellar hypoplasia type 2	OMIM:277470
+6	0.7	Oculomotor apraxia	OMIM:208920
+8	0.65	Lissencephaly	OMIM:607432
+9	0.6	Pittelkow syndrome	OMIM:274150
+10	0.58	Bardet-Biedl syndrome	OMIM:209900

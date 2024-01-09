@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+2	0.85	Geroderma osteodysplastica	OMIM:231070
+3	0.8	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.75	De Barsy Syndrome	OMIM:219150
+5	0.7	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+6	0.65	Ehlers-Danlos syndrome	OMIM:130000
+7	0.6	Marfan Syndrome	OMIM:154700
+8	0.55	Larsen syndrome	OMIM:150250
+9	0.5	Rienhoff syndrome	OMIM:615633
+10	0.45	Loeys-Dietz syndrome	OMIM:610168

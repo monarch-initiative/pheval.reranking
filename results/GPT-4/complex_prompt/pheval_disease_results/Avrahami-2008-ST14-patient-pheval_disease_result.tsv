@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis, Congenital, Autosomal Recessive 4	OMIM:612281
+2	0.85	Ichthyosis, Congenital, Autosomal Recessive 1	OMIM:242300
+3	0.8	Ichthyosis, Congenital, Autosomal Recessive 2	OMIM:242100
+4	0.7	Ichthyosis, Erythrokerma, Congenital, and Baldness	OMIM:245600
+4	0.7	Ichthyosis, lamellar, 1	OMIM:242300
+4	0.7	Ichthyosis, lamellar, 3	OMIM:604777
+7	0.6	Ichthyosis, lamellar, 2	OMIM:601277
+8	0.5	Ichthyosis Primordial Dwarfism Central Nervous System Malformation	OMIM:608649
+9	0.4	Ichthyosis Prematurity Syndrome	OMIM:608649
+10	0.3	Ichthyosis Intellectual Disability Dwarfism Renal Impairment	OMIM:236670

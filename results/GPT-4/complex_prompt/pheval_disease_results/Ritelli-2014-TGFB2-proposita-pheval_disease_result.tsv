@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Ehlers-Danlos Syndrome, Classical Type	OMIM:130020
+2	0.7	Marfan Syndrome	OMIM:154700
+2	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.6	Brittle Cornea Syndrome	OMIM:229200
+4	0.6	Stickler Syndrome	OMIM:108300
+6	0.5	Osteogenesis Imperfecta	OMIM:166200
+6	0.5	Cutis Laxa	OMIM:219200
+8	0.4	Pseudoxanthoma Elasticum	OMIM:264800
+8	0.4	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+10	0.3	Beals Syndrome	OMIM:121050

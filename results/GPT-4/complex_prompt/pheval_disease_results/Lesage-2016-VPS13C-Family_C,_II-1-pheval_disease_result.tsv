@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.8	Cerebrotendinous xanthomatosis	OMIM:213700
+3	0.7	Wilson disease	OMIM:277900
+3	0.7	Sjögren-Larsson syndrome	OMIM:270200
+5	0.6	Huntington disease	OMIM:143100
+5	0.6	Pantothenate kinase-associated neurodegeneration	OMIM:606157
+7	0.5	X-linked adrenoleukodystrophy	OMIM:300100
+7	0.5	Spinocerebellar ataxia type 15	OMIM:606658
+9	0.4	Alexander disease	OMIM:203450
+9	0.4	Gaucher disease Type 2	OMIM:230900

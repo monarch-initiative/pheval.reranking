@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome	OMIM:193500
+2	0.8	Oculocutaneous albinism	OMIM:203200
+3	0.7	Piebaldism	OMIM:172800
+4	0.6	Chediak-Higashi syndrome	OMIM:214500
+5	0.5	Cross syndrome	OMIM:314995
+6	0.4	Hermansky-Pudlak syndrome	OMIM:203300
+6	0.4	Griscelli syndrome	OMIM:214450
+8	0.3	Tietz syndrome	OMIM:103500
+9	0.2	Albinism, ocular	OMIM:300500
+10	0.1	Reticulate acropigmentation of Kitamura	OMIM:615537

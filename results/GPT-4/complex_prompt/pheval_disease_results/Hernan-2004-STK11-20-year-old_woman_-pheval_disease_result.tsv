@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peutz-Jeghers syndrome	OMIM:175200
+2	0.8	Carney complex	OMIM:160980
+3	0.7	Laugier-Hunziker syndrome	OMIM:139090
+4	0.6	Familial atypical multiple mole melanoma syndrome	OMIM:155601
+5	0.5	Cowden syndrome	OMIM:158350
+6	0.4	Juvenile polyposis syndrome	OMIM:174900
+7	0.3	Cronkhite-Canada syndrome	OMIM:175500
+8	0.2	LEOPARD syndrome	OMIM:151100
+9	0.1	Familial adenomatous polyposis	OMIM:175100

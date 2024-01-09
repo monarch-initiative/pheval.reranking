@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency	OMIM:116920
+2	0.8	Hyper IgM Syndrome Type 1	OMIM:308230
+3	0.7	Chronic Granulomatous Disease	OMIM:306400
+4	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.5	Severe Combined Immunodeficiency	OMIM:102700
+6	0.4	Selective IgA Deficiency	OMIM:137100
+7	0.3	Chediak-Higashi Syndrome	OMIM:214500
+8	0.2	Common Variable Immunodeficiency	OMIM:607594
+9	0.1	ZAP70-related severe combined immunodeficiency	OMIM:176947

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ataxia-Telangiectasia	OMIM:208900
+2	0.8	Shwachman-Diamond syndrome	OMIM:260400
+3	0.7	Alagille syndrome	OMIM:118450
+4	0.6	Myelodysplastic syndrome	OMIM:614286
+5	0.5	ADHD, Susceptibility to	OMIM:143465
+6	0.4	Seckel syndrome 2	OMIM:606744
+7	0.3	Common Variable immunodeficiency	OMIM:607594
+8	0.2	Wiskott-Aldrich syndrome	OMIM:301000
+9	0.1	Hyper IgM syndrome	OMIM:308230

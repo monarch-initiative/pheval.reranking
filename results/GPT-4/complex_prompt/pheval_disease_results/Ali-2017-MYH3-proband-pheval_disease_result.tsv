@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Blepharocheilodontic syndrome	OMIM:119580
+2	0.75	Freeman-Sheldon syndrome	OMIM:193700
+3	0.65	Craniofacial-deafness-hand syndrome	OMIM:122880
+4	0.6	Mowat-Wilson syndrome	OMIM:235730
+5	0.55	Opitz-Kaveggia syndrome	OMIM:305450
+6	0.5	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.45	Marden-Walker syndrome	OMIM:248700
+8	0.4	Trisomy 18	OMIM:190685

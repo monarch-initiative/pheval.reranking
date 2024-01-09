@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Aicardi-Goutieres Syndrome	OMIM:225750
+2	0.7	Coffin-Siris Syndrome	OMIM:135900
+3	0.65	Griscelli Syndrome	OMIM:214450
+4	0.6	Diencephalic-Mesencephalic Junction Dysplasia Syndrome	OMIM:617755
+5	0.55	Mowat-Wilson Syndrome	OMIM:235730
+6	0.5	Agenesis of the Corpus Callosum with Peripheral Neuropathy	OMIM:218000
+7	0.4	Cornelia De Lange Syndrome	OMIM:122470
+8	0.3	Gordon Syndrome	OMIM:614446
+9	0.2	Mohr-Tranebjaerg Syndrome	OMIM:304700
+10	0.1	Verloes-Koulischer Syndrome	OMIM:617152

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Netherton Syndrome	OMIM:256500
+2	0.8	Trichohepatoenteric Syndrome	OMIM:222470
+3	0.7	Conradi-Hunermann Syndrome	OMIM:302960
+4	0.6	Gaucher Disease	OMIM:230800
+5	0.5	Ichthyosis Prematurity Syndrome	OMIM:608649
+6	0.4	Harlequin Ichthyosis	OMIM:242500

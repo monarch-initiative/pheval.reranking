@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Mowat-Wilson syndrome	OMIM:235730
+2	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.65	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	CHARGE syndrome	OMIM:214800
+7	0.45	Kleefstra syndrome	OMIM:610253
+8	0.4	Coffin-Siris syndrome	OMIM:135900
+9	0.3	Angelman syndrome	OMIM:105830
+10	0.2	Wolf-Hirschhorn syndrome	OMIM:194190

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zellweger syndrome	OMIM:214100
+2	0.8	Neurodegenerative disorder	OMIM:310200
+3	0.75	Congenital disorder of deglycosylation	OMIM:615273
+4	0.7	Aicardi-Goutieres syndrome	OMIM:225750
+5	0.65	Congenital Muscular Dystrophy	OMIM:613205
+6	0.6	Coffin-Siris syndrome	OMIM:135900
+7	0.55	Mowat-Wilson syndrome	OMIM:235730
+8	0.5	Pelizaeus-Merzbacher disease	OMIM:312080
+9	0.45	Rett syndrome	OMIM:312750
+10	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400

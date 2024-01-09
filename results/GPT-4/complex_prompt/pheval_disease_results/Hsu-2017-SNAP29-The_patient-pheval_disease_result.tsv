@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.85	Cornelia de Lange Syndrome	OMIM:122470
+3	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.75	Nicolaides-Baraitser Syndrome	OMIM:601358
+5	0.7	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.65	Perrault Syndrome	OMIM:233400
+7	0.6	Opitz G/BBB Syndrome	OMIM:300000
+8	0.55	Focal Dermal Hypoplasia	OMIM:305600
+9	0.5	Netherton Syndrome	OMIM:256500
+10	0.45	Barber-Say Syndrome	OMIM:209885

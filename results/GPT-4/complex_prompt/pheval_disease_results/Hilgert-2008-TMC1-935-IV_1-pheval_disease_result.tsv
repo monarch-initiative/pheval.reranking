@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher Syndrome Type 1	OMIM:276900
+2	0.8	Usher Syndrome Type 2	OMIM:276901
+3	0.7	Usher Syndrome Type 3	OMIM:276902
+4	0.6	Bilateral Vestibulopathy	OMIM:614161
+5	0.5	Wolfram Syndrome	OMIM:222300
+6	0.4	Non-Syndromic Hearing Loss and Deafness, Mitochondrial	OMIM:500008
+7	0.3	Maher Syndrome	OMIM:615978
+8	0.2	Charcot-Marie-Tooth disease	OMIM:118220
+9	0.1	Jervell and Lange-Nielson syndrome	OMIM:220400
+9	0.1	Refsum Disease	OMIM:266500

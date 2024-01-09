@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher Disease, Perinatal Lethal	OMIM:608013
+2	0.7	Gaucher Disease, Type 3	OMIM:231000
+3	0.6	Gaucher Disease, Type 2	OMIM:230900
+4	0.5	Neonatal Ichthyosis-Sclerosing Cholangitis Syndrome	OMIM:607626
+5	0.4	Cholestasis, Progressive Familial Intrahepatic, 4	OMIM:615878
+6	0.3	Congenital Ichthyosis, Follicular Ichthyosis, Hypotrichosis, Hypohidrosis	OMIM:602400
+7	0.2	Thrombocytopenia 4	OMIM:612004
+8	0.1	Unverricht-Lundborg Syndrome	OMIM:254800

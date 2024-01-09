@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pontocerebellar Hypoplasia	OMIM:614961
+2	0.8	Lissencephaly	OMIM:607432
+3	0.78	Polymicrogyria	OMIM:607413
+4	0.75	Miller Dieker Syndrome	OMIM:247200
+5	0.73	Coffin-Siris syndrome	OMIM:135900
+6	0.72	Aicardi Syndrome	OMIM:304050
+7	0.7	Rett Syndrome	OMIM:312750
+8	0.68	X-Linked Lissencephaly With Ambiguous Genitalia	OMIM:300021
+9	0.66	Zellweger Syndrome	OMIM:214100
+10	0.64	Carson Syndrome	OMIM:309500

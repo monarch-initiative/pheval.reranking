@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris syndrome	OMIM:135900
+2	0.8	Peters Plus syndrome	OMIM:261540
+3	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.65	CHARGE syndrome	OMIM:214800
+6	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.5	Williams syndrome	OMIM:194050
+9	0.45	Cri du Chat syndrome	OMIM:123450
+10	0.4	Pitt-Hopkins syndrome	OMIM:610954

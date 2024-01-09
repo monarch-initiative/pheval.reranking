@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Maroteaux-Lamy syndrome	OMIM:253200
+2	0.85	Scheie syndrome	OMIM:607016
+3	0.82	Metachromatic leukodystrophy	OMIM:250100
+4	0.8	Hurler syndrome	OMIM:607014
+5	0.77	Sly syndrome	OMIM:253220
+6	0.75	Angiokeratoma corporis diffusum	OMIM:301500
+7	0.7	Sanfilippo syndrome	OMIM:252900

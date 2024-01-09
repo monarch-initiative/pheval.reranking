@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia 1	OMIM:313900
+2	0.8	Bernard-Soulier Syndrome	OMIM:231200
+3	0.7	Thrombocytopenia 2	OMIM:188000
+4	0.6	Thrombocytopenia 4	OMIM:612004
+5	0.5	Thrombocythemia 1	OMIM:187950
+6	0.4	Thrombocytopenia 5	OMIM:606444
+7	0.3	Gray Platelet Syndrome	OMIM:139090
+8	0.2	Thrombocytopenia 3	OMIM:273900
+9	0.1	Congenital Macrothrombocytopenia	OMIM:139095

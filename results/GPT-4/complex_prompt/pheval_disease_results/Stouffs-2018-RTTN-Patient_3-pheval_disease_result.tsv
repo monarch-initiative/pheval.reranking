@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Microcephalic Osteodysplastic Primordial Dwarfism, Type II	OMIM:210720
+2	0.8	Microcephalic osteodysplastic primordial dwarfism type I	OMIM:210710
+3	0.7	Microcephaly-Capillary Malformation Syndrome	OMIM:614261
+4	0.65	Pontocerebellar Hypoplasia, Type 6	OMIM:611523
+5	0.5	Seckel Syndrome	OMIM:210600
+6	0.4	Pontocerebellar Hypoplasia, Type 1A	OMIM:607596
+7	0.35	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+8	0.3	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470
+9	0.25	Severe Combined Immunodeficiency due to Adenosine Deaminase Deficiency	OMIM:102700
+10	0.2	Cohen Syndrome	OMIM:216550

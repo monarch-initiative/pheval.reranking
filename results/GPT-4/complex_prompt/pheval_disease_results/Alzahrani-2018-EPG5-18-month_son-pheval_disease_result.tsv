@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Hallermann-Streiff syndrome	OMIM:234100
+3	0.7	Ohdo syndrome	OMIM:249620
+4	0.6	Nance-Horan syndrome	OMIM:302350
+4	0.6	Blepharophimosis intellectual disability syndrome, Say-Barber-Biesecker-Young-Simpson type	OMIM:603736
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.4	Tricho-rhino-phalangeal syndrome	OMIM:190350
+9	0.4	Cri du Chat syndrome	OMIM:123450

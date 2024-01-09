@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pernicious Anemia	OMIM:261100
+2	0.8	Megaloblastic Anemia	OMIM:261100
+3	0.75	Imerslund-Grasbeck Syndrome	OMIM:261100
+4	0.6	Renal Fanconi Syndrome	OMIM:134600
+4	0.6	Homocystinuria	OMIM:236200
+4	0.6	Acute Poststreptococcal Glomerulonephritis	OMIM:614380
+4	0.6	Alport Syndrome	OMIM:301050
+8	0.5	Distal Renal Tubular Acidosis	OMIM:179800
+8	0.5	Familial Mediterranean Fever	OMIM:249100
+8	0.5	Urinary Tract Infection	OMIM:614371

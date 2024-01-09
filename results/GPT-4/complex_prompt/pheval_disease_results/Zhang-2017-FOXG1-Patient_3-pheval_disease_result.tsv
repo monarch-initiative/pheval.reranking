@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Agenesis of the Corpus Callosum and Congenital Lymphedema	OMIM:613399
+2	0.8	Corpus Callosum, Partial Agenesis of	OMIM:304100
+3	0.7	Seckel Syndrome 5	OMIM:613823
+3	0.7	Syndromic Corpus Callosum Agenesis	OMIM:613065
+3	0.7	Syndromic Microcephaly	OMIM:604317
+6	0.6	Hypotonia-Cystinuria Syndrome	OMIM:606407
+6	0.6	Infantile Convulsions and Choreoathetosis	OMIM:602066
+6	0.6	Intellectual Disability-Expressive Aphasia-Facial Dysmorphism Syndrome	OMIM:617736
+6	0.6	Mental Retardation, Autosomal Dominant 23	OMIM:615083
+10	0.5	Pleomorphic Xanthoastrocytoma	OMIM:614964

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fragile X syndrome	OMIM:300624
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	1p36 deletion syndrome	OMIM:607872
+4	0.6	CHARGE syndrome	OMIM:214800
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.4	Smith-Magenis syndrome	OMIM:182290
+7	0.3	Williams syndrome	OMIM:194050
+7	0.3	Kabuki syndrome	OMIM:147920
+9	0.2	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.1	Prader-Willi syndrome	OMIM:176270

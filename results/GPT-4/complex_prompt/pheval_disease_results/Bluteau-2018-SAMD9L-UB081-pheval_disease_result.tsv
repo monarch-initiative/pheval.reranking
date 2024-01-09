@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis Congenita	OMIM:305000
+2	0.8	Seckel Syndrome	OMIM:210600
+3	0.7	Schimke Immunoosseous Dysplasia	OMIM:242900
+4	0.6	Fanconi Anemia	OMIM:227650
+4	0.6	Cartilage-Hair Hypoplasia	OMIM:250250
+6	0.5	Cernunnos-XLF Deficiency	OMIM:611291

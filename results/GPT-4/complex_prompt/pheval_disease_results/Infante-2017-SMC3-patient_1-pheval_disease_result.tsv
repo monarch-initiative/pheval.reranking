@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia De Lange syndrome	OMIM:122470
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.8	Coffin-Lowry Syndrome	OMIM:303600
+4	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.7	Noonan syndrome	OMIM:163950

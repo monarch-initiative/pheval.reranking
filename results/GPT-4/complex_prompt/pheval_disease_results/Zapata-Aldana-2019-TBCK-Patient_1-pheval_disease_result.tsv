@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar hypoplasia type 1b	OMIM:614678
+2	0.8	Coffin-Lowry syndrome	OMIM:303600
+3	0.7	Aicardi syndrome	OMIM:304050
+4	0.6	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+5	0.5	Bohring-Opitz syndrome	OMIM:605039
+6	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.3	Rett syndrome	OMIM:312750
+8	0.2	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.1	Cornelia de Lange syndrome	OMIM:122470

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM syndrome	OMIM:308230
+2	0.85	Hyper IgE syndrome	OMIM:147060
+3	0.8	Severe combined immunodeficiency	OMIM:102700
+4	0.75	Chediak-Higashi syndrome	OMIM:214500
+5	0.7	Griscelli syndrome type 2	OMIM:607624
+6	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.55	Common variable immunodeficiency	OMIM:607594
+8	0.5	Warts, Hypogammaglobulinemia, Infections, and Myelokathexis (WHIM) syndrome	OMIM:193670
+9	0.45	Hermansky-Pudlak syndrome	OMIM:203300
+10	0.4	Ataxia-Telangiectasia syndrome	OMIM:208900

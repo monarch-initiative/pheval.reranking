@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome	OMIM:192500
+2	0.8	Cardiac Arrhythmia, Ankyrin B-Related	OMIM:600919
+3	0.75	Andersen-Tawil Syndrome	OMIM:170390
+4	0.7	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+5	0.65	Romano-Ward Syndrome	OMIM:603830
+6	0.6	Brugada Syndrome	OMIM:601144
+7	0.55	Sick Sinus Syndrome	OMIM:608567
+8	0.5	Congenital Short QT Syndrome	OMIM:609620
+9	0.45	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+10	0.4	Wolff-Parkinson-White Syndrome	OMIM:194200

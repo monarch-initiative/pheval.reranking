@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Stickler syndrome, type I	OMIM:108300
+2	0.7	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+2	0.7	Marfan syndrome	OMIM:154700
+4	0.6	Hereditary sensory and autonomic neuropathy type VII	OMIM:615548
+4	0.6	Acrocallosal syndrome	OMIM:200990
+4	0.6	Marden-Walker syndrome	OMIM:248700
+7	0.5	Osteogenesis imperfecta, type I	OMIM:166200
+8	0.4	Char syndrome	OMIM:169100
+8	0.4	Loeys-Dietz syndrome	OMIM:609192
+10	0.3	Smith-Magenis syndrome	OMIM:182290

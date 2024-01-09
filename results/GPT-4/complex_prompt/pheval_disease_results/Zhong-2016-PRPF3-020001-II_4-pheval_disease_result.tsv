@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa 1	OMIM:180100
+2	0.85	Usher Syndrome, Type 2	OMIM:276901
+3	0.8	Usher Syndrome, Type 1	OMIM:276900
+4	0.75	Retinitis Pigmentosa 3	OMIM:180104
+5	0.7	Retinitis Pigmentosa 4	OMIM:180105
+6	0.65	Leber Congenital Amaurosis 2	OMIM:204100
+7	0.6	Bardet-Biedl Syndrome	OMIM:209900
+8	0.55	Usher Syndrome, Type 3	OMIM:276902
+9	0.5	Cone-Rod Dystrophy	OMIM:120970
+10	0.45	Stargardt Disease 1	OMIM:248200

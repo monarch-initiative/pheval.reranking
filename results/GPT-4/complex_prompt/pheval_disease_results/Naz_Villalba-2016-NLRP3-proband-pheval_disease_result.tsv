@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Giant Cell Arteritis	OMIM:187360
+2	0.8	Polyarteritis Nodosa	OMIM:615688
+3	0.7	Behçet's Disease	OMIM:109650
+4	0.6	Takayasu Arteritis	OMIM:207600
+5	0.5	Systemic Lupus Erythematosus	OMIM:152700
+6	0.4	Wegener's Granulomatosis	OMIM:608710
+7	0.3	Churg-Strauss Syndrome	OMIM:608710
+8	0.2	Idiopathic Intracranial Hypertension	OMIM:243310
+9	0.1	Chronic Urticaria	OMIM:193050

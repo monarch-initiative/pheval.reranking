@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+2	0.8	Carpenter syndrome	OMIM:201000
+3	0.76	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	Crouzon syndrome	OMIM:123500
+5	0.68	Prader-Willi syndrome	OMIM:176270
+6	0.65	Stickler syndrome	OMIM:108300
+7	0.62	Mosaic variegated aneuploidy syndrome	OMIM:257300
+8	0.6	Coffin-Lowry syndrome	OMIM:303600
+9	0.5	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.47	Cohen syndrome	OMIM:216550

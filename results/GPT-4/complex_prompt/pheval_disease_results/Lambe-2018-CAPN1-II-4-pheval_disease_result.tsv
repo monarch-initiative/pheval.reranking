@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 7	OMIM:607259
+2	0.8	Spastic ataxia 1	OMIM:108600
+3	0.7	Spastic paraplegia 3A	OMIM:182600
+4	0.6	Leukoencephalopathy with ataxia	OMIM:615651
+5	0.5	Leukodystrophy, Hypomyelinating, 3	OMIM:260600
+6	0.4	Spastic paraplegia 2	OMIM:312920
+7	0.3	Ataxia, Spastic, 5	OMIM:614487

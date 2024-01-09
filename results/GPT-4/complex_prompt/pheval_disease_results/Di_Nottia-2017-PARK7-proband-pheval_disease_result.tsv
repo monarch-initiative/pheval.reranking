@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex IV deficiency	OMIM:220110
+2	0.8	Charcot-Marie-Tooth disease, type 2	OMIM:118210
+3	0.7	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+3	0.7	Myoclonus-dystonia syndrome	OMIM:159900
+5	0.6	Kearns-Sayre syndrome	OMIM:530000
+5	0.6	Friedreich ataxia	OMIM:229300
+7	0.5	Parkinson disease, late-onset	OMIM:168600
+7	0.5	Idiopathic torsion dystonia	OMIM:128100
+7	0.5	Dystonia, DOPA-responsive	OMIM:128230
+7	0.5	Myoclonic dystonia	OMIM:159900

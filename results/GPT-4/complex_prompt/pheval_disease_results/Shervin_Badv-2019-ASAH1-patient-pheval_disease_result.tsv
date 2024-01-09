@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular Dystrophy, Duchenne Type	OMIM:310200
+2	0.85	Amyotrophic Lateral Sclerosis	OMIM:105400
+3	0.7	Myoclonic Epilepsy	OMIM:254770
+4	0.65	Becker Muscular Dystrophy	OMIM:300376
+5	0.6	Epilepsy, Juvenile Myoclonic	OMIM:254770
+6	0.55	Sarcoglycanopathy	OMIM:608080
+7	0.5	Mitochondrial Myopathy	OMIM:251900
+8	0.45	Parkinson's Disease	OMIM:168600
+9	0.4	Spinal Muscular Atrophy	OMIM:253300
+10	0.3	Congenital Myopathy	OMIM:255310
