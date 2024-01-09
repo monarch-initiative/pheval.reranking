@@ -1,0 +1,175 @@
+rank	score	disease_name	disease_identifier
+1	0.9499	Epidermolysis bullosa simplex 3, localized or generalized intermediate, with bp230 deficiency	OMIM:615425
+2	0.9084	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+2	0.9084	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+2	0.9084	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+5	0.9047	Lethal acantholytic erosive disorder	ORPHA:158687
+5	0.9047	Lethal acantholytic erosive disorder	ORPHA:158687
+7	0.8905	Epidermolysis bullosa simplex 1D, generalized, intermediate or severe, autosomal recessive	OMIM:601001
+8	0.8777	Epidermolysis bullosa, junctional 5A, intermediate	OMIM:619816
+9	0.8539	Epidermolysis bullosa, junctional 2B, severe	OMIM:619784
+9	0.8539	Epidermolysis bullosa, junctional 3A, intermediate	OMIM:619785
+9	0.8539	Epidermolysis bullosa, junctional 5B, with pyloric atresia	OMIM:226730
+9	0.8539	Epidermolysis bullosa, junctional 6, with pyloric atresia	OMIM:619817
+13	0.8116	Autoimmune disease, multisystem, infantile-onset, 2	OMIM:617006
+14	0.7652	Epidermolysis bullosa simplex 5A, Ogna type	OMIM:131950
+15	0.7403	Dystrophic epidermolysis bullosa pruriginosa	ORPHA:89843
+16	0.7347	Epidermolysis bullosa simplex with circinate migratory erythema	ORPHA:158681
+17	0.7299	Localized junctional epidermolysis bullosa	ORPHA:251393
+17	0.7299	Epidermolysis bullosa simplex 5B, with muscular dystrophy	OMIM:226670
+17	0.7299	Epidermolysis bullosa simplex 5C, with pyloric atresia	OMIM:612138
+17	0.7299	Epidermolysis bullosa simplex 2E, with migratory circinate erythema	OMIM:609352
+17	0.7299	Epidermolysis bullosa simplex 2F, with mottled pigmentation	OMIM:131960
+17	0.7299	Localized junctional epidermolysis bullosa	ORPHA:251393
+23	0.7248	Epidermolysis bullosa, junctional 1B, severe	OMIM:226700
+23	0.7248	?Epidermolysis bullosa simplex 5D, generalized intermediate, autosomal recessive	OMIM:616487
+23	0.7248	Epidermolysis bullosa dystrophica, autosomal dominant	OMIM:131750
+23	0.7248	Epidermolysis bullosa, junctional 4, intermediate	OMIM:619787
+27	0.715	Localized dystrophic epidermolysis bullosa, pretibial form	ORPHA:79410
+28	0.7127	PLEC-related intermediate epidermolysis bullosa simplex without extracutaneous involvement	ORPHA:79401
+29	0.7121	Epidermolysis bullosa simplex 2A, generalized severe	OMIM:619555
+30	0.7118	Epidermolysis bullosa, junctional 2A, intermediate	OMIM:619783
+30	0.7118	Autosomal dominant generalized dystrophic epidermolysis bullosa	ORPHA:231568
+30	0.7118	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+30	0.7118	Self-improving dystrophic epidermolysis bullosa	ORPHA:79411
+30	0.7118	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+35	0.7077	Epidermolysis bullosa, junctional 3B, severe	OMIM:619786
+35	0.7077	Autosomal dominant generalized epidermolysis bullosa simplex, intermediate form	ORPHA:79399
+35	0.7077	Epidermolysis bullosa simplex 1A, generalized severe	OMIM:131760
+35	0.7077	Epidermolysis bullosa simplex with mottled pigmentation	ORPHA:79397
+35	0.7077	Epidermolysis bullosa simplex 1B, generalized intermediate	OMIM:131900
+35	0.7077	Epidermolysis bullosa simplex with pyloric atresia	ORPHA:158684
+35	0.7077	Epidermolysis bullosa simplex with pyloric atresia	ORPHA:158684
+35	0.7077	Epidermolysis bullosa dystrophica, Bart type	OMIM:132000
+35	0.7077	Epidermolysis bullosa dystrophica inversa	OMIM:226600
+35	0.7077	Autosomal dominant generalized epidermolysis bullosa simplex, intermediate form	ORPHA:79399
+35	0.7077	Epidermolysis bullosa simplex with mottled pigmentation	ORPHA:79397
+35	0.7077	Epidermolysis bullosa dystrophica, autosomal recessive, modifier of	OMIM:226600
+47	0.7057	Cardiomyopathy, dilated, with woolly hair and keratoderma	OMIM:605676
+47	0.7057	Epidermolysis bullosa, lethal acantholytic	OMIM:609638
+47	0.7057	Naxos disease	OMIM:601214
+47	0.7057	Transient bullous of the newborn	OMIM:131705
+47	0.7057	Rothmund-Thomson syndrome, type 1	OMIM:618625
+47	0.7057	Rothmund-Thomson syndrome type 1	ORPHA:221008
+47	0.7057	Non-epidermolytic palmoplantar keratoderma	ORPHA:2337
+47	0.7057	Bloom syndrome	ORPHA:125
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	OMIM:616295
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Autosomal recessive malignant osteopetrosis	ORPHA:667
+47	0.7057	Hartnup disease	ORPHA:2116
+47	0.7057	Hereditary coproporphyria	ORPHA:79273
+47	0.7057	Acral peeling skin syndrome	ORPHA:263534
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Focal facial dermal dysplasia type IV	ORPHA:398189
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Hypotrichosis and recurrent skin vesicles	OMIM:613102
+47	0.7057	Lipoid proteinosis	ORPHA:530
+47	0.7057	Urbach-Wiethe disease	OMIM:247100
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Epidermolysis bullosa simplex 4, localized or generalized intermediate, autosomal recessive	OMIM:615028
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	ORPHA:37042
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Congenital erythropoietic porphyria	ORPHA:79277
+47	0.7057	Erythrokeratodermia variabilis	ORPHA:317
+47	0.7057	Erythrokeratodermia variabilis	ORPHA:317
+47	0.7057	Erythrokeratodermia variabilis	ORPHA:317
+47	0.7057	Stevens-Johnson syndrome	ORPHA:36426
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Incontinentia pigmenti	ORPHA:464
+47	0.7057	Incontinentia pigmenti	OMIM:308300
+47	0.7057	Stevens-Johnson syndrome	ORPHA:36426
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Epidermolysis bullosa, junctional 7, with interstitial lung disease and nephrotic syndrome	OMIM:614748
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Erythrokeratodermia variabilis	ORPHA:317
+47	0.7057	Epidermolysis bullosa simplex 6, generalized intermediate, with or without cardiomyopathy	OMIM:617294
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Ichthyosis histrix, Curth-Macklin type	OMIM:146590
+47	0.7057	Ichthyosis, annular epidermolytic 2	OMIM:620148
+47	0.7057	Epidermolytic hyperkeratosis 1	OMIM:113800
+47	0.7057	Epidermolytic palmoplantar keratoderma	ORPHA:2199
+47	0.7057	Autosomal dominant epidermolytic ichthyosis	ORPHA:312
+47	0.7057	Autosomal dominant epidermolytic ichthyosis	ORPHA:312
+47	0.7057	?Ichthyosis histrix, Lambert type	OMIM:146600
+47	0.7057	Epidermolytic hyperkeratosis 2	OMIM:620150
+47	0.7057	Ichthyosis, annular epidermolytic 1	OMIM:607602
+47	0.7057	Epidermolytic palmoplantar keratoderma	ORPHA:2199
+47	0.7057	Superficial epidermolytic ichthyosis	ORPHA:455
+47	0.7057	Epidermolytic palmoplantar keratoderma	ORPHA:2199
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Sweet syndrome	ORPHA:3243
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy, 2	OMIM:618321
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Ectodermal dysplasia-skin fragility syndrome	ORPHA:158668
+47	0.7057	Porphyria variegata	ORPHA:79473
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Rothmund-Thomson syndrome type 2	ORPHA:221016
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Acrodermatitis enteropathica	ORPHA:37
+47	0.7057	Hartnup disease	ORPHA:2116
+47	0.7057	Absence of fingerprints-congenital milia syndrome	ORPHA:1658
+47	0.7057	Autosomal recessive malignant osteopetrosis	ORPHA:667
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Autosomal recessive malignant osteopetrosis	ORPHA:667
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Peeling skin syndrome 2	OMIM:609796
+47	0.7057	Acral peeling skin syndrome	ORPHA:263534
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Behçet disease	ORPHA:117
+47	0.7057	Autosomal recessive malignant osteopetrosis	ORPHA:667
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	1p36 deletion syndrome	ORPHA:1606
+47	0.7057	Hepatoerythropoietic porphyria	ORPHA:95159
+47	0.7057	Congenital erythropoietic porphyria	ORPHA:79277
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+47	0.7057	Dyskeratosis congenita	ORPHA:1775
+142	0.7005	Autosomal recessive generalized epidermolysis bullosa simplex	ORPHA:89838
+142	0.7005	Recessive dystrophic epidermolysis bullosa inversa	ORPHA:79409
+144	0.6971	Localized epidermolysis bullosa simplex	ORPHA:79400
+144	0.6971	Localized epidermolysis bullosa simplex	ORPHA:79400
+146	0.6903	Ectodermal dysplasia/skin fragility syndrome	OMIM:604536
+147	0.6891	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+147	0.6891	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+147	0.6891	Epidermolysis bullosa, junctional 1A, intermediate	OMIM:226650
+147	0.6891	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+147	0.6891	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+147	0.6891	Junctional epidermolysis bullosa with pyloric atresia	ORPHA:79403
+147	0.6891	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+147	0.6891	Junctional epidermolysis bullosa with pyloric atresia	ORPHA:79403
+147	0.6891	Epidermolysis bullosa simplex 2D, generalized, intermediate or severe, autosomal recessive	OMIM:619599
+147	0.6891	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+147	0.6891	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+158	0.6224	Naegeli-Franceschetti-Jadassohn syndrome	ORPHA:69087
+158	0.6224	Epidermolysis bullosa, pretibial	OMIM:131850
+158	0.6224	Basan syndrome	OMIM:129200
+158	0.6224	Kindler syndrome	OMIM:173650
+158	0.6224	Epidermolysis bullosa simplex 7, with nephropathy and deafness	OMIM:609057
+158	0.6224	Developmental and epileptic encephalopathy 100	OMIM:619777
+164	0.5904	Peeling skin syndrome 1	OMIM:270300
+165	0.5872	Epidermolysis bullosa simplex 1C, localized	OMIM:131800
+166	0.3734	Epidermolysis bullosa simplex 2C, localized	OMIM:619594
+166	0.3734	Epidermolysis bullosa simplex 2B, generalized intermediate	OMIM:619588
+166	0.3734	KRT1-related diffuse nonepidermolytic keratoderma	ORPHA:530838
+166	0.3734	Pachyonychia congenita	ORPHA:2309
+166	0.3734	Pachyonychia congenita	ORPHA:2309
+166	0.3734	Keratosis palmoplantaris striata I, AD	OMIM:148700
+166	0.3734	Pachyonychia congenita	ORPHA:2309
+166	0.3734	Pachyonychia congenita	ORPHA:2309
+174	0.3662	Blistering, acantholytic, of oral and laryngeal mucosa	OMIM:619226

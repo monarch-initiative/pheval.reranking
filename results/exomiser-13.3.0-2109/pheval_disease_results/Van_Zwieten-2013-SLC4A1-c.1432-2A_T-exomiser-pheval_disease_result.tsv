@@ -1,0 +1,2038 @@
+rank	score	disease_name	disease_identifier
+1	0.9571	Anemia, hemolytic, Rh-null, regulator type	OMIM:268150
+2	0.9274	Spherocytosis, type 2	OMIM:616649
+3	0.9264	Spherocytosis, type 4	OMIM:612653
+3	0.9264	Spherocytosis, type 1	OMIM:182900
+5	0.9259	Spherocytosis, type 3	OMIM:270970
+6	0.9128	Pyropoikilocytosis	OMIM:266140
+7	0.8925	Hereditary elliptocytosis	ORPHA:288
+7	0.8925	Hereditary elliptocytosis	ORPHA:288
+7	0.8925	Hereditary elliptocytosis	ORPHA:288
+7	0.8925	Hereditary elliptocytosis	ORPHA:288
+11	0.8874	Rh deficiency syndrome	ORPHA:71275
+11	0.8874	Rh deficiency syndrome	ORPHA:71275
+11	0.8874	Rh deficiency syndrome	ORPHA:71275
+14	0.8844	Spherocytosis, type 5	OMIM:612690
+15	0.8807	Hereditary spherocytosis	ORPHA:822
+15	0.8807	Hereditary spherocytosis	ORPHA:822
+15	0.8807	Hereditary spherocytosis	ORPHA:822
+15	0.8807	Hereditary spherocytosis	ORPHA:822
+15	0.8807	Hereditary spherocytosis	ORPHA:822
+20	0.8795	Overhydrated hereditary stomatocytosis	OMIM:185000
+21	0.8618	Overhydrated hereditary stomatocytosis	ORPHA:3203
+22	0.8451	Dehydrated hereditary stomatocytosis	ORPHA:3202
+22	0.8451	Dehydrated hereditary stomatocytosis	ORPHA:3202
+22	0.8451	Dehydrated hereditary stomatocytosis	ORPHA:3202
+25	0.8318	Pyruvate kinase deficiency	OMIM:266200
+26	0.7961	Renal tubular acidosis, proximal, with ocular abnormalities	OMIM:604278
+27	0.7822	Ovalocytosis, SA type	OMIM:166900
+28	0.772	Anemia, neonatal hemolytic, fatal or near-fatal	OMIM:617948
+29	0.769	Developmental and epileptic encephalopathy 50	OMIM:616457
+30	0.7667	Elliptocytosis-2	OMIM:130600
+31	0.7511	Familial pseudohyperkalemia	ORPHA:90044
+32	0.7465	Arthrogryposis multiplex congenita 5	OMIM:618947
+33	0.7438	Thrombotic thrombocytopenic purpura, hereditary	OMIM:274150
+33	0.7438	Hemolytic uremic syndrome, atypical, susceptibility to, 1	OMIM:235400
+33	0.7438	Hemolytic uremic syndrome, atypical, susceptibility to	OMIM:235400
+33	0.7438	Hemolytic uremic syndrome, atypical, susceptibility to	OMIM:235400
+37	0.7425	Hemolytic anemia due to elevated adenosine deaminase	OMIM:301083
+38	0.7424	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	OMIM:300990
+38	0.7424	Short stature with microcephaly and distinctive facies	OMIM:615789
+40	0.7387	Elliptocytosis-1	OMIM:611804
+40	0.7387	Stomatin-deficient cryohydrocytosis with neurologic defects	OMIM:608885
+42	0.734	Hemolytic anemia due to red cell pyruvate kinase deficiency	ORPHA:766
+43	0.7337	Dyserythropoietic anemia, congenital, type Ia	OMIM:224120
+44	0.7336	Abetalipoproteinemia	ORPHA:14
+45	0.7327	Choreoacanthocytosis	OMIM:200150
+45	0.7327	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	ORPHA:86818
+45	0.7327	Abetalipoproteinemia	OMIM:200100
+45	0.7327	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	ORPHA:86818
+45	0.7327	Hypobetalipoproteinemia	OMIM:615558
+45	0.7327	Ichthyosis, congenital, autosomal recessive 5	OMIM:604777
+45	0.7327	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	ORPHA:86818
+45	0.7327	HARP syndrome	OMIM:607236
+45	0.7327	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+45	0.7327	Chylomicron retention disease	ORPHA:71
+55	0.7318	Hereditary cryohydrocytosis with reduced stomatin	ORPHA:168577
+56	0.7317	Cryohydrocytosis	OMIM:185020
+56	0.7317	Dehydrated hereditary stomatocytosis 2	OMIM:616689
+58	0.7311	Thrombocytopenia, X-linked, with or without dyserythropoietic anemia	OMIM:300367
+59	0.7268	Congenital dyserythropoietic anemia type III	ORPHA:98870
+59	0.7268	Congenital dyserythropoietic anemia type III	ORPHA:98870
+61	0.7261	FINCA syndrome	OMIM:618278
+62	0.7256	Iron-refractory iron deficiency anemia	OMIM:206200
+63	0.7252	Retinitis pigmentosa and erythrocytic microcytosis	OMIM:616959
+64	0.7218	?Megaloblastic anemia, folate-responsive	OMIM:601775
+65	0.7203	Lathosterolosis	OMIM:607330
+66	0.7161	?Anemia, hypochromic microcytic, with iron overload 2	OMIM:615234
+67	0.7152	3-methylglutaconic aciduria, type VIIA, autosomal dominant	OMIM:619835
+68	0.7135	Sitosterolemia 1	OMIM:210250
+69	0.7103	Congenital erythropoietic porphyria	ORPHA:79277
+69	0.7103	Congenital erythropoietic porphyria	ORPHA:79277
+71	0.7098	Dyserythropoietic anemia, congenital, type IV	OMIM:613673
+72	0.7087	Hemolytic anemia, G6PD deficient (favism)	OMIM:300908
+73	0.7067	Orotic aciduria	OMIM:258900
+74	0.7064	Lathosterolosis	ORPHA:46059
+75	0.7045	Sickle cell disease	OMIM:603903
+76	0.7007	Dyserythropoietic anemia, congenital, type Ib	OMIM:615631
+77	0.7003	Pseudohyperkalemia, familial, 2, due to red cell leak	OMIM:609153
+77	0.7003	Hemolytic anemia due to adenylate kinase deficiency	OMIM:612631
+77	0.7003	Lead poisoning, susceptibility to	OMIM:612740
+77	0.7003	Porphyria, acute hepatic	OMIM:612740
+77	0.7003	Glycogen storage disease due to aldolase A deficiency	ORPHA:57
+77	0.7003	?Hemolytic anemia, congenital, X-linked	OMIM:301015
+77	0.7003	Brain small vessel disease with or without ocular anomalies	OMIM:175780
+77	0.7003	Protoporphyria, erythropoietic, 1	OMIM:177000
+77	0.7003	Galactosemia	OMIM:230400
+77	0.7003	Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency	OMIM:230450
+77	0.7003	Hemolytic anemia due to glutathione synthetase deficiency	OMIM:231900
+88	0.6972	Severe congenital hypochromic anemia with ringed sideroblasts	ORPHA:300298
+89	0.6962	Heinz body anemia	OMIM:140700
+89	0.6962	Heinz body anemias, alpha-	OMIM:140700
+89	0.6962	Heinz body anemia	OMIM:140700
+89	0.6962	Glycogen storage disease VII	OMIM:232800
+89	0.6962	Glycogen storage disease due to phosphoglycerate kinase 1 deficiency	ORPHA:713
+94	0.6942	Nijmegen breakage syndrome	ORPHA:647
+95	0.6921	Bernard-Soulier syndrome, type A2 (dominant)	OMIM:153670
+96	0.6918	Phosphoglycerate kinase 1 deficiency	OMIM:300653
+97	0.6904	McLeod syndrome with or without chronic granulomatous disease	OMIM:300842
+98	0.688	Anemia, X-linked, with/without neutropenia and/or platelet abnormalities	OMIM:300835
+99	0.6873	Nephrotic syndrome, type 7	OMIM:615008
+99	0.6873	Hemolytic uremic syndrome, atypical, susceptibility to, 7	OMIM:615008
+101	0.6865	Choreoacanthocytosis	ORPHA:2388
+102	0.6817	Norum disease	OMIM:245900
+103	0.6816	Imerslund-Gräsbeck syndrome	ORPHA:35858
+103	0.6816	Imerslund-Gräsbeck syndrome	ORPHA:35858
+105	0.6813	Hemolytic anemia due to glutathione reductase deficiency	OMIM:618660
+106	0.6797	Anemia, hemolytic, due to UMPH1 deficiency	OMIM:266120
+107	0.6796	Hemolytic anemia due to glutathione peroxidase deficiency	OMIM:614164
+108	0.679	Hemolytic anemia, CD59-mediated, with or without immune-mediated polyneuropathy	OMIM:612300
+108	0.679	?Paroxysmal nocturnal hemoglobinuria 2	OMIM:615399
+110	0.6777	?Thrombocytopenia, anemia, and myelofibrosis	OMIM:617441
+111	0.6775	Kabuki syndrome 1	OMIM:147920
+112	0.6771	Hemolytic uremic syndrome, atypical, susceptibility to, 5	OMIM:612925
+112	0.6771	Hemolytic uremic syndrome, atypical, susceptibility to, 2	OMIM:612922
+112	0.6771	Hemolytic uremic syndrome, atypical, susceptibility to, 4	OMIM:612924
+112	0.6771	Hemolytic uremic syndrome, atypical, susceptibility to, 3	OMIM:612923
+112	0.6771	Hemolytic uremic syndrome, atypical, susceptibility to, 6	OMIM:612926
+117	0.6765	Thrombocytopenia with congenital dyserythropoietic anemia	ORPHA:67044
+118	0.6729	Glutathione synthetase deficiency	OMIM:266130
+119	0.6689	GLUT1 deficiency syndrome 2, childhood onset	OMIM:612126
+119	0.6689	Harderoporphyria	OMIM:618892
+121	0.6668	Systemic lupus erythematosus, susceptibility to	OMIM:152700
+121	0.6668	Systemic lupus erythematosus, susceptibility to	OMIM:152700
+121	0.6668	Lupus nephritis, susceptibility to	OMIM:152700
+121	0.6668	Systemic lupus erythematosus, susceptibility to	OMIM:152700
+121	0.6668	Systemic lupus erythematosus susceptibility to	OMIM:152700
+121	0.6668	Systemic lupus erythematosus, susceptibility to	OMIM:152700
+127	0.6663	Distal renal tubular acidosis 4 with hemolytic anemia	OMIM:611590
+128	0.6659	Glutamate-cysteine ligase deficiency	ORPHA:33574
+129	0.6652	Wilson disease	OMIM:277900
+130	0.6641	Sickle cell anemia	ORPHA:232
+130	0.6641	Autoinflammatory syndrome, familial, Behcet-like 1	OMIM:616744
+132	0.6639	Osteopetrosis with renal tubular acidosis	ORPHA:2785
+133	0.6627	Hemoglobin H disease, nondeletional	OMIM:613978
+133	0.6627	Hemoglobin H disease, deletional and nondeletional	OMIM:613978
+135	0.6609	Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema	OMIM:194380
+136	0.6599	Paroxysmal nocturnal hemoglobinuria	ORPHA:447
+137	0.6592	Thrombocytopenia with beta-thalassemia, X-linked	OMIM:314050
+138	0.6587	Hepatoerythropoietic porphyria	ORPHA:95159
+139	0.6577	Neurodevelopmental disorder with hypotonia and dysmorphic facies	OMIM:619503
+140	0.6575	Beta-thalassemia major	ORPHA:231214
+141	0.6572	Hemolytic anemia due to triosephosphate isomerase deficiency	OMIM:615512
+142	0.657	Porphyria, congenital erythropoietic	OMIM:263700
+142	0.657	Aicardi-Goutieres syndrome 6	OMIM:615010
+144	0.6559	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	OMIM:613470
+145	0.6492	Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay	OMIM:616084
+146	0.6422	Heme oxygenase-1 deficiency	OMIM:614034
+147	0.6397	Wiskott-Aldrich syndrome	ORPHA:906
+147	0.6397	Wiskott-Aldrich syndrome	ORPHA:906
+149	0.6395	Hemolytic anemia due to hexokinase deficiency	OMIM:235700
+150	0.6389	?Immunodeficiency 16	OMIM:615593
+151	0.6388	Primary myelofibrosis	ORPHA:824
+151	0.6388	Primary myelofibrosis	ORPHA:824
+151	0.6388	Primary myelofibrosis	ORPHA:824
+151	0.6388	Primary myelofibrosis	ORPHA:824
+155	0.6381	Aicardi-Goutieres syndrome 7	OMIM:615846
+156	0.6351	Glycogen storage disease XII	OMIM:611881
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+157	0.6334	Systemic lupus erythematosus	ORPHA:536
+187	0.633	Immunodeficiency 87 and autoimmunity	OMIM:619573
+188	0.6325	Autoimmune hemolytic anemia-autoimmune thrombocytopenia-primary immunodeficiency syndrome	ORPHA:444463
+189	0.6244	Sarcoidosis	ORPHA:797
+189	0.6244	Sarcoidosis	ORPHA:797
+191	0.6205	Immunodeficiency 23	OMIM:615816
+192	0.6191	Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked	OMIM:304790
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+193	0.6182	Common variable immunodeficiency	ORPHA:1572
+205	0.6085	RAS-associated autoimmune leukoproliferative disorder	OMIM:614470
+205	0.6085	?RAS-associated autoimmune lymphoproliferative syndrome type IV, somatic	OMIM:614470
+207	0.6081	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	ORPHA:251380
+207	0.6081	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	ORPHA:251380
+207	0.6081	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	ORPHA:251380
+207	0.6081	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	ORPHA:251380
+207	0.6081	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	ORPHA:251380
+212	0.6009	Telangiectasia, hereditary hemorrhagic, type 2	OMIM:600376
+212	0.6009	Telangiectasia, hereditary hemorrhagic, type 1	OMIM:187300
+214	0.5984	Immunodeficiency, X-linked, with hyper-IgM	OMIM:308230
+215	0.5967	Chronic granulomatous disease 5, autosomal recessive	OMIM:618935
+216	0.5962	Immunodeficiency 41 with lymphoproliferation and autoimmunity	OMIM:606367
+217	0.596	Autoinflammatory syndrome, familial, with or without immunodeficiency	OMIM:619375
+218	0.5895	Autoimmune lymphoproliferative syndrome, type IA	OMIM:601859
+218	0.5895	Autoimmune lymphoproliferative syndrome	OMIM:601859
+218	0.5895	Autoimmune lymphoproliferative syndrome, type IB	OMIM:601859
+221	0.5891	Immunodeficiency 52	OMIM:617514
+222	0.589	Primary familial polycythemia	ORPHA:90042
+223	0.5859	Adenosine triphosphate, elevated, of erythrocytes	OMIM:102900
+223	0.5859	Methemoglobinemia, type I	OMIM:250800
+225	0.5848	PGM3-CDG	ORPHA:443811
+226	0.5837	Autoimmune lymphoproliferative syndrome, type II	OMIM:603909
+227	0.5821	Erythrocytosis, familial, 6	OMIM:617980
+227	0.5821	Erythrocytosis, familial, 7	OMIM:617981
+227	0.5821	Erythrocytosis, familial, 7	OMIM:617981
+227	0.5821	Erythrocytosis, familial, 5	OMIM:617907
+227	0.5821	Erythrocytosis, familial, 4	OMIM:611783
+232	0.5745	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+232	0.5745	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+232	0.5745	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+232	0.5745	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+232	0.5745	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+237	0.5742	Spondyloenchondrodysplasia	ORPHA:1855
+238	0.5738	von Hippel-Lindau syndrome, modifier of	OMIM:193300
+238	0.5738	Von Hippel-Lindau disease	ORPHA:892
+238	0.5738	?ABCD syndrome	OMIM:600501
+238	0.5738	Fumarase deficiency	OMIM:606812
+238	0.5738	Hypermanganesemia with dystonia 1	OMIM:613280
+238	0.5738	von Hippel-Lindau syndrome	OMIM:193300
+238	0.5738	Von Hippel-Lindau disease	ORPHA:892
+245	0.5733	Immunodeficiency, common variable, 12	OMIM:616576
+246	0.5724	Cyanosis, transient neonatal	OMIM:613977
+247	0.5718	Juvenile polyposis of infancy	ORPHA:79076
+247	0.5718	Juvenile polyposis of infancy	ORPHA:79076
+249	0.5691	Anemia, hypochromic microcytic, with iron overload 1	OMIM:206100
+250	0.5684	?Diamond-Blackfan anemia 19	OMIM:618312
+251	0.5682	Diamond-Blackfan anemia 10	OMIM:613309
+252	0.5677	Alpha-thalassemia-X-linked intellectual disability syndrome	ORPHA:847
+253	0.5659	Generalized juvenile polyposis/juvenile polyposis coli	ORPHA:329971
+253	0.5659	Generalized juvenile polyposis/juvenile polyposis coli	ORPHA:329971
+253	0.5659	Generalized juvenile polyposis/juvenile polyposis coli	ORPHA:329971
+256	0.5643	Congenital atransferrinemia	ORPHA:1195
+256	0.5643	Glycogen storage disease due to muscle phosphofructokinase deficiency	ORPHA:371
+256	0.5643	Hereditary coproporphyria	ORPHA:79273
+256	0.5643	Gastrointestinal stromal tumor	ORPHA:44890
+256	0.5643	Takayasu arteritis	ORPHA:3287
+256	0.5643	Cerebellar ataxia	OMIM:604290
+256	0.5643	Lesch-Nyhan syndrome	ORPHA:510
+256	0.5643	Hemochromatosis, type 4	OMIM:606069
+256	0.5643	Congenital factor II deficiency	ORPHA:325
+256	0.5643	Peripheral primitive neuroectodermal tumor	ORPHA:370348
+256	0.5643	Ollier disease	ORPHA:296
+256	0.5643	Mitochondrial neurogastrointestinal encephalomyopathy	ORPHA:298
+256	0.5643	Polyposis, juvenile intestinal	OMIM:174900
+256	0.5643	Polyposis, juvenile intestinal	OMIM:174900
+256	0.5643	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome	OMIM:175050
+256	0.5643	Hyperlysinemia	OMIM:238700
+256	0.5643	X-linked sideroblastic anemia and spinocerebellar ataxia	ORPHA:2802
+256	0.5643	Isobutyryl-CoA dehydrogenase deficiency	OMIM:611283
+256	0.5643	Glomerulosclerosis, focal segmental, 1	OMIM:603278
+256	0.5643	Fibrodysplasia ossificans progressiva	ORPHA:337
+256	0.5643	Primary hyperoxaluria type 1	ORPHA:93598
+256	0.5643	Hypophosphatasia, infantile	OMIM:241500
+256	0.5643	Potocki-Shaffer syndrome	ORPHA:52022
+256	0.5643	Mitochondrial complex V (ATP synthase) deficiency, nuclear type 4A	OMIM:620358
+256	0.5643	Fanconi anemia, complementation group S	OMIM:617883
+256	0.5643	C1q deficiency 2	OMIM:620321
+256	0.5643	Wolfram syndrome	ORPHA:3463
+256	0.5643	Albers-Schönberg osteopetrosis	ORPHA:53
+256	0.5643	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+256	0.5643	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+256	0.5643	Recessive dystrophic epidermolysis bullosa inversa	ORPHA:79409
+256	0.5643	Localized dystrophic epidermolysis bullosa, pretibial form	ORPHA:79410
+256	0.5643	Self-improving dystrophic epidermolysis bullosa	ORPHA:79411
+256	0.5643	Epidermolysis bullosa dystrophica inversa	OMIM:226600
+256	0.5643	Orthostatic hypotension 2	OMIM:618182
+256	0.5643	Dopamine beta-hydroxylase deficiency	ORPHA:230
+256	0.5643	DPAGT1-CDG	ORPHA:86309
+256	0.5643	Lymphatic malformation 7	OMIM:617300
+256	0.5643	Cockayne syndrome type 1	ORPHA:90321
+256	0.5643	Cockayne syndrome type 1	ORPHA:90321
+256	0.5643	Cockayne syndrome type 1	ORPHA:90321
+256	0.5643	Cockayne syndrome type 1	ORPHA:90321
+256	0.5643	Potocki-Shaffer syndrome	ORPHA:52022
+256	0.5643	Severe hemophilia A	ORPHA:169802
+256	0.5643	Autosomal dominant Kenny-Caffey syndrome	ORPHA:93325
+256	0.5643	Kenny-Caffey syndrome, type 2	OMIM:127000
+256	0.5643	?Hemochromatosis, type 5	OMIM:615517
+256	0.5643	?Combined oxidative phosphorylation deficiency 41	OMIM:618838
+256	0.5643	Combined oxidative phosphorylation deficiency 42	OMIM:618839
+256	0.5643	Fabry disease	ORPHA:324
+256	0.5643	Fabry disease, cardiac variant	OMIM:301500
+256	0.5643	Takayasu arteritis	ORPHA:3287
+256	0.5643	HMG-CoA lyase deficiency	OMIM:246450
+256	0.5643	Ollier disease	ORPHA:296
+256	0.5643	Takayasu arteritis	ORPHA:3287
+256	0.5643	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+256	0.5643	Neuroblastoma, susceptibility to, 1	OMIM:256700
+256	0.5643	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+256	0.5643	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+256	0.5643	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+256	0.5643	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+256	0.5643	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+256	0.5643	Intermediate generalized junctional epidermolysis bullosa	ORPHA:79402
+256	0.5643	Mitochondrial neurogastrointestinal encephalomyopathy	ORPHA:298
+256	0.5643	Mitochondrial complex III deficiency, nuclear type 8	OMIM:615838
+256	0.5643	Neutrophilic dermatosis, acute febrile	OMIM:608068
+256	0.5643	Epidermolysis bullosa dystrophica, autosomal recessive, modifier of	OMIM:226600
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	MELAS	ORPHA:550
+256	0.5643	Tubulointerstitial kidney disease, autosomal dominant, 2	OMIM:174000
+256	0.5643	?Mitochondrial complex I deficiency, nuclear type 39	OMIM:620135
+256	0.5643	Senior-Loken syndrome-1	OMIM:266900
+256	0.5643	Nephronophthisis 1, juvenile	OMIM:256100
+256	0.5643	Senior-Loken syndrome 4	OMIM:606996
+256	0.5643	Nephronophthisis 4	OMIM:606966
+256	0.5643	Hereditary sensory and autonomic neuropathy type 4	ORPHA:642
+256	0.5643	Microcephalic osteodysplastic primordial dwarfism type II	ORPHA:2637
+256	0.5643	Gastrointestinal stromal tumor	ORPHA:44890
+256	0.5643	Potocki-Shaffer syndrome	ORPHA:52022
+256	0.5643	Epidermolysis bullosa simplex 5B, with muscular dystrophy	OMIM:226670
+256	0.5643	Pyridoxamine 5'-phosphate oxidase deficiency	OMIM:610090
+256	0.5643	Porphyria variegata	ORPHA:79473
+256	0.5643	Thrombophilia 5 due to protein S deficiency, autosomal recessive	OMIM:614514
+256	0.5643	Pancreatic and cerebellar agenesis	OMIM:609069
+256	0.5643	Ollier disease	ORPHA:296
+256	0.5643	Mitochondrial myopathy and sideroblastic anemia	ORPHA:2598
+256	0.5643	Combined oxidative phosphorylation deficiency 40	OMIM:618835
+256	0.5643	Tubulointerstitial kidney disease, autosomal dominant, 4	OMIM:613092
+256	0.5643	?COACH syndrome 3	OMIM:619113
+256	0.5643	Spondyloepimetaphyseal dysplasia, Isidor-Toutain type	OMIM:618728
+256	0.5643	?Diamond-Blackfan anemia 16	OMIM:617408
+256	0.5643	Diamond-Blackfan anemia 9	OMIM:613308
+256	0.5643	?Diamond-Blackfan anemia 17	OMIM:617409
+256	0.5643	Mitochondrial neurogastrointestinal encephalomyopathy	ORPHA:298
+256	0.5643	Gastrointestinal stromal tumor	ORPHA:44890
+256	0.5643	Gastrointestinal stromal tumor	ORPHA:44890
+256	0.5643	Gastrointestinal stromal tumor	ORPHA:44890
+256	0.5643	Corticosteroid-binding globulin deficiency	OMIM:611489
+256	0.5643	?Osteopetrosis, autosomal recessive 9	OMIM:620366
+256	0.5643	Peutz-Jeghers syndrome	ORPHA:2869
+256	0.5643	Mitochondrial complex IV deficiency, nuclear type 1	OMIM:220110
+256	0.5643	Kenny-Caffey syndrome, type 1	OMIM:244460
+256	0.5643	Hypothyroidism, congenital, nongoitrous, 6	OMIM:614450
+256	0.5643	Nephronophthisis 11	OMIM:613550
+256	0.5643	ATTRV122I amyloidosis	ORPHA:85451
+256	0.5643	Mitochondrial neurogastrointestinal encephalomyopathy	ORPHA:298
+256	0.5643	Johanson-Blizzard syndrome	ORPHA:2315
+256	0.5643	Osteootohepatoenteric syndrome	OMIM:619377
+256	0.5643	Wolfram syndrome	ORPHA:3463
+256	0.5643	Mitochondrial myopathy and sideroblastic anemia	ORPHA:2598
+256	0.5643	Intellectual disability-cataracts-calcified pinnae-myopathy syndrome	ORPHA:3042
+372	0.5639	Anemia, sideroblastic, 2, pyridoxine-refractory	OMIM:205950
+373	0.5624	Congenital amegakaryocytic thrombocytopenia	ORPHA:3319
+373	0.5624	Congenital amegakaryocytic thrombocytopenia	ORPHA:3319
+375	0.5617	?Diamond-Blackfan anemia 20	OMIM:618313
+376	0.5603	Ogden syndrome	OMIM:300855
+377	0.5597	Erythrocytosis, familial, 8	OMIM:222800
+378	0.5596	Erythrocytosis, familial, 2	OMIM:263400
+378	0.5596	Erythrocytosis, familial, 3	OMIM:609820
+380	0.5588	Delta-beta-thalassemia	ORPHA:231237
+380	0.5588	Delta-beta-thalassemia	ORPHA:231237
+380	0.5588	Delta-beta-thalassemia	ORPHA:231237
+383	0.5586	Congenital disorder of glycosylation, type Ih	OMIM:608104
+383	0.5586	ALG8-CDG	ORPHA:79325
+383	0.5586	Combined oxidative phosphorylation deficiency 14	OMIM:614946
+383	0.5586	Oculocerebrorenal syndrome of Lowe	ORPHA:534
+383	0.5586	Combined oxidative phosphorylation deficiency 55	OMIM:619743
+383	0.5586	RECON progeroid syndrome	OMIM:620370
+383	0.5586	Atelis syndrome 2	OMIM:620185
+390	0.558	Coenzyme Q10 deficiency, primary, 1	OMIM:607426
+390	0.558	Hatipoglu immunodeficiency syndrome	OMIM:620331
+390	0.558	Rajab interstitial lung disease with brain calcifications 1	OMIM:613658
+390	0.558	Fanconi anemia, complementation group P	OMIM:613951
+394	0.5574	Diamond-Blackfan anemia 21	OMIM:620072
+395	0.5571	Interstitial lung and liver disease	OMIM:615486
+396	0.5568	Congenital disorder of glycosylation, type IIg	OMIM:611209
+397	0.5543	?Infantile liver failure syndrome 1	OMIM:615438
+398	0.5538	Combined immunodeficiency-enteropathy spectrum	ORPHA:436252
+398	0.5538	Combined immunodeficiency-enteropathy spectrum	ORPHA:436252
+400	0.5537	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+400	0.5537	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+400	0.5537	Formiminoglutamic aciduria	ORPHA:51208
+403	0.5531	Leukoencephalopathy, progressive, infantile-onset, with or without deafness	OMIM:619147
+403	0.5531	Isolated sedoheptulokinase deficiency	ORPHA:440713
+405	0.5527	Fanconi anemia, complementation group A	OMIM:227650
+405	0.5527	Fanconi anemia, complementation group E	OMIM:600901
+407	0.5515	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+407	0.5515	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+409	0.551	Beta-thalassemia-X-linked thrombocytopenia syndrome	ORPHA:231393
+409	0.551	Bone marrow failure syndrome 5	OMIM:618165
+411	0.5507	?Bleeding disorder, platelet-type, 19	OMIM:616176
+411	0.5507	T-cell immunodeficiency, recurrent infections, autoimmunity, and cardiac malformations	OMIM:614868
+413	0.5503	Bleeding disorder, platelet-type, 16, autosomal dominant	OMIM:187800
+414	0.5499	Immunodeficiency 10	OMIM:612783
+415	0.5489	Hereditary mixed polyposis syndrome	ORPHA:157794
+415	0.5489	Hereditary mixed polyposis syndrome	ORPHA:157794
+417	0.5484	Thrombocytopenia 5	OMIM:616216
+418	0.5483	Nijmegen breakage syndrome	OMIM:251260
+419	0.5475	Dubowitz syndrome	ORPHA:235
+419	0.5475	Stevens-Johnson syndrome	ORPHA:36426
+419	0.5475	Stevens-Johnson syndrome	ORPHA:36426
+419	0.5475	Dubowitz syndrome	ORPHA:235
+423	0.5473	Hydrops, lactic acidosis, and sideroblastic anemia	OMIM:617021
+424	0.5471	?Diamond-Blackfan anemia-like	OMIM:617911
+425	0.5465	Shwachman-Diamond syndrome 1	OMIM:260400
+426	0.5459	?Inflammatory bowel disease (infantile ulcerative colitis) 31	OMIM:619398
+427	0.5458	Developmental and epileptic encephalopathy 66	OMIM:618067
+427	0.5458	Tubulointerstitial kidney disease, autosomal dominant, 5	OMIM:617056
+429	0.5444	Osteopetrosis, autosomal recessive 4	OMIM:611490
+430	0.5443	Atelis syndrome 1	OMIM:620184
+431	0.5442	Fanconi anemia, complementation group G	OMIM:614082
+431	0.5442	Vitamin B12-unresponsive methylmalonic acidemia type mut0	ORPHA:289916
+433	0.5441	Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome	ORPHA:309854
+434	0.5439	?Pontocerebellar hypoplasia, type 15	OMIM:619302
+435	0.5434	?Anemia, sideroblastic, 5	OMIM:619523
+436	0.5433	Rothmund-Thomson syndrome type 1	ORPHA:221008
+436	0.5433	Rothmund-Thomson syndrome type 2	ORPHA:221016
+438	0.5428	Short stature, microcephaly, and endocrine dysfunction	OMIM:616541
+439	0.5427	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	OMIM:613845
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Methylmalonic aciduria, vitamin B12-responsive, cblA type	OMIM:251100
+440	0.5426	Methylmalonic aciduria, vitamin B12-responsive, cblB type	OMIM:251110
+440	0.5426	Propionicacidemia	OMIM:606054
+440	0.5426	Propionicacidemia	OMIM:606054
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+440	0.5426	Trichothiodystrophy	ORPHA:33364
+453	0.5425	Fanconi anemia, complementation group D2	OMIM:227646
+453	0.5425	Fanconi anemia, complementation group C	OMIM:227645
+455	0.5421	Hb Bart's hydrops fetalis	ORPHA:163596
+455	0.5421	Hb Bart's hydrops fetalis	ORPHA:163596
+457	0.5418	Tufted angioma	ORPHA:1063
+458	0.5417	Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 7	OMIM:620365
+459	0.5416	Fanconi anemia, complementation group L	OMIM:614083
+459	0.5416	Fanconi anemia, complementation group R	OMIM:617244
+459	0.5416	Camurati-Engelmann disease	OMIM:131300
+462	0.5413	Purine nucleoside phosphorylase deficiency	ORPHA:760
+463	0.541	Complement hyperactivation, angiopathic thrombosis, and protein-losing enteropathy	OMIM:226300
+464	0.5409	?Immunodeficiency 81	OMIM:619374
+465	0.5408	Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome	ORPHA:46532
+465	0.5408	Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome	ORPHA:46532
+465	0.5408	Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome	ORPHA:46532
+465	0.5408	Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome	ORPHA:46532
+469	0.5407	Cerebroretinal microangiopathy with calcifications and cysts	OMIM:612199
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Hoyeraal-Hreidarsson syndrome	ORPHA:3322
+469	0.5407	Myopathy with lactic acidosis, hereditary	OMIM:255125
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia, complementation group T	OMIM:616435
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+477	0.5396	Fanconi anemia	ORPHA:84
+500	0.5392	Idiopathic aplastic anemia	ORPHA:88
+500	0.5392	Aceruloplasminemia	ORPHA:48818
+500	0.5392	Idiopathic aplastic anemia	ORPHA:88
+500	0.5392	Idiopathic aplastic anemia	ORPHA:88
+500	0.5392	Idiopathic aplastic anemia	ORPHA:88
+505	0.5391	Ataxia-pancytopenia syndrome	OMIM:159550
+506	0.5389	Bone marrow failure syndrome 3	OMIM:617052
+507	0.5387	Methylmalonic aciduria and homocystinuria, cblF type	OMIM:277380
+508	0.5381	Erythrocytosis, somatic	OMIM:133100
+508	0.5381	Erythrocytosis, somatic	OMIM:133100
+510	0.5378	Lymphoproliferative syndrome 1	OMIM:613011
+510	0.5378	Autoinflammation with arthritis and dyskeratosis	OMIM:617388
+510	0.5378	Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib	ORPHA:79259
+513	0.5377	Immunodeficiency 17, CD3 gamma deficient	OMIM:615607
+514	0.5375	Anemia, sideroblastic, 3, pyridoxine-refractory	OMIM:616860
+514	0.5375	Glycogen storage disease due to liver phosphorylase kinase deficiency	ORPHA:264580
+514	0.5375	Glycogen storage disease due to liver phosphorylase kinase deficiency	ORPHA:264580
+517	0.537	Classic glucose transporter type 1 deficiency syndrome	ORPHA:71277
+517	0.537	Tn polyagglutination syndrome, somatic	OMIM:300622
+519	0.5369	?Erythroleukemia, familial, susceptibility to	OMIM:133180
+520	0.5367	Hereditary orotic aciduria	ORPHA:30
+521	0.5366	Immunodeficiency due to purine nucleoside phosphorylase deficiency	OMIM:613179
+521	0.5366	?Proteasome-associated autoinflammatory syndrome 4	OMIM:619183
+523	0.5364	Stormorken-Sjaastad-Langslet syndrome	ORPHA:3204
+523	0.5364	Stormorken-Sjaastad-Langslet syndrome	ORPHA:3204
+525	0.536	Gastrointestinal defects and immunodeficiency syndrome	OMIM:243150
+526	0.5358	X-linked agammaglobulinemia	ORPHA:47
+527	0.5354	Immunodeficiency 46	OMIM:616740
+528	0.535	Sweet syndrome	ORPHA:3243
+529	0.5345	Wilson disease	ORPHA:905
+529	0.5345	Gaucher disease, type II	OMIM:230900
+529	0.5345	Gaucher disease, atypical	OMIM:610539
+529	0.5345	Osteopetrosis, autosomal recessive 8	OMIM:615085
+533	0.5343	Gaucher disease, type I	OMIM:230800
+533	0.5343	Osteopetrosis, autosomal recessive 1	OMIM:259700
+535	0.5342	X-linked sideroblastic anemia	ORPHA:75563
+535	0.5342	Hemochromatosis, type 2B	OMIM:613313
+535	0.5342	Muckle-Wells syndrome	ORPHA:575
+535	0.5342	Hyperparathyroidism, neonatal	OMIM:239200
+535	0.5342	Tyrosinemia, type I	OMIM:276700
+535	0.5342	Autoinflammation with pulmonary and cutaneous vasculitis	OMIM:620296
+535	0.5342	Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency	ORPHA:79240
+535	0.5342	Osteopetrosis, autosomal dominant 3	OMIM:618107
+535	0.5342	Ghosal hematodiaphyseal dysplasia	ORPHA:1802
+544	0.533	3-hydroxy-3-methylglutaric aciduria	ORPHA:20
+545	0.5326	Autoimmune disease, multisystem, infantile-onset, 1	OMIM:615952
+546	0.5324	Immunodeficiency by defective expression of MHC class II	ORPHA:572
+546	0.5324	Immunodeficiency by defective expression of MHC class II	ORPHA:572
+546	0.5324	Immunodeficiency by defective expression of MHC class II	ORPHA:572
+546	0.5324	Immunodeficiency by defective expression of MHC class II	ORPHA:572
+550	0.5318	Wiskott-Aldrich syndrome	OMIM:301000
+551	0.5316	Congenital disorder of glycosylation, type IIw	OMIM:619525
+551	0.5316	?Bone marrow failure syndrome 6	OMIM:618849
+553	0.5315	Intermediate osteopetrosis	ORPHA:210110
+553	0.5315	Intermediate osteopetrosis	ORPHA:210110
+553	0.5315	Intermediate osteopetrosis	ORPHA:210110
+553	0.5315	Transaldolase deficiency	ORPHA:101028
+557	0.5312	Dyskeratosis congenita, X-linked	OMIM:305000
+558	0.531	Hemochromatosis, type 3	OMIM:604250
+558	0.531	Fanconi anemia, complementation group F	OMIM:603467
+558	0.531	AMED syndrome, digenic	OMIM:619151
+558	0.531	Bone marrow failure syndrome 2	OMIM:615715
+558	0.531	Khan-Khan-Katsanis syndrome	OMIM:618460
+563	0.5309	Immunodeficiency 63 with lymphoproliferation and autoimmunity	OMIM:618495
+563	0.5309	?Fanconi anemia, complementation group V	OMIM:617243
+565	0.5306	Senior-Boichis syndrome	ORPHA:84081
+565	0.5306	Senior-Boichis syndrome	ORPHA:84081
+565	0.5306	Short-rib thoracic dysplasia 9 with or without polydactyly	OMIM:266920
+568	0.5305	Dyskeratosis congenita, digenic	OMIM:620040
+569	0.5303	Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency	ORPHA:436159
+570	0.5295	ICF syndrome	ORPHA:2268
+570	0.5295	ICF syndrome	ORPHA:2268
+570	0.5295	ICF syndrome	ORPHA:2268
+570	0.5295	ICF syndrome	ORPHA:2268
+574	0.5286	Immunodeficiency 31C, chronic mucocutaneous candidiasis, autosomal dominant	OMIM:614162
+574	0.5286	?Immunodeficiency 25	OMIM:610163
+574	0.5286	Anemia, sideroblastic, 4	OMIM:182170
+577	0.5285	Gaucher disease type 3	ORPHA:77261
+578	0.528	T-cell lymphoma, subcutaneous panniculitis-like	OMIM:618398
+579	0.5278	Prolidase deficiency	OMIM:170100
+580	0.5276	Immunodeficiency 78 with autoimmunity and developmental delay	OMIM:619220
+581	0.5274	Monosomy 7 myelodysplasia and leukemia syndrome 2	OMIM:619041
+582	0.527	Osteopetrosis, autosomal recessive 2	OMIM:259710
+583	0.5264	Stormorken syndrome	OMIM:185070
+584	0.526	Osteopetrosis, autosomal recessive 3, with renal tubular acidosis	OMIM:259730
+585	0.5256	Bone marrow failure syndrome 4	OMIM:618116
+585	0.5256	Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome	ORPHA:391487
+585	0.5256	Vitamin B12-unresponsive methylmalonic acidemia type mut-	ORPHA:79312
+585	0.5256	Autoimmune enteropathy and endocrinopathy-susceptibility to chronic infections syndrome	ORPHA:391487
+585	0.5256	Neonatal intrahepatic cholestasis due to citrin deficiency	ORPHA:247598
+590	0.5255	Specific granule deficiency 2	OMIM:617475
+590	0.5255	Diamond-blackfan anemia 3	OMIM:610629
+592	0.5253	Immunodeficiency 7, TCR-alpha/beta deficient	OMIM:615387
+593	0.5248	Immune dysregulation with autoimmunity, immunodeficiency, and lymphoproliferation	OMIM:616100
+593	0.5248	Pseudo-TORCH syndrome 3	OMIM:618886
+593	0.5248	Autoinflammation with infantile enterocolitis	OMIM:616050
+596	0.5247	Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 1	OMIM:614742
+596	0.5247	Combined immunodeficiency due to partial RAG1 deficiency	ORPHA:231154
+598	0.5239	Camurati-Engelmann disease	ORPHA:1328
+599	0.5238	Leukocyte adhesion deficiency type II	ORPHA:99843
+599	0.5238	Trimethylaminuria	OMIM:602079
+601	0.5236	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	ORPHA:37042
+602	0.5224	Radioulnar synostosis with amegakaryocytic thrombocytopenia 2	OMIM:616738
+603	0.5223	Gaucher disease type 1	ORPHA:77259
+603	0.5223	Gaucher disease type 1	ORPHA:77259
+603	0.5223	?Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1	OMIM:604273
+606	0.5217	Polycythemia vera, somatic	OMIM:263300
+606	0.5217	Wolman disease	ORPHA:75233
+608	0.5215	Lysinuric protein intolerance	OMIM:222700
+609	0.5212	Pachydermoperiostosis	ORPHA:2796
+609	0.5212	Pachydermoperiostosis	ORPHA:2796
+611	0.5209	Hemophagocytic lymphohistiocytosis, familial, 3	OMIM:608898
+612	0.5204	?Diamond-Blackfan anemia 18	OMIM:618310
+613	0.5201	Intrinsic factor deficiency	OMIM:261000
+614	0.5198	Niemann-Pick disease, type B	OMIM:607616
+615	0.5196	Schimke immunoosseous dysplasia	OMIM:242900
+616	0.5194	Shwachman-Diamond syndrome	ORPHA:811
+616	0.5194	Shwachman-Diamond syndrome	ORPHA:811
+616	0.5194	Shwachman-Diamond syndrome	ORPHA:811
+616	0.5194	Shwachman-Diamond syndrome	ORPHA:811
+620	0.5191	Immunodeficiency 98 with autoinflammation, X-linked	OMIM:301078
+621	0.519	MALT lymphoma	ORPHA:52417
+621	0.519	MALT lymphoma	ORPHA:52417
+621	0.519	MALT lymphoma	ORPHA:52417
+621	0.519	MALT lymphoma	ORPHA:52417
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+625	0.5188	Dyskeratosis congenita	ORPHA:1775
+637	0.5187	Immunodeficiency, common variable, 8, with autoimmunity	OMIM:614700
+637	0.5187	Reticular dysgenesis	ORPHA:33355
+637	0.5187	Reticular dysgenesis	ORPHA:33355
+640	0.5177	MIRAGE syndrome	OMIM:617053
+641	0.5173	Farber disease	ORPHA:333
+642	0.5172	Autosomal recessive malignant osteopetrosis	ORPHA:667
+642	0.5172	Autosomal recessive malignant osteopetrosis	ORPHA:667
+642	0.5172	Autosomal recessive malignant osteopetrosis	ORPHA:667
+642	0.5172	Autosomal recessive malignant osteopetrosis	ORPHA:667
+642	0.5172	Blau syndrome	ORPHA:90340
+647	0.5171	Liver disease, severe congenital	OMIM:619991
+647	0.5171	Adenosine deaminase deficiency, partial	OMIM:102700
+649	0.517	Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome	ORPHA:2072
+649	0.517	Transaldolase deficiency	OMIM:606003
+649	0.517	Tangier disease	ORPHA:31150
+652	0.5166	?Immunodeficiency 22	OMIM:615758
+653	0.5159	Osteopetrosis, autosomal recessive 7	OMIM:612301
+653	0.5159	Myeloproliferative/lymphoproliferative neoplasms, familial (multiple types), susceptibility to	OMIM:616871
+655	0.5154	Cernunnos-XLF deficiency	ORPHA:169079
+656	0.5148	Neutropenia, severe congenital 1, autosomal dominant	OMIM:202700
+657	0.5147	Gaucher disease, perinatal lethal	OMIM:608013
+658	0.5133	Neutropenia, severe congenital, 5, autosomal recessive	OMIM:615285
+659	0.5127	Severe combined immunodeficiency due to complete RAG1/2 deficiency	ORPHA:331206
+659	0.5127	Severe combined immunodeficiency due to complete RAG1/2 deficiency	ORPHA:331206
+661	0.5125	Thrombocytopenia-absent radius syndrome	OMIM:274000
+662	0.5116	Diamond-Blackfan anemia 1	OMIM:105650
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Acute promyelocytic leukemia	ORPHA:520
+663	0.5115	Hemophagocytic lymphohistiocytosis, familial, 4	OMIM:603552
+677	0.5114	Thalassemia-beta, dominant inclusion-body	OMIM:603902
+678	0.5111	DEGCAGS syndrome	OMIM:619488
+679	0.5107	Schimke immuno-osseous dysplasia	ORPHA:1830
+680	0.5102	DiGeorge syndrome	OMIM:188400
+681	0.5101	Osteopetrosis, autosomal recessive 5	OMIM:259720
+682	0.51	Diamond-Blackfan anemia 12	OMIM:615550
+683	0.5098	?Diamond-Blackfan anemia 14 with mandibulofacial dysostosis	OMIM:300946
+684	0.5097	Ghosal hematodiaphyseal syndrome	OMIM:231095
+685	0.5093	?Immunodeficiency 69, mycobacteriosis	OMIM:618963
+685	0.5093	?Proteasome-associated autoinflammatory syndrome 3 and digenic forms	OMIM:617591
+685	0.5093	?Proteasome-associated autoinflammatory syndrome 3, digenic	OMIM:617591
+688	0.5092	Diamond-Blackfan anemia 6	OMIM:612561
+689	0.5088	Methemoglobinemia, beta type	OMIM:617971
+689	0.5088	Delta-beta thalassemia	OMIM:141749
+689	0.5088	Methemoglobinemia, alpha type	OMIM:617973
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Dias-Logan syndrome	OMIM:617101
+689	0.5088	Fetal hemoglobin quantitative trait locus 1	OMIM:141749
+689	0.5088	Fetal hemoglobin quantitative trait locus 1	OMIM:141749
+689	0.5088	Hereditary methemoglobinemia	ORPHA:621
+689	0.5088	Microcephaly, epilepsy, and diabetes syndrome 2	OMIM:619278
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Maturity-onset diabetes of the young, type 14	OMIM:616511
+689	0.5088	Diabetes mellitus, permanent neonatal 1	OMIM:606176
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Maturity-onset diabetes of the young, type 13	OMIM:616329
+689	0.5088	DEND syndrome	ORPHA:79134
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Diabetes mellitus, transient neonatal 3	OMIM:610582
+689	0.5088	MODY	ORPHA:552
+689	0.5088	MODY	ORPHA:552
+689	0.5088	DEND syndrome	ORPHA:79134
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Maturity-onset diabetes of the young, type VIII	OMIM:609812
+689	0.5088	Abdominal obesity-metabolic syndrome 4	OMIM:618620
+689	0.5088	Methemoglobinemia and ambiguous genitalia	OMIM:250790
+689	0.5088	Hereditary methemoglobinemia	ORPHA:621
+689	0.5088	?Polyendocrine-polyneuropathy syndrome	OMIM:616113
+689	0.5088	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	OMIM:616192
+689	0.5088	Immunodeficiency 90 with encephalopathy, functional hyposplenia, and hepatic dysfunction	OMIM:613759
+689	0.5088	MODY	ORPHA:552
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Diabetes mellitus, permanent neonatal 4	OMIM:618858
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Mandibuloacral dysplasia progeroid syndrome	OMIM:619127
+689	0.5088	DEND syndrome	ORPHA:79134
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Seckel syndrome 10	OMIM:617253
+689	0.5088	MODY	ORPHA:552
+689	0.5088	MODY	ORPHA:552
+689	0.5088	Familial renal glucosuria	ORPHA:69076
+689	0.5088	Peripheral neuropathy with variable spasticity, exercise intolerance, and developmental delay	OMIM:616539
+689	0.5088	Werner syndrome	OMIM:277700
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+730	0.5087	Diamond-Blackfan anemia	ORPHA:124
+757	0.5085	Mucopolysaccharidosis-plus syndrome	OMIM:617303
+758	0.5083	Monosomy 7 myelodysplasia and leukemia syndrome 1	OMIM:252270
+758	0.5083	Neurodevelopmental disorder with dysmorphic facies, impaired speech and hypotonia	OMIM:619005
+758	0.5083	DEEAH syndrome	OMIM:619004
+761	0.5081	Chediak-Higashi syndrome	OMIM:214500
+762	0.5078	Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders	ORPHA:505248
+763	0.5077	Multiple myeloma	ORPHA:29073
+764	0.5073	Lysinuric protein intolerance	ORPHA:470
+765	0.507	Alpha-thalassemia myelodysplasia syndrome, somatic	OMIM:300448
+765	0.507	Alpha-thalassemia/impaired intellectual development syndrome	OMIM:301040
+765	0.507	CINCA syndrome	ORPHA:1451
+768	0.5068	Bone marrow failure and diabetes mellitus syndrome	OMIM:620044
+769	0.5064	Primordial dwarfism-immunodeficiency-lipodystrophy syndrome	OMIM:620005
+770	0.5061	Familial hemophagocytic lymphohistiocytosis	ORPHA:540
+770	0.5061	Familial hemophagocytic lymphohistiocytosis	ORPHA:540
+770	0.5061	Familial hemophagocytic lymphohistiocytosis	ORPHA:540
+770	0.5061	Familial hemophagocytic lymphohistiocytosis	ORPHA:540
+774	0.5051	Hemophagocytic lymphohistiocytosis, familial, 2	OMIM:603553
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+775	0.5048	Omenn syndrome	ORPHA:39041
+783	0.5046	Immunodeficiency 64	OMIM:618534
+783	0.5046	Hemophagocytic lymphohistiocytosis, familial, 5, with or without microvillus inclusion disease	OMIM:613101
+785	0.504	Chédiak-Higashi syndrome	ORPHA:167
+786	0.5039	Cholesteryl ester storage disease	OMIM:278000
+787	0.5038	Bleeding disorder, platelet-type, 17	OMIM:187900
+788	0.5036	STING-associated vasculopathy, infantile-onset	OMIM:615934
+789	0.5031	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	ORPHA:98791
+789	0.5031	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	ORPHA:98791
+789	0.5031	Immunodeficiency 21	OMIM:614172
+789	0.5031	Immunodeficiency 32B, monocyte and dendritic cell deficiency, autosomal recessive	OMIM:226990
+793	0.503	Combined immunodeficiency due to ZAP70 deficiency	ORPHA:911
+794	0.5025	CINCA syndrome	OMIM:607115
+794	0.5025	Megaloblastic anemia due to dihydrofolate reductase deficiency	OMIM:613839
+794	0.5025	Methylmalonic aciduria, cblD type, variant 2	OMIM:277410
+797	0.5023	Diamond-Blackfan anemia 5	OMIM:612528
+798	0.5022	Diamond-Blackfan anemia 4	OMIM:612527
+798	0.5022	Diamond-Blackfan anemia 4	OMIM:612527
+800	0.502	Immunodeficiency 97 with autoinflammation	OMIM:619802
+801	0.5016	Autoimmune lymphoproliferative syndrome, type III	OMIM:615559
+802	0.5	Mevalonic aciduria	OMIM:610377
+803	0.4991	Myopathy, lactic acidosis, and sideroblastic anemia 1	OMIM:600462
+804	0.499	Dominant beta-thalassemia	ORPHA:231226
+805	0.4989	Polyglucosan body myopathy 1 with or without immunodeficiency	OMIM:615895
+806	0.4984	Leukocyte adhesion deficiency, type III	OMIM:612840
+807	0.4983	Hepatic veno-occlusive disease-immunodeficiency syndrome	ORPHA:79124
+808	0.4968	Dursun syndrome	OMIM:612541
+809	0.4965	Agammaglobulinemia, X-linked 1	OMIM:300755
+810	0.4952	Agammaglobulinemia 8B, autosomal recessive	OMIM:619824
+811	0.4941	Infantile-onset multisystem neurologic, endocrine, and pancreatic disease 2	OMIM:619418
+812	0.4931	Vasculitis, autoinflammation, immunodeficiency, and hematologic defects syndrome	OMIM:615688
+813	0.4925	Omenn syndrome	OMIM:603554
+813	0.4925	Omenn syndrome	OMIM:603554
+813	0.4925	Omenn syndrome	OMIM:603554
+816	0.4922	Diamond-Blackfan anemia 8	OMIM:612563
+816	0.4922	Diamond-Blackfan anemia 7	OMIM:612562
+818	0.4919	Immunodeficiency 27A, mycobacteriosis, AR	OMIM:209950
+819	0.4906	Thalassemia, beta	OMIM:613985
+819	0.4906	Thalassemias, alpha-	OMIM:604131
+819	0.4906	Thalassemia, alpha-	OMIM:604131
+822	0.4901	Anemia, sideroblastic, 1	OMIM:300751
+823	0.4898	Dyserythropoietic anemia, congenital, type II	OMIM:224100
+824	0.4884	Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality	ORPHA:86841
+825	0.4875	Asplenia, isolated congenital	OMIM:271400
+826	0.4873	VEXAS syndrome, somatic	OMIM:301054
+827	0.4869	Immunodeficiency 102	OMIM:301082
+828	0.4862	Bleeding disorder, platelet-type, 15	OMIM:615193
+829	0.4857	Transcobalamin II deficiency	OMIM:275350
+830	0.4855	Immunodeficiency 82 with systemic inflammation	OMIM:619381
+831	0.4847	Bloom syndrome	OMIM:210900
+831	0.4847	Majeed syndrome	OMIM:609628
+833	0.4836	Methylcobalamin deficiency type cblE	ORPHA:2169
+834	0.483	Lipodystrophy, congenital generalized, type 2	OMIM:269700
+835	0.4815	Platelet disorder, familial, with associated myeloid malignancy	OMIM:601399
+836	0.4806	Beta-thalassemia intermedia	ORPHA:231222
+837	0.4802	Macrocephaly, neurodevelopmental delay, lymphoid hyperplasia, and persistent fetal hemoglobin	OMIM:619769
+838	0.4799	Alpha-thalassemia-myelodysplastic syndrome	ORPHA:231401
+839	0.4786	Quebec platelet disorder	OMIM:601709
+840	0.4738	Porphyria due to ALA dehydratase deficiency	ORPHA:100924
+840	0.4738	Classic galactosemia	ORPHA:79239
+840	0.4738	Immunodeficiency 96	OMIM:619774
+840	0.4738	Essential fructosuria	ORPHA:2056
+840	0.4738	Lethal ataxia with deafness and optic atrophy	ORPHA:1187
+845	0.473	Glanzmann thrombasthenia 1	OMIM:273800
+846	0.4721	Hermansky-Pudlak syndrome 6	OMIM:614075
+847	0.4711	Moyamoya disease with early-onset achalasia	ORPHA:401945
+848	0.469	Thrombocytopenia 4	OMIM:612004
+849	0.4676	Bleeding disorder, platelet-type, 24, autosomal dominant	OMIM:619271
+850	0.4646	Diamond-Blackfan anemia 13	OMIM:615909
+851	0.4636	Bleeding disorder, platelet-type, 21	OMIM:617443
+852	0.4619	?Hermansky-Pudlak syndrome 9	OMIM:614171
+853	0.4601	Intestinal pseudoobstruction, neuronal	OMIM:300048
+853	0.4601	Takenouchi-Kosaki syndrome	OMIM:616737
+853	0.4601	Macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome	ORPHA:487796
+856	0.458	?Bleeding disorder, platelet-type, 22	OMIM:618462
+856	0.458	Hermansky-Pudlak syndrome 3	OMIM:614072
+858	0.4575	Glanzmann thrombasthenia 2	OMIM:619267
+859	0.4573	Ataxia-pancytopenia syndrome	ORPHA:2585
+860	0.4565	Bleeding disorder, platelet-type, 13, susceptibility to	OMIM:614009
+861	0.4562	Bernard-Soulier syndrome	ORPHA:274
+861	0.4562	Bernard-Soulier syndrome	ORPHA:274
+861	0.4562	Bernard-Soulier syndrome	ORPHA:274
+864	0.4555	MYH9-related disease	ORPHA:182050
+865	0.4554	Macrocytic anemia, refractory, due to 5q deletion, somatic	OMIM:153550
+866	0.4549	Congenital disorder of glycosylation, type IIf	OMIM:603585
+867	0.4546	Thrombocytopenia 2	OMIM:188000
+868	0.4535	SLC35A1-CDG	ORPHA:238459
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Pseudohypoparathyroidism type 1A	ORPHA:79443
+869	0.4534	Noonan syndrome	ORPHA:648
+869	0.4534	Noonan syndrome	ORPHA:648
+884	0.4531	Bleeding disorder, platelet-type, 11	OMIM:614201
+885	0.4516	Platelet glycoprotein IV deficiency	OMIM:608404
+886	0.4507	DIAPH1-related sensorineural hearing loss-thrombocytopenia syndrome	ORPHA:494444
+887	0.4494	Hermansky-Pudlak syndrome 11	OMIM:619172
+888	0.4493	Hermansky-Pudlak syndrome 5	OMIM:614074
+889	0.4487	Thrombocytopenia, autosomal dominant, 7	OMIM:619130
+890	0.4485	Bernard-Soulier syndrome, type A1 (recessive)	OMIM:231200
+890	0.4485	Giant platelet disorder, isolated	OMIM:231200
+890	0.4485	Bernard-Soulier syndrome, type C	OMIM:231200
+893	0.4433	LIG4 syndrome	OMIM:606593
+894	0.4426	von Willebrand disease, type 3	OMIM:277480
+895	0.4423	Hermansky-Pudlak syndrome 4	OMIM:614073
+896	0.4414	Thrombocytopenia, X-linked, intermittent	OMIM:313900
+897	0.4413	Deafness, autosomal dominant 1, with or without thrombocytopenia	OMIM:124900
+898	0.4405	Thrombocytopenia 3	OMIM:273900
+899	0.4404	Macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss	OMIM:155100
+900	0.4402	Fanconi anemia, complementation group B	OMIM:300514
+901	0.44	Gastrointestinal ulceration, recurrent, with dysfunctional platelets	OMIM:618372
+902	0.4385	Trichohepatoenteric syndrome 1	OMIM:222470
+903	0.4375	Pelger-Huet anomaly	OMIM:169400
+904	0.4365	?Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+905	0.436	Macrothrombocytopenia, isolated, 1, autosomal dominant	OMIM:613112
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+906	0.4358	Essential thrombocythemia	ORPHA:3318
+912	0.4357	Thrombocytopenia, congenital amegakaryocytic	OMIM:604498
+913	0.4353	Gray platelet syndrome	OMIM:139090
+914	0.435	Hereditary folate malabsorption	ORPHA:90045
+915	0.4344	Combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia	OMIM:617780
+916	0.4327	Dyskeratosis congenita, autosomal recessive 2	OMIM:613987
+917	0.4321	Dyskeratosis congenita, autosomal dominant 3	OMIM:613990
+918	0.4313	Radioulnar synostosis with amegakaryocytic thrombocytopenia 1	OMIM:605432
+919	0.4312	Epilepsy, progressive myoclonic 4, with or without renal failure	OMIM:254900
+919	0.4312	Mitochondrial complex III deficiency, nuclear type 10	OMIM:618775
+921	0.431	Wolfram syndrome 1	OMIM:222300
+922	0.4305	Thiamine-responsive megaloblastic anemia syndrome	OMIM:249270
+923	0.43	Thiamine-responsive megaloblastic anemia syndrome	ORPHA:49827
+923	0.43	Phosphoglycerate dehydrogenase deficiency	OMIM:601815
+925	0.4286	Dyskeratosis congenita, autosomal dominant 2	OMIM:613989
+926	0.4282	Isovaleric acidemia	OMIM:243500
+927	0.4279	Pyogenic sterile arthritis, pyoderma gangrenosum, and acne	OMIM:604416
+928	0.4273	Congenital disorder of glycosylation, type IIl	OMIM:614576
+929	0.4265	Fetal Gaucher disease	ORPHA:85212
+929	0.4265	Gaucher disease, type III	OMIM:231000
+931	0.4261	Bleeding disorder, platelet-type, 20	OMIM:616913
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Congenital disorder of glycosylation, type IIk	OMIM:614727
+931	0.4261	Pseudo-TORCH syndrome 2	OMIM:617397
+931	0.4261	Immune thrombocytopenia	ORPHA:3002
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Stuve-Wiedemann syndrome 2	OMIM:619751
+931	0.4261	Alport syndrome 1, X-linked	OMIM:301050
+931	0.4261	von Willebrand disease, types 2A, 2B, 2M, and 2N	OMIM:613554
+931	0.4261	Congenital disorder of glycosylation, type Ix	OMIM:615597
+931	0.4261	STT3B-CDG	ORPHA:370924
+931	0.4261	Hypertension, pregnancy-induced	OMIM:189800
+931	0.4261	Thrombocytopenia-absent radius syndrome	ORPHA:3320
+931	0.4261	Noonan syndrome 4	OMIM:610733
+931	0.4261	WARS2-related combined oxidative phosphorylation defect	ORPHA:572798
+931	0.4261	Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures	OMIM:617710
+931	0.4261	Lysyl hydroxylase 3 deficiency	OMIM:612394
+931	0.4261	Holocarboxylase synthetase deficiency	OMIM:253270
+931	0.4261	Holocarboxylase synthetase deficiency	ORPHA:79242
+931	0.4261	Moyamoya 6 with achalasia	OMIM:615750
+931	0.4261	Preeclampsia	ORPHA:275555
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Arthrogryposis, renal dysfunction, and cholestasis 1	OMIM:208085
+931	0.4261	Sengers syndrome	OMIM:212350
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Aicardi-Goutieres syndrome 5	OMIM:612952
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome	ORPHA:457351
+931	0.4261	Neurodevelopmental disorder with hearing loss, seizures, and brain abnormalities	OMIM:616577
+931	0.4261	Mitochondrial complex I deficiency, nuclear type 20	OMIM:611126
+931	0.4261	Acyl-CoA dehydrogenase 9 deficiency	ORPHA:99901
+931	0.4261	Roberts syndrome	ORPHA:3103
+931	0.4261	Cornelia de Lange syndrome 1	OMIM:122470
+931	0.4261	Bilateral striopallidodentate calcinosis	ORPHA:1980
+931	0.4261	Preeclampsia	ORPHA:275555
+931	0.4261	Preeclampsia	ORPHA:275555
+967	0.4255	Glanzmann thrombasthenia	ORPHA:849
+967	0.4255	Glanzmann thrombasthenia	ORPHA:849
+969	0.425	Lymphoproliferative syndrome, X-linked, 2	OMIM:300635
+969	0.425	Lymphoproliferative syndrome, X-linked, 2	OMIM:300635
+971	0.4249	Thrombocythemia, somatic	OMIM:187950
+971	0.4249	Thrombocythemia, somatic	OMIM:187950
+971	0.4249	Thrombocythemia 1	OMIM:187950
+974	0.4245	Shwachman-Diamond syndrome 2	OMIM:617941
+974	0.4245	Methylmalonic aciduria and homocystinuria, cblJ type	OMIM:614857
+976	0.4238	Syndromic diarrhea	ORPHA:84064
+976	0.4238	Syndromic diarrhea	ORPHA:84064
+978	0.4234	Methylmalonic aciduria and homocystinuria, cblC type, digenic	OMIM:277400
+978	0.4234	Methylmalonic acidemia with homocystinuria, type cblC	ORPHA:79282
+978	0.4234	Methylmalonic aciduria and homocystinuria, cblC type	OMIM:277400
+981	0.422	Hermansky-Pudlak syndrome 2	OMIM:608233
+982	0.4215	Celiac disease, susceptibility to	OMIM:212750
+982	0.4215	Anemia, congenital dyserythropoietic, type IIIA	OMIM:105600
+982	0.4215	Celiac disease, susceptibility to	OMIM:212750
+985	0.4213	?Dyskeratosis congenita, autosomal recessive 7	OMIM:616553
+985	0.4213	Bone marrow failure syndrome 1	OMIM:614675
+987	0.4212	Immunodeficiency 71 with inflammatory disease and congenital thrombocytopenia	OMIM:617718
+987	0.4212	Smith-Kingsmore syndrome	OMIM:616638
+989	0.4211	Immunodeficiency, common variable, 13	OMIM:616873
+990	0.4194	Transcobalamin deficiency	ORPHA:859
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	?IVIC syndrome	OMIM:147750
+991	0.4191	IVIC syndrome	ORPHA:2307
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	Adams-Oliver syndrome	ORPHA:974
+991	0.4191	Multiple congenital anomalies-neurodevelopmental syndrome, X-linked	OMIM:301056
+1000	0.4187	Seckel syndrome 1	OMIM:210600
+1000	0.4187	?Combined oxidative phosphorylation deficiency 34	OMIM:617872
+1000	0.4187	Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy, 2	OMIM:618321
+1003	0.4186	von Willebrand disease, platelet-type	OMIM:177820
+1003	0.4186	DOORS syndrome	ORPHA:79500
+1003	0.4186	Noonan syndrome 1	OMIM:163950
+1003	0.4186	Radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome	ORPHA:71289
+1003	0.4186	DOORS syndrome	ORPHA:79500
+1003	0.4186	Radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome	ORPHA:71289
+1003	0.4186	Pontocerebellar hypoplasia, type 14	OMIM:619301
+1010	0.418	Folate malabsorption, hereditary	OMIM:229050
+1011	0.4166	Wiskott-Aldrich syndrome 2	OMIM:614493
+1012	0.4161	?Braddock-Carey syndrome 2	OMIM:619981
+1013	0.416	Noonan syndrome 12	OMIM:618624
+1014	0.4156	Lymphoproliferative syndrome, X-linked, 1	OMIM:308240
+1015	0.4153	Retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations	ORPHA:247691
+1015	0.4153	Neurodegeneration, early-onset, with choreoathetoid movements and microcytic anemia	OMIM:618451
+1015	0.4153	Hamamy syndrome	OMIM:611174
+1018	0.4148	Jacobsen syndrome	ORPHA:2308
+1019	0.4147	Anemia, congenital dyserythropoietic, type IIIb, autosomal recessive	OMIM:619789
+1019	0.4147	Fanconi anemia, complementation group N	OMIM:610832
+1019	0.4147	Homocystinuria-megaloblastic anemia, cbl E type	OMIM:236270
+1022	0.4144	Methylmalonic aciduria, mut(0) type	OMIM:251000
+1023	0.4141	Anemia, sideroblastic, with ataxia	OMIM:301310
+1023	0.4141	Inflammatory bowel disease, immunodeficiency, and encephalopathy	OMIM:618213
+1025	0.4136	Dyskeratosis congenita, autosomal recessive 3	OMIM:613988
+1025	0.4136	McCune-Albright syndrome	ORPHA:562
+1027	0.4134	Autoimmune disease, multisystem, with facial dysmorphism	OMIM:613385
+1028	0.4129	Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 6	OMIM:619767
+1029	0.4127	Atransferrinemia	OMIM:209300
+1029	0.4127	Autosomal erythropoietic protoporphyria	ORPHA:79278
+1029	0.4127	?Mitochondrial DNA depletion syndrome 18	OMIM:618811
+1029	0.4127	Hereditary hemorrhagic telangiectasia	ORPHA:774
+1029	0.4127	Hereditary hemorrhagic telangiectasia	ORPHA:774
+1029	0.4127	Hereditary hemorrhagic telangiectasia	ORPHA:774
+1029	0.4127	Hereditary hemorrhagic telangiectasia	ORPHA:774
+1029	0.4127	Myopathy, lactic acidosis, and sideroblastic anemia 2	OMIM:613561
+1029	0.4127	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	OMIM:612073
+1029	0.4127	Klippel-Trénaunay syndrome	ORPHA:90308
+1029	0.4127	SRD5A3-CDG	ORPHA:324737
+1029	0.4127	Congenital disorder of glycosylation, type Iq	OMIM:612379
+1029	0.4127	Autosomal dominant optic atrophy, classic form	ORPHA:98673
+1029	0.4127	Acatalasemia	ORPHA:926
+1029	0.4127	Triokinase and FMN cyclase deficiency syndrome	OMIM:618805
+1029	0.4127	Vascular malformation, primary intraosseous	OMIM:606893
+1029	0.4127	?Birk-Aharoni syndrome	OMIM:620071
+1029	0.4127	Blue rubber bleb nevus	ORPHA:1059
+1029	0.4127	Autosomal dominant optic atrophy, classic form	ORPHA:98673
+1029	0.4127	?Mitochondrial DNA depletion syndrome 19	OMIM:618972
+1049	0.4126	Agammaglobulinemia 9, autosomal recessive	OMIM:619693
+1050	0.4124	Beta-ketothiolase deficiency	ORPHA:134
+1050	0.4124	Juvenile arthritis	OMIM:618795
+1052	0.4122	Systemic lupus erythematosus 17	OMIM:301080
+1052	0.4122	Emberger syndrome	OMIM:614038
+1054	0.4119	Aicardi-Goutieres syndrome 4	OMIM:610333
+1055	0.4117	Congenital disorder of glycosylation, type Ia	OMIM:212065
+1056	0.411	Autoinflammatory-pancytopenia syndrome	OMIM:619858
+1057	0.4109	?Bleeding disorder, platelet-type, 18	OMIM:615888
+1058	0.4104	Immunodeficiency 40	OMIM:616433
+1059	0.4103	Aplastic anemia	OMIM:609135
+1059	0.4103	Aplastic anemia	OMIM:609135
+1059	0.4103	Aplastic anemia, susceptibility to	OMIM:609135
+1059	0.4103	Revesz syndrome	OMIM:268130
+1059	0.4103	Aplastic anemia	OMIM:609135
+1064	0.41	Chronic myeloid leukemia	ORPHA:521
+1064	0.41	Chronic myeloid leukemia	ORPHA:521
+1064	0.41	Chronic myeloid leukemia	ORPHA:521
+1067	0.4097	Cerebroretinal microangiopathy with calcifications and cysts 2	OMIM:617341
+1068	0.4095	Combined oxidative phosphorylation deficiency 18	OMIM:615578
+1069	0.4094	Thrombocythemia 2	OMIM:601977
+1070	0.409	Dilated cardiomyopathy with ataxia	ORPHA:66634
+1071	0.4088	MGAT2-CDG	ORPHA:79329
+1071	0.4088	von Willebrand disease, type 1	OMIM:193400
+1071	0.4088	Bartter syndrome, type 2	OMIM:241200
+1071	0.4088	Immunodeficiency 60 and autoimmunity	OMIM:618394
+1071	0.4088	Hermansky-Pudlak syndrome 7	OMIM:614076
+1071	0.4088	Hermansky-Pudlak syndrome 8	OMIM:614077
+1077	0.4085	Chronic visceral acid sphingomyelinase deficiency	ORPHA:77293
+1077	0.4085	Diamond Blackfan anemia 15 with mandibulofacial dysostosis	OMIM:606164
+1077	0.4085	Lymphoproliferative syndrome 2	OMIM:615122
+1080	0.4084	3-methylglutaconic aciduria, type VIIB, autosomal recessive	OMIM:616271
+1081	0.4083	Sarcoidosis, susceptibility to, 1	OMIM:181000
+1082	0.4081	Thrombocythemia 3	OMIM:614521
+1083	0.4079	Sea-blue histiocyte disease	OMIM:269600
+1084	0.4074	Aicardi-Goutieres syndrome 1, dominant and recessive	OMIM:225750
+1084	0.4074	Neurodevelopmental disorder with epilepsy and hemochromatosis	OMIM:301072
+1084	0.4074	Portal hypertension, noncirrhotic, 2	OMIM:619463
+1084	0.4074	Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)	OMIM:251880
+1084	0.4074	Pseudo-TORCH syndrome 1	OMIM:251290
+1084	0.4074	Gray platelet syndrome	ORPHA:721
+1090	0.4073	LIG4 syndrome	ORPHA:99812
+1090	0.4073	LIG4 syndrome	ORPHA:99812
+1090	0.4073	?Thrombocytopenia 6	OMIM:616937
+1093	0.407	Imerslund-Grasbeck syndrome 2	OMIM:618882
+1093	0.407	Imerslund-Grasbeck syndrome 1	OMIM:261100
+1093	0.407	Lesch-Nyhan syndrome	OMIM:300322
+1093	0.407	Spondylometaphyseal dysplasia, 'corner fracture' type	ORPHA:93315
+1093	0.407	Gitelman syndrome	ORPHA:358
+1093	0.407	Protoporphyria, erythropoietic, X-linked	OMIM:300752
+1093	0.407	Pyridoxal phosphate-responsive seizures	ORPHA:79096
+1093	0.407	Peutz-Jeghers syndrome	OMIM:175200
+1093	0.407	Jervell and Lange-Nielsen syndrome	ORPHA:90647
+1093	0.407	Jervell and Lange-Nielsen syndrome	ORPHA:90647
+1093	0.407	3-methylglutaconic aciduria, type V	OMIM:610198
+1093	0.407	Jervell and Lange-Nielsen syndrome	ORPHA:90647
+1093	0.407	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	ORPHA:79351
+1093	0.407	Congenital disorder of glycosylation, type IIt	OMIM:618885
+1093	0.407	Homocystinuria-megaloblastic anemia, cblG complementation type	OMIM:250940
+1093	0.407	?Protoporphyria, erythropoietic, 2	OMIM:618015
+1093	0.407	Gitelman syndrome	ORPHA:358
+1093	0.407	Congenital disorder of glycosylation, type Ii	OMIM:607906
+1093	0.407	Autosomal dominant hypophosphatemic rickets	ORPHA:89937
+1093	0.407	Spondylometaphyseal dysplasia, 'corner fracture' type	ORPHA:93315
+1113	0.4068	Mitochondrial myopathy, episodic, with optic atrophy and reversible leukoencephalopathy	OMIM:251900
+1114	0.4065	ALG12-CDG	ORPHA:79324
+1115	0.4062	Immunodeficiency 73A with defective neutrophil chemotaxix and leukocytosis	OMIM:608203
+1116	0.4056	Griscelli syndrome type 2	ORPHA:79477
+1117	0.4049	Proteasome-associated autoinflammatory syndrome 1 and digenic forms	OMIM:256040
+1118	0.4048	Macrothrombocytopenia, isolated, 2, autosomal dominant	OMIM:619840
+1119	0.4044	Glutamate formiminotransferase deficiency	OMIM:229100
+1119	0.4044	Dyskeratosis congenita, autosomal recessive 8	OMIM:620133
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	Autoinflammatory syndrome, familial, X-linked, Behcet-like 2	OMIM:301074
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1121	0.4042	22q11.2 deletion syndrome	ORPHA:567
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1131	0.4041	Autosomal dominant severe congenital neutropenia	ORPHA:486
+1137	0.4038	Aicardi-Goutieres syndrome 3	OMIM:610329
+1137	0.4038	COG4-CDG	ORPHA:263501
+1139	0.4036	Wolfram syndrome 2	OMIM:604928
+1140	0.4034	Gaucher disease, type IIIC	OMIM:231005
+1140	0.4034	MOGS-CDG	ORPHA:79330
+1140	0.4034	ROSAH syndrome	OMIM:614979
+1143	0.4033	Immunodeficiency 14B, autosomal recessive	OMIM:619281
+1144	0.4026	Bleeding disorder, platelet-type, 8	OMIM:609821
+1145	0.4021	Immunodeficiency 47	OMIM:300972
+1146	0.4017	Methylmalonic acidemia with homocystinuria type cblF	ORPHA:79284
+1147	0.4015	Combined oxidative phosphorylation deficiency 53	OMIM:619423
+1148	0.4007	Familial thrombocytosis	ORPHA:71493
+1148	0.4007	Familial thrombocytosis	ORPHA:71493
+1148	0.4007	Familial thrombocytosis	ORPHA:71493
+1151	0.4006	Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis	OMIM:612714
+1152	0.4002	Immunodeficiency 109 with lymphoproliferation	OMIM:620282
+1153	0.3998	Alpha-mannosidosis, infantile form	ORPHA:309282
+1153	0.3998	Alpha-mannosidosis, adult form	ORPHA:309288
+1155	0.399	Proteasome-associated autoinflammatory syndrome 2	OMIM:618048
+1156	0.3988	Syndromic multisystem autoimmune disease due to Itch deficiency	ORPHA:228426
+1156	0.3988	Sea-blue histiocytosis	ORPHA:158029
+1158	0.3984	?Diamond-Blackfan anemia 11	OMIM:614900
+1159	0.3983	Focal facial dermal dysplasia type IV	ORPHA:398189
+1160	0.398	Immunodeficiency 105, severe combined	OMIM:619924
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1161	0.3971	Aicardi-Goutières syndrome	ORPHA:51
+1169	0.3966	Immunodeficiency 73B with defective neutrophil chemotaxis and lymphopenia	OMIM:618986
+1170	0.3956	Wolcott-Rallison syndrome	ORPHA:1667
+1171	0.3955	Immunodeficiency 92	OMIM:619652
+1172	0.3952	Mitochondrial complex IV deficiency, nuclear type 3	OMIM:619046
+1173	0.3947	?Immunodeficiency 89 and autoimmunity	OMIM:619632
+1174	0.3944	Deafness-lymphedema-leukemia syndrome	ORPHA:3226
+1175	0.3942	Cyclic neutropenia	ORPHA:2686
+1176	0.3936	Immunodeficiency 91 and hyperinflammation	OMIM:619644
+1177	0.3922	Barth syndrome	OMIM:302060
+1178	0.3919	Hardikar syndrome	OMIM:301068
+1178	0.3919	Autosomal recessive polycystic kidney disease	ORPHA:731
+1178	0.3919	Autosomal recessive polycystic kidney disease	ORPHA:731
+1181	0.3917	Neutrophil immunodeficiency syndrome	ORPHA:183707
+1182	0.3916	?Rajab interstitial lung disease with brain calcifications 2	OMIM:619013
+1183	0.3903	?Immunodeficiency 108 with autoinflammation	OMIM:260570
+1184	0.3901	?Bile acid synthesis defect, congenital, 5	OMIM:616278
+1185	0.3893	Bare lymphocyte syndrome, type II, complementation group A	OMIM:209920
+1185	0.3893	Bare lymphocyte syndrome, type II, complementation group C	OMIM:209920
+1185	0.3893	Bare lymphocyte syndrome, type II, complementation group B	OMIM:209920
+1185	0.3893	Bare lymphocyte syndrome, type II, complementation group D	OMIM:209920
+1189	0.3891	Majeed syndrome	ORPHA:77297
+1190	0.3886	?Immunodeficiency 94 with autoinflammation and dysmorphic facies	OMIM:619750
+1191	0.3883	Reticular dysgenesis	OMIM:267500
+1191	0.3883	Reticular dysgenesis	OMIM:267500
+1193	0.3882	Waldenström macroglobulinemia	ORPHA:33226
+1194	0.3881	Congenital disorder of glycosylation, type IIc	OMIM:266265
+1195	0.3867	Niemann-Pick disease, type A	OMIM:257200
+1196	0.3866	Autoinflammation with episodic fever and lymphadenopathy	OMIM:618852
+1197	0.3864	H syndrome	ORPHA:168569
+1198	0.3863	Immunodeficiency with hyper-IgM, type 3	OMIM:606843
+1198	0.3863	Periodic fever, immunodeficiency, and thrombocytopenia syndrome	OMIM:150550
+1200	0.3861	Griscelli syndrome, type 2	OMIM:607624
+1201	0.383	Paroxysmal nocturnal hemoglobinuria, somatic	OMIM:300818
+1202	0.382	PMM2-CDG	ORPHA:79318
+1203	0.3816	SCID, autosomal recessive, T-negative/B-positive type	OMIM:600802
+1204	0.3812	Immunodeficiency 20	OMIM:615707
+1205	0.3791	Vici syndrome	OMIM:242840
+1206	0.3788	Severe combined immunodeficiency, X-linked	OMIM:300400
+1207	0.3766	Immunodeficiency, common variable, 1	OMIM:607594
+1208	0.3763	Severe combined immunodeficiency due to adenosine deaminase deficiency	ORPHA:277
+1209	0.3762	TARP syndrome	ORPHA:2886
+1209	0.3762	Congenital bile acid synthesis defect type 2	ORPHA:79303
+1211	0.3761	Gamma-sarcoglycan-related limb-girdle muscular dystrophy R5	ORPHA:353
+1211	0.3761	Neutral lipid storage disease with ichthyosis	ORPHA:98907
+1213	0.3758	Immunodeficiency, common variable, 2	OMIM:240500
+1214	0.3754	Krabbe disease	OMIM:245200
+1215	0.3745	T-B+ severe combined immunodeficiency due to JAK3 deficiency	ORPHA:35078
+1215	0.3745	Immunodeficiency with hyper IgM, type 5	OMIM:608106
+1217	0.3744	Deficiency in anterior pituitary function-variable immunodeficiency syndrome	ORPHA:293978
+1218	0.3739	Immunodeficiency with hyper-IgM, type 2	OMIM:605258
+1219	0.3704	Lung disease, immunodeficiency, and chromosome breakage syndrome	OMIM:617241
+1220	0.3694	Granulomatosis with polyangiitis	ORPHA:900
+1220	0.3694	Granulomatosis with polyangiitis	ORPHA:900
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Granulomatosis with polyangiitis	ORPHA:900
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Barth syndrome	ORPHA:111
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Granulomatosis with polyangiitis	ORPHA:900
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Granulomatosis with polyangiitis	ORPHA:900
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1220	0.3694	Familial isolated dilated cardiomyopathy	ORPHA:154
+1277	0.369	?Caspase 8 lymphadenopathy syndrome	OMIM:607271
+1278	0.3688	Immunodeficiency, common variable, 6	OMIM:613496
+1279	0.3685	Specific granule deficiency	OMIM:245480
+1280	0.3679	Neutropenia, severe congenital, 8, autosomal dominant	OMIM:618752
+1281	0.3668	Immunodeficiency-centromeric instability-facial anomalies syndrome 3	OMIM:616910
+1281	0.3668	Immunodeficiency-centromeric instability-facial anomalies syndrome 4	OMIM:616911
+1283	0.3666	?Immunodeficiency 62	OMIM:618459
+1284	0.366	Immunodeficiency, X-linked, with magnesium defect, Epstein-Barr virus infection and neoplasia	OMIM:300853
+1285	0.3646	Obesity due to leptin receptor gene deficiency	ORPHA:179494
+1285	0.3646	Obesity due to congenital leptin deficiency	ORPHA:66628
+1287	0.364	?Agammaglobulinemia 4	OMIM:613502
+1288	0.3638	Hypohidrotic ectodermal dysplasia with immunodeficiency	ORPHA:98813
+1288	0.3638	Hypohidrotic ectodermal dysplasia with immunodeficiency	ORPHA:98813
+1290	0.3623	Immunodeficiency 44	OMIM:616636
+1291	0.361	Spondyloenchondrodysplasia with immune dysregulation	OMIM:607944
+1291	0.361	Agammaglobulinemia 6	OMIM:612692
+1293	0.3608	SPONASTRIME dysplasia	ORPHA:93357
+1293	0.3608	Agammaglobulinemia 1	OMIM:601495
+1295	0.3606	Acrodermatitis enteropathica	OMIM:201100
+1296	0.3603	?Agammaglobulinemia 7, autosomal recessive	OMIM:615214
+1297	0.3602	?Immunodeficiency 99 with hypogammaglobulinemia and autoimmune cytopenias	OMIM:619846
+1298	0.36	Agammaglobulinemia 2	OMIM:613500
+1299	0.3596	Dyskeratosis congenita, autosomal dominant 4	OMIM:615190
+1299	0.3596	Immunodeficiency 9	OMIM:612782
+1301	0.3594	Bloom syndrome	ORPHA:125
+1302	0.3591	Immunodeficiency 50	OMIM:300988
+1303	0.359	Immunodeficiency 43	OMIM:241600
+1304	0.3586	FGFR2-related bent bone dysplasia	ORPHA:313855
+1305	0.3582	Immunodeficiency-centromeric instability-facial anomalies syndrome 2	OMIM:614069
+1306	0.3581	T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency	ORPHA:169154
+1307	0.3577	Immunodeficiency 11A	OMIM:615206
+1308	0.3575	Agammaglobulinemia 10, autosomal dominant	OMIM:619707
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Immunodeficiency 15B	OMIM:615592
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1308	0.3575	Autosomal agammaglobulinemia	ORPHA:33110
+1320	0.3574	Immunodeficiency 86, mycobacteriosis	OMIM:619549
+1321	0.3571	T-B+ severe combined immunodeficiency due to gamma chain deficiency	ORPHA:276
+1321	0.3571	Rhizomelic skeletal dysplasia with or without Pelger-Huet anomaly	OMIM:618019
+1321	0.3571	Neurodevelopmental disorder with facial dysmorphism, absent language, and pseudo-Pelger-Huet anomaly	OMIM:620075
+1321	0.3571	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	OMIM:614800
+1325	0.357	Primary sclerosing cholangitis	ORPHA:171
+1325	0.357	Primary sclerosing cholangitis	ORPHA:171
+1325	0.357	Primary sclerosing cholangitis	ORPHA:171
+1325	0.357	Primary sclerosing cholangitis	ORPHA:171
+1329	0.3569	Agammaglobulinemia 3	OMIM:613501
+1330	0.3565	GM1-gangliosidosis, type II	OMIM:230600
+1331	0.3561	Immunoskeletal dysplasia with neurodevelopmental abnormalities	OMIM:617425
+1332	0.3555	WHIM syndrome 1	OMIM:193670
+1332	0.3555	WHIM syndrome	ORPHA:51636
+1334	0.3554	Niemann-pick disease, type C2	OMIM:607625
+1334	0.3554	Niemann-Pick disease, type C1	OMIM:257220
+1336	0.355	Hyper-IgE recurrent infection syndrome 4A, autosomal dominant	OMIM:619752
+1337	0.3549	Cowden syndrome 1	OMIM:158350
+1337	0.3549	Mannosidosis, alpha-, types I and II	OMIM:248500
+1337	0.3549	Congenital disorder of glycosylation, type IIr	OMIM:301045
+1340	0.3544	Combined immunodeficiency with facio-oculo-skeletal anomalies	ORPHA:221139
+1340	0.3544	Combined immunodeficiency with facio-oculo-skeletal anomalies	ORPHA:221139
+1342	0.3543	Immunodeficiency 18	OMIM:615615
+1342	0.3543	Spondyloepimetaphyseal dysplasia, sponastrime type	OMIM:271510
+1342	0.3543	Immunodeficiency due to defect in MAPBP-interacting protein	OMIM:610798
+1342	0.3543	Immunodeficiency 70	OMIM:618969
+1346	0.354	Myelofibrosis, somatic	OMIM:254450
+1346	0.354	Myelofibrosis, somatic	OMIM:254450
+1346	0.354	Myelofibrosis with myeloid metaplasia, somatic	OMIM:254450
+1346	0.354	Myelofibrosis, somatic	OMIM:254450
+1350	0.3538	Autoinflammation, panniculitis, and dermatosis syndrome	OMIM:617099
+1351	0.3534	Immunodeficiency 100 with pulmonary alveolar proteinosis and hypogammaglobulinemia	OMIM:618042
+1352	0.3533	Immunodeficiency, common variable, 4	OMIM:613494
+1353	0.3532	Chronic granulomatous disease, X-linked	OMIM:306400
+1353	0.3532	Chronic granulomatous disease 4, autosomal recessive	OMIM:233690
+1353	0.3532	Chronic granulomatous disease 2, autosomal recessive	OMIM:233710
+1353	0.3532	Chronic granulomatous disease 1, autosomal recessive	OMIM:233700
+1357	0.353	Immunodeficiency 93 and hypertrophic cardiomyopathy	OMIM:619705
+1357	0.353	VISS syndrome	OMIM:619472
+1359	0.3529	Trichothiodystrophy 3, photosensitive	OMIM:616395
+1359	0.3529	Subcutaneous panniculitis-like T-cell lymphoma	ORPHA:86884
+1361	0.3527	Immunodeficiency 67	OMIM:607676
+1362	0.3523	Severe combined immunodeficiency due to DCLRE1C deficiency	ORPHA:275
+1363	0.352	Isolated growth hormone deficiency, type III, with agammaglobulinemia	OMIM:307200
+1364	0.3519	?Immunodeficiency 59 and hypoglycemia	OMIM:233600
+1364	0.3519	?Immunodeficiency, common variable, 11	OMIM:615767
+1366	0.3518	Immunodeficiency 11B with atopic dermatitis	OMIM:617638
+1366	0.3518	Hyper-IgE recurrent infection syndrome 3, autosomal recessive	OMIM:618282
+1368	0.3517	Immunodeficiency, common variable, 3	OMIM:613493
+1369	0.3514	Herpes simplex virus encephalitis	ORPHA:1930
+1369	0.3514	Hyper-IgE recurrent infection syndrome 5, autosomal recessive	OMIM:618944
+1369	0.3514	Herpes simplex virus encephalitis	ORPHA:1930
+1369	0.3514	Herpes simplex virus encephalitis	ORPHA:1930
+1369	0.3514	Autoinflammatory disease, systemic, X-linked	OMIM:301081
+1369	0.3514	Herpes simplex virus encephalitis	ORPHA:1930
+1369	0.3514	Herpes simplex virus encephalitis	ORPHA:1930
+1369	0.3514	Psoriasis 14, pustular	OMIM:614204
+1377	0.351	Netherton syndrome	OMIM:256500
+1378	0.3505	T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta	ORPHA:169160
+1378	0.3505	T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta	ORPHA:169160
+1378	0.3505	T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta	ORPHA:169160
+1381	0.3501	?Immunodeficiency, common variable, 14	OMIM:617765
+1382	0.3499	Hyper-IgE recurrent infection syndrome, autosomal recessive	OMIM:243700
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1383	0.3497	Chronic granulomatous disease	ORPHA:379
+1389	0.3492	Ectodermal dysplasia and immunodeficiency 1	OMIM:300291
+1390	0.3491	Autoinflammation, antibody deficiency, and immune dysregulation syndrome	OMIM:614878
+1390	0.3491	Immunodeficiency 24	OMIM:615897
+1392	0.349	Autosomal dominant hyper-IgE syndrome	ORPHA:2314
+1392	0.349	Hyper-IgE recurrent infection syndrome 4B, autosomal recessive	OMIM:618523
+1392	0.349	Hyper-IgE recurrent infection syndrome	OMIM:147060
+1392	0.349	Autosomal dominant hyper-IgE syndrome	ORPHA:2314
+1392	0.349	Peeling skin syndrome 1	OMIM:270300
+1392	0.349	Immunodeficiency 57 with autoinflammation	OMIM:618108
+1398	0.3489	?Immunodeficiency 37	OMIM:616098
+1399	0.3485	Neurodevelopmental disorder with dysmorphic facies and ischiopubic hypoplasia	OMIM:620210
+1400	0.3484	Sneddon syndrome	OMIM:182410
+1401	0.3481	Ataxia-telangiectasia	ORPHA:100
+1402	0.3478	Agammaglobulinemia 8A, autosomal dominant	OMIM:616941
+1403	0.3476	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+1404	0.3475	?Immunodeficiency 85 and autoimmunity	OMIM:619510
+1405	0.3474	?Immunodeficiency 53	OMIM:617585
+1406	0.3459	Macrocephaly/autism syndrome	OMIM:605309
+1407	0.3458	?Immunodeficiency, common variable, 5	OMIM:613495
+1408	0.3457	Severe combined immunodeficiency, B cell-negative	OMIM:601457
+1408	0.3457	Severe combined immunodeficiency, B cell-negative	OMIM:601457
+1408	0.3457	?Immunodeficiency 73C with defective neutrophil chemotaxis and hypogammaglobulinemia	OMIM:618987
+1411	0.3455	Immunodeficiency 103, susceptibility to fungal infection	OMIM:212050
+1412	0.345	Combined immunodeficiency, X-linked, moderate	OMIM:312863
+1413	0.3447	Immunodeficiency 95	OMIM:619773
+1414	0.3443	Aspartylglucosaminuria	OMIM:208400
+1415	0.344	Ataxia-telangiectasia	OMIM:208900
+1416	0.3432	Activated PI3K-delta syndrome	ORPHA:397596
+1416	0.3432	Activated PI3K-delta syndrome	ORPHA:397596
+1416	0.3432	Activated PI3K-delta syndrome	ORPHA:397596
+1419	0.3427	Combined cellular and humoral immune defects with granulomas	OMIM:233650
+1419	0.3427	Combined cellular and humoral immune defects with granulomas	OMIM:233650
+1419	0.3427	Combined immunodeficiency due to DOCK8 deficiency	ORPHA:217390
+1422	0.3425	Immunodeficiency 48	OMIM:269840
+1423	0.3422	OKT4 epitope deficiency	OMIM:613949
+1423	0.3422	Ceroid lipofuscinosis, neuronal, 5	OMIM:256731
+1423	0.3422	Ceroid lipofuscinosis, neuronal, 1	OMIM:256730
+1423	0.3422	Salla disease	OMIM:604369
+1423	0.3422	CLN3 disease	ORPHA:228346
+1423	0.3422	Ceroid lipofuscinosis, neuronal, 3	OMIM:204200
+1429	0.342	Hennekam syndrome	ORPHA:2136
+1429	0.342	Hennekam syndrome	ORPHA:2136
+1429	0.342	Hennekam syndrome	ORPHA:2136
+1432	0.3418	Familial Mediterranean fever, AR	OMIM:249100
+1433	0.3414	B-cell expansion with NFKB and T-cell anergy	OMIM:616452
+1434	0.3411	Immunodeficiency 19, severe combined	OMIM:615617
+1435	0.3403	RIDDLE syndrome	ORPHA:420741
+1436	0.3399	Lymphoproliferative syndrome 3	OMIM:618261
+1437	0.3397	Cohen syndrome	OMIM:216550
+1438	0.3393	Severe combined immunodeficiency, Athabascan type	OMIM:602450
+1439	0.3391	Immunodeficiency 14A, autosomal dominant	OMIM:615513
+1440	0.339	Histiocytosis-lymphadenopathy plus syndrome	OMIM:602782
+1441	0.3386	Immunodeficiency 36	OMIM:616005
+1442	0.3381	PAPA syndrome	ORPHA:69126
+1443	0.338	?Immunodeficiency, common variable, 7	OMIM:614699
+1443	0.338	Hyper-IgD syndrome	OMIM:260920
+1445	0.337	Immunodeficiency 72 with autoinflammation	OMIM:618982
+1446	0.3369	Immunodeficiency 26, with or without neurologic abnormalities	OMIM:615966
+1447	0.3367	Chronic recurrent multifocal osteomyelitis 2, with periostitis and pustulosis	OMIM:612852
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1448	0.3366	Muckle-Wells syndrome	OMIM:191900
+1448	0.3366	Familial cold inflammatory syndrome 1	OMIM:120100
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1448	0.3366	Leukocyte adhesion deficiency	OMIM:116920
+1448	0.3366	?Growth restriction, hypoplastic kidneys, alopecia, and distinctive facies	OMIM:619321
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1448	0.3366	Hereditary chronic pancreatitis	ORPHA:676
+1458	0.3364	Incontinentia pigmenti	OMIM:308300
+1459	0.3357	Immunodeficiency 12	OMIM:615468
+1460	0.3353	?Neutrophilia, hereditary	OMIM:162830
+1461	0.3352	Generalized pustular psoriasis	ORPHA:247353
+1461	0.3352	Generalized pustular psoriasis	ORPHA:247353
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1463	0.335	Cushing disease	ORPHA:96253
+1470	0.3346	X-linked severe congenital neutropenia	ORPHA:86788
+1471	0.3344	Mowat-Wilson syndrome due to a ZEB2 point mutation	ORPHA:261552
+1471	0.3344	Mowat-Wilson syndrome due to monosomy 2q22	ORPHA:261537
+1473	0.3327	Vertebral anomalies and variable endocrine and T-cell dysfunction	OMIM:618223
+1474	0.3326	Neutropenia, severe congenital 2, autosomal dominant	OMIM:613107
+1475	0.3323	Neutropenia, severe congenital, X-linked	OMIM:300299
+1475	0.3323	Sialidosis, type II	OMIM:256550
+1477	0.3322	3-methylglutaconic aciduria type 7	ORPHA:445038
+1478	0.3321	Neutropenia, severe congenital, 7, autosomal recessive	OMIM:617014
+1478	0.3321	Neutropenia, severe congenital, 6, autosomal recessive	OMIM:616022
+1480	0.3319	Cohen syndrome	ORPHA:193
+1480	0.3319	Developmental delay, hypotonia, and impaired language	OMIM:620012
+1480	0.3319	Congenital disorder of glycosylation with defective fucosylation 1	OMIM:618005
+1480	0.3319	Immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency	ORPHA:70592
+1480	0.3319	X-linked intellectual disability, Nascimento type	ORPHA:163956
+1480	0.3319	?Neutropenia, nonimmune chronic idiopathic, of adults	OMIM:607847
+1480	0.3319	Intellectual developmental disorder, autosomal dominant 54	OMIM:617799
+1480	0.3319	Spinocerebellar ataxia, autosomal recessive 23	OMIM:616949
+1480	0.3319	Neutropenia, severe congenital 3, autosomal recessive	OMIM:610738
+1480	0.3319	3-methylglutaconic aciduria, type VIII	OMIM:617248
+1480	0.3319	Saul-Wilson syndrome	OMIM:618150
+1480	0.3319	Mitochondrial complex I deficiency, nuclear type 33	OMIM:618253
+1480	0.3319	Primary immunodeficiency syndrome due to LAMTOR2 deficiency	ORPHA:90023
+1480	0.3319	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	OMIM:615471
+1494	0.3317	GM1-gangliosidosis, type I	OMIM:230500
+1494	0.3317	Sialic acid storage disorder, infantile	OMIM:269920
+1494	0.3317	Fucosidosis	OMIM:230000
+1497	0.3316	Hyperimmunoglobulinemia D with periodic fever	ORPHA:343
+1498	0.3309	Poikiloderma with neutropenia	OMIM:604173
+1499	0.3307	Tall stature-intellectual disability-renal anomalies syndrome	ORPHA:500095
+1500	0.3305	Fanconi anemia, complementation group I	OMIM:609053
+1501	0.3303	Hepatic venoocclusive disease with immunodeficiency	OMIM:235550
+1502	0.3283	Thauvin-Robinet-Faivre syndrome	OMIM:617107
+1502	0.3283	Glycogen storage disease Ic	OMIM:232240
+1502	0.3283	Neutropenia, cyclic	OMIM:162800
+1505	0.328	?WHIM syndrome 2	OMIM:619407
+1506	0.3269	Immunodeficiency 55	OMIM:617827
+1507	0.3266	Caroli disease	ORPHA:53035
+1507	0.3266	Myopathy with extrapyramidal signs	OMIM:615673
+1509	0.3265	Autoimmune disease, multisystem, infantile-onset, 2	OMIM:617006
+1510	0.3248	Mastocytosis, cutaneous	OMIM:154800
+1511	0.3245	Respiratory infections, recurrent, and failure to thrive with or without diarrhea	OMIM:620233
+1512	0.3239	Immunodeficiency 58	OMIM:618131
+1513	0.323	Tumor necrosis factor receptor 1 associated periodic syndrome	ORPHA:32960
+1513	0.323	Familial cold autoinflammatory syndrome 2	OMIM:611762
+1515	0.3227	Glycogen storage disease Ib	OMIM:232220
+1515	0.3227	Immunodeficiency 8	OMIM:615401
+1515	0.3227	?Hermansky-Pudlak syndrome 10	OMIM:617050
+1518	0.3226	Simpson-Golabi-Behmel syndrome	ORPHA:373
+1518	0.3226	Simpson-Golabi-Behmel syndrome	ORPHA:373
+1520	0.3218	Lipodystrophy, congenital generalized, type 4	OMIM:613327
+1521	0.3212	Intellectual developmental disorder with dysmorphic facies, speech delay, and T-cell abnormalities	OMIM:618092
+1522	0.3196	Farber lipogranulomatosis	OMIM:228000
+1523	0.3192	Immunodeficiency 49, severe combined	OMIM:617237
+1524	0.3172	Hypoparathyroidism-sensorineural deafness-renal disease syndrome	ORPHA:2237
+1525	0.3157	T-cell lymphopenia, infantile, with or without nail dystrophy, autosomal dominant	OMIM:618806
+1526	0.3151	Myeloproliferative disorder with eosinophilia	OMIM:131440
+1526	0.3151	Incontinentia pigmenti	ORPHA:464
+1526	0.3151	Mucoepithelial dysplasia, hereditary	OMIM:158310
+1526	0.3151	?Immunodeficiency 88	OMIM:619630
+1526	0.3151	Ichthyosis-prematurity syndrome	ORPHA:88621
+1526	0.3151	Muscular dystrophy, limb-girdle, autosomal recessive 1	OMIM:253600
+1532	0.3138	Immunodeficiency 68	OMIM:612260
+1533	0.3125	?Immunodeficiency 61	OMIM:300310
+1534	0.3118	Velocardiofacial syndrome	OMIM:192430
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1535	0.3111	Ellis Van Creveld syndrome	ORPHA:289
+1541	0.3104	Brain malformations-musculoskeletal abnormalities-facial dysmorphism-intellectual disability syndrome	ORPHA:500150
+1542	0.3085	Recurrent infections associated with rare immunoglobulin isotypes deficiency	ORPHA:183675
+1542	0.3085	Recurrent infections associated with rare immunoglobulin isotypes deficiency	ORPHA:183675
+1544	0.308	Okur-Chung neurodevelopmental syndrome	OMIM:617062
+1545	0.3079	?Immunodeficiency 13	OMIM:615518
+1546	0.3078	?Epidermodysplasia verruciformis, susceptibility to, 5	OMIM:618309
+1547	0.3077	Hypereosinophilic syndrome, idiopathic, resistant to imatinib	OMIM:607685
+1548	0.3075	Noonan syndrome 14	OMIM:619745
+1548	0.3075	RENI syndrome	OMIM:617575
+1548	0.3075	Progressive microcephaly-seizures-cortical blindness-developmental delay syndrome	ORPHA:477814
+1548	0.3075	Gastrointestinal defects and immunodeficiency syndrome 2	OMIM:619708
+1548	0.3075	Immunodeficiency 79	OMIM:619238
+1548	0.3075	Aicardi-Goutieres syndrome 2	OMIM:610181
+1548	0.3075	?Epidermodysplasia verruciformis, susceptibility to, 4	OMIM:618307
+1548	0.3075	Acquired partial lipodystrophy	ORPHA:79087
+1548	0.3075	Severe intellectual disability-short stature-behavioral abnormalities-facial dysmorphism syndrome	ORPHA:391307
+1548	0.3075	Burkitt lymphoma	ORPHA:543
+1558	0.3059	Heterotopia, periventricular, 1	OMIM:300049
+1558	0.3059	Leukemia, acute promyelocytic, somatic	OMIM:612376
+1558	0.3059	Leukemia, acute promyelocytic	OMIM:612376
+1561	0.3055	Immunodeficiency 15A	OMIM:618204
+1562	0.3041	Autoinflammation, immune dysregulation, and eosinophilia	OMIM:618999
+1563	0.3033	Glycosylphosphatidylinositol deficiency	OMIM:610293
+1564	0.3032	CHARGE syndrome	OMIM:214800
+1565	0.3018	Immunodeficiency, common variable, 10	OMIM:615577
+1565	0.3018	Congenital disorder of glycosylation, type Ig	OMIM:607143
+1567	0.3014	Immunodeficiency 76	OMIM:619164
+1568	0.3011	Classic mycosis fungoides	ORPHA:2584
+1568	0.3011	Classic mycosis fungoides	ORPHA:2584
+1568	0.3011	Classic mycosis fungoides	ORPHA:2584
+1571	0.301	Fanconi anemia, complementation group J	OMIM:609054
+1571	0.301	Osteopetrosis, autosomal dominant 2	OMIM:166600
+1571	0.301	Fanconi anemia, complementation group Q	OMIM:615272
+1571	0.301	Dyskeratosis congenita, autosomal recessive 6	OMIM:616353
+1571	0.301	Fanconi anemia, complementation group D1	OMIM:605724
+1571	0.301	Methylmalonic acidemia with homocystinuria, type cblD	ORPHA:79283
+1571	0.301	Noonan syndrome-like with loose anagen hair 1	OMIM:607721
+1571	0.301	Cranioectodermal dysplasia 4	OMIM:614378
+1571	0.301	?Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 5	OMIM:618674
+1580	0.3005	?Reynolds syndrome	OMIM:613471
+1581	0.2973	Immunodeficiency 80 with or without cardiomyopathy	OMIM:619313
+1582	0.2964	?Fanconi anemia, complementation group W	OMIM:617784
+1583	0.2959	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	OMIM:601705
+1584	0.2957	Immunodeficiency 54	OMIM:609981
+1585	0.2956	Immunodeficiency, developmental delay, and hypohomocysteinemia	OMIM:617744
+1585	0.2956	Congenital disorder of glycosylation, type IIb	OMIM:606056
+1585	0.2956	?Leukodystrophy, hypomyelinating, 24	OMIM:619851
+1585	0.2956	Severe combined immunodeficiency due to FOXN1 deficiency	ORPHA:169095
+1585	0.2956	Netherton syndrome	ORPHA:634
+1590	0.2942	Neutropenia, severe congenital, 9, autosomal dominant	OMIM:619813
+1590	0.2942	Polycythemia vera	ORPHA:729
+1590	0.2942	Polycythemia vera	ORPHA:729
+1590	0.2942	Polycythemia vera	ORPHA:729
+1594	0.2906	Greenberg skeletal dysplasia	OMIM:215140
+1595	0.2898	Immunodeficiency 104, severe combined	OMIM:608971
+1595	0.2898	?Immunodeficiency 84	OMIM:619437
+1597	0.2891	Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome	ORPHA:369837
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Immunodeficiency 33	OMIM:300636
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Myotonic dystrophy 2	OMIM:602668
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1597	0.2891	Primary biliary cholangitis	ORPHA:186
+1608	0.2889	Immunodeficiency 75	OMIM:619126
+1609	0.2882	Vici syndrome	ORPHA:1493
+1610	0.2847	Kappa light chain deficiency	OMIM:614102
+1611	0.2835	Macroglobulinemia, Waldenstrom, somatic	OMIM:153600
+1612	0.2826	Familial papillary or follicular thyroid carcinoma	ORPHA:319487
+1612	0.2826	Familial papillary or follicular thyroid carcinoma	ORPHA:319487
+1612	0.2826	Familial papillary or follicular thyroid carcinoma	ORPHA:319487
+1615	0.2771	Diarrhea 10, protein-losing enteropathy type	OMIM:618183
+1615	0.2771	Nijmegen breakage syndrome-like disorder	OMIM:613078
+1615	0.2771	Neuronal intestinal pseudoobstruction	ORPHA:99811
+1615	0.2771	Pulmonary fibrosis, idiopathic, susceptibility to	OMIM:178500
+1615	0.2771	Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2	OMIM:606002
+1615	0.2771	Congenital analbuminemia	ORPHA:86816
+1615	0.2771	Caffey disease	ORPHA:1310
+1615	0.2771	Interstitial lung disease 2	OMIM:178500
+1623	0.2735	Multiple myeloma, susceptibility to	OMIM:254500
+1623	0.2735	Multiple myeloma, resistance to	OMIM:254500
+1623	0.2735	Mohr-Tranebjaerg syndrome	ORPHA:52368
+1623	0.2735	Immunodeficiency 56	OMIM:615207
+1623	0.2735	?Agammaglobulinemia 5	OMIM:613506
+1628	0.2701	Immunoglobulin A deficiency 2	OMIM:609529
+1628	0.2701	Trichothiodystrophy 1, photosensitive	OMIM:601675
+1628	0.2701	Dystrophic epidermolysis bullosa pruriginosa	ORPHA:89843
+1628	0.2701	Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper IgE	OMIM:615508
+1628	0.2701	RIDDLE syndrome	OMIM:611943
+1628	0.2701	Hypotrichosis simplex of the scalp	ORPHA:90368
+1628	0.2701	Growth hormone insensitivity with immune dysregulation 2, autosomal dominant	OMIM:618985
+1628	0.2701	Atopy, susceptibility to	OMIM:147050
+1628	0.2701	?Immunodeficiency 66	OMIM:618847
+1628	0.2701	?Spondyloepimetaphyseal dysplasia, Krakow type	OMIM:618162
+1628	0.2701	Immunodeficiency 35	OMIM:611521
+1628	0.2701	?Inflammatory skin and bowel disease, neonatal, 1	OMIM:614328
+1628	0.2701	Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome	ORPHA:457485
+1628	0.2701	FILS syndrome	OMIM:615139
+1628	0.2701	Atopy, susceptibility to	OMIM:147050
+1628	0.2701	Sodium-dependent multivitamin transporter deficiency	OMIM:618973
+1628	0.2701	Atopy, susceptibility to	OMIM:147050
+1628	0.2701	Liver failure, transient infantile	OMIM:613070
+1628	0.2701	Hypotrichosis simplex of the scalp	ORPHA:90368
+1628	0.2701	Palmoplantar keratoderma, epidermolytic, 1	OMIM:144200
+1628	0.2701	?Inflammatory skin and bowel disease, neonatal, 2	OMIM:616069
+1649	0.2667	Hodgkin lymphoma, susceptibility to	OMIM:236000
+1650	0.2641	Meige disease	ORPHA:90186
+1651	0.2638	Squamous cell carcinoma of the esophagus	ORPHA:99977
+1651	0.2638	Squamous cell carcinoma of the esophagus	ORPHA:99977
+1651	0.2638	Mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency	ORPHA:319600
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Deafness, autosomal dominant 34, with or without inflammation	OMIM:617772
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Squamous cell carcinoma of the esophagus	ORPHA:99977
+1651	0.2638	Pleural mesothelioma	ORPHA:50251
+1651	0.2638	Lymphangioleiomyomatosis	ORPHA:538
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Immunodeficiency 38	OMIM:616126
+1651	0.2638	Lymphangioleiomyomatosis	ORPHA:538
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Squamous cell carcinoma of the esophagus	ORPHA:99977
+1651	0.2638	Nephroblastoma	ORPHA:654
+1651	0.2638	Nephroblastoma	ORPHA:654
+1669	0.2632	Pulmonary capillary hemangiomatosis	ORPHA:199241
+1670	0.2613	Immunodeficiency 32A, mycobacteriosis, autosomal dominant	OMIM:614893
+1671	0.261	Fish-eye disease	ORPHA:79292
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+1671	0.261	Follicular lymphoma	ORPHA:545
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Familial Mediterranean fever	ORPHA:342
+1671	0.261	Follicular lymphoma	ORPHA:545
+1671	0.261	Follicular lymphoma	ORPHA:545
+1671	0.261	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Behçet disease	ORPHA:117
+1671	0.261	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+1671	0.261	Behçet disease	ORPHA:117
+1693	0.2605	Trichothiodystrophy 5, nonphotosensitive	OMIM:300953
+1694	0.2594	?Joint contracture, osteochondromas, and B-cell lymphoma	OMIM:620232
+1694	0.2594	Periodic fever, familial	OMIM:142680
+1694	0.2594	Matthew-Wood syndrome	ORPHA:2470
+1694	0.2594	Matthew-Wood syndrome	ORPHA:2470
+1694	0.2594	Immunodeficiency 27B, mycobacteriosis, AD	OMIM:615978
+1694	0.2594	Cherubism	OMIM:118400
+1694	0.2594	AGel amyloidosis	ORPHA:85448
+1694	0.2594	Matthew-Wood syndrome	ORPHA:2470
+1694	0.2594	Fraser syndrome 1	OMIM:219000
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1703	0.2574	Familial pancreatic carcinoma	ORPHA:1333
+1712	0.2563	CD8 deficiency, familial	OMIM:608957
+1713	0.2551	Hypofibrinogenemia, congenital	OMIM:202400
+1713	0.2551	Infantile systemic hyalinosis	ORPHA:2176
+1713	0.2551	Hypofibrinogenemia, congenital	OMIM:202400
+1713	0.2551	Branchiooculofacial syndrome	OMIM:113620
+1713	0.2551	22q11.2 duplication syndrome	ORPHA:1727
+1713	0.2551	Hyperparathyroidism, transient neonatal	OMIM:618188
+1713	0.2551	Afibrinogenemia, congenital	OMIM:202400
+1720	0.2542	Microphthalmia, syndromic 9	OMIM:601186
+1721	0.2531	Cockayne syndrome, type A	OMIM:216400
+1721	0.2531	Diabetes mellitus, neonatal, with congenital hypothyroidism	OMIM:610199
+1723	0.2522	Feingold syndrome 1	OMIM:164280
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Heterotaxy, visceral, 4, autosomal	OMIM:613751
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Heterotaxy, visceral, 2, autosomal	OMIM:605376
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Congenital heart defects, nonsyndromic, 1, X-linked	OMIM:306955
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Right atrial isomerism (Ivemark)	OMIM:208530
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Primary ciliary dyskinesia	ORPHA:244
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1724	0.2518	Meckel syndrome	ORPHA:564
+1793	0.2511	Branchial arch abnormalities, choanal atresia, athelia, hearing loss, and hypothyroidism syndrome	OMIM:620186
+1793	0.2511	Giant cell arteritis	ORPHA:397
+1793	0.2511	Giant cell arteritis	ORPHA:397
+1793	0.2511	Rubinstein-Taybi syndrome 1	OMIM:180849
+1793	0.2511	Giant cell arteritis	ORPHA:397
+1793	0.2511	Congenital heart defects, multiple types, 8, with or without heterotaxy	OMIM:619657
+1793	0.2511	Heterotaxy, visceral, 5	OMIM:270100
+1793	0.2511	Neurodevelopmental disorder with dysmorphic facies and cerebellar hypoplasia	OMIM:619306
+1793	0.2511	Meacham syndrome	OMIM:608978
+1793	0.2511	Stromme syndrome	OMIM:243605
+1793	0.2511	Cardiac-urogenital syndrome	OMIM:618280
+1793	0.2511	?Tetra-amelia syndrome 1	OMIM:273395
+1793	0.2511	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	OMIM:240300
+1793	0.2511	Sweeney-Cox syndrome	OMIM:617746
+1793	0.2511	Roberts-SC phocomelia syndrome	OMIM:268300
+1793	0.2511	Alveolar capillary dysplasia with misalignment of pulmonary veins	OMIM:265380
+1793	0.2511	Congenital alveolar capillary dysplasia	ORPHA:210122
+1793	0.2511	Carpenter syndrome	OMIM:201000
+1793	0.2511	Carpenter syndrome	ORPHA:65759
+1793	0.2511	Ciliary dyskinesia, primary, 1, with or without situs inversus	OMIM:244400
+1793	0.2511	Holoprosencephaly 11	OMIM:614226
+1793	0.2511	Ciliary dyskinesia, primary, 25	OMIM:615482
+1793	0.2511	Giant cell arteritis	ORPHA:397
+1793	0.2511	Ciliary dyskinesia, primary, 14	OMIM:613807
+1793	0.2511	Carpenter syndrome	ORPHA:65759
+1793	0.2511	Hydrolethalus syndrome	OMIM:236680
+1793	0.2511	Renal-hepatic-pancreatic dysplasia 2	OMIM:615415
+1793	0.2511	Heterotaxy, visceral, 9, autosomal, with male infertility	OMIM:618948
+1793	0.2511	Heterotaxy, visceral, 7, autosomal	OMIM:616749
+1793	0.2511	Myoectodermal gonadal dysgenesis syndrome	OMIM:618419
+1793	0.2511	Pulmonary venoocclusive disease 2	OMIM:234810
+1793	0.2511	Cardiofacioneurodevelopmental syndrome	OMIM:619123
+1793	0.2511	Heterotaxy, visceral, 11, autosomal, with male infertility	OMIM:619608
+1826	0.2506	Gracile bone dysplasia	OMIM:602361
+1826	0.2506	Cutis laxa, autosomal recessive, type IC	OMIM:613177
+1828	0.2503	Renal-hepatic-pancreatic dysplasia 1	OMIM:208540
+1828	0.2503	Meckel syndrome 1	OMIM:249000
+1830	0.2495	Sarcoidosis, susceptibility to, 2	OMIM:612387
+1830	0.2495	Simpson-Golabi-Behmel syndrome, type 1	OMIM:312870
+1830	0.2495	Cranioectodermal dysplasia 2	OMIM:613610
+1833	0.2464	Proteus syndrome	ORPHA:744
+1833	0.2464	Proteus syndrome	ORPHA:744
+1835	0.2435	Multiple endocrine neoplasia type 4	ORPHA:276152
+1835	0.2435	Multiple endocrine neoplasia type 1	ORPHA:652
+1835	0.2435	Multiple endocrine neoplasia type 1	ORPHA:652
+1835	0.2435	Multiple endocrine neoplasia type 1	ORPHA:652
+1835	0.2435	Multiple endocrine neoplasia type 1	ORPHA:652
+1835	0.2435	Multiple endocrine neoplasia type 1	ORPHA:652
+1835	0.2435	Myopathy, epilepsy, and progressive cerebral atrophy	OMIM:619036
+1842	0.2427	Proteus-like syndrome	ORPHA:2969
+1843	0.24	Lissencephaly syndrome, Norman-Roberts type	ORPHA:89844
+1843	0.24	Treacher-Collins syndrome	ORPHA:861
+1843	0.24	Lissencephaly syndrome, Norman-Roberts type	ORPHA:89844
+1843	0.24	Peroxisome biogenesis disorder 2A (Zellweger)	OMIM:214110
+1843	0.24	Treacher-Collins syndrome	ORPHA:861
+1843	0.24	Treacher-Collins syndrome	ORPHA:861
+1843	0.24	Lissencephaly syndrome, Norman-Roberts type	ORPHA:89844
+1843	0.24	Wiedemann-Rautenstrauch syndrome	OMIM:264090
+1843	0.24	Truncus arteriosus	ORPHA:3384
+1843	0.24	Treacher-Collins syndrome	ORPHA:861
+1843	0.24	Lethal congenital contracture syndrome 10	OMIM:617022
+1843	0.24	Truncus arteriosus	ORPHA:3384
+1843	0.24	Fraser syndrome 2	OMIM:617666
+1843	0.24	EEC syndrome	ORPHA:1896
+1857	0.2396	Immunodeficiency 42	OMIM:616622
+1858	0.2366	Schinzel-Giedion midface retraction syndrome	OMIM:269150
+1859	0.2334	Mendelian susceptibility to mycobacterial diseases due to complete IL12RB1 deficiency	ORPHA:319552
+1860	0.2303	Hemolytic disease of fetus and newborn, RH-induced	OMIM:619462
+1860	0.2303	Lymphatic malformation 6	OMIM:616843
+1860	0.2303	Coproporphyria	OMIM:121300
+1860	0.2303	Budd-Chiari syndrome	ORPHA:131
+1860	0.2303	Budd-Chiari syndrome	ORPHA:131
+1860	0.2303	Cholestasis, progressive familial intrahepatic 1	OMIM:211600
+1860	0.2303	Zimmermann-Laband syndrome	ORPHA:3473
+1860	0.2303	Adams-Oliver syndrome 5	OMIM:616028
+1860	0.2303	Symptomatic form of HFE-related hemochromatosis	ORPHA:465508
+1860	0.2303	Gaucher disease type 2	ORPHA:77260
+1860	0.2303	Hypopigmentation, organomegaly, and delayed myelination and development	OMIM:618541
+1860	0.2303	Cockayne syndrome, type B	OMIM:133540
+1860	0.2303	Cockayne syndrome type 3	ORPHA:90324
+1860	0.2303	Cockayne syndrome, type B	OMIM:133540
+1860	0.2303	Cockayne syndrome type 3	ORPHA:90324
+1860	0.2303	Cockayne syndrome type 3	ORPHA:90324
+1860	0.2303	Joubert syndrome with hepatic defect	ORPHA:1454
+1860	0.2303	Joubert syndrome with hepatic defect	ORPHA:1454
+1860	0.2303	COACH syndrome 1	OMIM:216360
+1860	0.2303	Johanson-Blizzard syndrome	OMIM:243800
+1860	0.2303	Prolidase deficiency	ORPHA:742
+1860	0.2303	Amyloidosis, 3 or more types	OMIM:105200
+1860	0.2303	Glycogen storage disease, type IXa2	OMIM:306000
+1860	0.2303	Glycogen storage disease IXc	OMIM:613027
+1860	0.2303	Spondyloepimetaphyseal dysplasia, Shohat type	OMIM:602557
+1860	0.2303	Encephalopathy due to prosaposin deficiency	ORPHA:139406
+1860	0.2303	Combined SAP deficiency	OMIM:611721
+1860	0.2303	Neonatal severe primary hyperparathyroidism	ORPHA:417
+1860	0.2303	Tyrosinemia type 1	ORPHA:882
+1860	0.2303	Phosphorylase kinase deficiency of liver and muscle, autosomal recessive	OMIM:261750
+1860	0.2303	Ectodermal dysplasia and immunodeficiency 2	OMIM:612132
+1860	0.2303	Sclerosing cholangitis, neonatal	OMIM:617394
+1860	0.2303	Nephronophthisis 19	OMIM:616217
+1860	0.2303	Portal hypertension, noncirrhotic, 1	OMIM:617068
+1860	0.2303	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	ORPHA:163746
+1860	0.2303	Cholesteryl ester storage disease	ORPHA:75234
+1860	0.2303	HFE hemochromatosis, modifier of	OMIM:235200
+1860	0.2303	Galactose epimerase deficiency	OMIM:230350
+1860	0.2303	Tangier disease	OMIM:205400
+1860	0.2303	Cholestasis, progressive familial intrahepatic 2	OMIM:601847
+1860	0.2303	Cholestasis, progressive familial intrahepatic 3	OMIM:602347
+1860	0.2303	Bile acid synthesis defect, congenital, 1	OMIM:607765
+1860	0.2303	Congenital bile acid synthesis defect type 1	ORPHA:79301
+1860	0.2303	Ornithine transcarbamylase deficiency	ORPHA:664
+1860	0.2303	B4GALT1-CDG	ORPHA:79332
+1860	0.2303	Biotinidase deficiency	OMIM:253260
+1860	0.2303	Budd-Chiari syndrome	ORPHA:131
+1860	0.2303	Ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis	OMIM:607626
+1860	0.2303	Neonatal ichthyosis-sclerosing cholangitis syndrome	ORPHA:59303
+1860	0.2303	Zimmermann-Laband syndrome	ORPHA:3473
+1860	0.2303	PPARG-related familial partial lipodystrophy	ORPHA:79083
+1860	0.2303	Opsismodysplasia	ORPHA:2746
+1860	0.2303	Proteasome-associated autoinflammatory syndrome 5	OMIM:619175
+1860	0.2303	Hemorrhagic diathesis due to antithrombin Pittsburgh	OMIM:613490
+1860	0.2303	?Amyloidosis, familial visceral	OMIM:105200
+1860	0.2303	Glycogen storage disease II	OMIM:232300
+1860	0.2303	Aspartylglucosaminuria	ORPHA:93
+1860	0.2303	Smith-Lemli-Opitz syndrome	OMIM:270400
+1860	0.2303	Desmosterolosis	ORPHA:35107
+1860	0.2303	Lipodystrophy, congenital generalized, type 1	OMIM:608594
+1860	0.2303	Spinocerebellar ataxia, autosomal recessive 21	OMIM:616719
+1860	0.2303	D-bifunctional protein deficiency	OMIM:261515
+1860	0.2303	Bile acid synthesis defect, congenital, 3	OMIM:613812
+1860	0.2303	Cholestasis, progressive familial intrahepatic, 10	OMIM:619868
+1860	0.2303	Mucopolysaccharidosis type IIIB (Sanfilippo B)	OMIM:252920
+1860	0.2303	Sialuria	OMIM:269921
+1860	0.2303	GM1-gangliosidosis, type III	OMIM:230650
+1860	0.2303	Mevalonic aciduria	ORPHA:29
+1860	0.2303	Neonatal severe primary hyperparathyroidism	ORPHA:417
+1860	0.2303	?Optic atrophy 11	OMIM:617302
+1860	0.2303	Mucopolysaccharidosis VII	OMIM:253220
+1860	0.2303	Mucopolysaccharidosis type 7	ORPHA:584
+1860	0.2303	Scheie syndrome	ORPHA:93474
+1860	0.2303	Hurler syndrome	ORPHA:93473
+1860	0.2303	Hurler-Scheie syndrome	ORPHA:93476
+1860	0.2303	Mucopolysaccharidosis Ih/s	OMIM:607015
+1860	0.2303	Zimmermann-Laband syndrome	ORPHA:3473
+1860	0.2303	Infantile liver failure syndrome 3	OMIM:618641
+1860	0.2303	Amyloidosis, renal	OMIM:105200
+1860	0.2303	CHOPS syndrome	OMIM:616368
+1860	0.2303	Amyloidosis, familial visceral	OMIM:105200
+1860	0.2303	Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities	OMIM:617913
+1860	0.2303	Oculoskeletodental syndrome	OMIM:618440
+1860	0.2303	Adams-Oliver syndrome 6	OMIM:616589
+1860	0.2303	Cholestasis, progressive familial intrahepatic, 7, with or without hearing loss	OMIM:619658
+1860	0.2303	Cholestasis, progressive familial intrahepatic, 12	OMIM:620010
+1860	0.2303	Hypertriglyceridemia, transient infantile	OMIM:614480
+1860	0.2303	Congenital disorder of glycosylation, type Ie	OMIM:608799
+1860	0.2303	Bile acid synthesis defect, congenital, 2	OMIM:235555
+1860	0.2303	Cystinosis, nephropathic	OMIM:219800
+1860	0.2303	Polycystic kidney disease 4, with or without hepatic disease	OMIM:263200
+1860	0.2303	Short-rib thoracic dysplasia 10 with or without polydactyly	OMIM:615630
+1860	0.2303	Zimmermann-Laband syndrome 1	OMIM:135500
+1860	0.2303	Zimmermann-Laband syndrome	ORPHA:3473
+1860	0.2303	Joubert syndrome with hepatic defect	ORPHA:1454
+1860	0.2303	Mucopolysaccharidosis type IIIC (Sanfilippo C)	OMIM:252930
+1860	0.2303	Mucopolysaccharidosis type IIIA (Sanfilippo A)	OMIM:252900
+1860	0.2303	Congenital disorder of glycosylation, type Ik	OMIM:608540
+1860	0.2303	Congenital disorder of glycosylation, type IIj	OMIM:613489
+1860	0.2303	Congenital disorder of glycosylation, type IIe	OMIM:608779
+1860	0.2303	Cholestasis, progressive familial intrahepatic, 9	OMIM:619849
+1860	0.2303	Mitochondrial complex I deficiency, nuclear type 1	OMIM:252010
+1860	0.2303	Refsum disease	ORPHA:773
+1860	0.2303	Mucopolysaccharidosis type VI (Maroteaux-Lamy)	OMIM:253200
+1860	0.2303	Joubert syndrome with hepatic defect	ORPHA:1454
+1860	0.2303	Mucolipidosis II alpha/beta	OMIM:252500
+1860	0.2303	Spondylometaphyseal dysplasia, axial	OMIM:602271
+1860	0.2303	Alacrimia-choreoathetosis-liver dysfunction syndrome	ORPHA:404454
+1860	0.2303	Trichohepatoneurodevelopmental syndrome	OMIM:618268
+1860	0.2303	Hyperlipoproteinemia, type 1D	OMIM:615947
+1860	0.2303	Refsum disease	ORPHA:773
+1860	0.2303	Mucopolysaccharidosis type IIID	OMIM:252940
+1860	0.2303	Joubert syndrome 33	OMIM:617767
+1860	0.2303	Joubert syndrome 21	OMIM:615636
+1860	0.2303	Hyperlipoproteinemia, type Ib	OMIM:207750
+1860	0.2303	Hemochromatosis, type 2A	OMIM:602390
+1860	0.2303	Spinocerebellar ataxia, autosomal recessive 20	OMIM:616354
+1860	0.2303	Familial partial lipodystrophy, Dunnigan type	ORPHA:2348
+1860	0.2303	Cardiofaciocutaneous syndrome	OMIM:115150
+1860	0.2303	Sialidosis type 1	ORPHA:812
+1860	0.2303	Short-rib thoracic dysplasia 15 with polydactyly	OMIM:617088
+1860	0.2303	Multiple sulfatase deficiency	ORPHA:585
+1860	0.2303	Multiple sulfatase deficiency	OMIM:272200
+1860	0.2303	Hajdu-Cheney syndrome	ORPHA:955
+1860	0.2303	Proteus syndrome, somatic	OMIM:176920
+1860	0.2303	Hemochromatosis, type 1	OMIM:235200
+1860	0.2303	Symptomatic form of HFE-related hemochromatosis	ORPHA:465508
+1860	0.2303	Biliary, renal, neurologic, and skeletal syndrome	OMIM:619534
+1860	0.2303	Intellectual developmental disorder, autosomal recessive 41	OMIM:615637
+1860	0.2303	CLOVE syndrome, somatic	OMIM:612918
+1990	0.2276	Mucopolysaccharidosis Ih	OMIM:607014
+1991	0.2272	Lipodystrophy, congenital generalized, type 3	OMIM:612526
+1991	0.2272	Noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia	OMIM:613563
+1991	0.2272	Lipoprotein lipase deficiency	OMIM:238600
+1991	0.2272	Alström syndrome	ORPHA:64
+1991	0.2272	Peroxisome biogenesis disorder 5A (Zellweger)	OMIM:614866
+1991	0.2272	Mucolipidosis type II	ORPHA:576
+1991	0.2272	Congenital disorder of glycosylation, type IIo	OMIM:616828
+1991	0.2272	Mucopolysaccharidosis II	OMIM:309900
+1999	0.2264	Mucopolysaccharidosis type 2, severe form	ORPHA:217085
+1999	0.2264	Mucopolysaccharidosis type 2, attenuated form	ORPHA:217093
+2001	0.2244	Hypoinsulinemic hypoglycemia and body hemihypertrophy	ORPHA:293964
+2002	0.2048	Progressive spondyloepimetaphyseal dysplasia-short stature-short fourth metatarsals-intellectual disability syndrome	ORPHA:457395
+2003	0.1967	Pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis	OMIM:219700
+2003	0.1967	Meckel syndrome 7	OMIM:267010
+2003	0.1967	Hepatorenocardiac degenerative fibrosis	OMIM:619902
+2003	0.1967	Galactosialidosis	OMIM:256540
+2003	0.1967	COG1-CDG	ORPHA:263508
+2003	0.1967	Cystic fibrosis lung disease, modifier of	OMIM:219700
+2003	0.1967	Spinal muscular atrophy-progressive myoclonic epilepsy syndrome	ORPHA:2590
+2003	0.1967	Spondyloepimetaphyseal dysplasia, Shohat type	ORPHA:93352
+2003	0.1967	Ichthyosis, congenital, autosomal recessive 4A	OMIM:601277
+2003	0.1967	Cystic fibrosis	OMIM:219700
+2003	0.1967	PCWH syndrome	OMIM:609136
+2003	0.1967	Galactokinase deficiency	ORPHA:79237
+2003	0.1967	Pycnodysostosis	ORPHA:763
+2003	0.1967	Kagami-Ogata syndrome due to paternal uniparental disomy of chromosome 14	ORPHA:96334
+2003	0.1967	Growth delay-intellectual disability-hepatopathy syndrome	ORPHA:541423
+2003	0.1967	Acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome	ORPHA:466794
+2003	0.1967	Congenital bile acid synthesis defect type 3	ORPHA:79302
+2003	0.1967	Sialuria	ORPHA:3166
+2003	0.1967	GM1 gangliosidosis type 1	ORPHA:79255
+2003	0.1967	Glycogen storage disease IV	OMIM:232500
+2003	0.1967	Retinitis pigmentosa 89	OMIM:618955
+2003	0.1967	Bent bone dysplasia syndrome	OMIM:614592
+2003	0.1967	Intellectual developmental disorder, X-linked syndromic, with pigmentary mosaicism and coarse facies	OMIM:301066
+2003	0.1967	Kagami-Ogata syndrome due to paternal uniparental disomy of chromosome 14	ORPHA:96334
+2003	0.1967	Sandhoff disease, infantile, juvenile, and adult forms	OMIM:268800
+2003	0.1967	Sandhoff disease, infantile form	ORPHA:309155
+2003	0.1967	DPM1-CDG	ORPHA:79322
+2003	0.1967	Peroxisome biogenesis disorder 11B	OMIM:614885
+2003	0.1967	COG7-CDG	ORPHA:79333
+2003	0.1967	COG5-CDG	ORPHA:263487
+2003	0.1967	Congenital disorder of glycosylation, type Il	OMIM:608776
+2003	0.1967	Intellectual disability-coarse face-macrocephaly-cerebellar hypotrophy syndrome	ORPHA:397709
+2003	0.1967	Polycystic kidney disease 5	OMIM:617610
+2003	0.1967	Macrocephaly-developmental delay syndrome	ORPHA:397612
+2003	0.1967	VPS11-related autosomal recessive hypomyelinating leukodystrophy	ORPHA:466934
