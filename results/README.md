@@ -1,0 +1,1 @@
+This directory contains all the PhEval processed disease and gene results for the LLM and Exomiser experiments.
