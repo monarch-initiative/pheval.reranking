@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spinocerebellar ataxia 1	OMIM:164400
+2	0.89	Friedreich ataxia	OMIM:229300
+3	0.86	Hereditary spastic paraplegia	OMIM:312910
+4	0.83	Ataxia-telangiectasia	OMIM:208900
+5	0.81	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+6	0.78	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+7	0.76	Amyotrophic lateral sclerosis 1	OMIM:105400
+8	0.74	Spastic tetraplegia, thin corpus callosum, and progressive microcephaly	OMIM:616657
+9	0.72	Wilson disease	OMIM:277900
+10	0.7	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450

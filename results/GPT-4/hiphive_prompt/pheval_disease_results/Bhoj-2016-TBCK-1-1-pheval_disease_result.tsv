@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.93	Aicardi-Goutières Syndrome	OMIM:225750
+3	0.92	Rett Syndrome	OMIM:312750
+4	0.9	Angelman Syndrome	OMIM:105830
+5	0.88	Coffin-Lowry Syndrome	OMIM:303600
+5	0.88	Fragile X Syndrome	OMIM:300624
+7	0.85	Peroxisome Biogenesis Disorder	OMIM:614879
+8	0.84	Zellweger Spectrum Disorder	OMIM:214100
+9	0.82	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+10	0.8	Severe Myoclonic Epilepsy in Infancy (Dravet Syndrome)	OMIM:607208

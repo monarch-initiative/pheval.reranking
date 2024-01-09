@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Distal arthrogryposis type 1	OMIM:108120
+2	0.92	Ventriculomegaly with Cystic Kidney Disease	OMIM:602018
+3	0.91	Pena-Shokeir syndrome type I	OMIM:208150
+4	0.89	Polymicrogyria with Optic Nerve Hypoplasia	OMIM:615752
+5	0.85	Gorlin Syndrome	OMIM:109400
+6	0.82	Joubert syndrome 10	OMIM:300804
+7	0.76	Congenital Disorder of Glycosylation, Type Id	OMIM:608093
+8	0.74	Kaufman Oculocerebrofacial Syndrome	OMIM:244450
+9	0.72	Hennekam syndrome	OMIM:235510
+10	0.71	Smith-Lemli-Opitz Syndrome	OMIM:270400

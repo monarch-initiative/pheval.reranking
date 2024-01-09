@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic Hyperkeratosis	OMIM:113800
+2	0.88	Palmoplantar Keratoderma, Epidermolytic	OMIM:144200
+3	0.82	Palmoplantar Keratoderma, Nonepidermolytic	OMIM:600962
+4	0.79	Keratoderma, Palmoplantar, Diffuse	OMIM:612908
+5	0.75	Keratoderma, Palmoplantar, Focal	OMIM:600962
+6	0.72	Bullous Congenital Ichthyosiform Erythroderma	OMIM:113800
+7	0.7	Palmoplantar Keratoderma, Mutilating, with Periorificial Keratotic Plaques	OMIM:124230
+8	0.68	Keratosis Palmaris et Plantaris	OMIM:175800
+9	0.65	Keratosis Follicularis Spinulosa Decalvans, X-Linked	OMIM:308800
+10	0.64	Butterfly-Shaped Pigment Dystrophy	OMIM:148700

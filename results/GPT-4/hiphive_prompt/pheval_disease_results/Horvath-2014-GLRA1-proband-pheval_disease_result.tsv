@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Huntington Disease	OMIM:143100
+2	0.92	Parkinson Disease	OMIM:168600
+3	0.88	Multiple System Atrophy	OMIM:146500
+4	0.86	Congenital anomalies of kidney and urinary tract	OMIM:610805
+5	0.82	Primary Familial Hypomagnesemia	OMIM:154020
+6	0.8	Dystonia Musculorum Deformans 1	OMIM:128100
+7	0.78	Marfan Syndrome	OMIM:154700
+8	0.76	Polycystic Kidney Disease	OMIM:173900
+9	0.73	Benign Familial Neonatal Seizures	OMIM:121200
+10	0.71	Wilson Disease	OMIM:277900

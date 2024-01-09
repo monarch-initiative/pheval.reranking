@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.85	Childhood-Onset Autism	OMIM:209850
+3	0.82	Fragile X Syndrome	OMIM:300624
+4	0.81	Angelman Syndrome	OMIM:105830
+5	0.8	Prader-Willi Syndrome	OMIM:176270
+6	0.78	Phelan-McDermid Syndrome	OMIM:606232
+7	0.76	Asperger Syndrome	OMIM:608638
+8	0.74	Smith-Magenis Syndrome	OMIM:182290
+9	0.73	Tuberous Sclerosis	OMIM:191100
+10	0.7	Down Syndrome	OMIM:190685

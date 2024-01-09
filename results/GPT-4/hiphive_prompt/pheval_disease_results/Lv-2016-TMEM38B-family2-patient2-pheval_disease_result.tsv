@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta	OMIM:166210
+2	0.93	Osteoporosis, Juvenile	OMIM:259750
+3	0.92	Cole-Carpenter Syndrome	OMIM:112240
+4	0.91	Hyperphosphatasia With Mental Retardation Syndrome	OMIM:239300
+5	0.9	Ehlers-Danlos Syndrome, Spondylodysplastic Type	OMIM:130070
+6	0.87	Craniometadiaphyseal Dysplasia, Wormian Bone Type	OMIM:269300
+7	0.86	Hypophosphatasia	OMIM:241500
+8	0.8	Pyle's Disease	OMIM:265900
+9	0.78	Idiopathic Juvenile Osteoporosis	OMIM:259750
+10	0.77	Maroteaux-Lamy Syndrome	OMIM:253200

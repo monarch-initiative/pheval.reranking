@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Rett Syndrome	OMIM:312750
+2	0.75	Angelman Syndrome	OMIM:105830
+3	0.73	Prader-Willi Syndrome	OMIM:176270
+4	0.72	Smith-Magenis syndrome	OMIM:182290
+5	0.71	Cri du Chat Syndrome	OMIM:123450
+6	0.7	Cornelia de Lange Syndrome	OMIM:122470
+7	0.68	CHARGE Syndrome	OMIM:214800
+8	0.66	Tay Sachs Disease	OMIM:272800
+9	0.65	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.63	Wolf-Hirschhorn Syndrome	OMIM:194190

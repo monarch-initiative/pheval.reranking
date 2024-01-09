@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome Type 3	OMIM:148820
+2	0.85	Ulnar-Mammary Syndrome	OMIM:181450
+3	0.82	Rapp-Hodgkin Syndrome	OMIM:129400
+4	0.8	Freeman-Sheldon Syndrome	OMIM:193700
+5	0.75	Cornelia De Lange Syndrome 1	OMIM:122470
+6	0.7	Piebaldism	OMIM:172800
+7	0.66	Blepharophimosis, Epicanthus Inversus And Ptosis	OMIM:110100
+8	0.63	Arthrogryposis Multiplex Congenita	OMIM:615065
+9	0.6	Melanocytic Nevus Syndrome, Congenital	OMIM:137550
+10	0.5	Hypopigmentation, Familial Progressive, With Milia	OMIM:307140

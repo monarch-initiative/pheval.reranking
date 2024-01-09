@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Niemann-Pick disease type C	OMIM:257220
+2	0.86	Fucosidosis	OMIM:230000
+3	0.85	GM1 gangliosidosis	OMIM:230500
+4	0.83	Mucopolysaccharidosis III	OMIM:252900
+5	0.81	Tay-Sachs disease	OMIM:272800
+6	0.79	Sandhoff disease	OMIM:268800
+7	0.76	Galactosialidosis	OMIM:256540
+8	0.74	Mucolipidosis III alpha/beta	OMIM:252600
+9	0.73	Gaucher disease type 3	OMIM:230800
+10	0.71	Wolman disease	OMIM:278000

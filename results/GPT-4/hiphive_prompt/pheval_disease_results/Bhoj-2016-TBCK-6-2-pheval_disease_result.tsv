@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Zellweger syndrome	OMIM:214100
+2	0.93	Smith-Magenis syndrome	OMIM:182290
+3	0.92	Williams syndrome	OMIM:194050
+4	0.91	Coffin-Lowry syndrome	OMIM:303600
+5	0.9	Noonan syndrome	OMIM:163950
+6	0.89	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.88	3M syndrome 1	OMIM:273750
+8	0.87	Russell-Silver syndrome	OMIM:180860
+9	0.86	Rett syndrome	OMIM:312750
+10	0.85	Cornelia de Lange syndrome 1	OMIM:122470

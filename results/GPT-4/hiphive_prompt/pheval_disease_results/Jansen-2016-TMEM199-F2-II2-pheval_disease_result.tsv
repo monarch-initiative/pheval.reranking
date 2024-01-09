@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Wilson disease	OMIM:277900
+2	0.82	Alpha-1-antitrypsin deficiency	OMIM:614450
+3	0.8	Progressive familial intrahepatic cholestasis	OMIM:211600
+4	0.78	Alagille syndrome	OMIM:118450
+5	0.75	Dubin-Johnson syndrome	OMIM:237500
+6	0.73	Primary hyperoxaluria	OMIM:259900
+7	0.7	Gilbert syndrome	OMIM:143500
+8	0.67	Familial hypercholesterolemia	OMIM:143890
+9	0.65	Crigler-Najjar syndrome type II	OMIM:606785
+10	0.63	Tyrosinemia type 1	OMIM:276700

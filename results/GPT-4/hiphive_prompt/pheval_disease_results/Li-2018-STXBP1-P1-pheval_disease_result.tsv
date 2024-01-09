@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Early Infantile Epileptic Encephalopathy	OMIM:308350
+2	0.91	Hypomyelination, Global Developmental Delay, And Hypotonia	OMIM:617241
+3	0.89	Epileptic Encephalopathy, Early Infantile, Type 3	OMIM:609304
+4	0.87	Pelizaeus-Merzbacher Disease	OMIM:312080
+5	0.84	Mental Retardation, Autosomal Recessive 33	OMIM:616311
+6	0.83	Multisystemic smooth muscle dysfunction syndrome	OMIM:613834
+7	0.81	Epileptic encephalopathy, early infantile, 16	OMIM:615338
+8	0.8	Leigh Syndrome	OMIM:256000
+9	0.75	DDX3X syndrome	OMIM:300958
+10	0.72	Hypomyelinating Leukodystrophy 4	OMIM:612233

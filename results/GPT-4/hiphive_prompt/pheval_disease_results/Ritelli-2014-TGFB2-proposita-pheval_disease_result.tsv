@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+2	0.8	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+4	0.7	Weill-Marchesani Syndrome	OMIM:277600
+4	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.7	Ehlers-Danlos Syndrome, Arthrochalasis Type	OMIM:130060
+7	0.6	Stickler Syndrome, Type I	OMIM:108300
+7	0.6	Homocystinuria	OMIM:236200
+9	0.5	Beals Syndrome	OMIM:121050
+9	0.5	Osteogenesis Imperfecta, Type I	OMIM:166200

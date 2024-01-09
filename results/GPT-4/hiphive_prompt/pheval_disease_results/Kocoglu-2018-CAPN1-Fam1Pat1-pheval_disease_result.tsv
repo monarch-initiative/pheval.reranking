@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 10	OMIM:603516
+2	0.87	Spinocerebellar ataxia 7	OMIM:164500
+3	0.85	Spinocerebellar ataxia 6	OMIM:183086
+4	0.83	Spastic Ataxia Charlevoix-Saguenay Type	OMIM:270550
+5	0.81	Charcot-Marie-Tooth Disease Type 2A1	OMIM:118210
+6	0.8	Ataxia-telangiectasia	OMIM:208900
+7	0.79	Freidreich ataxia 1	OMIM:229300
+8	0.75	Spinal muscular atrophy	OMIM:253300
+9	0.73	Leukoencephalopathy with vanishing white matter	OMIM:603896
+10	0.69	Huntington's disease	OMIM:143100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Neurofibromatosis, type 1	OMIM:162200
+2	0.81	Noonan syndrome	OMIM:163950
+3	0.78	Costello syndrome	OMIM:218040
+4	0.77	Legius syndrome	OMIM:611431
+5	0.76	Cardiofaciocutaneous syndrome	OMIM:115150
+6	0.74	Turner syndrome	OMIM:312560
+7	0.72	Leopard syndrome	OMIM:151100
+8	0.7	Watson syndrome	OMIM:193520
+9	0.69	Jacobsen syndrome	OMIM:147791
+10	0.68	Williams syndrome	OMIM:194050

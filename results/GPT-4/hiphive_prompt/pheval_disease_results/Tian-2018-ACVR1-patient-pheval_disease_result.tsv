@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Hypophosphatasia	OMIM:241500
+2	0.85	Albright Hereditary Osteodystrophy	OMIM:103580
+3	0.84	Pseudohypoparathyroidism Type 1a	OMIM:103580
+4	0.82	Familial Hypocalciuric Hypercalcemia	OMIM:145980
+5	0.81	Progressive Osseous Heteroplasia	OMIM:166350
+6	0.8	Osteogenesis Imperfecta	OMIM:166210
+7	0.79	Familial Tumoral Calcinosis	OMIM:211900
+8	0.76	Paget Disease of Bone	OMIM:167250
+9	0.75	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+10	0.71	Pseudopseudohypoparathyroidism	OMIM:612463

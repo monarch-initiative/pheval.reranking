@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.89	Kabuki syndrome 1	OMIM:147920
+3	0.88	Cohen syndrome	OMIM:216550
+4	0.87	Baraitser-Winter syndrome 1	OMIM:243310
+5	0.86	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.85	Mowat-Wilson syndrome	OMIM:235730
+7	0.84	Pitt-Hopkins syndrome	OMIM:610954
+8	0.83	Lujan-Fryns syndrome	OMIM:309520
+9	0.81	CHOPS syndrome	OMIM:616368
+10	0.8	Psychomotor retardation with distinctive facial features	OMIM:615866

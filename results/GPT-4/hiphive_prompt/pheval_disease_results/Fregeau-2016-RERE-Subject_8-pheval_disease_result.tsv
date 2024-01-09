@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Costello Syndrome	OMIM:218040
+2	0.9	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.89	Mowat-Wilson Syndrome	OMIM:235730
+4	0.85	CHARGE Syndrome	OMIM:214800
+5	0.82	Coffin-Siris Syndrome	OMIM:135900
+6	0.8	Craniofrontonasal Syndrome	OMIM:304110
+7	0.78	Cornelia de Lange Syndrome	OMIM:122470
+8	0.75	Noonan Syndrome	OMIM:163950
+9	0.72	Pitt-Hopkins Syndrome	OMIM:610954
+10	0.68	Fragile X Syndrome	OMIM:300624

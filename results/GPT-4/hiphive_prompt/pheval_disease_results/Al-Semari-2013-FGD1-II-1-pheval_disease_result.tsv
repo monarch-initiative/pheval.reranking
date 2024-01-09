@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.94	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.93	Smith-Magenis Syndrome	OMIM:182290
+4	0.92	Loeys-Dietz Syndrome	OMIM:609192
+5	0.91	Prader-Willi Syndrome	OMIM:176270
+6	0.9	Turner Syndrome	OMIM:312560
+7	0.88	Cohen Syndrome	OMIM:216550
+8	0.85	Beals Syndrome	OMIM:121050
+9	0.82	Williams Syndrome	OMIM:194050
+10	0.8	Rubinstein-Taybi Syndrome	OMIM:180849

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lowe Syndrome	OMIM:309000
+2	0.9	Renal Tubular Fanconi Syndrome	OMIM:134600
+3	0.85	Alport Syndrome	OMIM:301050
+4	0.82	Ocular Albinism	OMIM:300500
+5	0.8	Optic Atrophy 1	OMIM:165500
+6	0.78	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+7	0.75	Prader-Willi Syndrome	OMIM:176270
+8	0.7	Optic Atrophia with Idiopathic Intracranial Hypertension	OMIM:165550
+9	0.68	Cystinosis	OMIM:219800
+10	0.66	Marfan Syndrome	OMIM:154700

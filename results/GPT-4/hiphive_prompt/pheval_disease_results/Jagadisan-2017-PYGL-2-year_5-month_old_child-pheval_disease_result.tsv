@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Alagille syndrome 1	OMIM:118450
+2	0.84	Progressive familial intrahepatic cholestasis	OMIM:211600
+3	0.82	Dubin-Johnson syndrome	OMIM:237500
+4	0.81	Wilson disease	OMIM:277900
+5	0.78	Citrullinemia type I	OMIM:215700
+6	0.77	Tyrosinemia type I	OMIM:276700
+7	0.75	Familial hypercholesterolemia	OMIM:143880
+8	0.74	Hemophagocytic lymphohistiocytosis	OMIM:267700
+9	0.72	Primary hyperoxaluria	OMIM:259900
+10	0.7	Maple syrup urine disease	OMIM:248600

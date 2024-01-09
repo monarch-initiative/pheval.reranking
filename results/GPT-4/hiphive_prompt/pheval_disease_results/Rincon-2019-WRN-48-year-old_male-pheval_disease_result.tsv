@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Alstrom syndrome	OMIM:203800
+2	0.97	Marfan syndrome	OMIM:154700
+3	0.96	Metabolic syndrome X	OMIM:605552
+4	0.95	Pseudoachondroplasia	OMIM:177170
+5	0.92	Werner Syndrome	OMIM:277700
+6	0.91	Familial partial lipodystrophy	OMIM:151660
+7	0.9	Leptin receptor deficiency	OMIM:614963
+8	0.89	Turner Syndrome	OMIM:300582
+9	0.87	Stickler Syndrome	OMIM:108300
+10	0.85	Bardet-Biedl Syndrome	OMIM:209900

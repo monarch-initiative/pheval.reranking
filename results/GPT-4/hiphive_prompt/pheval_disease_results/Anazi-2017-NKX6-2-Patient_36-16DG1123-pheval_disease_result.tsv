@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.92	Cockayne syndrome	OMIM:216400
+3	0.91	Rett syndrome	OMIM:312750
+4	0.9	Vanishing white matter disease	OMIM:603896
+5	0.87	Canavan disease	OMIM:271900
+6	0.85	Krabbe disease	OMIM:245200
+7	0.84	Adrenoleukodystrophy	OMIM:300100
+8	0.81	Neurodegeneration with brain iron accumulation	OMIM:234200
+9	0.79	Metachromatic leukodystrophy	OMIM:250100
+10	0.75	Aicardi-Goutieres syndrome	OMIM:615010

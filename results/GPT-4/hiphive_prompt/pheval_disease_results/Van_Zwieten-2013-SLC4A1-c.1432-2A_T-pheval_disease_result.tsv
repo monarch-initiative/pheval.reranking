@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spherocytosis	OMIM:182900
+2	0.93	Pyruvate Kinase Deficiency of Red Cells	OMIM:266200
+3	0.91	Congenital Dyserythropoietic Anemia	OMIM:613673
+4	0.89	Ovalocytosis, Southeast Asian	OMIM:166900
+5	0.88	Elliptocytosis 2	OMIM:130600
+6	0.87	Glycolylneuraminic Acid Deficiency	OMIM:150550
+7	0.86	Anemia, X-Linked, with or without Neutropenia and/or Platelet Abnormalities	OMIM:300835
+8	0.83	Elliptocytosis 3	OMIM:608448
+9	0.81	Anemia, X-Linked, without Thrombocytopenia	OMIM:300835
+10	0.8	Anemia, Hemolytic, due to G6PD Deficiency	OMIM:305900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.94	Mowat-Wilson syndrome	OMIM:235730
+3	0.92	Larsen syndrome	OMIM:150250
+4	0.91	Freeman-Sheldon syndrome	OMIM:193700
+5	0.86	Apert syndrome	OMIM:101200
+6	0.83	Desbuquois dysplasia	OMIM:251450
+7	0.82	Pallister-Hall syndrome	OMIM:146510
+8	0.8	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+9	0.79	Opitz G/BBB syndrome	OMIM:145410
+10	0.75	Carpenter syndrome	OMIM:201000

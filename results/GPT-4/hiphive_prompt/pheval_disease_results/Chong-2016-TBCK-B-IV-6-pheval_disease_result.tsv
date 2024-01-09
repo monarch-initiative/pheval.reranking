@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Mowat-Wilson Syndrome	OMIM:235730
+2	0.86	Cohen Syndrome	OMIM:216550
+3	0.84	Aicardi Syndrome	OMIM:304050
+4	0.81	Walker-Warburg Syndrome	OMIM:236670
+5	0.79	Rett syndrome	OMIM:312750
+6	0.77	Cornelia de Lange syndrome	OMIM:122470
+7	0.75	Zellweger Syndrome	OMIM:214100
+8	0.73	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.71	Charcot-Marie-Tooth disease	OMIM:118200
+10	0.69	Pitt-Hopkins Syndrome	OMIM:610954

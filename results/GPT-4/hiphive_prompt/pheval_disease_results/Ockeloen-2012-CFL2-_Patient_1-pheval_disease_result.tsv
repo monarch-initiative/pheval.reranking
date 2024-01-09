@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinal Muscular Atrophy	OMIM:253300
+2	0.94	Myasthenia Gravis	OMIM:254200
+3	0.92	Congenital Muscular Dystrophy	OMIM:613205
+4	0.9	Amyotrophic Lateral Sclerosis	OMIM:105400
+5	0.89	Nemaline Myopathy	OMIM:256030
+6	0.88	Limb-Girdle Muscular Dystrophy	OMIM:253600
+7	0.86	Duchenne Muscular Dystrophy	OMIM:310200
+8	0.84	Congenital Fiber-Type Disproportion	OMIM:255310
+9	0.82	Congenital Myopathy with Excess of Thin Filaments	OMIM:612540
+10	0.81	Facioscapulohumeral Muscular Dystrophy	OMIM:158900

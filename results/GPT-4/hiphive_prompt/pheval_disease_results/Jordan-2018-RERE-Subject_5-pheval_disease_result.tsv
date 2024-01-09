@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Congenital central hypoventilation syndrome	OMIM:209880
+2	0.95	CHARGE syndrome	OMIM:214800
+3	0.93	Bardet-Biedl syndrome	OMIM:209900
+4	0.91	Noonan syndrome	OMIM:163950
+5	0.89	Crouzon syndrome	OMIM:123500
+6	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.85	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.83	Timothy syndrome	OMIM:601005
+9	0.81	Cornelia de Lange syndrome	OMIM:122470
+10	0.79	Rett syndrome	OMIM:312750

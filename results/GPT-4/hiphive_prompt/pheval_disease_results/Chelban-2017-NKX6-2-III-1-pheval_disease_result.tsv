@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.912	Pelizeaus-Merzbacher disease	OMIM:312080
+2	0.906	Metachromatic leukodystrophy	OMIM:250100
+3	0.895	Freidreich ataxia	OMIM:229300
+4	0.873	Charcot-Marie-Tooth disease	OMIM:118200
+5	0.87	Leigh syndrome	OMIM:256000
+6	0.865	Adrenoleukodystrophy	OMIM:300100
+7	0.85	Ataxia-telangiectasia	OMIM:208900
+8	0.846	Pelizaeus-Merzbacher-like disease	OMIM:608804
+9	0.842	Refsum disease	OMIM:266500
+10	0.836	Alexander disease	OMIM:203450

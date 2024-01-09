@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris Syndrome	OMIM:135900
+2	0.93	Smith-Magenis syndrome	OMIM:182290
+3	0.91	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.91	CHARGE syndrome	OMIM:214800
+5	0.9	Cornelia de Lange syndrome	OMIM:122470
+6	0.88	Pitt-Hopkins syndrome	OMIM:610954
+7	0.86	Mowat-Wilson syndrome	OMIM:235730
+8	0.85	Angelman syndrome	OMIM:105830
+9	0.81	Fragile X syndrome	OMIM:300624
+9	0.81	Rett syndrome	OMIM:312750

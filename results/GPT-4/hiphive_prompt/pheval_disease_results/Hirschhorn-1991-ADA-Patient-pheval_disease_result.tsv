@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.88	Hypogammaglobulinemia	OMIM:613506
+3	0.86	Common variable immunodeficiency	OMIM:607594
+4	0.83	Selective IgA deficiency	OMIM:137100
+5	0.79	X-linked agammaglobulinemia	OMIM:300755
+6	0.76	Immunodeficiency due to defect in CD3-gamma	OMIM:186740
+7	0.72	Immunodeficiency with hyper IgM	OMIM:300386
+8	0.68	Major histocompatibility complex class II deficiency	OMIM:209920
+9	0.66	Bare lymphocyte syndrome	OMIM:614534
+10	0.62	Chronic granulomatous disease	OMIM:306400

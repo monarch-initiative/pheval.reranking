@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Coffin-Lowry syndrome	OMIM:303600
+2	0.92	Rett syndrome	OMIM:312750
+3	0.89	Smith-Magenis syndrome	OMIM:182290
+4	0.88	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.87	Mucopolysaccharidosis type 3	OMIM:252900
+6	0.85	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.82	Sanfilippo syndrome	OMIM:252900
+8	0.81	Moebius syndrome	OMIM:157900
+9	0.79	Angelman syndrome	OMIM:105830
+10	0.75	Prader-Willi syndrome	OMIM:176270

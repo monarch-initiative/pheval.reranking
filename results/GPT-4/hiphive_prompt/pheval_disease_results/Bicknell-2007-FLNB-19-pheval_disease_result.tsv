@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+2	0.89	Diastrophic Dysplasia	OMIM:222600
+3	0.88	Larsen syndrome	OMIM:150250
+4	0.86	Multiple Epiphyseal Dysplasia	OMIM:132400
+5	0.84	Cleidocranial Dysplasia	OMIM:119600
+6	0.83	Spondyloepimetaphyseal Dysplasia	OMIM:271665
+7	0.81	Pseudoachondroplasia	OMIM:177170
+8	0.79	Campomelic Dysplasia	OMIM:114290
+9	0.78	Achondroplasia	OMIM:100800
+10	0.77	Ellis-van Creveld syndrome	OMIM:225500

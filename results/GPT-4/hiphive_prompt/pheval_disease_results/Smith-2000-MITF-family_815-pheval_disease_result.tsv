@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome, Type 2A	OMIM:193510
+2	0.88	Waardenburg Syndrome, Type 1	OMIM:193500
+3	0.78	Waardenburg Syndrome, Type 4A	OMIM:277580
+4	0.73	Piebald Trait	OMIM:172800
+5	0.67	Waardenburg Syndrome, Type 4C	OMIM:613266
+6	0.65	Waardenburg Syndrome, Type 3	OMIM:148820
+7	0.59	Waardenburg Syndrome, Type 2E	OMIM:611584
+8	0.58	Waardenburg Syndrome, Type 4B	OMIM:613265
+9	0.52	Tietz Syndrome	OMIM:103500
+10	0.45	Waardenburg Syndrome, Type 2D	OMIM:608890

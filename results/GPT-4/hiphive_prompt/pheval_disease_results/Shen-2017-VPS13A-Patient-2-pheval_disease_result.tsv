@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Huntington disease	OMIM:143100
+2	0.88	Neurodegeneration with brain iron accumulation 2B	OMIM:610217
+3	0.86	Infantile neuroaxonal dystrophy	OMIM:256600
+4	0.82	Lesch-Nyhan syndrome	OMIM:300322
+5	0.8	Neuroacanthocytosis	OMIM:200150
+6	0.78	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+7	0.75	Friedreich ataxia	OMIM:229300
+8	0.73	Parkinson disease	OMIM:168600
+9	0.72	Chorea-acanthocytosis	OMIM:200150
+10	0.7	Niemann-Pick disease type C	OMIM:257220

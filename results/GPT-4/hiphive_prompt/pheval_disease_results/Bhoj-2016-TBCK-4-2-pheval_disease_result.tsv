@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Prader-Willi syndrome	OMIM:176270
+2	0.9	Rett syndrome	OMIM:312750
+3	0.86	Fragile X syndrome	OMIM:300624
+4	0.84	Angelman syndrome	OMIM:105830
+5	0.83	Down syndrome	OMIM:190685
+6	0.82	Phelan-McDermid syndrome	OMIM:606232
+7	0.8	Williams syndrome	OMIM:194050
+8	0.78	Coffin-Lowry syndrome	OMIM:303600
+9	0.75	Smith-Magenis syndrome	OMIM:182290
+10	0.73	Cornelia de Lange syndrome	OMIM:122470

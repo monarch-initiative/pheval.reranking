@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Progressive Familial Intrahepatic Cholestasis	OMIM:211600
+2	0.9	Alagille syndrome	OMIM:118450
+3	0.87	Wilson disease	OMIM:277900
+4	0.85	Primary biliary cholangitis	OMIM:109720
+5	0.83	Dubin-Johnson syndrome	OMIM:237500
+6	0.82	Gilbert syndrome	OMIM:143500
+7	0.8	Autoimmune hepatitis	OMIM:613148
+8	0.78	Hemochromatosis	OMIM:235200
+9	0.75	Cystic fibrosis	OMIM:219700
+10	0.73	Primary sclerosing cholangitis	OMIM:613806

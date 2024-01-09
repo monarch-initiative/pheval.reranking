@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Severe Combined Immunodeficiency	OMIM:102700
+2	0.95	Common Variable Immunodeficiency	OMIM:607594
+3	0.94	X-linked Agammaglobulinemia	OMIM:300755
+4	0.93	IgA Deficiency, Selective	OMIM:137100
+5	0.91	Myasthenia Gravis	OMIM:254200
+6	0.88	Amyotrophic Lateral Sclerosis	OMIM:105400
+7	0.86	Primary Lateral Sclerosis	OMIM:611637
+8	0.82	Frederickson Ataxia	OMIM:229300
+9	0.81	Spinocerebellar Ataxia	OMIM:164400
+10	0.8	Combined Immunodeficiency	OMIM:102700

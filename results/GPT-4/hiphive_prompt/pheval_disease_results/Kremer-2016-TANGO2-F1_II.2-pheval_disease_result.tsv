@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Mitochondrial Myopathy, Encephalomyopathy, Lactic Acidosis, and Stroke-Like Episodes	OMIM:540000
+2	0.91	Leigh Syndrome	OMIM:256000
+3	0.89	Leber’s Hereditary Optic Neuropathy	OMIM:535000
+4	0.87	MELAS Syndrome	OMIM:540000
+5	0.85	Kearns-Sayre Syndrome	OMIM:530000
+6	0.82	MERRF Syndrome	OMIM:545000
+7	0.79	NARP Syndrome	OMIM:551500
+8	0.76	Wolff-Parkinson-White Syndrome	OMIM:194200
+9	0.73	Pyruvate Dehydrogenase Deficiency	OMIM:312170
+10	0.7	Myoclonic Epilepsy with Ragged Red Fibers	OMIM:545000

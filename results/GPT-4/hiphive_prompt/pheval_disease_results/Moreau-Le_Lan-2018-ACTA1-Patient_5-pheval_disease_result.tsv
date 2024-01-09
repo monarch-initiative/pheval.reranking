@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	SMA Proximal Childhood	OMIM:253300
+2	0.85	Kearns-Sayre Syndrome	OMIM:530000
+3	0.83	Spinal Muscular Atrophy	OMIM:253550
+4	0.81	Andersen-Tawil Syndrome	OMIM:170390
+5	0.8	Congenital Muscular Dystrophy	OMIM:613205
+6	0.77	Myotonic Dystrophy 1	OMIM:160900
+7	0.75	Myasthenia Gravis	OMIM:254200
+8	0.72	Charcot-Marie-Tooth Disease	OMIM:118220
+9	0.7	Amyotrophic Lateral Sclerosis	OMIM:105400
+10	0.68	Prader-Willi Syndrome	OMIM:176270

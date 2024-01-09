@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Hereditary Elliptocytosis	OMIM:611804
+2	0.95	Hereditary Spherocytosis	OMIM:182900
+3	0.89	Glucose-6-Phosphate Dehydrogenase Deficiency	OMIM:300908
+4	0.86	Congenital Dyserythropoietic Anemia	OMIM:224120
+5	0.85	Beta Thalassemia	OMIM:613985
+6	0.81	Pyruvate Kinase Deficiency	OMIM:266200
+7	0.79	Gilbert Syndrome	OMIM:143500
+8	0.77	Autoimmune Hemolytic Anemia	OMIM:612378
+9	0.75	Hereditary Persistence of Fetal Hemoglobin	OMIM:141749
+10	0.71	Hemolytic Uremic Syndrome	OMIM:605241

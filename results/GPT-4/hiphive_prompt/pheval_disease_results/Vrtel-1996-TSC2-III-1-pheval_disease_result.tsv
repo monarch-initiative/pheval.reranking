@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Tuberous Sclerosis 1	OMIM:191100
+2	0.91	Tuberous Sclerosis 2	OMIM:613254
+3	0.85	Hypomelanosis of Ito	OMIM:300337
+4	0.82	Waardenburg Syndrome Type 2a	OMIM:193510
+5	0.81	Jones Syndrome	OMIM:259750
+6	0.75	Periodontitis 1, Juvenile	OMIM:170650
+7	0.72	Piebald Trait	OMIM:172800
+8	0.71	Amelogenesis Imperfecta, Type 1a	OMIM:104530
+9	0.65	Bork Syndrome	OMIM:210600
+10	0.63	Hermansky-Pudlak Syndrome 1	OMIM:203300

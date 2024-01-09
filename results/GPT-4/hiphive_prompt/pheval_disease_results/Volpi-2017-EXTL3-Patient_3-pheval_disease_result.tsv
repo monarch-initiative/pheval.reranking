@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Hypophosphatasia	OMIM:241500
+2	0.91	Pseudoachondroplasia	OMIM:177170
+3	0.89	Stickler Syndrome	OMIM:108300
+4	0.87	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.86	Prader-Willi Syndrome	OMIM:176270
+6	0.84	Osteogenesis Imperfecta	OMIM:166200
+7	0.82	Langer-Giedion Syndrome	OMIM:150230
+8	0.8	Duchenne Muscular Dystrophy	OMIM:310200
+9	0.78	Cornelia de Lange Syndrome	OMIM:122470
+10	0.76	Williams Syndrome	OMIM:194050

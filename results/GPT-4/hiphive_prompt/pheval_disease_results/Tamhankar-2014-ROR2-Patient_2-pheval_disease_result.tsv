@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wolf-Hirschhorn Syndrome	OMIM:194190
+2	0.93	Jacobsen Syndrome	OMIM:147791
+3	0.91	3C Syndrome	OMIM:220210
+4	0.9	Nager Syndrome	OMIM:154400
+5	0.87	Cranioectodermal Dysplasia	OMIM:218330
+6	0.85	Bobble-Head Doll Syndrome	OMIM:251450
+7	0.82	Orofaciodigital Syndrome Type 1	OMIM:311200
+8	0.81	Fryns Syndrome	OMIM:229850
+9	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+10	0.79	Levy-Hollister Syndrome	OMIM:246560

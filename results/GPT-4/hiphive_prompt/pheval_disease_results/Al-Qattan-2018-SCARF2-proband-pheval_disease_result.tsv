@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Blepharophimosis Intellectual Disability Syndrome SBBYS Type	OMIM:603736
+2	0.89	Intellectual Disability with Dysmorphism	OMIM:615073
+3	0.88	Nail Disorder, Nonsyndromic Congenital 10	OMIM:618531
+4	0.87	Distal Arthrogryposis Type 2A	OMIM:108120
+5	0.85	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+6	0.84	Stickler Syndrome, Type I	OMIM:108300
+6	0.84	3M Syndrome	OMIM:273750
+8	0.83	Distal Arthrogryposis Type 2B	OMIM:601680
+9	0.81	Freeman-Sheldon Syndrome	OMIM:193700
+10	0.8	Mowat-Wilson Syndrome	OMIM:235730

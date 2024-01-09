@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Pfeiffer syndrome	OMIM:101600
+2	0.88	Apert syndrome	OMIM:101200
+3	0.87	Crouzon syndrome	OMIM:123500
+4	0.85	Saethre-Chotzen syndrome	OMIM:101400
+5	0.83	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.8	Noonan syndrome	OMIM:163950
+7	0.78	CHARGE syndrome	OMIM:214800
+8	0.72	Sotos syndrome	OMIM:117550
+9	0.71	22q11.2 deletion syndrome	OMIM:192430
+10	0.7	Prader-Willi syndrome	OMIM:176270

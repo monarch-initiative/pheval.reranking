@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Brugada Syndrome 1	OMIM:601144
+2	0.92	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.91	Long QT Syndrome 1	OMIM:192500
+4	0.89	Autosomal Dominant Progressive External Ophthalmoplegia With Mitochondrial DNA Deletions	OMIM:157640
+5	0.87	Atrial Fibrillation, Familial, 1	OMIM:608583
+6	0.84	Mitochondrial Complex IV Deficiency	OMIM:220110
+7	0.81	Spinocerebellar Ataxia, Autosomal Recessive 2	OMIM:213200
+8	0.8	Andersen-Tawil Syndrome	OMIM:170390
+9	0.78	Paroxysmal Extreme Pain Disorder	OMIM:167400
+10	0.76	Episodic Ataxia, Type 2	OMIM:108500

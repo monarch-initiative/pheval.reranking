@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rett Syndrome	OMIM:312750
+2	0.88	Angelman Syndrome	OMIM:105830
+3	0.85	Lennox-Gastaut Syndrome	OMIM:606369
+4	0.84	Coffin-Lowry Syndrome	OMIM:303600
+5	0.83	Mowat-Wilson Syndrome	OMIM:235730
+6	0.81	Aicardi Syndrome	OMIM:304050
+7	0.78	Zellweger Syndrome	OMIM:214100
+8	0.76	West Syndrome	OMIM:308350
+9	0.75	Pitt-Hopkins Syndrome	OMIM:610954
+10	0.72	Cornelia de Lange Syndrome	OMIM:122470

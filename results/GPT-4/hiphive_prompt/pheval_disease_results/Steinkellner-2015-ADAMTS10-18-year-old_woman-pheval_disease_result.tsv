@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Stickler Syndrome, Type 1	OMIM:108300
+2	0.9	Marfan Syndrome	OMIM:154700
+3	0.87	Beals Syndrome	OMIM:121050
+3	0.87	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+5	0.85	Osteogenesis Imperfecta, Type 1	OMIM:166200
+6	0.84	Larsen Syndrome	OMIM:150250
+7	0.8	Weill-Marchesani Syndrome	OMIM:277600
+8	0.77	Spherophakia-Brachymorphia Syndrome	OMIM:269400
+9	0.76	Muscular Dystrophy-Dystroglycanopathy	OMIM:613151
+10	0.75	Congenital Contractural Arachnodactyly	OMIM:121050

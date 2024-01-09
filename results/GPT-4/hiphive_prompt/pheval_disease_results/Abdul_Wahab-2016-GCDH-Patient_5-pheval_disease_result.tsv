@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Glutaric aciduria Type 1	OMIM:231670
+2	0.92	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+3	0.88	Glutaric aciduria Type 2	OMIM:231680
+4	0.85	Alexander disease	OMIM:203450
+5	0.83	Canavan disease	OMIM:271900
+6	0.81	Congenital muscular dystonia 1	OMIM:602127
+7	0.79	Myofibrillar myopathy	OMIM:601419
+8	0.77	Holocarboxylase synthetase deficiency	OMIM:253270
+9	0.76	Severe neonatal-onset encephalopathy with microcephaly	OMIM:616645
+10	0.75	Propionic acidemia	OMIM:606054

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hallermann-Streiff Syndrome	OMIM:234100
+2	0.93	Alopecia-Intellectual Disability Syndrome	OMIM:615866
+3	0.91	Marshall syndrome	OMIM:154780
+4	0.88	Rieger Syndrome	OMIM:180500
+5	0.87	Coffin-Lowry Syndrome	OMIM:303600
+6	0.85	Woolly Hair Syndrome	OMIM:194300
+7	0.83	Crouzon Syndrome	OMIM:123500
+8	0.81	Cartilage-Hair Hypoplasia	OMIM:250250
+9	0.79	SHORT syndrome	OMIM:269880
+10	0.75	Pallister-Hall Syndrome	OMIM:146510

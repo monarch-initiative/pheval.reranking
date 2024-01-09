@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Aicardi-Goutieres Syndrome	OMIM:225750
+2	0.94	Zellweger Syndrome	OMIM:214100
+3	0.93	Rett Syndrome	OMIM:312750
+4	0.92	Alpers Syndrome	OMIM:203700
+5	0.91	Pelizaeus-Merzbacher Disease	OMIM:312080
+6	0.9	Canavan Disease	OMIM:271900
+7	0.88	Megalencephalic Leukoencephalopathy with Subcortical Cysts	OMIM:604004
+8	0.87	Leigh Syndrome	OMIM:256000
+9	0.85	Alexander disease	OMIM:203450
+10	0.84	Congenital Muscular Dystrophy	OMIM:613205

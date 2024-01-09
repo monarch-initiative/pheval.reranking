@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Cornelia De Lange Syndrome 1	OMIM:122470
+2	0.89	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.87	Coffin-Siris Syndrome 1	OMIM:135900
+4	0.86	Angelman Syndrome	OMIM:105830
+5	0.83	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.82	Williams Syndrome	OMIM:194050
+7	0.81	Velocardiofacial Syndrome	OMIM:192430
+8	0.79	Kabuki Syndrome 1	OMIM:147920
+9	0.78	Joubert Syndrome 1	OMIM:213300
+10	0.77	Noonan Syndrome 1	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Seckel Syndrome	OMIM:210600
+2	0.85	Cockayne Syndrome	OMIM:216400
+3	0.84	Cornelia de Lange Syndrome	OMIM:122470
+4	0.82	Pfeiffer Syndrome	OMIM:101600
+5	0.81	Hallermann-Streiff Syndrome	OMIM:234100
+6	0.8	Sotos Syndrome	OMIM:117550
+7	0.78	Mowat-Wilson Syndrome	OMIM:235730
+8	0.75	Apert Syndrome	OMIM:101200
+9	0.72	'Piebald Trait-Sensorineural Deafness Syndrome	OMIM:172800
+10	0.7	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome	OMIM:603387

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Chloride Diarrhea	OMIM:214700
+2	0.8	Bartter Syndrome, Type 1, Antenatal	OMIM:601678
+3	0.7	Bartter Syndrome, Type 3	OMIM:607364
+3	0.7	Properdin Deficiency, X-Linked	OMIM:300852
+5	0.6	Transient Neonatal Diabetes Mellitus	OMIM:601410
+5	0.6	Hyperinsulinemic Hypoglycemia, Familial, 1	OMIM:256450
+7	0.5	Hypothyroidism, Congenital, Nongoitrous, 4	OMIM:275100
+8	0.4	Graves Disease, Susceptibility To, 1	OMIM:275000
+8	0.4	Cystic Fibrosis	OMIM:219700
+10	0.3	Diabetes Mellitus, Transient Neonatal, 3	OMIM:610582

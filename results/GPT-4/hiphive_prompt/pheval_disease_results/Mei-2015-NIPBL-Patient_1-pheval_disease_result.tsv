@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Coffin-Siris Syndrome	OMIM:135900
+2	0.91	Cornelia De Lange Syndrome	OMIM:122470
+3	0.88	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.85	Smith-Magenis Syndrome	OMIM:182290
+5	0.82	Mowat-Wilson Syndrome	OMIM:235730
+6	0.8	RASopathies	OMIM:190020
+7	0.78	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.76	Williams Syndrome	OMIM:194050
+9	0.75	Millennium Syndrome	OMIM:247410
+10	0.74	Chromosome 18p Deletion Syndrome	OMIM:146390

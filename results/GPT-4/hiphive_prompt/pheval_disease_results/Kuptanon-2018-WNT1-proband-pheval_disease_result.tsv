@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta	OMIM:166200
+2	0.9	Ehlers-Danlos Syndrome, Musculocontractural Type 1	OMIM:601776
+3	0.88	Bruck Syndrome 1	OMIM:259450
+4	0.85	Raine Syndrome	OMIM:259775
+5	0.8	Congenital Contractural Arachnodactyly	OMIM:121050
+6	0.79	Crouzon Syndrome With Acanthosis Nigricans	OMIM:612247
+7	0.78	Coffin-Siris Syndrome	OMIM:135900
+8	0.76	Cole-Carpenter Syndrome 1	OMIM:112240
+9	0.75	Autosomal recessive cutis laxa type III	OMIM:614437
+10	0.7	Multiple Sulfatase Deficiency	OMIM:272200

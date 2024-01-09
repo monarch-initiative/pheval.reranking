@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.95	Coffin-Siris syndrome 1	OMIM:135900
+3	0.93	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.92	Noonan syndrome 1	OMIM:163950
+5	0.89	Ohdo syndrome 1	OMIM:249620
+6	0.87	Kabuki syndrome 1	OMIM:147920
+7	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.83	Williams syndrome	OMIM:194050
+9	0.81	Floating-Harbor syndrome	OMIM:136140
+10	0.79	Saethre-Chotzen syndrome	OMIM:101400

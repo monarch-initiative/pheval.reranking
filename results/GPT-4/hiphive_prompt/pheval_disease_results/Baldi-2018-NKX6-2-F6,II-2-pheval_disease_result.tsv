@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.96	Canavan Disease	OMIM:271900
+3	0.95	Alexander Disease	OMIM:203450
+4	0.94	Zellweger Syndrome	OMIM:214100
+5	0.92	Metachromatic Leukodystrophy	OMIM:250100
+6	0.91	Krabbe Disease	OMIM:245200
+7	0.89	Cockayne Syndrome	OMIM:216400
+8	0.87	Rett Syndrome	OMIM:312750
+9	0.85	Neuroaxonal Dystrophy	OMIM:256600
+10	0.84	Leigh Syndrome	OMIM:256000

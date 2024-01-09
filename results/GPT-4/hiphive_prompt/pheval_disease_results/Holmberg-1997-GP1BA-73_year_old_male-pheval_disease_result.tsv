@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bernard-Soulier Syndrome	OMIM:231200
+2	0.92	Gray Platelet Syndrome	OMIM:139090
+3	0.89	Bleeding Disorder, Platelet-Type, 16	OMIM:614514
+4	0.88	Thrombasthenia of Glanzmann and Naegeli	OMIM:273800
+5	0.87	Thrombocytopenia 2	OMIM:188000
+6	0.86	Paris-Trousseau Syndrome	OMIM:188025
+7	0.84	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+8	0.82	Purpura, Thrombotic Thrombocytopenic	OMIM:274150
+9	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.78	Hermansky-Pudlak syndrome	OMIM:203300

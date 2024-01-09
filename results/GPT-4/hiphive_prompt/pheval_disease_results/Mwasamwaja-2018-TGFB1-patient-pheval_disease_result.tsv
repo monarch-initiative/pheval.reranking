@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Muscular Dystrophy	OMIM:310200
+2	0.92	Hyper IgM Syndrome	OMIM:308230
+3	0.9	Paget Disease of Bone	OMIM:167250
+4	0.88	Hyperostosis Frontalis Interna	OMIM:144800
+5	0.87	Nephrolithiasis	OMIM:167030
+6	0.84	Alzheimer Disease	OMIM:104300
+7	0.83	Osteoarthritis	OMIM:165720
+8	0.81	Congenital Ptosis of Cranial Nerves III, IV and VI	OMIM:611597
+9	0.8	Osteopetrosis	OMIM:611497
+10	0.79	Graves Disease	OMIM:275000

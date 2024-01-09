@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.9	Hypochondroplasia	OMIM:146000
+3	0.8	Schwartz-Jampel Syndrome	OMIM:255800
+4	0.75	Metaphyseal Anadysplasia	OMIM:602111
+5	0.7	Osteogenesis Imperfecta	OMIM:166200
+5	0.7	Achondroplasia	OMIM:100800
+7	0.65	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+8	0.6	Multiple Epiphyseal Dysplasia	OMIM:235100
+9	0.55	Pfeiffer Syndrome	OMIM:101600
+10	0.5	Craniosynostosis	OMIM:123100

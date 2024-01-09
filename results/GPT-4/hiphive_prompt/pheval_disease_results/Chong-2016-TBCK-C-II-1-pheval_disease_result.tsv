@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.89	Aicardi Syndrome	OMIM:304050
+3	0.88	Joubert Syndrome	OMIM:213300
+4	0.86	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.84	MECP2 Duplication Syndrome	OMIM:300260
+6	0.83	FOXG1 Syndrome	OMIM:613454
+7	0.82	Angelman Syndrome	OMIM:105830
+8	0.81	Rett Syndrome	OMIM:312750
+9	0.8	Lennox-Gastaut Syndrome	OMIM:606369
+10	0.79	Pontocerebellar Hypoplasia	OMIM:614961

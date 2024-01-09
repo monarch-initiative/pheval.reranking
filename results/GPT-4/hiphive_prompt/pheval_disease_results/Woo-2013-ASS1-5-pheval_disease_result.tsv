@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Citrullinemia Type I	OMIM:215700
+2	0.96	Citrullinemia Type II	OMIM:605814
+3	0.94	Argininosuccinic Aciduria	OMIM:207900
+4	0.92	Ornithine Transcarbamylase Deficiency	OMIM:311250
+5	0.89	Hyperprolinemia Type II	OMIM:239510
+6	0.88	Argininemia	OMIM:207800
+7	0.87	Hyperammonemia Due to N-Acetylglutamate Synthase Deficiency	OMIM:237310
+8	0.85	Hyperargininemia	OMIM:207800
+9	0.83	Orotic Aciduria	OMIM:258900
+10	0.81	Pyruvate Carboxylase Deficiency	OMIM:266150

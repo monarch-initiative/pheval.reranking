@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Leigh syndrome	OMIM:256000
+2	0.9	Mitochondrial complex I deficiency	OMIM:252010
+3	0.88	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+4	0.86	MELAS syndrome	OMIM:540000
+5	0.84	Mitochondrial DNA depletion syndrome 4A	OMIM:612075
+6	0.82	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:246470
+7	0.8	Nonketotic hyperglycinemia	OMIM:605899
+8	0.79	Congenital disorder of glycosylation, type Ia	OMIM:212065
+9	0.75	Wolman disease	OMIM:278000
+10	0.73	Barth syndrome	OMIM:302060

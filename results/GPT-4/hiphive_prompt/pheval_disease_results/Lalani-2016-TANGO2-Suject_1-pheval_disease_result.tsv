@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen storage disease type 5	OMIM:232600
+2	0.88	Citrullinemia type 1	OMIM:215700
+3	0.85	Hyperinsulinism due to glucokinase deficiency	OMIM:600733
+4	0.83	Primary microcephaly-epilepsy-permanent neonatal diabetes syndrome	OMIM:614231
+5	0.8	Familial paroxysmal kinesigenic dyskinesia	OMIM:128200
+6	0.78	Alpers syndrome	OMIM:203700
+7	0.75	Myoclonic epilepsy of Unverricht and Lundborg	OMIM:254800
+8	0.72	Lesch-Nyhan syndrome	OMIM:300322
+9	0.7	Congenital myopathy with excess of muscle spindles	OMIM:605637
+10	0.65	Progressive myoclonic epilepsy with dystonia	OMIM:616207

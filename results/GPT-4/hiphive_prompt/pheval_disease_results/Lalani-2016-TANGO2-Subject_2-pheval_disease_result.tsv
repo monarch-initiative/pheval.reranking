@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.86	Carnitine Palmitoyltransferase II Deficiency	OMIM:600650
+3	0.84	Mitochondrial Myopathy, Lactic Acidosis, and Sideroblastic Anemia	OMIM:600462
+4	0.81	MELAS syndrome	OMIM:540000
+5	0.79	Long QT Syndrome	OMIM:192500
+6	0.77	Glycogen Storage Disease III	OMIM:232400
+7	0.76	Duchenne Muscular Dystrophy	OMIM:310200
+8	0.74	Propionic Acidemia	OMIM:606054
+9	0.72	Carbamoyl-Phosphate Synthetase I Deficiency Disease	OMIM:237300
+10	0.71	Organic Acidemia	OMIM:235730

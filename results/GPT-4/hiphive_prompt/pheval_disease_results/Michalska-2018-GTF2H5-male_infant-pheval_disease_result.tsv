@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Harlequin Ichthyosis	OMIM:242500
+2	0.85	Netherton Syndrome	OMIM:256500
+3	0.82	Congenital Ichthyosiform Erythroderma	OMIM:242100
+4	0.8	Lamellar Ichthyosis	OMIM:242300
+5	0.78	Autosomal Recessive Congenital Ichthyosis	OMIM:602400
+6	0.75	Epidermolytic Ichthyosis	OMIM:113800
+7	0.7	Ichthyosis Vulgaris	OMIM:146700
+8	0.65	X-Linked Ichthyosis	OMIM:308100
+9	0.6	Ichthyosis prematurity syndrome	OMIM:608649
+10	0.55	Sjogren-Larsson Syndrome	OMIM:270200

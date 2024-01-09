@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Tay-Sachs disease	OMIM:272800
+2	0.85	Rett Syndrome	OMIM:312750
+3	0.83	Pontocerebellar Hypoplasia	OMIM:614961
+4	0.82	Adrenoleukodystrophy	OMIM:300100
+5	0.81	Coffin-Siris syndrome	OMIM:135900
+6	0.79	Angelman syndrome	OMIM:105830
+7	0.78	Canavan disease	OMIM:271900
+8	0.76	Huntington’s disease	OMIM:143100
+9	0.75	Batten disease	OMIM:204200
+10	0.74	Sotos syndrome	OMIM:117550

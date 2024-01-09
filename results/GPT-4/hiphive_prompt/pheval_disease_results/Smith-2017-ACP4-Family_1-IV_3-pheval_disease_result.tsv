@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Amelogenesis Imperfecta, Hypomaturation Type	OMIM:104510
+2	0.8	Amelogenesis Imperfecta, Local Hypoplastic	OMIM:204650
+3	0.79	Dentinogenesis Imperfecta	OMIM:125490
+4	0.69	Hypoplastic Amelogenesis Imperfecta	OMIM:204700
+5	0.67	Amelogenesis Imperfecta and Gingival Fibrosis Syndrome	OMIM:614253
+6	0.66	Hypomaturation Amelogenesis Imperfecta	OMIM:613211
+7	0.59	Sclerotic Bone Dysplasia with Overgrowth	OMIM:184755
+8	0.55	Amelogenesis Imperfecta, Type IG	OMIM:206200
+9	0.53	Gingival Fibromatosis with Hypertrichosis	OMIM:135300
+10	0.47	Enamel-Renal Syndrome	OMIM:204690

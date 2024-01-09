@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Hereditary Spherocytosis	OMIM:182900
+2	0.88	Paroxysmal Nocturnal Hemoglobinuria	OMIM:300818
+3	0.86	Pyruvate Kinase Deficiency of Red Cells	OMIM:266200
+4	0.82	Chronic Hemolytic Anemia due to Hexokinase Deficiency	OMIM:235700
+5	0.77	Autoimmune Hemolytic Anemia	OMIM:266100
+6	0.75	Glucose-6-Phosphate Dehydrogenase Deficiency	OMIM:305900
+7	0.71	Pyknocytosis, Hereditary	OMIM:179350
+8	0.69	Hemoglobin H Disease	OMIM:613978
+9	0.65	Ovalocytosis, Hereditary Hemolytic Anemia with	OMIM:166900
+10	0.61	Elliptocytosis 2	OMIM:130600

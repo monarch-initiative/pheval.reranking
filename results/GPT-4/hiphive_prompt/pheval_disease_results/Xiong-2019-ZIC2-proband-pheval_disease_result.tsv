@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	L1 syndrome	OMIM:308840
+2	0.94	Zellweger syndrome	OMIM:214100
+3	0.92	Walker-Warburg syndrome	OMIM:236670
+4	0.89	Aicardi syndrome	OMIM:304050
+5	0.88	Holoprosencephaly 3	OMIM:142945
+6	0.86	Arnold-Chiari malformation type II	OMIM:207950
+7	0.85	Muscular dystrophy-dystroglycanopathy	OMIM:613150
+8	0.83	Meckel syndrome, type 1	OMIM:249000
+9	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.8	Primary Ciliary Dyskinesia	OMIM:244400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ectodermal Dysplasia	OMIM:305100
+2	0.91	Hidrotic Ectodermal Dysplasia	OMIM:129500
+3	0.9	Anhidrotic Ectodermal Dysplasia	OMIM:224900
+4	0.87	Tricho-Dento-Osseous Syndrome	OMIM:190320
+5	0.83	Rapp-Hodgkin Syndrome	OMIM:129400
+6	0.82	AEC Syndrome	OMIM:106260
+7	0.81	Hypohidrotic Ectodermal Dysplasia	OMIM:224900
+8	0.8	Ellis-Van Creveld Syndrome	OMIM:225500
+9	0.78	Bjornstad Syndrome	OMIM:262000
+10	0.76	Dermoodontodysplasia	OMIM:122430

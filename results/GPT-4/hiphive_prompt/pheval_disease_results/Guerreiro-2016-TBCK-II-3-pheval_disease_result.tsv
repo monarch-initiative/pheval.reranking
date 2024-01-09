@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	West syndrome	OMIM:308350
+2	0.9	Lennox-Gastaut syndrome	OMIM:606369
+3	0.87	Aicardi syndrome	OMIM:304050
+4	0.86	Rett syndrome	OMIM:312750
+5	0.85	Infantile spasms	OMIM:308350
+6	0.82	Hyperekplexia	OMIM:149400
+7	0.81	Pyridoxine-dependent epilepsy	OMIM:266100
+8	0.8	Early infantile epileptic encephalopathy	OMIM:308350
+9	0.78	Dravet syndrome	OMIM:607208
+10	0.74	Lafora disease	OMIM:254780

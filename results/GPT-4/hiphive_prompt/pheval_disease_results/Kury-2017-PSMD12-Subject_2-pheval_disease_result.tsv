@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.895	Autistic Disorder	OMIM:209850
+2	0.885	Neurodevelopmental Disorder With Structural Brain Anomalies And Dysmorphic Facies	OMIM:617892
+3	0.875	Mental Retardation, Autosomal Recessive 13	OMIM:613192
+4	0.865	Developmental Delay, Epilepsy, And Neonatal Diabetes	OMIM:616346
+5	0.86	Intellectual Developmental Disorder with Cardiac Defects and Dysmorphic Facies	OMIM:618774
+6	0.855	Visceral Neuropathy, Familial, With Impaired Propulsion Of Colonic Contents	OMIM:617100
+7	0.85	Cardiac Arrhythmia, Ankyrin B-Related	OMIM:600919
+8	0.845	Deafness-Lymphedema-Leukemia Syndrome	OMIM:308840
+9	0.835	Rubinstein-Taybi Syndrome 2	OMIM:613684
+10	0.825	Holoprosencephaly 9	OMIM:610829

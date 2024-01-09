@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Mitochondrial complex IV deficiency	OMIM:220110
+2	0.89	Early-onset Parkinson's disease	OMIM:168600
+3	0.88	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.85	Familial dystonia	OMIM:128100
+5	0.83	Sensorineural hearing loss	OMIM:220290
+6	0.82	Leber's hereditary optic neuropathy	OMIM:535000
+7	0.8	Kearns-Sayre syndrome	OMIM:530000
+8	0.79	Spinocerebellar ataxia	OMIM:164400
+9	0.76	Spastic paraplegia	OMIM:182600
+10	0.74	Neurodegeneration with progressive brain iron accumulation	OMIM:234200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.9	Branchiootorenal Syndrome	OMIM:113650
+3	0.88	CHARGE Syndrome	OMIM:214800
+4	0.86	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.84	Townes-Brocks Syndrome	OMIM:107480
+6	0.82	Cornelia de Lange Syndrome	OMIM:122470
+7	0.8	Opitz-Kaveggia Syndrome	OMIM:305450
+8	0.78	Noonan Syndrome	OMIM:163950
+9	0.76	McKusick-Kaufman Syndrome	OMIM:236700
+10	0.74	Mowat-Wilson Syndrome	OMIM:235730

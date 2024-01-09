@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert Syndrome 1	OMIM:213300
+2	0.9	COACH Syndrome	OMIM:216360
+3	0.85	Pitt-Hopkins Syndrome	OMIM:610954
+4	0.8	Meckel Syndrome, Type 1	OMIM:249000
+5	0.75	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470
+6	0.7	Aicardi Syndrome	OMIM:304050
+7	0.65	Early Infantile Epileptic Encephalopathy 1	OMIM:308350
+8	0.6	West Syndrome	OMIM:308350
+9	0.55	Rett Syndrome	OMIM:312750
+10	0.5	Angelman Syndrome	OMIM:105830

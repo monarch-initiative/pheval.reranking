@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Williams syndrome	OMIM:194050
+2	0.91	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.87	Cornelia de Lange syndrome	OMIM:122470
+5	0.85	Fragile X syndrome	OMIM:300624
+6	0.83	Rett syndrome	OMIM:312750
+7	0.81	Angelman syndrome	OMIM:105830
+8	0.79	Prader-Willi syndrome	OMIM:176270
+9	0.77	Noonan syndrome	OMIM:163950
+10	0.75	CHARGE syndrome	OMIM:214800

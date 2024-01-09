@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Wilson Disease	OMIM:277900
+2	0.89	Non-alcoholic Fatty Liver Disease	OMIM:211980
+3	0.87	Familial Hypercholesterolemia	OMIM:143890
+4	0.85	Primary Biliary Cirrhosis	OMIM:109720
+5	0.84	Glycogen Storage Disease Type 1	OMIM:232200
+6	0.82	Hepatitis C	OMIM:610258
+7	0.8	Primary Hyperoxaluria	OMIM:259900
+8	0.78	Gallstones	OMIM:600803
+9	0.76	Mitochondrial Hepatopathy	OMIM:500004
+10	0.75	Cystic Fibrosis	OMIM:219700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+2	0.89	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.88	Cornelia De Lange Syndrome 1	OMIM:122470
+4	0.87	Seckel Syndrome 1	OMIM:210600
+5	0.85	Meier-Gorlin Syndrome 1	OMIM:224690
+6	0.83	Warburg Micro Syndrome	OMIM:600118
+7	0.82	Floating-Harbor Syndrome	OMIM:136140
+8	0.81	Niemann-Pick Disease Type C	OMIM:257220
+9	0.79	Rubinstein-Taybi Syndrome 1	OMIM:180849
+10	0.77	Coffin-Lowry Syndrome	OMIM:303600

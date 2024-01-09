@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Marfan Syndrome	OMIM:154700
+2	0.87	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+3	0.85	Loeys-Dietz Syndrome	OMIM:610168
+4	0.82	Homocystinuria	OMIM:236200
+5	0.78	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+6	0.74	Stickler syndrome, COL2A1 related	OMIM:108300
+7	0.72	Arthrogryposis multiplex congenita	OMIM:208100
+8	0.7	Apert syndrome	OMIM:101200
+9	0.68	Beals syndrome	OMIM:121050
+10	0.65	Cutis laxa, autosomal recessive, type IIA	OMIM:219200

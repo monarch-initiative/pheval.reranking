@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus Merzbacher Disease	OMIM:312080
+2	0.88	Kearns-Sayre Syndrome	OMIM:530000
+3	0.86	Muscular Dystrophy-Dystroglycanopathy	OMIM:253280
+4	0.85	Pontocerebellar Hypoplasia	OMIM:615803
+5	0.82	Leigh Syndrome	OMIM:256000
+6	0.81	Mitochondrial Complex I Deficiency	OMIM:252010
+7	0.8	Juvenile Huntington Disease	OMIM:143100
+8	0.73	Joubert Syndrome	OMIM:213300
+9	0.7	Rett Syndrome	OMIM:312750
+10	0.67	Angelmann Syndrome	OMIM:105830

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Achondroplasia	OMIM:100800
+2	0.89	Pseudoachondroplasia	OMIM:177170
+3	0.85	Spondylometaphyseal Dysplasia, Kozlowski Type	OMIM:184252
+4	0.82	Coxa Vara, Congenital	OMIM:122600
+5	0.8	Dysplasia Epiphysealis Multiplex	OMIM:223300
+6	0.78	Metatropic Dysplasia	OMIM:156530
+7	0.75	Hypochondroplasia	OMIM:146000
+8	0.73	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+9	0.7	Diastrophic Dysplasia	OMIM:222600
+10	0.68	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900

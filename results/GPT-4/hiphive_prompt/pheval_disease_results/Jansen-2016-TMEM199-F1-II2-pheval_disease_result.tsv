@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Wilson disease	OMIM:277900
+2	0.89	Familial hypercholesterolemia	OMIM:143890
+3	0.88	Non-alcoholic Fatty Liver Disease	OMIM:211980
+4	0.86	Congenital disorder of glycosylation	OMIM:212065
+5	0.85	Cholestasis	OMIM:214700
+6	0.84	Alagille syndrome	OMIM:118450
+7	0.82	Hepatitis C	OMIM:610424
+8	0.8	Antithrombin III deficiency	OMIM:613118
+9	0.79	Primary biliary cirrhosis	OMIM:109720
+10	0.78	Hemochromatosis	OMIM:235200

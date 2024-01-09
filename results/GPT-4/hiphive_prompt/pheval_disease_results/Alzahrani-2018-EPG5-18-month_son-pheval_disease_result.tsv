@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+2	0.87	Cornelia de Lange syndrome	OMIM:122470
+3	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.82	Williams syndrome	OMIM:194050
+5	0.81	Baraitser-Winter syndrome	OMIM:243310
+6	0.78	Ohdo syndrome	OMIM:249620
+7	0.75	Blepharophimosis, Ptosis, and Epicanthus inversus	OMIM:110100
+8	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.71	Progeria	OMIM:176670
+10	0.68	Kleefstra syndrome	OMIM:610253

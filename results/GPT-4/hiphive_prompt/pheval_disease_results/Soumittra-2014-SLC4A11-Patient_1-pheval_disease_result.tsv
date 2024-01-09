@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Fuchs Endothelial Corneal Dystrophy	OMIM:136800
+2	0.96	Congenital Stromal Corneal Dystrophy	OMIM:610048
+3	0.95	Meesmann Epithelial Corneal Dystrophy	OMIM:122100
+4	0.91	Chandler Syndrome	OMIM:613268
+5	0.88	Lattice Corneal Dystrophy Type 1	OMIM:122200
+6	0.85	Schnyder Corneal Dystrophy	OMIM:121800
+7	0.79	Macular Corneal Dystrophy Type 1	OMIM:217800
+8	0.77	Corneal Dystrophy, Groenouw Type 1	OMIM:121900
+9	0.75	Endothelial Dystrophy, Iris Hypoplasia, Congenital Cataract, and Stromal Thinning	OMIM:617303
+10	0.72	Cornea Plana	OMIM:121400

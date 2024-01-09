@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.9	Lissencephaly 3	OMIM:611603
+3	0.85	Spastic Paraplegia 49, Autosomal Recessive	OMIM:615031
+4	0.8	Periventricular Nodular Heterotopia 1	OMIM:300049
+5	0.75	Congenital Muscular Dystrophy-Dystroglycanopathy With Brain And Eye Anomalies, Type A, 7	OMIM:616052
+6	0.7	Neurodevelopmental Disorder With Spasticity And Poor Growth	OMIM:618577
+7	0.65	Aicardi-Goutieres Syndrome 1	OMIM:225750
+8	0.6	Ataxia-Pancytopenia Syndrome	OMIM:159550
+9	0.55	Bilateral Striatal Necrosis	OMIM:500003
+10	0.5	Galloway-Mowat Syndrome 1	OMIM:251300

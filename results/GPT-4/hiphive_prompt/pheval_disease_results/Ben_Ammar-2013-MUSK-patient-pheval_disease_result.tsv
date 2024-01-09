@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Amyotrophic Lateral Sclerosis	OMIM:105400
+2	0.9	Myasthenia Gravis	OMIM:254200
+3	0.88	Duchenne Muscular Dystrophy	OMIM:310200
+4	0.87	Spinal Muscular Atrophy	OMIM:253300
+5	0.85	Becker Muscular Dystrophy	OMIM:300376
+6	0.84	Limb-Girdle Muscular Dystrophy	OMIM:253600
+7	0.83	Charcot-Marie-Tooth Disease	OMIM:118220
+8	0.81	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+9	0.79	Congenital Muscular Dystrophy	OMIM:613205
+9	0.79	Congenital Myasthenic Syndrome	OMIM:608931

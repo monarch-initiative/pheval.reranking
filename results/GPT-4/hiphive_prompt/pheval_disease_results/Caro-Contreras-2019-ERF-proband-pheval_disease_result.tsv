@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Apert syndrome	OMIM:101200
+2	0.95	Crouzon syndrome	OMIM:123500
+3	0.91	Sotos syndrome	OMIM:117550
+4	0.88	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.85	Pfeiffer syndrome	OMIM:101600
+6	0.83	Noonan syndrome	OMIM:163950
+7	0.81	Waardenburg syndrome	OMIM:193500
+8	0.79	Williams syndrome	OMIM:194050
+9	0.76	Treacher Collins syndrome	OMIM:154500
+10	0.73	Prader-Willi syndrome	OMIM:176270

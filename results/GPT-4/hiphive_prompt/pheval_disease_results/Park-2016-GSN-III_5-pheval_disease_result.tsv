@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome	OMIM:130000
+2	0.85	Myasthenia Gravis	OMIM:254200
+3	0.8	Familial Dysautonomia	OMIM:223900
+4	0.75	Gerodermia Osteodysplastica	OMIM:231070
+5	0.7	Amyotrophic Lateral Sclerosis	OMIM:105400
+6	0.65	Isaacs Syndrome	OMIM:170500
+7	0.6	Ross Syndrome	OMIM:608340
+8	0.55	Multiple Sclerosis	OMIM:126200
+9	0.5	Guillain-Barre Syndrome	OMIM:139393
+10	0.45	Peripheral Neuropathy	OMIM:162500

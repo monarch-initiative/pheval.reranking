@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Zellweger Syndrome	OMIM:214100
+2	0.93	NEMO Syndrome	OMIM:300291
+3	0.91	Joubert syndrome	OMIM:213300
+4	0.89	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.87	Chronic Granulomatous Disease	OMIM:306400
+6	0.85	Rett syndrome	OMIM:312750
+7	0.83	Severe combined immunodeficiency	OMIM:102700
+8	0.81	Prader-Willi Syndrome	OMIM:176270
+9	0.79	Congenital myasthenic syndrome	OMIM:601462
+10	0.77	Opitz G/BBB syndrome	OMIM:300000

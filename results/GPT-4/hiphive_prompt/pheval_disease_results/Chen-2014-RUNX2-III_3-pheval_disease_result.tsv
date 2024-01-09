@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cleidocranial dysplasia	OMIM:119600
+2	0.91	Achondroplasia	OMIM:100800
+3	0.89	Pycnodysostosis	OMIM:265800
+4	0.86	Osteogenesis Imperfecta	OMIM:166200
+5	0.84	Ehlers-Danlos syndrome	OMIM:130000
+6	0.82	Marfan syndrome	OMIM:154700
+7	0.8	Hypophosphatasia	OMIM:241500
+8	0.79	Chondrodysplasia Punctata	OMIM:222765
+9	0.75	Oral-facial-digital syndrome	OMIM:311200
+10	0.73	Craniodiaphyseal dysplasia	OMIM:122860

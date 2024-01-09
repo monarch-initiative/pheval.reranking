@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia	OMIM:614961
+2	0.87	Hypomyelination, Hypogonadotropic Hypogonadism, and Hypodontia	OMIM:614381
+3	0.85	Aicardi-Goutieres Syndrome	OMIM:225750
+3	0.85	Spastic Paraplegia	OMIM:603563
+5	0.82	Infantile Neuroaxonal Dystrophy	OMIM:256600
+5	0.82	Van der Knaap Disease	OMIM:603896
+7	0.81	Menkes Disease	OMIM:309400
+8	0.8	Periventricular Nodular Heterotopia	OMIM:300049
+9	0.79	Rett syndrome	OMIM:312750
+10	0.78	Canavan disease	OMIM:271900

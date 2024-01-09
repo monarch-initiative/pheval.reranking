@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Treacher Collins Syndrome	OMIM:154500
+2	0.91	Pierre Robin Syndrome	OMIM:261800
+3	0.88	3MC Syndrome	OMIM:257920
+4	0.86	Crouzon Syndrome	OMIM:123500
+5	0.84	Branchiooculofacial Syndrome	OMIM:113620
+6	0.82	Nager Syndrome	OMIM:154400
+7	0.79	Stickler Syndrome	OMIM:108300
+8	0.76	Alport Syndrome	OMIM:301050
+9	0.74	Waardenburg Syndrome	OMIM:193500
+10	0.72	CHARGE Syndrome	OMIM:214800

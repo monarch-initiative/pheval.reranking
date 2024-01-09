@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+2	0.95	Larsen Syndrome, Autosomal Dominant	OMIM:150250
+3	0.94	Ellis-Van Creveld Syndrome	OMIM:225500
+4	0.92	Crane-Heise Syndrome	OMIM:218090
+5	0.91	Smith-McCort Dysplasia	OMIM:607326
+6	0.88	LEOPARD Syndrome 1	OMIM:151100
+7	0.87	Fryns Syndrome	OMIM:229850
+8	0.84	Apert Syndrome	OMIM:101200
+9	0.82	Hypochondroplasia	OMIM:146000
+10	0.8	Trisomy 21	OMIM:190685

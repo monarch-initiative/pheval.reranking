@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.9	Primary biliary cirrhosis	OMIM:109720
+3	0.87	Alagille syndrome	OMIM:118450
+4	0.85	Progressive familial intrahepatic cholestasis	OMIM:211600
+5	0.83	Crigler Najjar syndrome type II	OMIM:606785
+6	0.8	Dubin-Johnson syndrome	OMIM:237500
+7	0.78	Rotor syndrome	OMIM:237450
+8	0.75	Primary hyperoxaluria	OMIM:259900
+9	0.7	Zellweger syndrome	OMIM:214100
+10	0.65	Acute fatty liver of pregnancy	OMIM:609016

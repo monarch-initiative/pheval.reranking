@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+2	0.9	Argininosuccinic Aciduria	OMIM:207900
+3	0.85	Mitochondrial Complex I Deficiency	OMIM:252010
+4	0.8	Hypothyroidism, Congenital, Non-Goitrous, 1	OMIM:218700
+5	0.75	Creutzfeldt-Jakob Disease	OMIM:123400
+6	0.7	Epileptic Encephalopathy, Early Infantile, 47	OMIM:617166
+7	0.65	Limb-Girdle Muscular Dystrophy, Type 2A	OMIM:253600
+8	0.6	Long QT Syndrome 1	OMIM:192500
+9	0.55	Hyperthyroidism, Nonautoimmune	OMIM:609152
+10	0.5	Mental Retardation, Autosomal Recessive 13	OMIM:611091

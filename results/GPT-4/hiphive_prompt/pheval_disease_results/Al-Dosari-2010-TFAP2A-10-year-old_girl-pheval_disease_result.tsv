@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome	OMIM:276900
+2	0.85	Rieger syndrome	OMIM:180500
+3	0.82	Alagille syndrome	OMIM:118450
+4	0.81	Axenfeld-Rieger syndrome	OMIM:180500
+5	0.8	Peters anomaly	OMIM:604229
+6	0.78	Ectodermal dysplasia	OMIM:129490
+7	0.76	Waardenburg syndrome	OMIM:193500
+8	0.74	Crouzon syndrome	OMIM:123500
+9	0.72	Congenital fibrosis of the extraocular muscles	OMIM:135700
+10	0.7	Renal-coloboma syndrome	OMIM:120330

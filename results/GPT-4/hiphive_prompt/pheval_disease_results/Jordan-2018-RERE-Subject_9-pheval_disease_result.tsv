@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	CHARGE syndrome	OMIM:214800
+2	0.89	Cornelia de Lange syndrome	OMIM:122470
+3	0.88	Williams-Beuren syndrome	OMIM:194050
+4	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.85	Smith-Magenis syndrome	OMIM:182290
+6	0.84	Baraitser-Winter syndrome	OMIM:243310
+7	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.8	Tuberous sclerosis	OMIM:191100
+9	0.79	Angelman syndrome	OMIM:105830
+10	0.76	Rett syndrome	OMIM:312750

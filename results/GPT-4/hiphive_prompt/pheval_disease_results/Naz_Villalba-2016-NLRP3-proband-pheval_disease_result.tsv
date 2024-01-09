@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Behcet Syndrome	OMIM:109650
+2	0.91	Cogan Syndrome	OMIM:214700
+3	0.89	Pseudotumor Cerebri	OMIM:123500
+4	0.87	Giant Cell Arteritis	OMIM:187360
+5	0.86	Kawasaki Disease	OMIM:611775
+6	0.84	Stills Disease, Adult-Onset	OMIM:604302
+7	0.83	Vasculopathy, Retinal, With Cerebral Leukodystrophy	OMIM:192315
+8	0.81	Antiphospholipid Syndrome	OMIM:107320
+9	0.8	Cryoglobulinemia	OMIM:123550
+10	0.78	Urticarial Vasculitis	OMIM:183000

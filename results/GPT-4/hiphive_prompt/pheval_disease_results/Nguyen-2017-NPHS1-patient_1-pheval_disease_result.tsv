@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital nephrotic syndrome, Finnish type	OMIM:256300
+2	0.91	Pierson syndrome	OMIM:609049
+3	0.87	Nephrotic syndrome, type 1	OMIM:256150
+4	0.84	Nephrotic syndrome, type 2	OMIM:600995
+5	0.81	Familial hypobetalipoproteinemia	OMIM:615558
+6	0.74	Lipoprotein glomerulopathy	OMIM:611771
+7	0.71	Lysinuric protein intolerance	OMIM:222700
+8	0.68	Hypocomplementemic urticarial vasculitis	OMIM:192090
+9	0.65	C1q nephropathy	OMIM:615886
+10	0.62	Familial hypoalphalipoproteinemia	OMIM:604091

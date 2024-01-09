@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nager Acrofacial Dysostosis	OMIM:154400
+2	0.85	Peters Plus Syndrome	OMIM:261540
+3	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+4	0.78	CHARGE Syndrome	OMIM:214800
+5	0.76	Smith-Magenis Syndrome	OMIM:182290
+6	0.73	Carpenter Syndrome	OMIM:201000
+7	0.72	Aarskog-Scott Syndrome	OMIM:305400
+8	0.7	Rubinstein-Taybi Syndrome 1	OMIM:180849
+9	0.65	Coffin-Lowry Syndrome	OMIM:303600
+10	0.63	Cornelia De Lange Syndrome 1	OMIM:122470

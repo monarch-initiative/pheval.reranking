@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Rett Syndrome	OMIM:312750
+2	0.86	Fragile X Syndrome	OMIM:300624
+3	0.85	Angelman Syndrome	OMIM:105830
+4	0.82	Prader-Willi Syndrome	OMIM:176270
+5	0.81	Tuberous Sclerosis	OMIM:191100
+6	0.79	Cornelia de Lange Syndrome	OMIM:122470
+7	0.76	Turner Syndrome	OMIM:Turner312560
+8	0.73	Down Syndrome	OMIM:190685
+9	0.71	Williams Syndrome	OMIM:194050
+10	0.7	Wolf-Hirschhorn Syndrome	OMIM:194190

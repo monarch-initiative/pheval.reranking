@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Down Syndrome	OMIM:190685
+2	0.89	Wolf-Hirschhorn Syndrome	OMIM:194190
+3	0.88	Lennox-Gastaut Syndrome	OMIM:606369
+4	0.85	Carpenter Syndrome	OMIM:201000
+5	0.82	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.79	Pitt-Hopkins Syndrome	OMIM:610954
+7	0.78	Rett Syndrome	OMIM:312750
+8	0.76	Prader-Willi Syndrome	OMIM:176270
+9	0.75	3M Syndrome	OMIM:273750
+10	0.7	Miller-Dieker Syndrome	OMIM:247200

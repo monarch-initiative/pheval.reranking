@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia De Lange Syndrome	OMIM:122470
+2	0.82	Rett Syndrome	OMIM:312750
+3	0.8	Smith-Magenis Syndrome	OMIM:182290
+4	0.77	Fragile X Syndrome	OMIM:300624
+5	0.74	Angelman Syndrome	OMIM:105830
+6	0.72	Prader-Willi Syndrome	OMIM:176270
+7	0.71	Kleefstra Syndrome	OMIM:610253
+8	0.67	Cri-du-Chat Syndrome	OMIM:123450
+9	0.66	Coffin-Lowry Syndrome	OMIM:303600
+10	0.64	Rubinstein-Taybi Syndrome	OMIM:180849

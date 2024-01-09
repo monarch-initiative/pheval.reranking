@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Rett Syndrome	OMIM:312750
+2	0.95	Spastic Paraplegia	OMIM:312910
+3	0.93	Leigh Syndrome	OMIM:256000
+4	0.91	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+5	0.89	Pontocerebellar Hypoplasia	OMIM:607596
+6	0.88	Zellweger Syndrome	OMIM:214100
+7	0.85	Coffin-Siris Syndrome	OMIM:135900
+8	0.82	Krabbe Disease	OMIM:245200
+9	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.78	Pelizaeus-Merzbacher disease	OMIM:312080

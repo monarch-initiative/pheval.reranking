@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett Syndrome	OMIM:312750
+2	0.92	Angelman Syndrome	OMIM:105830
+3	0.89	Williams Syndrome	OMIM:194050
+4	0.87	Phelan-McDermid Syndrome	OMIM:606232
+5	0.85	MECP2 Duplication Syndrome	OMIM:300260
+6	0.8	CDKL5 Disorder	OMIM:300672
+7	0.78	FOXG1 Syndrome	OMIM:613454
+8	0.76	Leigh Syndrome	OMIM:256000
+9	0.74	Cornelia de Lange Syndrome	OMIM:122470
+10	0.7	Coffin-Lowry Syndrome	OMIM:303600

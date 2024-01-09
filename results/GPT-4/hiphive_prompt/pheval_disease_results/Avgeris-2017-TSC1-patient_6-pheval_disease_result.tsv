@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous sclerosis 1	OMIM:191100
+2	0.93	Tuberous sclerosis 2	OMIM:613254
+3	0.89	Bourneville's disease	OMIM:605284
+4	0.83	Lennox-Gastaut syndrome	OMIM:606369
+5	0.8	West syndrome	OMIM:308350
+6	0.78	Angiomatosis, capillary	OMIM:608354
+7	0.75	Angiofibromatosis	OMIM:228800
+8	0.72	Epiloia	OMIM:605284
+9	0.68	Pigmented nodular angiofibromatosis	OMIM:305900
+10	0.65	Mental retardation, autosomal dominant 14	OMIM:614607

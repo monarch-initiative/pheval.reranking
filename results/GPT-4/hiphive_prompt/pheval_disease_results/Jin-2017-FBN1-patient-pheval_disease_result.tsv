@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	3M Syndrome	OMIM:273750
+2	0.8	Geleophysic Dysplasia	OMIM:231050
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Acrofacial Dysostosis Syndrome	OMIM:263550
+4	0.6	Shwachman-Diamond Syndrome	OMIM:260400
+6	0.5	Coffin-Siris Syndrome	OMIM:135900
+6	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.4	Cornelia de Lange Syndrome	OMIM:122470
+9	0.3	Cartilage-Hair Hypoplasia	OMIM:250250
+10	0.2	Smith-Lemli-Opitz Syndrome	OMIM:270400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Angelman Syndrome	OMIM:105830
+2	0.91	Rett Syndrome	OMIM:312750
+3	0.89	Dravet Syndrome	OMIM:607208
+4	0.88	Lennox-Gastaut Syndrome	OMIM:606369
+5	0.86	West Syndrome	OMIM:308350
+6	0.85	Infantile Spasms	OMIM:308350
+7	0.83	Ohtahara Syndrome	OMIM:308350
+8	0.81	Epileptic Encephalopathy, Early Infantile, 1	OMIM:308350
+8	0.81	Malan Syndrome	OMIM:614753
+10	0.8	Epileptic Encephalopathy, Childhood-Onset	OMIM:615369

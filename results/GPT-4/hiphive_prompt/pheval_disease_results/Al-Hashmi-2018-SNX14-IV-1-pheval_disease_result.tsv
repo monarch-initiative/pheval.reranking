@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis Type III	OMIM:252900
+2	0.91	Alagille Syndrome	OMIM:118450
+3	0.89	Ehlers-Danlos Syndrome Type IV	OMIM:130050
+4	0.87	Sanfilippo-Syndrome	OMIM:252900
+5	0.83	Bloom Syndrome	OMIM:210900
+6	0.8	Cystic Fibrosis	OMIM:219700
+7	0.76	Williams Syndrome	OMIM:194050
+8	0.72	Epidermolysis Bullosa	OMIM:226700
+9	0.7	Marfan Syndrome	OMIM:154700
+10	0.68	Primary Ciliary Dyskinesia	OMIM:244400

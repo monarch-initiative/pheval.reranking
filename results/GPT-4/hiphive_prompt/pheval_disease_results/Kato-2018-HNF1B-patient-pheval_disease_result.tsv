@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Diabetes Mellitus, Insulin-Dependent, 2	OMIM:125852
+2	0.88	Hyperinsulinemic Hypoglycemia, Dominant	OMIM:601820
+3	0.85	Wolfram Syndrome	OMIM:222300
+4	0.81	Maturity-Onset Diabetes of the Young, Type 2	OMIM:125851
+5	0.79	Polycystic Kidney Disease, Autosomal Dominant	OMIM:173900
+6	0.67	GCK-Related Maturity-Onset Diabetes of the Young	OMIM:125851
+7	0.66	Insulin Autoimmune Syndrome	OMIM:125853
+8	0.64	Polycystic Kidney Disease, Autosomal Recessive	OMIM:263200
+9	0.59	Monogenic Diabetes	OMIM:606176
+10	0.58	Permanent Neonatal Diabetes Mellitus	OMIM:606176

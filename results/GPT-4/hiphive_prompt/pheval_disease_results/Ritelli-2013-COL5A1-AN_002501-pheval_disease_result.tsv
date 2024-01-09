@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+2	0.96	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+3	0.95	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+4	0.86	Marfan syndrome	OMIM:154700
+5	0.81	Larsen syndrome	OMIM:150250
+6	0.8	Lujan-Fryns syndrome	OMIM:309520
+7	0.75	Stickler syndrome, type 1	OMIM:108300
+8	0.73	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+9	0.71	Van der Woude syndrome	OMIM:119300
+10	0.7	Wilson-Turner syndrome	OMIM:309585

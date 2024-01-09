@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.85	Dyskeratosis congenita	OMIM:224230
+3	0.83	Shwachman-Diamond syndrome	OMIM:260400
+4	0.81	Severe Combined Immunodeficiency	OMIM:102700
+5	0.8	Diamond-Blackfan anemia	OMIM:105650
+6	0.79	Congenital Bone Marrow Failure Syndrome	OMIM:604498
+7	0.78	Paroxysmal Nocturnal Hemoglobinuria	OMIM:300818
+8	0.77	Amegakaryocytic Thrombocytopenia	OMIM:300450
+9	0.75	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+10	0.73	Pelger-Huet Anomaly	OMIM:169400

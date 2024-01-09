@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-hair hypoplasia	OMIM:250250
+2	0.87	Dyskeratosis congenita	OMIM:224230
+3	0.86	Whim syndrome	OMIM:193670
+4	0.85	Granulomatosis with polyangiitis	OMIM:608710
+5	0.82	Rothmund-Thomson syndrome	OMIM:268400
+6	0.81	Severe combined immunodeficiency disease	OMIM:202500
+7	0.78	Idiopathic pulmonary fibrosis	OMIM:178500
+8	0.75	Shwachman-Diamond syndrome	OMIM:260400
+9	0.72	Cystic fibrosis	OMIM:219700
+10	0.7	Hypogonadotropic hypogonadism	OMIM:146110

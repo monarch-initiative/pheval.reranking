@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Coffin-Siris Syndrome 1	OMIM:135900
+2	0.85	Oculodentodigital Dysplasia	OMIM:164200
+3	0.83	Ellis-van Creveld Syndrome	OMIM:225500
+4	0.82	Refsum Disease	OMIM:266500
+5	0.81	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.79	Bardet-Biedl Syndrome	OMIM:209900
+7	0.76	Mental Retardation, Autosomal Recessive 13	OMIM:614563
+8	0.74	Trichothiodystrophy 1, Photosensitive	OMIM:601675
+9	0.72	Rubinstein-Taybi Syndrome 1	OMIM:180849
+10	0.71	Nance-Horan Syndrome	OMIM:302350

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous sclerosis 1	OMIM:191100
+2	0.92	Tuberous sclerosis 2	OMIM:613254
+3	0.91	Shagreen patch	OMIM:182837
+4	0.89	Hypomelanosis of Ito	OMIM:300337
+5	0.87	Neurofibromatosis 2	OMIM:101000
+6	0.8	Leiomyomatosis	OMIM:150800
+7	0.7	Lennox-Gastaut syndrome	OMIM:617001
+8	0.6	West syndrome	OMIM:308350
+9	0.5	Bourneville syndrome	OMIM:605284
+10	0.4	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480

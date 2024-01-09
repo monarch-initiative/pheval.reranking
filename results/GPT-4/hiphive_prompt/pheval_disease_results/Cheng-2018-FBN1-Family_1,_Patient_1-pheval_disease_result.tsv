@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan syndrome	OMIM:163950
+2	0.9	Costello syndrome	OMIM:218040
+3	0.85	LEOPARD syndrome	OMIM:151100
+4	0.82	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+6	0.78	Ehlers-Danlos syndrome, classic type	OMIM:130000
+7	0.76	Pfeiffer syndrome	OMIM:101600
+8	0.75	Williams syndrome	OMIM:194050
+9	0.72	Shprintzen-Goldberg syndrome	OMIM:182212
+10	0.7	Holt-Oram syndrome	OMIM:142900

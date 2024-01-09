@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cobblestone Lissencephaly	OMIM:615925
+2	0.9	Microcephalic Osteodysplastic Primordial Dwarfism	OMIM:210710
+3	0.85	Congenital Nephrotic Syndrome Finnish type	OMIM:256300
+4	0.82	Donnai-Barrow Syndrome	OMIM:222448
+5	0.81	Focal Segmental Glomerulosclerosis	OMIM:603278
+6	0.8	Antley-Bixler Syndrome	OMIM:207410
+7	0.78	Hajdu-Cheney Syndrome	OMIM:102500
+8	0.74	Congenital Diaphragmatic Hernia	OMIM:142340
+9	0.73	Heimler Syndrome	OMIM:234580
+10	0.7	Wolf-Hirschhorn Syndrome	OMIM:194190

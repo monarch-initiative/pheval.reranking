@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Inclusion Body Myopathy	OMIM:600737
+2	0.83	Amyotrophic Lateral Sclerosis(ALS)	OMIM:105400
+3	0.81	Paget's Disease of Bone	OMIM:167250
+4	0.8	Nonsyndromic Deafness	OMIM:601071
+5	0.79	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+6	0.77	Progressive Muscular Atrophy	OMIM:602440
+7	0.75	Mitochondrial Myopathies	OMIM:500000
+8	0.74	Pompe Disease	OMIM:232300
+9	0.73	Primary Familial Hypomagnesemia	OMIM:602014
+10	0.71	Congenital Muscular Dystrophies	OMIM:613075

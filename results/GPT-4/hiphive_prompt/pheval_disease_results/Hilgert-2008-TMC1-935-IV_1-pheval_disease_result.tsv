@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher Syndrome Type II	OMIM:276901
+2	0.85	Usher Syndrome Type I	OMIM:276900
+3	0.83	Alport Syndrome, Autosomal Recessive	OMIM:203780
+4	0.79	Wolfram Syndrome 1	OMIM:222300
+4	0.79	Stickler Syndrome Type I	OMIM:108300
+6	0.75	Norrie Disease	OMIM:310600
+7	0.73	Refsum Disease	OMIM:266500
+8	0.71	Perrault Syndrome	OMIM:233400
+9	0.7	Neurofibromatosis, Type II	OMIM:101000
+9	0.7	Waardenburg Syndrome Type II	OMIM:193510

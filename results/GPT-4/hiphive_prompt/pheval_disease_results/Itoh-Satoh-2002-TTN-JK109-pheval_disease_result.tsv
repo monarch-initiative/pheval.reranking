@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Familial dilated cardiomyopathy	OMIM:613286
+2	0.95	Arrhythmogenic right ventricular dysplasia	OMIM:107970
+3	0.94	Barth syndrome	OMIM:302060
+4	0.92	Mitochondrial trifunctional protein deficiency	OMIM:609015
+5	0.91	Alstrom syndrome	OMIM:203800
+6	0.87	Left ventricular noncompaction	OMIM:604169
+7	0.85	Emery-Dreifuss muscular dystrophy	OMIM:310300
+8	0.82	Danon disease	OMIM:300257
+9	0.8	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+10	0.78	Carnitine palmitoyltransferase II deficiency	OMIM:600650

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pfeiffer syndrome	OMIM:101600
+2	0.91	Crouzon syndrome	OMIM:123500
+3	0.89	Apert syndrome	OMIM:101200
+4	0.86	Carpenter syndrome	OMIM:201000
+5	0.83	Severe combined immunodeficiency disease	OMIM:102700
+6	0.81	Saethre-Chotzen syndrome	OMIM:101400
+7	0.75	Jackson-Weiss syndrome	OMIM:123150
+8	0.73	FGFR-related craniosynostosis syndromes	OMIM:123790
+9	0.7	Muenke syndrome	OMIM:602849
+10	0.65	Craniofrontonasal syndrome	OMIM:304110

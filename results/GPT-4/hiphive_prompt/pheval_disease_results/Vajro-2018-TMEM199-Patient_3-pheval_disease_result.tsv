@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.9	Nonalcoholic fatty liver disease	OMIM:211980
+3	0.88	Cholestasis, progressive familial intrahepatic 2	OMIM:601847
+4	0.86	Cirrhosis	OMIM:215600
+5	0.84	Alpha-1-antitrypsin deficiency	OMIM:613490
+6	0.82	Acute hepatic porphyria	OMIM:612740
+7	0.79	Indian Childhood Cirrhosis	OMIM:304050
+8	0.77	Primary biliary cirrhosis	OMIM:109720
+9	0.76	Hepatic veno-occlusive disease with immunodeficiency	OMIM:235550
+10	0.73	Glycogen storage disease type 4	OMIM:232500

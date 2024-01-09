@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 3	OMIM:142945
+2	0.88	Holoprosencephaly 1	OMIM:236100
+3	0.82	Microcephaly 1, primary, autosomal recessive	OMIM:251200
+4	0.81	Diabetes insipidus, neurohypophyseal	OMIM:125700
+5	0.76	Microcephaly 9, primary, autosomal recessive	OMIM:614852
+6	0.73	Microcephaly 2, primary, autosomal recessive, with or without cortical malformations	OMIM:604317
+7	0.7	Oral-facial-digital syndrome I	OMIM:311200
+8	0.68	Meckel syndrome 1	OMIM:249000
+9	0.67	Joubert syndrome 2	OMIM:608091
+10	0.65	Orofaciodigital syndrome IV	OMIM:258860

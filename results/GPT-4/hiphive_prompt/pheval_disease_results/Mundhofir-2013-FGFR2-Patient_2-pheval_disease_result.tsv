@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Craniofrontonasal Syndrome	OMIM:304110
+2	0.89	Muenke Syndrome	OMIM:602849
+3	0.87	Apert Syndrome	OMIM:101200
+4	0.85	Pfeiffer Syndrome	OMIM:101600
+5	0.83	Saethre-Chotzen Syndrome	OMIM:101400
+6	0.81	C syndrome	OMIM:211750
+7	0.8	Carpenter Syndrome	OMIM:201000
+8	0.78	Jackson-Weiss Syndrome	OMIM:123150
+9	0.76	Cohen Syndrome	OMIM:216550
+10	0.74	Wolf-Hirschhorn Syndrome	OMIM:194190

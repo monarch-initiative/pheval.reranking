@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential thrombocythemia	OMIM:187950
+2	0.85	Polycythemia vera	OMIM:263300
+3	0.8	Myelofibrosis	OMIM:254450
+4	0.77	Thrombocythemia 1	OMIM:187950
+5	0.75	Chronic myeloid leukemia	OMIM:608232
+6	0.73	Jak2-related thrombocytosis	OMIM:614521
+7	0.7	Myeloproliferative disorder with eosinophilia	OMIM:131440
+8	0.65	MPL-related thrombocytosis	OMIM:613112
+9	0.6	Familial erythrocytosis, 1	OMIM:133100
+10	0.55	Myelodysplastic syndrome	OMIM:614286

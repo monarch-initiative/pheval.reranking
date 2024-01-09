@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Digeorge Syndrome	OMIM:188400
+2	0.87	Hyper IgM syndrome	OMIM:308230
+3	0.86	Severe Combined Immunodeficiency	OMIM:102700
+4	0.85	Common Variable Immunodeficiency	OMIM:607594
+5	0.84	Cartilage-Hair Hypoplasia	OMIM:250250
+6	0.83	X-linked Agammaglobulinemia	OMIM:300755
+7	0.82	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.81	Bloom Syndrome	OMIM:210900
+9	0.8	Ataxia-Telangiectasia	OMIM:208900
+10	0.79	Selective IgA Deficiency	OMIM:137100

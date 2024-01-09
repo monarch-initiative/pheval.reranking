@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Coffin-Lowry syndrome	OMIM:303600
+2	0.78	Bloom syndrome	OMIM:210900
+3	0.77	Sotos syndrome 1	OMIM:117550
+4	0.75	Freeman-Sheldon syndrome	OMIM:193700
+5	0.73	Cornelia de Lange syndrome 1	OMIM:122470
+6	0.7	Rothmund-Thomson syndrome type 2	OMIM:268400
+6	0.7	Rieger syndrome 1	OMIM:180500
+8	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.6	Gorlin syndrome	OMIM:109400
+9	0.6	Noonan syndrome 1	OMIM:163950

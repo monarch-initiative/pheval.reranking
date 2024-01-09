@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cutis Laxa, Autosomal Dominant	OMIM:123700
+2	0.95	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+3	0.92	Gerodermia Osteodysplastica	OMIM:231070
+4	0.89	Ehlers-Danlos Syndrome, Cardiac Valvular Type	OMIM:225320
+5	0.85	Cantú Syndrome	OMIM:239850
+6	0.83	Hyper IgM Syndrome	OMIM:308230
+7	0.8	Aicardi-Goutières Syndrome 1	OMIM:225750
+8	0.75	Pseudoxanthoma Elasticum	OMIM:264800
+9	0.73	Marfan Syndrome	OMIM:154700
+10	0.7	Loeys-Dietz Syndrome	OMIM:609192

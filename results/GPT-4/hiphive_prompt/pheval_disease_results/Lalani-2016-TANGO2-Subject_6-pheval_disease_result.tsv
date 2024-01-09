@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carnitine palmitoyltransferase II deficiency	OMIM:600650
+2	0.92	Organic acidemia	OMIM:605310
+3	0.91	MELAS	OMIM:540000
+4	0.9	Glutaric aciduria type II	OMIM:231680
+4	0.9	Maple syrup urine disease	OMIM:248600
+6	0.88	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201450
+7	0.86	Pyruvate dehydrogenase deficiency	OMIM:312170
+8	0.85	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+9	0.83	Isovaleric acidemia	OMIM:243500
+10	0.8	Propionic acidemia	OMIM:606054

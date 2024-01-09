@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bloom Syndrome	OMIM:210900
+2	0.94	Cockayne Syndrome	OMIM:216400
+3	0.92	Nance-Horan Syndrome	OMIM:302350
+4	0.91	Trichothiodystrophy 1, Photosensitive	OMIM:601675
+5	0.89	Werner syndrome	OMIM:277700
+6	0.87	Seckel Syndrome	OMIM:210600
+7	0.85	Cerebrooculofacioskeletal Syndrome 1	OMIM:214150
+8	0.83	Rothmund-Thomson Syndrome	OMIM:268400
+9	0.81	Blackfan-Diamond Anemia	OMIM:105650
+10	0.8	Progeria	OMIM:176670

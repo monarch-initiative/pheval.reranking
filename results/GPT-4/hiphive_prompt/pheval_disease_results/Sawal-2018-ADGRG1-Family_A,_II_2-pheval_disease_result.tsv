@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Epileptic Encephalopathy	OMIM:300673
+2	0.89	Pfeiffer syndrome	OMIM:101600
+3	0.85	Zellweger syndrome	OMIM:214100
+4	0.83	Pitt-Hopkins syndrome	OMIM:610954
+5	0.81	Coffin-Lowry syndrome	OMIM:303600
+6	0.8	Fragile X syndrome	OMIM:300624
+7	0.77	Rett syndrome	OMIM:312750
+8	0.76	Mowat-Wilson syndrome	OMIM:235730
+9	0.74	Angelman syndrome	OMIM:105830
+10	0.7	Dravet syndrome	OMIM:607208

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Marfan Syndrome	OMIM:154700
+2	0.93	Loeys-Dietz syndrome	OMIM:609192
+3	0.91	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.89	Cutis laxa, autosomal dominant	OMIM:123700
+5	0.86	Weill-Marchesani syndrome	OMIM:277600
+6	0.84	Stickler Syndrome	OMIM:108300
+7	0.82	Tall stature-scoliosis-macrocephaly syndrome	OMIM:117600
+8	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+9	0.78	Congenital generalised lipodystrophy	OMIM:608594
+10	0.75	Beals syndrome	OMIM:121050

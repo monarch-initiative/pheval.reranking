@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.84	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.82	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.81	Charge Syndrome	OMIM:214800
+4	0.79	Miller-Dieker Syndrome	OMIM:247200
+5	0.78	Noonan Syndrome	OMIM:163950
+6	0.77	Angelman Syndrome	OMIM:105830
+7	0.75	Cohen Syndrome	OMIM:216550
+8	0.74	Prader-Willi Syndrome	OMIM:176270
+9	0.72	Mowat-Wilson Syndrome	OMIM:235730
+10	0.71	Sotos Syndrome	OMIM:117550

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome	OMIM:130000
+2	0.93	Marfan syndrome	OMIM:154700
+3	0.92	Osteogenesis imperfecta	OMIM:166200
+4	0.89	Stickler syndrome	OMIM:108300
+5	0.88	Pseudoxanthoma elasticum	OMIM:264800
+6	0.86	Larsen syndrome	OMIM:150250
+7	0.85	Loeys-Dietz syndrome	OMIM:610168
+8	0.83	Cutis laxa	OMIM:123700
+9	0.81	Lipoprotein Glomerulopathy	OMIM:611771
+10	0.8	Homocystinuria	OMIM:236200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis Congenita	OMIM:613989
+2	0.82	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+3	0.8	Leukodystrophy, Hypomyelinating, 4	OMIM:612233
+4	0.77	Cerebellar Ataxia, Cayman Type	OMIM:601238
+5	0.75	Lysinuric Protein Intolerance	OMIM:222700
+6	0.73	Abetalipoproteinemia	OMIM:200100
+7	0.7	Ataxia-Telangiectasia	OMIM:208900
+8	0.69	Immunodeficiency, Common Variable, 4	OMIM:613494
+9	0.68	Glycine Encephalopathy	OMIM:605899
+10	0.65	Leukemia, Acute Myeloid	OMIM:601626

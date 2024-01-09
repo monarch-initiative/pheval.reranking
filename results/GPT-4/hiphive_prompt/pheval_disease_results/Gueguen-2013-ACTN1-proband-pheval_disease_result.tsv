@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bernard-Soulier Syndrome	OMIM:231200
+2	0.89	Glanzmann Thrombasthenia	OMIM:273800
+3	0.88	Thrombocytopenia 2	OMIM:601977
+4	0.86	Gray Platelet Syndrome	OMIM:139090
+5	0.85	Thrombocytopenia 1	OMIM:313900
+6	0.82	Hermansky-Pudlak Syndrome	OMIM:203300
+7	0.79	MYH9 Related Disorders	OMIM:160775
+8	0.77	Thrombocytopenia With Absent Radii	OMIM:274000
+9	0.75	Platelet-type Bleeding Disorder 11	OMIM:614201
+10	0.74	Thrombocytopenia 3	OMIM:614521

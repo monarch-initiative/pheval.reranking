@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.92	Costello syndrome	OMIM:218040
+3	0.9	Netherton syndrome	OMIM:256500
+4	0.88	Noonan syndrome 1	OMIM:163950
+5	0.85	Sjogren-Larsson syndrome	OMIM:270200
+6	0.8	CHARGE syndrome	OMIM:214800
+7	0.76	Ectrodactyly, ectodermal Dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+8	0.71	Ichthyosis vulgaris	OMIM:146700
+9	0.68	Pitt-Hopkins syndrome	OMIM:610954
+10	0.65	Rapp-Hodgkin syndrome	OMIM:129400

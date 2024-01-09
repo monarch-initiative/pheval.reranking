@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.94	Spastic paraplegia 2	OMIM:312920
+3	0.91	Aicardi-Goutieres syndrome 1	OMIM:225750
+4	0.88	Hyperekplexia 1	OMIM:149400
+5	0.86	Spinocerebellar ataxia type 14	OMIM:605361
+6	0.85	Infantile spasms	OMIM:308350
+7	0.84	Hypomyelinating Leukodystrophy	OMIM:312840
+8	0.82	Pontocerebellar hypoplasia type 2A	OMIM:277470
+9	0.8	Infantile neuroaxonal dystrophy	OMIM:256600
+10	0.78	Early infantile epileptic encephalopathy 17	OMIM:615473

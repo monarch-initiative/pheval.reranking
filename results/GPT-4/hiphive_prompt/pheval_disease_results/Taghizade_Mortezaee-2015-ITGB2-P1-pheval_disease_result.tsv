@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency	OMIM:116920
+2	0.85	Leukocyte Adhesion Deficiency, Type III	OMIM:612840
+3	0.8	Chediak-Higashi syndrome	OMIM:214500
+4	0.75	Chronic Granulomatous Disease	OMIM:233690
+5	0.73	Leukocyte Adhesion Deficiency, Type II	OMIM:607872
+6	0.72	Job syndrome	OMIM:147060
+7	0.7	Hyper IgM syndrome	OMIM:308230
+8	0.68	Warts, Hypogammaglobulinemia, Infections, and Myelokathexis syndrome	OMIM:193670
+9	0.65	Cyclic Neutropenia	OMIM:162800
+10	0.6	Tempi syndrome	OMIM:613554

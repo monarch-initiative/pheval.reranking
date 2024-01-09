@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis vulgaris	OMIM:146700
+2	0.88	Keratosis follicularis	OMIM:124780
+3	0.87	Ectodermal dysplasia	OMIM:604292
+4	0.86	Clouston syndrome	OMIM:129500
+5	0.85	Pili torti	OMIM:261900
+6	0.84	Dyskeratosis congenita	OMIM:127550
+7	0.8	Bjornstad syndrome	OMIM:262000
+8	0.78	Atopic dermatitis	OMIM:603165
+9	0.76	Rapp-Hodgkin syndrome	OMIM:129400
+10	0.74	Alopecia areata	OMIM:104000

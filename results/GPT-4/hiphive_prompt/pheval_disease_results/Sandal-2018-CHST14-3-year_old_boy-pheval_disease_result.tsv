@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Ehlers-Danlos syndrome	OMIM:130000
+2	0.86	Marfan syndrome	OMIM:154700
+3	0.84	Freeman-Sheldon syndrome	OMIM:193700
+4	0.83	Stickler syndrome	OMIM:108300
+5	0.82	Prader-Willi syndrome	OMIM:176270
+6	0.81	Cornelia De Lange syndrome	OMIM:122470
+7	0.78	Waardenburg syndrome	OMIM:194200
+7	0.78	Williams syndrome	OMIM:194050
+9	0.76	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400

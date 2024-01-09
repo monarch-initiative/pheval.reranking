@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myofibrillar Myopathy	OMIM:601419
+2	0.88	Nemaline Myopathy	OMIM:609284
+3	0.86	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+4	0.85	Limb-Girdle Muscular Dystrophy	OMIM:253600
+5	0.82	Distal Myopathy	OMIM:602668
+6	0.8	Myotonic Dystrophy	OMIM:160900
+7	0.77	Centronuclear Myopathy	OMIM:160150
+8	0.73	Hereditary Inclusion Body Myopathy	OMIM:600737
+9	0.72	Becker Muscular Dystrophy	OMIM:300376
+10	0.7	Congenital Fiber Type Disproportion	OMIM:255310

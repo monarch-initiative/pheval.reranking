@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Rett Syndrome	OMIM:312750
+2	0.85	Coffin-Siris syndrome	OMIM:135900
+3	0.84	Prader-Willi Syndrome	OMIM:176270
+4	0.82	Congenital disorder of glycosylation	OMIM:212067
+5	0.81	Congenital myasthenic syndrome	OMIM:608931
+6	0.78	Williams Syndrome	OMIM:194050
+7	0.77	Phelan-McDermid syndrome	OMIM:606232
+8	0.76	Smith-Magenis syndrome	OMIM:182290
+9	0.75	Cornelia de Lange syndrome	OMIM:122470
+10	0.74	Fragile X syndrome	OMIM:300624

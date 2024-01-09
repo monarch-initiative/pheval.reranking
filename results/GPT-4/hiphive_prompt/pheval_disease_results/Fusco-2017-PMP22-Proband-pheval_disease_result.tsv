@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+2	0.91	Charcot-Marie-Tooth disease, type 2L	OMIM:608673
+3	0.87	Charcot-Marie-Tooth disease, type 2I	OMIM:607677
+4	0.83	Hereditary motor and sensory neuropathy, Okinawa type	OMIM:604484
+5	0.81	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+6	0.79	Charcot-Marie-Tooth disease, type 2A2A	OMIM:609260
+7	0.75	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+8	0.73	Dejerine-Sottas syndrome	OMIM:145900
+9	0.7	Neuropathy, hereditary sensory and autonomic, type II	OMIM:201300
+10	0.69	Neuronopathy, distal hereditary motor, type VIII	OMIM:600175

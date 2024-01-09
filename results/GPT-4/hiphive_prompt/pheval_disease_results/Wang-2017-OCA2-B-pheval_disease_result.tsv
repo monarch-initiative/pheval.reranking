@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Oculocutaneous albinism	OMIM:203100
+2	0.91	Waardenburg syndrome	OMIM:193500
+3	0.89	Tuberous sclerosis	OMIM:191100
+4	0.87	Piebaldism	OMIM:172800
+5	0.86	Chediak-Higashi syndrome	OMIM:214500
+6	0.85	Hermansky-Pudlak syndrome	OMIM:203300
+7	0.81	Prader-Willi Syndrome	OMIM:176270
+8	0.79	Albinism, ocular	OMIM:300500
+9	0.75	Retinitis pigmentosa	OMIM:268000
+10	0.72	Neurofibromatosis type 1	OMIM:162200

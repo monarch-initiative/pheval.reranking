@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Aplastic Anemia	OMIM:609135
+2	0.95	Fanconi Anemia	OMIM:227650
+3	0.91	Severe Combined Immunodeficiency	OMIM:600802
+4	0.89	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+5	0.86	Myelodysplastic Syndrome	OMIM:614286
+6	0.84	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+7	0.81	Shwachman-Diamond Syndrome	OMIM:260400
+8	0.79	Dyskeratosis Congenita	OMIM:305000
+9	0.77	Diamond-Blackfan Anemia	OMIM:105650
+10	0.75	Chronic Idiopathic Neutropenia	OMIM:607847

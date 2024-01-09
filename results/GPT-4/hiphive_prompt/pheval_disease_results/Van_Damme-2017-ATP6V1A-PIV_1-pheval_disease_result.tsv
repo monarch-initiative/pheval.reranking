@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.93	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.91	Larsen syndrome	OMIM:150250
+4	0.9	Loeys-Dietz syndrome	OMIM:609192
+5	0.88	Cutis laxa, autosomal dominant	OMIM:123700
+6	0.85	Beals syndrome	OMIM:121050
+7	0.83	Bardet-Biedl Syndrome	OMIM:209900
+8	0.81	Alport Syndrome	OMIM:301050
+9	0.8	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+10	0.75	Prader-Willi Syndrome	OMIM:176270

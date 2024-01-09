@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Coffin-Siris syndrome 1	OMIM:135900
+2	0.96	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.95	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.92	Weaver syndrome	OMIM:277590
+5	0.91	Pitt-Hopkins syndrome	OMIM:610954
+6	0.89	Mowat-Wilson syndrome	OMIM:235730
+7	0.87	Aarskog-Scott syndrome	OMIM:305400
+8	0.86	Floating-Harbor syndrome	OMIM:136140
+9	0.83	Williams Beuren syndrome	OMIM:194050
+10	0.82	Noonan syndrome 1	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Long QT Syndrome	OMIM:192500
+2	0.91	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.89	McArdle Disease	OMIM:232600
+4	0.88	Timothy Syndrome	OMIM:601005
+5	0.86	Brugada Syndrome	OMIM:601144
+6	0.85	Hypokalemic Periodic Paralysis	OMIM:170400
+7	0.82	Andersen-Tawil Syndrome	OMIM:170390
+8	0.8	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+9	0.78	Duchenne Muscular Dystrophy	OMIM:310200
+10	0.77	Short QT Syndrome	OMIM:609620

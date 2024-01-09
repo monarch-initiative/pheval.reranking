@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pfeiffer syndrome	OMIM:101600
+2	0.91	Apert syndrome	OMIM:101200
+3	0.89	Crouzon syndrome	OMIM:123500
+4	0.87	Stickler syndrome	OMIM:108300
+5	0.85	Cohen Syndrome	OMIM:216550
+6	0.83	Smith-Magenis Syndrome	OMIM:182290
+7	0.81	Marfan Syndrome	OMIM:154700
+8	0.79	Ehlers-Danlos syndrome	OMIM:130000
+9	0.77	Schwartz-Jampel syndrome	OMIM:255800
+10	0.75	Osteogenesis imperfecta	OMIM:166200

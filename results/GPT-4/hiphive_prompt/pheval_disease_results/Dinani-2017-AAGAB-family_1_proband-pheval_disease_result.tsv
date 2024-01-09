@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Palmoplantar Keratoderma, Nonepidermolytic, Focal or Diffuse	OMIM:600962
+2	0.85	Ectodermal Dysplasia-Sensorineural Deafness Syndrome	OMIM:129490
+3	0.8	Hidrotic Ectodermal Dysplasia Syndrome	OMIM:129500
+4	0.78	Odonto-Onycho-Dermal Dysplasia	OMIM:257980
+5	0.75	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+6	0.73	Ectodermal Dysplasia-Syndactyly Syndrome	OMIM:613573
+7	0.7	Dermoodontodysplasia	OMIM:166260
+8	0.68	Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema	OMIM:300301
+9	0.65	Ectodermal Dysplasia with Natal Teeth, Turnpenny Type	OMIM:614941
+10	0.6	Ankyloblepharon-Ectodermal Defects-Cleft Lip/Palate Syndrome	OMIM:106260

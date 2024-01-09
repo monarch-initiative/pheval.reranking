@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Congenital disorder of deglycosylation	OMIM:615273
+2	0.85	Alzheimer disease, familial, type 3	OMIM:607822
+3	0.81	Epilepsy, progressive myoclonic 6	OMIM:614018
+4	0.79	Mental retardation, autosomal dominant 19	OMIM:615075
+5	0.76	Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies	OMIM:613153
+6	0.74	Nemaline myopathy 8, autosomal recessive	OMIM:615348
+7	0.72	Severe Myoclonic Epilepsy in Infancy	OMIM:607208
+8	0.7	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome	OMIM:213200
+9	0.68	SCHIZENCEPHALY	OMIM:269160
+10	0.65	Microcephalic osteodysplastic primordial dwarfism	OMIM:210720

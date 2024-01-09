@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Friedreich ataxia	OMIM:229300
+2	0.92	Ataxia-telangiectasia	OMIM:208900
+3	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.87	Fanconi anemia	OMIM:227650
+5	0.85	Diamond-Blackfan anemia	OMIM:105650
+6	0.82	Dyskeratosis congenita	OMIM:127550
+7	0.79	Werner syndrome	OMIM:277700
+8	0.77	Spinocerebellar Ataxia	OMIM:164400
+9	0.75	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.73	Leigh syndrome	OMIM:256000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Myotonic dystrophy	OMIM:160900
+2	0.89	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.85	Spinal muscular atrophy	OMIM:253300
+4	0.83	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.82	Becker muscular dystrophy	OMIM:300376
+6	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+7	0.77	Bulbar palsy, progressive	OMIM:125900
+8	0.75	Lambert-Eaton syndrome	OMIM:600603
+9	0.73	Myasthenia gravis	OMIM:254200
+10	0.7	Congenital myopathy	OMIM:255310

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Diamond-Blackfan anemia	OMIM:105650
+2	0.91	Fanconi anemia	OMIM:227650
+3	0.88	Dyskeratosis congenita	OMIM:127550
+4	0.85	Shwachman-Diamond syndrome	OMIM:260400
+5	0.83	Congenital dyserythropoietic anemia	OMIM:224120
+6	0.81	Severe combined immunodeficiency	OMIM:102700
+7	0.76	Thrombocytopenia-absent radius syndrome	OMIM:274000
+8	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.68	Primary myelofibrosis	OMIM:254450
+10	0.65	Myelodysplastic syndrome	OMIM:614286

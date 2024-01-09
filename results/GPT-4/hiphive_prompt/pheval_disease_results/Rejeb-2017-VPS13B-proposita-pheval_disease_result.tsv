@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cohen Syndrome	OMIM:216550
+2	0.89	Smith-Magenis Syndrome	OMIM:182290
+3	0.87	Mucolipidosis IV	OMIM:252650
+4	0.86	Sotos Syndrome	OMIM:117550
+5	0.85	Coffin-Siris Syndrome	OMIM:135900
+6	0.84	Albright Hereditary Osteodystrophy	OMIM:103580
+7	0.83	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.82	Beckwith-Wiedemann Syndrome	OMIM:130650
+9	0.81	Holoprosencephaly	OMIM:236100
+10	0.8	Aarskog-Scott Syndrome	OMIM:305400

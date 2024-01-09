@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pernicious anemia	OMIM:261100
+2	0.92	Megaloblastic anemia due to dihydrofolate reductase deficiency	OMIM:261150
+3	0.9	Imerslund-Grasbeck syndrome	OMIM:261100
+4	0.88	Renal Fanconi syndrome	OMIM:194000
+5	0.85	Cuban epidemic optic neuropathy	OMIM:500000
+6	0.8	Megaloblastic anemia, Finnish type	OMIM:261100
+7	0.75	Juvenile Pernicious anemia	OMIM:609135
+8	0.72	Nephrotic syndrome, type 1	OMIM:256300
+9	0.68	Alport syndrome	OMIM:301050
+10	0.65	Acute Poststreptococcal Glomerulonephritis	OMIM:615008

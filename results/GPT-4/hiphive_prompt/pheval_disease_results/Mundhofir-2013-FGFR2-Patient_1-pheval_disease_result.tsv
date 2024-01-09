@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Crouzon syndrome	OMIM:123500
+2	0.91	Apert syndrome	OMIM:101200
+3	0.89	Pfeiffer syndrome	OMIM:101600
+4	0.87	Carpenter syndrome	OMIM:201000
+5	0.85	Saethre-Chotzen syndrome	OMIM:101400
+6	0.84	Jackson-Weiss syndrome	OMIM:123150
+7	0.82	Craniofrontonasal syndrome	OMIM:304110
+8	0.81	Noonan syndrome	OMIM:163950
+9	0.79	Trisomy 13	OMIM:264480
+10	0.78	Roberts syndrome	OMIM:268300

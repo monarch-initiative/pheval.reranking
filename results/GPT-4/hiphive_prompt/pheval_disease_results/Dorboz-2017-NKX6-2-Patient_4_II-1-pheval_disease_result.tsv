@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Retinal degeneration-nanophthalmos-glaucoma syndrome	OMIM:267760
+2	0.89	Aicardi-goutieres syndrome	OMIM:225750
+3	0.87	Neonatal adrenoleukodystrophy	OMIM:256000
+4	0.86	Infantile neuroaxonal dystrophy	OMIM:256600
+5	0.85	Pelizaeus-merzbacher disease	OMIM:312080
+6	0.83	Mitochondrial dna depletion syndrome	OMIM:603041
+7	0.82	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:609386
+8	0.81	Congenital disorder of deglycosylation	OMIM:615273
+8	0.81	Ataxia-ocular apraxia	OMIM:208920
+10	0.8	Cockayne syndrome	OMIM:216400

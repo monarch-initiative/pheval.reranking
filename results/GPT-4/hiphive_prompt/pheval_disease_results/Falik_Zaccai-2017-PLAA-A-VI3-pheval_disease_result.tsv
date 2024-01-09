@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.83	Coffin-Lowry Syndrome	OMIM:303600
+3	0.82	Congenital Disorders of Glycosylation, Type Ia	OMIM:212065
+4	0.81	Polyglucosan Body Myopathy 1 with or without Immunodeficiency	OMIM:615895
+5	0.8	Seckel Syndrome	OMIM:210600
+6	0.79	Leigh Syndrome	OMIM:256000
+7	0.78	Refsum Disease	OMIM:266500
+8	0.75	Canavan Disease	OMIM:271900
+9	0.72	Krabbe Disease	OMIM:245200
+10	0.71	Neuronal Ceroid Lipofuscinosis	OMIM:204200

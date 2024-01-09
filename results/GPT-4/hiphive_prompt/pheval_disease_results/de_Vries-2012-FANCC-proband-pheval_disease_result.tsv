@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Fanconi Anemia	OMIM:227650
+2	0.87	Noonan Syndrome	OMIM:163950
+3	0.85	Seckel Syndrome	OMIM:210600
+4	0.82	Diamond-Blackfan Anemia	OMIM:105650
+5	0.81	Russell-Silver Syndrome	OMIM:180860
+6	0.77	Costello Syndrome	OMIM:218040
+7	0.75	Silver-Russell Syndrome	OMIM:180860
+8	0.74	Watson Syndrome	OMIM:193520
+9	0.71	LEOPARD Syndrome	OMIM:151100
+10	0.7	Bloom Syndrome	OMIM:210900

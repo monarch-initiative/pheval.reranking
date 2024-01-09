@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM Syndrome	OMIM:308230
+2	0.87	Severe Combined Immunodeficiency	OMIM:102700
+3	0.85	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.82	Chediak-Higashi Syndrome	OMIM:214500
+5	0.81	Hyper IgE Syndrome	OMIM:147060
+6	0.78	Chronic Granulomatous Disease	OMIM:306400
+7	0.75	Ataxia-telangiectasia	OMIM:208900
+8	0.72	Common Variable Immunodeficiency	OMIM:607594
+9	0.7	Albinism	OMIM:203200
+10	0.67	Osteopetrosis	OMIM:259700

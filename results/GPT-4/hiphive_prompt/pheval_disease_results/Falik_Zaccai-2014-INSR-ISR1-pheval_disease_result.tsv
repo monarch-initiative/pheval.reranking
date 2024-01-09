@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Congenital Generalized Lipodystrophy	OMIM:608594
+2	0.9	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+3	0.88	Insulinoma	OMIM:102200
+4	0.85	Congenital Hyperinsulinism	OMIM:256450
+5	0.83	Familial Partial Lipodystrophy	OMIM:151660
+6	0.82	Cystic Kidney Disease	OMIM:219700
+7	0.8	MEN1 syndrome	OMIM:131100
+8	0.78	Primary Immunodeficiency Disorder	OMIM:300755
+9	0.77	Familial Hyperinsulinemic Hypoglycemia	OMIM:601820
+10	0.75	Hypertrophic Cardiomyopathy	OMIM:192600

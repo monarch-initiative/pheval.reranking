@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+2	0.96	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+3	0.95	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+4	0.94	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+5	0.93	Spastic paraplegia 31, autosomal dominant	OMIM:610250
+6	0.92	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+7	0.89	Hereditary spastic paraplegia	OMIM:312910
+8	0.88	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+9	0.85	Mitochondrial complex I deficiency, nuclear type 1	OMIM:252010
+10	0.83	Friedreich ataxia 1	OMIM:229300

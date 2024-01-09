@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.92	Ataxia-Telangiectasia	OMIM:208900
+3	0.91	Stickler Syndrome, Type I	OMIM:108300
+4	0.89	Neurodegeneration With Brain Iron Accumulation 1	OMIM:234200
+5	0.88	Friedreich Ataxia	OMIM:229300
+6	0.87	Spinocerebellar Ataxia 3	OMIM:109150
+7	0.85	Huntington Disease	OMIM:143100
+8	0.82	Niemann-Pick Disease, Type C1	OMIM:257220
+9	0.81	Weill-Marchesani Syndrome	OMIM:277600
+10	0.8	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200

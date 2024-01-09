@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.9	Coffin-Lowry Syndrome	OMIM:303600
+3	0.88	Cornelia de Lange Syndrome	OMIM:122470
+4	0.85	CHARGE Syndrome	OMIM:214800
+5	0.84	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.82	Williams Syndrome	OMIM:194050
+7	0.81	Fragile X Syndrome	OMIM:300624
+8	0.79	Noonan Syndrome	OMIM:163950
+9	0.76	Angelman Syndrome	OMIM:105830
+10	0.75	Prader-Willi Syndrome	OMIM:176270

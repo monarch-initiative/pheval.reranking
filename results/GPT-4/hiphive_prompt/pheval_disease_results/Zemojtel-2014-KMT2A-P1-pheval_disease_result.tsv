@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Coffin-Siris Syndrome 1	OMIM:135900
+2	0.82	Williams Syndrome	OMIM:194050
+3	0.8	Rubinstein-Taybi Syndrome 1	OMIM:180849
+4	0.77	Cornelia De Lange Syndrome 1	OMIM:122470
+5	0.74	Smith-Magenis Syndrome	OMIM:182290
+6	0.69	Kabuki Syndrome 1	OMIM:147920
+7	0.68	Sotos Syndrome 1	OMIM:117550
+8	0.65	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.61	Noonan Syndrome 1	OMIM:163950
+10	0.57	Pfeiffer Syndrome	OMIM:101600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Papillon-Lefevre Disease	OMIM:245000
+2	0.89	Haim-Munk Syndrome	OMIM:245010
+3	0.88	Paronychia	OMIM:167210
+4	0.86	Cherubism	OMIM:118400
+5	0.85	Periodontitis, Juvenile	OMIM:604625
+6	0.84	Ecthyma, Familial, of Limbs	OMIM:131200
+7	0.83	Periodontitis 1, Juvenile	OMIM:170650
+8	0.82	Hypophosphatasia	OMIM:146300
+9	0.81	Hyper IgM syndrome	OMIM:308230
+10	0.8	Epidermodysplasia Verruciformis	OMIM:226400

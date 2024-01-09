@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Wilson disease	OMIM:277900
+2	0.96	Hemochromatosis	OMIM:235200
+3	0.94	Hepatic Cirrhosis	OMIM:231530
+4	0.93	Primary Biliary Cirrhosis	OMIM:109720
+5	0.91	Tyrosinemia type I	OMIM:276700
+6	0.88	Alcohol Abuse	OMIM:103780
+7	0.86	Acute Liver Failure	OMIM:612004
+8	0.83	Hepatitis C	OMIM:609532
+9	0.8	Non-alcoholic Fatty Liver Disease	OMIM:615731
+10	0.79	Hepatitis B	OMIM:610424

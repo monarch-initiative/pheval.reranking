@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cockayne Syndrome	OMIM:216400
+2	0.89	Trichothiodystrophy	OMIM:601675
+3	0.88	Wolfram Syndrome	OMIM:222300
+4	0.85	Xeroderma Pigmentosum	OMIM:278700
+5	0.83	Seckel Syndrome	OMIM:210600
+6	0.8	Osteogenesis Imperfecta	OMIM:166200
+7	0.78	Rothmund-Thomson Syndrome	OMIM:268400
+8	0.77	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+9	0.72	Alkaptonuria	OMIM:203500
+10	0.71	Cornelia de Lange Syndrome	OMIM:122470

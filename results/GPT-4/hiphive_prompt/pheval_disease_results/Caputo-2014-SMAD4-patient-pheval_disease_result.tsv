@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+2	0.87	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.85	Cornelia de Lange syndrome	OMIM:122470
+4	0.8	Freeman-Sheldon syndrome	OMIM:193700
+5	0.77	Fibrodysplasia ossificans progressiva	OMIM:135100
+6	0.73	Stickler syndrome	OMIM:108300
+7	0.71	Pfeiffer syndrome	OMIM:101600
+8	0.68	Ehlers-Danlos syndrome	OMIM:130000
+9	0.65	Sclerosteosis	OMIM:269500
+10	0.6	Marfan syndrome	OMIM:154700

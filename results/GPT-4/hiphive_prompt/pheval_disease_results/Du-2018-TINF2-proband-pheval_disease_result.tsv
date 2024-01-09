@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Dyskeratosis Congenita	OMIM:127550
+2	0.91	Darier Disease	OMIM:124200
+3	0.9	Epidermolysis Bullosa Simplex	OMIM:131760
+4	0.88	Pachyonychia Congenita	OMIM:167210
+5	0.87	Cystic Fibrosis	OMIM:219700
+6	0.85	Palmoplantar Keratoderma	OMIM:144200
+7	0.84	Oculocutaneous Albinism	OMIM:203100
+8	0.83	Coats Plus Syndrome	OMIM:612199
+9	0.82	Hoyeraal Hreidarsson Syndrome	OMIM:300240
+10	0.81	Severe Combined Immunodeficiency	OMIM:102700

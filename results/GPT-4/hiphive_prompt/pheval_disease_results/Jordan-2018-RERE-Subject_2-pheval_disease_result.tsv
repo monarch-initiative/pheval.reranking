@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 1	OMIM:163950
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+3	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.81	Congenital disorder of deglycosylation	OMIM:615273
+5	0.79	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.78	Rubinstein-Taybi syndrome 1	OMIM:180849
+7	0.76	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+8	0.73	Carrington syndrome	OMIM:211800
+9	0.7	Marfan syndrome	OMIM:154700
+10	0.65	Hypertelorism, Teebi type	OMIM:145420

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mowat-Wilson Syndrome	OMIM:235730
+2	0.91	Rett Syndrome	OMIM:312750
+3	0.89	Christianson Syndrome	OMIM:300243
+4	0.88	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.87	Coffin-Lowry Syndrome	OMIM:303600
+6	0.85	Pitt-Hopkins Syndrome	OMIM:610954
+7	0.84	Fragile X Syndrome	OMIM:300624
+8	0.83	Aicardi-Goutieres Syndrome	OMIM:225750
+9	0.82	Angelman Syndrome	OMIM:105830
+10	0.81	Prader-Willi Syndrome	OMIM:176270

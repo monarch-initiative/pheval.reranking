@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypophosphatasia	OMIM:241500
+2	0.88	Osteogenesis Imperfecta	OMIM:166200
+3	0.85	Paget Disease Of Bone	OMIM:167250
+4	0.83	Gaucher Disease	OMIM:230800
+5	0.82	Ehlers-Danlos Syndrome	OMIM:130000
+6	0.8	Wilson Disease	OMIM:277900
+7	0.79	Familial Hypocalciuric Hypercalcemia	OMIM:145980
+8	0.76	Primary Biliary Cirrhosis	OMIM:109720
+9	0.75	Marfan Syndrome	OMIM:154700
+10	0.7	Zellweger Syndrome	OMIM:214100

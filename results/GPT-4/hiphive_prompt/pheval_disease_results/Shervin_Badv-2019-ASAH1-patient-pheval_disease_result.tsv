@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pompe disease	OMIM:232300
+2	0.85	McArdle Syndrome	OMIM:232600
+3	0.84	Duchenne muscular dystrophy	OMIM:310200
+4	0.82	Mitochondrial myopathy	OMIM:500900
+5	0.8	Charcot-Marie-Tooth disease	OMIM:118200
+6	0.78	Progressive myoclonus epilepsy	OMIM:254800
+7	0.76	Myotonic dystrophy	OMIM:160900
+8	0.75	Amyotrophic lateral sclerosis	OMIM:205100
+9	0.74	Becker muscular dystrophy	OMIM:300376
+10	0.72	Limb-girdle muscular dystrophy	OMIM:253600

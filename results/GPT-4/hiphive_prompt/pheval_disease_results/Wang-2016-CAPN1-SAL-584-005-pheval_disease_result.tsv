@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spinocerebellar Ataxia	OMIM:164400
+2	0.88	Cerebrotendinous Xanthomatosis	OMIM:213700
+3	0.86	Friedreich Ataxia	OMIM:229300
+4	0.85	Autosomal Dominant Hereditary Spastic Paraplegia	OMIM:18765
+5	0.83	Ataxia Telangiectasia	OMIM:208900
+6	0.82	Autosomal Recessive Hereditary Spastic Paraplegia	OMIM:603563
+7	0.81	Episodic Ataxia Type 1	OMIM:160120
+8	0.8	Fahr Disease	OMIM:213600
+9	0.76	Wilson disease	OMIM:277900
+10	0.75	Episodic Ataxia Type 2	OMIM:108500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+2	0.93	Friedreich ataxia 1	OMIM:229300
+3	0.89	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+4	0.88	Ataxia-telangiectasia	OMIM:208900
+5	0.86	Spinocerebellar ataxia 2	OMIM:183090
+6	0.81	Refsum disease	OMIM:266500
+7	0.79	Mitochondrial complex I deficiency	OMIM:252010
+8	0.77	Spinocerebellar ataxia 3	OMIM:109150
+9	0.74	Abetalipoproteinemia	OMIM:200100
+10	0.71	Ataxia with vitamin E deficiency	OMIM:277460

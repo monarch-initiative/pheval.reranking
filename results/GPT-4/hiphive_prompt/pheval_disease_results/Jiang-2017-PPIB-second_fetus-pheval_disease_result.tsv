@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta, Type II	OMIM:166210
+2	0.93	Osteogenesis Imperfecta, Type III	OMIM:259420
+3	0.91	Osteogenesis Imperfecta, Type IV	OMIM:166220
+4	0.88	Hypophosphatasia, Perinatal Lethal Form	OMIM:241500
+5	0.87	Osteogenesis Imperfecta, Type I	OMIM:166200
+6	0.82	Campomelic Dysplasia	OMIM:114290
+7	0.81	Osteoporosis-Pseudoglioma Syndrome	OMIM:259770
+8	0.78	Osteogenesis Imperfecta, Type XIII	OMIM:614856
+9	0.76	Achondrogenesis	OMIM:200600
+10	0.72	Osteopetrosis, Autosomal Recessive 1	OMIM:259700

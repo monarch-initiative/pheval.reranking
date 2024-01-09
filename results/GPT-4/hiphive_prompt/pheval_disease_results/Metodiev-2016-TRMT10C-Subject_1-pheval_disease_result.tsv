@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial complex I deficiency	OMIM:252010
+2	0.92	Leigh syndrome	OMIM:256000
+3	0.9	Kearns-Sayre syndrome	OMIM:530000
+4	0.88	Barth syndrome	OMIM:302060
+5	0.86	MELAS	OMIM:540000
+6	0.84	Pyruvate dehydrogenase deficiency	OMIM:312170
+7	0.82	Carnitine deficiency, systemic primary	OMIM:212140
+8	0.79	NEM6, NPHP4-related	OMIM:615510
+9	0.76	Myopathy, lactic acidosis, and sideroblastic anemia 2	OMIM:613561
+10	0.73	MERRF	OMIM:545000

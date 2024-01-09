@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Alagille syndrome 1	OMIM:118450
+2	0.89	Nguyen syndrome	OMIM:617290
+3	0.86	Cerebrooculofacioskeletal Syndrome 2	OMIM:610756
+4	0.82	Coffin-Siris syndrome 3	OMIM:614608
+5	0.8	Nephrotic syndrome, type 8	OMIM:615244
+6	0.79	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.74	Microcephalic osteodysplastic primordial dwarfism types I/III	OMIM:210710
+8	0.72	Floating-Harbor syndrome	OMIM:136140
+9	0.7	Congenital disorder of deglycosylation	OMIM:615273
+10	0.68	Aicardi-Goutieres syndrome 6	OMIM:615010

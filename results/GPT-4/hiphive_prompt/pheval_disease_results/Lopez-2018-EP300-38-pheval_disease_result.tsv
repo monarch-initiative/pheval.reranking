@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Coffin-Siris Syndrome	OMIM:135900
+2	0.88	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.87	Cornelia de Lange Syndrome	OMIM:122470
+4	0.86	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.85	Sotos Syndrome	OMIM:117550
+6	0.84	Williams Syndrome	OMIM:194050
+7	0.83	CHARGE Syndrome	OMIM:214800
+8	0.81	Crouzon Syndrome	OMIM:123500
+9	0.8	Opitz G/BBB Syndrome	OMIM:300000
+10	0.78	Pfieffer Syndrome	OMIM:101600

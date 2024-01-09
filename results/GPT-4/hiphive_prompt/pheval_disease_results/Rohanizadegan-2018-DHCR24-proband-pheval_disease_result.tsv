@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cornelia de Lange syndrome	OMIM:122470
+2	0.89	Coffin-Lowry syndrome	OMIM:303600
+3	0.88	Noonan syndrome	OMIM:163950
+4	0.86	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.85	Williams Syndrome	OMIM:194050
+6	0.83	CHARGE syndrome	OMIM:214800
+7	0.82	Smith-Magenis Syndrome	OMIM:182290
+8	0.8	Apert syndrome	OMIM:101200
+9	0.79	Stickler Syndrome	OMIM:108300
+10	0.77	Crouzon syndrome	OMIM:123500

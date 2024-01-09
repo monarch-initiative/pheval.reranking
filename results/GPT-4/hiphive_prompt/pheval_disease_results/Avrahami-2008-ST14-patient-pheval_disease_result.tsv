@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis, Congenital, Autosomal Recessive 1	OMIM:242300
+2	0.85	Ichthyosis, Congenital, Autosomal Recessive 4B	OMIM:601277
+3	0.8	Hypotrichosis-Lymphedema-Telangiectasia Syndrome	OMIM:607823
+4	0.78	Blepharitis, Hereditary, With Associated Keratoconjunctivitis Sicca	OMIM:110100
+5	0.75	Ichthyosis, Congenital, Autosomal Recessive 4A	OMIM:615026
+6	0.73	Ectodermal Dysplasia, Hypohidrotic, With Hypothyroidism And Agenesis Of The Corpus Callosum	OMIM:225040
+7	0.7	Ectodermal Dysplasia, Anhidrotic, With T-Cell Immunodeficiency, Autosomal Dominant	OMIM:612132
+8	0.68	Hair Defect With Photosensitivity And Mental Retardation	OMIM:614350
+9	0.65	Oliver-McFarlane Syndrome	OMIM:275400
+10	0.6	Ichthyosis, Congenital, Autosomal Recessive 9	OMIM:615023

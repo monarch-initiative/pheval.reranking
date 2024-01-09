@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary Congenital Glaucoma	OMIM:231300
+2	0.92	Axenfeld-Rieger Syndrome, Type 1	OMIM:180500
+3	0.9	Aniridia	OMIM:106210
+4	0.88	Peters Anomaly	OMIM:604229
+5	0.86	Megacornea	OMIM:309300
+6	0.82	Marfan Syndrome	OMIM:154700
+7	0.8	Congenital Hereditary Endothelial Dystrophy 1	OMIM:121700
+8	0.78	Sclerocornea	OMIM:181700
+9	0.76	Alkaptonuria	OMIM:203500
+10	0.74	Weill-Marchesani Syndrome	OMIM:277600

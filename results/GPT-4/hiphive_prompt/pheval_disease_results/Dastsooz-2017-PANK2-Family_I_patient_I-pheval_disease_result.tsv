@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.89	Canavan disease	OMIM:271900
+3	0.88	Infantile neuroaxonal dystrophy	OMIM:256600
+4	0.87	Alexander disease	OMIM:203450
+5	0.85	Beta-propeller protein-associated neurodegeneration	OMIM:300894
+6	0.83	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.79	Menkes disease	OMIM:309400
+8	0.78	Metachromatic leukodystrophy	OMIM:250100
+9	0.76	Niemann-Pick disease type C	OMIM:257220
+10	0.73	Wilson disease	OMIM:277900

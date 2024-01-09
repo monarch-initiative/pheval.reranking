@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autoimmune Polyendocrine Syndrome, Type I	OMIM:240300
+2	0.85	Hypoparathyroidism, Familial Isolated	OMIM:146200
+3	0.82	DiGeorge Syndrome	OMIM:188400
+4	0.8	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410
+5	0.79	Hypoparathyroidism-Deafness-Renal Disease Syndrome	OMIM:146255
+6	0.78	Hypoparathyroidism with Sensorineural Deafness and Renal Dysplasia	OMIM:146255
+7	0.76	Hematuria, Benign Familial	OMIM:141200
+8	0.75	Pseudohypoparathyroidism, Type 1A	OMIM:103580
+9	0.73	Cataract 35	OMIM:615274
+10	0.7	Bartter Syndrome, Type 4a, Neonatal, with Sensorineural Deafness	OMIM:602522

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Prader-Willi syndrome	OMIM:176270
+2	0.85	Bartter syndrome	OMIM:241200
+3	0.8	Kartagener syndrome	OMIM:244400
+4	0.79	Congenital heart disease	OMIM:192800
+5	0.78	Meckel syndrome	OMIM:249000
+6	0.77	VACTERL association	OMIM:192350
+7	0.74	Coffin-Siris syndrome	OMIM:135900
+8	0.73	Fragile X syndrome	OMIM:300624
+9	0.72	Alagille syndrome	OMIM:118450
+10	0.7	CHARGE syndrome	OMIM:214800

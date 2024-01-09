@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Noonan Syndrome	OMIM:163950
+2	0.95	Sotos Syndrome	OMIM:117550
+3	0.92	Costello Syndrome	OMIM:218040
+4	0.9	Crouzon Syndrome	OMIM:123500
+5	0.86	Coffin-Siris Syndrome	OMIM:135900
+6	0.84	Weaver Syndrome	OMIM:277590
+7	0.81	Simpson-Golabi-Behmel Syndrome	OMIM:312870
+8	0.8	Apert Syndrome	OMIM:101200
+9	0.78	Beare-Stevenson Cutis Gyrata Syndrome	OMIM:123790
+10	0.76	Rett Syndrome	OMIM:312750

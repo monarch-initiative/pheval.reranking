@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ehlers-Danlos syndrome, classical type	OMIM:130000
+2	0.86	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.84	Aarskog-Scott syndrome	OMIM:100050
+4	0.83	Cornelia de Lange syndrome	OMIM:122470
+5	0.8	Smith-Magenis syndrome	OMIM:182290
+6	0.78	Williams syndrome	OMIM:194050
+7	0.77	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+8	0.74	Sotos syndrome	OMIM:117550
+9	0.73	Noonan syndrome	OMIM:163950
+10	0.71	Stickler syndrome	OMIM:108300

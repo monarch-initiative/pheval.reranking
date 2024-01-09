@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cleidocranial Dysplasia	OMIM:119600
+2	0.89	Pyle Disease	OMIM:265900
+3	0.88	Osteogenesis Imperfecta type III	OMIM:259420
+4	0.86	Coffin-Lowry syndrome	OMIM:303600
+5	0.85	Apert Syndrome	OMIM:101200
+6	0.84	Tricho-rhino-phalangeal syndrome type I	OMIM:190350
+7	0.83	Craniometaphyseal Dysplasia	OMIM:123000
+8	0.82	Pyknodysostosis	OMIM:265800
+9	0.8	Acrodysostosis	OMIM:101800
+10	0.78	Costello Syndrome	OMIM:218040

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.85	Prader-Willi Syndrome	OMIM:176270
+3	0.83	Down Syndrome	OMIM:190685
+4	0.8	Turner Syndrome	OMIM:314350
+5	0.78	Williams Syndrome	OMIM:194050
+6	0.73	Smith-Magenis Syndrome	OMIM:182290
+7	0.71	Angelman Syndrome	OMIM:105830
+8	0.68	Cornelia de Lange Syndrome	OMIM:122470
+9	0.65	Russell-Silver Syndrome	OMIM:180860
+10	0.6	Wolf-Hirschhorn Syndrome	OMIM:194190

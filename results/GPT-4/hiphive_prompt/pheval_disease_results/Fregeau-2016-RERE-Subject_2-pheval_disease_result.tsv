@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.958	Mowat-Wilson syndrome	OMIM:235730
+2	0.922	Fraser syndrome	OMIM:219000
+3	0.891	Cooper syndrome	OMIM:200990
+4	0.868	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+5	0.85	Renal-coloboma syndrome	OMIM:120330
+6	0.823	Hypoplasia of the corpus callosum	OMIM:216820
+7	0.801	Treacher Collins syndrome	OMIM:154500
+8	0.793	Sotos syndrome	OMIM:117550
+9	0.783	Emanuel Syndrome	OMIM:609029
+10	0.782	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus syndrome	OMIM:603387

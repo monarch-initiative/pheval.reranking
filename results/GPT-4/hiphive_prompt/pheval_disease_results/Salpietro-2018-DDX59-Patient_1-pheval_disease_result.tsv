@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.917	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.89	Coffin-Siris syndrome 1	OMIM:135900
+3	0.878	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+4	0.865	Seckel syndrome 1	OMIM:210600
+5	0.853	Cornelia de Lange syndrome 1	OMIM:122470
+6	0.839	Rubinstein-Taybi syndrome 1	OMIM:180849
+7	0.826	Aarskog-Scott syndrome	OMIM:305400
+8	0.815	Mandibulofacial dysostosis with microcephaly	OMIM:610536
+9	0.803	Jackson-Weiss syndrome	OMIM:123150
+10	0.789	Jacobsen syndrome	OMIM:147791

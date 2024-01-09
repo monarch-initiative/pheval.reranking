@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizeaus-Merzbacher disease	OMIM:312080
+2	0.93	Spastic Paraplegia 11	OMIM:604360
+3	0.91	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	OMIM:611105
+4	0.89	Hypomyelination, Hypogonadotropic Hypogonadism, and Hypodontia	OMIM:235730
+5	0.88	Hypomyelination with Atrophy of Basal Ganglia and Cerebellum	OMIM:612438
+6	0.85	Metachromatic Leukodystrophy	OMIM:250100
+7	0.83	Leukoencephalopathy with Vanishing White Matter	OMIM:603896
+8	0.82	Spastic Paraplegia 2	OMIM:312920
+9	0.8	Autosomal Recessive Cerebellar Ataxia, Saccadic Intrusion Type	OMIM:614756
+10	0.78	Spinocerebellar Ataxia, Autosomal Recessive 2	OMIM:213200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Amyotrophic Lateral Sclerosis	OMIM:105400
+2	0.91	Progressive Bulbar Palsy	OMIM:126100
+3	0.87	Primary Lateral Sclerosis	OMIM:611637
+4	0.85	Spinal Muscular Atrophy	OMIM:253300
+5	0.8	Bulbospinal Muscular Atrophy	OMIM:182980
+6	0.78	Kennedy Disease	OMIM:313200
+7	0.75	Infantile-Onset Ascending Hereditary Spastic Paralysis	OMIM:607225
+8	0.74	Adult-Onset Autosomal Recessive Spastic Paraplegia	OMIM:604360
+9	0.71	Juvenile Amyotrophic Lateral Sclerosis	OMIM:205200
+10	0.7	Congenital Muscular Dystrophy	OMIM:613205

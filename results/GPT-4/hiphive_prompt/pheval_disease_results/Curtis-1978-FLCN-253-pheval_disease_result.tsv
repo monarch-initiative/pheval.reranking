@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Birt-Hogg-Dube Syndrome	OMIM:135150
+2	0.92	Pneumothorax, Spontaneous, 1	OMIM:173600
+3	0.89	Pneumothorax, Spontaneous, 2	OMIM:300840
+4	0.86	Pleuropulmonary blastoma	OMIM:601200
+5	0.83	Familial multiple discoid fibromas	OMIM:605408
+6	0.8	Marfan Syndrome	OMIM:154700
+7	0.77	Tuberous Sclerosis	OMIM:191100
+8	0.74	Langerhans Cell Histiocytosis	OMIM:604862
+9	0.7	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+10	0.67	Loeys-Dietz syndrome	OMIM:609192

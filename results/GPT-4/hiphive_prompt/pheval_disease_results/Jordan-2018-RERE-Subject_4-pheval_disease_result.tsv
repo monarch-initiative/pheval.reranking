@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Joubert Syndrome	OMIM:213300
+2	0.94	Rett Syndrome	OMIM:312750
+3	0.92	Angelman Syndrome	OMIM:105830
+4	0.91	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.88	Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome	OMIM:224050
+6	0.87	Barth Syndrome	OMIM:302060
+7	0.85	Chromosomal disorder with intellectual disability	OMIM:216550
+8	0.84	Congenital disorders of N-linked glycosylation and multiple pathway	OMIM:212067
+8	0.84	Prader-Willi Syndrome	OMIM:176270
+10	0.83	Alagille Syndrome	OMIM:118450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Apert Syndrome	OMIM:101200
+2	0.85	Crouzon Syndrome	OMIM:123500
+3	0.83	Pfeiffer Syndrome	OMIM:101600
+4	0.82	Carpenter syndrome	OMIM:201000
+5	0.81	Saethre-Chotzen Syndrome	OMIM:101400
+6	0.8	Craniosynostosis, type 1	OMIM:123100
+6	0.8	Craniofrontonasal Dysplasia	OMIM:304110
+8	0.78	Fraser Syndrome	OMIM:219000
+9	0.76	Fanconi Anaemia	OMIM:227650
+10	0.75	Trisomy 21	OMIM:190685

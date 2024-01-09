@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh Syndrome	OMIM:256000
+2	0.94	Mitochondrial Complex V (ATP Synthase) Deficiency, Nuclear Type 1	OMIM:604273
+3	0.92	Mitochondrial DNA Depletion Syndrome 8A (MNGIE TYPE)	OMIM:612075
+4	0.9	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+5	0.87	Mitochondrial DNA Depletion Syndrome 5 (Encephalomyopathic With Or Without Methylmalonic Aciduria)	OMIM:612073
+6	0.86	Pyruvate Carboxylase Deficiency	OMIM:266150
+7	0.85	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like Episodes	OMIM:540000
+8	0.82	Phosphoglycerate Dehydrogenase Deficiency	OMIM:601815
+9	0.8	Complex I Deficiency	OMIM:252010
+10	0.77	Combined Oxidative Phosphorylation Deficiency 26	OMIM:616539

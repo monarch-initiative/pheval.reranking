@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.91	Cornelia De Lange Syndrome	OMIM:122470
+3	0.86	Wolf-Hirschhorn Syndrome	OMIM:194190
+4	0.85	Ritscher-Schinzel Syndrome	OMIM:220210
+5	0.84	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.81	Sotos Syndrome	OMIM:117550
+7	0.79	CHARGE Syndrome	OMIM:214800
+8	0.73	Noonan Syndrome	OMIM:163950
+9	0.71	DiGeorge Syndrome	OMIM:188400
+10	0.68	Williams Syndrome	OMIM:194050

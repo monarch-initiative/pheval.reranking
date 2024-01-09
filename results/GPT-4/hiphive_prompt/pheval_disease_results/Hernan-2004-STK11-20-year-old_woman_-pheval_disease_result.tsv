@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Peutz-Jeghers syndrome	OMIM:175200
+2	0.89	Cowden syndrome	OMIM:158350
+3	0.85	Familial adenomatous polyposis	OMIM:175100
+4	0.82	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+5	0.8	Muir-Torre syndrome	OMIM:158320
+6	0.77	Multiple endocrine neoplasia, type 2	OMIM:171400
+7	0.75	Juvenile polyposis syndrome	OMIM:174900
+8	0.73	Cronkhite-Canada Syndrome	OMIM:175500
+9	0.72	Neurofibromatosis, type 1	OMIM:162200
+10	0.7	Gardner syndrome	OMIM:175100

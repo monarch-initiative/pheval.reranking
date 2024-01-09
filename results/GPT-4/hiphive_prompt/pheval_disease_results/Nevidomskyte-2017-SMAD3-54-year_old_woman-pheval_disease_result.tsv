@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.88	Loeys-Dietz syndrome	OMIM:610168
+4	0.77	Aneurysm-Osteoarthritis Syndrome	OMIM:613795
+5	0.73	Cutis laxa, autosomal dominant	OMIM:123700
+6	0.67	Arterial Tortuosity Syndrome	OMIM:208050
+7	0.64	Familial thoracic aortic aneurysm and aortic dissection	OMIM:607086
+8	0.59	Supravalvular aortic stenosis	OMIM:185500
+9	0.54	Bicuspid aortic valve	OMIM:109730
+10	0.5	Coarctation of aorta	OMIM:120000

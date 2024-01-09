@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Retinitis Pigmentosa	OMIM:268000
+2	0.95	Usher Syndrome	OMIM:276900
+3	0.92	Leber Congenital Amaurosis	OMIM:204000
+4	0.9	Stargardt Disease	OMIM:248200
+5	0.87	Cone-Rod Dystrophy	OMIM:120970
+6	0.85	Bardet-Biedl Syndrome	OMIM:209900
+7	0.8	Fundus Albipunctatus	OMIM:136880
+8	0.78	Night Blindness, Congenital Stationary	OMIM:310500
+9	0.75	Leber Hereditary Optic Neuropathy	OMIM:535000
+10	0.72	Choroideremia	OMIM:303100

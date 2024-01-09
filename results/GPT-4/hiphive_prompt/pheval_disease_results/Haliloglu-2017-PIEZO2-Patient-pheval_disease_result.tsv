@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Congenital contractural arachnodactyly	OMIM:121050
+2	0.87	Spinal muscular atrophy	OMIM:253300
+3	0.86	Charcot-Marie-Tooth disease type 2A	OMIM:118210
+4	0.83	Freeman-Sheldon syndrome	OMIM:193700
+5	0.82	Ullrich congenital muscular dystrophy	OMIM:254090
+6	0.81	Bethlem myopathy	OMIM:158810
+7	0.78	Myofibrillar myopathy	OMIM:601419
+8	0.76	Amyotrophic lateral sclerosis	OMIM:105400
+9	0.75	Nemaline myopathy	OMIM:256030
+10	0.73	Distal spinal muscular atrophy	OMIM:602881

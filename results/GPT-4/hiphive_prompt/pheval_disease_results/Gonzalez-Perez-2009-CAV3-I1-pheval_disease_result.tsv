@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Mitochondrial Myopathy, Lactic Acidosis, And Sideroblastic Anemia	OMIM:600462
+2	0.89	Amyotrophic Lateral Sclerosis	OMIM:105400
+3	0.88	Myopathy, Myofibrillar, 1	OMIM:601419
+4	0.85	Glycogen Storage Disease Type 5	OMIM:232600
+5	0.82	Metabolic Myopathy	OMIM:255125
+6	0.8	Charcot-Marie-Tooth Disease, Type 2S	OMIM:616155
+7	0.78	Muscular Dystrophy-Dystroglycanopathy	OMIM:613155
+8	0.76	Spinal Muscular Atrophy, Distal, Autosomal Recessive, 5	OMIM:614881
+9	0.71	Gingival Fibromatosis 1	OMIM:135300
+10	0.69	McLeod Neuroacanthocytosis Syndrome	OMIM:300842

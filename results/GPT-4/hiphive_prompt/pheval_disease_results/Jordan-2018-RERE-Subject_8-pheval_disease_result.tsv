@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	CHARGE syndrome	OMIM:214800
+2	0.95	Stickler syndrome	OMIM:108300
+3	0.94	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.93	Noonan syndrome	OMIM:163950
+4	0.93	Cornelia de Lange syndrome	OMIM:122470
+6	0.91	α-thalassemia x-linked intellectual disability syndrome	OMIM:301040
+6	0.91	Smith-Magenis syndrome	OMIM:182290
+8	0.9	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.9	Coffin-Lowry syndrome	OMIM:303600
+10	0.88	Williams syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh Syndrome	OMIM:256000
+2	0.88	Mitochondrial complex I deficiency	OMIM:252010
+3	0.86	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+4	0.85	Canavan disease	OMIM:271900
+5	0.83	Malignant migrating partial seizures of infancy	OMIM:607208
+6	0.82	Glutaric aciduria type 1	OMIM:231670
+7	0.81	Pelizaeus-Merzbacher disease	OMIM:312080
+8	0.8	Maple syrup urine disease	OMIM:248600
+9	0.79	Methylmalonic acidemia	OMIM:251000
+10	0.78	PROPIONIC ACIDEMIA	OMIM:606054

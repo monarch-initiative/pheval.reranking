@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.85	Weill-Marchesani Syndrome	OMIM:277600
+3	0.82	Ehlers-Danlos Syndrome	OMIM:130000
+4	0.8	Homocystinuria	OMIM:236200
+5	0.75	Stickler Syndrome	OMIM:108300
+6	0.73	Loeys-Dietz syndrome	OMIM:609192
+7	0.7	Alport Syndrome	OMIM:301050
+8	0.68	Knobloch Syndrome	OMIM:267750
+9	0.65	Beals Syndrome	OMIM:121050
+10	0.63	Congenital Contractural Arachnodactyly	OMIM:121050

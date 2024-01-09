@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Spinal Muscular Atrophy	OMIM:253300
+2	0.87	Myelopathy, AIDS-related	OMIM:608982
+3	0.84	Rett Syndrome	OMIM:312750
+4	0.82	Chronic Granulomatous Disease	OMIM:613960
+5	0.8	Leigh Syndrome	OMIM:256000
+6	0.77	Amyotrophic lateral sclerosis	OMIM:105400
+7	0.75	Duchenne Muscular Dystrophy	OMIM:310200
+8	0.73	Hereditary spastic paraplegia	OMIM:182600
+9	0.7	Huntington Disease	OMIM:143100
+10	0.67	Charcot-Marie-Tooth Disease	OMIM:118200

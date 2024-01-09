@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.87	Cardiofaciocutaneous Syndrome	OMIM:115150
+3	0.85	Baraitser-Winter Syndrome	OMIM:243310
+4	0.82	Alagille Syndrome	OMIM:118450
+5	0.81	Costello Syndrome	OMIM:218040
+6	0.79	Stickler Syndrome	OMIM:108300
+7	0.76	Lujan-Fryns Syndrome	OMIM:309520
+8	0.73	Hallermann-Streiff Syndrome	OMIM:234100
+9	0.72	Weaver Syndrome	OMIM:277590
+10	0.7	Noonan Syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Ehlers-Danlos Syndrome, Arthrochalasia Type	OMIM:130060
+3	0.88	Loeys-Dietz Syndrome Type 1	OMIM:609192
+4	0.87	Loeys-Dietz Syndrome Type 2	OMIM:610168
+5	0.85	Beals Syndrome	OMIM:121050
+6	0.83	Stickler Syndrome Type 1	OMIM:108300
+7	0.82	Weill-Marchesani Syndrome 2	OMIM:608328
+8	0.79	Ectopia Lentis Et Pupillae	OMIM:225200
+9	0.78	Loeys-Dietz Syndrome Type 3	OMIM:613795
+10	0.75	Stuve-Wiedemann Syndrome	OMIM:601559

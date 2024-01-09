@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Shwachman-Diamond syndrome	OMIM:260400
+2	0.86	Congenital disorder of glycosylation type 1a	OMIM:212065
+3	0.85	Fanconi anemia	OMIM:227650
+4	0.83	Dyskeratosis congenita	OMIM:127550
+5	0.82	Langerhans cell histiocytosis	OMIM:604850
+5	0.82	Diamond-Blackfan anemia	OMIM:105650
+7	0.8	Common variable immunodeficiency	OMIM:607594
+7	0.8	Severe combined immunodeficiency	OMIM:102700
+9	0.78	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.77	Hyper IgM syndrome	OMIM:308230

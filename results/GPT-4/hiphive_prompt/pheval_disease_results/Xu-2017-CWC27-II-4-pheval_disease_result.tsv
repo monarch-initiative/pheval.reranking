@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.85	Legius syndrome	OMIM:611431
+3	0.82	Apert syndrome	OMIM:101200
+4	0.81	Watson syndrome	OMIM:193520
+5	0.78	Cranioectodermal dysplasia 4	OMIM:614378
+6	0.75	Mowat-Wilson Syndrome	OMIM:235730
+7	0.73	RASopathies	OMIM:190685
+8	0.72	Noonan syndrome	OMIM:163950
+9	0.7	LEOPARD syndrome	OMIM:151100
+10	0.68	Costello syndrome	OMIM:218040

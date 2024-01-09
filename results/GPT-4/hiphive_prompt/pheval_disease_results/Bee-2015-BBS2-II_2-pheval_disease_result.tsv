@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.85	Alstrom Syndrome	OMIM:203800
+3	0.8	Wolfram Syndrome	OMIM:222300
+4	0.75	Nephronophthisis	OMIM:256100
+5	0.72	Laurence-Moon Syndrome	OMIM:245800
+6	0.68	Fabry Disease	OMIM:301500
+7	0.65	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.6	Senior-Loken Syndrome	OMIM:266900
+9	0.55	Acute Intermittent Porphyria	OMIM:176000
+10	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400

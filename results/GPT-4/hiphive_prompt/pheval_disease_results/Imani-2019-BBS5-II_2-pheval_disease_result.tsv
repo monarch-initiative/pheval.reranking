@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Bardet-Biedl Syndrome	OMIM:209900
+2	0.92	Hypogonadotropic Hypogonadism 1 With Or Without Anosmia	OMIM:308700
+3	0.9	Retinitis Pigmentosa	OMIM:268000
+4	0.88	Leber Congenital Amaurosis	OMIM:204000
+5	0.86	Prader-Willi Syndrome	OMIM:176270
+6	0.84	Obesity Due To Proopiomelanocortin Deficiency	OMIM:613886
+7	0.8	Alstrom Syndrome	OMIM:203800
+8	0.76	Congenital Stationary Night Blindness	OMIM:310500
+9	0.74	Laurence-Moon Syndrome	OMIM:245800
+10	0.7	Leptin Receptor Deficiency	OMIM:614963

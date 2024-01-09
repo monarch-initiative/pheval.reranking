@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ehlers-Danlos syndrome, periodontal type, 1	OMIM:130080
+2	0.89	Scleroderma, systemic	OMIM:181750
+3	0.87	Systemic lupus erythematosus	OMIM:152700
+4	0.85	Erythromelalgia	OMIM:133020
+5	0.81	Pseudohypoaldosteronism, type II	OMIM:145260
+6	0.79	Nephrotic syndrome, type 1	OMIM:256300
+7	0.78	Anorexia nervosa	OMIM:606788
+8	0.76	Arthritis, juvenile idiopathic	OMIM:604302
+9	0.73	Periodontitis, chronic	OMIM:170650
+10	0.71	Hypokalemic periodic paralysis, type 1	OMIM:170400

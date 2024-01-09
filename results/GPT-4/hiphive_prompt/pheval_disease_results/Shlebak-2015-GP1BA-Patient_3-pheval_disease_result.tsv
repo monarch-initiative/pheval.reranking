@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glanzmann thrombasthenia	OMIM:273800
+2	0.86	Bernard-Soulier syndrome	OMIM:231200
+3	0.85	Platelet-type Bleeding Disorder 20	OMIM:615228
+4	0.8	Thrombocytopenia 4	OMIM:612004
+5	0.77	Gray Platelet Syndrome	OMIM:139090
+6	0.75	Thrombocytopenia 5	OMIM:612006
+7	0.73	Platelet storage pool deficiency	OMIM:185050
+8	0.7	Thrombocythemia 3	OMIM:614521
+9	0.68	Hermansky-Pudlak syndrome	OMIM:203300
+10	0.65	Thrombocytopenia-absent radius syndrome	OMIM:274000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE syndrome	OMIM:214800
+2	0.92	Cornelia de Lange syndrome	OMIM:122470
+3	0.9	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.89	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.88	Kabuki syndrome	OMIM:147920
+6	0.85	Noonan syndrome	OMIM:163950
+7	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.78	Cri-du-chat syndrome	OMIM:123450
+9	0.75	Fragile X syndrome	OMIM:300624
+10	0.7	Williams syndrome	OMIM:194050

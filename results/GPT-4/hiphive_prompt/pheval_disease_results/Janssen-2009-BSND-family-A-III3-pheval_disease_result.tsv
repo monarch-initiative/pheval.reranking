@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Bartter syndrome, type 1	OMIM:601678
+2	0.92	Bartter syndrome, type 2	OMIM:241200
+3	0.91	Bartter syndrome, type 3	OMIM:607364
+4	0.88	Gitelman syndrome	OMIM:263800
+5	0.82	Bartter syndrome, type 4	OMIM:602522
+6	0.76	Hypomagnesemia 5, renal, with ocular involvement	OMIM:248190
+7	0.75	Bartter syndrome, type 4B, with sensorineural deafness	OMIM:613090
+8	0.72	Salt-losing tubulopathies, autosomal recessive	OMIM:610217
+9	0.71	Liddle syndrome	OMIM:177200
+10	0.68	Pseudohypoaldosteronism, type II	OMIM:145260

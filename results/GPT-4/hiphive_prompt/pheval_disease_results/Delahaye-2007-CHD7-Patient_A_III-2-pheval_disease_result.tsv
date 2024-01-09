@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	22q11.2 deletion syndrome	OMIM:188400
+2	0.9	Pierre Robin sequence	OMIM:261800
+3	0.88	Oculo-auriculo-vertebral spectrum	OMIM:164210
+4	0.87	CATCH 22 syndrome	OMIM:192430
+5	0.84	DiGeorge syndrome	OMIM:188400
+6	0.83	Facioaudiosymphalangism syndrome	OMIM:603813
+7	0.82	Pallister-Hall syndrome	OMIM:146510
+8	0.81	VACTERL association	OMIM:192350
+9	0.8	CHARGE syndrome	OMIM:214800
+10	0.79	Branchiooculofacial syndrome	OMIM:113620

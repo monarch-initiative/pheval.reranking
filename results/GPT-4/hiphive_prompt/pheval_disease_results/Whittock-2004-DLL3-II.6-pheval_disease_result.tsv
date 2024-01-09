@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Achondroplasia	OMIM:100800
+2	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+3	0.89	Diastrophic Dysplasia	OMIM:222600
+4	0.85	Morquio Syndrome	OMIM:253000
+5	0.84	Jeune Asphyxiating Thoracic Dystrophy	OMIM:208500
+6	0.83	Campomelic Dysplasia	OMIM:114290
+7	0.82	Ellis-van Creveld syndrome	OMIM:225500
+8	0.8	Aspartylglucosaminuria	OMIM:208400
+9	0.79	Mucopolysaccharidosis IV	OMIM:253000
+10	0.78	Alkaptonuria	OMIM:203500

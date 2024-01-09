@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.86	Crigler-Najjar Syndrome	OMIM:218800
+3	0.84	Alpers Syndrome	OMIM:203700
+4	0.83	Dubowitz Syndrome	OMIM:223370
+5	0.82	Peroxisome biogenesis disorder	OMIM:614887
+6	0.81	Dravet Syndrome	OMIM:607208
+7	0.79	Zellweger Syndrome	OMIM:214100
+8	0.77	Infantile Parkinsonism-Dystonia	OMIM:612953
+9	0.75	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+10	0.72	Maple Syrup Urine Disease	OMIM:248600

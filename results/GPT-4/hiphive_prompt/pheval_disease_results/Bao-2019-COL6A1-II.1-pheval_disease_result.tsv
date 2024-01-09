@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.75	Duchenne muscular dystrophy	OMIM:310200
+3	0.73	Myasthenia gravis	OMIM:254200
+4	0.69	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.68	Spinal muscular atrophy	OMIM:253300
+6	0.67	Friedreich Ataxia	OMIM:229300
+7	0.66	Limb-girdle muscular dystrophy	OMIM:253600
+8	0.65	Neurofibromatosis	OMIM:162200
+9	0.64	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+10	0.62	Myotonic dystrophy	OMIM:160900

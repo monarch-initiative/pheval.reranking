@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	DiGeorge syndrome	OMIM:188400
+2	0.87	Holt-Oram syndrome	OMIM:142900
+3	0.84	Diamond-Blackfan anemia 1	OMIM:105650
+4	0.81	Shwachman-Diamond syndrome	OMIM:260400
+5	0.8	Fanconi anemia, complementation group A	OMIM:227650
+6	0.78	Noonan syndrome	OMIM:163950
+7	0.76	CHARGE syndrome	OMIM:214800
+8	0.75	Nijmegen breakage syndrome	OMIM:251260
+9	0.73	Fanconi anemia, complementation group C	OMIM:227645
+10	0.71	Ellis van Creveld syndrome	OMIM:225500

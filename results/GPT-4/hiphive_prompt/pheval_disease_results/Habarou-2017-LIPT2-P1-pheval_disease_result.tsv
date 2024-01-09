@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.944	Nonketotic Hyperglycinemia	OMIM:605899
+2	0.9	Pantothenate Kinase-Associated Neurodegeneration	OMIM:606157
+3	0.896	Canavan Disease	OMIM:271900
+4	0.878	Megalencephalic Leukoencephalopathy With Subcortical Cysts	OMIM:604004
+5	0.859	Zellweger Syndrome	OMIM:214100
+6	0.845	Pelizaeus-Merzbacher Disease	OMIM:312080
+7	0.832	Infantile Neuroaxonal Dystrophy	OMIM:256600
+8	0.813	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+9	0.807	Metachromatic Leukodystrophy	OMIM:250100
+10	0.79	Krabbe Disease	OMIM:245200

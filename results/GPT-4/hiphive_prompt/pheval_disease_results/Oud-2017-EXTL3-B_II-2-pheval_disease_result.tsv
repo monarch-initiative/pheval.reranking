@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Bare Lymphocyte Syndrome, Type II	OMIM:209920
+2	0.88	Majewski Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+3	0.87	Acrodysostosis 1, With Or Without Hormone Resistance	OMIM:101800
+4	0.86	Polydactyly, Postaxial, Type A1	OMIM:174200
+5	0.85	Ellis-Van Creveld Syndrome	OMIM:225500
+6	0.84	Hallermann-Streiff Syndrome	OMIM:234100
+7	0.8	Nystagmus 1, Congenital, X-Linked	OMIM:310700
+8	0.78	Hypotonia, Seizures, and Precocious Puberty	OMIM:618394
+9	0.75	Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome 1	OMIM:614080
+10	0.72	Holt-Oram Syndrome	OMIM:142900

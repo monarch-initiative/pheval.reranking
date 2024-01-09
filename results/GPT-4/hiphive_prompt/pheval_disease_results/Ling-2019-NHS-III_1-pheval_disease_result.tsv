@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Down syndrome	OMIM:190685
+2	0.91	Turner syndrome	OMIM:311250
+3	0.89	Prader-Willi syndrome	OMIM:176270
+4	0.87	Williams syndrome	OMIM:194050
+5	0.85	Marfan syndrome	OMIM:154700
+6	0.83	Ehlers-Danlos syndrome	OMIM:100800
+7	0.81	Apert syndrome	OMIM:101200
+8	0.79	Fragile X syndrome	OMIM:300624
+9	0.78	Fetal alcohol syndrome	OMIM:266610
+10	0.74	Cornelia de Lange syndrome	OMIM:122470

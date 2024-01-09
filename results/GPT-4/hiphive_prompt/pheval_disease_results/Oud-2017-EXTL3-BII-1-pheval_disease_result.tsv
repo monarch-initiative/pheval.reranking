@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Severe Combined Immunodeficiency	OMIM:102700
+2	0.93	Rothmund-Thomson Syndrome	OMIM:268400
+3	0.91	Cartilage-Hair Hypoplasia	OMIM:250250
+4	0.9	Schimke Immuno-Osseous Dysplasia	OMIM:242900
+5	0.88	Bloom Syndrome	OMIM:210900
+6	0.85	Cockayne Syndrome	OMIM:133540
+7	0.82	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+8	0.79	Werner Syndrome	OMIM:277700
+9	0.77	Sjögren-Larsson Syndrome	OMIM:270200
+10	0.75	Craniometadiaphyseal Dysplasia	OMIM:122860

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Warburg Micro Syndrome	OMIM:600118
+2	0.92	Coffin Lowry Syndrome	OMIM:303600
+3	0.91	Smith-Magenis Syndrome	OMIM:182290
+4	0.9	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.88	Angelman Syndrome	OMIM:105830
+6	0.83	Rett Syndrome	OMIM:312750
+7	0.82	Dubowitz Syndrome	OMIM:223370
+8	0.81	Aspartylglucosaminuria	OMIM:208400
+9	0.79	Lennox-Gastaut Syndrome	OMIM:616883
+10	0.77	Glutaric aciduria type II	OMIM:231680

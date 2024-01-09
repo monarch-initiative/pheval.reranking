@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Jeune asphyxiating thoracic dystrophy	OMIM:208500
+2	0.89	Ellis-van Creveld syndrome	OMIM:225500
+3	0.87	Short rib-polydactyly syndrome	OMIM:263520
+4	0.85	Smith-McCort dysplasia	OMIM:607326
+5	0.84	Asphyxiating thoracic dysplasia	OMIM:208500
+6	0.83	Orofaciodigital syndrome I	OMIM:311200
+7	0.82	Meier-Gorlin syndrome	OMIM:224690
+8	0.81	Joubert syndrome	OMIM:213300
+9	0.8	Achondroplasia	OMIM:100800
+10	0.79	Pallister-Hall syndrome	OMIM:146510

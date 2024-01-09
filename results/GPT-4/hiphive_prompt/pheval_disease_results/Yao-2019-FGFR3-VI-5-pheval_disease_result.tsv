@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Acrodysostosis	OMIM:101800
+2	0.85	Pseudohypoparathyroidism type 1A	OMIM:103580
+3	0.83	Hypophosphatasia	OMIM:241500
+4	0.81	Osteoglophonic dysplasia	OMIM:166250
+5	0.79	Pituitary hormone deficiency	OMIM:613038
+6	0.78	Albright hereditary osteodystrophy	OMIM:103580
+7	0.75	Thanatophoric Dysplasia type 2	OMIM:187601
+8	0.74	Schwartz-Jampel syndrome	OMIM:255800
+9	0.71	Brachydactyly type E	OMIM:113300
+10	0.68	Congenital Heart Disease	OMIM:192500

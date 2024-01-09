@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Marfan Syndrome	OMIM:154700
+2	0.91	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.9	Loeys-Dietz Syndrome	OMIM:609192
+4	0.87	Cutis Laxa, Autosomal Dominant	OMIM:123700
+5	0.85	Larsen Syndrome	OMIM:150250
+6	0.83	Acromicric Dysplasia	OMIM:102370
+7	0.81	Geleophysic Dysplasia	OMIM:231050
+8	0.78	Arterial Tortuosity Syndrome	OMIM:208050
+9	0.75	Homocystinuria due to CBS Deficiency	OMIM:236200
+10	0.71	Congenital Contractural Arachnodactyly	OMIM:121050

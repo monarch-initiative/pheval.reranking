@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alexander disease	OMIM:203450
+2	0.93	Ehlers-Danlos syndrome, spondylodysplastic type, 2	OMIM:615349
+3	0.91	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.9	Hurler syndrome	OMIM:607014
+5	0.86	Hallermann-Streiff syndrome	OMIM:234100
+6	0.84	Smith-Magenis syndrome	OMIM:182290
+7	0.82	Marshall syndrome	OMIM:154780
+8	0.8	Pitt-Hopkins syndrome	OMIM:610954
+9	0.78	Stickler syndrome, type I	OMIM:108300
+10	0.76	Rubinstein-Taybi syndrome 1	OMIM:180849

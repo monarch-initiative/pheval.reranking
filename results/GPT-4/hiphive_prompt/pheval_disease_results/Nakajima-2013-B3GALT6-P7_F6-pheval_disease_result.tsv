@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Geleophysic dysplasia 2	OMIM:614185
+2	0.96	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.95	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+4	0.93	Cutis laxa, autosomal dominant	OMIM:123700
+5	0.92	Pfeiffer syndrome	OMIM:101600
+6	0.88	Osteogenesis imperfecta, type I	OMIM:166200
+7	0.86	Achondroplasia	OMIM:100800
+8	0.85	Cerebro-costo-mandibular syndrome	OMIM:117650
+9	0.83	Larsen syndrome	OMIM:150250
+10	0.81	Cranioectodermal dysplasia 4	OMIM:613610

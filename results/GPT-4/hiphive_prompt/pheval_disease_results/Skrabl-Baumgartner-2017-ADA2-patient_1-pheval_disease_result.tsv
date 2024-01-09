@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.84	Systemic lupus erythematosus	OMIM:152700
+2	0.82	Behcet's syndrome	OMIM:109650
+3	0.81	Rheumatoid arthritis	OMIM:180300
+4	0.79	Sjogren's syndrome	OMIM:270150
+5	0.77	Polyarteritis nodosa	OMIM:202700
+6	0.75	Antiphospholipid syndrome	OMIM:107320
+7	0.72	Sarcoidosis	OMIM:181000
+8	0.7	Cogan's syndrome	OMIM:193400
+9	0.65	Takayasu's arteritis	OMIM:207400
+10	0.62	Cryoglobulinemia	OMIM:247100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease	OMIM:214400
+2	0.85	Familial dysautonomia	OMIM:223900
+3	0.82	Dejerine-Sottas disease	OMIM:145900
+4	0.81	Hypertension, essential	OMIM:145500
+5	0.79	Guillain-Barre syndrome	OMIM:139393
+6	0.78	Chronic Inflammatory Demyelinating Polyradiculoneuropathy	OMIM:123000
+7	0.77	Roussy-Levy syndrome	OMIM:180800
+8	0.75	Refsum disease	OMIM:266500
+9	0.72	Fabry disease	OMIM:301500
+10	0.7	Wolfram syndrome	OMIM:222300

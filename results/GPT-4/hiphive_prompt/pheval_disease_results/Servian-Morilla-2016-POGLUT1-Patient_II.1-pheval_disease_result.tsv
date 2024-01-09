@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Emery-Dreifuss muscular dystrophy	OMIM:310300
+2	0.86	Duchenne muscular dystrophy	OMIM:310200
+3	0.83	Facioscapulohumeral muscular dystrophy	OMIM:158900
+4	0.8	Limb-girdle muscular dystrophy	OMIM:253600
+5	0.78	Becker muscular dystrophy	OMIM:300376
+6	0.76	Spinal muscular atrophy	OMIM:253300
+7	0.73	Polymyositis	OMIM:254200
+8	0.7	Myotonic dystrophy	OMIM:160900
+9	0.67	Amyotrophic lateral sclerosis	OMIM:105400
+10	0.65	Myopathic disorders	OMIM:254900

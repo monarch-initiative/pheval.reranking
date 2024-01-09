@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Marfan Syndrome	OMIM:154700
+2	0.91	Loeys-Dietz Syndrome	OMIM:609192
+3	0.88	Bicuspid Aortic Valve	OMIM:109730
+4	0.85	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.82	Aortic Aneurysm, Familial Thoracic 4	OMIM:132900
+6	0.79	Arachnodactyly, Familial	OMIM:102150
+7	0.77	Tricuspid Atresia	OMIM:605067
+8	0.75	Scoliosis, Familial	OMIM:181800
+9	0.73	Pulmonary Hypertension, Primary, Fenfluramine-Associated	OMIM:178600
+10	0.69	Pierre Robin Syndrome	OMIM:261800

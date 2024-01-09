@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.88	Meckel Syndrome, Type 1	OMIM:249000
+3	0.87	Pitt-Hopkins syndrome	OMIM:610954
+4	0.83	Gorlin Syndrome	OMIM:109400
+5	0.81	Congenital disorder of Glycosylation, Type Ia	OMIM:212065
+6	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.78	Fryns Syndrome	OMIM:229850
+8	0.76	Carpenter Syndrome	OMIM:201000
+9	0.74	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+10	0.7	Coffin-Lowry Syndrome	OMIM:303600

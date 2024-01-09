@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Freeman-Sheldon syndrome	OMIM:193700
+2	0.84	Congenital Myasthenic Syndrome	OMIM:601462
+3	0.82	Pitt-Hopkins syndrome	OMIM:610954
+4	0.79	CHARGE syndrome	OMIM:214800
+5	0.75	Prader-Willi Syndrome	OMIM:176270
+6	0.74	Smith-Magenis Syndrome	OMIM:182290
+7	0.72	Angelman syndrome	OMIM:105830
+8	0.71	Opitz-Kaveggia syndrome	OMIM:305450
+9	0.7	Nemaline Myopathy	OMIM:256030
+10	0.67	Rett syndrome	OMIM:312750

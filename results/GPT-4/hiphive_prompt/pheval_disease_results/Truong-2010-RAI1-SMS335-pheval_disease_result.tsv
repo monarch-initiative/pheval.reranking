@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Magenis Syndrome	OMIM:182290
+2	0.89	Prader-Willi Syndrome	OMIM:176270
+3	0.86	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.84	Cohen Syndrome	OMIM:216550
+5	0.81	CHARGE Syndrome	OMIM:214800
+6	0.79	Optiz G/BBB Syndrom	OMIM:145410
+7	0.75	Fragile X Syndrome	OMIM:300624
+8	0.72	Bardet-Biedl Syndrome	OMIM:209900
+9	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+10	0.67	Wolf-Hirschhorn Syndrome	OMIM:194190

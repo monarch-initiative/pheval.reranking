@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Rett syndrome	OMIM:312750
+2	0.85	Gabriele-de Vries syndrome	OMIM:617557
+3	0.81	Phelan-McDermid syndrome	OMIM:606232
+4	0.79	Autosomal dominant mental retardation 21	OMIM:615502
+5	0.77	Smith-Magenis syndrome	OMIM:182290
+6	0.75	Mental retardation, autosomal dominant 15	OMIM:615685
+7	0.74	Mental retardation, autosomal dominant 5	OMIM:614507
+8	0.72	Mental retardation, autosomal dominant 7	OMIM:614607
+9	0.7	Orofaciodigital syndrome	OMIM:311200
+10	0.67	Coffin-Lowry syndrome	OMIM:303600

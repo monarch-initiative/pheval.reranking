@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Noonan Syndrome 1	OMIM:163950
+2	0.96	Costello Syndrome	OMIM:218040
+3	0.94	Peters Plus Syndrome	OMIM:261540
+4	0.92	Turner Syndrome	OMIM:310000
+5	0.88	RUBINSTEIN-TAYBI SYNDROME 1	OMIM:180849
+6	0.87	Congenital Disorder of Glycosylation	OMIM:212067
+7	0.85	Cardiomyopathy, Dilated, with Woolly Hair and Keratoderma	OMIM:605676
+8	0.82	Stickler Syndrome	OMIM:108300
+9	0.81	Holoprosencephaly 1	OMIM:236100
+10	0.79	Neurologic, Endocrine, and Pancreatic Disease, Multisystem, Infantile-Onset	OMIM:616263

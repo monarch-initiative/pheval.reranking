@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Gaucher Disease	OMIM:230800
+2	0.82	Wiskott-Aldrich Syndrome	OMIM:301000
+3	0.81	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+4	0.78	Hurler Syndrome	OMIM:607014
+5	0.76	Conradi-Hünermann Syndrome	OMIM:302960
+6	0.75	Ichthyosis Prematurity Syndrome	OMIM:608649
+7	0.74	Chediak-Higashi Syndrome	OMIM:214500
+8	0.73	Prader-Willi Syndrome	OMIM:176270
+9	0.72	Congenital Disorder of Glycosylation	OMIM:212067
+10	0.7	Spastic Paraplegia	OMIM:312910

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler Syndrome, Type I	OMIM:108300
+2	0.8	Coffin Lowry Syndrome	OMIM:303600
+3	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.6	Fetal Akinesia Deformation Sequence	OMIM:208150
+5	0.5	Noonan Syndrome	OMIM:163950
+6	0.4	Costello Syndrome	OMIM:218040
+7	0.3	Saethre-Chotzen Syndrome	OMIM:101400
+8	0.2	Crouzon Syndrome	OMIM:123500
+9	0.1	Pfeiffer Syndrome	OMIM:101600
+10	0.05	Apert Syndrome	OMIM:101200

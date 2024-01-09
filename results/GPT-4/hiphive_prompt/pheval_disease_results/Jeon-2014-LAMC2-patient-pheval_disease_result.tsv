@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Epidermolysis Bullosa Simplex	OMIM:131760
+2	0.95	Epidermolysis Bullosa, Junctional, Herlitz Type	OMIM:226700
+3	0.92	Stevens-Johnson Syndrome	OMIM:608579
+4	0.91	Pemphigus Vulgaris	OMIM:169610
+5	0.88	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	OMIM:226650
+6	0.84	Bullous Pemphigoid	OMIM:270300
+7	0.82	Epidermolysis Bullosa Acquisita	OMIM:131800
+8	0.8	Dermatitis Herpetiformis	OMIM:601606
+9	0.79	Pemphigus Foliaceus	OMIM:601911
+10	0.76	Ectodermal Dysplasia-Skin Fragility Syndrome	OMIM:604536

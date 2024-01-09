@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.88	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.85	Nance-Horan Syndrome	OMIM:302350
+4	0.83	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.8	Seckel Syndrome	OMIM:210600
+5	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.75	Pfeiffer Syndrome	OMIM:101600
+8	0.73	Rothmund-Thomson Syndrome	OMIM:268400
+9	0.7	Trisomy 18	OMIM:190685
+10	0.68	Wolf-Hirschhorn Syndrome	OMIM:194190

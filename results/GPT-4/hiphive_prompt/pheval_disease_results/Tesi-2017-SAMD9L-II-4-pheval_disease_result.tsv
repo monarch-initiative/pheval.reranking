@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.86	Fanconi Anemia	OMIM:227650
+3	0.85	Dyskeratosis Congenita	OMIM:127550
+4	0.83	Ataxia-Telangiectasia	OMIM:208900
+5	0.81	Myelodysplastic Syndrome	OMIM:614286
+6	0.8	Severe Combined Immunodeficiency	OMIM:102700
+7	0.79	Chronic Granulomatous Disease	OMIM:233700
+8	0.77	Diamond-Blackfan Anemia	OMIM:105650
+9	0.75	Wiskott-Aldrich Syndrome	OMIM:301000
+10	0.71	Hyper IgM Syndrome	OMIM:308230

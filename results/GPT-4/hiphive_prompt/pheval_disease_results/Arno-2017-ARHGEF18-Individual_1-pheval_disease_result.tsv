@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Retinitis Pigmentosa	OMIM:268000
+2	0.9	Leber Congenital Amaurosis	OMIM:204000
+3	0.86	Stargardt Disease	OMIM:248200
+4	0.84	Usher Syndrome	OMIM:276900
+5	0.83	Cone-Rod Dystrophy	OMIM:120970
+6	0.81	Bardet-Biedl Syndrome	OMIM:209900
+7	0.79	Best Vitelliform Macular Dystrophy	OMIM:153700
+8	0.77	Macular Dystrophy, Retinal, 2	OMIM:608051
+9	0.75	Retinal Dystrophy, Iris Coloboma, and Comedogenic Acne Syndrome	OMIM:615147
+10	0.72	Bothnia Retinal Dystrophy	OMIM:607475

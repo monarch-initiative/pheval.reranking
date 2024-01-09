@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Leber Congenital Amaurosis	OMIM:204000
+2	0.85	Retinitis Pigmentosa	OMIM:268000
+3	0.83	Bardet-Biedl Syndrome	OMIM:209900
+4	0.81	Usher Syndrome	OMIM:276900
+5	0.79	Stargardt Disease	OMIM:248200
+6	0.76	Prader-Willi Syndrome	OMIM:176270
+7	0.73	Tuberous Sclerosis	OMIM:191100
+8	0.72	Age-Related Macular Degeneration	OMIM:603075
+9	0.69	Smith-Magenis Syndrome	OMIM:182290
+10	0.67	Fragile X Syndrome	OMIM:300624

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Left Ventricular Noncompaction 1	OMIM:604169
+2	0.89	Left Ventricular Noncompaction 10	OMIM:615916
+3	0.86	Idiopathic Ventricular Fibrillation, Brugada Type	OMIM:601144
+4	0.82	Sick Sinus Syndrome 1	OMIM:608567
+5	0.81	Left Ventricular Noncompaction 8	OMIM:615373
+6	0.8	Cardiomyopathy, Familial Hypertrophic, 4	OMIM:115197
+7	0.79	Sick Sinus Syndrome 2	OMIM:163800
+8	0.75	Long QT Syndrome 1	OMIM:192500
+9	0.73	Cardiomyopathy, Dilated, 1AA, with or without LVNC	OMIM:612158
+10	0.7	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772

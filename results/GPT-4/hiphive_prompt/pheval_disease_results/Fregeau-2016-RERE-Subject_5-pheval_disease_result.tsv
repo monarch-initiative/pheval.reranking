@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Fragile X Syndrome	OMIM:300624
+2	0.91	Usher Syndrome	OMIM:276901
+3	0.88	Peters Plus Syndrome	OMIM:261540
+4	0.85	Down Syndrome	OMIM:190685
+5	0.82	Alagille Syndrome	OMIM:118450
+6	0.8	Zellweger Syndrome	OMIM:214100
+7	0.78	Cerebrocostomandibular Syndrome	OMIM:117650
+8	0.75	Meckel Syndrome	OMIM:249000
+9	0.73	Noonan Syndrome	OMIM:163950
+10	0.7	Williams Syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Spinocerebellar ataxia 3	OMIM:109150
+2	0.92	Friedreich ataxia	OMIM:229300
+3	0.91	Ataxia with oculomotor apraxia 2	OMIM:606002
+4	0.89	Ataxia Telangiectasia	OMIM:208900
+5	0.87	Spinocerebellar ataxia 2	OMIM:183090
+6	0.85	Charlevoix-Saguenay ataxia	OMIM:270550
+7	0.84	Spinocerebellar ataxia 1	OMIM:164400
+8	0.83	Wilson disease	OMIM:277900
+9	0.81	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.79	Nieman-Pick disease type C	OMIM:257220

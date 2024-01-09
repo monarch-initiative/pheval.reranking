@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Noonan Syndrome	OMIM:163950
+2	0.9	Holt Oram syndrome	OMIM:142900
+3	0.88	Williams Syndrome	OMIM:194050
+4	0.87	DiGeorge Syndrome	OMIM:188400
+5	0.85	Pulmonary Atresia with Intact Ventricular Septum	OMIM:265150
+6	0.83	Ritscher-Schinzel syndrome	OMIM:220210
+7	0.82	Hypoplastic Left Heart Syndrome	OMIM:241550
+8	0.81	Eisenmenger Complex	OMIM:133260
+9	0.8	Alagille syndrome	OMIM:118450
+10	0.79	Robertsonian Translocation Down Syndrome	OMIM:190685

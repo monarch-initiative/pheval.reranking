@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.9	Craniofacial Dysostosis	OMIM:123500
+3	0.86	Raine Syndrome	OMIM:259775
+4	0.83	Osteogenesis Imperfecta	OMIM:166210
+5	0.8	Pycnodysostosis	OMIM:265800
+6	0.78	Hyper IgM Syndrome	OMIM:308230
+7	0.77	Tricho-Dento-Osseous Syndrome	OMIM:190320
+8	0.76	Hypochondroplasia	OMIM:146000
+9	0.75	Williams Syndrome	OMIM:194050
+10	0.72	Rubinstein-Taybi Syndrome	OMIM:180849

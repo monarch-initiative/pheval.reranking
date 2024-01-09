@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Progressive Supranuclear Palsy	OMIM:601104
+2	0.89	Olivopontocerebellar Atrophy, Hypoplastic, with Spastic Paraplegia	OMIM:224050
+3	0.88	Wilson Disease	OMIM:277900
+4	0.86	Neurodegenerative Syndrome, Childhood-Onset, with Brain Atrophy	OMIM:617865
+5	0.85	Spinocerebellar Ataxia Type 37	OMIM:615945
+6	0.72	Charcot-Marie-Tooth Disease, Dominant Intermediate A	OMIM:608323
+7	0.68	Microcephaly, Progressive, with Seizures and Cerebral and Cerebellar Atrophy	OMIM:616583
+8	0.65	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+9	0.61	Encephalopathy, Neonatal Severe, due to MECP2 Mutations	OMIM:300673
+10	0.57	Ataxia-Telangiectasia	OMIM:208900

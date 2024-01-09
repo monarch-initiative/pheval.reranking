@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	GM1 gangliosidosis type 1	OMIM:230500
+2	0.83	GM1 gangliosidosis type 2	OMIM:230600
+3	0.82	GM1 gangliosidosis type 3	OMIM:230650
+4	0.79	Mucopolysaccharidosis IV	OMIM:253000
+5	0.77	Tay-Sachs disease	OMIM:272800
+6	0.75	Sandhoff disease	OMIM:268800
+7	0.73	Neuronal ceroid lipofuscinosis	OMIM:256730
+8	0.72	Gaucher disease type 3	OMIM:231000
+9	0.7	Metachromatic leukodystrophy	OMIM:250100
+10	0.69	Niemann-Pick disease type C	OMIM:257220

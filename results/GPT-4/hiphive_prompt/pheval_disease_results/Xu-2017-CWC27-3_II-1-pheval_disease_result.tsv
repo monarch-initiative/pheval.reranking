@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Retinitis Pigmentosa	OMIM:268000
+2	0.97	Leber Congenital Amaurosis	OMIM:204000
+3	0.95	Usher Syndrome	OMIM:276900
+4	0.94	Stargardt Disease	OMIM:248200
+5	0.92	Cone-Rod Dystrophy	OMIM:120970
+6	0.91	Best Disease	OMIM:153700
+7	0.88	Congenital Stationary Night Blindness	OMIM:310500
+8	0.85	Oguchi Disease	OMIM:258100
+9	0.83	Choroideremia	OMIM:303100
+10	0.82	Night Blindness, Congenital Stationary, Autosomal Dominant 1	OMIM:610445

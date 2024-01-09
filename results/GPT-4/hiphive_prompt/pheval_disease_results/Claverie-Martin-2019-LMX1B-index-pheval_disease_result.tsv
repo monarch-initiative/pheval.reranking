@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome	OMIM:130000
+2	0.85	Nail-Patella Syndrome	OMIM:161200
+3	0.8	Osteogenesis Imperfecta	OMIM:166200
+4	0.7	Costello Syndrome	OMIM:218040
+4	0.7	Marfan Syndrome	OMIM:154700
+6	0.65	Prader-Willi Syndrome	OMIM:176270
+7	0.6	Congenital Myotonic Dystrophy	OMIM:160900
+8	0.55	Acrodermatitis Enteropathica	OMIM:201100
+8	0.55	Williams Syndrome	OMIM:194050
+10	0.5	Freeman-Sheldon Syndrome	OMIM:193700

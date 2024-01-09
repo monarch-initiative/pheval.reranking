@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Chronic Granulomatous Disease	OMIM:306400
+2	0.95	Severe Combined Immunodeficiency	OMIM:102700
+3	0.94	Whipple Disease	OMIM:613312
+4	0.93	Agammaglobulinemia	OMIM:300755
+5	0.92	Hyper IgM Syndrome	OMIM:308230
+6	0.91	Common Variable Immunodeficiency	OMIM:607594
+7	0.89	Lymphoproliferative Syndrome	OMIM:613988
+8	0.85	X-linked Lymphoproliferative Disease	OMIM:308240
+9	0.84	Wiskott-Aldrich Syndrome	OMIM:301000
+10	0.83	X-linked Agammaglobulinemia	OMIM:300300

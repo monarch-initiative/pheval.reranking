@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.91	Ehlers-Danlos Syndrome, Type 4	OMIM:130050
+3	0.87	Beals Syndrome	OMIM:121050
+4	0.84	Stickler Syndrome, Type 1	OMIM:108300
+5	0.82	Loeys-Dietz Syndrome	OMIM:609192
+6	0.78	Wagner Syndrome	OMIM:143200
+7	0.75	Sturge-Weber Syndrome	OMIM:185300
+8	0.73	Neurofibromatosis, Type 1	OMIM:162200
+9	0.7	Weill-Marchesani Syndrome	OMIM:277600
+10	0.68	Lujan-Fryns Syndrome	OMIM:309520

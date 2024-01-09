@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.92	Spinocerebellar Ataxia	OMIM:164400
+3	0.91	Autosomal Recessive Spastic Paraplegia	OMIM:270800
+4	0.88	PARKINSON DISEASE	OMIM:168600
+5	0.85	Hallervorden-Spatz syndrome	OMIM:234200
+6	0.82	Huntington's disease	OMIM:143100
+7	0.81	Dejerine-Sottas syndrome	OMIM:145900
+8	0.79	Friedreich's ataxia	OMIM:229300
+9	0.76	Wilson's disease	OMIM:277900
+10	0.75	Dystonia Musculorum Deformans	OMIM:128230

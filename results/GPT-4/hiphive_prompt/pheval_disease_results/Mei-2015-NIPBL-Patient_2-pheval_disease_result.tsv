@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.88	Cornelia de Lange Syndrome	OMIM:122470
+3	0.86	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.84	Williams Syndrome	OMIM:194050
+5	0.82	Angelman Syndrome	OMIM:105830
+6	0.79	Smith-Magenis Syndrome	OMIM:182290
+7	0.76	Mowat-Wilson Syndrome	OMIM:235730
+8	0.75	Kabuki Syndrome	OMIM:147920
+9	0.72	Rett Syndrome	OMIM:312750
+10	0.7	Gilles de la Tourette Syndrome	OMIM:137580

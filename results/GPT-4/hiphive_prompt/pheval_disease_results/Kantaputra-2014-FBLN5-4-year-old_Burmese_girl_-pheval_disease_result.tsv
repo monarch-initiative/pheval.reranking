@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Alagille syndrome	OMIM:118450
+2	0.89	Cutis laxa, autosomal dominant	OMIM:123700
+3	0.85	Marfan syndrome	OMIM:154700
+4	0.84	Loeys-Dietz syndrome	OMIM:609192
+5	0.82	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+6	0.81	Williams syndrome	OMIM:194050
+7	0.8	Familial thoracic aortic aneurysm	OMIM:607086
+8	0.79	Juvenile polyposis syndrome	OMIM:174900
+9	0.77	Rapid-onset dystonia-parkinsonism	OMIM:128235
+10	0.75	Achenbach's syndrome	OMIM:104100

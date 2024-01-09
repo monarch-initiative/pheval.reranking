@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Heterotaxy, Visceral, 1, X-Linked	OMIM:306955
+2	0.85	Ivemark Syndrome	OMIM:208530
+3	0.81	Asplenia, Isolated Congenital	OMIM:271400
+4	0.79	Arrhinia	OMIM:202200
+5	0.78	Pulmonary Atresia And Ventricular Septal Defect	OMIM:265150
+6	0.77	Dextro-Looped Transposition Of The Great Arteries	OMIM:608808
+7	0.75	Congenital Disorder Of Glycosylation, Type IIc	OMIM:266265
+8	0.74	Double Outlet Right Ventricle	OMIM:217095
+9	0.72	Vacterl Association, X-Linked, with or without Hydrocephalus	OMIM:314390
+10	0.7	Bardet-Biedl Syndrome 4	OMIM:615982

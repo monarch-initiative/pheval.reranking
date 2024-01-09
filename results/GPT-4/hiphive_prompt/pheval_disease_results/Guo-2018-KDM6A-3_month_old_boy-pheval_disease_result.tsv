@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan Syndrome	OMIM:163950
+2	0.82	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.8	Cornelia de Lange Syndrome	OMIM:122470
+4	0.78	DiGeorge Syndrome	OMIM:188400
+5	0.75	Mowat-Wilson Syndrome	OMIM:235730
+6	0.72	Prader-Willi Syndrome	OMIM:176270
+7	0.7	Sotos Syndrome	OMIM:117550
+8	0.68	Williams Syndrome	OMIM:194050
+9	0.65	Down Syndrome	OMIM:190685
+10	0.6	Turner Syndrome	OMIM:163950

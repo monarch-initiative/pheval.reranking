@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucolipidosis IV	OMIM:252650
+2	0.88	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+3	0.87	Neurofibromatosis, Type 1	OMIM:162200
+4	0.86	Sialidosis, Type II	OMIM:256550
+5	0.85	Zellweger Syndrome	OMIM:214100
+6	0.83	Patau Syndrome	OMIM:263500
+7	0.82	Coffin-Siris Syndrome 1	OMIM:135900
+8	0.81	Progeria	OMIM:176670
+9	0.8	Barth Syndrome	OMIM:302060
+10	0.79	Marfan Syndrome	OMIM:154700

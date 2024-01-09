@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia 1	OMIM:164400
+2	0.93	Ataxia with oculomotor apraxia 2	OMIM:606002
+3	0.92	Friedreich ataxia	OMIM:229300
+4	0.91	Cerebellar ataxia, autosomal recessive 1	OMIM:224050
+5	0.89	Multiple System Atrophy	OMIM:146500
+6	0.88	Ataxia-telangiectasia	OMIM:208900
+7	0.86	Paraneoplastic cerebellar degeneration	OMIM:117210
+8	0.85	Progressive supranuclear palsy	OMIM:601104
+9	0.8	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	OMIM:270550
+10	0.78	West syndrome	OMIM:308350

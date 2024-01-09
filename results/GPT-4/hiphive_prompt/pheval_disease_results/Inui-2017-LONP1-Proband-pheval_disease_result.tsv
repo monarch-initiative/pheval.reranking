@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+2	0.88	Mowat-Wilson syndrome	OMIM:235730
+3	0.87	Mitochondrial complex I deficiency	OMIM:252010
+4	0.85	Alpha-ketoglutarate dehydrogenase deficiency	OMIM:203740
+5	0.84	Charcot-Marie-Tooth disease	OMIM:214400
+6	0.82	Ohtahara syndrome	OMIM:308350
+6	0.82	Oculocerebrorenal syndrome	OMIM:309000
+8	0.8	Glutaric Acidemia IIA	OMIM:231680
+9	0.79	Maple syrup urine disease	OMIM:248600
+10	0.78	Dopa-responsive dystonia	OMIM:128230

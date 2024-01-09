@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Gardner Syndrome	OMIM:175100
+2	0.87	Crouzon syndrome	OMIM:123500
+3	0.86	Polycystic Kidney Disease, Autosomal Recessive	OMIM:263200
+4	0.84	Sotos Syndrome	OMIM:117550
+5	0.82	Peutz-Jeghers Syndrome	OMIM:175200
+6	0.8	Thanatophoric Dysplasia, Type I	OMIM:187600
+7	0.78	Nevoid Basal Cell Carcinoma Syndrome	OMIM:109400
+8	0.77	Familial Adenomatous Polyposis	OMIM:175100
+9	0.75	Orofaciodigital Syndrome I	OMIM:311200
+10	0.72	Brachydactyly, Type D	OMIM:113200

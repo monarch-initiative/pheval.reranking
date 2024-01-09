@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:312910
+2	0.85	Cerebral palsy	OMIM:605388
+3	0.8	Batten disease	OMIM:204200
+4	0.77	Coffin-Siris syndrome	OMIM:135900
+5	0.76	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+6	0.75	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+7	0.74	Rett syndrome	OMIM:312750
+8	0.723	Charcot-Marie-Tooth disease	OMIM:601097
+9	0.72	Amyotrophic lateral sclerosis	OMIM:105400
+10	0.71	Spastic paraplegia 51, autosomal recessive	OMIM:613744

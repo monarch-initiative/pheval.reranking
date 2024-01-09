@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.81	Autism, susceptibility to, 17	OMIM:613436
+3	0.8	Kabuki syndrome 1	OMIM:147920
+4	0.79	Smith-Magenis syndrome	OMIM:182290
+5	0.78	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.76	Mental retardation, autosomal dominant 21	OMIM:615502
+7	0.75	Mental retardation, autosomal recessive 13	OMIM:613192
+8	0.74	Mowat-Wilson syndrome	OMIM:235730
+9	0.73	Coffin-Lowry syndrome	OMIM:303600
+10	0.7	CHARGE syndrome	OMIM:214800

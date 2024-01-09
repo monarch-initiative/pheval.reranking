@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Kallmann Syndrome	OMIM:308700
+2	0.91	Hypogonadotropic Hypogonadism	OMIM:146110
+3	0.89	Spinocerebellar Ataxia	OMIM:164400
+4	0.85	Prader-Willi Syndrome	OMIM:176270
+5	0.82	Laurence-Moon Syndrome	OMIM:245800
+6	0.81	Bardet-Biedl Syndrome	OMIM:209900
+7	0.73	Neurodegeneration With Brain Iron Accumulation	OMIM:234200
+8	0.71	Retinitis Pigmentosa	OMIM:268000
+9	0.67	Friedreich Ataxia	OMIM:229300
+10	0.62	X-linked Spinocerebellar Ataxia Type 5	OMIM:302500

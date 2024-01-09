@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Osteogenesis Imperfecta	OMIM:166210
+3	0.82	Osteopetrosis, Autosomal Recessive	OMIM:259700
+4	0.8	Mucopolysaccharidosis VI	OMIM:253200
+5	0.77	Paget Disease of Bone	OMIM:167250
+6	0.75	Otospondylomegaepiphyseal Dysplasia	OMIM:215150
+7	0.71	Rett Syndrome	OMIM:312750
+8	0.67	Family with Sequence Similarity 20, Member A	OMIM:615923
+9	0.64	Marfan Syndrome	OMIM:154700
+10	0.61	Turner Syndrome	OMIM:311360

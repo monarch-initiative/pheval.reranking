@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Common Variable Immunodeficiency	OMIM:607594
+2	0.87	Chronic Granulomatous Disease	OMIM:233690
+3	0.84	Hyper IgM Syndrome	OMIM:308230
+4	0.82	Hyper IgA Syndrome	OMIM:100920
+5	0.81	Lymphoproliferative syndrome 1	OMIM:613011
+6	0.79	Familial Hemophagocytic Lymphohistiocytosis	OMIM:267700
+7	0.78	Lymphoproliferative syndrome 2	OMIM:614526
+8	0.75	Immune Dysregulation, Polyendocrinopathy, and Enteropathy	OMIM:601859
+9	0.73	IPEX Syndrome	OMIM:304790
+10	0.7	Immunodeficiency with Hyper-IgM Type 1	OMIM:308230

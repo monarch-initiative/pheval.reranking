@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hyper IgM syndrome	OMIM:308230
+2	0.9	Common variable immunodeficiency	OMIM:607594
+3	0.89	Selective IgM deficiency syndrome	OMIM:154250
+4	0.85	X-linked agammaglobulinemia	OMIM:300755
+5	0.8	Severe combined immunodeficiency	OMIM:102700
+6	0.79	Immunodeficiency with hyper IgM	OMIM:608106
+7	0.76	Chronic granulomatous disease	OMIM:306400
+8	0.75	X-linked lymphoproliferative syndrome	OMIM:308240
+9	0.71	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.7	McCune-Albright syndrome	OMIM:174800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Alagille syndrome	OMIM:118450
+2	0.89	Holt-Oram syndrome	OMIM:142900
+3	0.86	Ellis-van Creveld syndrome	OMIM:225500
+4	0.84	Noonan syndrome	OMIM:163950
+5	0.82	Polycystic kidney disease	OMIM:173900
+6	0.79	DiGeorge syndrome	OMIM:188400
+7	0.76	Autosomal recessive polycystic kidney disease	OMIM:263200
+8	0.73	Apert syndrome	OMIM:101200
+9	0.71	Tetralogy of Fallot	OMIM:187500
+10	0.69	Eisenmenger complex	OMIM:133100

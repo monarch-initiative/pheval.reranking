@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia	OMIM:182601
+2	0.93	Cerebral atrophy	OMIM:604169
+3	0.92	Spastic ataxia	OMIM:108600
+4	0.91	Spastic tetraplegia	OMIM:614488
+5	0.88	Hereditary spastic paraplegia	OMIM:312910
+6	0.86	Cerebral palsy, spastic quadriplegic	OMIM:613744
+7	0.82	Early-onset generalized limb-onset dystonia	OMIM:611031
+8	0.81	Atypical Rett syndrome	OMIM:312750
+9	0.79	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.76	Alzheimer disease, type 1	OMIM:104300

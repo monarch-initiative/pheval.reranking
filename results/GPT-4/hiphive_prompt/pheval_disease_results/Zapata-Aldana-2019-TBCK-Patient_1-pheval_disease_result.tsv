@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Aicardi-Goutieres syndrome 5	OMIM:612952
+2	0.93	Poretti-Boltshauser syndrome	OMIM:615960
+3	0.91	Coffin-Siris syndrome	OMIM:135900
+4	0.89	Pontocerebellar hypoplasia type 1A	OMIM:607596
+5	0.88	Lennox-Gastaut syndrome	OMIM:606369
+6	0.87	Cerebrooculofacioskeletal syndrome 4	OMIM:610758
+7	0.85	Alexander disease	OMIM:203450
+8	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.81	Baraitser-Winter syndrome 1	OMIM:243310
+10	0.8	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	OMIM:602450

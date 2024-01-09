@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Bamforth-Lazarus Syndrome	OMIM:241850
+2	0.86	Congenital Hypothyroidism Due To Thyroid Dysgenesis	OMIM:218700
+3	0.85	Congenital Nongoitrous Hypothyroidism 1	OMIM:218700
+4	0.79	Hypothyroidism, Congenital, Nongoitrous, 4	OMIM:275100
+5	0.77	CHARGE Syndrome	OMIM:214800
+6	0.73	Kabuki Syndrome 1	OMIM:147920
+7	0.72	Septo-Optic Dysplasia	OMIM:182230
+8	0.71	22q11.2 Deletion Syndrome	OMIM:192430
+9	0.7	Pendred Syndrome	OMIM:274600
+10	0.69	Hypothyroidism, Congenital, Nongoitrous, 1	OMIM:218700

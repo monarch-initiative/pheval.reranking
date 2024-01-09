@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Friedreich Ataxia	OMIM:229300
+2	0.87	Ataxia with Vitamin E Deficiency	OMIM:277460
+3	0.86	Autosomal Dominant Cerebellar Ataxia	OMIM:117210
+4	0.85	Spinocerebellar Ataxia, Autosomal Recessive 1	OMIM:606002
+5	0.84	Episodic Ataxia, Type 2	OMIM:108500
+6	0.83	Spinocerebellar Ataxia, Autosomal Recessive 2	OMIM:213200
+7	0.82	Congenital Cerebellar Ataxia	OMIM:213200
+8	0.81	Spinocerebellar Ataxia, Autosomal Recessive 3	OMIM:607250
+9	0.8	Lafora Disease	OMIM:254780
+10	0.79	Machado-Joseph Disease	OMIM:109150

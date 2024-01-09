@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	West syndrome	OMIM:308350
+2	0.82	Stuve-Wiedemann Syndrome	OMIM:601559
+3	0.79	Primary immunodeficiency with autoimmune manifestations	OMIM:606367
+4	0.78	Growth hormone deficiency	OMIM:262400
+5	0.75	Hyperekplexia	OMIM:149400
+6	0.74	Pyogenic sterile arthritis, Pyoderma gangrenosum, and Acne	OMIM:604416
+7	0.71	Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome	OMIM:304790
+8	0.7	Ataxia-telangiectasia syndrome	OMIM:208900
+9	0.68	Kabuki syndrome	OMIM:147920
+10	0.62	Otahara syndrome	OMIM:615006

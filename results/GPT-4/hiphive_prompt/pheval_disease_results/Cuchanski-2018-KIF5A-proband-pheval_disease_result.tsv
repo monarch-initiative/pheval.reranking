@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Hereditary Spastic Paraplegia	OMIM:182601
+2	0.92	Friedreich Ataxia	OMIM:229300
+3	0.9	Charcot-Marie-Tooth disease	OMIM:118200
+4	0.88	Spinocerebellar ataxia	OMIM:164400
+5	0.84	Multiple Sclerosis	OMIM:126200
+6	0.82	Huntington's disease	OMIM:143100
+7	0.8	Amyotrophic Lateral Sclerosis	OMIM:105400
+8	0.78	Alzheimer's disease	OMIM:104300
+9	0.76	Parkinson's disease	OMIM:168600
+10	0.74	Peripheral Neuropathy	OMIM:162500

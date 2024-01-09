@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.89	Thrombocythemia 3	OMIM:614521
+3	0.87	Idiopathic Myelofibrosis	OMIM:254450
+4	0.85	Thrombocytopenia 2	OMIM:188000
+5	0.83	Myeloproliferative Disorder, Chronic, with Eosinophilia	OMIM:131440
+6	0.82	Glanzmann Thrombasthenia	OMIM:273800
+7	0.8	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+8	0.76	Myelofibrosis, Familial	OMIM:254450
+9	0.73	Thrombocytopenia 1	OMIM:313900
+10	0.71	Bone Marrow Failure Syndrome 2	OMIM:615506

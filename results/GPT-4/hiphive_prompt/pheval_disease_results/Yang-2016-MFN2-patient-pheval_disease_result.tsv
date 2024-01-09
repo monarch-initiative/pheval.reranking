@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth Disease	OMIM:118200
+2	0.92	Hereditary Motor and Sensory Neuropathy	OMIM:145900
+3	0.89	Familial dysautonomia	OMIM:223900
+4	0.88	Guillain-Barré Syndrome	OMIM:139393
+5	0.87	Krabbe Disease	OMIM:245200
+6	0.86	Spinal Muscular Atrophy	OMIM:253300
+7	0.83	Thoracic Duct Anomaly	OMIM:603324
+8	0.8	Acute Disseminated Encephalomyelitis	OMIM:614661
+9	0.79	Autosomal Recessive Spastic Paraplegia	OMIM:270800
+10	0.77	Amyotrophic Lateral Sclerosis	OMIM:105400

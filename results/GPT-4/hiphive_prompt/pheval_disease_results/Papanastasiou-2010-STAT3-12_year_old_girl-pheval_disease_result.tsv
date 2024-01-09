@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hyper IgE Recurrent Infection Syndrome (HIES)	OMIM:147060
+2	0.88	Job Syndrome	OMIM:147060
+3	0.83	Severe Combined Immunodeficiency (SCID)	OMIM:608971
+4	0.79	Chronic Granulomatous Disease	OMIM:306400
+5	0.73	Coffin-Siris Syndrome	OMIM:135900
+6	0.69	Dermatitis, Atopic	OMIM:603165
+7	0.67	Warts, Hypogammaglobulinemia, Infections, And Myelokathexis Syndrome (WHIMS)	OMIM:193670
+8	0.63	Netherton Syndrome	OMIM:256500
+9	0.59	Immunodeficiency 15 (IMD15)	OMIM:618204
+10	0.56	Immunodeficiency 31B (IMD31B)	OMIM:613493

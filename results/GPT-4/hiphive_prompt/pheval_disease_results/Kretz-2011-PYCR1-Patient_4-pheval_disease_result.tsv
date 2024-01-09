@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gerodermia Osteodysplastica	OMIM:231070
+2	0.85	Ehlers-Danlos Syndrome, Type Vii, Autosomal Recessive	OMIM:225410
+3	0.83	Cutis Laxa, Autosomal Recessive, Type Iia	OMIM:219200
+4	0.8	Osteogenesis Imperfecta, Type Iii	OMIM:259420
+5	0.78	Ehlers-Danlos Syndrome, Type Vii, Autosomal Dominant 	OMIM:130060
+6	0.75	Cutis Laxa, Autosomal Dominant	OMIM:123150
+7	0.74	De Barsy Syndrome	OMIM:219150
+8	0.7	Familial Partial Lipodystrophy, Dunnigan Type	OMIM:151660
+9	0.68	Marfan Syndrome 	OMIM:154700
+10	0.65	Osteogenesis Imperfecta, Type Iv	OMIM:166220

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cockayne Syndrome	OMIM:133540
+2	0.9	Oliver-McFarlane Syndrome	OMIM:275400
+3	0.85	Spinocerebellar Ataxia	OMIM:164400
+4	0.8	Marinesco-Sjogren Syndrome	OMIM:248800
+5	0.75	Charcot-Marie-Tooth Disease, Type 4B1	OMIM:601382
+6	0.7	Kearns-Sayre Syndrome	OMIM:530000
+7	0.65	Retinitis Pigmentosa 28	OMIM:606068
+8	0.6	Optic Atrophy 1	OMIM:165500
+9	0.55	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+10	0.5	Wolfram Syndrome	OMIM:222300

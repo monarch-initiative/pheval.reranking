@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Apert syndrome	OMIM:101200
+2	0.92	Crouzon syndrome	OMIM:123500
+3	0.9	Saethre-Chotzen syndrome	OMIM:101400
+4	0.88	Pfeiffer syndrome	OMIM:101600
+5	0.85	Carpenter syndrome	OMIM:201000
+6	0.82	Craniofrontonasal dysplasia	OMIM:304110
+7	0.8	FG Syndrome	OMIM:305450
+8	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.73	Antley-Bixler Syndrome	OMIM:207410
+10	0.71	Kallmann syndrome	OMIM:308700

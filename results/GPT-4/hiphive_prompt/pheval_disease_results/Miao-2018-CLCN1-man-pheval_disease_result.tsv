@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Becker muscular dystrophy	OMIM:300376
+2	0.85	Carnitine Palmitoyltransferase II Deficiency	OMIM:600650
+3	0.82	Duchenne muscular dystrophy	OMIM:310200
+4	0.8	Myotonic Dystrophy 1	OMIM:160900
+5	0.78	Acid Maltase Deficiency	OMIM:232300
+6	0.76	McArdle Disease	OMIM:232600
+7	0.74	Hyper IgM Syndrome Type 1	OMIM:308230
+8	0.72	Mitochondrial Myopathy	OMIM:251900
+9	0.7	Myotubular Myopathy	OMIM:310400
+10	0.68	Nemaline Myopathy	OMIM:256030

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.85	Cartilage-Hair Hypoplasia	OMIM:250250
+3	0.83	Short Rib-Polydactyly Syndrome	OMIM:263520
+4	0.82	Ellis-van Creveld Syndrome	OMIM:225500
+4	0.82	Russell-Silver Syndrome	OMIM:180860
+6	0.8	Cornelia de Lange Syndrome	OMIM:122470
+7	0.76	Smith-Magenis Syndrome	OMIM:182290
+8	0.75	Prader-Willi Syndrome	OMIM:176270
+9	0.73	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.72	Noonan Syndrome	OMIM:163950

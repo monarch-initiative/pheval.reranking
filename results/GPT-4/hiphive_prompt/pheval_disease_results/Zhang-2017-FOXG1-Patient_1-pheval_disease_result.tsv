@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Aicardi syndrome	OMIM:304050
+2	0.9	Pontocerebellar Hypoplasia	OMIM:615803
+3	0.88	Lissencephaly 3	OMIM:611603
+4	0.87	Pachygyria with Mental Retardation, Seizures, and Arachnoid Cysts	OMIM:615709
+5	0.85	Epileptic Encephalopathy, Early Infantile, 44	OMIM:617132
+6	0.83	Congenital Disorder of Deglycosylation	OMIM:615273
+7	0.81	MEGDEL syndrome	OMIM:614739
+8	0.8	Neurodevelopmental Disorder with Microcephaly, Epilepsy, and Brain Atrophy	OMIM:617862
+9	0.78	Spastic Tetraplegia, Thin Corpus Callosum, and Progressive Microcephaly	OMIM:616657
+10	0.76	Epileptic Encephalopathy, Early Infantile, 63	OMIM:618004

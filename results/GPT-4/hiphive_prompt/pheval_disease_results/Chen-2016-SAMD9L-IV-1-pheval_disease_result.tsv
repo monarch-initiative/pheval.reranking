@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 6	OMIM:183086
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.82	Ataxia with Vitamin E Deficiency	OMIM:277460
+4	0.8	Ataxia telangiectasia	OMIM:208900
+5	0.77	Episodic ataxia, type 2	OMIM:108500
+6	0.75	Autosomal recessive cerebellar ataxia	OMIM:213200
+7	0.73	Spinocerebellar ataxia 7	OMIM:164500
+8	0.71	Autosomal dominant cerebellar ataxia	OMIM:117210
+9	0.7	Spinocerebellar ataxia 3	OMIM:109150
+10	0.68	Ataxia-oculomotor apraxia 1	OMIM:208920

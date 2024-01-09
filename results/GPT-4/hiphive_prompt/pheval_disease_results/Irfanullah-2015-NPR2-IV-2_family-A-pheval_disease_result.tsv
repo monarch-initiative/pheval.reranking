@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rubinstein-Taybi Syndrome 1	OMIM:180849
+2	0.89	3M Syndrome 1	OMIM:273750
+3	0.87	Smith Lemli Opitz Syndrome	OMIM:270400
+4	0.86	Langer Mesomelic Dysplasia	OMIM:249700
+5	0.84	Short-Rib Thoracic Dysplasia 6	OMIM:263520
+6	0.83	Fanconi Anemia, Complementation Group A	OMIM:227650
+7	0.8	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.78	Silver-Russell Syndrome	OMIM:180860
+9	0.76	Coffin-Siris Syndrome 1	OMIM:135900
+10	0.75	Trichorhinophalangeal Syndrome I	OMIM:190350

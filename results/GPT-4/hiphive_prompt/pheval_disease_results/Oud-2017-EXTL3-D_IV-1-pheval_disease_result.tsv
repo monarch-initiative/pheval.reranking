@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.907	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+2	0.9	Metatropic dysplasia	OMIM:156530
+3	0.882	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.872	Ellis-van Creveld syndrome	OMIM:225500
+5	0.865	Hypochondroplasia	OMIM:146000
+6	0.862	Chondrodysplasia punctata, Rhizomelic type	OMIM:215100
+7	0.856	Camptomelic dysplasia	OMIM:114290
+8	0.849	Spondylocostal dysostosis	OMIM:277300
+9	0.841	Pseudoachondroplasia	OMIM:177170
+10	0.833	Achondroplasia	OMIM:100800

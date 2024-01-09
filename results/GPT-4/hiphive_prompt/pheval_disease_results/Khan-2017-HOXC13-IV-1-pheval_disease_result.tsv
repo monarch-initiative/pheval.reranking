@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ectodermal Dysplasia 1, Anhidrotic	OMIM:305100
+2	0.88	Hypohidrotic Ectodermal Dysplasia	OMIM:224900
+3	0.86	Tooth and Nail Syndrome	OMIM:189500
+4	0.84	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	OMIM:224750
+5	0.82	Anonychia-Onychodystrophy	OMIM:201000
+6	0.79	Hidrotic Ectodermal Dysplasia	OMIM:129490
+7	0.76	Ellis-Van Creveld Syndrome	OMIM:225500
+8	0.71	Dubowitz Syndrome	OMIM:223370
+9	0.7	Odontoonychodermal Dysplasia	OMIM:258865
+10	0.68	Anhidrotic ectodermal dysplasia	OMIM:202600

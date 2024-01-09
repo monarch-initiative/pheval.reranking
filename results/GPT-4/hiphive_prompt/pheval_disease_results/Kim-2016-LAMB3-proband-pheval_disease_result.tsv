@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Amelogenesis Imperfecta	OMIM:104530
+2	0.95	Enamel-Renal Syndrome	OMIM:204690
+3	0.91	X-linked Amelogenesis Imperfecta	OMIM:301200
+4	0.88	Hypomaturation Amelogenesis Imperfecta	OMIM:614829
+5	0.86	X-Linked Dominant Hypoplastic Amelogenesis Imperfecta	OMIM:301310
+6	0.82	Johanson-Blizzard Syndrome	OMIM:243800
+7	0.81	Cole Disease	OMIM:615522
+8	0.78	Gingival Fibromatosis with Hypertrichosis	OMIM:135400
+9	0.75	Raine Syndrome	OMIM:259775
+10	0.73	Thakker Donnai Syndrome	OMIM:241760

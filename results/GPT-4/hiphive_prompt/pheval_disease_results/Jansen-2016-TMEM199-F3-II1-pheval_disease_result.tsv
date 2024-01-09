@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Disorders of Glycosylation	OMIM:212065
+2	0.92	Wilson Disease	OMIM:277900
+3	0.91	Familial Hypercholesterolemia	OMIM:143890
+4	0.88	Hypotonia-Cystinuria Syndrome	OMIM:606407
+5	0.87	Glycogen Storage Disease Type I	OMIM:232200
+6	0.85	Propionic Acidemia	OMIM:606054
+7	0.84	Alkaptonuria	OMIM:203500
+8	0.82	Alagille Syndrome	OMIM:118450
+9	0.81	Niemann-Pick disease type C	OMIM:257220
+10	0.8	Citrullinemia Type I	OMIM:215700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Stickler Syndrome	OMIM:108300
+4	0.75	Osteogenesis Imperfecta	OMIM:166200
+5	0.7	Congenital Muscular Dystrophy	OMIM:253600
+6	0.65	Pseudoachondroplasia	OMIM:177170
+7	0.6	Primary Open-Angle Glaucoma	OMIM:137760
+8	0.55	Achondroplasia	OMIM:100800
+9	0.5	Familial Hypertrophic Cardiomyopathy	OMIM:119180
+10	0.45	Fragile X Syndrome	OMIM:309550

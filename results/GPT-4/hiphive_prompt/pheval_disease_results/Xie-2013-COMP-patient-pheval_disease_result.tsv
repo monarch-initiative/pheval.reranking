@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Skeletal Dysplasia	OMIM:100800
+2	0.89	Achondroplasia	OMIM:100800
+3	0.87	Dyschondrosteosis and Hypochondroplasia	OMIM:127300
+4	0.85	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+5	0.83	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.81	Metatropic Dysplasia	OMIM:156530
+7	0.8	Mucopolysaccharidosis type IV	OMIM:253000
+8	0.78	Pseudoachondroplasia	OMIM:177170
+9	0.76	Osteogenesis Imperfecta	OMIM:166200
+10	0.74	Ellis-van Creveld syndrome	OMIM:225500
