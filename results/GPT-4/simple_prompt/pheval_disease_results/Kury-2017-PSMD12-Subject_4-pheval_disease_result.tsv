@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Magenis syndrome	OMIM:182290
+2	0.88	Fragile X syndrome	OMIM:300624
+3	0.86	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.82	Prader-Willi syndrome	OMIM:176270
+5	0.81	Kabuki syndrome	OMIM:147920
+6	0.79	Cornelia de Lange syndrome	OMIM:122470
+7	0.77	CHARGE syndrome	OMIM:214800
+8	0.75	Sotos syndrome	OMIM:117550
+9	0.72	Neurofibromatosis type 1	OMIM:162200
+10	0.7	Cri du chat syndrome	OMIM:123450

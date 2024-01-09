@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis Bullosa Simplex	OMIM:131800
+2	0.8	Bullous Pemphigoid	OMIM:226400
+3	0.7	Dermatitis Herpetiformis	OMIM:601130
+4	0.6	Pemphigus Vulgaris	OMIM:169610
+5	0.5	Epidermolysis Bullosa Acquisita	OMIM:226400

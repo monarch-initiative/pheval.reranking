@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Coffin-Siris syndrome	OMIM:135900
+2	0.85	Cornelia de Lange syndrome	OMIM:122470
+3	0.81	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.77	Williams syndrome	OMIM:194050
+5	0.74	Smith-Magenis syndrome	OMIM:182290

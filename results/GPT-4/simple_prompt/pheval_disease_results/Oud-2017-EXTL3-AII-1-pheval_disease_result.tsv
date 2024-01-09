@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Ellis-van Creveld syndrome	OMIM:225500
+2	0.85	Smith-McCort dysplasia	OMIM:607326
+3	0.83	Schinzel-Giedion syndrome	OMIM:269150
+4	0.8	Autosomal recessive polycystic kidney disease	OMIM:263200
+5	0.75	Jeune syndrome	OMIM:208500

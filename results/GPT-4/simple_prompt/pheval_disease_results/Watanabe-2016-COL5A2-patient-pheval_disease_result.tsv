@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome	OMIM:130000
+2	0.7	Marfan Syndrome	OMIM:154700
+3	0.5	Osteogenesis Imperfecta	OMIM:166200
+4	0.4	Cutis Laxa	OMIM:123700
+5	0.3	Stickler Syndrome	OMIM:108300

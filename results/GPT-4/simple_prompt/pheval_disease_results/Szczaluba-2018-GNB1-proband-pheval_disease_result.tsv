@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	22q11.2 Deletion Syndrome	OMIM:192430
+3	0.76	Rett Syndrome	OMIM:312750
+4	0.75	Cerebral Palsy	OMIM:603513
+5	0.735	Cornelia De Lange Syndrome	OMIM:122470

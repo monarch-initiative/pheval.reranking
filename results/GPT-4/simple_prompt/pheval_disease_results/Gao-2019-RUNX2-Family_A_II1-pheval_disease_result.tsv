@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.87	Osteogenesis Imperfecta	OMIM:166210
+3	0.85	Pyknodysostosis	OMIM:265800
+4	0.75	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605946
+5	0.7	Craniometadiaphyseal dysplasia, wormian bone type	OMIM:269300

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar Ataxia	OMIM:164400
+2	0.9	Friedreich Ataxia	OMIM:229300
+3	0.85	Ataxia Telangiectasia	OMIM:208900
+4	0.8	Mitochondrial Complex I Deficiency	OMIM:252010
+5	0.75	Ataxia with Vitamin E Deficiency	OMIM:277460

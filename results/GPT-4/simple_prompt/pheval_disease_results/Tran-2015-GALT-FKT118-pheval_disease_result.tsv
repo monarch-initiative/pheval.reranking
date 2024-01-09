@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Fructose Intolerance	OMIM:229600
+2	0.85	Glutaric Acidemia IIC	OMIM:231680
+3	0.8	Biotinidase Deficiency	OMIM:253260
+4	0.75	Tyrosinemia Type I	OMIM:276700
+5	0.7	Methylmalonic Acidemia	OMIM:251000

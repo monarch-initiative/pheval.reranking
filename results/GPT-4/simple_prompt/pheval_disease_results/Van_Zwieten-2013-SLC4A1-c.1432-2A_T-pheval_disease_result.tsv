@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.7	Congenital Hemolytic Anemia	OMIM:613985
+3	0.5	Hereditary Elliptocytosis	OMIM:611804

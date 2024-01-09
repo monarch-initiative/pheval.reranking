@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Magenis Syndrome	OMIM:182290
+2	0.8	Cohen Syndrome	OMIM:216550
+3	0.7	Claes-Jensen Syndrome	OMIM:300534
+4	0.65	Optiz C Syndrome	OMIM:211750
+5	0.6	Mental Retardation, X-Linked, Syndromic 30	OMIM:300558

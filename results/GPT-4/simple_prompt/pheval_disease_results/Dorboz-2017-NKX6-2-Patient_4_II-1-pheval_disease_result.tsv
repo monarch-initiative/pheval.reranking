@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic Paraplegia	OMIM:182601
+2	0.8	Congenital Muscular Dystrophy	OMIM:613205
+3	0.75	Cerebral Palsy	OMIM:603513
+4	0.7	Rett Syndrome	OMIM:312750
+5	0.6	Aicardi-Goutieres Syndrome	OMIM:225750

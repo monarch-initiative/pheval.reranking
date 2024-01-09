@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Friedreich Ataxia	OMIM:229300
+2	0.85	Spinocerebellar Ataxia	OMIM:164400
+3	0.8	Scapuloperoneal Spinal Muscular Atrophy	OMIM:181405
+4	0.75	Hereditary Spastic Paraplegia	OMIM:303350
+5	0.7	Ataxia-Telangiectasia	OMIM:208900

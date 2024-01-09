@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+2	0.8	Albright Hereditary Osteodystrophy	OMIM:103580
+3	0.7	Progressive Osseous Heteroplasia	OMIM:166350
+4	0.6	Hypophosphatasia	OMIM:146300
+5	0.5	Familial Cold Autoinflammatory Syndrome	OMIM:120100

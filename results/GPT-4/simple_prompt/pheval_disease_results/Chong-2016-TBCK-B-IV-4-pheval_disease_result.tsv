@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia	OMIM:614961
+2	0.8	Congenital Disorder of Glycosylation Type 1a	OMIM:212065
+3	0.75	Lis1-Related Isolated Lissencephaly	OMIM:607432
+4	0.7	Muscular Dystrophy-Dystroglycanopathy	OMIM:613153
+5	0.65	Barth Syndrome	OMIM:302060

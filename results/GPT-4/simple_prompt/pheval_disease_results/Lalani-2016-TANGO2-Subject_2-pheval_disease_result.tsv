@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+2	0.82	Very long chain acyl-CoA dehydrogenase deficiency	OMIM:201475
+3	0.79	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609016
+4	0.75	Medium-chain acyl-CoA dehydrogenase deficiency	OMIM:606885
+5	0.7	Barth Syndrome	OMIM:302060
+6	0.68	Mitochondrial trifunctional protein deficiency	OMIM:600890
+7	0.67	Mitochondrial DNA depletion syndrome	OMIM:251880
+8	0.6	Pyruvate dehydrogenase deficiency	OMIM:312170
+9	0.55	Isolated ATP synthase deficiency	OMIM:604273
+10	0.52	Leigh Syndrome	OMIM:256000

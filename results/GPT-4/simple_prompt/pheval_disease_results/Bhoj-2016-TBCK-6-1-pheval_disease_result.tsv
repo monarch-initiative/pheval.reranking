@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelmann syndrome	OMIM:105830
+2	0.8	Smith Lemli Opitz Syndrome	OMIM:270400
+3	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.6	Rubinstein-Taybi Syndrome	OMIM:180849

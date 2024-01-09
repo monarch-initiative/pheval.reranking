@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gaucher Disease, Type 1	OMIM:230800
+2	0.8	Gaucher Disease, Type 2	OMIM:230900
+3	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.6	Neonatal Ichthyosis Sclerosing Cholangitis Syndrome	OMIM:607626
+5	0.5	Congenital Ichthyosiform Erythroderma	OMIM:242100

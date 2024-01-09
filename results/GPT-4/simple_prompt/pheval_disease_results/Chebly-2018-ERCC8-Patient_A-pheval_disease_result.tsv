@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:133540
+2	0.8	Trichothiodystrophy 1, Photosensitive	OMIM:601675
+3	0.7	Kabuki Syndrome 1	OMIM:147920
+4	0.6	Cockayne Syndrome B	OMIM:133540
+5	0.5	Nance-Horan Syndrome	OMIM:302350

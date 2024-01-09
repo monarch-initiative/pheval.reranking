@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Generalized Gangliosidosis	OMIM:230500
+2	0.9	Sialidosis Type I	OMIM:256550
+3	0.85	Tay-Sachs Disease	OMIM:272800
+4	0.8	Spondyloepimetaphyseal Dysplasia	OMIM:184250
+5	0.75	Niemann-Pick Disease Type C	OMIM:257220

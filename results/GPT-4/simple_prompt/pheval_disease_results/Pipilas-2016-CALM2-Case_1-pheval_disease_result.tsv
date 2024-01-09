@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Andersen-Tawil syndrome	OMIM:170390
+2	0.76	Romano-Ward syndrome	OMIM:604772
+3	0.74	Jervell and Lange-Nielsen syndrome	OMIM:220400
+4	0.67	Long QT syndrome 10	OMIM:611819
+5	0.62	Wolff-Parkinson-White syndrome	OMIM:194200

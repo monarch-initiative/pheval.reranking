@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa	OMIM:268000
+2	0.9	Leber Congenital Amaurosis	OMIM:204000
+3	0.85	Stargardt Disease	OMIM:248200
+4	0.81	Usher Syndrome	OMIM:276900
+5	0.7	Cone-Rod Dystrophy	OMIM:304020

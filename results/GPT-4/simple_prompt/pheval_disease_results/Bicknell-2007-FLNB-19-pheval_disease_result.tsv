@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Desbuquois dysplasia 1	OMIM:251450
+2	0.8	Larsen syndrome, dominant type	OMIM:150250
+3	0.7	Spondyloepimetaphyseal dysplasia with multiple dislocations	OMIM:603546
+4	0.65	Spondyloepiphyseal dysplasia with congenital joint dislocations	OMIM:603204
+5	0.62	Diastrophic dysplasia	OMIM:222600

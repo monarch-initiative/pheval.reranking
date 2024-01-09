@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Gray Platelet Syndrome	OMIM:139090
+2	0.7	Thrombocytopenia 2	OMIM:188000
+3	0.6	Myelofibrosis with Myeloid Metaplasia	OMIM:254450
+4	0.5	Thrombocytopenia-absent radius syndrome	OMIM:274000
+5	0.4	Essential Thrombocythemia	OMIM:187950

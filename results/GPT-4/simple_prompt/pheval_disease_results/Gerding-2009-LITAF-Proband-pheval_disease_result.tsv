@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Friedreich's Ataxia	OMIM:229300
+2	0.8	Charcot-Marie-Tooth Disease	OMIM:118200
+3	0.75	Acute Sensory Neuropathy	OMIM:103500

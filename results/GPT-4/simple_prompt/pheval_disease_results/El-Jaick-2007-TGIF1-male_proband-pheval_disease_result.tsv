@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Holoprosencephaly 2	OMIM:157170
+2	0.85	Pallister-Hall syndrome	OMIM:146510
+3	0.79	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.7	Ectodermal dysplasia 10b, hypohidrotic/hair/tooth type, autosomal recessive	OMIM:224900
+5	0.67	Aarskog-Scott syndrome	OMIM:305400

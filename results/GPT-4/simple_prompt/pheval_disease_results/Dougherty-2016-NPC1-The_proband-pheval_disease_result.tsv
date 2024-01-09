@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alzheimer's Disease	OMIM:104300
+2	0.75	Frontotemporal Dementia	OMIM:600274
+3	0.7	Huntington's Disease	OMIM:143100
+4	0.65	Creutzfeldt-Jakob Disease	OMIM:123400
+5	0.6	Progressive Supranuclear Palsy	OMIM:601104
+6	0.55	Niemann-Pick disease	OMIM:257200

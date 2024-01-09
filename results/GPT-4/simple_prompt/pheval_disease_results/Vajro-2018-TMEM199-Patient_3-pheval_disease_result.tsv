@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.7	Hemochromatosis	OMIM:235200

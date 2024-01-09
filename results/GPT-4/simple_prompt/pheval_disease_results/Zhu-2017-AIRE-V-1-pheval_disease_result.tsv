@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune Polyendocrinopathy Syndrome, Type I	OMIM:240300
+2	0.8	Idiopathic Hypoparathyroidism	OMIM:146200
+3	0.75	DiGeorge Syndrome	OMIM:188400
+4	0.72	Hypoparathyroidism, Familial Isolated	OMIM:146200
+5	0.67	Hypomagnesemia 1, Intestinal	OMIM:602014
+6	0.64	Velocardiofacial Syndrome	OMIM:192430
+7	0.6	Celiac Disease	OMIM:612011
+8	0.55	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410

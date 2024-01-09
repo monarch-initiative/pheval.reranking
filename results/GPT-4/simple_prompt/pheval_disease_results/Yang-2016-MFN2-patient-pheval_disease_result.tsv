@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, Type 1A	OMIM:118220
+2	0.8	Friedreich Ataxia	OMIM:229300
+3	0.72	Peripheral Neuropathy, Myopathy, Hoarseness, and Hearing Loss	OMIM:614369
+4	0.6	Spinal Muscular Atrophy, Lower Extremity-Predominant, 1	OMIM:158600

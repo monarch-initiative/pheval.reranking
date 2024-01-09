@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Centronuclear myopathy	OMIM:160150
+2	0.85	Myotonic dystrophy	OMIM:160900
+3	0.81	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.79	Facioscapulohumeral muscular dystrophy	OMIM:158900
+5	0.75	Congenital muscular dystrophy	OMIM:613205

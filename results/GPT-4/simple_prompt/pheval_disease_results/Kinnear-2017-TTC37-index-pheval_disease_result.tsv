@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency 14	OMIM:613485
+2	0.8	Chronic granulomatous disease	OMIM:306400
+3	0.7	Hyper IgM syndrome	OMIM:308230
+4	0.6	Selective IgA deficiency	OMIM:137100
+5	0.5	Hyper IgM syndrome type 2	OMIM:605258
+6	0.4	X-linked agammaglobulinemia	OMIM:300755

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta	OMIM:204700
+2	0.8	Enamel-renal syndrome	OMIM:204690
+3	0.75	Odontohypophosphatasia	OMIM:241500

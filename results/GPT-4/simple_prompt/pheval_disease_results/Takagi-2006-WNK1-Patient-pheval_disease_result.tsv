@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic inflammatory demyelinating polyneuropathy	OMIM:613376
+2	0.8	Familial dysautonomia	OMIM:223900
+3	0.7	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.6	Congenital insensitivity to pain	OMIM:243000
+5	0.5	Peripheral neuropathy	OMIM:162500

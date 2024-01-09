@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Sotos syndrome	OMIM:117550
+4	0.6	Smith-Magenis syndrome	OMIM:182290
+5	0.5	Williams syndrome	OMIM:194050

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Dyskeratosis Congenita	OMIM:224230
+2	0.78	Cartilage-Hair Hypoplasia	OMIM:250250
+3	0.76	Severe Combined Immunodeficiency	OMIM:102700
+4	0.7	Common Variable Immunodeficiency	OMIM:613493
+5	0.68	Omenn Syndrome	OMIM:603554

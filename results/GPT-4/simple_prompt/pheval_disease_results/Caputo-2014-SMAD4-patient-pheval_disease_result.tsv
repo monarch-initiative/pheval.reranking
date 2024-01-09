@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pyle Disease	OMIM:265900
+2	0.75	Coffin-Lowry Syndrome	OMIM:303600
+3	0.73	Weaver syndrome	OMIM:277590
+4	0.7	Sotos Syndrome	OMIM:117550
+5	0.65	Schinzel-Giedion Syndrome	OMIM:269150

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Nonketotic Hyperglycinemia	OMIM:605899
+2	0.85	Lysinuric Protein Intolerance	OMIM:222700
+3	0.8	Maple Syrup Urine Disease	OMIM:248600
+4	0.75	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+5	0.7	Rett Syndrome	OMIM:312750

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh Syndrome	OMIM:256000
+2	0.85	Canavan Disease	OMIM:271900
+3	0.8	Zellweger Syndrome	OMIM:214100
+4	0.7	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+5	0.65	Pelizaeus-Merzbacher Disease	OMIM:312080
+6	0.6	MELAS	OMIM:540000

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.91	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.89	Coffin-Lowry syndrome	OMIM:303600
+4	0.86	Saethre-Chotzen syndrome	OMIM:101400
+5	0.85	Smith-Magenis syndrome	OMIM:182290

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Spinal Muscular Atrophy	OMIM:253300
+2	0.85	Charcot-Marie-Tooth Disease	OMIM:601097
+3	0.8	Myotonic Dystrophy	OMIM:160900
+4	0.73	Duchenne Muscular Dystrophy	OMIM:310200
+5	0.69	Polymyositis	OMIM:254200

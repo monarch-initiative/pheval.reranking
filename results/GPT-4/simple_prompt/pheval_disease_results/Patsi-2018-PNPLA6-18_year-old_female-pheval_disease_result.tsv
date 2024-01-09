@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Charcot-Marie-Tooth disease type 2A	OMIM:609260
+3	0.7	Usher syndrome type 1	OMIM:276900
+4	0.6	Hypothyroidism, congenital, nongoitrous	OMIM:218700
+5	0.5	Spinocerebellar ataxia autosomal recessive with axonal neuropathy	OMIM:607250

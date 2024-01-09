@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Severe Combined Immunodeficiency	OMIM:102700
+3	0.75	Hypotonic Infant	OMIM:615419
+4	0.7	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.65	Seckel syndrome	OMIM:210600
+6	0.6	Aicardi syndrome	OMIM:304050

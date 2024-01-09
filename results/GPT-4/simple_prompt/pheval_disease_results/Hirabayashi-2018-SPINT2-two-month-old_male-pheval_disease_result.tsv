@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bartter Syndrome	OMIM:241200
+2	0.9	Cleft Lip/Cleft Palate	OMIM:119530
+3	0.85	Gastroenteritis	OMIM:55810
+4	0.8	Congenital Disorder of Glycosylation Type 1a	OMIM:212065
+5	0.75	Marshall Syndrome	OMIM:154780

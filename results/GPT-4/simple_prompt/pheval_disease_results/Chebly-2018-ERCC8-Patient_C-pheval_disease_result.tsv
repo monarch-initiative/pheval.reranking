@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nance-Horan Syndrome	OMIM:302350
+2	0.85	Cockayne Syndrome	OMIM:216400
+3	0.8	Seckel Syndrome	OMIM:210600
+4	0.75	Hallermann-Streiff Syndrome	OMIM:234100
+5	0.7	COFS Syndrome	OMIM:214150

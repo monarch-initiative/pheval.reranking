@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Achondroplasia	OMIM:100800
+2	0.72	Cleidocranial dysplasia	OMIM:119600
+3	0.68	Hypochondroplasia	OMIM:146000
+4	0.63	Spondyloepimetaphyseal dysplasia, strudwick type	OMIM:184250
+5	0.61	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+6	0.58	Pseudoachondroplasia	OMIM:177170
+7	0.56	Mucopolysaccharidosis, MPS-IV-A	OMIM:253000
+8	0.5	Osteogenesis imperfecta, type II	OMIM:166210

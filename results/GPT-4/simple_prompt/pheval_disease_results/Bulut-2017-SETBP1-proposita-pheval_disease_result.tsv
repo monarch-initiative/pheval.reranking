@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Weaver syndrome	OMIM:277590
+2	0.9	Sotos syndrome	OMIM:117550
+3	0.85	Tay-Sachs Disease	OMIM:272800
+4	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.7	Noonan syndrome	OMIM:163950
+6	0.65	Coffin-Lowry syndrome	OMIM:303600
+7	0.6	Cri-du-Chat syndrome	OMIM:123450
+8	0.58	Williams syndrome	OMIM:194050
+9	0.56	Cornelia de Lange Syndrome	OMIM:122470
+10	0.5	Rubinstein-Taybi syndrome	OMIM:180849

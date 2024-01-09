@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial DNA Depletion Syndrome 4a	OMIM:603041
+2	0.85	Hyper IgM Syndrome Type 1	OMIM:308230
+3	0.83	Leukodystrophy, Hypomyelinating, 3	OMIM:260600
+4	0.8	Malonyl-Coa Decarboxylase Deficiency	OMIM:248360
+5	0.77	Hypotonia-Cystinuria Syndrome	OMIM:606407

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Parkinson Disease	OMIM:168600
+2	0.85	Leigh Syndrome	OMIM:256000
+3	0.8	Progressive Supranuclear Palsy	OMIM:601104
+4	0.75	Multiple System Atrophy	OMIM:146500
+5	0.6	Shy-Drager Syndrome	OMIM:146500

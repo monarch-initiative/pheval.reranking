@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.8	Noonan Syndrome	OMIM:163950
+3	0.7	Ellis-van Creveld syndrome	OMIM:225500
+4	0.6	Seckel syndrome	OMIM:210600
+5	0.5	Dubowitz syndrome	OMIM:223370

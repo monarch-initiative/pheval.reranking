@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 50, autosomal recessive	OMIM:612936
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+3	0.8	Kleefstra syndrome 1	OMIM:610253
+4	0.75	Mental retardation, X-linked, syndromic, Clausen type	OMIM:300534

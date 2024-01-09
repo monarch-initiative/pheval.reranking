@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Perrault Syndrome 1	OMIM:233400
+2	0.8	Usher Syndrome Type 3A	OMIM:276903
+3	0.7	Charcot-Marie-Tooth Disease, Axonal, Type 2F	OMIM:606595
+4	0.6	Bilateral Vestibulopathy	OMIM:194950
+5	0.5	Werner Syndrome	OMIM:277700

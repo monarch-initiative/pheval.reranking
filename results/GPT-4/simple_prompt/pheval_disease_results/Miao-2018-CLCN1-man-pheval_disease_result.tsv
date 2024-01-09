@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular Dystrophy, Myotonic Type 1	OMIM:160900
+2	0.8	Becker Muscular Dystrophy	OMIM:300376
+3	0.7	Muscular Dystrophy, Duchenne Type	OMIM:310200
+4	0.6	Myopathy, Congenital, With Fiber-Type Disproportion	OMIM:255310
+5	0.5	Muscular Dystrophy, Myotonic Type 2	OMIM:602668

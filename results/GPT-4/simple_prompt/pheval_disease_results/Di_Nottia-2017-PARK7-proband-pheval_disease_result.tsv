@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.8	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+3	0.7	Kearns-Sayre syndrome	OMIM:530000
+4	0.65	Parkinson disease 6, autosomal recessive early-onset	OMIM:605909
+5	0.6	Leigh syndrome, French Canadian type	OMIM:220111

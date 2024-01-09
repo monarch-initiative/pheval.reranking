@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia Type 2	OMIM:277470
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Aicardi-Goutieres Syndrome	OMIM:225750
+4	0.6	West Syndrome	OMIM:308350
+5	0.5	Microcephaly, Seizures, and Developmental Delay	OMIM:613402
+6	0.4	Early Infantile Epileptic Encephalopathy	OMIM:308350

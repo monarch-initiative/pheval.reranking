@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Infantile Neuroaxonal Dystrophy	OMIM:256600
+2	0.8	Congenital Fibrosis of the Extraocular Muscles	OMIM:135700
+3	0.7	Infantile Onset Spinocerebellar Ataxia	OMIM:271245
+4	0.6	Leigh Syndrome	OMIM:256000
+4	0.6	Pontocerebellar Hypoplasia	OMIM:607596
+6	0.5	Spinocerebellar Ataxia	OMIM:164400
+6	0.5	Hypomyelination and Congenital Cataract	OMIM:610532

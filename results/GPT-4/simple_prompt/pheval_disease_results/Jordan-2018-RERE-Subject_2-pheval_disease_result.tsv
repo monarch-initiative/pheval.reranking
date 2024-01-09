@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Coffin-Siris Syndrome	OMIM:135900
+2	0.85	Cornelia de Lange Syndrome	OMIM:122470
+3	0.79	Freeman-Sheldon Syndrome	OMIM:193700
+4	0.75	Williams Syndrome	OMIM:194050
+5	0.7	Noonan Syndrome	OMIM:163950

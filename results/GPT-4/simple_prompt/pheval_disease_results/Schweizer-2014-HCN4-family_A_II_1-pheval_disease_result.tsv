@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Left Ventricular Noncompaction 1	OMIM:604169
+2	0.9	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+3	0.85	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:192600
+4	0.8	Long QT Syndrome	OMIM:192500
+5	0.75	Brugada Syndrome	OMIM:601144

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pfeiffer syndrome	OMIM:101600
+2	0.87	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+3	0.85	Severe Combined Immunodeficiency	OMIM:102700
+4	0.83	Jackson-Weiss syndrome	OMIM:123150
+5	0.8	Anal atresia	OMIM:206500

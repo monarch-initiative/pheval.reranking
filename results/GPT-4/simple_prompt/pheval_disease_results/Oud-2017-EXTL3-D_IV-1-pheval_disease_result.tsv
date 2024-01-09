@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spondyloepimetaphyseal Dysplasia, Missouri Type	OMIM:602111
+2	0.85	Spondyloepimetaphyseal Dysplasia, Matrilin-3 Type	OMIM:608728
+3	0.75	Desbuquois Dysplasia 1	OMIM:251450
+4	0.72	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.7	Multiple Epiphyseal Dysplasia 4	OMIM:226900
+6	0.65	Marshall Syndrome	OMIM:154780
+7	0.62	Schneckenbecken Dysplasia	OMIM:269250
+8	0.6	Dyggve-Melchior-Clausen Disease	OMIM:223800

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism Spectrum Disorder	OMIM:209850
+2	0.8	Global Developmental Delay	OMIM:614254
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.6	Rett Syndrome	OMIM:312750
+5	0.5	Cerebral Adrenoleukodystrophy	OMIM:300100

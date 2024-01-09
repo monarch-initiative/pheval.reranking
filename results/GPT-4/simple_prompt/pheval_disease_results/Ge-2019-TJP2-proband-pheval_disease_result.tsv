@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Progressive Familial Intrahepatic Cholestasis	OMIM:211600
+2	0.85	Alagille syndrome	OMIM:118450
+3	0.75	Wilson disease	OMIM:277900
+4	0.65	Galactosemia	OMIM:230400
+5	0.6	Primary Sclerosing Cholangitis	OMIM:613806

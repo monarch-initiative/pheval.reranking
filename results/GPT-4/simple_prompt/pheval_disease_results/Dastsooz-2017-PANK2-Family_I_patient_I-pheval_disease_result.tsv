@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.85	Wilson disease	OMIM:277900
+3	0.81	Congenital disorder of glycosylation	OMIM:212066
+4	0.75	Hypophosphatasia	OMIM:171760

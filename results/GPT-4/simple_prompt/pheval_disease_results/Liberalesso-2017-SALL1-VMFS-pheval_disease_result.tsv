@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Townes-Brocks Syndrome	OMIM:107480
+2	0.87	CHARGE Syndrome	OMIM:214800
+3	0.85	Feingold Syndrome	OMIM:164280
+4	0.83	VACTERL Association	OMIM:192350
+5	0.81	Okihiro Syndrome	OMIM:180849

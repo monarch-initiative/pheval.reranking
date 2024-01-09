@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Aicardi-Goutieres Syndrome	OMIM:225750
+2	0.85	Rett Syndrome	OMIM:312750
+3	0.8	Pascual Castroviejo Syndrome	OMIM:275100
+4	0.75	Pitt-Hopkins syndrome	OMIM:610954
+5	0.7	Zellweger Syndrome	OMIM:214100

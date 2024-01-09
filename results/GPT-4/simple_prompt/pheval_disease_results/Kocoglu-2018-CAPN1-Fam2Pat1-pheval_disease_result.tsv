@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich Ataxia	OMIM:229300
+2	0.8	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+3	0.7	Ataxia with Vitamin E Deficiency	OMIM:277460
+4	0.6	Autosomal Dominant Cerebellar Ataxia	OMIM:117210
+5	0.5	Keratoconus 1	OMIM:148300

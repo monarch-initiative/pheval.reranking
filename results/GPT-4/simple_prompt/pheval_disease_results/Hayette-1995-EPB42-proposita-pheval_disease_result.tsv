@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.8	Hereditary Elliptocytosis	OMIM:130600
+3	0.75	Autoimmune Hemolytic Anemia	OMIM:613385
+4	0.7	Paroxysmal Nocturnal Hemoglobinuria	OMIM:300818
+5	0.6	Pyruvate Kinase Deficiency	OMIM:266200

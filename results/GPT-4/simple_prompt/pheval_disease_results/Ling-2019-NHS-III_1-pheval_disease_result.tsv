@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ectodermal dysplasia	OMIM:604292
+2	0.89	Tricho-dento-osseous Syndrome	OMIM:190320
+3	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.82	Cohen Syndrome	OMIM:216550
+5	0.79	Coffin-Siris Syndrome	OMIM:135900
+6	0.77	Amelogenesis Imperfecta	OMIM:104510

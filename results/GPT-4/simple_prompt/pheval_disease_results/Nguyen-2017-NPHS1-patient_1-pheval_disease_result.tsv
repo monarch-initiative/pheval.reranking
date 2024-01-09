@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Congenital Nephrotic Syndrome, Finnish Type	OMIM:256300
+2	0.86	Nephrotic Syndrome, Type 1	OMIM:256150
+3	0.82	Pulmonary Edema Of Mountaineers	OMIM:263400
+4	0.79	Hypoalbuminemia, Familial	OMIM:103600
+5	0.76	Proteinuria, Low Molecular Weight, With Hypercalciu	OMIM:308990

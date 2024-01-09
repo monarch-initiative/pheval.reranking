@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Magenis Syndrome	OMIM:182290
+2	0.85	Mowat-Wilson Syndrome	OMIM:235730
+3	0.78	Cornelia de Lange Syndrome	OMIM:122470
+4	0.7	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.65	Fragile X Syndrome	OMIM:300624
+6	0.62	Certa Syndrome	OMIM:606324
+7	0.55	Miller-Dieker Syndrome	OMIM:247200
+8	0.54	Andersen-Tawil Syndrome	OMIM:170390
+9	0.51	18q Deletion Syndrome	OMIM:601808
+10	0.48	Holoprosencephaly	OMIM:236100

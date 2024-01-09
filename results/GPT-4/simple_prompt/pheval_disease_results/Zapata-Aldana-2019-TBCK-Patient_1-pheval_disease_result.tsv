@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pontoocerebellar Hypoplasia, Type 6	OMIM:611523
+2	0.85	Waisman Syndrome	OMIM:311510
+3	0.83	Aicardi-Goutieres Syndrome 1, Dominant and Recessive	OMIM:225750
+4	0.81	Lissencephaly 3	OMIM:611603
+5	0.79	Cerebellar Ataxia, Areflexia, Pes Cavus, Optic Atrophy, and Sensorineural Hearing Loss	OMIM:601338

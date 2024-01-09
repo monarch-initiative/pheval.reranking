@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.8	Metachromatic Leukodystrophy	OMIM:250100
+3	0.7	Alexander Disease	OMIM:203450
+4	0.6	Krabbe Disease	OMIM:245200
+5	0.5	Canavan Disease	OMIM:271900

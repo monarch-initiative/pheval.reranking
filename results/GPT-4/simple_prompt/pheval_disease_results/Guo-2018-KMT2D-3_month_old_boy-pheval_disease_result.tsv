@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange syndrome	OMIM:122470
+2	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.68	CHARGE syndrome	OMIM:214800
+5	0.66	Pallister-Hall syndrome	OMIM:146510

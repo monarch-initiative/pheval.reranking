@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Distal myopathy Markesbery-Griggs type	OMIM:600438
+2	0.8	Paget disease of bone 5, juvenile-onset	OMIM:239000
+3	0.7	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.6	Wing scapula, familial	OMIM:181800
+5	0.5	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:167320

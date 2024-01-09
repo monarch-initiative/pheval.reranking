@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pernicious anemia	OMIM:261100
+2	0.7	Chronic nephritis	OMIM:191100
+3	0.6	Fanconi-Bickel syndrome	OMIM:227810

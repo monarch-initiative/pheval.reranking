@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis Bullosa	OMIM:226700
+2	0.8	Kindler Syndrome	OMIM:173650
+3	0.7	Peyronie Disease	OMIM:171000
+4	0.6	Behcet Syndrome	OMIM:109650
+5	0.5	Stevens-Johnson Syndrome	OMIM:608579

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+2	0.8	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+3	0.7	Osteogenesis Imperfecta, Type I	OMIM:166200
+4	0.6	Fragile Skin, Hereditary, Autosomal Dominant	OMIM:141900
+5	0.5	Hutchinson-Gilford Progeria Syndrome	OMIM:176670

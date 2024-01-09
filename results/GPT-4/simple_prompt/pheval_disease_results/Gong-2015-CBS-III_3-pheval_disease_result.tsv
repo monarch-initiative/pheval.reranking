@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos Syndrome	OMIM:130060
+3	0.78	Stickler Syndrome	OMIM:108300
+4	0.71	Weill-Marchesani Syndrome	OMIM:277600
+5	0.67	Homocystinuria	OMIM:236200
+6	0.53	Friedreich's Ataxia	OMIM:229300
+7	0.31	Neurofibromatosis	OMIM:162200
+8	0.21	Charcot-Marie-Tooth Disease	OMIM:118220

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Wiedemann-Rautenstrauch Syndrome	OMIM:264090
+3	0.7	Spondyloepimetaphyseal Dysplasia, Irapa Type	OMIM:271665
+4	0.6	Hallermann-Streiff Syndrome	OMIM:234100
+5	0.5	Schinzel-Giedion Syndrome	OMIM:269150

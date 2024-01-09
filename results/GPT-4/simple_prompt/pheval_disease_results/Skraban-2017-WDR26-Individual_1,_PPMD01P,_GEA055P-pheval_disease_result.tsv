@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.75	Marfan Syndrome	OMIM:154700
+4	0.67	Cornelia de Lange syndrome	OMIM:122470
+5	0.63	Prader-Willi Syndrome	OMIM:176270

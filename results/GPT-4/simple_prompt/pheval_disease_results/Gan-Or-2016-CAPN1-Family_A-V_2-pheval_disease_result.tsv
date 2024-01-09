@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:312910
+2	0.8	Spastic Paraplegia 11	OMIM:604360
+3	0.7	Spastic Paraplegia 7	OMIM:607259
+4	0.6	Spastic Paraplegia 3A	OMIM:182600
+5	0.5	Spastic Paraplegia, Type 4	OMIM:182601

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Hyper IgE Syndrome	OMIM:147060
+2	0.86	Job Syndrome	OMIM:147060
+3	0.84	Buckley Syndrome	OMIM:147060
+4	0.68	Severe Combined Immunodeficiency	OMIM:102700
+5	0.65	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.61	Chronic Mucocutaneous Candidiasis	OMIM:114580
+7	0.57	DiGeorge Syndrome	OMIM:188400

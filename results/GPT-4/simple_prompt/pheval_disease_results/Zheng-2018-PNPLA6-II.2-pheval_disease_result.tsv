@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kallmann Syndrome 1	OMIM:308700
+2	0.85	Hypogonadotropic Hypogonadism 2 With Anosmia	OMIM:147950
+3	0.8	Hypogonadotropic Hypogonadism 3 With or Without Anosmia	OMIM:244200
+4	0.75	Hypogonadotropic Hypogonadism 5 With or Without Anosmia	OMIM:612370
+5	0.7	Hypogonadotropic Hypogonadism 7 With or Without Anosmia	OMIM:146110

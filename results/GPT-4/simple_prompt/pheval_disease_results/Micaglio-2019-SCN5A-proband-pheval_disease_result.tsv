@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Disease1	OMIM:Disease1_OMIM_ID
+2	0.8	Disease2	OMIM:Disease2_OMIM_ID
+3	0.7	Disease3	OMIM:Disease3_OMIM_ID

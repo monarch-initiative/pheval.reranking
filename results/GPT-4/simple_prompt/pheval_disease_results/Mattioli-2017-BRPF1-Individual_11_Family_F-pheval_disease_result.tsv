@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.7	Fragile X syndrome	OMIM:300624
+3	0.55	Alkaptonuria	OMIM:203500
+4	0.5	Turner syndrome	OMIM:300361
+5	0.45	Down syndrome	OMIM:190685

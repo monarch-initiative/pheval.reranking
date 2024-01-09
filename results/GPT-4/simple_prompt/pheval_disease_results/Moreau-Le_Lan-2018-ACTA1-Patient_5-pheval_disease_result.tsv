@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy	OMIM:253300
+2	0.85	Congenital non-progressive myopathy	OMIM:617075
+3	0.75	Charcot-Marie-Tooth disease, type 2A	OMIM:609260
+4	0.7	Congenital Muscular Dystrophy	OMIM:156240
+5	0.65	Progressive Bulbar Palsy	OMIM:607559
+6	0.6	Congenital myopathy with excessive autophagy	OMIM:618578
+7	0.55	MELAS	OMIM:540000
+8	0.5	Congenital myasthenia	OMIM:608931

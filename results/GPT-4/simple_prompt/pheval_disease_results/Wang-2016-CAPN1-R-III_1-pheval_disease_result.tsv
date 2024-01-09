@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich's Ataxia	OMIM:229300
+2	0.8	Ataxia with Vitamin E Deficiency	OMIM:277460

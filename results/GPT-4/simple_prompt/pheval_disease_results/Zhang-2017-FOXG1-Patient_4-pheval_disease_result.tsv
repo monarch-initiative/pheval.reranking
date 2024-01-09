@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zellweger Syndrome	OMIM:214100
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Krabbe Disease	OMIM:245200

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Disease1	OMIM:123456
+2	0.7	Disease2	OMIM:234567
+3	0.6	Disease3	OMIM:345678

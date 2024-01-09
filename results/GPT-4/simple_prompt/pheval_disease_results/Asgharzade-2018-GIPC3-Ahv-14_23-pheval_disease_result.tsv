@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher Syndrome, Type 1	OMIM:276900
+2	0.9	Usher Syndrome, Type 2	OMIM:276901
+3	0.85	Pendred Syndrome	OMIM:274600
+4	0.82	Jervell and Lange-Nielsen syndrome	OMIM:220400
+5	0.8	Waardenburg Syndrome, Type 3	OMIM:148820

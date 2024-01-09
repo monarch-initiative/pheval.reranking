@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte Adhesion Deficiency	OMIM:116920
+2	0.89	Hyper IgM Syndrome	OMIM:308230
+3	0.82	Severe Combined Immunodeficiency	OMIM:102700
+4	0.78	Common Variable Immunodeficiency	OMIM:607594
+5	0.75	Chronic Granulomatous Disease	OMIM:306400

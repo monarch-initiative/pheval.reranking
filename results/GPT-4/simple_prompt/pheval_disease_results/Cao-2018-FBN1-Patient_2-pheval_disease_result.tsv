@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.7	Stickler Syndrome, Type I	OMIM:108300
+3	0.65	Weill-Marchesani syndrome	OMIM:277600
+4	0.6	Loeys-Dietz syndrome	OMIM:609192
+5	0.55	Ehlers-Danlos Syndrome, Type IV	OMIM:130050

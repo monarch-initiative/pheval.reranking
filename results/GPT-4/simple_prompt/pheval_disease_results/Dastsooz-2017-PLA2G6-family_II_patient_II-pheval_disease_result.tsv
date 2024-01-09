@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pompe disease	OMIM:232300
+2	0.9	Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia	OMIM:600462
+3	0.85	Glutaric acidemia IIC	OMIM:231680
+4	0.8	Metachromatic leukodystrophy	OMIM:250100
+5	0.75	Neuronal ceroid lipofuscinosis	OMIM:256730

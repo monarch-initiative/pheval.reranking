@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Magenis Syndrome	OMIM:182290
+2	0.88	Mowat-Wilson syndrome	OMIM:235730
+3	0.85	Coffin-Siris syndrome 1	OMIM:135900
+4	0.82	CHARGE syndrome	OMIM:214800
+5	0.8	Cornelia de Lange syndrome 1	OMIM:122470

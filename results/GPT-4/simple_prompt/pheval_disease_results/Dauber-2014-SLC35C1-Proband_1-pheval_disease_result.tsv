@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Autism Spectrum Disorder	OMIM:209850
+2	0.86	Growth Hormone Insensitivity with Immunosuppression	OMIM:245590
+3	0.77	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.73	Smith-Magenis Syndrome	OMIM:182290
+5	0.69	Sotos Syndrome	OMIM:117550
+6	0.61	Williams Syndrome	OMIM:194050
+7	0.55	Mucopolysaccharidosis	OMIM:252700
+8	0.42	Organic Acidemia	OMIM:210500
+9	0.34	Prader-Willi Syndrome	OMIM:176270
+10	0.2	Echolalia	OMIM:608841

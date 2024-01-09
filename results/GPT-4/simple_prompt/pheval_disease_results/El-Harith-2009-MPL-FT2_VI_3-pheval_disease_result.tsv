@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.8	Polycythemia Vera	OMIM:263300
+3	0.7	Primary Myelofibrosis	OMIM:254450
+4	0.6	Thrombocytosis, familial, autosomal dominant	OMIM:187950
+5	0.5	Myelodysplastic Syndrome	OMIM:614286

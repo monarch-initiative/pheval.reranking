@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa	OMIM:268000
+2	0.8	Leber congenital amaurosis	OMIM:204000
+3	0.7	Bardet-Biedl syndrome	OMIM:209900
+4	0.6	Usher syndrome	OMIM:276900
+5	0.5	Kallmann syndrome	OMIM:308700

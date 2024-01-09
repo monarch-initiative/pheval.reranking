@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glutaric Acidemia Type 1	OMIM:231670
+2	0.8	Canavan Disease	OMIM:271900
+3	0.7	Alexander Disease	OMIM:203450
+4	0.6	Meckel Syndrome Type 1	OMIM:249000
+5	0.55	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200

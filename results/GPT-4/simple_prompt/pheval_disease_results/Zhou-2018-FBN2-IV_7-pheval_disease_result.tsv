@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Marfan Syndrome	OMIM:154700
+2	0.72	Beals Syndrome	OMIM:121050
+3	0.7	Ehlers-Danlos Syndrome	OMIM:130050
+4	0.68	Stickler Syndrome	OMIM:108300
+5	0.6	Weill-Marchesani Syndrome	OMIM:608328

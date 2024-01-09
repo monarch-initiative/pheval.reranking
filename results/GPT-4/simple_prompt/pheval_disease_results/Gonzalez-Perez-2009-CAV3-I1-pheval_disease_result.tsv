@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.92	McArdle Disease	OMIM:232600
+2	0.91	Mitochondrial Myopathy, Lactic Acidosis, And Sideroblastic Anemia	OMIM:600462
+3	0.9	Myopathy With Lactic Acidosis, Hereditary	OMIM:255125
+4	0.85	Charcot-Marie-Tooth Disease	OMIM:118210
+5	0.8	Progressive External Ophthalmoplegia With Mitochondrial DNA Deletions	OMIM:157640

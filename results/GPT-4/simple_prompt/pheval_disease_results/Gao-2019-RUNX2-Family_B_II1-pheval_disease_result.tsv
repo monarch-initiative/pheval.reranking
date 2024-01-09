@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Parietal Foramina 1	OMIM:168500
+3	0.8	Acrocephalosyndactylia	OMIM:101200
+4	0.7	Smith-Magenis Syndrome	OMIM:182290
+5	0.65	Mandibuloacral Dysplasia	OMIM:248370
+6	0.55	Coffin-Lowry Syndrome	OMIM:303600
+7	0.5	Crouzon Syndrome	OMIM:123500
+8	0.45	Chondroectodermal Dysplasia	OMIM:223500
+9	0.4	Facioauriculoradial Dysplasia	OMIM:171480
+10	0.35	Hallermann-Streiff Syndrome	OMIM:234100

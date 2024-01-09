@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis Congenita	OMIM:613990
+2	0.9	Papillon-Lefevre Syndrome	OMIM:245000
+3	0.85	Chediak-Higashi Syndrome	OMIM:214500
+4	0.8	Idiopathic Pulmonary Fibrosis	OMIM:178500
+5	0.75	Hermansky-Pudlak Syndrome	OMIM:203300
+6	0.7	Coats Plus	OMIM:300670
+7	0.65	Ptychotropis deficiens	OMIM:618363

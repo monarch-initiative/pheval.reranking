@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic Paraplegia Type 10	OMIM:604187
+2	0.8	Spastic Paraplegia Type 11	OMIM:604360
+3	0.7	Cerebral Palsy, Spastic Quadriplegic, Type 1	OMIM:603513
+4	0.6	Spastic Paraplegia Type 31	OMIM:610250
+5	0.5	Seizures, Cortical Blindness, and Microcephaly Syndrome	OMIM:616632

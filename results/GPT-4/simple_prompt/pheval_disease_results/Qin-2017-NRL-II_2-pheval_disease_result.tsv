@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa	OMIM:268000
+2	0.85	Stargardt Disease	OMIM:248200
+3	0.73	Leber Congenital Amaurosis	OMIM:204000
+4	0.65	Choroideremia	OMIM:303100

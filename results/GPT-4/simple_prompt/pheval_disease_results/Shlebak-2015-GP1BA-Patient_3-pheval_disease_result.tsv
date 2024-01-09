@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glanzmann Thrombasthenia	OMIM:273800
+2	0.8	Bernard-Soulier Syndrome	OMIM:231200
+3	0.7	Platelet-type Bleeding Disorder 11	OMIM:614201
+4	0.6	Platelet-type Bleeding Disorder 20	OMIM:617443
+5	0.5	Platelet-type Bleeding Disorder 9	OMIM:604498

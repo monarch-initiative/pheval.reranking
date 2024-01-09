@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Spastic Paraplegia	OMIM:182601
+2	0.85	Hereditary Hyperekplexia	OMIM:149400
+3	0.83	Hyperekplexia 3, Autosomal Recessive	OMIM:614618
+4	0.82	Hyperekplexia 1	OMIM:149400
+5	0.78	Congenital Contractural Arachnodactyly	OMIM:121050

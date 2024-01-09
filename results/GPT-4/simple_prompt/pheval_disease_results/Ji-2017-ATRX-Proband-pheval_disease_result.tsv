@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+3	0.75	Coffin-Siris Syndrome	OMIM:135900
+4	0.7	Diamond-Blackfan Anemia	OMIM:105650
+5	0.65	Rubinstein-Taybi Syndrome	OMIM:180849

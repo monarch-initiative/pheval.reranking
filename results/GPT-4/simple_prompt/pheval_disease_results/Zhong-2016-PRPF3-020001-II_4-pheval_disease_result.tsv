@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Retinitis Pigmentosa	OMIM:268000
+2	0.86	Cone-Rod Dystrophy	OMIM:120970
+3	0.8	Usher Syndrome	OMIM:276901

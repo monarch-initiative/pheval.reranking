@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polycystic Kidney Disease, Autosomal Dominant	OMIM:173900
+2	0.8	Medullary Cystic Kidney Disease 1	OMIM:174000
+3	0.7	Lesch-Nyhan Syndrome	OMIM:300322
+4	0.6	Gout, HPRT-related	OMIM:300323
+5	0.5	Renal Tubular Dysgenesis	OMIM:267430
+6	0.4	Renal Cyst And Diabetes Syndrome	OMIM:137920

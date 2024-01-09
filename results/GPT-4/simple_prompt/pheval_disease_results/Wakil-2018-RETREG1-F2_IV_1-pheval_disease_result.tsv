@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spastic Paraplegia	OMIM:312910
+2	0.8	Friedreich Ataxia	OMIM:229300
+3	0.7	Congenital Insensitivity to Pain	OMIM:243000
+4	0.6	Cerebral Palsy	OMIM:603513

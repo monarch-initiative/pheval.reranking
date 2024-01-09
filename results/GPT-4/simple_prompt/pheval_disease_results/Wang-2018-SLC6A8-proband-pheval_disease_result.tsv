@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency, X-linked	OMIM:300352
+2	0.85	Autism spectrum disorder	OMIM:209850
+3	0.8	Epilepsy	OMIM:600512
+4	0.75	Language disorder	OMIM:600565
+5	0.7	Chronic constipation	OMIM:605393

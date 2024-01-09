@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Central Hypoventilation Syndrome	OMIM:209880
+2	0.9	Otofaciocervical Syndrome	OMIM:166780
+3	0.85	Lissencephaly	OMIM:607432
+4	0.8	Leigh Syndrome	OMIM:256000
+5	0.75	Adenylosuccinate Lyase Deficiency	OMIM:103050
+6	0.7	Pitt-Hopkins Syndrome	OMIM:610954

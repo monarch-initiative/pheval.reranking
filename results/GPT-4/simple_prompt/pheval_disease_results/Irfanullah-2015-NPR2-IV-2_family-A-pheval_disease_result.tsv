@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+2	0.87	Fibular Aplasia, Tibial Campomelia, and Oligosyndactyly Syndrome	OMIM:246570
+3	0.85	Acheiropody	OMIM:200500
+4	0.81	Brachydactyly Type D	OMIM:113200
+5	0.77	Bifid Femur Syndrome	OMIM:112610

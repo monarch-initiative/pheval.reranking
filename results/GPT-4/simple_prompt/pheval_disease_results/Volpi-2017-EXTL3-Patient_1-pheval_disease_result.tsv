@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypothetical Disease1	OMIM:1
+2	0.8	Hypothetical Disease2	OMIM:2
+3	0.7	Hypothetical Disease3	OMIM:3
+4	0.6	Hypothetical Disease4	OMIM:4
+5	0.5	Hypothetical Disease5	OMIM:5

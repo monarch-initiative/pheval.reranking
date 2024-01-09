@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Martsolf syndrome	OMIM:212720
+2	0.65	Donnai-Barrow syndrome	OMIM:222448
+3	0.63	CHARGE syndrome	OMIM:214800
+4	0.6	Hajdu-Cheney syndrome	OMIM:102500
+5	0.58	Larsen syndrome, autosomal recessive	OMIM:245600
+6	0.54	Greenberg dysplasia	OMIM:215140
+7	0.51	Walker-Warburg syndrome	OMIM:236670
+8	0.5	3M syndrome, type 1	OMIM:273750
+9	0.49	Schwartz-Jampel syndrome, type 1	OMIM:255800
+10	0.47	Nance-Horan syndrome	OMIM:302350

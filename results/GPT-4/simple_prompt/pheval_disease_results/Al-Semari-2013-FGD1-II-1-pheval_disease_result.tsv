@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aarskog-Scott Syndrome	OMIM:305400
+2	0.8	Coffin-Lowry Syndrome	OMIM:303600
+3	0.7	Cornelia De Lange Syndrome	OMIM:122470
+4	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.5	Williams Syndrome	OMIM:194050

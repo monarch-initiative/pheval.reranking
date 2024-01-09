@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.8	Shwachman-Diamond syndrome	OMIM:260400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia Type 6	OMIM:611523
+2	0.85	Coffin-Siris Syndrome 5	OMIM:616938
+3	0.8	Corpus Callosum, Agenesis Of, With Mental Retardation, Ocular Coloboma, And Micrognathia	OMIM:616814
+4	0.75	Joubert Syndrome 23	OMIM:616490
+5	0.7	Mental Retardation, Autosomal Recessive 13	OMIM:614563
+6	0.65	Epileptic Encephalopathy, Early Infantile, 16	OMIM:615338
+7	0.6	Neurodevelopmental Disorder With Or Without Hyperkinetic Movements And Seizures, Autosomal Recessive	OMIM:613721
+8	0.55	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome	OMIM:603387
+9	0.5	Cerebrooculofacioskeletal Syndrome 4	OMIM:610758
+10	0.45	Mental Retardation, Autosomal Recessive 34	OMIM:614499

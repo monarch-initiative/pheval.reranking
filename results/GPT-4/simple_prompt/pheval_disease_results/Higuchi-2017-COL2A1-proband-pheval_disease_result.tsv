@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Stickler syndrome	OMIM:108300
+2	0.9	Crouzon syndrome	OMIM:123500
+3	0.85	Apert syndrome	OMIM:101200
+4	0.8	Marfan syndrome	OMIM:154700
+5	0.75	Ehlers-Danlos syndrome	OMIM:130050
+6	0.7	Pfeiffer syndrome	OMIM:101600
+7	0.65	Coffin-Lowry syndrome	OMIM:303600
+8	0.6	Craniosynostosis	OMIM:123100
+9	0.55	Osteogenesis imperfecta	OMIM:166200
+10	0.5	Fragile X syndrome	OMIM:300624

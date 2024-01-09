@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Char syndrome	OMIM:169100
+2	0.8	Chromosome 16p11.2 deletion syndrome	OMIM:611913
+3	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.7	George syndrome	OMIM:608022
+5	0.65	Velocardiofacial syndrome	OMIM:192430

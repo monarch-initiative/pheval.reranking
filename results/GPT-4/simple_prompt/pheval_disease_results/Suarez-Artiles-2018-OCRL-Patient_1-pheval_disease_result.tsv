@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dent Disease	OMIM:300009
+2	0.8	Lowe Syndrome	OMIM:309000
+3	0.7	Fanconi Syndrome	OMIM:134600
+4	0.5	Congenital Cataracts, Facial Dysmorphism, and Neuropathy	OMIM:604168
+5	0.4	Glaucoma 1, Open Angle, A	OMIM:137750
+6	0.3	Cataract, Age-Related Nuclear	OMIM:116600
+7	0.2	Intellectual Developmental Disorder With Cardiac Defects And Dysmorphic Facies	OMIM:617352
+8	0.1	Developmental And Epileptic Encephalopathy 76	OMIM:618468

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Angelman syndrome	OMIM:105830
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+3	0.82	Prader-Willi syndrome	OMIM:176270
+4	0.77	Rett syndrome	OMIM:312750
+5	0.72	Cornelia de Lange syndrome	OMIM:122470

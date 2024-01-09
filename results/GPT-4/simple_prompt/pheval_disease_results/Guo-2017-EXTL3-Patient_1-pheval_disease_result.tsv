@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Schwartz Lemli Opitz syndrome	OMIM:270400
+2	0.86	Polymyositis	OMIM:254200
+3	0.85	Congenital muscular dystrophy	OMIM:613204
+4	0.84	Achondroplasia	OMIM:100800
+5	0.8	Smith Lemli Opitz syndrome	OMIM:270400

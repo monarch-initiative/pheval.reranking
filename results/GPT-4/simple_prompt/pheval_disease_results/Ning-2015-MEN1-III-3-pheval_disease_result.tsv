@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia type 1	OMIM:131100
+2	0.85	Pituitary Adenoma, ACTH-Secreting	OMIM:219090
+3	0.82	Hyperparathyroidism, Neonatal Severe Primary	OMIM:239200
+4	0.8	Carcinoid Tumors, Intestinal	OMIM:114900
+5	0.75	Parathyroid adenoma	OMIM:102770
+6	0.7	Thymoma, Familial	OMIM:274230
+7	0.6	Nephrolithiasis, Calcium Oxalate	OMIM:167030
+8	0.5	Gastrinoma	OMIM:137215

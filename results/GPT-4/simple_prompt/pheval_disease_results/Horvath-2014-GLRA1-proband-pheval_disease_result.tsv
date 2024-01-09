@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Ciliary Dyskinesia	OMIM:244400
+2	0.8	Hydronephrosis with Peculiar Facies	OMIM:143400
+3	0.7	Cerebral Palsy	OMIM:603513
+4	0.6	Spontaneous Pneumothorax	OMIM:173600
+5	0.5	Cerebral Atrophy	OMIM:117500

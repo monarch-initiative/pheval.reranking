@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pseudohypoparathyroidism	OMIM:103580
+2	0.8	Hyperthyroidism	OMIM:275200
+3	0.7	Hypophosphatasia	OMIM:241500
+4	0.6	Achondroplasia	OMIM:100800
+5	0.5	Osteopetrosis	OMIM:259700
+6	0.4	Osteogenesis imperfecta	OMIM:166200

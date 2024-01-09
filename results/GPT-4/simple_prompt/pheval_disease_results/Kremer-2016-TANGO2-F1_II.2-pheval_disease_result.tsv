@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.8	Leigh Syndrome	OMIM:256000
+3	0.75	MELAS Syndrome	OMIM:540000
+4	0.73	Myoclonic Epilepsy with Ragged-Red Fibers	OMIM:545000
+5	0.6	Carnitine Palmitoyltransferase II Deficiency	OMIM:600649
+6	0.58	Lactic Acidosis, Fatal Infantile	OMIM:245348
+7	0.55	Pyruvate Dehydrogenase Deficiency	OMIM:312170
+8	0.5	Congenital Lactic Acidosis	OMIM:213470

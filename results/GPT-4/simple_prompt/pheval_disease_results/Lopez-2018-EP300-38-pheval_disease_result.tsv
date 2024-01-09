@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange Syndrome	OMIM:122470
+2	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.67	Mental Retardation, Autosomal Dominant 2A	OMIM:614113
+4	0.56	CHARGE Syndrome	OMIM:214800
+5	0.53	Costello Syndrome	OMIM:218040

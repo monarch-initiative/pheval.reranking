@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Paget's disease of bone	OMIM:167250
+2	0.85	Osteogenesis Imperfecta	OMIM:166200
+3	0.8	Hypophosphatasia	OMIM:241500
+4	0.75	Ehlers-Danlos syndrome	OMIM:130000
+5	0.7	Alagille syndrome	OMIM:118450

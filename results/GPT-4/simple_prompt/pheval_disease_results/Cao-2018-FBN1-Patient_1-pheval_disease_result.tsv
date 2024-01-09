@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.87	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+3	0.83	Weill-Marchesani Syndrome	OMIM:277600
+4	0.8	Loeys-Dietz Syndrome	OMIM:609192

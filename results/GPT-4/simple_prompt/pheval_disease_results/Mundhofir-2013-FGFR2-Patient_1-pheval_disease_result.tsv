@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carpenter Syndrome	OMIM:201000
+2	0.85	Antley-Bixler Syndrome	OMIM:207410
+3	0.75	Apert Syndrome	OMIM:101200
+4	0.65	Crouzon Syndrome	OMIM:123500
+5	0.55	Pfeiffer Syndrome	OMIM:101600

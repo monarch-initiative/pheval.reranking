@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Adenosine Deaminase deficiency	OMIM:102700
+2	0.82	Severe Combined Immunodeficiency	OMIM:102700
+3	0.74	Common Variable Immunodeficiency	OMIM:607594

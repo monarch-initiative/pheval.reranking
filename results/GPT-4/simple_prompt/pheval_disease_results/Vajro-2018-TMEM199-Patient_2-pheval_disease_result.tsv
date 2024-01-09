@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.85	Primary biliary cirrhosis	OMIM:109720
+3	0.75	Hemochromatosis	OMIM:235200
+4	0.7	Familial hypercholesterolemia	OMIM:143890
+5	0.65	Alkaptonuria	OMIM:203500
+6	0.6	Hyperbilirubinemia	OMIM:143500

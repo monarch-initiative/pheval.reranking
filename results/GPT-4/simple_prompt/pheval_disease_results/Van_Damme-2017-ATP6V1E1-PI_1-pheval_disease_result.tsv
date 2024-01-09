@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Loeys-Dietz Syndrome	OMIM:609192
+3	0.7	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.5	Alport Syndrome	OMIM:301050
+5	0.4	Familial Thoracic Aortic Aneurysm Dissection	OMIM:607086

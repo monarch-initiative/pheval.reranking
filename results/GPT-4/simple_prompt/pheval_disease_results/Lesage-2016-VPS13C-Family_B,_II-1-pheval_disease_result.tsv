@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.8	Dystonia	OMIM:128230
+3	0.7	Multiple system atrophy	OMIM:146500
+4	0.6	Lewy body dementia	OMIM:127750
+5	0.5	Essential tremor	OMIM:190300

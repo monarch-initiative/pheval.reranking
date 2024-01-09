@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myasthenia Gravis	OMIM:160150
+2	0.75	Muscular Dystrophy	OMIM:310200
+3	0.7	Charcot-Marie-Tooth disease	OMIM:118220

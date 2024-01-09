@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorder of Deglycosylation	OMIM:615273
+2	0.8	Pontocerebellar Hypoplasia Type 2E	OMIM:618065
+3	0.7	Bethlem Myopathy 1	OMIM:158810
+4	0.6	Rett Syndrome	OMIM:312750
+5	0.5	Coffin-Siris Syndrome 1	OMIM:135900
+6	0.4	Familial Hypobetalipoproteinemia	OMIM:615558
+7	0.3	Epileptic Encephalopathy, Early Infantile, 52	OMIM:617350
+8	0.2	Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies 2	OMIM:615419
+9	0.1	Short Stature, Developmental Delay, and Congenital Heart Defects	OMIM:617044
+10	0.05	Angelman Syndrome	OMIM:105830

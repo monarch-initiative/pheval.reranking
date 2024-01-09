@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies	OMIM:616801
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Cornelia De Lange Syndrome	OMIM:122470

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Cutis laxa, autosomal recessive, type IIIA	OMIM:219150
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.78	Barlow's Syndrome	OMIM:614108
+4	0.68	Loeys-Dietz syndrome	OMIM:609192
+5	0.62	Congenital Contractural Arachnodactyly	OMIM:121050
+6	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

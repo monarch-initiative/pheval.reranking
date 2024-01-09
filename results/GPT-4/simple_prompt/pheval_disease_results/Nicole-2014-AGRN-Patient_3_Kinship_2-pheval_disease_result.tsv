@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myasthenic syndrome, congenital, 16	OMIM:618170
+2	0.88	Congenital myasthenic syndrome 19	OMIM:616720
+3	0.82	Kelley-Seegmiller syndrome	OMIM:300653
+4	0.78	Late-onset distal myopathy, Alleman type	OMIM:156590
+5	0.75	Mitochondrial complex III deficiency, nuclear type 2	OMIM:615157

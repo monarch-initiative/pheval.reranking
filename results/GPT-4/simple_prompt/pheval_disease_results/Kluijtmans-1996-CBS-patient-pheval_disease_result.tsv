@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Marfan Syndrome	OMIM:154700
+2	0.72	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.68	Loeys-Dietz Syndrome	OMIM:609192
+4	0.64	Homocystinuria	OMIM:236200
+5	0.6	Shprintzen-Goldberg Syndrome	OMIM:182212

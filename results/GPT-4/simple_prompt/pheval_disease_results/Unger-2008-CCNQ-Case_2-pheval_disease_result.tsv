@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Apert Syndrome	OMIM:101200
+2	0.89	Loeys-Dietz Syndrome	OMIM:609192
+3	0.85	Ellis-van Creveld Syndrome	OMIM:225500
+4	0.83	VACTERL Association	OMIM:192350
+5	0.81	Charge Syndrome	OMIM:214800

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Freeman-Sheldon syndrome	OMIM:193700
+2	0.8	Beals syndrome	OMIM:121050
+3	0.7	Stickler Syndrome	OMIM:108300
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Coffin-Lowry syndrome	OMIM:303600

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.85	Hemochromatosis	OMIM:235200
+3	0.8	Acute Hepatic Porphyrias	OMIM:612740
+4	0.75	Autoimmune Hepatitis	OMIM:615517
+5	0.6	Non-alcoholic Fatty Liver Disease	OMIM:211980

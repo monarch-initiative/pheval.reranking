@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Langer-Giedon Syndrome	OMIM:150230
+2	0.8	Freeman-Sheldon Syndrome	OMIM:193700
+3	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.7	CHARGE Syndrome	OMIM:214800
+5	0.65	Multiple Pterygium Syndrome	OMIM:265000

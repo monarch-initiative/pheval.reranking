@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral palsy	OMIM:603513
+2	0.8	Spastic paraplegia	OMIM:303350
+3	0.7	Hereditary spastic paraplegia	OMIM:312910
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Charcot-Marie-Tooth disease	OMIM:118220

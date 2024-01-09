@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome	OMIM:192500
+2	0.85	Jervell and Lange-Nielsen syndrome	OMIM:220400
+3	0.8	Usher Syndrome	OMIM:276900
+4	0.75	Alport Syndrome	OMIM:301050
+5	0.7	Pendred syndrome	OMIM:274600

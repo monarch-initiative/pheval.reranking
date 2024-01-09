@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Morquio Syndrome	OMIM:253000
+2	0.8	Dyggve-Melchior-Clausen Syndrome	OMIM:223800
+3	0.7	Metaphyseal Dysplasia, Anetoderma, and Optic Atrophy	OMIM:613983
+4	0.65	McKusick Metaphyseal Chondrodysplasia	OMIM:143095
+5	0.5	Bloch-Sulzberger Syndrome	OMIM:308310

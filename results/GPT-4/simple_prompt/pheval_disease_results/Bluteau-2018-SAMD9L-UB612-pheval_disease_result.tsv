@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diamond-Blackfan Anemia 1	OMIM:105650
+2	0.85	Dyskeratosis Congenita, Autosomal Recessive 1	OMIM:224230
+3	0.82	Shwachman-Diamond Syndrome	OMIM:260400
+4	0.8	Fanconi Anemia, Complementation Group C	OMIM:227645
+5	0.75	Nystagmus 1, Congenital, X-Linked	OMIM:310700

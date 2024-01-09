@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bardet-Biedl syndrome	OMIM:209900
+2	0.85	Alstrom syndrome	OMIM:203800
+3	0.75	Retinitis pigmentosa	OMIM:268000
+4	0.7	Laurence-Moon syndrome	OMIM:245800
+5	0.65	Leber congenital amaurosis	OMIM:204000

@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuchs Endothelial Dystrophy	OMIM:136800
+2	0.7	Congenital Glaucoma	OMIM:613085
+3	0.6	Corneal Dystrophy	OMIM:121820
+4	0.5	Peters Anomaly	OMIM:604229

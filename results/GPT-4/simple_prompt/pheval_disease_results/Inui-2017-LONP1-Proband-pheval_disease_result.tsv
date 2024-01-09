@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alpers Syndrome	OMIM:203700
+2	0.82	Leigh Syndrome	OMIM:256000
+3	0.8	Pyruvate Dehydrogenase Deficiency	OMIM:312170
+4	0.78	Infantile Neuroaxonal Dystrophy	OMIM:256600
+5	0.75	MELAS	OMIM:540000

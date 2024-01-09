@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Albinism, Oculocutaneous, Type IA	OMIM:203100
+2	0.7	Albinism, Oculocutaneous, Type IB	OMIM:606952
+3	0.6	Griscelli Syndrome Type 1	OMIM:214450
+4	0.5	Hermansky-Pudlak Syndrome 1	OMIM:203300

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.8	Adams-Oliver syndrome	OMIM:100300
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Cutis Laxa, Recessive	OMIM:219200
+5	0.5	Aicardi syndrome	OMIM:304050

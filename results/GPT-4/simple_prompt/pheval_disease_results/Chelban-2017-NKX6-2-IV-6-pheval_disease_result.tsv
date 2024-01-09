@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.7	Leigh syndrome	OMIM:256000
+3	0.6	Spastic paraplegia 2	OMIM:312920
+4	0.5	Congenital Muscular Dystrophy	OMIM:613205

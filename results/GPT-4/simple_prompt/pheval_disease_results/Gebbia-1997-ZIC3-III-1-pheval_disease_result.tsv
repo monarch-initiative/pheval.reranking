@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Heterotaxy syndrome	OMIM:617205
+2	0.85	Sitosterolemia	OMIM:210250
+3	0.75	Primary Ciliary Dyskinesia	OMIM:244400

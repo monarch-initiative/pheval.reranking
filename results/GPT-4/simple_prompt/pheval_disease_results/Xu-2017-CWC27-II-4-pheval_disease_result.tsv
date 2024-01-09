@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis Type 1	OMIM:162200
+2	0.8	Legius Syndrome	OMIM:611431
+3	0.7	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	Noonan Syndrome	OMIM:163950
+5	0.5	Mowat-Wilson Syndrome	OMIM:235730

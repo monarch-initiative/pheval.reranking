@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Systemic Lupus Erythematosus	OMIM:152700
+2	0.7	Rheumatoid Arthritis	OMIM:180300
+3	0.6	Giant Cell Arteritis	OMIM:187360
+4	0.5	Behcet Syndrome	OMIM:109650
+5	0.4	Polyarteritis Nodosa	OMIM:615688

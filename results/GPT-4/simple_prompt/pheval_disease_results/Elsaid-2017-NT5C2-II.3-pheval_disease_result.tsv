@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy, Spastic Quadriplegic, Type 2	OMIM:612900
+2	0.85	Cerebral Palsy, Spastic Quadriplegic, Type 1	OMIM:603513
+3	0.83	Leukodystrophy, Hypomyelinating, 2	OMIM:608804
+4	0.8	Spastic Paraplegia 49, Autosomal Recessive	OMIM:615031
+5	0.75	Aicardi-Goutieres Syndrome 6	OMIM:615010
+6	0.74	Mitochondrial Complex I Deficiency, Nuclear Type 23	OMIM:617536
+7	0.73	Leigh Syndrome, French-Canadian Type	OMIM:220111
+8	0.71	Lissencephaly 4	OMIM:615191
+9	0.7	Epileptic Encephalopathy, Early Infantile, 2	OMIM:613721
+10	0.68	Muscular Dystrophy-Dystroglycanopathy (Congenital With Mental Retardation), Type B, 14	OMIM:615057

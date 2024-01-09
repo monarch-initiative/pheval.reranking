@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenia gravis	OMIM:254200
+2	0.8	Lambert-Eaton syndrome	OMIM:254300
+3	0.7	Cutis Laxa	OMIM:219100
+4	0.65	Ross syndrome	OMIM:607628
+5	0.6	Familial Dysautonomia	OMIM:223900

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Tuberous Sclerosis 1	OMIM:191100
+2	0.81	Tuberous Sclerosis 2	OMIM:613254
+3	0.67	Autism Spectrum Disorder	OMIM:209850

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria, Bilateral Frontoparietal	OMIM:606854
+2	0.88	Polymicrogyria, Bilateral Perisylvian, Autosomal Recessive	OMIM:615752
+3	0.86	Polymicrogyria, Symmetrical Bilateral Frontal	OMIM:612019
+4	0.7	Epileptic Encephalopathy, Early Infantile, 39	OMIM:617020
+5	0.6	Epileptic Encephalopathy, Early Infantile, 12	OMIM:613722

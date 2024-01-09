@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bernard-Soulier Syndrome	OMIM:231200
+2	0.8	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+3	0.75	Glanzmann Thrombasthenia	OMIM:273800
+4	0.65	Gray Platelet Syndrome	OMIM:139090
+5	0.6	Wiskott-Aldrich Syndrome	OMIM:301000

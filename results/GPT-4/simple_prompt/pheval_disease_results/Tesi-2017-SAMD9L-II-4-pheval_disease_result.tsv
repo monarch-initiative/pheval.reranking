@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Immunodeficiency, Neutropenia, And Myelodysplasia, Autosomal Recessive	OMIM:252650
+2	0.85	Severe Combined Immunodeficiency, Autosomal Recessive	OMIM:102700
+3	0.75	Attention Deficit-Hyperactivity Disorder	OMIM:143465
+4	0.7	Ataxia Telangiectasia	OMIM:208900
+5	0.65	Amish Lethal Microcephaly	OMIM:607196
+6	0.6	Bernard-Soulier Syndrome	OMIM:231200

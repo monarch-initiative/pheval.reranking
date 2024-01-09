@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Albinism, Oculocutaneous, Type I	OMIM:203100
+2	0.86	Albinism, Oculocutaneous, Type II	OMIM:203200
+3	0.82	Albinism, Oculocutaneous, Type III	OMIM:203290
+4	0.79	Albinism, Oculocutaneous, Type IV	OMIM:606574
+5	0.74	Hermansky-Pudlak syndrome	OMIM:203300

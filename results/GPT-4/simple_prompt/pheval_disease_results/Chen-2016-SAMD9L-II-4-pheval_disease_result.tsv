@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich Ataxia	OMIM:229300
+2	0.8	Ataxia-telangiectasia	OMIM:208900
+3	0.75	Ataxia with vitamin E deficiency	OMIM:277460
+4	0.7	Aplastic Anemia	OMIM:609135
+5	0.6	Spinocerebellar ataxia, autosomal recessive 1	OMIM:606002

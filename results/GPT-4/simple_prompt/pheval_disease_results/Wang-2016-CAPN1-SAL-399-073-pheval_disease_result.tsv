@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia	OMIM:164400
+3	0.7	Multiple sclerosis	OMIM:126200

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Freeman-Sheldon syndrome	OMIM:193700
+2	0.73	Ehlers-Danlos syndrome	OMIM:130000
+3	0.61	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.58	Opitz-Kaveggia syndrome	OMIM:305450
+5	0.56	Stickler syndrome	OMIM:108300

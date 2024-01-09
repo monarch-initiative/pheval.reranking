@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Treacher Collins syndrome	OMIM:154500
+2	0.7	Stickler syndrome	OMIM:108300
+3	0.6	Pierre Robin syndrome	OMIM:261800
+4	0.4	Noonan syndrome	OMIM:163950
+5	0.3	Crouzon syndrome	OMIM:123500

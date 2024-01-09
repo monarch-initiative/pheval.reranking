@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Platelet storage pool deficiency	OMIM:185050
+2	0.8	Hermansky-Pudlak syndrome 2	OMIM:608233
+3	0.7	Chediak-Higashi syndrome	OMIM:214500
+4	0.6	Gray platelet syndrome	OMIM:139090
+5	0.5	Paris-Trousseau syndrome	OMIM:188025

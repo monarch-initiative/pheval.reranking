@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris Syndrome	OMIM:135900
+2	0.9	Cornelia de Lange syndrome	OMIM:122470
+3	0.88	Aicardi Syndrome	OMIM:304050
+4	0.85	MECP2 duplication syndrome	OMIM:300260
+5	0.81	Wolf-Hirschhorn Syndrome	OMIM:194190

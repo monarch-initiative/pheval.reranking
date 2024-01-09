@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hyper IgM syndrome	OMIM:308230
+2	0.92	Netherton syndrome	OMIM:256500
+3	0.9	Job syndrome	OMIM:147060
+4	0.88	Griscelli syndrome	OMIM:214450
+5	0.85	Congenital disorder of glycosylation	OMIM:212067
+6	0.82	Hermansky-Pudlak syndrome	OMIM:203300

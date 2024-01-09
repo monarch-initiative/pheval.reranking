@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Freeman-Sheldon syndrome	OMIM:193700
+2	0.85	Waardenburg syndrome	OMIM:193500
+3	0.8	Piebaldism	OMIM:172800
+4	0.7	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+5	0.65	Distal Arthrogryposis	OMIM:108120

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Hypomaturation Type, Iia2	OMIM:612529
+2	0.8	Amelogenesis Imperfecta, Hypomaturation Type, Iia6	OMIM:617217
+3	0.7	Amelogenesis Imperfecta, Hypoplastic Type, Iia1	OMIM:204700
+4	0.6	Amelogenesis Imperfecta, Type Ib	OMIM:104500
+5	0.5	Enamel-Renal Syndrome	OMIM:204690

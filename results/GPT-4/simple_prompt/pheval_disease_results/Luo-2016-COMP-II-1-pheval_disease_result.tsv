@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal Dysplasia	OMIM:271665
+2	0.85	Pseudoachondroplasia	OMIM:177170
+3	0.8	Diastrophic Dysplasia	OMIM:222600
+4	0.75	Spondyloperipheral Dysplasia	OMIM:271700
+5	0.7	Thanatophoric Dysplasia, Type I	OMIM:187600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe Combined Immunodeficiency	OMIM:102700
+2	0.86	Congenital Central Hypoventilation Syndrome	OMIM:209880
+3	0.82	Mowat-Wilson Syndrome	OMIM:235730
+4	0.78	Schinzel-Giedion Syndrome	OMIM:269150
+5	0.72	Acrodermatitis Enteropathica, Zinc-Deficiency Type	OMIM:201100
+6	0.69	Aicardi-Goutieres Syndrome	OMIM:225750
+7	0.65	Pitt-Hopkins Syndrome	OMIM:610954
+8	0.6	Familial Hypertrophic Cardiomyopathy	OMIM:192600
+9	0.55	Ataxia-Telangiectasia	OMIM:208900
+10	0.5	Primary Ciliary Dyskinesia	OMIM:244400

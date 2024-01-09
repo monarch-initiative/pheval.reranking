@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome	OMIM:130000
+2	0.9	Marfan syndrome	OMIM:154700
+3	0.85	Cutis laxa	OMIM:219100
+4	0.8	Osteogenesis imperfecta	OMIM:166200
+5	0.75	Congenital contractural arachnodactyly	OMIM:121050
+6	0.7	Larsen syndrome	OMIM:150250

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert Syndrome 1	OMIM:213300
+2	0.85	Ponto-cerebellar Hypoplasia, Type 1a	OMIM:607596
+3	0.8	Leigh Syndrome	OMIM:256000
+4	0.75	Aicardi-Goutieres Syndrome 1	OMIM:225750
+5	0.7	Congenital Disorder of Glycosylation, Type 1a	OMIM:212065

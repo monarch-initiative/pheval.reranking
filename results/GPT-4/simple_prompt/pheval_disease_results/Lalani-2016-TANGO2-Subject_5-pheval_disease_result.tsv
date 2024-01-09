@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome 1	OMIM:192500
+2	0.92	Andersen-Tawil Syndrome	OMIM:170390
+3	0.9	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+4	0.88	Rhabdomyolysis	OMIM:268200
+5	0.78	Brugada Syndrome	OMIM:601144
+6	0.75	Short QT Syndrome	OMIM:609620
+7	0.63	Progressive Familial Heart Block Type 1	OMIM:113900
+8	0.6	Hypoglycemia	OMIM:240800
+9	0.55	Jervell and Lange-Nielsen Syndrome 1	OMIM:220400
+10	0.52	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110

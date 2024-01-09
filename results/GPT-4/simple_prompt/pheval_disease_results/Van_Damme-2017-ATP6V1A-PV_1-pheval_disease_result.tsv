@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Barber-Say Syndrome	OMIM:209885
+2	0.78	Ehlers-Danlos Syndrome, Type VII	OMIM:130080
+3	0.73	Congenital Cutis Laxa	OMIM:123700
+4	0.65	Geroderma Osteodysplasticum	OMIM:231070
+5	0.61	Marfan Syndrome	OMIM:154700
+6	0.59	Cantu Syndrome	OMIM:239850

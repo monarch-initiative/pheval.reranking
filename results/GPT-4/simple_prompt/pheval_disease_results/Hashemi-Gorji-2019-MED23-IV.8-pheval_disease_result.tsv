@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia	OMIM:182600
+2	0.85	Cerebral palsy	OMIM:605388
+3	0.8	Rett Syndrome	OMIM:312750
+4	0.75	Angelman syndrome	OMIM:105830
+5	0.7	Prader-Willi syndrome	OMIM:176270

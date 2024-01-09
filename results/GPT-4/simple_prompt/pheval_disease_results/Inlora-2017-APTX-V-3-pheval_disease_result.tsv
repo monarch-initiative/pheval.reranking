@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.8	Steel syndrome	OMIM:615155
+3	0.7	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+4	0.6	Parkinson disease 14, autosomal recessive	OMIM:612953
+5	0.5	Ceroid lipofuscinosis, neuronal, 5	OMIM:256731

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.7	Primary Biliary Cholangitis	OMIM:109720
+3	0.65	Nonalcoholic Fatty Liver Disease	OMIM:211600
+4	0.6	Hypercholesterolemia, Familial	OMIM:143890
+5	0.55	Rhabdomyolysis	OMIM:268200

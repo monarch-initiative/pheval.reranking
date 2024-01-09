@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Thrombocytopenia Absent Radius Syndrome	OMIM:274000
+2	0.9	Grey Platelet Syndrome	OMIM:139090
+3	0.85	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.8	Bernard-Soulier Syndrome	OMIM:231200
+5	0.75	Familial Platelet Disorder with Associated Myeloid Malignancy	OMIM:601399

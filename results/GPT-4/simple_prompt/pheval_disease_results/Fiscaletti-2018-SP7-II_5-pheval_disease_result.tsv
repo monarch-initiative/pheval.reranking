@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta	OMIM:166200
+2	0.85	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.8	Marfan Syndrome	OMIM:154700
+4	0.7	Cleidocranial Dysplasia	OMIM:119600
+5	0.65	Stickler Syndrome	OMIM:108300
+6	0.6	Pseudohypoparathyroidism	OMIM:103580

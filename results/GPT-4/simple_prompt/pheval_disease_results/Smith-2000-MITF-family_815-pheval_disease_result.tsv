@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome Type 2	OMIM:193510
+2	0.8	Tietz Syndrome	OMIM:103500
+3	0.7	Albinism, Oculocutaneous, Type IA	OMIM:203100
+4	0.6	Piebaldism	OMIM:172800

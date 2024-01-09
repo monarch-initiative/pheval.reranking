@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan Syndrome	OMIM:163950
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Costello Syndrome	OMIM:218040
+4	0.55	Cardiofaciocutaneous Syndrome	OMIM:115150
+5	0.5	Perlman syndrome	OMIM:267000

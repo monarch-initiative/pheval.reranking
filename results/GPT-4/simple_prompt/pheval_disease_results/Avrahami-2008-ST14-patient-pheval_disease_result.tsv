@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Netherton Syndrome	OMIM:256500
+2	0.85	Ichthyosis, Congenital, Autosomal Recessive 1	OMIM:242300
+3	0.8	Ichthyosis, Congenital, Autosomal Recessive 4B	OMIM:601277
+4	0.75	Hypotrichosis 7	OMIM:604379
+5	0.7	Ichthyosis, Congenital, Autosomal Recessive 11	OMIM:615023

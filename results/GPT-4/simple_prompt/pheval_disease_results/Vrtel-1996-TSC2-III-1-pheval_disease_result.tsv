@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous Sclerosis	OMIM:191100
+2	0.6	Tooth and Nail Syndrome	OMIM:150400
+3	0.5	Peutz-Jeghers Syndrome	OMIM:175200

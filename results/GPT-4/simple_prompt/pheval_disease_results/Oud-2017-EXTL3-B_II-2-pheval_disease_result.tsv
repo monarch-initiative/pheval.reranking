@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pallister-Hall syndrome	OMIM:146510
+2	0.85	Ellis-van Creveld syndrome	OMIM:225500
+3	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Wiedemann-Steiner syndrome	OMIM:605130
+5	0.79	Kabuki syndrome	OMIM:147920
+6	0.78	Cornelia de Lange syndrome	OMIM:122470
+7	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.5	Christianson syndrome	OMIM:300243
+9	0.48	Seckel syndrome	OMIM:210600
+10	0.45	Coffin-Siris syndrome	OMIM:135900
