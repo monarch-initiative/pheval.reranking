@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hemochromatosis	OMIM:235200
+2	0.9	Wilson Disease	OMIM:277900
+3	0.85	Non-alcoholic Fatty Liver Disease	OMIM:613282
+4	0.8	Acute Liver Failure	OMIM:613070
+5	0.65	Leigh Syndrome	OMIM:256000

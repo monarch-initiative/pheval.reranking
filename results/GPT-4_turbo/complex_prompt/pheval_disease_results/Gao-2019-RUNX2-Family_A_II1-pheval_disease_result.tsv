@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Cleidocranial Dysplasia, Autosomal Recessive	OMIM:216330
+3	0.7	Pyknodysostosis	OMIM:265800
+4	0.6	Ellis-van Creveld Syndrome	OMIM:225500
+5	0.55	Craniometaphyseal Dysplasia, Autosomal Dominant	OMIM:123000
+5	0.55	Craniometaphyseal Dysplasia, Autosomal Recessive	OMIM:218400
+7	0.45	Metaphyseal Dysplasia, Pyle Type	OMIM:265900
+8	0.3	Thanatophoric Dysplasia Type 1	OMIM:187600
+9	0.25	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+10	0.2	Kniest Dysplasia	OMIM:156550

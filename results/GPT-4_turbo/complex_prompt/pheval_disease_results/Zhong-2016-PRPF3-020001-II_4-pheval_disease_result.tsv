@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa	OMIM:268000
+2	0.8	Rod-Cone Dystrophy	OMIM:180100
+3	0.75	Usher Syndrome Type I	OMIM:276900
+4	0.7	Usher Syndrome Type II	OMIM:276901
+5	0.65	Leber Congenital Amaurosis	OMIM:204000
+6	0.6	Choroideremia	OMIM:303100
+7	0.55	Gyrate Atrophy of the Choroid and Retina	OMIM:258870
+8	0.5	Retinitis Pigmentosa 1	OMIM:180100
+9	0.45	Bardet-Biedl Syndrome	OMIM:209900
+10	0.4	Refsum Disease	OMIM:266500

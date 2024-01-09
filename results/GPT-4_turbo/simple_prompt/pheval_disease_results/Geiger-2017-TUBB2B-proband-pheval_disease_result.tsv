@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lissencephaly	OMIM:607432
+2	0.85	Miller-Dieker syndrome	OMIM:247200
+3	0.7	Cerebral palsy, spastic quadriplegic	OMIM:603513
+4	0.65	Dystonia 12	OMIM:128235
+5	0.6	Joubert syndrome	OMIM:213300
+6	0.55	Mowat-Wilson syndrome	OMIM:235730
+7	0.5	Developmental and epileptic encephalopathy	OMIM:308350
+8	0.45	Rett syndrome	OMIM:312750
+9	0.4	Familial dysautonomia	OMIM:223900
+10	0.35	Pitt-Hopkins syndrome	OMIM:610954

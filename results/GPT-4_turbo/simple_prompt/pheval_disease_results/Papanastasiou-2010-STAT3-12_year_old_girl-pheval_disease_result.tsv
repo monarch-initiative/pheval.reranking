@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hyper IgE recurrent infection syndrome	OMIM:147060
+2	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.65	Chronic granulomatous disease	OMIM:306400
+4	0.6	Severe combined immunodeficiency	OMIM:102700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Zellweger syndrome	OMIM:214100
+2	0.92	3-Methylglutaconic aciduria type 3	OMIM:258501
+3	0.9	Alexander disease	OMIM:203450
+4	0.88	Leigh syndrome	OMIM:256000
+5	0.85	Lissencephaly	OMIM:607432
+6	0.83	Pelizaeus-Merzbacher Disease	OMIM:312080
+7	0.82	Canavan disease	OMIM:271900
+8	0.8	Cockayne syndrome	OMIM:216400
+9	0.78	Vanishing White Matter disease	OMIM:603896
+10	0.76	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004

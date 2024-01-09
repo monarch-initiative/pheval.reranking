@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.88	Hereditary spastic paraplegia	OMIM:303350
+3	0.87	Wilson disease	OMIM:277900
+4	0.86	Huntington disease	OMIM:143100
+5	0.85	Multiple sclerosis	OMIM:126200
+6	0.84	Parkinson disease	OMIM:168600
+7	0.83	Tay-Sachs disease	OMIM:272800
+8	0.82	Cerebrotendinous xanthomatosis	OMIM:213700
+9	0.81	Leigh syndrome	OMIM:256000
+10	0.8	Pantothenate kinase-associated neurodegeneration	OMIM:234200

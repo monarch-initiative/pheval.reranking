@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorders of Glycosylation, Type Ia	OMIM:212065
+2	0.8	Joubert Syndrome	OMIM:213300
+3	0.7	Mitochondrial Complex I Deficiency	OMIM:252010
+4	0.6	Neuronal Ceroid Lipofuscinosis	OMIM:256730
+4	0.6	Leigh Syndrome	OMIM:256000
+6	0.5	Wilson Disease	OMIM:277900
+7	0.4	Rett Syndrome	OMIM:312750
+8	0.3	Dentatorubral-Pallidoluysian Atrophy	OMIM:125370

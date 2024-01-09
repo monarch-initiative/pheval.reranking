@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+2	0.86	Gaucher Disease	OMIM:230800
+3	0.84	Fabry Disease	OMIM:301500
+4	0.82	Sialidosis Type I	OMIM:256550
+5	0.8	Neuronal Ceroid Lipofuscinoses	OMIM:256730
+6	0.78	Tay-Sachs Disease	OMIM:272800
+7	0.76	Morquio Syndrome	OMIM:253010
+8	0.74	Niemann-Pick Disease	OMIM:257200
+9	0.72	Metachromatic Leukodystrophy	OMIM:250100
+10	0.7	Sly Syndrome, MPS VII	OMIM:253220

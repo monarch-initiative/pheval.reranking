@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Disorders of Glycosylation, Type Ia	OMIM:212065
+2	0.9	Congenital Disorders of Glycosylation, Type Ib	OMIM:602579
+3	0.85	Wilson Disease	OMIM:277900
+4	0.8	Alagille Syndrome	OMIM:118450
+5	0.75	Niemann-Pick Disease, Type C1	OMIM:257220
+5	0.75	Niemann-Pick Disease, Type C2	OMIM:607625
+7	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolysis Bullosa Simplex with Mucosal Involvement	OMIM:615294
+2	0.9	Epidermolysis Bullosa, Junctional	OMIM:226650
+3	0.85	Epidermolysis Bullosa, Junctional, Herlitz Type	OMIM:226700
+4	0.8	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	OMIM:226650
+5	0.75	Stevens-Johnson Syndrome	OMIM:608579

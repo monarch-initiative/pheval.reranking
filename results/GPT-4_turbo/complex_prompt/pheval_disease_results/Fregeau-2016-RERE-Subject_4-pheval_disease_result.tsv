@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.75	CHARGE Syndrome	OMIM:214800
+3	0.7	Cornelia de Lange Syndrome	OMIM:122470
+4	0.65	Apert Syndrome	OMIM:101200
+5	0.6	Cohen Syndrome	OMIM:216550
+6	0.55	Noonan Syndrome	OMIM:163950
+7	0.5	Kabuki Syndrome	OMIM:147920
+8	0.45	Williams Syndrome	OMIM:194050
+9	0.4	Treacher Collins Syndrome	OMIM:154500
+10	0.35	Mowat-Wilson Syndrome	OMIM:235730

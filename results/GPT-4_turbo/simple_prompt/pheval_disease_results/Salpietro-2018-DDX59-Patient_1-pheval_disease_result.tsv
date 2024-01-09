@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Acrocallosal Syndrome	OMIM:200990
+2	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.6	Saubermann Syndrome	OMIM:615583
+3	0.6	Cohen Syndrome	OMIM:216550
+5	0.5	Pallister-Hall Syndrome	OMIM:146510
+5	0.5	Greig Cephalopolysyndactyly Syndrome	OMIM:175700
+7	0.4	Carpenter Syndrome	OMIM:201000

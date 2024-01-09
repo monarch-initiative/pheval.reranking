@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia	OMIM:164400
+2	0.9	Friedreich ataxia	OMIM:229300
+3	0.85	Multiple system atrophy, cerebellar type	OMIM:146500
+4	0.75	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.7	Primary lateral sclerosis	OMIM:611637

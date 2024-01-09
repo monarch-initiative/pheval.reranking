@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amyotrophic Lateral Sclerosis	OMIM:105400
+2	0.92	Muscular Dystrophy-Dystroglycanopathy Type C14	OMIM:613276
+3	0.9	Myoclonic Epilepsy, Juvenile	OMIM:254770
+4	0.88	Becker Muscular Dystrophy	OMIM:300376
+5	0.85	Glycogen Storage Disease Type II	OMIM:232300
+6	0.83	Myoadenylate Deaminase Deficiency	OMIM:615511
+7	0.81	Limb-Girdle Muscular Dystrophy	OMIM:253600
+8	0.79	McArdle Disease	OMIM:232600
+9	0.76	Mitochondrial Myopathy	OMIM:500001
+10	0.74	Laing Distal Myopathy	OMIM:160500

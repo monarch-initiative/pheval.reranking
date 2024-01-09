@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pfeiffer Syndrome	OMIM:101600
+2	0.8	Crouzon Syndrome	OMIM:123500
+3	0.75	Apert Syndrome	OMIM:101200
+4	0.7	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.65	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.6	Carpenter Syndrome	OMIM:201000
+7	0.55	Mucopolysaccharidosis, MPS-I	OMIM:607014
+8	0.5	Noonan Syndrome	OMIM:163950
+9	0.45	Treacher Collins Syndrome	OMIM:154500
+10	0.4	Pallister-Hall Syndrome	OMIM:146510

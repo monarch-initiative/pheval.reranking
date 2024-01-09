@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Multiple system atrophy, cerebellar type	OMIM:607459
+3	0.7	Spinocerebellar ataxia type 3	OMIM:109150
+4	0.6	Spinocerebellar ataxia type 1	OMIM:164400
+5	0.5	Mitochondrial myopathy	OMIM:500001
+5	0.5	Hereditary spastic paraplegia	OMIM:303350
+7	0.4	Alexander disease	OMIM:203450
+8	0.3	Lateral sclerosis, juvenile	OMIM:606353
+9	0.2	Ataxia-telangiectasia	OMIM:208900
+10	0.1	Pelizaeus-Merzbacher disease	OMIM:312080

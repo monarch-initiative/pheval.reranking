@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amyotrophic Lateral Sclerosis	OMIM:105400
+2	0.9	Spinal Muscular Atrophy	OMIM:253300
+3	0.85	Primary Lateral Sclerosis	OMIM:611637
+4	0.8	Hereditary Spastic Paraplegia	OMIM:303350
+5	0.75	Multiple Sclerosis	OMIM:126200
+6	0.7	Progressive Bulbar Palsy	OMIM:608809
+7	0.65	Wilson Disease	OMIM:277900
+8	0.6	Alexander Disease	OMIM:203450
+9	0.55	Perry Syndrome	OMIM:168605
+10	0.5	Adult Polyglucosan Body Disease	OMIM:263570

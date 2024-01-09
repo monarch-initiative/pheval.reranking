@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.85	Sneddon syndrome	OMIM:182410
+3	0.8	Antiphospholipid syndrome	OMIM:107320
+4	0.75	Polyarteritis nodosa	OMIM:615688
+4	0.75	Behcet disease	OMIM:109650
+6	0.65	Cryoglobulinemia	OMIM:123550
+6	0.65	Sjogren syndrome	OMIM:270150
+8	0.6	Rheumatoid arthritis	OMIM:180300
+9	0.55	Vasculitis	OMIM:192315
+10	0.5	Stroke, ischemic	OMIM:601367

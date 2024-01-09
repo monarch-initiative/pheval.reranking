@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple sclerosis	OMIM:126200
+2	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.7	Friedreich ataxia	OMIM:229300
+4	0.6	Primary lateral sclerosis	OMIM:611637
+4	0.6	Hereditary spastic paraplegia	OMIM:303350
+6	0.5	Cerebral palsy, spastic diplegic	OMIM:603513
+6	0.5	Amyotrophic lateral sclerosis	OMIM:105400
+8	0.4	Lacunar stroke	OMIM:615007
+8	0.4	Wilson disease	OMIM:277900
+10	0.3	Multiple system atrophy	OMIM:146500

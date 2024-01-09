@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta, type II	OMIM:166210
+2	0.8	Osteogenesis imperfecta, type III	OMIM:259420
+3	0.7	Campomelic dysplasia	OMIM:114290
+4	0.6	Hypophosphatasia, infantile	OMIM:241500
+5	0.5	Thanatophoric dysplasia, type I	OMIM:187600
+6	0.4	Thanatophoric dysplasia, type II	OMIM:187601
+7	0.3	Achondrogenesis, type II or hypochondrogenesis	OMIM:200610
+8	0.2	Hypochondroplasia	OMIM:146000
+9	0.1	Achondroplasia	OMIM:100800

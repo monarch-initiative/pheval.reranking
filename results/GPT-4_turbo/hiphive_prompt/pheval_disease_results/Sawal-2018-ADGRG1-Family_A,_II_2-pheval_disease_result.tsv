@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+2	0.85	Lissencephaly 1	OMIM:607432
+3	0.83	Lissencephaly 2 (Norman-Roberts type)	OMIM:257320
+4	0.8	Baraitser-Winter syndrome 1	OMIM:243310
+5	0.78	Warburg Micro syndrome 1	OMIM:600118
+6	0.76	Pitt-Hopkins syndrome	OMIM:610954
+7	0.74	West syndrome	OMIM:308350
+8	0.71	Angelman syndrome	OMIM:105830
+9	0.7	Rett syndrome	OMIM:312750
+10	0.68	Smith-Lemli-Opitz syndrome	OMIM:270400

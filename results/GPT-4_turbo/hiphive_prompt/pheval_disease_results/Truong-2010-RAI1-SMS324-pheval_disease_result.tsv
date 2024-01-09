@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	22q11.2 deletion syndrome	OMIM:188400
+2	0.85	Prader-Willi syndrome	OMIM:176270
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.78	Smith-Magenis syndrome	OMIM:182290
+5	0.77	Williams syndrome	OMIM:194050
+6	0.75	Noonan syndrome	OMIM:163950
+7	0.73	Cornelia de Lange syndrome	OMIM:122470
+8	0.72	Fragile X syndrome	OMIM:300624
+9	0.71	Velocardiofacial syndrome	OMIM:192430
+10	0.7	Rubinstein-Taybi syndrome	OMIM:180849

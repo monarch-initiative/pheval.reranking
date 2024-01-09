@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.83	Wiskott-Aldrich Syndrome	OMIM:301000
+3	0.82	Griscelli Syndrome Type 2	OMIM:607624
+4	0.81	Ataxia-Telangiectasia	OMIM:208900
+5	0.79	Severe Combined Immunodeficiency	OMIM:102700
+6	0.77	X-Linked Lymphoproliferative Disease	OMIM:308240
+7	0.76	Chronic Granulomatous Disease	OMIM:306400
+8	0.75	Diamond-Blackfan Anemia	OMIM:105650
+9	0.74	Hyper-IgM Immunodeficiency Syndrome	OMIM:308230
+10	0.73	Glanzmann Thrombasthenia	OMIM:273800

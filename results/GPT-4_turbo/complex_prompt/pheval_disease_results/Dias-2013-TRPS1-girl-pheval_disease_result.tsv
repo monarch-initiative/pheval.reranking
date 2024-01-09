@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi Syndrome 1	OMIM:180849
+2	0.8	Chromosome 16p13.3 Deletion Syndrome, Proximal	OMIM:613444
+3	0.7	Coffin-Siris Syndrome	OMIM:135900
+4	0.65	Weaver Syndrome	OMIM:277590
+5	0.6	Floating-Harbor Syndrome	OMIM:136140
+6	0.55	Pitt-Hopkins Syndrome	OMIM:610954
+7	0.5	Kabuki Syndrome 1	OMIM:147920
+8	0.45	Cornelia de Lange Syndrome 1	OMIM:122470
+9	0.4	Mowat-Wilson Syndrome	OMIM:235730
+10	0.35	Sotos Syndrome 1	OMIM:117550

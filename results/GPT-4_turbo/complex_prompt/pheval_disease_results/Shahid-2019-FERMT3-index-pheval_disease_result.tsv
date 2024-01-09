@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.8	Common Variable Immunodeficiency	OMIM:607594
+3	0.7	Agammaglobulinemia, X-Linked	OMIM:300755
+4	0.6	Hyper IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+4	0.6	Wiskott-Aldrich Syndrome	OMIM:301000
+6	0.5	Chronic Granulomatous Disease	OMIM:306400
+7	0.4	Hemophagocytic Lymphohistiocytosis, Familial	OMIM:267700
+8	0.3	Griscelli Syndrome	OMIM:214450

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Coffin-Siris Syndrome	OMIM:135900
+2	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.6	Cornelia de Lange Syndrome	OMIM:122470
+4	0.5	Noonan Syndrome	OMIM:163950
+4	0.5	Dubowitz Syndrome	OMIM:223370

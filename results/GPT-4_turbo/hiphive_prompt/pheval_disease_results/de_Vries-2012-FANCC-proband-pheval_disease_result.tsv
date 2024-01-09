@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan syndrome 1	OMIM:163950
+2	0.93	Fanconi anemia	OMIM:227650
+3	0.91	Neurofibromatosis, type 1	OMIM:162200
+4	0.89	Diamond-Blackfan anemia	OMIM:105650
+5	0.87	Shwachman-Diamond syndrome	OMIM:260400
+6	0.86	Costello syndrome	OMIM:218040
+7	0.84	Dyskeratosis congenita	OMIM:305000
+8	0.82	Seckel syndrome	OMIM:210600
+9	0.81	LEOPARD syndrome	OMIM:151100
+10	0.79	Holt-Oram syndrome	OMIM:142900

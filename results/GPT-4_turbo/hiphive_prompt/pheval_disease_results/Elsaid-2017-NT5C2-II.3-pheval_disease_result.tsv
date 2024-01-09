@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cerebral palsy, spastic quadriplegic	OMIM:603513
+2	0.83	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.81	Rett syndrome	OMIM:312750
+4	0.8	Spastic paraplegia 2, X-linked	OMIM:312920
+5	0.79	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+6	0.78	Metachromatic leukodystrophy	OMIM:250100
+7	0.76	Alexander disease	OMIM:203450
+8	0.75	Canavan disease	OMIM:271900
+9	0.74	Vanishing white matter disease	OMIM:603896
+10	0.73	2-Hydroxyglutaric aciduria	OMIM:236792

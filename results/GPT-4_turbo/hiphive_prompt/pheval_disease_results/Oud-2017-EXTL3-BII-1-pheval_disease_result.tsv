@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:601457
+2	0.92	DiGeorge syndrome	OMIM:188400
+3	0.9	Cartilage-hair hypoplasia	OMIM:250250
+4	0.88	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.87	Dubowitz syndrome	OMIM:223370
+6	0.86	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.85	Mulibrey nanism	OMIM:253250
+8	0.83	Schimke immuno-osseous dysplasia	OMIM:242900
+9	0.82	Laron syndrome	OMIM:262500
+10	0.81	Ataxia-telangiectasia	OMIM:208900

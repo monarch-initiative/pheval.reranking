@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Leigh syndrome	OMIM:256000
+3	0.8	Cerebral palsy, spastic quadriplegic	OMIM:603513
+4	0.75	Hereditary spastic paraplegia	OMIM:303350

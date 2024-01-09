@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis, Type II	OMIM:309900
+2	0.93	Mucopolysaccharidosis, Type I	OMIM:607014
+3	0.91	Mucopolysaccharidosis, Type III	OMIM:252900
+4	0.89	Mucopolysaccharidosis, Type IV	OMIM:253000
+5	0.86	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.84	Pitt-Hopkins Syndrome	OMIM:610954
+7	0.82	Fragile X Syndrome	OMIM:300624
+8	0.8	Smith-Magenis Syndrome	OMIM:182290
+9	0.78	Coffin-Lowry Syndrome	OMIM:303600
+10	0.76	Angelman Syndrome	OMIM:105830

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Prader-Willi Syndrome	OMIM:176270
+2	0.82	Myotonic Dystrophy	OMIM:160900
+3	0.8	Noonan Syndrome	OMIM:163950
+4	0.78	CHARGE Syndrome	OMIM:214800
+5	0.75	Cornelia de Lange Syndrome	OMIM:122470
+6	0.73	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.71	Marshall-Smith Syndrome	OMIM:602535
+8	0.69	Williams Syndrome	OMIM:194050
+9	0.66	Pfeiffer Syndrome	OMIM:101600
+10	0.64	Stickler Syndrome	OMIM:108300

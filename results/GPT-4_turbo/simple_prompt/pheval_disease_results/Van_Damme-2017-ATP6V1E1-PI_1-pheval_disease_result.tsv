@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.65	Noonan Syndrome	OMIM:163950
+4	0.6	Barth Syndrome	OMIM:302060
+5	0.55	Loeys-Dietz Syndrome	OMIM:609192
+6	0.5	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.45	Freeman-Sheldon Syndrome	OMIM:193700
+8	0.4	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

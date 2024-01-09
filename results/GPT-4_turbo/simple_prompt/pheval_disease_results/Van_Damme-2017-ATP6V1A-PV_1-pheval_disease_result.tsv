@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Congenital Contractural Arachnodactyly	OMIM:121050
+3	0.7	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.6	Beals Syndrome	OMIM:121050
+4	0.6	Cutis Laxa, Autosomal Dominant	OMIM:123700
+6	0.5	Cantú Syndrome	OMIM:239850
+7	0.4	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+8	0.3	De Barsy Syndrome	OMIM:219150

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Zellweger syndrome	OMIM:214100
+2	0.75	Angelman syndrome	OMIM:105830
+3	0.7	Rett syndrome	OMIM:312750
+4	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.6	Snyder-Robinson syndrome	OMIM:309583
+6	0.55	Pitt-Hopkins syndrome	OMIM:610954
+7	0.5	Prader-Willi syndrome	OMIM:176270
+8	0.45	Marshall-Smith syndrome	OMIM:602535
+9	0.4	Coffin-Siris syndrome	OMIM:135900
+10	0.35	Pontocerebellar hypoplasia	OMIM:607596

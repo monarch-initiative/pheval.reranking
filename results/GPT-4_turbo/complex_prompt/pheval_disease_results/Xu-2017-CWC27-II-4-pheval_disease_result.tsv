@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis Type 1	OMIM:162200
+2	0.6	Mowat-Wilson Syndrome	OMIM:235730
+3	0.5	Legius Syndrome	OMIM:611431
+4	0.4	McCune-Albright Syndrome	OMIM:174800
+5	0.3	Apert Syndrome	OMIM:101200

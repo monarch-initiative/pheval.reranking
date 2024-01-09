@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	22q11.2 deletion syndrome	OMIM:188400
+2	0.75	Fragile X syndrome	OMIM:300624
+3	0.7	Klinefelter syndrome	OMIM:47,XXY
+4	0.65	DiGeorge syndrome	OMIM:188400
+5	0.6	Velocardiofacial syndrome	OMIM:192430
+6	0.55	Williams syndrome	OMIM:194050
+7	0.5	CHARGE syndrome	OMIM:214800
+8	0.45	Tuberous sclerosis	OMIM:191100
+9	0.4	Phelan-McDermid syndrome	OMIM:606232
+10	0.35	Noonan syndrome	OMIM:163950

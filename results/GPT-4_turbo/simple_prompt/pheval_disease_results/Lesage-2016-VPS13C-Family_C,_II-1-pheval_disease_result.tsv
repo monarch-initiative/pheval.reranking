@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.75	Wilson disease	OMIM:277900
+3	0.7	Multiple sclerosis	OMIM:126200
+4	0.65	Huntington disease	OMIM:143100
+5	0.6	Pantothenate kinase-associated neurodegeneration	OMIM:234200

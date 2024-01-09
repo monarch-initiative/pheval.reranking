@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonia Congenita, Autosomal Recessive	OMIM:255700
+2	0.8	Myotonia Congenita, Autosomal Dominant	OMIM:160800
+3	0.75	Becker Myotonia Congenita	OMIM:255700
+3	0.75	Thomsen Disease	OMIM:160800
+5	0.7	Myotonic Dystrophy Type 1	OMIM:160900
+6	0.65	Rigid Spine Syndrome 1	OMIM:602771
+7	0.6	Mitochondrial Myopathy	OMIM:500001
+8	0.55	Myotubular Myopathy, X-Linked	OMIM:310400
+9	0.5	Centronuclear Myopathy, Autosomal Recessive	OMIM:255200
+10	0.45	Hypokalemic Periodic Paralysis, Type 2	OMIM:613345

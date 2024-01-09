@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	CHARGE Syndrome	OMIM:214800
+2	0.9	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.88	Velocardiofacial Syndrome	OMIM:192430
+4	0.86	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.85	Treacher Collins Syndrome	OMIM:154500
+6	0.84	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.83	Stickler Syndrome	OMIM:108300
+8	0.82	Marfan Syndrome	OMIM:154700
+9	0.81	Craniofrontonasal Syndrome	OMIM:304110
+10	0.8	Williams Syndrome	OMIM:194050

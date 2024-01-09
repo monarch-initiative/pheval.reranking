@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	3M syndrome	OMIM:273750
+3	0.78	Cleidocranial dysplasia	OMIM:119600
+4	0.75	Carpenter syndrome	OMIM:201000
+5	0.73	Apert syndrome	OMIM:101200
+6	0.71	Pfeiffer syndrome	OMIM:101600
+7	0.69	Cornelia de Lange syndrome	OMIM:122470
+8	0.67	Smith-Magenis syndrome	OMIM:182290
+9	0.66	Ellis-van Creveld syndrome	OMIM:225500
+10	0.64	Saethre-Chotzen syndrome	OMIM:101400

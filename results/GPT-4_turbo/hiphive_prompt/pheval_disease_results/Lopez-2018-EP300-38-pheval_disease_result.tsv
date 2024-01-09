@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.9	Cornelia de Lange Syndrome	OMIM:122470
+3	0.85	Coffin-Siris Syndrome	OMIM:135900
+4	0.8	CHARGE Syndrome	OMIM:214800
+4	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.75	Williams Syndrome	OMIM:194050
+6	0.75	Treacher Collins Syndrome	OMIM:154500
+8	0.7	Noonan Syndrome	OMIM:163950
+8	0.7	Waardenburg Syndrome	OMIM:193500
+10	0.65	Fragile X Syndrome	OMIM:300624

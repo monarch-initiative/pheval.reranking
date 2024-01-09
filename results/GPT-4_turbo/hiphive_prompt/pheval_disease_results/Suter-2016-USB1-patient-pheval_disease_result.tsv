@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.93	Dyskeratosis Congenita	OMIM:127550
+3	0.9	Shwachman-Diamond Syndrome	OMIM:260400
+4	0.88	Chronic Granulomatous Disease	OMIM:306400
+5	0.86	Primary Ciliary Dyskinesia	OMIM:244400
+6	0.85	GATA2 Deficiency	OMIM:614172
+7	0.84	POEMS Syndrome	OMIM:131440
+8	0.82	Cystic Fibrosis	OMIM:219700
+9	0.8	Werner Syndrome	OMIM:277700
+10	0.78	Nijmegen Breakage Syndrome	OMIM:251260

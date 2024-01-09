@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.85	3-Methylglutaconic aciduria type III	OMIM:258501
+4	0.8	Canavan disease	OMIM:271900
+5	0.75	Alexander disease	OMIM:203450

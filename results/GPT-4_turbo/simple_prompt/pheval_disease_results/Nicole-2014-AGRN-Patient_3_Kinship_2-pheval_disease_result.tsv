@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenia gravis	OMIM:254200
+2	0.85	Congenital myasthenic syndrome	OMIM:601462
+3	0.65	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.6	Spinal muscular atrophy	OMIM:253300
+5	0.55	Amyotrophic lateral sclerosis	OMIM:105400

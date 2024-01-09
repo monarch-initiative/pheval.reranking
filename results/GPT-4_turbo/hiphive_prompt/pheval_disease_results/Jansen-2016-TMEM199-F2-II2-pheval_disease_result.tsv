@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Wilson Disease	OMIM:277900
+2	0.92	Alpha-1-antitrypsin deficiency	OMIM:613490
+3	0.87	Gilbert Syndrome	OMIM:143500
+4	0.85	Hereditary Hemochromatosis	OMIM:235200
+5	0.83	Crigler-Najjar Syndrome, Type I	OMIM:218800
+6	0.82	Dubin-Johnson Syndrome	OMIM:237500
+7	0.81	Familial Hypercholesterolemia	OMIM:143890
+8	0.79	Citrullinemia, Type I	OMIM:215700
+9	0.78	Neonatal intrahepatic cholestasis caused by citrin deficiency	OMIM:605814
+10	0.76	Glycogen Storage Disease IV	OMIM:232500

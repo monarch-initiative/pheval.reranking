@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary sensory and autonomic neuropathy type I	OMIM:162400
+2	0.8	Leukodystrophy, metachromatic	OMIM:250100
+3	0.7	Cerebral palsy, spastic quadriplegic	OMIM:603513
+4	0.6	Multiple sclerosis	OMIM:126200
+5	0.5	Spinal cord injury	OMIM:NA
+6	0.4	Amyotrophic lateral sclerosis	OMIM:105400
+7	0.3	Syringomyelia	OMIM:186700
+8	0.2	Friedreich ataxia	OMIM:229300
+9	0.1	Charcot-Marie-Tooth disease	OMIM:118220
+10	0.05	Spinal muscular atrophy	OMIM:253300

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Cleidocranial Dysplasia, Autosomal Recessive	OMIM:216330
+3	0.7	Gardner Syndrome	OMIM:175100
+4	0.6	Pyknodysostosis	OMIM:265800
+5	0.5	Pyle Disease	OMIM:265900
+6	0.4	Craniofacial Dysostosis	OMIM:123500

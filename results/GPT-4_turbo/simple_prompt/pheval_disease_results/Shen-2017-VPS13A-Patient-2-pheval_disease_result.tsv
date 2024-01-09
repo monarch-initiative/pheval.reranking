@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+2	0.7	Huntington Disease	OMIM:143100
+3	0.65	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+4	0.6	Wilson Disease	OMIM:277900
+5	0.55	Lesch-Nyhan Syndrome	OMIM:300322

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.85	Homocystinuria	OMIM:236200
+3	0.75	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.7	Loeys-Dietz Syndrome type 1	OMIM:609192
+4	0.7	Loeys-Dietz Syndrome type 2	OMIM:610168
+6	0.65	Weill-Marchesani Syndrome	OMIM:277600
+7	0.6	Stickler Syndrome	OMIM:108300
+8	0.55	MASS phenotype	OMIM:604308
+9	0.5	Beals Syndrome	OMIM:121050
+9	0.5	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086

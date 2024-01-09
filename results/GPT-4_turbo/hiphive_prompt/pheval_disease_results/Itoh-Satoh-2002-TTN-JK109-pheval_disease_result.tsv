@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cardiomyopathy, Dilated, 1A	OMIM:115200
+2	0.94	Cardiomyopathy, Dilated, 1E	OMIM:601154
+3	0.92	Cardiomyopathy, Familial Idiopathic	OMIM:115200
+4	0.9	Barth Syndrome	OMIM:302060
+5	0.88	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+6	0.85	Myocarditis	OMIM:615006
+7	0.83	Emery-Dreifuss Muscular Dystrophy 1, X-Linked	OMIM:310300
+8	0.81	Limb-Girdle Muscular Dystrophy 1B	OMIM:159001
+9	0.8	Danon Disease	OMIM:300257
+10	0.78	Left Ventricular Noncompaction 1	OMIM:604169

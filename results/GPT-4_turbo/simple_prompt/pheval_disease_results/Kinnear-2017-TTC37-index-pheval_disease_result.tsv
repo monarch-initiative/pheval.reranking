@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Severe Combined Immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.75	Hyper IgM Syndrome	OMIM:308230
+3	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.65	Ataxia-Telangiectasia	OMIM:208900
+5	0.6	Chronic Granulomatous Disease	OMIM:306400
+6	0.55	Griscelli Syndrome	OMIM:214450
+7	0.5	DiGeorge Syndrome	OMIM:188400

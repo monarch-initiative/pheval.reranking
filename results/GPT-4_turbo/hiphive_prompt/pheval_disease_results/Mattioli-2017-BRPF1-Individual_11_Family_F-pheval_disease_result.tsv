@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.83	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.82	Down syndrome	OMIM:190685
+5	0.81	Williams syndrome	OMIM:194050
+6	0.79	Turner syndrome	OMIM:300550
+6	0.79	Fragile X syndrome	OMIM:300624
+8	0.77	Rett syndrome	OMIM:312750
+9	0.75	Noonan syndrome	OMIM:163950
+10	0.73	Cornelia de Lange syndrome	OMIM:122470

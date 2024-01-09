@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+2	0.85	Cerebral Creatine Deficiency Syndrome 2	OMIM:612736
+3	0.75	5q14.3 deletion syndrome	OMIM:613443
+4	0.7	VACTERL association	OMIM:192350
+5	0.65	Mitochondrial DNA depletion syndrome 9 (encephalomyopathic with methylmalonic aciduria)	OMIM:245400
+6	0.6	Holocarboxylase synthetase deficiency	OMIM:253270
+7	0.55	Mowat-Wilson syndrome	OMIM:235730
+8	0.5	Propionic acidemia	OMIM:606054

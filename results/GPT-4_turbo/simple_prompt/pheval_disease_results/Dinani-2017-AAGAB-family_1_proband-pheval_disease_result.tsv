@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pachyonychia Congenita	OMIM:167200
+2	0.85	Hidrotic Ectodermal Dysplasia	OMIM:129500
+2	0.85	Clouston Syndrome	OMIM:129500
+4	0.8	Ectodermal Dysplasia 1, Anhidrotic	OMIM:305100
+5	0.75	White Sponge Nevus 1	OMIM:193900

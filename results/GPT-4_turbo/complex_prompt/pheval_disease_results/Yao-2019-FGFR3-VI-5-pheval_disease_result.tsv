@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pseudohypoparathyroidism type 1A	OMIM:103580
+2	0.8	Multiple Epiphyseal Dysplasia	OMIM:132400
+3	0.7	Achondroplasia	OMIM:100800
+3	0.7	Hypochondroplasia	OMIM:146000
+5	0.6	Pseudopseudohypoparathyroidism	OMIM:612463
+5	0.6	McCune-Albright syndrome	OMIM:174800
+7	0.5	Acrodysostosis	OMIM:101800
+7	0.5	Thanatophoric Dysplasia	OMIM:187600

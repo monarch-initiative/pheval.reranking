@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.85	Turner Syndrome	OMIM:300400
+4	0.83	CHARGE Syndrome	OMIM:214800
+5	0.82	Noonan Syndrome	OMIM:163950
+6	0.79	Congenital Diaphragmatic Hernia	OMIM:306950
+7	0.77	Congenital Heart Disease	OMIM:306955
+8	0.75	DiGeorge Syndrome	OMIM:188400
+9	0.74	Holt-Oram Syndrome	OMIM:142900
+10	0.72	Ehlers-Danlos Syndrome	OMIM:130000

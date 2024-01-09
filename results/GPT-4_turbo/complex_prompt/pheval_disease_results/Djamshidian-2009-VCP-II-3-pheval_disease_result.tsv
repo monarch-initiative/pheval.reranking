@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:167320
+2	0.75	Myopathy, distal, 1	OMIM:160500
+3	0.7	Paget disease of bone	OMIM:602080
+4	0.65	Charcot-Marie-Tooth disease, type 2	OMIM:609260
+5	0.6	Mitochondrial myopathies	OMIM:500001

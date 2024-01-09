@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Miller-Dieker syndrome	OMIM:247200
+2	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.7	Mowat-Wilson syndrome	OMIM:235730
+4	0.6	3q29 microdeletion syndrome	OMIM:609425
+5	0.5	Pitt-Hopkins syndrome	OMIM:610954
+5	0.5	Lissencephaly	OMIM:607432
+5	0.5	Coffin-Siris syndrome	OMIM:135900
+8	0.4	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.3	Cornelia de Lange syndrome	OMIM:122470
+10	0.2	Angelman syndrome	OMIM:105830

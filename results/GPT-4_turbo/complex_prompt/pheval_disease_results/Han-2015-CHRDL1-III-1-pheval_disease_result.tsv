@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Glaucoma 3, Primary Infantile, B	OMIM:601771
+3	0.8	Axenfeld-Rieger Syndrome	OMIM:180500
+4	0.75	Aniridia	OMIM:106210
+5	0.7	Anterior Segment Dysgenesis 5	OMIM:604229
+6	0.65	Megalocornea-Mental Retardation Syndrome	OMIM:249310
+7	0.6	Congenital Glaucoma	OMIM:231300
+8	0.55	Peters Anomaly	OMIM:604229
+9	0.5	Microspherophakia	OMIM:251750
+10	0.45	Primary Congenital Ectopia Lentis	OMIM:129600

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Cutis laxa, autosomal dominant	OMIM:123700
+5	0.7	Cutis laxa, autosomal recessive, type I	OMIM:219100
+6	0.65	Williams syndrome	OMIM:194050
+7	0.6	Primary ciliary dyskinesia	OMIM:244400

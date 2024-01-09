@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.81	Common variable immunodeficiency	OMIM:607594
+3	0.8	Fanconi anemia	OMIM:227650
+4	0.78	Shwachman-Diamond syndrome	OMIM:260400
+5	0.77	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.76	Ataxia-telangiectasia	OMIM:208900
+7	0.75	X-linked agammaglobulinemia	OMIM:300755
+8	0.74	Cartilage-hair hypoplasia	OMIM:250250
+9	0.72	Dyskeratosis congenita	OMIM:305000
+10	0.71	Friedreich ataxia	OMIM:229300

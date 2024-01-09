@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, type I	OMIM:130000
+2	0.93	Ehlers-Danlos syndrome, type II	OMIM:130010
+3	0.91	Ehlers-Danlos syndrome, type III	OMIM:130020
+4	0.9	Marfan syndrome	OMIM:154700
+5	0.89	Loeys-Dietz syndrome	OMIM:609192
+6	0.87	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+7	0.84	Osteogenesis imperfecta, Type I	OMIM:166200
+8	0.81	Stickler syndrome	OMIM:108300
+9	0.79	Homocystinuria	OMIM:236200
+10	0.77	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400

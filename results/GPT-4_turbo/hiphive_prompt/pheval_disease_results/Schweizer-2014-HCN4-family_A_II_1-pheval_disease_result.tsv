@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiomyopathy, Dilated, 1aa	OMIM:615235
+2	0.85	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:192600
+3	0.82	Barth Syndrome	OMIM:302060
+4	0.81	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+5	0.8	Long QT Syndrome 1	OMIM:192500
+6	0.79	Levocardia	OMIM:611878
+7	0.77	Sick Sinus Syndrome 1, Autosomal Recessive	OMIM:608567
+8	0.73	Emery-Dreifuss Muscular Dystrophy	OMIM:310300
+9	0.71	Danon Disease	OMIM:300257
+10	0.7	Myocarditis	OMIM:212050

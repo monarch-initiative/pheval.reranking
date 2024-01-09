@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rett Syndrome	OMIM:312750
+2	0.7	Leigh Syndrome	OMIM:256000
+2	0.7	Pompe Disease	OMIM:232300
+4	0.6	Spinal Muscular Atrophy	OMIM:253300
+4	0.6	Glutaric Acidemia Type I	OMIM:231670
+4	0.6	Alexander Disease	OMIM:203450
+7	0.5	Duchenne Muscular Dystrophy	OMIM:310200
+7	0.5	Metachromatic Leukodystrophy	OMIM:250100
+7	0.5	Krabbe Disease	OMIM:245200
+10	0.4	Neuroleptic Malignant Syndrome	OMIM:601348

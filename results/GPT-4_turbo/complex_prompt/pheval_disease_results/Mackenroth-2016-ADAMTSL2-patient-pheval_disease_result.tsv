@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Geleophysic dysplasia	OMIM:231050
+2	0.8	Pseudoachondroplasia	OMIM:177170
+3	0.7	Achondroplasia	OMIM:100800
+4	0.6	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+5	0.5	Diastrophic dysplasia	OMIM:222600
+6	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Larsen syndrome	OMIM:150250
+8	0.3	Coffin-Siris syndrome	OMIM:135900
+8	0.3	Schwartz-Jampel syndrome	OMIM:255800
+10	0.2	Silver–Russell syndrome	OMIM:180860

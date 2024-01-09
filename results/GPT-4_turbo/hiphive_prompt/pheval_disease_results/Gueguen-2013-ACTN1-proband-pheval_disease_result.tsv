@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bernard-Soulier Syndrome	OMIM:231200
+2	0.9	Immune Thrombocytopenia	OMIM:188030
+3	0.85	May-Hegglin Anomaly	OMIM:155100
+4	0.83	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+5	0.82	Wiskott-Aldrich Syndrome	OMIM:301000
+6	0.81	Gray Platelet Syndrome	OMIM:139090
+7	0.8	Jacobsen Syndrome	OMIM:147791
+8	0.79	Paris-Trousseau Thrombocytopenia	OMIM:188025
+9	0.78	Platelet-Type Bleeding Disorder 17	OMIM:187900
+10	0.77	Glanzmann Thrombasthenia	OMIM:273800

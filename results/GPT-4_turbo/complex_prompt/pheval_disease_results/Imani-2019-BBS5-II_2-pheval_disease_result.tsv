@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.8	Leber congenital amaurosis	OMIM:204000
+3	0.7	Kallmann syndrome	OMIM:308700
+4	0.6	Laurence-Moon syndrome	OMIM:245800
+4	0.6	Prader-Willi syndrome	OMIM:176270
+6	0.5	Alström syndrome	OMIM:203800
+7	0.4	Cohen syndrome	OMIM:216550
+7	0.4	Retinitis pigmentosa	OMIM:268000
+9	0.3	Wilson disease	OMIM:277900
+10	0.2	Gordon Holmes syndrome	OMIM:212840

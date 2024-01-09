@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Ehlers-Danlos syndrome	OMIM:130000
+2	0.88	Marfan Syndrome	OMIM:154700
+3	0.79	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Osteogenesis Imperfecta	OMIM:166200
+5	0.73	Homocystinuria	OMIM:236200
+6	0.69	Stickler Syndrome	OMIM:108300
+7	0.66	Beals Syndrome	OMIM:121050
+8	0.64	Cleidocranial Dysostosis	OMIM:119600
+9	0.61	Cutis Laxa	OMIM:219100
+10	0.59	Larsen Syndrome	OMIM:150250

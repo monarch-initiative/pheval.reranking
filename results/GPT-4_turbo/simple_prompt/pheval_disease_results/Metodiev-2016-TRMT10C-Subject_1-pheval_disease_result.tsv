@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial complex I deficiency	OMIM:252010
+2	0.9	Leigh syndrome	OMIM:256000
+3	0.85	Mitochondrial DNA depletion syndrome	OMIM:251880
+4	0.8	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+5	0.75	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+6	0.65	MELAS syndrome	OMIM:540000
+7	0.6	Cytochrome c oxidase deficiency	OMIM:220110
+8	0.55	MERRF syndrome	OMIM:545000

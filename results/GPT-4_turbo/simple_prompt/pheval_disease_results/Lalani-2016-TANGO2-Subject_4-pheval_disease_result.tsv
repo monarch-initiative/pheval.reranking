@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyperammonemia due to ornithine transcarbamylase deficiency	OMIM:311250
+2	0.8	Myotonic dystrophy type 1	OMIM:160900
+3	0.7	Bartter syndrome type 3	OMIM:607364
+4	0.6	Wilson disease	OMIM:277900
+4	0.6	Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type)	OMIM:615418
+6	0.5	Pompe disease	OMIM:232300

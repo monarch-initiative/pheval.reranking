@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Behcet Syndrome	OMIM:109650
+2	0.85	Systemic Lupus Erythematosus	OMIM:152700
+3	0.8	Giant Cell Arteritis	OMIM:187360
+4	0.75	Granulomatosis with Polyangiitis	OMIM:608710
+5	0.7	Polyarteritis Nodosa	OMIM:615688
+6	0.65	Cryoglobulinemia	OMIM:123550
+7	0.6	Hypocomplementemic Urticarial Vasculitis	OMIM:607682
+8	0.55	Idiopathic Intracranial Hypertension	OMIM:243200
+9	0.5	Rheumatoid Arthritis	OMIM:180300
+10	0.45	Sarcoidosis	OMIM:181000

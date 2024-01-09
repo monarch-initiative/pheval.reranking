@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.81	Stickler Syndrome	OMIM:108300
+4	0.79	Freeman-Sheldon Syndrome	OMIM:193700
+5	0.77	Shprintzen-Goldberg Syndrome	OMIM:182212
+6	0.74	Beals-Hecht Syndrome	OMIM:121050
+7	0.72	Noonan Syndrome	OMIM:163950
+8	0.7	Loeys-Dietz Syndrome	OMIM:609192
+9	0.68	Williams Syndrome	OMIM:194050
+10	0.65	Cornelia de Lange Syndrome	OMIM:122470

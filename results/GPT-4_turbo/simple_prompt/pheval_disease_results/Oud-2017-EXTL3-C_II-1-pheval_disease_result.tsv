@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Shprintzen-Goldberg Syndrome	OMIM:182212
+2	0.75	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.65	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.6	Cleidocranial Dysplasia	OMIM:119600
+5	0.55	Loeys-Dietz Syndrome	OMIM:609192
+6	0.5	Velocardiofacial Syndrome	OMIM:192430
+7	0.45	Pfeiffer Syndrome	OMIM:101600
+8	0.4	Marshall-Smith Syndrome	OMIM:602535

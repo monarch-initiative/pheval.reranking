@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Nail-Patella Syndrome	OMIM:161200
+2	0.75	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.65	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	Noonan Syndrome	OMIM:163950

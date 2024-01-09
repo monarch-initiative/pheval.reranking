@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Harlequin Ichthyosis	OMIM:242500
+2	0.65	Conradi-Hunermann Syndrome	OMIM:302960
+3	0.6	Netherton Syndrome	OMIM:256500
+4	0.55	CHARGE Syndrome	OMIM:214800
+5	0.5	Cartilage-Hair Hypoplasia	OMIM:250250
+6	0.45	Schinzel-Giedion Syndrome	OMIM:269150
+7	0.4	Short Rib-Polydactyly Syndrome	OMIM:263530
+8	0.35	Coffin-Siris Syndrome	OMIM:135900
+9	0.3	Hallermann-Streiff Syndrome	OMIM:234100
+10	0.25	Noonan Syndrome	OMIM:163950

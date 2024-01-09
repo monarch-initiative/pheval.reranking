@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune polyendocrinopathy syndrome, type I, with or without reversible metaphyseal dysplasia	OMIM:240300
+1	0.95	Autoimmune Polyendocrine Syndrome Type 1	OMIM:240300
+1	0.95	Polyglandular Autoimmune Syndrome, Type I	OMIM:240300
+4	0.7	Candidiasis, familial chronic mucocutaneous, autosomal dominant	OMIM:114580
+5	0.65	Hypoparathyroidism, sensorineural deafness, and renal dysplasia	OMIM:146255
+6	0.6	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+6	0.6	Kenny-Caffey syndrome type 1	OMIM:244460
+8	0.55	DiGeorge Syndrome	OMIM:188400
+9	0.5	Bartter syndrome	OMIM:607364
+9	0.5	Wolfram Syndrome	OMIM:222300

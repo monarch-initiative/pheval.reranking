@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange Syndrome	OMIM:122470
+2	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.65	Pitt-Hopkins Syndrome	OMIM:610954
+4	0.6	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	Mucopolysaccharidosis Type I	OMIM:607014
+6	0.55	Multiple Endocrine Neoplasia Type 1	OMIM:131100
+7	0.5	Laron Syndrome	OMIM:262500
+7	0.5	Congenital Disorders of Glycosylation	OMIM:212065

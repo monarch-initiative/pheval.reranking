@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Schwartz-Jampel Syndrome	OMIM:255800
+2	0.86	Pseudoachondroplasia	OMIM:177170
+3	0.85	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+4	0.82	Achondrogenesis, type IB	OMIM:600972
+5	0.8	Metatropic Dysplasia	OMIM:250600
+6	0.79	Cleidocranial Dysostosis	OMIM:119600
+7	0.78	Diastrophic Dysplasia	OMIM:222600
+8	0.76	Multiple Epiphyseal Dysplasia	OMIM:132400
+9	0.74	Ellis-van Creveld Syndrome	OMIM:225500
+10	0.72	Morquio Syndrome	OMIM:253000

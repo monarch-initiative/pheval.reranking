@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary Hyperoxaluria Type 1	OMIM:259900
+2	0.9	Primary Hyperoxaluria Type 2	OMIM:260000
+3	0.75	Nephrocalcinosis	OMIM:310468
+4	0.65	Chronic Kidney Disease	OMIM:613395
+5	0.6	Dent Disease	OMIM:300009

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial DNA depletion syndrome	OMIM:251880
+2	0.94	Organic aciduria	OMIM:210200
+3	0.92	Glutaric acidemia type I	OMIM:231670
+4	0.9	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201450
+5	0.87	Maple syrup urine disease	OMIM:248600
+6	0.85	Pyruvate dehydrogenase deficiency	OMIM:312170
+7	0.83	Propionic acidemia	OMIM:606054
+8	0.8	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+9	0.78	Methylmalonic acidemia	OMIM:251000
+10	0.76	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609014

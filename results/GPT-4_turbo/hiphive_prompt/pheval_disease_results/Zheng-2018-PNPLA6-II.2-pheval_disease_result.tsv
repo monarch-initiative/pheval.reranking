@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kallmann Syndrome	OMIM:308700
+2	0.89	Prader-Willi Syndrome	OMIM:176270
+3	0.88	Bardet-Biedl Syndrome	OMIM:209900
+4	0.85	Gordon Holmes Syndrome	OMIM:212840
+5	0.82	CHARGE Syndrome	OMIM:214800
+6	0.8	Laurence-Moon Syndrome	OMIM:245800
+7	0.79	Leydig Cell Hypoplasia	OMIM:238320
+8	0.75	3-M Syndrome	OMIM:273750
+9	0.73	Woodhouse-Sakati Syndrome	OMIM:241080
+10	0.7	Autosomal Recessive Cerebellar Ataxia Due To STUB1 Deficiency	OMIM:614705

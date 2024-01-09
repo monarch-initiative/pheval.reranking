@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Waardenburg Syndrome, Type 2A	OMIM:193510
+2	0.8	Chediak-Higashi Syndrome	OMIM:214500
+3	0.7	Cross Syndrome	OMIM:257800
+4	0.6	Hermansky-Pudlak Syndrome	OMIM:203300
+5	0.5	Waardenburg Syndrome, Type 1	OMIM:193500
+6	0.4	Piebald Trait	OMIM:172800

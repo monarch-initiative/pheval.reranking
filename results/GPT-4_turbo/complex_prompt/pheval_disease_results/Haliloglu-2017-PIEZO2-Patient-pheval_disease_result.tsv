@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+2	0.8	Congenital Myasthenic Syndrome	OMIM:601462
+3	0.75	Spinal Muscular Atrophy	OMIM:253300
+4	0.7	Becker Muscular Dystrophy	OMIM:300376
+4	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+6	0.65	Myotonic Dystrophy	OMIM:160900
+7	0.6	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+8	0.55	Nemaline Myopathy	OMIM:161800
+9	0.5	Bethlem Myopathy	OMIM:158810
+10	0.45	Congenital Fiber-Type Disproportion	OMIM:255310

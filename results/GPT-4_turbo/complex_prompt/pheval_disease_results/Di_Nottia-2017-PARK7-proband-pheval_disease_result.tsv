@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Mitochondrial myopathy	OMIM:000680
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	Charcot-Marie-Tooth disease, type 2	OMIM:609260
+5	0.7	Hereditary Motor and Sensory Neuropathy VI	OMIM:601152
+6	0.65	Perrault syndrome	OMIM:233400
+7	0.6	Spinocerebellar ataxia	OMIM:164400
+8	0.55	Parkinson-dementia syndrome	OMIM:260300
+9	0.5	Lubag syndrome (X-linked dystonia-parkinsonism)	OMIM:314250

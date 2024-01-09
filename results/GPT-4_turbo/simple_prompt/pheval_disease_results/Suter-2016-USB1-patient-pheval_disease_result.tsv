@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Dyskeratosis Congenita	OMIM:127550
+2	0.8	Shwachman-Diamond Syndrome	OMIM:260400
+4	0.7	Chronic Granulomatous Disease	OMIM:306400
+5	0.6	Glycogen Storage Disease Type Ib	OMIM:232220

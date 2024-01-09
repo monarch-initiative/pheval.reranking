@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Dyskeratosis Congenita	OMIM:127550
+2	0.6	Severe Combined Immunodeficiency	OMIM:102700
+3	0.5	Whipple Disease	OMIM:261300
+3	0.5	Adult-Onset Autosomal Recessive Cerebellar Ataxia	OMIM:607859
+5	0.4	Friedreich Ataxia	OMIM:229300
+5	0.4	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.3	Common Variable Immunodeficiency	OMIM:607594
+7	0.3	Immune Dysregulation, Polyendocrinopathy, Enteropathy, X-Linked Syndrome	OMIM:304790
+9	0.2	Ataxia-Telangiectasia	OMIM:208900
+10	0.1	Myasthenia Gravis	OMIM:254200

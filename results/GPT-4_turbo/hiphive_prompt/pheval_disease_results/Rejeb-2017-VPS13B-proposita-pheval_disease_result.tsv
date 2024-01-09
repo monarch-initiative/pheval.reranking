@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen Syndrome	OMIM:216550
+2	0.92	Bardet-Biedl Syndrome	OMIM:209900
+3	0.88	Weaver Syndrome	OMIM:277590
+4	0.86	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.85	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+6	0.82	Mucopolysaccharidosis Type III	OMIM:252900
+7	0.81	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.79	Carpenter Syndrome	OMIM:201000
+9	0.78	Prader-Willi Syndrome	OMIM:176270
+10	0.76	Pitt-Hopkins Syndrome	OMIM:610954

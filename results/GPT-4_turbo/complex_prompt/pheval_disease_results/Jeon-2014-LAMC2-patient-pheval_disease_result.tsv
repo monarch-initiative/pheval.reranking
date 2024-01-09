@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolysis bullosa, junctional	OMIM:226650
+2	0.85	Stevens-Johnson syndrome	OMIM:608579
+3	0.8	Toxic epidermal necrolysis	OMIM:608579
+4	0.75	Pemphigus	OMIM:169600
+5	0.7	Bullous pemphigoid	OMIM:113810
+6	0.6	Congenital erosive and vesicular dermatosis	OMIM:615023

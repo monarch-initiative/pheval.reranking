@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.93	Dejerine-Sottas Disease	OMIM:145900
+3	0.91	Chronic Inflammatory Demyelinating Polyradiculoneuropathy	OMIM:607688
+4	0.89	Familial Dysautonomia	OMIM:223900
+5	0.86	Hereditary Sensory and Autonomic Neuropathy Type I	OMIM:162400
+6	0.84	Hereditary Sensory and Autonomic Neuropathy Type II	OMIM:201300
+7	0.82	Hereditary Sensory Neuropathy Type IE	OMIM:614116
+8	0.8	Fabry Disease	OMIM:301500
+9	0.78	Hereditary Sensory and Autonomic Neuropathy Type III	OMIM:223900
+10	0.75	Guillain-Barre Syndrome	OMIM:139393

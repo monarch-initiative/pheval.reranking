@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Birt-Hogg-Dube Syndrome	OMIM:135150
+2	0.65	Lymphangioleiomyomatosis	OMIM:606690

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.8	Wilson Disease	OMIM:277900
+3	0.75	Neonatal Intrahepatic Cholestasis caused by Citrin Deficiency	OMIM:605814
+4	0.7	Juvenile Neuronal Ceroid Lipofuscinosis	OMIM:204200
+4	0.7	Alexander Disease	OMIM:203450
+6	0.65	Mucopolysaccharidosis Type I (Hurler Syndrome)	OMIM:607014
+7	0.6	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+7	0.6	Dentatorubral-Pallidoluysian Atrophy (DRPLA)	OMIM:125370
+9	0.55	Leigh Syndrome	OMIM:256000
+10	0.5	Glycogen Storage Disease Type II (Pompe Disease)	OMIM:232300

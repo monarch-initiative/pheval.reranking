@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.1	Mandibulofacial Dysostosis with Alopecia	OMIM:616367
+2	0.05	Isolated Ectopia Lentis	OMIM:129600
+2	0.05	Fibrochondrogenesis	OMIM:228520

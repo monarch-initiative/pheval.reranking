@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE syndrome	OMIM:214800
+2	0.85	DiGeorge syndrome	OMIM:188400
+3	0.75	Pendred syndrome	OMIM:274600
+4	0.7	Branchiootorenal syndrome	OMIM:113650
+5	0.65	Treacher Collins syndrome	OMIM:154500
+6	0.6	Jervell and Lange-Nielsen syndrome	OMIM:220400
+7	0.55	22q11.2 deletion syndrome	OMIM:611867

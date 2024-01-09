@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.89	Hemophagocytic Lymphohistiocytosis, Familial, 2	OMIM:603553
+3	0.85	Gaucher Disease, Type I	OMIM:230800
+4	0.83	Chédiak-Higashi Syndrome	OMIM:214500
+5	0.81	Common Variable Immunodeficiency	OMIM:607594
+6	0.79	Lymphoproliferative Syndrome 1	OMIM:613011
+7	0.76	Kostmann Syndrome	OMIM:610738
+8	0.72	Schimke Immunoosseous Dysplasia	OMIM:242900
+9	0.7	X-Linked Lymphoproliferative Syndrome	OMIM:308240
+10	0.68	Wiskott-Aldrich Syndrome	OMIM:301000

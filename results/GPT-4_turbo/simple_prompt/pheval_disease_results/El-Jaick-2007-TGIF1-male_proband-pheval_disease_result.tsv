@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly	OMIM:236100
+2	0.8	Frontonasal Dysplasia	OMIM:136760
+3	0.7	Cleft Lip/Palate-Ectodermal Dysplasia Syndrome	OMIM:225060

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.7	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, and Acne	OMIM:604416
+3	0.65	Omenn Syndrome	OMIM:603554
+4	0.6	Hyper IgE Recurrent Infection Syndrome	OMIM:147060
+5	0.55	Cyclic Neutropenia	OMIM:162800

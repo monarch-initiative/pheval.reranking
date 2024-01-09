@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Long QT Syndrome	OMIM:192500
+2	0.9	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.8	Arrhythmogenic Right Ventricular Dysplasia	OMIM:107970
+4	0.7	Brugada Syndrome	OMIM:601144
+5	0.6	Short QT Syndrome	OMIM:609620
+6	0.5	Myocarditis	OMIM:001281
+7	0.4	Timothy Syndrome	OMIM:601005
+8	0.3	Andersen-Tawil Syndrome	OMIM:170390
+9	0.2	Familial Cardiomyopathy	OMIM:115200
+10	0.1	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, and Stroke-like episodes (MELAS)	OMIM:540000

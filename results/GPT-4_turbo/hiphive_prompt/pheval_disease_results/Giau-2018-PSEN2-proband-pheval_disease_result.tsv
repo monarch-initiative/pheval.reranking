@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alzheimer Disease	OMIM:104300
+2	0.9	Frontotemporal Dementia	OMIM:600274
+3	0.85	Huntington Disease	OMIM:143100
+4	0.8	Lesch-Nyhan Syndrome	OMIM:300322
+5	0.75	Neuroferritinopathy	OMIM:606159
+6	0.7	Prion Disease	OMIM:123400
+7	0.65	Bipolar Disorder	OMIM:125480
+8	0.6	Parkinson Disease	OMIM:168600
+9	0.55	Pick Disease	OMIM:172700
+10	0.5	Sanfilippo Syndrome	OMIM:252900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ohtahara Syndrome	OMIM:308350
+2	0.9	Leigh Syndrome	OMIM:256000
+3	0.85	Rett Syndrome	OMIM:312750
+4	0.8	West Syndrome	OMIM:308350
+5	0.75	Lissencephaly	OMIM:607432
+6	0.73	Pelizaeus-Merzbacher Disease	OMIM:312080
+7	0.7	Angelman Syndrome	OMIM:105830
+8	0.68	Zellweger Syndrome	OMIM:214100
+9	0.65	Mowat-Wilson Syndrome	OMIM:235730
+10	0.6	Aicardi-Goutieres Syndrome	OMIM:225750

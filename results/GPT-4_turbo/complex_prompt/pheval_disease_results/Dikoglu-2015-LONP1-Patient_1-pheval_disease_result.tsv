@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rhizomelic chondrodysplasia punctata	OMIM:215100
+2	0.7	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+2	0.7	Zellweger syndrome	OMIM:214100
+4	0.6	Coffin-Siris syndrome	OMIM:135900
+5	0.5	Cockayne syndrome	OMIM:216400
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.4	Keutel syndrome	OMIM:245150
+7	0.4	Larsen syndrome	OMIM:150250
+9	0.3	CHARGE syndrome	OMIM:214800
+9	0.3	Pierre Robin syndrome	OMIM:261800

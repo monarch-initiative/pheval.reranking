@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.77	Cohen Syndrome	OMIM:216550
+4	0.75	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.73	Patterson Stevenson Syndrome	OMIM:176270
+6	0.71	Ohdo Syndrome, X-Linked	OMIM:300895
+7	0.7	Barber-Say Syndrome	OMIM:209885
+8	0.68	Mucopolysaccharidosis Type III	OMIM:252900
+9	0.65	Weaver Syndrome	OMIM:277590
+10	0.63	Marshall-Smith Syndrome	OMIM:602535

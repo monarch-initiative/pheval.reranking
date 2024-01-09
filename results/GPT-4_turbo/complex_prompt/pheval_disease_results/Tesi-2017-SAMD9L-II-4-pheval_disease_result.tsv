@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.8	Dyskeratosis Congenita	OMIM:127550
+3	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.6	Chronic Granulomatous Disease	OMIM:306400
+5	0.5	Ataxia-Telangiectasia	OMIM:208900
+6	0.4	Severe Congenital Neutropenia	OMIM:202700
+7	0.3	Diamond-Blackfan Anemia	OMIM:105650
+8	0.2	Kostmann Syndrome	OMIM:610738
+9	0.1	Cartilage-Hair Hypoplasia	OMIM:250250

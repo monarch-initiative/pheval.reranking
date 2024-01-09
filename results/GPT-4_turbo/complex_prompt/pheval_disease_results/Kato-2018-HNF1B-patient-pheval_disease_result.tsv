@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diabetes mellitus, type 1	OMIM:222100
+2	0.85	Maturity-onset diabetes of the young, type 1	OMIM:606391
+3	0.75	Latent autoimmune diabetes in adults	OMIM:611500
+4	0.7	Wolfram syndrome	OMIM:222300
+5	0.65	Autoimmune polyendocrine syndrome, type I, with or without reversible metaphyseal dysplasia	OMIM:240300
+6	0.6	Maturity-onset diabetes of the young, type 3	OMIM:600496
+7	0.55	Glucokinase-related maturity-onset diabetes of the young, type 2	OMIM:125851
+8	0.5	Maturity-onset diabetes of the young, type 4	OMIM:606392

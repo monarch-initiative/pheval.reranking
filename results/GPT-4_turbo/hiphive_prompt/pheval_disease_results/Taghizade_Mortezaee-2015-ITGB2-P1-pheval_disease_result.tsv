@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.85	Chronic Granulomatous Disease	OMIM:306400
+3	0.82	Hyper IgE Syndrome	OMIM:147060
+4	0.8	Glycogen Storage Disease Ib	OMIM:232220
+5	0.75	Severe Congenital Neutropenia	OMIM:202700
+6	0.7	Papillon-Lefevre Syndrome	OMIM:245000
+7	0.68	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, and Acne	OMIM:604416
+8	0.65	Cyclic Neutropenia	OMIM:162800
+9	0.6	Griscelli Syndrome Type 2	OMIM:607624
+10	0.58	Wiskott-Aldrich Syndrome	OMIM:301000

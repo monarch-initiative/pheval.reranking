@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aicardi syndrome	OMIM:304050
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Dandy-Walker syndrome	OMIM:220200
+6	0.4	Rett syndrome	OMIM:312750
+7	0.3	West syndrome	OMIM:308350
+8	0.2	L1 syndrome	OMIM:308840

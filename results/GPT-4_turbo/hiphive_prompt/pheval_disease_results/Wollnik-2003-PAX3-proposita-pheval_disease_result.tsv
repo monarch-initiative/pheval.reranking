@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome, Type 1	OMIM:193500
+2	0.85	Freeman-Sheldon Syndrome	OMIM:193700
+3	0.83	Crane-Heise Syndrome	OMIM:218090
+4	0.82	Oculocerebrocutaneous Syndrome	OMIM:164210
+5	0.8	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.79	Kabuki Syndrome 1	OMIM:147920
+7	0.76	Pena-Shokeir Syndrome Type I	OMIM:208150
+8	0.75	Sheldon-Hall Syndrome	OMIM:601680
+9	0.73	Marden-Walker Syndrome	OMIM:248700
+10	0.71	Woolly Hair, Autosomal Recessive 1, with Hypotrichosis	OMIM:278150

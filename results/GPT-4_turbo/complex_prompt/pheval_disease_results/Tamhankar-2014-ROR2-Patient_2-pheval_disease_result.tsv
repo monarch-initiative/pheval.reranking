@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Acrodysostosis	OMIM:101800
+2	0.8	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+3	0.7	3M Syndrome	OMIM:273750
+4	0.65	Larsen Syndrome	OMIM:150250

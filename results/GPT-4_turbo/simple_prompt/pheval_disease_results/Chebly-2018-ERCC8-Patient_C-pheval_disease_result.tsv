@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cockayne Syndrome	OMIM:216400
+2	0.93	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.91	Cerebro-Oculo-Facio-Skeletal Syndrome	OMIM:214150
+4	0.89	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.87	Pfeiffer Syndrome	OMIM:101600

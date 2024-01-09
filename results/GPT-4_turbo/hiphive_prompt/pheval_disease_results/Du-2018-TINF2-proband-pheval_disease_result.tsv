@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Dyskeratosis Congenita	OMIM:127550
+2	0.85	Bloom Syndrome	OMIM:210900
+3	0.83	Xeroderma Pigmentosum	OMIM:278700
+4	0.82	Nijmegen Breakage Syndrome	OMIM:251260
+5	0.81	Fanconi Anemia	OMIM:227650
+6	0.8	Werner Syndrome	OMIM:277700
+7	0.79	Ataxia-telangiectasia	OMIM:208900
+8	0.77	Cystic Fibrosis	OMIM:219700
+9	0.76	Papillon-Lefevre Syndrome	OMIM:245000
+10	0.74	Schopf-Schulz-Passarge Syndrome	OMIM:224750

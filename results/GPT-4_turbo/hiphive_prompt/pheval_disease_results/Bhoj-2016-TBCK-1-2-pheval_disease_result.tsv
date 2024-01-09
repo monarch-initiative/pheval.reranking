@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Zellweger syndrome	OMIM:214100
+2	0.89	Angelman syndrome	OMIM:105830
+3	0.87	Rett syndrome	OMIM:312750
+4	0.85	Dandy-Walker syndrome	OMIM:220200
+5	0.84	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.82	3-P Syndrome	OMIM:611091
+7	0.81	Coffin-Siris syndrome	OMIM:135900
+8	0.8	Pitt-Hopkins syndrome	OMIM:610954
+9	0.79	Prader-Willi syndrome	OMIM:176270
+10	0.78	Mowat-Wilson syndrome	OMIM:235730

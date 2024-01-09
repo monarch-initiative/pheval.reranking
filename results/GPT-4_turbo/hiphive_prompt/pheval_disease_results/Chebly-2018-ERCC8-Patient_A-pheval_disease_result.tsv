@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cockayne Syndrome	OMIM:216400
+2	0.9	Trichothiodystrophy	OMIM:601675
+3	0.85	Xeroderma Pigmentosum	OMIM:278700
+4	0.8	Wolfram Syndrome	OMIM:222300
+5	0.75	Rothmund-Thomson Syndrome	OMIM:268400
+6	0.7	Seckel Syndrome	OMIM:210600
+7	0.65	Bloom Syndrome	OMIM:210900
+8	0.6	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+9	0.55	Fanconi Anemia	OMIM:227650
+10	0.5	Hutchinson-Gilford Progeria Syndrome	OMIM:176670

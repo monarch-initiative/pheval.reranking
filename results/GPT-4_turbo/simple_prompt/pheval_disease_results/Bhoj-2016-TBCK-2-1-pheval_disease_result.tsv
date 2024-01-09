@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Lissencephaly	OMIM:607432
+3	0.82	Leigh syndrome	OMIM:256000
+4	0.78	Zellweger syndrome	OMIM:214100
+5	0.76	Angelman syndrome	OMIM:105830
+6	0.74	Spinal muscular atrophy	OMIM:253300
+7	0.73	Rett syndrome	OMIM:312750
+8	0.71	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004

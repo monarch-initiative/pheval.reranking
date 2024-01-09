@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Spinal Muscular Atrophy	OMIM:253300
+2	0.7	Myasthenic Syndrome, Congenital, Associated With Acetylcholine Receptor Deficiency	OMIM:601462
+3	0.65	Congenital Muscular Dystrophy-Dystroglycanopathy Type A	OMIM:236670
+4	0.6	Pompe Disease	OMIM:232300

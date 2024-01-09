@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Campomelic dysplasia	OMIM:114290
+2	0.9	Achondroplasia	OMIM:100800
+3	0.85	Hypochondroplasia	OMIM:146000
+4	0.8	Osteogenesis imperfecta, type III	OMIM:259420
+4	0.8	Thanatophoric dysplasia type 1	OMIM:187600
+6	0.75	Thanatophoric dysplasia type 2	OMIM:187601
+7	0.7	Diastrophic dysplasia	OMIM:222600
+8	0.65	Atelosteogenesis type II	OMIM:256050
+9	0.6	Ellis-van Creveld syndrome	OMIM:225500
+10	0.55	Reinhardt-Pfeiffer mesomelic dysplasia	OMIM:600991

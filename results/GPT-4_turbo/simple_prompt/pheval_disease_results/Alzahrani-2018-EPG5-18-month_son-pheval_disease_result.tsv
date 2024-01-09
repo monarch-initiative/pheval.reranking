@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi Syndrome 1	OMIM:180849
+2	0.85	Myotonic Dystrophy	OMIM:160900
+3	0.8	Prader-Willi Syndrome	OMIM:176270
+4	0.78	Cockayne Syndrome	OMIM:216400
+5	0.75	Cri-du-chat Syndrome	OMIM:123450

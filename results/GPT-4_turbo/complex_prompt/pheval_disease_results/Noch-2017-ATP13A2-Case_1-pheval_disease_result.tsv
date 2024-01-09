@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease, late-onset	OMIM:168600
+2	0.85	Dopa-responsive dystonia	OMIM:128230
+3	0.8	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+4	0.75	Wilson disease	OMIM:277900
+5	0.7	Huntington disease	OMIM:143100
+6	0.65	Hallervorden-Spatz syndrome	OMIM:234200
+7	0.6	Juvenile amyotrophic lateral sclerosis	OMIM:205100
+8	0.55	Multiple system atrophy	OMIM:146500
+9	0.5	Cerebral palsy, spastic quadriplegic	OMIM:603513
+10	0.45	Primary lateral sclerosis	OMIM:611637

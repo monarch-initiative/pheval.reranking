@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Loeys-Dietz syndrome	OMIM:609192
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.7	Beals congenital contractural arachnodactyly	OMIM:121050
+4	0.65	Homocystinuria	OMIM:236200
+5	0.6	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+6	0.55	Neu-Laxova syndrome 1	OMIM:256520
+7	0.5	Neonatal Marfan syndrome	OMIM:154705
+8	0.45	Fibrodysplasia ossificans progressiva	OMIM:135100
+9	0.4	Shprintzen-Goldberg craniosynostosis syndrome	OMIM:182212
+10	0.35	Congenital contractural arachnodactyly	OMIM:121050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	CHARGE Syndrome	OMIM:214800
+2	0.82	Wolf-Hirschhorn Syndrome	OMIM:194190
+3	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+4	0.78	Cohen Syndrome	OMIM:216550
+5	0.76	Peters Plus Syndrome	OMIM:261540
+6	0.74	Noonan Syndrome	OMIM:163950
+7	0.71	Velocardiofacial Syndrome	OMIM:192430
+8	0.69	Opitz G/BBB Syndrome	OMIM:300000
+9	0.66	Cornelia de Lange Syndrome	OMIM:122470
+10	0.64	Rubinstein-Taybi Syndrome	OMIM:180849

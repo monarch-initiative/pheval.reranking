@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.75	3-Phosphoglycerate dehydrogenase deficiency	OMIM:601815
+3	0.7	Lissencephaly	OMIM:607432
+4	0.68	Angelman syndrome	OMIM:105830
+5	0.65	D-Bifunctional protein deficiency	OMIM:261515
+6	0.6	Zellweger syndrome	OMIM:214100
+7	0.58	Aicardi-Goutieres syndrome	OMIM:225750
+8	0.56	MECP2 duplication syndrome	OMIM:300260

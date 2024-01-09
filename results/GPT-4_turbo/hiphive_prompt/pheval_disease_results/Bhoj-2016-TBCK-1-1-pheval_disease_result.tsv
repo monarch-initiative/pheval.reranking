@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Zellweger syndrome	OMIM:214100
+2	0.92	Angelman syndrome	OMIM:105830
+3	0.89	Rett syndrome	OMIM:312750
+4	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.85	Mucopolysaccharidosis type III (Sanfilippo syndrome)	OMIM:252900
+6	0.84	Prader-Willi syndrome	OMIM:176270
+7	0.82	Leigh syndrome	OMIM:256000
+8	0.81	Miller-Dieker syndrome	OMIM:247200
+9	0.79	Coffin-Siris syndrome	OMIM:135900
+10	0.78	Wolf-Hirschhorn syndrome	OMIM:194190

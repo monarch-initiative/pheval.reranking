@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.8	Smith-Magenis Syndrome	OMIM:182290
+3	0.7	Mucopolysaccharidosis Type III (Sanfilippo Syndrome)	OMIM:252900
+4	0.65	Williams Syndrome	OMIM:194050
+5	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.6	Spinal Muscular Atrophy	OMIM:253300
+7	0.55	Craniofrontonasal Dysplasia	OMIM:304110
+8	0.5	CHARGE Syndrome	OMIM:214800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Stargardt Disease 1	OMIM:248200
+3	0.75	Leber Congenital Amaurosis	OMIM:204000
+4	0.73	Cohen Syndrome	OMIM:216550
+5	0.71	Usher Syndrome, Type I	OMIM:276900
+6	0.68	Alström Syndrome	OMIM:203800
+7	0.65	Retinitis Pigmentosa	OMIM:268000
+8	0.63	Wolfram Syndrome	OMIM:222300
+9	0.6	Prader-Willi Syndrome	OMIM:176270
+10	0.58	Laurence-Moon Syndrome	OMIM:245800

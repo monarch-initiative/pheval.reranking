@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Clouston syndrome	OMIM:129500
+2	0.75	Hidrotic ectodermal dysplasia 1	OMIM:129500
+3	0.65	Ectodermal dysplasia, anhidrotic	OMIM:305100
+4	0.6	Keratitis-Ichthyosis-Deafness (KID) syndrome	OMIM:148210
+5	0.55	Bjornstad syndrome	OMIM:262000

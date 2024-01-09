@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	CHARGE syndrome	OMIM:214800
+2	0.88	22q11.2 deletion syndrome	OMIM:188400
+3	0.85	Treacher Collins syndrome 1	OMIM:154500
+4	0.82	Williams-Beuren syndrome	OMIM:194050
+5	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.78	Stickler syndrome	OMIM:108300
+7	0.75	Mowat-Wilson syndrome	OMIM:235730
+8	0.73	Cornelia de Lange syndrome	OMIM:122470
+9	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.69	Craniofrontonasal syndrome	OMIM:304110

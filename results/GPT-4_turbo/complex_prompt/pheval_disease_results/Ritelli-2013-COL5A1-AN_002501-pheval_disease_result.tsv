@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos Syndrome, Type III, Hypermobility Type	OMIM:130020
+2	0.9	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+3	0.7	Marfan Syndrome	OMIM:154700
+4	0.65	Loeys-Dietz Syndrome	OMIM:609192
+5	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.55	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+7	0.5	Stickler Syndrome	OMIM:108300
+8	0.45	Osteogenesis Imperfecta	OMIM:166200

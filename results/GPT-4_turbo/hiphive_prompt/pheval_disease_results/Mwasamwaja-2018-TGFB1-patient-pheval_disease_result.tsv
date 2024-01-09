@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypophosphatasia	OMIM:241500
+2	0.88	Paget Disease of Bone	OMIM:167250
+3	0.86	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+4	0.84	McKusick-Kaufman Syndrome	OMIM:236700
+5	0.82	Camurati-Engelmann Disease	OMIM:131300
+6	0.8	Myotonic Dystrophy	OMIM:160900
+7	0.78	Primary Hyperparathyroidism	OMIM:145000
+8	0.76	Cushing's Syndrome	OMIM:219080
+9	0.74	Hyperthyroidism	OMIM:275200
+10	0.72	Graves' Disease	OMIM:275000

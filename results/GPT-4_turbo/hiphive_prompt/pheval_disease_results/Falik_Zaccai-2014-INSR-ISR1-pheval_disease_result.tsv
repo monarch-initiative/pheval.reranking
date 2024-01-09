@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Beckwith-Wiedemann Syndrome	OMIM:130650
+2	0.85	Polycystic Ovary Syndrome	OMIM:184700
+3	0.82	Insulin Resistance	OMIM:615829
+4	0.75	Bardet-Biedl Syndrome	OMIM:209900
+5	0.74	Cushing Syndrome	OMIM:219080
+6	0.72	Leopard Syndrome	OMIM:151100
+7	0.7	McCune-Albright Syndrome	OMIM:174800
+8	0.68	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+9	0.65	Kabuki Syndrome	OMIM:147920
+10	0.6	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900

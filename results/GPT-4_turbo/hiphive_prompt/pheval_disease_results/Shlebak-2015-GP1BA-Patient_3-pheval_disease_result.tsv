@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glanzmann thrombasthenia	OMIM:273800
+2	0.9	Bernard-Soulier syndrome	OMIM:231200
+3	0.85	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.8	MYH9-related disorders	OMIM:160775
+5	0.75	Platelet-type bleeding disorder 19	OMIM:601399
+6	0.7	Scott syndrome	OMIM:262890
+7	0.65	Hemophilia A	OMIM:306700
+8	0.6	Hemophilia B	OMIM:306900
+9	0.55	May-Hegglin anomaly	OMIM:155100
+10	0.5	Von Willebrand disease	OMIM:193400

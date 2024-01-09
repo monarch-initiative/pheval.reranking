@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.85	Xeroderma Pigmentosum	OMIM:278700
+3	0.8	Trichothiodystrophy	OMIM:601675
+4	0.75	Bloom Syndrome	OMIM:210900
+5	0.7	Rothmund-Thomson Syndrome	OMIM:268400

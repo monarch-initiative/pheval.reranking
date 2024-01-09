@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris Syndrome	OMIM:135900
+2	0.75	Smith-Magenis Syndrome	OMIM:182290
+3	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.65	Cornelia de Lange Syndrome	OMIM:122470
+5	0.6	22q11.2 Deletion Syndrome	OMIM:188400
+6	0.55	Mucopolysaccharidosis Type III	OMIM:252900
+7	0.5	Williams Syndrome	OMIM:194050
+8	0.45	Costello Syndrome	OMIM:218040
+9	0.4	CHARGE Syndrome	OMIM:214800
+10	0.35	Wolf-Hirschhorn Syndrome	OMIM:194190

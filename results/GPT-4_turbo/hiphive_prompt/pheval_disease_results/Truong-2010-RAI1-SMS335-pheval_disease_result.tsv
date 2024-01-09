@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi Syndrome	OMIM:176270
+2	0.85	Smith-Magenis Syndrome	OMIM:182290
+3	0.82	Down Syndrome	OMIM:190685
+4	0.81	22q11.2 Deletion Syndrome	OMIM:188400
+5	0.78	Williams Syndrome	OMIM:194050
+6	0.76	Mucopolysaccharidosis, Type IVA (Morquio Syndrome)	OMIM:253000
+7	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.73	Fragile X Syndrome	OMIM:300624
+9	0.72	Cornelia de Lange Syndrome	OMIM:122470
+10	0.7	CHARGE Syndrome	OMIM:214800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glanzmann thrombasthenia	OMIM:273800
+2	0.85	Hermansky-Pudlak syndrome	OMIM:203300
+3	0.8	Chediak-Higashi syndrome	OMIM:214500
+4	0.75	Gray platelet syndrome	OMIM:139090
+5	0.72	Paris-Trousseau thrombocytopenia	OMIM:188025
+6	0.7	MYH9 related disorders	OMIM:160775
+7	0.65	Acute promyelocytic leukemia	OMIM:612376
+7	0.65	Bernard-Soulier syndrome	OMIM:231200
+9	0.6	May-Hegglin anomaly	OMIM:155100
+10	0.55	Wiskott-Aldrich syndrome	OMIM:301000

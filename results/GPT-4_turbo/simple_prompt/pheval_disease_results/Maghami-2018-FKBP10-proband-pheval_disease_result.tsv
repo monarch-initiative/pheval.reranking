@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypophosphatasia	OMIM:241500
+2	0.88	Gaucher Disease	OMIM:230800
+3	0.86	Osteogenesis Imperfecta	OMIM:166200
+4	0.75	Osteopetrosis	OMIM:259700
+5	0.65	Mucopolysaccharidosis	OMIM:607015

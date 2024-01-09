@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Craniosynostosis Syndrome	OMIM:123450
+2	0.94	Apert Syndrome	OMIM:101200
+3	0.92	Pfeiffer Syndrome	OMIM:101600
+4	0.9	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.88	Carpenter Syndrome	OMIM:201000
+6	0.86	Jackson-Weiss Syndrome	OMIM:123150
+7	0.82	Beare-Stevenson Cutis Gyrata Syndrome	OMIM:123790
+8	0.8	Muenke Syndrome	OMIM:602849
+9	0.75	Antley-Bixler Syndrome	OMIM:207410
+10	0.7	Crouzon Syndrome	OMIM:123500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lenegre-Lev disease	OMIM:604559
+2	0.85	Barth Syndrome	OMIM:302060
+3	0.8	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+4	0.75	Romano-Ward Syndrome	OMIM:192500
+5	0.7	Andersen-Tawil Syndrome	OMIM:170390
+6	0.65	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+7	0.6	Brugada Syndrome	OMIM:601144
+8	0.55	Cardiomyopathy, Familial Hypertrophic	OMIM:192600
+9	0.5	Myocarditis	OMIM:610048
+10	0.45	Emery-Dreifuss Muscular Dystrophy	OMIM:310300

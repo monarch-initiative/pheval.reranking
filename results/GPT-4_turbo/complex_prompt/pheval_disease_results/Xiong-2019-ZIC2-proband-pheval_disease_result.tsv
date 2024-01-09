@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 3	OMIM:142945
+2	0.88	Holoprosencephaly 2	OMIM:157170
+3	0.85	Holoprosencephaly 4	OMIM:142946
+4	0.83	Holoprosencephaly 5	OMIM:609637
+5	0.8	Holoprosencephaly 7	OMIM:610828
+6	0.77	Holoprosencephaly 9	OMIM:610829
+7	0.75	Holoprosencephaly 11	OMIM:614226
+8	0.72	Holoprosencephaly 13	OMIM:614842
+9	0.7	Single Median Maxillary Central Incisor	OMIM:147250
+10	0.68	Hydrocephalus due to Congenital Stenosis of Aqueduct of Sylvius	OMIM:307000

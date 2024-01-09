@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.92	Canavan disease	OMIM:271900
+3	0.88	Lissencephaly	OMIM:607432
+4	0.85	Leigh syndrome	OMIM:256000
+5	0.83	Alexander disease	OMIM:203450
+6	0.81	Glutaric acidemia type I	OMIM:231670
+7	0.78	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.76	Angelman syndrome	OMIM:105830
+9	0.73	D-Bifunctional protein deficiency	OMIM:261515
+10	0.69	Pitt-Hopkins syndrome	OMIM:610954

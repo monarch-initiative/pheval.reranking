@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange Syndrome	OMIM:122470
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.75	22q11.2 Deletion Syndrome	OMIM:188400
+4	0.7	Williams Syndrome	OMIM:194050
+5	0.65	Fetal Alcohol Syndrome	OMIM:760935

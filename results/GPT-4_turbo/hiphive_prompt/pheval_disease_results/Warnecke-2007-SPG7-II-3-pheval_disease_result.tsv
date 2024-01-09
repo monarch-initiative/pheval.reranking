@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia	OMIM:164400
+2	0.94	Multiple system atrophy, cerebellar type	OMIM:260300
+3	0.88	Primary lateral sclerosis	OMIM:611637
+4	0.86	Friedreich ataxia	OMIM:229300
+5	0.85	Hereditary spastic paraplegia	OMIM:303350
+6	0.83	Wilson disease	OMIM:277900
+7	0.82	Pelizaeus-Merzbacher disease	OMIM:312080
+8	0.8	Cerebral palsy, spastic quadriplegic type	OMIM:603513
+9	0.79	Leukodystrophy, hypomyelinating, 5	OMIM:610532
+10	0.78	Maple syrup urine disease	OMIM:248600

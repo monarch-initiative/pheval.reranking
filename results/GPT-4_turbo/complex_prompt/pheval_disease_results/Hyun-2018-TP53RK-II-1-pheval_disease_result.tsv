@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galloway-Mowat syndrome	OMIM:251300
+2	0.8	Ciliopathy	OMIM:609700
+3	0.7	Meckel syndrome	OMIM:249000
+4	0.6	Joubert syndrome	OMIM:213300
+5	0.5	COACH syndrome	OMIM:216360
+6	0.4	Zellweger spectrum disorders	OMIM:214100
+7	0.3	Schinzel-Giedion syndrome	OMIM:269150
+8	0.2	Donnai-Barrow syndrome	OMIM:222448

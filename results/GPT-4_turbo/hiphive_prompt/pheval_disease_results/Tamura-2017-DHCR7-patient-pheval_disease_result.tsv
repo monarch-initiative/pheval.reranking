@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.87	Leydig cell hypoplasia	OMIM:238320
+3	0.85	Denys-Drash syndrome	OMIM:194080
+4	0.83	5-alpha-reductase deficiency	OMIM:264600
+5	0.81	Androgen insensitivity syndrome	OMIM:300068
+6	0.76	Gorlin syndrome	OMIM:109400
+7	0.75	48,XXXY syndrome	OMIM:XXXXY
+8	0.73	Pallister-Hall syndrome	OMIM:146510
+9	0.71	Fraser syndrome	OMIM:219000
+10	0.69	Happle syndrome	OMIM:308800

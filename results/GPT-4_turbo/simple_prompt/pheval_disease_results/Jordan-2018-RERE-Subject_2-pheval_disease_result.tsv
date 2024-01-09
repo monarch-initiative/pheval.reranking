@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Turner Syndrome	OMIM:310000
+2	0.7	CHARGE Syndrome	OMIM:214800
+3	0.65	Noonan Syndrome	OMIM:163950
+4	0.6	Cerebro-oculo-facio-skeletal Syndrome	OMIM:214150
+5	0.55	Prader-Willi Syndrome	OMIM:176270

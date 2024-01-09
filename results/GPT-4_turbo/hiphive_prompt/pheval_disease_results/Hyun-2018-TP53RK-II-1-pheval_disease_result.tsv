@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Donnai-Barrow syndrome	OMIM:222448
+2	0.84	Meckel syndrome	OMIM:249000
+3	0.82	Galloway-Mowat syndrome	OMIM:251300
+4	0.81	Cohen syndrome	OMIM:216550
+5	0.79	Zellweger spectrum disorder	OMIM:214100
+6	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.75	Baraitser-Winter syndrome	OMIM:243310
+8	0.74	Joubert syndrome	OMIM:213300
+9	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.69	Schinzel-Giedion syndrome	OMIM:269150

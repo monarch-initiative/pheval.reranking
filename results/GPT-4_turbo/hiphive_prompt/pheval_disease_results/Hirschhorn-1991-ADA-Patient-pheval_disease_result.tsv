@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, Nk Cell-Negative	OMIM:601457
+2	0.93	Adenosine Deaminase Deficiency	OMIM:102700
+3	0.91	Combined Immunodeficiency due to CD3-Gamma Deficiency	OMIM:609582
+4	0.89	Common Variable Immunodeficiency	OMIM:607594
+5	0.87	Immunodeficiency with Hyper-IgM, Type 1	OMIM:308230
+6	0.85	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.83	X-Linked Lymphoproliferative Syndrome	OMIM:308240
+8	0.81	Autoimmune Lymphoproliferative Syndrome, Type Ia	OMIM:601859
+9	0.79	DiGeorge Syndrome	OMIM:188400
+10	0.77	Ataxia-Telangiectasia	OMIM:208900

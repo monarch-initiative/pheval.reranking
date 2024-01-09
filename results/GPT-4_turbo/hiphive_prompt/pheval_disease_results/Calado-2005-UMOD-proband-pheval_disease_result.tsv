@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Polycystic Kidney Disease, Autosomal Dominant	OMIM:173900
+2	0.85	Alport Syndrome	OMIM:301050
+3	0.82	Fabry Disease	OMIM:301500
+4	0.8	Bardet-Biedl Syndrome	OMIM:209900
+5	0.78	Nephronophthisis	OMIM:256100
+6	0.76	Gout, PRPS-Related	OMIM:300661
+7	0.74	Chronic Kidney Disease-Mineral and Bone Disorder	OMIM:211300
+8	0.72	Medullary Cystic Kidney Disease 1	OMIM:174000
+9	0.7	Hyperuricemic Nephropathy, Familial Juvenile 1	OMIM:162000
+10	0.68	Renal Tubular Acidosis, Distal, With Hemolytic Anemia	OMIM:267300

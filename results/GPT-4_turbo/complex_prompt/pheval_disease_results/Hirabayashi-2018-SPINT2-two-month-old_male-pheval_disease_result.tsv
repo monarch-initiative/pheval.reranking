@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE Syndrome	OMIM:214800
+2	0.8	Velocardiofacial Syndrome	OMIM:192430
+3	0.7	22q11.2 Deletion Syndrome	OMIM:611867
+4	0.6	Pierre Robin Sequence	OMIM:261800
+5	0.5	VATER Association	OMIM:192350
+6	0.4	Treacher Collins Syndrome	OMIM:154500
+7	0.3	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.2	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.1	Holoprosencephaly	OMIM:236100
+10	0.05	DiGeorge Syndrome	OMIM:188400

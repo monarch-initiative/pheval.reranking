@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple Endocrine Neoplasia, Type 2A	OMIM:171400
+2	0.85	Multiple Endocrine Neoplasia, Type 2B	OMIM:162300
+3	0.7	Familial Medullary Thyroid Carcinoma	OMIM:155240
+4	0.5	Von Hippel-Lindau Syndrome	OMIM:193300
+5	0.4	Neurofibromatosis, Type 1	OMIM:162200

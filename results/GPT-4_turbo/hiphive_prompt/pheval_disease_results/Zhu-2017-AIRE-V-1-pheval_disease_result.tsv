@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Autoimmune Polyendocrine Syndrome, Type I, with or without Reversible Metaphyseal Dysplasia	OMIM:240300
+2	0.87	DiGeorge Syndrome	OMIM:188400
+3	0.85	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410
+4	0.84	Kenny-Caffey Syndrome, Type 1	OMIM:244460
+5	0.82	Barakat Syndrome	OMIM:146255
+6	0.81	Dent Disease	OMIM:300009
+7	0.79	Bartter Syndrome, Type 4B	OMIM:613090
+8	0.77	Hypomagnesemia 4, Renal	OMIM:611718
+9	0.76	Wolcott-Rallison Syndrome	OMIM:226980
+10	0.75	Coffin-Siris Syndrome	OMIM:135900

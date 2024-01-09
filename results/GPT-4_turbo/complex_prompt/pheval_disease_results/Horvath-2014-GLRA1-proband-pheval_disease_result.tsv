@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Ciliary Dyskinesia	OMIM:244400
+2	0.8	Marfan Syndrome	OMIM:154700
+3	0.7	Bardet-Biedl Syndrome	OMIM:209900
+4	0.6	Polycystic Kidney Disease, Autosomal Recessive	OMIM:263200
+5	0.5	Meckel Syndrome	OMIM:249000
+6	0.4	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+7	0.3	Congenital Disorder of Glycosylation Type 1a	OMIM:212065
+8	0.2	Zellweger Syndrome	OMIM:214100
+9	0.1	Joubert Syndrome	OMIM:213300

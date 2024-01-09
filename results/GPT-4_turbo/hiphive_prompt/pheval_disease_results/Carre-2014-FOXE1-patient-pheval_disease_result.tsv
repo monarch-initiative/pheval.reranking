@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.75	Pendred syndrome	OMIM:274600
+3	0.7	Central hypothyroidism	OMIM:275100
+4	0.68	Thyroid hormone resistance	OMIM:188570
+5	0.65	Congenital hypothyroidism	OMIM:218700
+6	0.62	CHARGE syndrome	OMIM:214800
+7	0.58	22q11.2 deletion syndrome	OMIM:188400
+8	0.54	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Pfeiffer syndrome	OMIM:101600
+10	0.47	Schinzel-Giedion syndrome	OMIM:269150

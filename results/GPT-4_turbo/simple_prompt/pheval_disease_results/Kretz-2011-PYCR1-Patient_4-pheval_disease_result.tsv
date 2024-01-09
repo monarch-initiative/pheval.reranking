@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	De Barsy Syndrome	OMIM:219150
+2	0.9	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+3	0.85	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.8	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+5	0.75	Marfan Syndrome	OMIM:154700
+6	0.7	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.65	Lipodystrophy, Congenital Generalized, Type 1	OMIM:608594
+8	0.6	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020

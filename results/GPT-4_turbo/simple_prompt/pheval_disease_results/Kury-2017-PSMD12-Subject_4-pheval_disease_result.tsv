@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Noonan Syndrome	OMIM:163950
+2	0.7	CHARGE Syndrome	OMIM:214800
+3	0.6	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.5	Prader-Willi Syndrome	OMIM:176270
+5	0.5	Klinefelter Syndrome	OMIM:47XXY
+5	0.5	Cornelia de Lange Syndrome	OMIM:122470

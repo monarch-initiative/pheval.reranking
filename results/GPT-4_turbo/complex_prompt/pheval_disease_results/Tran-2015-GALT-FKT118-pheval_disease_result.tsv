@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.8	Glycosylation, type Ia	OMIM:212065
+3	0.7	Crigler-Najjar syndrome, type I	OMIM:218800
+4	0.6	Crigler-Najjar syndrome, type II	OMIM:606785
+5	0.5	Tyrosinemia type I	OMIM:276700
+6	0.4	Dubin-Johnson syndrome	OMIM:237500
+7	0.3	Rotor syndrome	OMIM:237450
+8	0.2	Gilbert syndrome	OMIM:143500
+9	0.1	Mitochondrial DNA depletion syndrome	OMIM:251880

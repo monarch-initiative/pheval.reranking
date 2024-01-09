@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.85	Hereditary Spastic Paraplegia	OMIM:303350
+3	0.8	Friedreich Ataxia	OMIM:229300
+4	0.75	Multiple Sclerosis	OMIM:126200
+5	0.7	Spinal Muscular Atrophy	OMIM:253300

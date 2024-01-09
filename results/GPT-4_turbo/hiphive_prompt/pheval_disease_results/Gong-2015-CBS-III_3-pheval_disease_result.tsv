@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Marfan Syndrome	OMIM:154700
+2	0.86	Homocystinuria	OMIM:236200
+3	0.82	Spinocerebellar Ataxia Type 1	OMIM:164400
+3	0.82	Spinocerebellar Ataxia Type 2	OMIM:183090
+5	0.81	Friedreich Ataxia	OMIM:229300
+6	0.79	Behr Syndrome	OMIM:210000
+7	0.77	Weill-Marchesani Syndrome	OMIM:277600
+8	0.76	Mitochondrial DNA Depletion Syndrome 6 (HEMPAS type)	OMIM:256810
+9	0.74	Shprintzen-Goldberg syndrome	OMIM:182212
+10	0.72	Wolfram Syndrome	OMIM:222300

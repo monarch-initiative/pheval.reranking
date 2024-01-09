@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer Disease	OMIM:104300
+2	0.8	Frontotemporal Dementia	OMIM:600274
+3	0.7	Huntington Disease	OMIM:143100
+4	0.65	Creutzfeldt-Jakob Disease	OMIM:123400
+5	0.6	Parkinson Disease	OMIM:168600
+6	0.55	Amyotrophic Lateral Sclerosis	OMIM:105400
+7	0.5	Lewy Body Dementia	OMIM:127750
+8	0.45	Progressive Supranuclear Palsy	OMIM:601104
+9	0.4	Neuronal Ceroid Lipofuscinosis	OMIM:256730
+10	0.35	Niemann-Pick Disease, Type C	OMIM:257220

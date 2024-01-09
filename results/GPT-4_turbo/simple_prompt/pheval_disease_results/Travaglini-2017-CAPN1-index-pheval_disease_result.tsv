@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cerebral palsy, spastic quadriplegic	OMIM:603513
+2	0.8	Hereditary spastic paraplegia	OMIM:303350
+3	0.72	Dopa-responsive dystonia	OMIM:128230
+4	0.7	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.68	Spastic diplegia infantile type	OMIM:606364

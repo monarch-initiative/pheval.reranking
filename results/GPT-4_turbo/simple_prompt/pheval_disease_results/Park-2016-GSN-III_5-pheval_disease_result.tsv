@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lambert-Eaton Myasthenic Syndrome	OMIM:601462
+2	0.7	Familial Dysautonomia	OMIM:223900
+3	0.6	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.5	Fabry Disease	OMIM:301500
+5	0.4	Multiple System Atrophy	OMIM:146500

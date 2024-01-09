@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dilated cardiomyopathy 1A	OMIM:115200
+2	0.85	Dilated cardiomyopathy 1E	OMIM:601154
+3	0.8	Dilated cardiomyopathy 1G	OMIM:604145
+4	0.7	Myocarditis	OMIM:212050
+5	0.65	Arrhythmogenic right ventricular dysplasia, familial, 1	OMIM:107970

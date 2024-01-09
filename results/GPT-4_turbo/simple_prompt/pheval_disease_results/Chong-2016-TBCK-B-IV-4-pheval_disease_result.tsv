@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Angelman Syndrome	OMIM:105830
+4	0.6	Mowat-Wilson Syndrome	OMIM:235730
+4	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.5	CHARGE Syndrome	OMIM:214800
+6	0.5	Zellweger Spectrum Disorder	OMIM:214100
+8	0.4	Coffin-Siris Syndrome	OMIM:135900
+8	0.4	Prader-Willi Syndrome	OMIM:176270
+8	0.4	Cornelia de Lange Syndrome	OMIM:122470

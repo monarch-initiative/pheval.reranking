@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.85	Guillain-Barre syndrome	OMIM:139393
+3	0.75	Chronic inflammatory demyelinating polyneuropathy	OMIM:613702
+4	0.65	Multifocal motor neuropathy	OMIM:607731
+5	0.55	Hereditary sensory and autonomic neuropathy	OMIM:162400

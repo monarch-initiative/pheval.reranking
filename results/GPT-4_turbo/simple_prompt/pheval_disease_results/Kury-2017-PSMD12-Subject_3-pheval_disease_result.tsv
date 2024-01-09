@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	22q11.2 deletion syndrome	OMIM:188400
+2	0.72	Fragile X syndrome	OMIM:300624
+3	0.65	Klinefelter syndrome	OMIM:47XXY
+4	0.64	Turner syndrome	OMIM:45,X
+5	0.63	Rett syndrome	OMIM:312750
+6	0.61	CHARGE syndrome	OMIM:214800
+7	0.6	Cardiofaciocutaneous syndrome	OMIM:115150
+8	0.58	Williams syndrome	OMIM:194050
+9	0.57	DiGeorge syndrome	OMIM:188400
+10	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400

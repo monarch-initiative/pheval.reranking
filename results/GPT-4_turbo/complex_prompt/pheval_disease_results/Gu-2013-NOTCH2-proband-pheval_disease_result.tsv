@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyknodysostosis	OMIM:265800
+2	0.8	Mucopolysaccharidosis type IV	OMIM:253000
+3	0.7	Osteogenesis imperfecta	OMIM:166200
+4	0.6	Cleidocranial dysplasia	OMIM:119600
+5	0.5	Pseudohypoparathyroidism	OMIM:103580
+6	0.4	Kenny-Caffey syndrome	OMIM:127000
+6	0.4	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.3	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.2	Apert syndrome	OMIM:101200
+10	0.1	Brachydactyly	OMIM:112500

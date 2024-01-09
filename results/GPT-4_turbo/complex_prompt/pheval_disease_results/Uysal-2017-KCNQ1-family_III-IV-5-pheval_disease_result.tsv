@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Jervell and Lange-Nielsen syndrome	OMIM:220400
+2	0.8	Usher syndrome, type 1	OMIM:276900
+3	0.7	Long QT syndrome	OMIM:192500
+4	0.6	Pendred syndrome	OMIM:274600
+5	0.5	Congenital sensorineural deafness	OMIM:220290
+6	0.4	Biotinidase deficiency	OMIM:253260
+7	0.3	Alport syndrome	OMIM:301050
+8	0.2	Barth syndrome	OMIM:302060
+9	0.1	Kearns-Sayre syndrome	OMIM:530000

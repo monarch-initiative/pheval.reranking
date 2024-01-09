@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+3	0.75	2q37 deletion syndrome	OMIM:600803
+4	0.7	Coffin-Siris syndrome	OMIM:135900
+5	0.65	Pitt-Hopkins syndrome	OMIM:610954
+6	0.6	Prader-Willi syndrome	OMIM:176270
+7	0.55	Smith-Magenis syndrome	OMIM:182290
+8	0.5	Cornelia de Lange syndrome	OMIM:122470
+9	0.45	CHARGE syndrome	OMIM:214800
+10	0.4	Mowat-Wilson syndrome	OMIM:235730

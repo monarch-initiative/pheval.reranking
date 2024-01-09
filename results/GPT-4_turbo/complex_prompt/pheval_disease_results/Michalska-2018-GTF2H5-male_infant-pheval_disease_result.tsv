@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Trichohepatoenteric syndrome	OMIM:222470
+2	0.8	Netherton syndrome	OMIM:256500
+3	0.7	CHST3-related skeletal dysplasia	OMIM:604615
+4	0.6	Gaucher disease type 2	OMIM:230900
+5	0.5	Conradi-Hünermann syndrome	OMIM:302960
+6	0.4	Wiedemann-Steiner syndrome	OMIM:605130
+7	0.3	Hyper IgM syndrome type 5	OMIM:608106
+8	0.2	Cohen syndrome	OMIM:216550
+9	0.1	H syndrome	OMIM:602782

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lambert-Eaton Myasthenic Syndrome	OMIM:601462
+2	0.8	Congenital Disorder of Glycosylation	OMIM:212065
+3	0.7	Myasthenia Gravis	OMIM:254200
+4	0.6	Gerodermia Osteodysplastica	OMIM:231070
+5	0.5	Ross Syndrome	OMIM:609625
+6	0.4	Multiple System Atrophy	OMIM:146500
+7	0.3	Familial Dysautonomia	OMIM:223900
+8	0.2	Fabry Disease	OMIM:301500

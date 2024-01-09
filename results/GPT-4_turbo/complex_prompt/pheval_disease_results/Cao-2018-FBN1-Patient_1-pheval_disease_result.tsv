@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Loeys-Dietz Syndrome Type 1	OMIM:609192
+3	0.7	Loeys-Dietz Syndrome Type 2	OMIM:610168
+4	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.5	MASS Phenotype	OMIM:604308
+6	0.4	Homocystinuria	OMIM:236200
+7	0.3	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.2	Beals Syndrome	OMIM:121050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Dyskeratosis congenita, autosomal dominant	OMIM:127550
+2	0.75	Seckel syndrome	OMIM:210600
+3	0.7	Shwachman-Diamond syndrome	OMIM:260400
+4	0.65	Zellweger syndrome	OMIM:214100
+5	0.6	Ataxia-Telangiectasia	OMIM:208900
+6	0.55	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss (CAPOS)	OMIM:601338
+7	0.5	Lissencephaly	OMIM:607432
+8	0.45	Meier-Gorlin syndrome (Ear-patella-short stature syndrome)	OMIM:224690
+9	0.4	Alexander disease	OMIM:203450
+10	0.35	Cockayne syndrome	OMIM:216400

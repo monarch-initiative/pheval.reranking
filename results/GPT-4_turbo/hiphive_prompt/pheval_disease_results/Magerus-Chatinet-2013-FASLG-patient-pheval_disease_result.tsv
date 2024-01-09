@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Chronic Granulomatous Disease	OMIM:306400
+2	0.83	Hyper IgM Syndrome	OMIM:308230
+3	0.82	Common Variable Immunodeficiency	OMIM:607594
+4	0.79	Gaucher Disease	OMIM:230800
+5	0.78	Autoimmune Lymphoproliferative Syndrome	OMIM:601859
+6	0.77	Niemann-Pick Disease	OMIM:257200
+7	0.75	Sarcoidosis	OMIM:181000
+8	0.74	Primary Hemophagocytic Lymphohistiocytosis	OMIM:267700
+9	0.73	Wiskott-Aldrich Syndrome	OMIM:301000
+10	0.72	Langerhans Cell Histiocytosis	OMIM:604856

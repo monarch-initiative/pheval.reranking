@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Neurofibromatosis-Noonan syndrome	OMIM:601321
+2	0.95	Neurofibromatosis, type 1	OMIM:162200
+3	0.85	Mowat-Wilson syndrome	OMIM:235730
+4	0.82	Saethre-Chotzen syndrome	OMIM:101400
+5	0.81	LEOPARD syndrome	OMIM:151100
+6	0.8	Crouzon syndrome	OMIM:123500
+7	0.77	Apert syndrome	OMIM:101200
+8	0.76	Waardenburg syndrome, type 1	OMIM:193500
+9	0.72	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.7	Pfeiffer syndrome	OMIM:101600

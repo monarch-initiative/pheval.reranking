@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Marfan Syndrome	OMIM:154700
+2	0.95	Loeys-Dietz Syndrome	OMIM:609192
+3	0.89	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.85	Homocystinuria	OMIM:236200
+5	0.82	Stickler Syndrome, Type I	OMIM:108300
+6	0.8	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.78	Weill-Marchesani Syndrome	OMIM:277600
+8	0.75	Beals Syndrome	OMIM:121050
+9	0.73	Fibrillinopathy	OMIM:134797
+10	0.7	MASS Phenotype	OMIM:604308

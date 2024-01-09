@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.75	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.7	Hemochromatosis	OMIM:235200
+4	0.65	Non-alcoholic Fatty Liver Disease	OMIM:613282
+5	0.6	Primary Biliary Cirrhosis	OMIM:109720

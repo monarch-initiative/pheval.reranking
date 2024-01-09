@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.85	Angelman Syndrome	OMIM:105830
+3	0.8	West Syndrome	OMIM:308350
+4	0.75	Smith-Magenis Syndrome	OMIM:182290
+5	0.7	Cri-du-Chat Syndrome	OMIM:123450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Multiple sclerosis	OMIM:126200
+4	0.6	Primary lateral sclerosis	OMIM:611637
+5	0.5	Hereditary spastic paraplegia	OMIM:303350
+5	0.5	Creutzfeldt-Jakob disease	OMIM:123400
+7	0.4	Huntington disease	OMIM:143100
+7	0.4	Parkinson disease	OMIM:168600
+9	0.3	Metachromatic leukodystrophy	OMIM:250100
+10	0.2	Progressive multifocal leukoencephalopathy	OMIM:214150

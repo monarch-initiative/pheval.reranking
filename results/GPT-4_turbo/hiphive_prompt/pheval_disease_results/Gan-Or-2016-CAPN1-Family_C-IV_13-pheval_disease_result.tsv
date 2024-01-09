@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:303350
+2	0.92	Primary Lateral Sclerosis, Juvenile	OMIM:606353
+3	0.9	Spastic Paraplegia 4, Autosomal Dominant	OMIM:182601
+4	0.87	Spastic Paraplegia 7, Autosomal Recessive	OMIM:607259
+5	0.85	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+6	0.83	Spastic Ataxia 1	OMIM:108600
+7	0.82	Spastic Paraplegia 11, Autosomal Recessive	OMIM:604360
+8	0.8	Spastic Paraplegia 3A, Autosomal Dominant	OMIM:182600
+9	0.78	Spastic Paraplegia 31, Autosomal Dominant	OMIM:610250
+10	0.75	Spastic Paraplegia 15, Autosomal Recessive	OMIM:270700

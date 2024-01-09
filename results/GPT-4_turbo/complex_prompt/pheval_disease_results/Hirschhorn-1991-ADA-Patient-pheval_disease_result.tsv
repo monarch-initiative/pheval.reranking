@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Severe Combined Immunodeficiency due to ADA Deficiency	OMIM:102700
+2	0.7	Common Variable Immunodeficiency	OMIM:607594
+3	0.6	HIV Infection	OMIM:609423
+4	0.5	X-Linked Agammaglobulinemia	OMIM:300755
+5	0.4	Combined Immunodeficiencies with Associated or Syndromic Features	OMIM: 617237
+6	0.3	X-Linked Severe Combined Immunodeficiency	OMIM:300400
+7	0.2	Wiskott-Aldrich Syndrome	OMIM:301000
+8	0.1	DiGeorge Syndrome	OMIM:188400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Achondroplasia	OMIM:100800
+2	0.9	Hypophosphatasia	OMIM:241500
+3	0.86	Pseudohypoparathyroidism	OMIM:103580
+4	0.85	Leri-Weill Dyschondrosteosis	OMIM:127300
+5	0.82	Hypochondroplasia	OMIM:146000
+6	0.81	Thanatophoric Dysplasia	OMIM:187600
+7	0.8	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+8	0.79	Pseudopseudohypoparathyroidism	OMIM:612463
+9	0.75	Turner Syndrome	OMIM:300400
+10	0.74	Multiple Epiphyseal Dysplasia	OMIM:132400

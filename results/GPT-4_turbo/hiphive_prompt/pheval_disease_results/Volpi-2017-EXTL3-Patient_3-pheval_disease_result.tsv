@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan Syndrome	OMIM:163950
+2	0.83	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.81	Marfan Syndrome	OMIM:154700
+4	0.79	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.77	Loeys-Dietz Syndrome	OMIM:609192
+6	0.75	Ehlers-Danlos Syndrome	OMIM:130000
+7	0.74	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.72	Coffin-Siris Syndrome	OMIM:135900
+9	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+10	0.68	Langer-Giedion Syndrome	OMIM:150230

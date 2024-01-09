@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lissencephaly	OMIM:607432
+2	0.85	Pelizaeus-Merzbacher Disease	OMIM:312080
+3	0.8	Zellweger Syndrome	OMIM:214100
+4	0.75	X-linked Hydrocephalus Syndrome	OMIM:307000
+5	0.7	Miller-Dieker Syndrome	OMIM:247200
+6	0.65	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome	OMIM:603387
+7	0.6	Aicardi Syndrome	OMIM:304050
+8	0.55	Schinzel-Giedion Syndrome	OMIM:269150
+9	0.5	Muscle-eye-brain Disease	OMIM:253280
+10	0.45	Rett Syndrome	OMIM:312750

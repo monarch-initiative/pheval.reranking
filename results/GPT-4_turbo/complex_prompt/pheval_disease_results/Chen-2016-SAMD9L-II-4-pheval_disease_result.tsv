@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.85	Friedreich Ataxia	OMIM:229300
+3	0.8	Diamond-Blackfan Anemia	OMIM:105650
+4	0.75	Ataxia-Telangiectasia	OMIM:208900
+5	0.7	Dyskeratosis Congenita	OMIM:127550
+6	0.65	Mitochondrial Myopathy	OMIM:500001
+7	0.6	Shwachman-Diamond Syndrome	OMIM:260400
+8	0.55	Ataxia with Oculomotor Apraxia	OMIM:208920
+9	0.5	Cerebellar Ataxia, Areflexia, Pes Cavus, Optic Atrophy, and Sensorineural Hearing Loss (CAPOS Syndrome)	OMIM:601338
+10	0.45	Biotinidase Deficiency	OMIM:253260

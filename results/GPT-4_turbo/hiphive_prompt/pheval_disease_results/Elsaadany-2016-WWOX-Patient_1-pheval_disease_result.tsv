@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.91	Mitochondrial DNA depletion syndrome 4B, MNGIE type	OMIM:613662
+3	0.88	Canavan disease	OMIM:271900
+4	0.86	Zellweger syndrome	OMIM:214100
+5	0.83	Alexander disease	OMIM:203450
+6	0.81	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.8	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+8	0.78	Maple syrup urine disease	OMIM:248600
+9	0.76	Glutaric aciduria type 1	OMIM:231670
+10	0.74	Krabbe disease	OMIM:245200

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Ehlers-Danlos syndrome	OMIM:130000
+2	0.75	Freeman-Sheldon syndrome	OMIM:193700
+3	0.7	Larsen syndrome	OMIM:150250
+4	0.65	Marden-Walker syndrome	OMIM:248700
+5	0.6	Shprintzen-Goldberg syndrome	OMIM:182212

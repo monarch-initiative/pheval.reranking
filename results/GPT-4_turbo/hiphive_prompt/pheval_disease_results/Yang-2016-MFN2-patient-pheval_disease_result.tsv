@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.94	Hereditary motor and sensory neuropathy	OMIM:145900
+3	0.92	Spinal muscular atrophy	OMIM:253300
+4	0.91	Familial spastic paraplegia	OMIM:303350
+5	0.9	Multiple sclerosis	OMIM:126200
+6	0.89	Friedreich ataxia	OMIM:229300
+7	0.88	Amyotrophic lateral sclerosis	OMIM:105400
+8	0.87	Guillain-Barre syndrome	OMIM:139393
+9	0.85	Myelopathy	OMIM:251300
+10	0.84	Hereditary neuropathy with liability to pressure palsies	OMIM:162500

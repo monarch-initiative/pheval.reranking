@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	DiGeorge Syndrome	OMIM:188400
+2	0.85	Shprintzen-Goldberg Syndrome	OMIM:182212
+3	0.82	Holt-Oram Syndrome	OMIM:142900
+4	0.78	Noonan Syndrome	OMIM:163950
+5	0.75	Fanconi Anemia	OMIM:227650
+6	0.73	Ellis-van Creveld Syndrome	OMIM:225500
+7	0.71	Williams-Beuren Syndrome	OMIM:194050
+8	0.7	Turner Syndrome	OMIM:300400
+9	0.68	22q11.2 Deletion Syndrome	OMIM:611867
+10	0.65	Nager Syndrome	OMIM:154400

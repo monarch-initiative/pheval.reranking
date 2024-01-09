@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.93	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.92	Loeys-Dietz Syndrome 2	OMIM:608967
+4	0.88	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.85	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:132900
+6	0.83	Arterial Tortuosity Syndrome	OMIM:208050
+7	0.81	Cutis Laxa, Autosomal Dominant	OMIM:123700
+8	0.79	Fibulin-4 Deficiency	OMIM:614378
+9	0.77	Shprintzen-Goldberg Syndrome	OMIM:182212
+10	0.75	ACTA2-Related Thoracic Aortic Aneurysms and Aortic Dissections	OMIM:611788

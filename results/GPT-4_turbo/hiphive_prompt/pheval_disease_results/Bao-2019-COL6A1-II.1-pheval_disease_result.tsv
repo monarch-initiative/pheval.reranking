@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.87	Spinal Muscular Atrophy	OMIM:253300
+3	0.85	Myasthenia Gravis	OMIM:254200
+4	0.84	Duchenne Muscular Dystrophy	OMIM:310200
+5	0.82	Becker Muscular Dystrophy	OMIM:300376
+6	0.8	Limb-Girdle Muscular Dystrophy	OMIM:253600
+7	0.78	Familial Dysautonomia	OMIM:223900
+8	0.76	Myotonic Dystrophy	OMIM:160900
+9	0.74	Congenital Myasthenic Syndrome	OMIM:601462
+10	0.7	Hereditary Sensory and Autonomic Neuropathy	OMIM:162400

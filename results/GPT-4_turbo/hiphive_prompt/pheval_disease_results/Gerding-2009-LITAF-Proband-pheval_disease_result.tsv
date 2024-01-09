@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.93	Friedreich ataxia	OMIM:229300
+3	0.91	Hereditary sensory and autonomic neuropathy type I	OMIM:162400
+4	0.89	Spinocerebellar ataxia 1	OMIM:164400
+5	0.87	Hereditary motor and sensory neuropathy type II	OMIM:118200
+6	0.86	Ataxia-telangiectasia	OMIM:208900
+7	0.85	Refsum disease	OMIM:266500
+8	0.83	Giant axonal neuropathy	OMIM:256850
+9	0.82	Spinocerebellar ataxia 3	OMIM:109150
+10	0.81	Charcot-Marie-Tooth disease type 1A	OMIM:118220

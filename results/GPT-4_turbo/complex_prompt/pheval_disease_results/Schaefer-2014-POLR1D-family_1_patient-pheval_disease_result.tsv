@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Treacher Collins Syndrome	OMIM:154500
+2	0.8	Pierre Robin Sequence	OMIM:261800
+3	0.75	Stickler Syndrome, Type I	OMIM:108300
+4	0.7	22q11.2 Deletion Syndrome	OMIM:188400
+5	0.65	Crouzon Syndrome	OMIM:123500
+5	0.65	Nager Syndrome	OMIM:154400
+7	0.6	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.55	Apert Syndrome	OMIM:101200
+9	0.5	CHARGE Syndrome	OMIM:214800
+9	0.5	Waardenburg Syndrome	OMIM:193500

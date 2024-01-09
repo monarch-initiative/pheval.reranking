@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome	OMIM:123500
+2	0.8	Pfeiffer syndrome	OMIM:101600
+3	0.7	Mowat-Wilson syndrome	OMIM:235730
+4	0.6	CHARGE syndrome	OMIM:214800
+5	0.5	Lenz microphthalmia syndrome	OMIM:309800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+1	0.6	Mowat-Wilson syndrome	OMIM:235730
+1	0.6	Jacobsen syndrome	OMIM:147791
+4	0.55	3-M syndrome	OMIM:273750
+4	0.55	Baraitser-Winter syndrome	OMIM:243310
+6	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.5	Noonan syndrome	OMIM:163950
+6	0.5	Sotos syndrome	OMIM:117550
+6	0.5	Wolf-Hirschhorn syndrome	OMIM:194190
+6	0.5	Pallister-Killian syndrome	OMIM:601803

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Jeune Asphyxiating Thoracic Dystrophy	OMIM:208500
+2	0.8	Short-Rib Thoracic Dysplasia with or without Polydactyly	OMIM:263520
+3	0.75	Meckel Syndrome	OMIM:249000
+4	0.7	Zellweger Spectrum Disorder	OMIM:214100
+5	0.65	Ellis-van Creveld Syndrome	OMIM:225500
+6	0.6	Joubert Syndrome	OMIM:213300
+7	0.55	Oral-Facial-Digital Syndrome	OMIM:311200
+8	0.5	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+9	0.45	Bardet-Biedl Syndrome	OMIM:209900
+10	0.4	Sensenbrenner Syndrome (Cranioectodermal Dysplasia)	OMIM:218330

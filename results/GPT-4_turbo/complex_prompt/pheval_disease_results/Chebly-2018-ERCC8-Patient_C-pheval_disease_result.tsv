@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.8	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.7	Wolf-Hirschhorn Syndrome	OMIM:194190
+4	0.6	Pierre Robin Sequence with Pfeiffer Syndrome	OMIM:176800
+4	0.6	Nance-Horan Syndrome	OMIM:302350
+4	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.5	Crouzon Syndrome	OMIM:123500
+7	0.5	Marshall-Smith Syndrome	OMIM:602535
+10	0.4	Mucopolysaccharidosis Type IV	OMIM:253000

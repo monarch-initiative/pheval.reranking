@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Alstrom Syndrome	OMIM:203800
+3	0.75	Laurence-Moon Syndrome	OMIM:245800
+4	0.7	McKusick-Kaufman Syndrome	OMIM:236700
+5	0.65	Weyers Acrofacial Dysostosis	OMIM:193530

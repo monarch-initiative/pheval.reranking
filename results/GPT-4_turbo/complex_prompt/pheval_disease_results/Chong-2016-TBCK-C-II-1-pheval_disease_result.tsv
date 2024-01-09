@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris syndrome	OMIM:135900
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.75	Cornelia de Lange syndrome	OMIM:122470
+4	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.65	CHARGE syndrome	OMIM:214800
+6	0.6	3C syndrome	OMIM:613792
+7	0.55	Miller-Dieker syndrome	OMIM:247200
+8	0.5	Pitt-Hopkins syndrome	OMIM:610954
+9	0.45	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.4	Shprintzen-Goldberg syndrome	OMIM:182212

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.8	CHARGE syndrome	OMIM:214800
+3	0.7	Pendred syndrome	OMIM:274600
+4	0.6	Congenital hypothyroidism	OMIM:218700
+5	0.5	Thyroid dyshormonogenesis 1	OMIM:274400
+6	0.4	Schinzel-Giedion midface retraction syndrome	OMIM:269150
+7	0.3	Velocardiofacial syndrome	OMIM:192430
+8	0.2	22q11.2 deletion syndrome	OMIM:611867

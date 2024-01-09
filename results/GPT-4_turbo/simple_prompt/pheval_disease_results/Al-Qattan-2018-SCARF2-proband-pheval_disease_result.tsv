@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Marfan Syndrome	OMIM:154700
+2	0.65	Freeman-Sheldon Syndrome	OMIM:193700
+3	0.6	Ohdo Syndrome, Blepharophimosis Type	OMIM:249620
+4	0.55	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+5	0.5	Stickler Syndrome	OMIM:108300
+5	0.5	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.45	Larsen Syndrome	OMIM:150250

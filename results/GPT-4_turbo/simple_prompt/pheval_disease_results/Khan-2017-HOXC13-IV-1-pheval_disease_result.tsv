@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alopecia universalis	OMIM:203655
+2	0.9	Ectodermal dysplasia	OMIM:129490
+3	0.85	Anonychia congenita	OMIM:206800
+3	0.85	Hypohidrotic ectodermal dysplasia	OMIM:305100

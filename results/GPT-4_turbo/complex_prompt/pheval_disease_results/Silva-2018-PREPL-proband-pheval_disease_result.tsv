@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Prader-Willi Syndrome	OMIM:176270
+2	0.7	Marfan Syndrome	OMIM:154700
+3	0.65	Congenital Myasthenic Syndrome	OMIM:601462
+4	0.6	Myotonic Dystrophy	OMIM:160900
+5	0.55	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.5	Fragile X Syndrome	OMIM:300624
+7	0.45	Velocardiofacial Syndrome	OMIM:192430
+8	0.4	Baraitser-Winter Syndrome 1	OMIM:243310

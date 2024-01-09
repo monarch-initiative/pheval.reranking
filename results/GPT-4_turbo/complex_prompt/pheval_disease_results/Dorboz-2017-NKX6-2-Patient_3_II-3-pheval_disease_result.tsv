@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert Syndrome	OMIM:213300
+2	0.8	Mitochondrial DNA Depletion Syndrome 12 (Cardiomyopathic Type)	OMIM:615418
+3	0.7	Leigh Syndrome	OMIM:256000
+4	0.6	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+4	0.6	Dentatorubral-Pallidoluysian Atrophy	OMIM:125370
+6	0.5	Neuronal Ceroid Lipofuscinosis	OMIM:204200
+6	0.5	Perrault Syndrome	OMIM:233400
+6	0.5	Spinocerebellar Ataxia Type 2	OMIM:183090
+9	0.4	Rett Syndrome	OMIM:312750
+9	0.4	Mitochondrial Complex I Deficiency	OMIM:252010

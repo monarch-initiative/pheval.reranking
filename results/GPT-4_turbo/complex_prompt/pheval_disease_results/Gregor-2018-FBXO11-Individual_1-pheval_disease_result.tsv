@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Coffin-Siris Syndrome	OMIM:135900
+3	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.6	Barber-Say Syndrome	OMIM:209885
+5	0.5	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.4	Wiedemann-Steiner Syndrome	OMIM:605130

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amelogenesis Imperfecta, Type Ia	OMIM:104530
+2	0.93	Amelogenesis Imperfecta, Type Ic	OMIM:204650
+3	0.91	Amelogenesis Imperfecta, Type Iiia	OMIM:130600
+4	0.87	Amelogenesis Imperfecta, Type Iv	OMIM:104510
+5	0.85	Amelogenesis Imperfecta, Type Iid	OMIM:615887
+6	0.82	Dentinogenesis Imperfecta, Shields Type Ii	OMIM:125490
+7	0.8	Amelogenesis Imperfecta, Type Ib	OMIM:104500
+8	0.78	Amelogenesis Imperfecta, Hypoplastic Type, With Sensitive Teeth	OMIM:614529
+9	0.76	Odontohypophosphatasia	OMIM:241510
+10	0.74	Amelogenesis Imperfecta And Nephrocalcinosis	OMIM:204690

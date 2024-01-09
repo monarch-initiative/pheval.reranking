@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Prader-Willi syndrome	OMIM:176270
+2	0.84	Smith-Magenis syndrome	OMIM:182290
+3	0.82	Williams syndrome	OMIM:194050
+4	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.78	Coffin-Lowry syndrome	OMIM:303600
+6	0.77	Kleefstra syndrome	OMIM:610253
+7	0.75	Fragile X syndrome	OMIM:300624
+8	0.74	Rett syndrome	OMIM:312750
+9	0.72	Loeys-Dietz syndrome	OMIM:609192
+10	0.7	Cornelia de Lange syndrome	OMIM:122470

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schimke Immunoosseous Dysplasia	OMIM:242900
+2	0.8	Hypereosinophilic Syndrome, Idiopathic	OMIM:607685
+3	0.7	Cartilage-Hair Hypoplasia	OMIM:250250
+4	0.6	Short-Rib Thoracic Dysplasia 3 with or without Polydactyly	OMIM:613091
+4	0.6	Laron Syndrome	OMIM:262500
+6	0.5	Mulibrey Nanism	OMIM:253250
+6	0.5	3-M Syndrome	OMIM:273750
+8	0.4	Noonan Syndrome	OMIM:163950
+9	0.3	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+10	0.2	DiGeorge Syndrome	OMIM:188400

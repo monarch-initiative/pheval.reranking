@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia, autosomal recessive 13	OMIM:614831
+2	0.85	MECP2 duplication syndrome	OMIM:300260
+2	0.85	Rett syndrome	OMIM:312750
+4	0.82	Neuronal ceroid lipofuscinosis	OMIM:204200
+5	0.8	Joubert syndrome	OMIM:213300
+6	0.78	Wilson disease	OMIM:277900
+7	0.75	Friedreich ataxia	OMIM:229300
+8	0.73	Barth syndrome	OMIM:302060
+9	0.71	Duchenne muscular dystrophy	OMIM:310200
+10	0.7	Gingival fibromatosis	OMIM:135300

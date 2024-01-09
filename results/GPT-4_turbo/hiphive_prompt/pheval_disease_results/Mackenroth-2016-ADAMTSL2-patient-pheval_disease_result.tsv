@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Achondroplasia	OMIM:100800
+2	0.93	Hypochondroplasia	OMIM:146000
+3	0.91	Thanatophoric Dysplasia Type 1	OMIM:187600
+4	0.87	Diastrophic Dysplasia	OMIM:222600
+5	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.83	Noonan Syndrome	OMIM:163950
+7	0.82	Cleidocranial Dysplasia	OMIM:119600
+8	0.81	Cartilage-Hair Hypoplasia	OMIM:250250
+9	0.79	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+10	0.77	Ellis-van Creveld Syndrome	OMIM:225500

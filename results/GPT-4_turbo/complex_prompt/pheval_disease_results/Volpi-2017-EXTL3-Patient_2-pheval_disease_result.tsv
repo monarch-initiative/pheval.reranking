@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer syndrome	OMIM:101600
+2	0.8	Thanatophoric Dysplasia	OMIM:187600
+3	0.7	Apert syndrome	OMIM:101200
+4	0.6	Crouzon syndrome	OMIM:123500
+5	0.5	SCID, X-linked	OMIM:300400
+6	0.4	SCID with ADA deficiency	OMIM:102700
+7	0.3	SCID due to JAK3 deficiency	OMIM:600802
+8	0.2	VACTERL association	OMIM:192350
+9	0.1	Carpenter syndrome	OMIM:201000

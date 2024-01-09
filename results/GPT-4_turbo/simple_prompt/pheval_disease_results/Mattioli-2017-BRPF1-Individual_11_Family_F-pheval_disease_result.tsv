@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.65	Smith-Magenis syndrome	OMIM:182290
+3	0.6	Prader-Willi syndrome	OMIM:176270
+4	0.55	Down syndrome	OMIM:190685
+5	0.5	Williams syndrome	OMIM:194050

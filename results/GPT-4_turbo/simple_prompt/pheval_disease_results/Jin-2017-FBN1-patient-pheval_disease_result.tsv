@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange Syndrome	OMIM:122470
+2	0.9	3M Syndrome	OMIM:273750
+3	0.87	Coffin-Siris Syndrome	OMIM:135900
+4	0.85	Larsen Syndrome	OMIM:150250
+5	0.82	Geleophysic Dysplasia	OMIM:231050
+6	0.8	Robinow Syndrome	OMIM:268310
+7	0.78	Smith-McCort Dysplasia	OMIM:607326
+8	0.75	Schwartz-Jampel Syndrome	OMIM:255800

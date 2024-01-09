@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Galactosemia	OMIM:230400
+2	0.72	Alagille Syndrome	OMIM:118450
+3	0.7	Zellweger Syndrome	OMIM:214100
+4	0.68	Crigler-Najjar Syndrome	OMIM:218800
+5	0.66	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+6	0.65	Maple Syrup Urine Disease	OMIM:248600
+7	0.63	Urea Cycle Disorders	OMIM:605014
+8	0.61	Neuronal Ceroid Lipofuscinosis	OMIM:256730
+9	0.59	Phenylketonuria	OMIM:261600
+10	0.58	Tyrosinemia Type I	OMIM:276700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amelogenesis Imperfecta, Type Iv	OMIM:104510
+2	0.9	Amelogenesis Imperfecta, Type Iiia	OMIM:614253
+3	0.85	Amelogenesis Imperfecta, Type Ia	OMIM:301200
+3	0.85	Amelogenesis Imperfecta, Type Ic	OMIM:204650
+3	0.85	Amelogenesis Imperfecta, Type Ib	OMIM:104500
+6	0.8	Amelogenesis Imperfecta, Type IId	OMIM:615887
+6	0.8	Amelogenesis Imperfecta, Type Ic	OMIM:204690
+8	0.75	Amelogenesis Imperfecta, Type Ig	OMIM:617297
+8	0.75	Amelogenesis Imperfecta, Type If	OMIM:616221
+8	0.75	Amelogenesis Imperfecta, Type Ie	OMIM:611600

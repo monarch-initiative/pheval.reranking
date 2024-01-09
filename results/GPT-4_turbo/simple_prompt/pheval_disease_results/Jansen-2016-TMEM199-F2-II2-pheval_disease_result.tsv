@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.75	Alpha-1 Antitrypsin Deficiency	OMIM:613490
+3	0.65	Alagille Syndrome	OMIM:118450
+4	0.55	Gilbert Syndrome	OMIM:143500
+5	0.45	Citrullinemia, Type I	OMIM:215700
+6	0.4	Non-alcoholic Fatty Liver Disease	OMIM:613282
+7	0.3	Familial Hypercholesterolemia	OMIM:143890
+8	0.2	Zellweger Syndrome	OMIM:214100

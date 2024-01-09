@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Hereditary spastic paraplegia	OMIM:303350
+2	0.85	Multiple sclerosis	OMIM:126200
+3	0.83	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.82	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.78	Spinal muscular atrophy	OMIM:253300
+6	0.76	Cerebral palsy	OMIM:603513
+7	0.75	Congenital insensitivity to pain with anhidrosis	OMIM:256800
+8	0.73	Familial hemiplegic migraine	OMIM:141500
+9	0.72	Adrenomyeloneuropathy	OMIM:300100
+10	0.7	Leukodystrophy, metachromatic	OMIM:250100

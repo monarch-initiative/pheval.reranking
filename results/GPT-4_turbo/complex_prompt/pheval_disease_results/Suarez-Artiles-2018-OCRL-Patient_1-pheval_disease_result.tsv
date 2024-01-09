@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lowe syndrome	OMIM:309000
+2	0.8	Cystinosis	OMIM:219800
+3	0.7	Fanconi-Bickel syndrome	OMIM:227810
+4	0.6	Galactosemia	OMIM:230400
+5	0.5	Wilson disease	OMIM:277900
+6	0.4	Alport syndrome	OMIM:301050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris Syndrome	OMIM:135900
+2	0.83	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+3	0.81	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.79	Cornelia de Lange Syndrome 1	OMIM:122470
+5	0.77	Wiedemann-Steiner Syndrome	OMIM:605130
+6	0.75	Mowat-Wilson Syndrome	OMIM:235730
+7	0.73	Hyper IgE Syndrome	OMIM:147060
+8	0.71	Kabuki Syndrome	OMIM:147920
+9	0.69	Sotos Syndrome 1	OMIM:117550
+10	0.67	Floating-Harbor Syndrome	OMIM:136140

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett Syndrome	OMIM:312750
+2	0.93	Angelman Syndrome	OMIM:105830
+3	0.91	Mowat-Wilson Syndrome	OMIM:235730
+4	0.89	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.87	Prader-Willi Syndrome	OMIM:176270
+6	0.85	2q23.1 Microdeletion Syndrome	OMIM:156200
+7	0.83	MECP2 Duplication Syndrome	OMIM:300260
+8	0.81	West Syndrome	OMIM:308350
+9	0.79	Smith-Magenis Syndrome	OMIM:182290
+10	0.77	CDKL5 Deficiency Disorder	OMIM:300203

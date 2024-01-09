@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.8	Progressive bulbar palsy, adult onset	OMIM:608874
+3	0.7	Primary lateral sclerosis	OMIM:611637
+4	0.6	Multiple sclerosis	OMIM:126200
+5	0.5	Spinal muscular atrophy	OMIM:253300
+6	0.4	Wilson disease	OMIM:277900
+7	0.3	Alexander disease	OMIM:203450
+8	0.2	Machado-Joseph disease	OMIM:109150
+9	0.1	Poliomyelitis	OMIM:317700

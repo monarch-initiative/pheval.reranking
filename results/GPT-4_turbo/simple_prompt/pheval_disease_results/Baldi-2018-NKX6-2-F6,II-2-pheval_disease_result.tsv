@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.92	Metachromatic Leukodystrophy	OMIM:250100
+3	0.9	Alexander Disease	OMIM:203500
+4	0.88	Canavan Disease	OMIM:271900
+5	0.86	Vanishing White Matter Disease	OMIM:603896
+6	0.85	X-linked Adrenoleukodystrophy	OMIM:300100
+7	0.83	Krabbe Disease	OMIM:245200
+8	0.81	Megalencephalic Leukoencephalopathy with Subcortical Cysts	OMIM:604004
+9	0.79	Aicardi-Goutieres Syndrome	OMIM:225750
+10	0.77	Cockayne Syndrome	OMIM:216400

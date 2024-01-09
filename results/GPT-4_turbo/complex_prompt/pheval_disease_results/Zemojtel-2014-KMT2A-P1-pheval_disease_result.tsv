@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Albright hereditary osteodystrophy	OMIM:103580
+2	0.8	3-M syndrome	OMIM:273750
+3	0.7	McCune-Albright syndrome	OMIM:174800
+4	0.6	Noonan syndrome	OMIM:163950
+5	0.5	LEOPARD syndrome	OMIM:151100
+6	0.4	Mucopolysaccharidosis type III	OMIM:252900

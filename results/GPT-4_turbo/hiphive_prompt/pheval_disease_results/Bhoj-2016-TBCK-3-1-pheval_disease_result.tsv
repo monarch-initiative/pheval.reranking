@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	22q13.3 deletion syndrome	OMIM:606232
+2	0.87	Rett syndrome	OMIM:312750
+3	0.85	Fragile X syndrome	OMIM:300624
+4	0.83	Smith-Magenis syndrome	OMIM:182290
+5	0.82	Williams syndrome	OMIM:194050
+6	0.8	Autosomal dominant intellectual disability	OMIM:615075
+7	0.78	Timothy syndrome	OMIM:601005
+8	0.76	CHARGE syndrome	OMIM:214800
+9	0.74	Cornelia de Lange syndrome	OMIM:122470
+10	0.72	Phelan-McDermid syndrome	OMIM:606232

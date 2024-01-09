@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.9	Rett syndrome	OMIM:312750
+3	0.85	Angelman syndrome	OMIM:105830
+3	0.85	Spastic paraplegia 2	OMIM:312920
+5	0.8	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+5	0.8	Cerebral palsy, spastic quadriplegic	OMIM:603513
+7	0.75	MECP2 duplication syndrome	OMIM:300260
+7	0.75	Tuberous sclerosis-1	OMIM:191100
+7	0.75	Aicardi-Goutieres syndrome 1	OMIM:225750
+10	0.7	Zellweger syndrome	OMIM:214100

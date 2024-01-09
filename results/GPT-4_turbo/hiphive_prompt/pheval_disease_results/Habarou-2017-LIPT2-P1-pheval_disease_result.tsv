@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pitt-Hopkins syndrome	OMIM:610954
+2	0.88	Rett syndrome	OMIM:312750
+3	0.85	Leigh syndrome	OMIM:256000
+4	0.83	Non-ketotic hyperglycinemia	OMIM:605899
+5	0.81	Angelman syndrome	OMIM:105830
+6	0.78	Lissencephaly	OMIM:607432
+7	0.76	MECP2 duplication syndrome	OMIM:300260
+8	0.74	X-linked lissencephaly with abnormal genitalia	OMIM:300215
+9	0.72	Canavan disease	OMIM:271900
+10	0.7	Dopa-responsive dystonia	OMIM:128230

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+3	0.7	Cardiofaciocutaneous Syndrome	OMIM:115150
+4	0.6	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.4	22q11.2 Deletion Syndrome	OMIM:188400
+7	0.3	Nicolaides-Baraitser Syndrome	OMIM:601358

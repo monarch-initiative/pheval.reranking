@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Lennox-Gastaut syndrome	OMIM:606369
+4	0.75	West syndrome	OMIM:308350
+5	0.7	Dravet syndrome	OMIM:607208

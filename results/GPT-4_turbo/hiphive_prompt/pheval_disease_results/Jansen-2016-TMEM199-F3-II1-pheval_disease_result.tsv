@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Familial hypercholesterolemia	OMIM:143890
+2	0.9	Wilson Disease	OMIM:277900
+3	0.85	Congenital Disorders of Glycosylation, Type Ia	OMIM:212065
+4	0.8	Alagille Syndrome	OMIM:118450
+5	0.78	Glycogen storage disease type II	OMIM:232300
+6	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.7	Spinal Muscular Atrophy	OMIM:253300
+8	0.68	Niemann-Pick Disease	OMIM:257220
+9	0.65	Mitochondrial Complex I Deficiency	OMIM:252010
+10	0.6	Mevalonic Aciduria	OMIM:251170

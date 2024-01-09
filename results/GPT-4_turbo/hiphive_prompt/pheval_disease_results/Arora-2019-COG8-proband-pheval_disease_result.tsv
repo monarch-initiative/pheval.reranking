@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pena-Shokeir syndrome type I	OMIM:208150
+2	0.82	Barth Syndrome	OMIM:302060
+3	0.81	Marden-Walker Syndrome	OMIM:248700
+4	0.79	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.76	Noonan Syndrome	OMIM:163950
+6	0.75	Freeman-Sheldon Syndrome	OMIM:193700
+7	0.74	Pfeiffer Syndrome	OMIM:101600
+8	0.73	Coffin-Siris Syndrome	OMIM:135900
+9	0.71	Donnai-Barrow Syndrome	OMIM:222448
+10	0.69	Zellweger Spectrum Disorder	OMIM:214100

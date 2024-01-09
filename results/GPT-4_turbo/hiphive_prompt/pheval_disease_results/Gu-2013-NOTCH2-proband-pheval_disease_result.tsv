@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.89	Osteogenesis imperfecta, type I	OMIM:166200
+3	0.88	Pseudohypoparathyroidism type 1A	OMIM:103580
+4	0.86	Multiple epiphyseal dysplasia	OMIM:132400
+5	0.85	Kenny-Caffey syndrome type 1	OMIM:244460
+6	0.84	Hajdu-Cheney syndrome	OMIM:102500
+7	0.82	McCune-Albright syndrome	OMIM:174800
+8	0.81	Stickler syndrome, type I	OMIM:108300
+9	0.79	CAMFAK syndrome	OMIM:212540
+10	0.77	Craniometaphyseal dysplasia	OMIM:123000

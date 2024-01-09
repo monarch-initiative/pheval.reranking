@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.75	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.7	Noonan Syndrome	OMIM:163950
+4	0.65	Prader-Willi Syndrome	OMIM:176270
+5	0.6	Pierre Robin Sequence	OMIM:261800
+5	0.6	CHARGE Syndrome	OMIM:214800
+7	0.55	Marfan Syndrome	OMIM:154700
+8	0.5	Turner Syndrome	OMIM:300400

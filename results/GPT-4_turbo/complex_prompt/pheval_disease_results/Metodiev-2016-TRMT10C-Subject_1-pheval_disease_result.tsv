@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Leigh syndrome	OMIM:256000
+3	0.8	Mitochondrial DNA depletion syndrome	OMIM:251880
+4	0.75	Mitochondrial myopathy	OMIM:500001
+5	0.7	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+6	0.65	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+7	0.6	Cytochrome c oxidase deficiency	OMIM:220110
+8	0.55	Mitochondrial complex III deficiency	OMIM:124000
+9	0.5	Mitochondrial complex IV deficiency	OMIM:220110
+10	0.45	Pearson marrow-pancreas syndrome	OMIM:557000

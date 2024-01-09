@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial myopathy	OMIM:500009
+2	0.89	Limb-girdle muscular dystrophy	OMIM:253600
+3	0.87	Becker muscular dystrophy	OMIM:300376
+4	0.85	Myotonic dystrophy	OMIM:160900
+5	0.83	Charcot-Marie-Tooth disease	OMIM:118220
+6	0.81	McArdle disease	OMIM:232600
+7	0.78	Pompe disease	OMIM:232300
+8	0.76	Duchenne muscular dystrophy	OMIM:310200
+9	0.73	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+10	0.7	Amyotrophic lateral sclerosis	OMIM:105400

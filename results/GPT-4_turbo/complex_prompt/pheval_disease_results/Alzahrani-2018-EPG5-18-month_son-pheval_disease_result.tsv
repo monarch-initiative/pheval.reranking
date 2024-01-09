@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Mowat-Wilson Syndrome	OMIM:235730
+2	0.7	Baraitser-Winter syndrome 1	OMIM:243310
+3	0.65	Dubowitz Syndrome	OMIM:223370
+4	0.6	Cohen Syndrome	OMIM:216550
+5	0.55	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.5	Noonan Syndrome	OMIM:163950
+7	0.45	Lujan-Fryns Syndrome	OMIM:309520
+8	0.4	CHARGE Syndrome	OMIM:214800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.9	Angelman syndrome	OMIM:105830
+3	0.85	Lissencephaly	OMIM:607432
+3	0.85	West syndrome	OMIM:308350
+5	0.8	Pitt-Hopkins syndrome	OMIM:610954
+5	0.8	MECP2 duplication syndrome	OMIM:300260
+7	0.75	Dandy-Walker syndrome	OMIM:220200
+7	0.75	Zellweger syndrome	OMIM:214100
+9	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.7	Cornelia de Lange syndrome	OMIM:122470

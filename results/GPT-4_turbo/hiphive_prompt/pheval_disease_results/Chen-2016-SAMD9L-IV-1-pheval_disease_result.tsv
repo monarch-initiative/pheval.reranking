@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.96	Friedreich ataxia	OMIM:229300
+3	0.95	Ataxia-telangiectasia	OMIM:208900
+4	0.94	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.93	Spinocerebellar ataxia type 7	OMIM:164500
+6	0.92	Spinocerebellar ataxia type 6	OMIM:183086
+7	0.91	Wilson disease	OMIM:277900
+8	0.9	Spinocerebellar ataxia type 2	OMIM:183090
+9	0.89	Multiple system atrophy, cerebellar type	OMIM:607459
+10	0.88	Episodic ataxia type 2	OMIM:108500

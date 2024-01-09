@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ichthyosis, Congenital, Autosomal Recessive 4B	OMIM:615024
+2	0.85	Sjögren-Larsson Syndrome	OMIM:270200
+3	0.8	Trichothiodystrophy 1, Photosensitive	OMIM:601675
+4	0.75	Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Nail Type, Autosomal Dominant	OMIM:614940
+5	0.7	IFAP Syndrome with or without BRESHECK Syndrome	OMIM:308205

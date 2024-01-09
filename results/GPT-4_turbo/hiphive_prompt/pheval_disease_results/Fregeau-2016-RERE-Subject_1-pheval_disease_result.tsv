@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.92	Noonan Syndrome	OMIM:163950
+3	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.88	Williams Syndrome	OMIM:194050
+5	0.86	Cohen Syndrome	OMIM:216550
+6	0.84	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.82	Cornelia de Lange Syndrome	OMIM:122470
+8	0.8	Velocardiofacial Syndrome	OMIM:192430
+9	0.78	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.76	Marfan Syndrome	OMIM:154700

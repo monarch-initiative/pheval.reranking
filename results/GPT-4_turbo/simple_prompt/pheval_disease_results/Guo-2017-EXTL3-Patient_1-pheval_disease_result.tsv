@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis type IV	OMIM:253000
+2	0.85	Asphyxiating thoracic dystrophy	OMIM:208500
+3	0.75	Gaucher disease type 2	OMIM:230900
+4	0.7	Cleidocranial dysostosis	OMIM:119600
+5	0.65	Schwartz-Jampel syndrome	OMIM:255800
+6	0.6	Dyssegmental dysplasia	OMIM:224400
+7	0.55	Metatropic dysplasia	OMIM:250600

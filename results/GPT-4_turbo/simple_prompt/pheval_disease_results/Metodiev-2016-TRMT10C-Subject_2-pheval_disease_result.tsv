@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial complex I deficiency	OMIM:252010
+2	0.92	Pyruvate dehydrogenase deficiency	OMIM:312170
+3	0.9	Leigh syndrome	OMIM:256000
+4	0.88	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS)	OMIM:540000
+5	0.85	Alpers syndrome	OMIM:203700
+6	0.83	Cardiomyopathy-hypotonia-lactic acidosis syndrome	OMIM:245590

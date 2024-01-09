@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Apert Syndrome	OMIM:101200
+2	0.9	Crouzon Syndrome	OMIM:123500
+3	0.8	Pfeiffer Syndrome	OMIM:101600
+4	0.7	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.6	Noonan Syndrome	OMIM:163950
+6	0.5	Carpenter Syndrome	OMIM:201000
+7	0.4	Cornelia de Lange Syndrome	OMIM:122470
+8	0.3	Treacher Collins Syndrome	OMIM:154500
+9	0.2	Fetal alcohol syndrome	OMIM:159900
+10	0.1	Antley-Bixler Syndrome	OMIM:207410

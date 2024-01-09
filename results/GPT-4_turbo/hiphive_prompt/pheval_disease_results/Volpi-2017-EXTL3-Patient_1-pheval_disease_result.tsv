@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Gaucher Disease	OMIM:230800
+2	0.84	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.81	Joubert Syndrome	OMIM:213300
+4	0.78	Stuve-Wiedemann Syndrome	OMIM:601559
+5	0.77	Hyper-IgE Recurrent Infection Syndrome	OMIM:147060
+6	0.75	Coffin-Siris Syndrome	OMIM:135900
+7	0.74	Schinzel-Giedion Syndrome	OMIM:269150
+8	0.72	Zellweger Syndrome	OMIM:214100
+9	0.7	Laron Syndrome	OMIM:262500
+10	0.69	Wiskott-Aldrich Syndrome	OMIM:301000

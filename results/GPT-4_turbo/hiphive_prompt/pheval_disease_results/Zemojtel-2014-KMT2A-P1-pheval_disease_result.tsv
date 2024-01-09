@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.9	3M Syndrome	OMIM:273750
+3	0.88	Noonan Syndrome	OMIM:163950
+4	0.85	Williams Syndrome	OMIM:194050
+5	0.83	Smith-Magenis Syndrome	OMIM:182290
+6	0.8	Costello Syndrome	OMIM:218040
+7	0.78	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.75	Silver-Russell Syndrome	OMIM:180860
+9	0.73	Kabuki Syndrome	OMIM:147920
+10	0.7	Coffin-Siris Syndrome	OMIM:135900

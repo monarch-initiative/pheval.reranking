@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Bardet-Biedl Syndrome	OMIM:209900
+2	0.7	Cranioectodermal Dysplasia	OMIM:218330
+3	0.65	Ellis-van Creveld Syndrome	OMIM:225500
+4	0.6	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.55	Cockayne Syndrome	OMIM:216400
+7	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.45	Perrault Syndrome	OMIM:233400
+9	0.4	Cornelia de Lange Syndrome	OMIM:122470
+10	0.35	Alagille Syndrome	OMIM:118450

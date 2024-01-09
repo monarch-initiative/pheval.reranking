@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism, susceptibility to, 1	OMIM:209850
+2	0.85	Fragile X Syndrome	OMIM:300624
+3	0.8	22q13.3 Deletion Syndrome	OMIM:606232
+4	0.75	Rett Syndrome	OMIM:312750
+5	0.7	Angelman Syndrome	OMIM:105830
+6	0.65	Prader-Willi Syndrome	OMIM:176270
+7	0.6	Smith-Magenis Syndrome	OMIM:182290
+8	0.55	Williams Syndrome	OMIM:194050
+9	0.5	Coffin-Lowry Syndrome	OMIM:303600
+10	0.45	Mowat-Wilson Syndrome	OMIM:235730

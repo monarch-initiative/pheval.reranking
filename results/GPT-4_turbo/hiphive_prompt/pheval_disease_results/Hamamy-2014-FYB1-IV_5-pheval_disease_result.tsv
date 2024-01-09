@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wiskott-Aldrich Syndrome	OMIM:301000
+2	0.9	MYH9-Related Disorders	OMIM:160775
+3	0.85	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+3	0.85	Bernard-Soulier Syndrome	OMIM:231200
+5	0.8	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+5	0.8	X-Linked Thrombocytopenia	OMIM:313900
+5	0.8	Paris-Trousseau Thrombocytopenia	OMIM:188025
+8	0.75	Glanzmann Thrombasthenia	OMIM:273800
+8	0.75	May-Hegglin Anomaly	OMIM:155100
+10	0.7	Gray Platelet Syndrome	OMIM:139090

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tay-Sachs Disease	OMIM:272800
+2	0.9	Sandhoff Disease	OMIM:268800
+3	0.85	GM1 Gangliosidosis	OMIM:230500
+4	0.8	Mucolipidosis II	OMIM:252500
+5	0.75	Mucolipidosis III	OMIM:252600
+6	0.7	Mucolipidosis IV	OMIM:252650

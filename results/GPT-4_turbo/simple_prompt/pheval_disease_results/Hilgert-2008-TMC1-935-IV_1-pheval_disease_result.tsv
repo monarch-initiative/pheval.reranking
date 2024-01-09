@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher Syndrome, Type 1	OMIM:276900
+2	0.9	Usher Syndrome, Type 2	OMIM:276901
+3	0.85	Usher Syndrome, Type 3	OMIM:276902
+4	0.8	Waardenburg Syndrome, Type 1	OMIM:193500
+5	0.75	Waardenburg Syndrome, Type 3	OMIM:148820
+6	0.7	Pendred Syndrome	OMIM:274600
+7	0.65	Branchio-Oto-Renal Syndrome	OMIM:113650
+8	0.6	Norrie Disease	OMIM:310600

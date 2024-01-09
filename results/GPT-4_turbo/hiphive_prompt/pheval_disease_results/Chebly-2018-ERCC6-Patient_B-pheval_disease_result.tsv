@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cockayne Syndrome	OMIM:216400
+2	0.92	Xeroderma Pigmentosum	OMIM:278700
+3	0.88	Trichothiodystrophy	OMIM:601675
+4	0.85	Bloom Syndrome	OMIM:210900
+5	0.82	Microcephaly-Capillary Malformation Syndrome	OMIM:614261
+6	0.8	Rothmund-Thomson Syndrome	OMIM:268400
+7	0.78	Werner Syndrome	OMIM:277700
+8	0.75	Poikiloderma with Neutropenia	OMIM:604173
+9	0.73	Nijmegen Breakage Syndrome	OMIM:251260
+10	0.71	Ataxia-Telangiectasia	OMIM:208900

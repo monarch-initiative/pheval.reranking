@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial myopathy	OMIM:500001
+2	0.8	Charcot-Marie-Tooth disease type 2A1	OMIM:118210
+3	0.7	Parkinson disease, late-onset	OMIM:168600
+4	0.6	Neurodegeneration with brain iron accumulation 1	OMIM:234200

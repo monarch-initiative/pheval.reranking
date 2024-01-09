@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Prader-Willi syndrome	OMIM:176270
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Down syndrome	OMIM:190685
+5	0.5	Fragile X syndrome	OMIM:300624
+5	0.5	Duchenne muscular dystrophy	OMIM:310200
+5	0.5	Spinal muscular atrophy	OMIM:253300
+8	0.4	Myotonic dystrophy	OMIM:160900
+9	0.3	Congenital disorders of glycosylation	OMIM:212065
+9	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+3	0.8	Rett syndrome	OMIM:312750
+4	0.75	Leigh syndrome	OMIM:256000
+5	0.7	MECP2 duplication syndrome	OMIM:300260

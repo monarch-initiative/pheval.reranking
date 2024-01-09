@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Pallister-Hall syndrome	OMIM:146510
+3	0.7	Cornelia de Lange syndrome	OMIM:122470
+4	0.6	Bardet-Biedl syndrome	OMIM:209900
+5	0.5	Meckel syndrome	OMIM:249000
+6	0.4	Joubert syndrome	OMIM:213300
+7	0.3	Kabuki syndrome	OMIM:147920
+8	0.2	Carpenter syndrome	OMIM:201000

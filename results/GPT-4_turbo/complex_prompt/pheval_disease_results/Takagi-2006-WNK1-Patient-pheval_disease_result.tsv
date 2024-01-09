@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease	OMIM:118220
+2	0.8	Hereditary Sensory and Autonomic Neuropathy Type I	OMIM:162400
+3	0.7	Diabetic Neuropathy	OMIM:603933

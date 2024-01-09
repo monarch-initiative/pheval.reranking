@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nemaline myopathy 2, autosomal recessive	OMIM:256030
+2	0.8	Nemaline myopathy 1, autosomal dominant or sporadic	OMIM:609284
+3	0.7	Nemaline myopathy 3, autosomal dominant	OMIM:161800
+4	0.6	Nemaline myopathy 4, autosomal dominant	OMIM:609285
+5	0.5	Nemaline myopathy 5, autosomal dominant or sporadic	OMIM:605355
+6	0.4	Nemaline myopathy 6, autosomal recessive	OMIM:609273
+7	0.3	Nemaline myopathy 7, autosomal recessive	OMIM:610687
+8	0.2	Nemaline myopathy 8, autosomal dominant	OMIM:615348
+9	0.1	Nemaline myopathy 9, with ophthalmoplegia	OMIM:615731
+10	0.05	Nemaline myopathy 10, with minicores	OMIM:616165

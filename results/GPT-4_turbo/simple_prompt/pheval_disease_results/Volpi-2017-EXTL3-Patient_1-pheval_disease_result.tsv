@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rhizomelic chondrodysplasia punctata	OMIM:215100
+2	0.8	Seckel syndrome	OMIM:210600
+3	0.75	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.7	X-linked lymphoproliferative disease	OMIM:308240
+5	0.65	Stüve-Wiedemann syndrome	OMIM:601559

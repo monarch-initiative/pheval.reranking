@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous Sclerosis 1	OMIM:191100
+2	0.94	Tuberous Sclerosis 2	OMIM:613254
+3	0.75	Neurofibromatosis, Type 1	OMIM:162200
+4	0.65	Legius Syndrome	OMIM:611431
+5	0.6	Sturge-Weber Syndrome	OMIM:185300
+6	0.59	Gorlin Syndrome	OMIM:109400
+7	0.55	Waardenburg Syndrome Type 2A	OMIM:193510
+8	0.53	Proteus Syndrome	OMIM:176920
+9	0.52	Piebaldism	OMIM:172800
+10	0.51	Birt-Hogg-Dube Syndrome	OMIM:135150

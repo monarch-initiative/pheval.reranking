@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Prader-Willi Syndrome	OMIM:176270
+2	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.78	Noonan Syndrome	OMIM:163950
+4	0.75	Smith-Magenis Syndrome	OMIM:182290
+5	0.73	Williams Syndrome	OMIM:194050
+6	0.71	Silver-Russell Syndrome	OMIM:180860
+7	0.7	Turner Syndrome	OMIM:300400
+8	0.68	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.65	Coffin-Lowry Syndrome	OMIM:303600
+10	0.6	Down Syndrome	OMIM:190685

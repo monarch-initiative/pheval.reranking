@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic Lupus Erythematosus	OMIM:152700
+2	0.85	Dermatomyositis	OMIM:607000
+3	0.83	Scleroderma, Systemic	OMIM:181750
+4	0.75	Ehlers-Danlos Syndrome	OMIM:130000
+5	0.72	Nephrotic Syndrome	OMIM:256300
+6	0.71	Muckle-Wells Syndrome	OMIM:191900
+7	0.69	Crohn's Disease	OMIM:266600
+8	0.65	Amyloidosis	OMIM:105200
+9	0.63	Celiac Disease	OMIM:212750
+10	0.61	Primary Biliary Cirrhosis	OMIM:109720

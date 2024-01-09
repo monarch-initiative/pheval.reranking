@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM syndrome	OMIM:308230
+2	0.8	Severe combined immunodeficiency	OMIM:102700
+3	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.6	Chediak-Higashi syndrome	OMIM:214500
+4	0.6	Dyskeratosis congenita	OMIM:305000
+6	0.5	Griscelli syndrome	OMIM:214450
+6	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.5	Chronic granulomatous disease	OMIM:306400
+9	0.4	Hemophagocytic lymphohistiocytosis, familial	OMIM:267700
+9	0.4	X-linked lymphoproliferative disease	OMIM:308240

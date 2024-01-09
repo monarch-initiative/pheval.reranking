@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+1	0.9	Hepatolenticular Degeneration	OMIM:277900
+3	0.75	Non-alcoholic Fatty Liver Disease	OMIM:613282
+4	0.7	Primary Biliary Cholangitis	OMIM:109720
+5	0.65	Indian Childhood Cirrhosis	OMIM:215600
+6	0.6	Acute Hepatic Porphyria	OMIM:176000

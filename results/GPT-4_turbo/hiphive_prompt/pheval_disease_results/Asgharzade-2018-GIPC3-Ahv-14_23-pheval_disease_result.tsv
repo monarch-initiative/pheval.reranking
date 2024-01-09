@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher Syndrome, Type 1	OMIM:276900
+2	0.9	Waardenburg Syndrome, Type 1	OMIM:193500
+3	0.88	Pendred Syndrome	OMIM:274600
+4	0.87	Biotinidase Deficiency	OMIM:253260
+5	0.85	Branchiootorenal Syndrome	OMIM:113650
+6	0.83	Stickler Syndrome, Type I	OMIM:108300
+7	0.82	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+8	0.81	Marshall Syndrome	OMIM:154780
+9	0.8	Treacher Collins Syndrome	OMIM:154500
+10	0.79	Charcot-Marie-Tooth Disease, Type 1B	OMIM:118200

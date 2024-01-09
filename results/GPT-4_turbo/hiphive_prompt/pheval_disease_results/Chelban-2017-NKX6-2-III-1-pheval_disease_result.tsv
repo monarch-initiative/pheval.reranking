@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+3	0.85	Metachromatic leukodystrophy	OMIM:250100
+4	0.8	Spinocerebellar ataxia type 7	OMIM:164500
+5	0.75	Multiple system atrophy, cerebellar type	OMIM:117210
+6	0.7	Neuronal ceroid lipofuscinoses	OMIM:204200
+7	0.65	Friedreich ataxia	OMIM:229300
+8	0.6	Niemann-Pick disease type C	OMIM:257220
+9	0.55	Leigh syndrome	OMIM:256000
+10	0.5	Wilson disease	OMIM:277900

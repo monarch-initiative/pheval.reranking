@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.65	CHARGE syndrome	OMIM:214800
+2	0.6	VACTERL association	OMIM:192350
+3	0.55	Cat eye syndrome	OMIM:115470
+4	0.5	Ballard syndrome	OMIM:219000
+5	0.45	Bardet-Biedl syndrome	OMIM:209900
+6	0.4	Shprintzen-Goldberg syndrome	OMIM:182212
+7	0.35	Pitt-Hopkins syndrome	OMIM:610954
+8	0.3	Townes-Brocks syndrome	OMIM:107480
+9	0.25	McKusick-Kaufman syndrome	OMIM:236700
+10	0.2	Joubert syndrome	OMIM:213300

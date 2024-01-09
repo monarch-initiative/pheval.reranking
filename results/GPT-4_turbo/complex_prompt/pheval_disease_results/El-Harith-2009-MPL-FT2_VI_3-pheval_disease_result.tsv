@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.8	Polycythemia Vera	OMIM:263300
+3	0.7	Primary Myelofibrosis	OMIM:254450
+4	0.6	Chronic Myelogenous Leukemia	OMIM:608232
+5	0.5	Myelodysplastic Syndromes	OMIM:614286
+6	0.4	Familial Thrombocytosis	OMIM:187950
+7	0.3	Reactive Thrombocytosis	OMIM:NA
+8	0.2	Iron Deficiency Anemia	OMIM:NA
+9	0.1	Inflammatory Diseases	OMIM:NA

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pfeiffer syndrome	OMIM:101600
+2	0.85	Saethre-Chotzen syndrome	OMIM:101400
+3	0.75	Carpenter syndrome	OMIM:201000
+4	0.7	Jackson-Weiss syndrome	OMIM:123150
+4	0.7	Apert syndrome	OMIM:101200

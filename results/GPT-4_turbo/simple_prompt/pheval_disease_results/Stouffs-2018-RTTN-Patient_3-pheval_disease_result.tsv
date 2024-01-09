@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.75	3-M syndrome	OMIM:273750
+2	0.72	Seckel syndrome	OMIM:210600
+3	0.7	Mowat-Wilson syndrome	OMIM:235730
+4	0.68	Cohen syndrome	OMIM:216550
+5	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.63	Lissencephaly	OMIM:607432
+7	0.6	Silver-Russell syndrome	OMIM:180860

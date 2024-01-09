@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Apert syndrome	OMIM:101200
+2	0.7	Pfeiffer syndrome	OMIM:101600
+3	0.6	Crouzon syndrome	OMIM:123500
+4	0.5	Saethre-Chotzen syndrome	OMIM:101400
+5	0.4	Carpenter syndrome	OMIM:201000
+6	0.3	Ballard syndrome	OMIM:219000

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Non-alcoholic fatty liver disease	OMIM:613282
+2	0.9	Wilson disease	OMIM:277900
+3	0.7	Hypercholesterolemia, familial	OMIM:143890
+4	0.65	Congenital disorders of glycosylation	OMIM:212065
+5	0.6	Alpha-1-antitrypsin deficiency	OMIM:613490
+6	0.55	Antithrombin III deficiency	OMIM:613118

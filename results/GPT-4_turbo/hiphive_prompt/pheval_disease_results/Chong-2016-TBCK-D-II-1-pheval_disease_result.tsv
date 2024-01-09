@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Prader-Willi syndrome	OMIM:176270
+3	0.8	Rett syndrome	OMIM:312750
+4	0.78	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.75	Coffin-Lowry syndrome	OMIM:303600
+6	0.73	Zellweger syndrome	OMIM:214100
+7	0.71	Canavan disease	OMIM:271900
+8	0.69	Fragile X syndrome	OMIM:300624
+9	0.67	CHARGE syndrome	OMIM:214800
+10	0.65	Miller-Dieker syndrome	OMIM:247200

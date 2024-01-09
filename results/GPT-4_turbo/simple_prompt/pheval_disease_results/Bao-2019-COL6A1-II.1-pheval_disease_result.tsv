@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Spinal muscular atrophy	OMIM:253300
+2	0.65	Myotonic dystrophy	OMIM:160900
+3	0.6	Congenital myopathies	OMIM:117000
+3	0.6	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.55	Becker muscular dystrophy	OMIM:300376
+6	0.5	Limb-girdle muscular dystrophy	OMIM:253600
+7	0.45	Polymyositis	OMIM:254260
+7	0.45	Dermatomyositis	OMIM:607728

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Smith-Magenis Syndrome	OMIM:182290
+3	0.75	Cohen Syndrome	OMIM:216550
+4	0.7	Prader-Willi Syndrome	OMIM:176270
+5	0.65	Autism Spectrum Disorder	OMIM:209850
+6	0.6	3-M Syndrome	OMIM:273750
+7	0.55	Noonan Syndrome	OMIM:163950
+8	0.5	Mucopolysaccharidosis Type III	OMIM:252900
+9	0.45	Marfan Syndrome	OMIM:154700
+10	0.4	Williams Syndrome	OMIM:194050

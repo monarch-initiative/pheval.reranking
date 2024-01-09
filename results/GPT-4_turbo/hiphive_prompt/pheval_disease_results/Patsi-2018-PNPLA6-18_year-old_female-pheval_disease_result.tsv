@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Refsum disease	OMIM:266500
+2	0.9	Cockayne syndrome	OMIM:216400
+3	0.85	Abetalipoproteinemia	OMIM:200100
+4	0.82	Marinesco-Sjogren syndrome	OMIM:248800
+5	0.8	Bardet-Biedl syndrome	OMIM:209900
+6	0.78	Friedreich ataxia	OMIM:229300
+7	0.75	Wolfram syndrome	OMIM:222300
+8	0.73	Charcot-Marie-Tooth disease, Type 2A1	OMIM:118210
+9	0.71	Spinocerebellar ataxia	OMIM:164400
+10	0.68	Ataxia-telangiectasia	OMIM:208900

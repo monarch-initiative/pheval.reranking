@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Ellis-van Creveld syndrome	OMIM:225500
+2	0.86	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.85	Carpenter syndrome	OMIM:201000
+4	0.83	Kabuki syndrome	OMIM:147920
+5	0.81	Noonan syndrome	OMIM:163950
+6	0.79	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.78	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.76	Short-rib thoracic dysplasia 3 with or without polydactyly	OMIM:613091
+9	0.75	CHARGE syndrome	OMIM:214800
+10	0.73	Cohen syndrome	OMIM:216550

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.84	Loeys-Dietz Syndrome	OMIM:609192
+3	0.78	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.75	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+5	0.74	Williams Syndrome	OMIM:194050
+6	0.72	Turner Syndrome	OMIM:300400
+7	0.69	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+8	0.67	Alagille Syndrome	OMIM:118450
+9	0.65	Stickler Syndrome	OMIM:108300
+10	0.63	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200

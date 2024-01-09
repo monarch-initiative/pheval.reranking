@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.7	Metachromatic leukodystrophy	OMIM:250100
+3	0.6	X-linked adrenoleukodystrophy	OMIM:300100

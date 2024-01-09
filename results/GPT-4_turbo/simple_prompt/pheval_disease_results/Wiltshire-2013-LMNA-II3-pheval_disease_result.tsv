@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+2	0.9	Mandibuloacral Dysplasia	OMIM:248370
+3	0.85	Werner Syndrome	OMIM:277700
+4	0.75	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+5	0.65	Myotonic Dystrophy	OMIM:160900
+6	0.55	Laminopathy	OMIM:150330

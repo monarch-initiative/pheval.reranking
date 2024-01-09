@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Microcephaly, epilepsy, and diabetes syndrome	OMIM:614231
+2	0.82	Miller-Dieker syndrome	OMIM:247200
+3	0.79	Pontocerebellar hypoplasia type 1	OMIM:614678
+4	0.76	3C syndrome	OMIM:220210
+5	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400

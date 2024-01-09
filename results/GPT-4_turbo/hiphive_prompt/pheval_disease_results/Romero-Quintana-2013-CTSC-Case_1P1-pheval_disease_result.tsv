@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Papillon-Lefevre Syndrome	OMIM:245000
+2	0.87	Haim-Munk Syndrome	OMIM:245010
+3	0.74	Cherubism	OMIM:118400
+4	0.72	Ehlers-Danlos Syndrome, Periodontitis Type	OMIM:130080
+5	0.69	Cyclic Neutropenia	OMIM:162800
+6	0.64	Glycogen Storage Disease Ib	OMIM:232220
+7	0.59	Langerhans Cell Histiocytosis	OMIM:604856
+8	0.56	Hyper IgE Syndrome	OMIM:147060
+9	0.54	Cohen Syndrome	OMIM:216550
+10	0.53	Schopf-Schulz-Passarge Syndrome	OMIM:224750

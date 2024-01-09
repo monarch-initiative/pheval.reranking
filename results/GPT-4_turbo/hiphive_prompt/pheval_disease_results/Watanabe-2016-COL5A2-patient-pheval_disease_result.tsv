@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.83	Loeys-Dietz syndrome	OMIM:609192
+4	0.82	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+5	0.75	Bethlem myopathy	OMIM:158810
+6	0.72	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+7	0.68	Ullrich congenital muscular dystrophy	OMIM:254090
+8	0.65	Stickler syndrome	OMIM:108300
+9	0.63	Congenital contractural arachnodactyly	OMIM:121050
+10	0.61	Osteogenesis imperfecta	OMIM:166200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+2	0.85	Hyperphosphatasia with Mental Retardation Syndrome	OMIM:239300
+3	0.8	Hypophosphatemia	OMIM:193100
+4	0.75	Hypophosphatasia	OMIM:146300
+5	0.7	Pseudogout	OMIM:600416
+6	0.65	Progressive Osseous Heteroplasia	OMIM:166350
+7	0.6	Primary Hyperparathyroidism	OMIM:145000
+8	0.55	Familial Hypocalciuric Hypercalcemia	OMIM:145980
+9	0.5	Albright's Hereditary Osteodystrophy	OMIM:103580
+10	0.45	Camurati-Engelmann Disease	OMIM:131300

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.8	Non-alcoholic fatty liver disease	OMIM:613282
+3	0.75	Primary biliary cholangitis	OMIM:109720
+4	0.65	Hepatocellular carcinoma	OMIM:114550
+5	0.5	Medication-related hepatotoxicity	OMIM:NA
+6	0.4	Biliary atresia	OMIM:210500

@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Birt-Hogg-Dube Syndrome	OMIM:135150
+2	0.5	Lymphangioleiomyomatosis	OMIM:606690
+3	0.4	Folliculin-Related Spontaneous Pneumothorax	OMIM:173600
+4	0.3	Pulmonary Fibrocystic Disease Spectrum	OMIM:0

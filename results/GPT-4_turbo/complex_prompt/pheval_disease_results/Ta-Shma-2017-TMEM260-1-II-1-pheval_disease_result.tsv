@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+2	0.8	DiGeorge syndrome	OMIM:188400
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	VACTERL association	OMIM:192350
+5	0.5	Ellis-van Creveld syndrome	OMIM:225500
+6	0.4	Trisomy 18	OMIM:190685
+7	0.3	Noonan syndrome	OMIM:163950
+8	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nephrotic Syndrome, Type 1, Finnish	OMIM:256300
+2	0.85	Nephrotic Syndrome, Congenital	OMIM:602716
+3	0.8	Nephrotic Syndrome, Type 4	OMIM:613545
+4	0.7	Hypercholesterolemia, Familial	OMIM:143890
+5	0.65	Pierson Syndrome	OMIM:609049
+6	0.6	Hypoalbuminemia, Familial	OMIM:614158

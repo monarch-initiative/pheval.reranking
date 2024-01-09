@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Smith-Magenis Syndrome	OMIM:182290
+2	0.86	Autism Spectrum Disorder	OMIM:209850
+3	0.84	Sanfilippo Syndrome	OMIM:252900
+4	0.82	Mucopolysaccharidosis Type III	OMIM:252900
+5	0.8	Mucopolysaccharidosis Type I	OMIM:252800
+6	0.78	Phenylketonuria	OMIM:261600
+7	0.76	Cornelia de Lange Syndrome	OMIM:122470
+8	0.74	Williams Syndrome	OMIM:194050
+9	0.72	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.7	Noonan Syndrome	OMIM:163950

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nance-Horan syndrome	OMIM:302350
+2	0.7	Ectopia Lentis et Pupillae	OMIM:225200
+3	0.6	Hallermann-Streiff Syndrome	OMIM:234100
+4	0.5	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+5	0.4	CHARGE syndrome	OMIM:214800

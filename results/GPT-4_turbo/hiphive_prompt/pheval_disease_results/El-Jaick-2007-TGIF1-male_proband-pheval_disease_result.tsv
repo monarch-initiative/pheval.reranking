@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Holoprosencephaly sequence	OMIM:236100
+2	0.78	Frontonasal dysplasia	OMIM:136760
+3	0.76	Septo-optic dysplasia	OMIM:182230
+4	0.74	Cleft lip/palate-ectodermal dysplasia syndrome	OMIM:225060
+5	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+6	0.69	Schinzel syndrome	OMIM:123450
+7	0.61	Panhypopituitarism, X-linked	OMIM:312000
+8	0.59	Lissencephaly	OMIM:607432
+9	0.52	Orofacial cleft 11	OMIM:600625
+10	0.51	Midline defects, X-linked	OMIM:300353

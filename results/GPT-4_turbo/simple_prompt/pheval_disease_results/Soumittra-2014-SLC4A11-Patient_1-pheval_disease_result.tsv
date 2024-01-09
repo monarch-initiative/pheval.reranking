@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fuchs Endothelial Dystrophy	OMIM:136800
+2	0.85	Congenital Hereditary Endothelial Dystrophy	OMIM:121700
+3	0.75	Posterior Polymorphous Corneal Dystrophy	OMIM:122000

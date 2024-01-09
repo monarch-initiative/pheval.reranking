@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer syndrome	OMIM:101600
+2	0.85	Hallermann-Streiff syndrome	OMIM:234100
+3	0.8	Hypohidrotic ectodermal dysplasia	OMIM:305100
+4	0.75	Cleidocranial dysplasia	OMIM:119600
+5	0.7	Pyknodysostosis	OMIM:265800

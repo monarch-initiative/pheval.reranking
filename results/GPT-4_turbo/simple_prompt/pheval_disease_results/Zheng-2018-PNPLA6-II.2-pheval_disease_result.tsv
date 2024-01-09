@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kallmann Syndrome	OMIM:308700
+2	0.8	Prader-Willi Syndrome	OMIM:176270
+3	0.7	Gordon Holmes Syndrome	OMIM:212840
+4	0.6	Laurence-Moon Syndrome	OMIM:245800
+5	0.5	Bardet-Biedl Syndrome	OMIM:209900

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Polymicrogyria, bilateral perisylvian, autosomal recessive	OMIM:615752
+2	0.85	Epileptic encephalopathy, early infantile, 11	OMIM:613721
+3	0.8	West syndrome	OMIM:308350
+4	0.7	Lissencephaly, X-linked	OMIM:300067
+5	0.65	MECP2 duplication syndrome	OMIM:300260

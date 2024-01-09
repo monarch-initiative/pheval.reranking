@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE Syndrome	OMIM:214800
+2	0.75	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.7	Treacher Collins Syndrome 1	OMIM:154500
+4	0.65	Mowat-Wilson Syndrome	OMIM:235730
+5	0.6	Wildervanck Syndrome	OMIM:314600
+6	0.55	Cornelia de Lange Syndrome 1	OMIM:122470
+7	0.5	Pallister-Hall Syndrome	OMIM:146510
+8	0.45	Stickler Syndrome, Type I	OMIM:108300
+9	0.4	Kabuki Syndrome 1	OMIM:147920
+10	0.35	Rubinstein-Taybi Syndrome 1	OMIM:180849

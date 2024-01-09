@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy-dystroglycanopathy (limb-girdle)	OMIM:613155
+2	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.7	Myotonic dystrophy	OMIM:160900
+3	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+5	0.6	Becker muscular dystrophy	OMIM:300376
+6	0.5	Duchenne muscular dystrophy	OMIM:310200
+6	0.5	Fukuyama congenital muscular dystrophy	OMIM:253800
+8	0.4	Emery-Dreifuss muscular dystrophy	OMIM:310300
+9	0.3	Oculopharyngeal muscular dystrophy	OMIM:164300
+10	0.2	Congenital myopathies	OMIM:117000

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.7	Chediak-Higashi syndrome	OMIM:214500
+3	0.6	Hyper IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+3	0.6	Chronic Granulomatous Disease	OMIM:306400
+5	0.5	Leukocyte Adhesion Deficiency, Type II	OMIM:266265
+5	0.5	Leukocyte Adhesion Deficiency, Type III	OMIM:612840

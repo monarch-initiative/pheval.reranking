@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Clouston syndrome	OMIM:129500
+2	0.8	Ectodermal Dysplasia, Anhidrotic	OMIM:224900
+3	0.7	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	OMIM:241840
+4	0.6	Bazex-Dupré-Christol Syndrome	OMIM:301845
+5	0.5	Rothmund-Thomson Syndrome	OMIM:268400

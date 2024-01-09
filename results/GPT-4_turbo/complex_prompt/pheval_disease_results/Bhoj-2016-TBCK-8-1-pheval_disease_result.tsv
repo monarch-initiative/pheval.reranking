@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+2	0.8	Mucopolysaccharidosis Type I (Hurler Syndrome)	OMIM:607014
+3	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.6	Sotos Syndrome	OMIM:117550
+5	0.5	Coffin-Lowry Syndrome	OMIM:303600
+6	0.4	Congenital Hypothyroidism	OMIM:218700
+7	0.3	Fragile X Syndrome	OMIM:300624
+8	0.2	Weaver Syndrome	OMIM:277590
+9	0.1	Pitt-Hopkins Syndrome	OMIM:610954

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alexander disease	OMIM:203450
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Lissencephaly	OMIM:607432
+4	0.6	Mowat-Wilson syndrome	OMIM:235730
+5	0.5	Canavan disease	OMIM:271900
+6	0.4	Aicardi syndrome	OMIM:304050
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Zellweger syndrome	OMIM:214100
+9	0.1	Wolf-Hirschhorn syndrome	OMIM:194190

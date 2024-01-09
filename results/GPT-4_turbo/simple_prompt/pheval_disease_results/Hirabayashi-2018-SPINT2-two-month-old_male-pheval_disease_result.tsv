@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE Syndrome	OMIM:214800
+2	0.85	Velocardiofacial syndrome	OMIM:192430
+3	0.8	DiGeorge Syndrome	OMIM:188400
+3	0.8	Pierre Robin Syndrome	OMIM:261800
+5	0.75	Treacher Collins Syndrome	OMIM:154500
+6	0.7	VATER Association	OMIM:192350
+7	0.65	Cleft Lip/Palate	OMIM:119530

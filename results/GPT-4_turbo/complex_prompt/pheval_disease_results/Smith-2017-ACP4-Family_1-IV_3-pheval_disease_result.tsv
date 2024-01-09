@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Type IV	OMIM:104510
+2	0.8	Amelogenesis Imperfecta, Type II	OMIM:204650
+3	0.7	Amelogenesis Imperfecta, Type III	OMIM:130900
+4	0.6	Amelogenesis Imperfecta, Type I	OMIM:301200
+5	0.5	Odontohypophosphatasia	OMIM:146300
+6	0.4	Dentinogenesis Imperfecta, Shields Type II	OMIM:125490
+7	0.3	Dentinogenesis Imperfecta, Shields Type III	OMIM:125500
+8	0.2	Hypophosphatemic Rickets, X-Linked Dominant	OMIM:307800

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+2	0.8	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+3	0.7	3M Syndrome	OMIM:273750
+4	0.6	Ballard Syndrome	OMIM:112240
+5	0.5	Carpenter Syndrome	OMIM:201000
+6	0.4	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.3	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+8	0.2	Mucopolysaccharidosis Type III	OMIM:252900
+9	0.1	Noonan Syndrome	OMIM:163950

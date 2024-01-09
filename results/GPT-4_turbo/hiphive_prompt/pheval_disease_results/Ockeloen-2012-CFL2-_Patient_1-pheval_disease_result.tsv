@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Duchenne Muscular Dystrophy	OMIM:310200
+2	0.91	Becker Muscular Dystrophy	OMIM:300376
+3	0.89	Congenital Muscular Dystrophy Type 1A	OMIM:156225
+4	0.87	Spinal Muscular Atrophy	OMIM:253300
+5	0.85	Charcot-Marie-Tooth Disease	OMIM:118220
+6	0.83	Myasthenia Gravis	OMIM:254200
+7	0.81	Limb-Girdle Muscular Dystrophy	OMIM:608807
+8	0.79	Pompe disease	OMIM:232300
+9	0.77	Merosin-Deficient Congenital Muscular Dystrophy	OMIM:607855
+10	0.75	Emery-Dreifuss Muscular Dystrophy	OMIM:310300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.96	Friedreich ataxia	OMIM:229300
+3	0.94	Hereditary spastic paraplegia	OMIM:303350
+4	0.92	Spinocerebellar ataxia type 7	OMIM:164500
+5	0.91	Spinocerebellar ataxia type 2	OMIM:183090
+6	0.89	Spinocerebellar ataxia type 3	OMIM:109150
+6	0.89	Ataxia with vitamin E deficiency	OMIM:277460
+8	0.88	Spinocerebellar ataxia type 6	OMIM:183086
+9	0.87	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+10	0.86	Ataxia-telangiectasia	OMIM:208900

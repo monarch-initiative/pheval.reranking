@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen Syndrome	OMIM:216550
+2	0.85	Bardet-Biedl Syndrome	OMIM:209900
+3	0.8	Alström Syndrome	OMIM:203800
+4	0.75	Weaver Syndrome	OMIM:277590
+5	0.7	Mucopolysaccharidosis	OMIM:607014
+6	0.65	Smith-Lemli-Opitz Syndrome	OMIM:270400

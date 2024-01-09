@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Catel-Manzke syndrome	OMIM:616194
+2	0.8	3MC syndrome	OMIM:257920
+3	0.75	Robinow syndrome, autosomal dominant	OMIM:180700
+4	0.7	Acromicric dysplasia	OMIM:102370
+4	0.7	Frank-Ter Haar syndrome	OMIM:249420
+6	0.65	Geleophysic dysplasia	OMIM:614185
+6	0.65	Nager acrofacial dysostosis	OMIM:154400
+8	0.6	Pfeiffer syndrome	OMIM:101600
+8	0.6	Langer mesomelic dysplasia	OMIM:249700
+10	0.55	Craniofrontonasal syndrome	OMIM:304110

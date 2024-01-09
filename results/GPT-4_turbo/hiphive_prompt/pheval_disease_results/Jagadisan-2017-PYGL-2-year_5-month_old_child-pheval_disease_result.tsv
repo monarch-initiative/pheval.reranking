@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen Storage Disease Type I	OMIM:232200
+2	0.88	Gaucher Disease	OMIM:230800
+3	0.86	Alagille Syndrome	OMIM:118450
+4	0.85	Tyrosinemia Type 1	OMIM:276700
+5	0.84	Zellweger Syndrome	OMIM:214100
+6	0.82	Wolman Disease	OMIM:278000
+7	0.81	Niemann-Pick Disease Type C	OMIM:257220
+8	0.79	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+9	0.78	Citrullinemia Type 1	OMIM:215700
+10	0.77	Smith-Lemli-Opitz Syndrome	OMIM:270400

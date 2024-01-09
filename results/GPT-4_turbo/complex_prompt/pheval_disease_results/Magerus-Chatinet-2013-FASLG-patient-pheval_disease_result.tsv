@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Chronic Lymphocytic Leukemia	OMIM:151400
+2	0.8	Waldenstrom Macroglobulinemia	OMIM:153600
+2	0.8	Lymphoma, Non-Hodgkin	OMIM:605027
+4	0.75	Immunodeficiency with Hyper-IgM, Type 1	OMIM:308230
+5	0.7	Severe Combined Immunodeficiency	OMIM:102700
+5	0.7	Common Variable Immunodeficiency	OMIM:607594
+7	0.65	Immune Dysregulation, Polyendocrinopathy, Enteropathy, X-linked Syndrome	OMIM:304790
+8	0.6	Hemophagocytic Lymphohistiocytosis, Familial	OMIM:267700
+8	0.6	Mantle Cell Lymphoma	OMIM:605027
+10	0.55	Gaucher Disease	OMIM:230800

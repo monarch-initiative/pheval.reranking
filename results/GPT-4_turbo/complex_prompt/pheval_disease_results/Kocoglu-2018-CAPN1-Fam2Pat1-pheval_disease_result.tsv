@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.7	Spinocerebellar ataxia type 2	OMIM:183090
+4	0.6	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.5	Spinocerebellar ataxia type 7	OMIM:164500
+6	0.4	Multiple sclerosis	OMIM:126200
+6	0.4	Hereditary spastic paraplegia	OMIM:303350
+8	0.3	Charcot-Marie-Tooth disease type 2	OMIM:608634
+8	0.3	Ataxia-telangiectasia	OMIM:208900
+10	0.2	Wilson disease	OMIM:277900

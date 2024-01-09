@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.7	Pallister-Hall Syndrome	OMIM:146510
+3	0.6	Denys-Drash Syndrome	OMIM:194080
+3	0.6	Leydig Cell Hypoplasia	OMIM:238320

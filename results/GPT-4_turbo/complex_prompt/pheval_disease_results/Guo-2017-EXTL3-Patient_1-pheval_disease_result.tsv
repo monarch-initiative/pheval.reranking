@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Schwartz-Jampel syndrome	OMIM:255800
+2	0.7	Morquio syndrome	OMIM:253000
+3	0.65	Asphyxiating thoracic dystrophy	OMIM:208500
+4	0.6	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+5	0.55	Hurler syndrome	OMIM:607014
+6	0.5	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.45	Kniest dysplasia	OMIM:156550
+8	0.4	Metatropic dysplasia	OMIM:156530

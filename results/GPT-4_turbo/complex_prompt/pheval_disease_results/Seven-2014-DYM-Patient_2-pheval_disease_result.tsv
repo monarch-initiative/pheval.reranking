@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pseudoachondroplasia	OMIM:177170
+2	0.7	Diastrophic dysplasia	OMIM:222600
+3	0.6	Ellis-van Creveld syndrome	OMIM:225500
+4	0.5	Achondroplasia	OMIM:100800
+5	0.4	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+6	0.3	Cleidocranial dysostosis	OMIM:119600
+7	0.2	McKusick-Kaufman syndrome	OMIM:236700

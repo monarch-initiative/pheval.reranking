@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alagille syndrome	OMIM:118450
+2	0.85	Noonan syndrome	OMIM:163950
+3	0.82	Zellweger syndrome	OMIM:214100
+4	0.8	Sjögren-Larsson syndrome	OMIM:270200
+5	0.78	Coffin-Siris syndrome	OMIM:135900
+6	0.75	Ehlers-Danlos syndrome	OMIM:130000
+7	0.73	Williams syndrome	OMIM:194050
+8	0.71	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.69	Turner syndrome	OMIM:310000
+10	0.67	Cutis laxa	OMIM:219100

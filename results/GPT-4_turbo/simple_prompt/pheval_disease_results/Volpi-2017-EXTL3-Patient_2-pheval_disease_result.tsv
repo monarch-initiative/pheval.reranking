@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Thanatophoric Dysplasia, Type I	OMIM:187600
+2	0.7	Pfeiffer Syndrome	OMIM:101600
+3	0.6	Adenosine Deaminase Deficiency	OMIM:102700
+3	0.6	VACTERL Association	OMIM:192350
+5	0.5	Crouzon Syndrome	OMIM:123500
+5	0.5	Apert Syndrome	OMIM:101200
+7	0.4	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Negative	OMIM:601457

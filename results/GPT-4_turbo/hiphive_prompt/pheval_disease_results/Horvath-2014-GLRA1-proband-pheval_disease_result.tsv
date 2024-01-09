@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Wilson disease	OMIM:277900
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+3	0.78	Primary ciliary dyskinesia	OMIM:244400
+4	0.76	Marfan syndrome	OMIM:154700
+5	0.74	Autosomal recessive polycystic kidney disease	OMIM:263200
+6	0.72	Neurofibromatosis type 1	OMIM:162200
+7	0.71	Tuberous sclerosis	OMIM:191100
+8	0.7	Polycystic kidney disease	OMIM:173900
+9	0.68	Multiple endocrine neoplasia type 1	OMIM:131100
+10	0.65	Dystonia 1, torsion, autosomal dominant	OMIM:128100

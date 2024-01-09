@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marshall syndrome	OMIM:154780
+2	0.85	Ehlers-Danlos syndrome, progeroid type	OMIM:130070
+3	0.8	Larsen syndrome	OMIM:150250
+4	0.75	Geleophysic dysplasia	OMIM:231050
+5	0.7	Pseudoachondroplasia	OMIM:177170
+6	0.65	Stickler syndrome	OMIM:108300
+7	0.6	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.55	Osteogenesis imperfecta, type I	OMIM:166200
+9	0.5	Cleidocranial dysostosis	OMIM:119600
+10	0.45	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900

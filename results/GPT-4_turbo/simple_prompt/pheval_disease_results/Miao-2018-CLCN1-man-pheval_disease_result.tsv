@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myotonic Dystrophy	OMIM:160900
+2	0.7	Becker Muscular Dystrophy	OMIM:300376
+3	0.65	Mitochondrial Myopathies	OMIM:500001
+4	0.6	Pompe disease	OMIM:232300
+5	0.55	McArdle Disease	OMIM:232600
+6	0.5	Duchenne Muscular Dystrophy	OMIM:310200

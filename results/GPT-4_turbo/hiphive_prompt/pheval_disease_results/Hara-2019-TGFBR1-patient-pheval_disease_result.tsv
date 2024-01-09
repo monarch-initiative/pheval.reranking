@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Loeys-Dietz Syndrome	OMIM:609192
+3	0.85	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.82	Homocystinuria	OMIM:236200
+5	0.8	MASS Phenotype	OMIM:604308
+5	0.8	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.78	Congenital Contractural Arachnodactyly	OMIM:121050
+8	0.76	Stickler Syndrome	OMIM:108300
+9	0.75	Beals Syndrome	OMIM:121050
+10	0.72	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086

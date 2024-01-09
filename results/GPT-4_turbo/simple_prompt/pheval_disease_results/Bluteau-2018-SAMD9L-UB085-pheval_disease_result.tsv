@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis Congenita, Autosomal Dominant	OMIM:127550
+2	0.8	Dyskeratosis Congenita, Autosomal Recessive	OMIM:224230
+3	0.7	Ataxia-Telangiectasia	OMIM:208900
+4	0.6	Shwachman-Diamond Syndrome	OMIM:260400
+5	0.5	Cerebellar Hypoplasia and Mental Retardation with or without Quadrupedal Locomotion 1	OMIM:224050
+6	0.4	X-Linked Lymphoproliferative Disease	OMIM:308240
+7	0.3	Common Variable Immunodeficiency	OMIM:607594
+8	0.2	Hydrocephalus due to Congenital Stenosis of Aqueduct of Sylvius	OMIM:307000
+9	0.1	Spinocerebellar Ataxia, Autosomal Recessive	OMIM:271245

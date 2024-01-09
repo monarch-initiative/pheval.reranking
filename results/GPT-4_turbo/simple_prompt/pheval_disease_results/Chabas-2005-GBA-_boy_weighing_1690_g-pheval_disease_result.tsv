@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gaucher Disease, Type II	OMIM:230900
+2	0.6	Sialic Acid Storage Disease, Infantile	OMIM:269920
+3	0.55	Neonatal Ichthyosis-Sclerosing Cholangitis Syndrome	OMIM:607626

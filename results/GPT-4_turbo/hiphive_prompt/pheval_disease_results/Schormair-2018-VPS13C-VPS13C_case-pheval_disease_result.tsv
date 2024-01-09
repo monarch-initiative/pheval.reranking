@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson disease, late-onset	OMIM:168600
+2	0.92	Parkinson disease 1, autosomal dominant	OMIM:168601
+3	0.91	Parkinson disease 8, autosomal dominant	OMIM:607060
+4	0.89	Lewy body dementia	OMIM:127750
+5	0.88	Parkinson disease 7, autosomal recessive early-onset	OMIM:606324
+6	0.87	Parkinsonism-dystonia, infantile	OMIM:613135
+7	0.85	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+8	0.82	Multiple system atrophy 1	OMIM:146500
+9	0.8	Huntington's disease	OMIM:143100
+10	0.78	Dopa-responsive dystonia	OMIM:128230

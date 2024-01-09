@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rett syndrome	OMIM:312750
+2	0.75	Angelman syndrome	OMIM:105830
+3	0.7	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome	OMIM:603387
+4	0.65	Canavan disease	OMIM:271900
+5	0.6	Alexander disease	OMIM:203450
+6	0.58	Lissencephaly syndrome, Norman-Roberts type	OMIM:257320
+7	0.56	Dandy-Walker syndrome	OMIM:220200
+8	0.54	Zellweger syndrome	OMIM:214100
+9	0.52	3-Hydroxy-3-methylglutaryl-CoA lyase deficiency	OMIM:246450
+10	0.5	Leigh syndrome	OMIM:256000

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+2	0.8	Familial Juvenile Hyperuricemic Nephropathy	OMIM:162000
+3	0.7	Gout, PRPS1-Related	OMIM:300661
+4	0.6	Uromodulin-Associated Kidney Disease	OMIM:609886
+5	0.5	Alport Syndrome	OMIM:301050
+6	0.4	Renal Tubular Acidosis, Distal, with Hemolytic Anemia	OMIM:267300
+7	0.3	Tuberous Sclerosis	OMIM:191100
+8	0.2	Medullary Cystic Kidney Disease 1	OMIM:174000
+9	0.1	Von Hippel-Lindau Syndrome	OMIM:193300

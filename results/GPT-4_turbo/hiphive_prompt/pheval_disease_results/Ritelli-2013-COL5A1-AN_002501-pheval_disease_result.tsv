@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.93	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+3	0.85	Marfan syndrome	OMIM:154700
+4	0.8	Loeys-Dietz syndrome	OMIM:609192
+5	0.78	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+6	0.75	Osteogenesis imperfecta	OMIM:166200
+7	0.72	Beighton syndrome	OMIM:130080
+8	0.7	Pseudoxanthoma elasticum	OMIM:264800
+9	0.68	Cutis laxa	OMIM:123700
+10	0.65	Stickler syndrome	OMIM:108300

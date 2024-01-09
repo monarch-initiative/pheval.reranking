@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria type 1	OMIM:259900
+2	0.85	Primary hyperoxaluria type 2	OMIM:260000
+3	0.7	Enteric hyperoxaluria	OMIM:None
+4	0.65	Primary hyperoxaluria type 3	OMIM:613616
+5	0.6	Dent disease	OMIM:300009
+6	0.55	Nephrocalcinosis	OMIM:None
+7	0.5	Lesch-Nyhan syndrome	OMIM:300322
+8	0.45	Autosomal dominant hypocalcemia	OMIM:601198
+9	0.4	Autosomal recessive hypophosphatemic rickets type 2	OMIM:613312

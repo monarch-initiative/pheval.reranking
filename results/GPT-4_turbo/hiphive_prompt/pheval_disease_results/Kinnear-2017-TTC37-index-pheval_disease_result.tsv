@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency, Common Variable, 1	OMIM:607594
+2	0.85	Hyper IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+3	0.82	Agammaglobulinemia, X-linked 1	OMIM:300755
+4	0.8	Griscelli Syndrome, Type 2	OMIM:607624
+5	0.78	Chediak-Higashi Syndrome	OMIM:214500
+6	0.75	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.72	Severe Combined Immunodeficiency with Hypersensitivity to gamma-chain Cytokines	OMIM:603554
+8	0.7	X-linked Lymphoproliferative Syndrome	OMIM:308240
+9	0.68	IgA deficiency 1	OMIM:137100
+10	0.65	Hemophagocytic Lymphohistiocytosis, Familial	OMIM:267700

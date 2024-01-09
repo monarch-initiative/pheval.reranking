@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Aicardi syndrome	OMIM:304050
+3	0.75	Mucopolysaccharidosis type III	OMIM:252900
+4	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.68	CHARGE syndrome	OMIM:214800
+6	0.65	Dandy-Walker syndrome	OMIM:220200
+7	0.63	Joubert syndrome	OMIM:213300
+8	0.6	Glutaric acidemia type I	OMIM:231670
+9	0.58	Lissencephaly	OMIM:607432
+10	0.55	Baraitser-Winter syndrome 1	OMIM:243310

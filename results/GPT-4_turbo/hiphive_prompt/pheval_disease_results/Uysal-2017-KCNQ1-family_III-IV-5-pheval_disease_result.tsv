@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome	OMIM:192500
+2	0.9	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+3	0.85	Usher Syndrome	OMIM:276900
+4	0.8	Bartter Syndrome	OMIM:601678
+5	0.75	Timothy Syndrome	OMIM:601005
+6	0.7	Alport Syndrome	OMIM:301050
+7	0.65	Andersen-Tawil Syndrome	OMIM:170390
+8	0.6	Mitochondrial Myopathy and Sideroblastic Anemia	OMIM:600857
+9	0.55	Leopard Syndrome	OMIM:151100
+10	0.5	Carnitine-Acylcarnitine Translocase Deficiency	OMIM:212138

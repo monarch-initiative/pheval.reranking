@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hyper IgE syndrome	OMIM:147060
+2	0.82	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.78	Griscelli syndrome	OMIM:214450
+4	0.75	Job syndrome	OMIM:147060
+5	0.73	Chediak-Higashi syndrome	OMIM:214500
+6	0.71	Netherton syndrome	OMIM:256500
+7	0.69	Chronic granulomatous disease	OMIM:306400
+8	0.66	Hypohidrotic ectodermal dysplasia	OMIM:305100
+9	0.64	Omenn syndrome	OMIM:603554
+10	0.62	IPEX syndrome	OMIM:304790

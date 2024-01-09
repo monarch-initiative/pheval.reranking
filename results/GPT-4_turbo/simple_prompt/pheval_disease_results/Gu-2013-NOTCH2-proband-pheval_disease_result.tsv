@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pyknodysostosis	OMIM:265800
+2	0.7	Osteogenesis Imperfecta Type I	OMIM:166200
+3	0.6	Cleidocranial Dysplasia	OMIM:119600
+4	0.55	Apert Syndrome	OMIM:101200
+5	0.5	Stickler Syndrome	OMIM:108300
+5	0.5	Treacher Collins Syndrome	OMIM:154500
+5	0.5	Pseudoachondroplasia	OMIM:177170
+8	0.4	Osteopetrosis, Autosomal Dominant Type 2	OMIM:166600
+9	0.3	Klinefelter Syndrome	OMIM:47XXY
+10	0.2	Down Syndrome	OMIM:190685

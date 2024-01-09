@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Pfeiffer syndrome	OMIM:101600
+2	0.85	Muenke syndrome	OMIM:602849
+3	0.82	Apert syndrome	OMIM:101200
+4	0.8	Crouzon syndrome	OMIM:123500
+5	0.78	Saethre-Chotzen syndrome	OMIM:101400
+6	0.75	Coffin-Siris syndrome	OMIM:135900
+7	0.73	Kabuki syndrome	OMIM:147920
+8	0.7	CHARGE syndrome	OMIM:214800
+9	0.68	Waardenburg syndrome, type 1	OMIM:193500
+10	0.65	Rubinstein-Taybi syndrome	OMIM:180849

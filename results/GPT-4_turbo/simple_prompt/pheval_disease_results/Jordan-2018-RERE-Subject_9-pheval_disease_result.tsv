@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.85	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.8	CHARGE Syndrome	OMIM:214800
+3	0.75	Williams Syndrome	OMIM:194050
+4	0.7	Mowat-Wilson Syndrome	OMIM:235730
+5	0.65	Smith-Magenis Syndrome	OMIM:182290
+6	0.6	DiGeorge Syndrome	OMIM:188400

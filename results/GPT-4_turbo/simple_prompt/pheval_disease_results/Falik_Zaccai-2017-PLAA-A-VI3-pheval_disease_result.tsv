@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Leigh syndrome	OMIM:256000
+2	0.6	Menkes disease	OMIM:309400
+3	0.5	Cornelia de Lange syndrome	OMIM:122470
+4	0.4	Wolff-Parkinson-White syndrome	OMIM:194200
+4	0.4	Mucopolysaccharidosis type VI	OMIM:253200

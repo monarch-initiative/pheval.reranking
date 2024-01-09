@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Ellis-van Creveld syndrome	OMIM:225500
+2	0.7	Schimke immuno-osseous dysplasia	OMIM:242900
+2	0.7	Holt-Oram syndrome	OMIM:142900
+4	0.6	Cartilage-hair hypoplasia	OMIM:250250
+4	0.6	Wiedemann-Steiner syndrome	OMIM:605130
+6	0.5	Noonan syndrome	OMIM:163950
+6	0.5	Nijmegen breakage syndrome	OMIM:251260
+8	0.4	Cornelia de Lange syndrome	OMIM:122470
+8	0.4	Kabuki syndrome	OMIM:147920
+10	0.3	Rubinstein-Taybi syndrome	OMIM:180849

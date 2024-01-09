@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Larsen syndrome	OMIM:150250
+2	0.8	Multiple Pterygium Syndrome, Escobar Variant	OMIM:265000
+3	0.7	Diastrophic dysplasia	OMIM:222600
+4	0.6	Arthrogryposis, Renal Dysfunction, and Cholestasis 1	OMIM:208085
+5	0.5	Freeman-Sheldon syndrome	OMIM:193700
+6	0.4	Alpha-fetoprotein, Hereditary Persistence Of	OMIM:615969

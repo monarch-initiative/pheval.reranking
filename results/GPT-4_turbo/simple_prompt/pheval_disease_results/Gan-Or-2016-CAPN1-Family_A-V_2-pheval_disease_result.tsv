@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:303350
+2	0.8	Primary Lateral Sclerosis, Juvenile	OMIM:606353
+3	0.75	Multiple Sclerosis	OMIM:126200
+4	0.65	Cerebral Palsy, Spastic Diplegic	OMIM:603513
+5	0.6	Amyotrophic Lateral Sclerosis	OMIM:105400

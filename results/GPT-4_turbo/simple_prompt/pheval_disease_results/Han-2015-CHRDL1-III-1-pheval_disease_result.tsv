@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Glaucoma 1, open angle, A	OMIM:137750
+2	0.7	Marfan Syndrome	OMIM:154700
+3	0.65	Primary Congenital Glaucoma	OMIM:231300
+4	0.55	Axenfeld-Rieger Syndrome, Type 1	OMIM:180500

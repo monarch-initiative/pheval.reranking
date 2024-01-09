@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.85	Multiple sclerosis	OMIM:126200
+3	0.8	Primary lateral sclerosis	OMIM:611637
+4	0.75	Spinal muscular atrophy	OMIM:253300
+5	0.7	Pseudobulbar palsy	N/A
+6	0.65	Progressive bulbar palsy	N/A

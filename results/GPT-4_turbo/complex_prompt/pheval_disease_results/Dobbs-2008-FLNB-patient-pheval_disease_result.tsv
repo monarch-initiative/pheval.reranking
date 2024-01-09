@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Larsen syndrome	OMIM:150250
+2	0.8	Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects	OMIM:245600
+3	0.7	Pena-Shokeir syndrome type I	OMIM:208150
+4	0.6	Arthrogryposis, renal dysfunction, and cholestasis 1	OMIM:208085
+5	0.5	Desbuquois dysplasia	OMIM:251450
+6	0.4	Diastrophic dysplasia	OMIM:222600
+7	0.3	Marden-Walker syndrome	OMIM:248700
+8	0.2	Smith-McCort dysplasia	OMIM:607326
+9	0.1	Beals-Hecht syndrome	OMIM:121050

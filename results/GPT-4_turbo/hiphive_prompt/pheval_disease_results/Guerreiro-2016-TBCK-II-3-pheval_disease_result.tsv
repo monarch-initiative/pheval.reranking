@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rett syndrome	OMIM:312750
+2	0.91	Angelman syndrome	OMIM:105830
+3	0.87	West syndrome	OMIM:308350
+4	0.86	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.85	Prader-Willi syndrome	OMIM:176270
+6	0.84	Lennox-Gastaut syndrome	OMIM:606369
+7	0.82	Coffin-Lowry syndrome	OMIM:303600
+8	0.81	Pitt-Hopkins syndrome	OMIM:610954
+9	0.79	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.76	Sturge-Weber syndrome	OMIM:185300

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Andersen-Tawil Syndrome	OMIM:170390
+2	0.85	Familial Progressive Cardiac Conduction Defect	OMIM:113900
+3	0.8	Long QT Syndrome	OMIM:192500
+4	0.75	Barth Syndrome	OMIM:302060
+5	0.7	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+5	0.7	Lenegre Disease	OMIM:608569

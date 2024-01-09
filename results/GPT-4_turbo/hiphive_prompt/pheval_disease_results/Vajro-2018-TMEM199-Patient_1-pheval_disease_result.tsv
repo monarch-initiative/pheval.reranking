@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+1	0.95	Hepatolenticular Degeneration	OMIM:277900
+3	0.85	Familial Hypercholesterolemia	OMIM:143890
+4	0.8	Alpha-1 Antitrypsin Deficiency	OMIM:613490
+5	0.75	Non-alcoholic Fatty Liver Disease	OMIM:613282
+6	0.7	Primary Biliary Cirrhosis	OMIM:109720
+7	0.65	Glycogen Storage Disease Type I	OMIM:232200
+8	0.6	Mitochondrial Myopathies	OMIM:500001
+9	0.55	Cockayne Syndrome	OMIM:216400
+10	0.5	Indian Childhood Cirrhosis	OMIM:231100

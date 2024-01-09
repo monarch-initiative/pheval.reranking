@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Ehlers-Danlos syndrome	OMIM:130000
+2	0.6	Stickler syndrome	OMIM:108300
+2	0.6	Van der Woude syndrome	OMIM:119300
+2	0.6	Lujan-Fryns syndrome	OMIM:309520
+5	0.5	Mowat-Wilson syndrome	OMIM:235730
+6	0.4	Crane-Heise syndrome	OMIM:218090
+7	0.3	22q11.2 deletion syndrome	OMIM:188400
+7	0.3	Kabuki syndrome	OMIM:147920

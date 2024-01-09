@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Phelan-McDermid Syndrome	OMIM:606232
+2	0.82	15q13.3 Microdeletion Syndrome	OMIM:612001
+3	0.8	22q13 Deletion Syndrome	OMIM:606232
+4	0.78	Kleefstra Syndrome	OMIM:610253
+5	0.75	Rett Syndrome	OMIM:312750
+6	0.73	Smith-Magenis Syndrome	OMIM:182290
+7	0.71	Angelman Syndrome	OMIM:105830

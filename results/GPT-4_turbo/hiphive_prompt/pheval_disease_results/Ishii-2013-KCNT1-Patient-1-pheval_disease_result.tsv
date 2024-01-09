@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Angelman syndrome	OMIM:105830
+2	0.93	Rett syndrome	OMIM:312750
+3	0.9	Dravet syndrome	OMIM:607208
+4	0.87	West syndrome	OMIM:308350
+5	0.85	2q24 microdeletion syndrome	OMIM:619583
+6	0.82	MECP2 duplication syndrome	OMIM:300260
+7	0.8	Lennox-Gastaut syndrome	OMIM:606369
+8	0.78	KCNQ2 encephalopathy	OMIM:613720
+9	0.76	CDKL5 deficiency disorder	OMIM:300672
+10	0.74	Pitt-Hopkins syndrome	OMIM:610954

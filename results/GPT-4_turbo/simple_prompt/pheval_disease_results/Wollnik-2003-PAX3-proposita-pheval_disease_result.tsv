@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Waardenburg syndrome, type 1	OMIM:193500
+2	0.6	Ohdo syndrome, SBBYS variant	OMIM:603736
+3	0.5	Marden-Walker syndrome	OMIM:248700
+3	0.5	Freeman-Sheldon syndrome	OMIM:193700

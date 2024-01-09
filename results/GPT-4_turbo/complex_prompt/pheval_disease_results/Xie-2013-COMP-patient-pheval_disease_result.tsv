@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Morquio Syndrome	OMIM:253000
+1	0.9	Mucopolysaccharidosis Type IV	OMIM:253000
+3	0.7	Achondroplasia	OMIM:100800
+4	0.6	Pseudoachondroplasia	OMIM:177170
+5	0.5	Multiple Epiphyseal Dysplasia	OMIM:132400
+5	0.5	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+7	0.4	Metatropic Dysplasia	OMIM:156530
+8	0.3	Dyggve-Melchior-Clausen Disease	OMIM:223800
+8	0.3	Mucopolysaccharidosis Type I	OMIM:252800
+10	0.2	Mucopolysaccharidosis Type II	OMIM:309900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+3	0.7	Hallermann-Streiff Syndrome	OMIM:234100
+4	0.6	Apert Syndrome	OMIM:101200
+5	0.5	Crouzon Syndrome	OMIM:123500
+6	0.4	Pyknodysostosis	OMIM:265800
+7	0.3	Seckel Syndrome	OMIM:210600
+8	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.05	Cleidocranial Dysplasia	OMIM:119600

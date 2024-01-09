@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous sclerosis 1	OMIM:191100
+2	0.94	Tuberous sclerosis 2	OMIM:613254
+3	0.75	Neurofibromatosis, type I	OMIM:162200
+4	0.72	Fragile X syndrome	OMIM:300624
+5	0.69	Sturge-Weber syndrome	OMIM:185300
+6	0.67	Bourneville syndrome	OMIM:191100
+7	0.66	Rett syndrome	OMIM:312750
+8	0.64	Angelman syndrome	OMIM:105830
+9	0.61	West syndrome	OMIM:308350
+10	0.6	Hipomelanosis of Ito	OMIM:300337

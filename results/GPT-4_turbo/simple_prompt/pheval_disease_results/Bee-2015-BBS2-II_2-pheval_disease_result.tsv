@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Alström Syndrome	OMIM:203800
+3	0.7	Laurence-Moon Syndrome	OMIM:245800
+4	0.6	McKusick-Kaufman Syndrome	OMIM:236700
+5	0.5	Alport Syndrome	OMIM:301050
+6	0.4	Wolfram Syndrome	OMIM:222300

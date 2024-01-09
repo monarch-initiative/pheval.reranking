@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Down Syndrome	OMIM:190685
+2	0.87	Prader-Willi Syndrome	OMIM:176270
+3	0.85	Rett Syndrome	OMIM:312750
+4	0.82	Williams Syndrome	OMIM:194050
+5	0.78	Noonan Syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Leigh syndrome	OMIM:256000
+2	0.84	Zellweger syndrome	OMIM:214100
+3	0.82	Mowat-Wilson syndrome	OMIM:235730
+4	0.8	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+5	0.79	Joubert syndrome	OMIM:213300
+6	0.78	Coffin-Siris syndrome	OMIM:135900
+7	0.77	Kabuki syndrome	OMIM:147920
+8	0.75	Rett syndrome	OMIM:312750
+9	0.74	West syndrome	OMIM:308350
+10	0.73	Tuberous sclerosis	OMIM:191100

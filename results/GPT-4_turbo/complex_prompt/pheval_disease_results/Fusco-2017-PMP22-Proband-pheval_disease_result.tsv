@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Guillain-Barre syndrome	OMIM:139393
+2	0.85	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.75	Multifocal motor neuropathy	OMIM:608507
+4	0.7	Charcot-Marie-Tooth disease, type 2	OMIM:609260
+5	0.65	Miller Fisher syndrome	OMIM:609033
+6	0.6	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+7	0.55	Charcot-Marie-Tooth disease, type 4	OMIM:601382
+8	0.5	Chronic inflammatory demyelinating polyradiculoneuropathy	OMIM:139395

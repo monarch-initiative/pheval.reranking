@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.85	Alpha-1-antitrypsin Deficiency	OMIM:613490
+3	0.8	Hemochromatosis Type 1	OMIM:235200
+4	0.75	Citrullinemia Type II	OMIM:605814
+5	0.7	Hepatocellular Carcinoma	OMIM:114550
+6	0.65	Primary Biliary Cirrhosis	OMIM:109720
+7	0.63	Galactosemia	OMIM:230400
+8	0.62	Glycogen Storage Disease Type I	OMIM:232200
+9	0.6	Tyrosinemia Type I	OMIM:276700
+10	0.58	Menkes Disease	OMIM:309400

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenia Gravis	OMIM:254200
+2	0.8	Lambert-Eaton Myasthenic Syndrome	OMIM:601462
+3	0.7	Congenital Myasthenic Syndromes	OMIM:601462
+4	0.6	Spinal Muscular Atrophy	OMIM:253300
+5	0.5	Amyotrophic Lateral Sclerosis	OMIM:105400
+6	0.4	Duchenne Muscular Dystrophy	OMIM:310200
+7	0.3	Becker Muscular Dystrophy	OMIM:300376
+8	0.2	Facioscapulohumeral Muscular Dystrophy	OMIM:158900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital chloride diarrhea	OMIM:214700
+2	0.85	Bartter syndrome, type 4b	OMIM:613090
+3	0.75	Cystic fibrosis	OMIM:219700
+4	0.73	Microvillus inclusion disease	OMIM:251850
+5	0.69	Pseudohypoaldosteronism type 1	OMIM:264350
+6	0.67	Lowe syndrome	OMIM:309000
+7	0.65	Glutaric acidemia type 1	OMIM:231670
+8	0.63	Propionic acidemia	OMIM:606054
+9	0.61	Isovaleric acidemia	OMIM:243500
+10	0.59	Maple syrup urine disease	OMIM:248600

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Hemochromatosis	OMIM:235200
+3	0.7	Acute liver failure	OMIM:613070
+4	0.6	Hepatocellular carcinoma	OMIM:114550
+5	0.5	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+6	0.4	Non-alcoholic fatty liver disease	OMIM:613282
+7	0.3	Leigh syndrome	OMIM:256000
+8	0.2	Mitochondrial DNA depletion syndrome	OMIM:251880
+9	0.1	Autoimmune hepatitis	OMIM:613004

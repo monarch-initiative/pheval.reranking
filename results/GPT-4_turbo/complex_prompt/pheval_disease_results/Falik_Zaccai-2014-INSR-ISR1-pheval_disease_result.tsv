@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.8	Congenital generalized lipodystrophy	OMIM:608594
+3	0.7	Insulinoma	OMIM:256450
+4	0.6	Pallister-Hall syndrome	OMIM:146510
+5	0.5	McCune-Albright syndrome	OMIM:174800
+6	0.4	Polycystic ovary syndrome	OMIM:184700

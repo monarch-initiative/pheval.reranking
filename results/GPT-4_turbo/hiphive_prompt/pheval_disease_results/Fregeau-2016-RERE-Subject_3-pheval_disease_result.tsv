@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Marfan Syndrome	OMIM:154700
+2	0.86	Chromosome 22q11.2 Deletion Syndrome	OMIM:188400
+3	0.85	Noonan Syndrome	OMIM:163950
+4	0.84	Turner Syndrome	OMIM:300400
+5	0.82	22q13.3 Deletion Syndrome	OMIM:606232
+6	0.8	Williams Syndrome	OMIM:194050
+7	0.78	Smith-Magenis Syndrome	OMIM:182290
+8	0.77	Kleefstra Syndrome	OMIM:610253
+9	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.74	CHARGE Syndrome	OMIM:214800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Cerebellar ataxia, mental retardation, and dysequlibrium syndrome	OMIM:224050
+2	0.86	Seckel syndrome	OMIM:210600
+3	0.84	Coffin-Siris syndrome	OMIM:135900
+4	0.82	Shwachman-Diamond syndrome	OMIM:260400
+5	0.79	Pierpont syndrome	OMIM:602342
+6	0.77	Mulibrey nanism	OMIM:253250
+7	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.74	Meier-Gorlin syndrome	OMIM:224690
+9	0.72	Bohring-Opitz syndrome	OMIM:605039
+10	0.7	COFS syndrome	OMIM:214150

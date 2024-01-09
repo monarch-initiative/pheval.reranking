@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hyper IgE syndrome	OMIM:147060
+2	0.85	Chronic mucocutaneous candidiasis	OMIM:114580
+3	0.8	Hypereosinophilic syndrome	OMIM:607685
+4	0.75	Combined immunodeficiency due to CD3-gamma deficiency	OMIM:609507
+5	0.7	Omenn syndrome	OMIM:603554
+6	0.65	IPEX syndrome	OMIM:304790
+7	0.6	Wiskott-Aldrich syndrome	OMIM:301000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.93	Fragile X syndrome	OMIM:300624
+3	0.92	Angelman syndrome	OMIM:105830
+4	0.91	Prader-Willi syndrome	OMIM:176270
+5	0.89	Duchenne muscular dystrophy	OMIM:310200
+6	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.85	Tuberous sclerosis	OMIM:191100
+8	0.84	Phenylketonuria	OMIM:261600
+9	0.82	Lysosomal storage diseases	OMIM:607014
+10	0.81	Coffin-Lowry syndrome	OMIM:303600

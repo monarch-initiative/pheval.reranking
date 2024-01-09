@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Larsen syndrome	OMIM:150250
+2	0.85	Diastrophic dysplasia	OMIM:222600
+3	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.75	Spondylocarpotarsal synostosis	OMIM:272460
+5	0.7	Multiple joint dislocations, short stature, and craniofacial dysmorphism with or without congenital heart defects	OMIM:245600
+6	0.65	Desbuquois dysplasia	OMIM:251450
+7	0.6	Kniest dysplasia	OMIM:156550
+8	0.55	Otopalatodigital syndrome, type II	OMIM:304120
+9	0.5	Meckel syndrome	OMIM:249000
+10	0.45	Pseudoachondroplasia	OMIM:177170

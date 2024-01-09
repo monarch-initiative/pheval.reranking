@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypochondroplasia	OMIM:146000
+2	0.85	Campomelic Dysplasia	OMIM:114290
+3	0.8	Achondroplasia	OMIM:100800
+4	0.75	Osteogenesis Imperfecta, Type III	OMIM:259420
+5	0.7	Thanatophoric Dysplasia Type I	OMIM:187600

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Shwachman-Diamond Syndrome	OMIM:260400
+3	0.7	Dyskeratosis Congenita	OMIM:127550
+4	0.6	Chronic Granulomatous Disease	OMIM:306400
+5	0.5	Hyper-IgM Immunodeficiency Syndrome	OMIM:308230
+6	0.4	Poikiloderma with Neutropenia	OMIM:604173
+7	0.3	Severe Combined Immunodeficiency	OMIM:102700
+8	0.2	Ataxia-Telangiectasia	OMIM:208900
+9	0.1	Nijmegen Breakage Syndrome	OMIM:251260

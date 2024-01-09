@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi Syndrome	OMIM:176270
+2	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.7	Silver-Russell Syndrome	OMIM:180860
+4	0.6	Noonan Syndrome	OMIM:163950
+4	0.6	Rubinstein-Taybi Syndrome	OMIM:180849

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Zellweger syndrome	OMIM:214100
+2	0.8	DiGeorge syndrome	OMIM:188400
+3	0.7	Mowat-Wilson syndrome	OMIM:235730
+4	0.6	CHARGE syndrome	OMIM:214800
+5	0.5	Congenital disorder of glycosylation, type Ia	OMIM:212065
+6	0.4	Schimke immuno-osseous dysplasia	OMIM:242900
+7	0.3	Hyper IgM Immunodeficiency syndrome	OMIM:308230
+8	0.2	Seckel syndrome	OMIM:210600

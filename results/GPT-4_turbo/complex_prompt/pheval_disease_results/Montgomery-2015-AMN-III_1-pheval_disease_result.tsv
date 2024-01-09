@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pernicious Anemia	OMIM:170900
+2	0.8	Megaloblastic Anemia	OMIM:261100
+3	0.7	Cobalamin Deficiency	OMIM:275350
+4	0.6	Glomerulonephritis	OMIM:138700
+5	0.5	Familial Proteinuria	OMIM:609057
+5	0.5	Imerslund-Grasbeck Syndrome	OMIM:261100
+7	0.4	Fanconi Anemia	OMIM:227650
+7	0.4	Systemic Lupus Erythematosus	OMIM:152700
+9	0.3	Renal Tubular Acidosis	OMIM:267300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.6	Greig cephalopolysyndactyly syndrome	OMIM:175700
+2	0.5	Sotos syndrome 1	OMIM:117550
+3	0.4	Cohen syndrome	OMIM:216550
+4	0.3	Proteus syndrome	OMIM:176920
+4	0.3	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+4	0.3	Familial adenomatous polyposis	OMIM:175100
+7	0.2	Cronkhite-Canada syndrome	OMIM:175500
+7	0.2	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.1	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome	OMIM:175050
+9	0.1	Carney complex	OMIM:160980

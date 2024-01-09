@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.93	Prader-Willi syndrome	OMIM:176270
+3	0.91	Angelman syndrome	OMIM:105830
+4	0.89	Duchenne muscular dystrophy	OMIM:310200
+5	0.87	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.85	Down syndrome	OMIM:190685
+7	0.83	Fragile X syndrome	OMIM:300624
+8	0.81	Smith-Magenis syndrome	OMIM:182290
+9	0.79	Myotonic dystrophy type 1	OMIM:160900
+10	0.78	Charcot-Marie-Tooth disease type 1A	OMIM:118220

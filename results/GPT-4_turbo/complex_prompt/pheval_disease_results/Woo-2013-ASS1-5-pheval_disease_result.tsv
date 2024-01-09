@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Citrullinemia, Type I	OMIM:215700
+2	0.85	Argininosuccinic Aciduria	OMIM:207900
+3	0.8	Ornithine Transcarbamylase Deficiency	OMIM:311250
+4	0.75	Hyperargininemia	OMIM:207800
+5	0.7	Arginase Deficiency	OMIM:207800
+6	0.65	Lysinuric Protein Intolerance	OMIM:222700
+7	0.6	Hyperprolinemia Type II	OMIM:239510
+8	0.55	Urea Cycle Disorder, Unspecified	OMIM:300840
+9	0.5	Pyrimidine 5'-nucleotidase, supertype I	OMIM:606224
+10	0.45	Carbamoyl-Phosphate Synthetase I Deficiency	OMIM:237300

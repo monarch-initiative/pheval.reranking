@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Systemic lupus erythematosus	OMIM:152700
+2	0.84	Giant cell arteritis	OMIM:228860
+3	0.83	Behcet's syndrome	OMIM:109650
+4	0.82	Granulomatosis with polyangiitis	OMIM:608710
+5	0.8	Polyarteritis nodosa	OMIM:615688
+6	0.79	Hypereosinophilic syndrome, idiopathic, 1	OMIM:607685
+7	0.78	Cryopyrin-associated periodic syndromes	OMIM:606416
+8	0.77	Cogan syndrome	OMIM:132950
+9	0.76	Muckle-Wells syndrome	OMIM:191900
+10	0.75	Takayasu arteritis	OMIM:207600

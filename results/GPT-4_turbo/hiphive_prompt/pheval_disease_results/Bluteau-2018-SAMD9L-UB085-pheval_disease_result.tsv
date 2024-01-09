@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Dyskeratosis congenita	OMIM:127550
+2	0.76	Seckel syndrome	OMIM:210600
+3	0.73	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+4	0.71	Alexander disease	OMIM:203450
+5	0.69	Ataxia-telangiectasia	OMIM:208900
+6	0.68	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.65	Common variable immune deficiency	OMIM:607594
+8	0.63	Shwachman-Diamond syndrome	OMIM:260400
+9	0.6	Mucopolysaccharidosis	OMIM:253220
+10	0.58	Pelizaeus-Merzbacher disease	OMIM:312080

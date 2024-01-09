@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome	OMIM:163950
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.79	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.78	Costello syndrome	OMIM:218040
+5	0.77	Williams syndrome	OMIM:194050
+6	0.75	Donohue syndrome	OMIM:246200
+7	0.74	Cornelia de Lange syndrome	OMIM:122470
+8	0.72	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.71	Cohen syndrome	OMIM:216550
+10	0.7	Alpha-thalassemia mental retardation syndrome	OMIM:301040

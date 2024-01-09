@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charge syndrome	OMIM:214800
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	22q11.2 deletion syndrome	OMIM:188400
+4	0.6	CHOPS syndrome	OMIM:616368
+4	0.6	Pallister-Hall syndrome	OMIM:146510
+6	0.5	Cohen syndrome	OMIM:216550
+6	0.5	Noonan syndrome	OMIM:163950
+8	0.4	Cornelia de Lange syndrome	OMIM:122470
+8	0.4	Smith-Magenis syndrome	OMIM:182290
+10	0.3	Treacher Collins syndrome	OMIM:154500

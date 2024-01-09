@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Diastrophic dysplasia	OMIM:222600
+2	0.85	Larsen syndrome	OMIM:150250
+3	0.82	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.79	Kniest dysplasia	OMIM:156550
+5	0.77	Cleidocranial dysplasia	OMIM:119600
+6	0.75	Multiple epiphyseal dysplasia	OMIM:132400
+7	0.72	Stickler syndrome	OMIM:108300
+8	0.7	Ellis-van Creveld syndrome	OMIM:225500
+9	0.68	Osteogenesis imperfecta, type III	OMIM:259420
+10	0.65	Campomelic dysplasia	OMIM:114290

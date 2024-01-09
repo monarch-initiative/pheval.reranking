@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Williams Syndrome	OMIM:194050
+2	0.75	Marfan Syndrome	OMIM:154700
+3	0.73	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.72	Loeys-Dietz Syndrome	OMIM:609192
+5	0.71	Cutis Laxa, Autosomal Dominant	OMIM:123700
+6	0.7	Pseudoxanthoma Elasticum	OMIM:264800
+7	0.65	Homocystinuria	OMIM:236200
+8	0.64	Fabry Disease	OMIM:301500
+9	0.63	Alagille Syndrome	OMIM:118450
+10	0.62	Congenital Contractural Arachnodactyly	OMIM:121050

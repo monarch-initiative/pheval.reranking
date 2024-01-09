@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+2	0.92	Congenital heart defects, multiple types, 2	OMIM:614980
+3	0.91	Heterotaxy, visceral, 5	OMIM:270100
+4	0.89	Ellis-van Creveld syndrome	OMIM:225500
+5	0.88	Primary ciliary dyskinesia	OMIM:244400
+6	0.86	Heart-hand syndrome, Slovenian type	OMIM:610140
+7	0.85	Ciliary dyskinesia, primary, 1	OMIM:244400
+8	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.8	Noonan syndrome 1	OMIM:163950
+10	0.79	Kartagener syndrome	OMIM:244400

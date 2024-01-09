@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan Syndrome	OMIM:154700
+2	0.9	Homocystinuria	OMIM:236200
+3	0.8	Beals Syndrome	OMIM:121050
+4	0.7	Loeys-Dietz Syndrome	OMIM:609192
+5	0.6	Shprintzen-Goldberg Syndrome	OMIM:182212
+6	0.5	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+7	0.4	Stickler Syndrome	OMIM:108300
+8	0.3	Fibrillinopathy	OMIM:134797
+9	0.2	MASS Phenotype	OMIM:604308
+10	0.1	Congenital Contractural Arachnodactyly	OMIM:121050

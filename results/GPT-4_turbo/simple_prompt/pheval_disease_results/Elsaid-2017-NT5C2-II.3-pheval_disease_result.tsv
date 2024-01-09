@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+2	0.7	L1 syndrome	OMIM:308840
+3	0.65	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+4	0.6	Spastic paraplegia 2, X-linked	OMIM:312920
+5	0.55	Mowat-Wilson syndrome	OMIM:235730
+6	0.5	Pelizaeus-Merzbacher disease	OMIM:312080

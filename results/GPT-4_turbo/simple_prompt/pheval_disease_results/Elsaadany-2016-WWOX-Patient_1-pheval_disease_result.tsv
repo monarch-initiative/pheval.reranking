@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh Syndrome	OMIM:256000
+2	0.85	Leber Hereditary Optic Neuropathy	OMIM:535000
+3	0.8	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+4	0.75	Canavan Disease	OMIM:271900
+5	0.7	Alexander Disease	OMIM:203450
+6	0.65	Pyruvate Dehydrogenase Complex Deficiency	OMIM:312170
+7	0.6	Glutaric Acidemia Type I	OMIM:231670
+8	0.55	Pelizaeus-Merzbacher Disease	OMIM:312080
+9	0.5	Megalencephalic Leukoencephalopathy with Subcortical Cysts	OMIM:604004

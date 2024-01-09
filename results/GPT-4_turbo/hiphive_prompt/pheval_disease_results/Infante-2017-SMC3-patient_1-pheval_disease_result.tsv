@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Cornelia de Lange Syndrome	OMIM:122470
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.83	Noonan syndrome	OMIM:163950
+4	0.82	Smith-Magenis Syndrome	OMIM:182290
+5	0.8	Williams Syndrome	OMIM:194050
+6	0.79	Coffin-Siris Syndrome	OMIM:135900
+7	0.76	3M Syndrome	OMIM:273750
+8	0.75	Beckwith-Wiedemann Syndrome	OMIM:130650
+9	0.73	Mulibrey Nanism	OMIM:253250
+10	0.71	Wiedemann-Steiner Syndrome	OMIM:605130

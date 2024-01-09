@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Costello syndrome	OMIM:218040
+3	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.6	LEOPARD syndrome	OMIM:151100
+5	0.5	Cardiofaciocutaneous syndrome	OMIM:115150
+6	0.4	Cornelia de Lange syndrome	OMIM:122470
+7	0.3	Conradi-Hunermann syndrome	OMIM:302960
+8	0.2	Netherton syndrome	OMIM:256500
+9	0.1	Sjogren-Larsson syndrome	OMIM:270200

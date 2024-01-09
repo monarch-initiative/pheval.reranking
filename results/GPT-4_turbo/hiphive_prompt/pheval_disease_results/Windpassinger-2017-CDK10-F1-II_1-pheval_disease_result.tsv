@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan syndrome	OMIM:163950
+2	0.91	Turner syndrome	OMIM:300400
+3	0.87	22q11.2 deletion syndrome	OMIM:188400
+4	0.86	Williams syndrome	OMIM:194050
+5	0.85	Cornelia de Lange syndrome	OMIM:122470
+6	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.81	Smith-Magenis syndrome	OMIM:182290
+8	0.79	Marfan syndrome	OMIM:154700
+9	0.77	Cleidocranial dysplasia	OMIM:119600
+10	0.75	Prader-Willi syndrome	OMIM:176270

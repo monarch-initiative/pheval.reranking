@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome	OMIM:163950
+2	0.82	Marfan Syndrome	OMIM:154700
+3	0.8	22q11.2 deletion syndrome	OMIM:611867
+4	0.78	DiGeorge syndrome	OMIM:188400
+5	0.76	Loeys-Dietz syndrome	OMIM:609192
+6	0.74	Apert syndrome	OMIM:101200
+7	0.73	Crouzon syndrome	OMIM:123500
+8	0.71	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.7	Ellis-van Creveld syndrome	OMIM:225500
+10	0.68	Van Buchem disease type 2	OMIM:607636

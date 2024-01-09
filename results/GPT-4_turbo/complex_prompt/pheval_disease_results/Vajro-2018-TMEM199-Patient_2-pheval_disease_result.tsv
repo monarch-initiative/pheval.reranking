@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.7	Indian Childhood Cirrhosis	OMIM:215600
+3	0.6	Primary Biliary Cholangitis	OMIM:109720
+3	0.6	Nonalcoholic Steatohepatitis	OMIM:613282
+5	0.5	Medication-induced Cholestasis	OMIM:NULL
+5	0.5	Hepatolenticular Degeneration	OMIM:277900
+7	0.4	Cholestasis, Progressive Familial Intrahepatic 3	OMIM:602347
+8	0.3	Graves' Disease	OMIM:275000

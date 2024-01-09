@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Morquio Syndrome	OMIM:253000
+2	0.82	Achondroplasia	OMIM:100800
+3	0.8	Cleidocranial Dysostosis	OMIM:119600
+4	0.79	Marfan Syndrome	OMIM:154700
+5	0.78	Pfeiffer Syndrome	OMIM:101600
+6	0.77	Mucopolysaccharidosis Type IV	OMIM:253000
+7	0.76	Gaucher Disease Type 3	OMIM:231000
+8	0.75	Noonan Syndrome	OMIM:163950
+9	0.74	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+10	0.73	Beals-Hecht Syndrome	OMIM:121050

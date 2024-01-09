@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Mucopolysaccharidosis Type III	OMIM:252900
+4	0.6	Sotos Syndrome	OMIM:117550
+5	0.5	Costello Syndrome	OMIM:218040
+5	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.4	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650

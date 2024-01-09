@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.7	Primary Biliary Cirrhosis	OMIM:109720
+3	0.6	Indian Childhood Cirrhosis	OMIM:215600
+3	0.6	Non-alcoholic Fatty Liver Disease	OMIM:613282
+5	0.5	Cholestasis, Progressive Familial Intrahepatic, 1	OMIM:211600
+5	0.5	Cholestasis, Progressive Familial Intrahepatic, 2	OMIM:601847
+5	0.5	Cholestasis, Progressive Familial Intrahepatic, 3	OMIM:602347
+8	0.4	Antithrombin III Deficiency	OMIM:613118
+8	0.4	Citrullinemia, Type II, Adult-Onset	OMIM:603471
+10	0.3	Alpha-1-Antitrypsin Deficiency	OMIM:613490

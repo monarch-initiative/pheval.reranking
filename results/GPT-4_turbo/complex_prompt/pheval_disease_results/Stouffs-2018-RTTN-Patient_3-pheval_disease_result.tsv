@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	3MC syndrome	OMIM:257920
+2	0.7	Mowat-Wilson syndrome	OMIM:235730
+2	0.7	Autosomal recessive primary microcephaly	OMIM:251200
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion 1	OMIM:224050
+4	0.6	Pontocerebellar hypoplasia type 1	OMIM:607596
+7	0.5	Pontocerebellar hypoplasia type 2	OMIM:277470
+7	0.5	Coffin-Siris syndrome	OMIM:135900
+7	0.5	Seckel syndrome	OMIM:210600
+10	0.4	Cornelia de Lange syndrome	OMIM:122470

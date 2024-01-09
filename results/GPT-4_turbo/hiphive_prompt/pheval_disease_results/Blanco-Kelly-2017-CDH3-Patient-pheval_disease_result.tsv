@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Clouston syndrome	OMIM:129500
+2	0.85	Hypotrichosis-lymphedema-telangiectasia syndrome	OMIM:607823
+3	0.8	Rothmund-Thomson syndrome	OMIM:268400
+4	0.78	Keratitis-Ichthyosis-Deafness (KID) syndrome	OMIM:148210
+5	0.75	Ichthyosis follicularis-alopecia-photophobia (IFAP) syndrome	OMIM:308205
+6	0.73	Pachyonychia congenita	OMIM:167200
+7	0.71	Xeroderma pigmentosum	OMIM:278700
+8	0.7	Werner syndrome	OMIM:277700
+9	0.68	Ectodermal dysplasia	OMIM:129490
+10	0.65	Hidrotic ectodermal dysplasia syndrome	OMIM:129500

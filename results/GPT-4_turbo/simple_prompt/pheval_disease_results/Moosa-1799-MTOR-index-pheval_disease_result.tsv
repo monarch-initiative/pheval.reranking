@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cohen syndrome	OMIM:216550
+2	0.75	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+3	0.7	Sotos syndrome 1	OMIM:117550
+4	0.65	Greig cephalopolysyndactyly syndrome	OMIM:175700
+5	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.55	Familial adenomatous polyposis 1	OMIM:175100

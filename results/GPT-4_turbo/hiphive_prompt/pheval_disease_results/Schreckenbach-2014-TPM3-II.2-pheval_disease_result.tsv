@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Muscular Dystrophy-Dystroglycanopathy (Limb-Girdle)	OMIM:613155
+2	0.92	Myasthenia, Limb-Girdle, Familial	OMIM:254300
+3	0.9	Myopathy, Centronuclear, 1	OMIM:160150
+4	0.88	Mitochondrial Myopathy	OMIM:500001
+5	0.87	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+6	0.85	Glycogen Storage Disease Type V	OMIM:232600
+7	0.82	Myopathy, Distal, 1	OMIM:160500
+8	0.81	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+9	0.79	Spinal Muscular Atrophy	OMIM:253300
+10	0.77	Myotonic Dystrophy Type 1	OMIM:160900

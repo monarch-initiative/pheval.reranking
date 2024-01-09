@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bernard-Soulier syndrome	OMIM:231200
+2	0.92	Glanzmann thrombasthenia	OMIM:273800
+3	0.85	Immune thrombocytopenic purpura	OMIM:188030
+4	0.82	May-Hegglin anomaly	OMIM:155100
+5	0.81	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.79	Paris-Trousseau thrombocytopenia	OMIM:188025
+7	0.77	Grey platelet syndrome	OMIM:139090
+8	0.74	Platelet-type bleeding disorder 17	OMIM:187900
+9	0.73	MYH9-related disorders	OMIM:160775
+10	0.71	Thrombotic thrombocytopenic purpura, acquired	OMIM:274150

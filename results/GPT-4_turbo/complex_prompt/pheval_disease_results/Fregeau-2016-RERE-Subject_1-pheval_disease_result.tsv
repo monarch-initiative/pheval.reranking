@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cat Eye Syndrome	OMIM:115470
+2	0.8	Opitz G/BBB Syndrome	OMIM:300000
+3	0.7	CHARGE Syndrome	OMIM:214800
+4	0.6	Cornelia de Lange Syndrome	OMIM:122470
+5	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.4	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.3	Lowe Syndrome	OMIM:309000
+8	0.2	Pfeiffer Syndrome	OMIM:101600

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia	OMIM:303350
+2	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+3	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.84	Friedreich ataxia	OMIM:229300
+5	0.83	Multiple sclerosis	OMIM:126200
+6	0.82	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+7	0.8	Spinal muscular atrophy	OMIM:253300
+8	0.79	Spinocerebellar ataxia	OMIM:164400
+9	0.77	Primary lateral sclerosis	OMIM:611637
+10	0.76	Leukodystrophy, metachromatic	OMIM:250100

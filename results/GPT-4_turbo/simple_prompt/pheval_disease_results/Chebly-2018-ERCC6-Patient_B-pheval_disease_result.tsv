@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.85	Xeroderma Pigmentosum	OMIM:278700
+3	0.75	Rothmund-Thomson Syndrome	OMIM:268400
+4	0.7	Bloom Syndrome	OMIM:210900

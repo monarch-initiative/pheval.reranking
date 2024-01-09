@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amelogenesis imperfecta, type 1G	OMIM:614253
+2	0.9	Jalili syndrome	OMIM:217080
+3	0.88	Amelogenesis imperfecta, type 1B	OMIM:104500
+4	0.85	Amelogenesis imperfecta, type 1C	OMIM:204650
+5	0.82	Amelogenesis imperfecta, type 1F	OMIM:616270
+6	0.8	Amelogenesis imperfecta, type 1E	OMIM:301200
+7	0.78	Amelogenesis imperfecta, type 2A1	OMIM:204700
+8	0.76	Amelogenesis imperfecta, type 3A	OMIM:614253
+9	0.74	Amelogenesis imperfecta, type 4A	OMIM:104510
+10	0.72	Amelogenesis imperfecta, type 4B	OMIM:619914

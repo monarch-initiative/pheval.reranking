@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Nephrotic Syndrome, Type 1	OMIM:256300
+2	0.85	Congenital Lipoid Adrenal Hyperplasia	OMIM:201710
+3	0.82	Lipoprotein Glomerulopathy	OMIM:611771
+4	0.8	Mevalonic Aciduria	OMIM:610377
+5	0.79	Schimke Immuno-Osseous Dysplasia	OMIM:242900
+6	0.78	Alport Syndrome	OMIM:301050
+7	0.77	Pierson Syndrome	OMIM:609049
+8	0.75	Hypocomplementemic Urticarial Vasculitis	OMIM:228020
+9	0.74	Lecithin Cholesterol Acyltransferase Deficiency	OMIM:245900
+10	0.72	Thyroid Dyshormonogenesis 1	OMIM:274400

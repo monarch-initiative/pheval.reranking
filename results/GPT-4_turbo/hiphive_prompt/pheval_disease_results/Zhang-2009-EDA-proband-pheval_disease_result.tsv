@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	OMIM:224900
+2	0.87	Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Tooth Type, Autosomal Dominant	OMIM:614940
+3	0.83	Frontonasal Dysplasia	OMIM:136760
+4	0.8	Lipoid Proteinosis	OMIM:247100
+5	0.76	Ectodermal Dysplasia-Syndactyly Syndrome 1	OMIM:613573
+6	0.74	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+7	0.71	Gingival Fibromatosis with Hypertrichosis	OMIM:135400
+8	0.68	Craniofrontonasal Syndrome	OMIM:304110
+9	0.65	Ectodermal Dysplasia, Anhidrotic, with Immune Deficiency	OMIM:300291
+10	0.62	Odontoonychodermal Dysplasia	OMIM:257980

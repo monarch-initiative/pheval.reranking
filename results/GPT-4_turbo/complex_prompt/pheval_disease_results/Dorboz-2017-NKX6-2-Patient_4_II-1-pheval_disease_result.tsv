@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Leber Congenital Amaurosis	OMIM:204000
+2	0.6	Pelizaeus-Merzbacher Disease	OMIM:312080
+3	0.5	Rett Syndrome	OMIM:312750
+3	0.5	Canavan Disease	OMIM:271900
+3	0.5	Alexander Disease	OMIM:203450
+3	0.5	Spinal Muscular Atrophy	OMIM:253300
+7	0.4	Zellweger Syndrome	OMIM:214100
+7	0.4	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+9	0.3	Infantile Neuroaxonal Dystrophy	OMIM:256600
+9	0.3	Tay-Sachs Disease	OMIM:272800

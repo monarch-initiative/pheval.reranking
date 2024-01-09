@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa	OMIM:268000
+2	0.8	Usher Syndrome, Type I	OMIM:276900
+3	0.75	Usher Syndrome, Type II	OMIM:276901
+4	0.65	Usher Syndrome, Type III	OMIM:276902
+5	0.6	Leber Congenital Amaurosis	OMIM:204000

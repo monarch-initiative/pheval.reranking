@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	22q11.2 deletion syndrome	OMIM:188400
+2	0.91	CHARGE syndrome	OMIM:214800
+3	0.87	Williams syndrome	OMIM:194050
+4	0.86	DiGeorge syndrome	OMIM:188400
+5	0.83	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.81	Cornelia de Lange syndrome	OMIM:122470
+7	0.78	Noonan syndrome	OMIM:163950
+8	0.75	Kabuki syndrome	OMIM:147920
+9	0.72	Velocardiofacial syndrome	OMIM:192430
+10	0.7	Rubinstein-Taybi syndrome	OMIM:180849

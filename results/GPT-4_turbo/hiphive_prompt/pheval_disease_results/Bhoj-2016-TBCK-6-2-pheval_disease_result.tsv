@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rett syndrome	OMIM:312750
+2	0.87	Down syndrome	OMIM:190685
+3	0.85	Prader-Willi syndrome	OMIM:176270
+4	0.83	Williams syndrome	OMIM:194050
+5	0.8	Smith-Magenis syndrome	OMIM:182290
+6	0.78	Noonan syndrome	OMIM:163950
+7	0.76	Mucopolysaccharidosis	OMIM:252700
+8	0.74	Angelman syndrome	OMIM:105830
+9	0.72	22q11.2 deletion syndrome	OMIM:188400
+10	0.7	Coffin-Siris syndrome	OMIM:135900

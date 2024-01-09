@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.7	CHARGE Syndrome	OMIM:214800
+3	0.6	Cornelia de Lange Syndrome	OMIM:122470
+4	0.5	Noonan Syndrome	OMIM:163950
+5	0.4	Treacher Collins Syndrome	OMIM:154500
+6	0.3	Down Syndrome	OMIM:190685

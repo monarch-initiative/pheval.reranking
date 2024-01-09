@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Multiple Endocrine Neoplasia Type 1	OMIM:131100
+2	0.85	Pituitary Adenoma, ACTH-Secreting	OMIM:219090
+2	0.85	MEN1 Syndrome	OMIM:613733
+4	0.8	Pituitary Adenoma 1, Multiple Types	OMIM:102200
+5	0.75	Carcinoid Tumors, Intestinal	OMIM:114900
+6	0.7	Zollinger-Ellison Syndrome	OMIM:260350
+7	0.65	Hyperparathyroidism 1	OMIM:145000
+8	0.6	Familial Isolated Hyperparathyroidism	OMIM:145001

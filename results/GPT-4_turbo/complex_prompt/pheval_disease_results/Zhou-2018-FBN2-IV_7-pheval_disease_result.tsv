@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Beals-Hecht Syndrome	OMIM:121050
+3	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.6	Homocystinuria	OMIM:236200
+5	0.5	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+6	0.45	Stickler Syndrome	OMIM:108300
+7	0.4	Fragile X Syndrome	OMIM:300624
+8	0.35	Klinefelter Syndrome	OMIM:47XXY
+9	0.3	Weill-Marchesani Syndrome	OMIM:277600
+10	0.25	Shprintzen-Goldberg Syndrome	OMIM:182212

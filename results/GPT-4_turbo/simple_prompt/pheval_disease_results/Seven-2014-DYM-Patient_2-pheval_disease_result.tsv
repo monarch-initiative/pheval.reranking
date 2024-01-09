@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pseudoachondroplasia	OMIM:177170
+2	0.85	Cartilage-hair hypoplasia	OMIM:250250
+3	0.8	Spondyloepimetaphyseal dysplasia, Pakistani type	OMIM:612847
+4	0.75	Diastrophic dysplasia	OMIM:222600
+5	0.7	Ellis-van Creveld syndrome	OMIM:225500

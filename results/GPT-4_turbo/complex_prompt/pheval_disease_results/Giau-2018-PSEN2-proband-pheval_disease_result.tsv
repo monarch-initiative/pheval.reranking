@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer Disease	OMIM:104300
+2	0.8	Frontotemporal Dementia	OMIM:600274
+3	0.7	Dementia With Lewy Bodies	OMIM:127750
+4	0.6	Vascular Dementia	OMIM:153794
+4	0.6	Huntington Disease	OMIM:143100
+6	0.5	Creutzfeldt-Jakob Disease	OMIM:123400
+6	0.5	Pick Disease	OMIM:172700
+8	0.4	Corticobasal Degeneration	OMIM:615643
+9	0.3	Alcohol-Related Dementia	OMIM:607200
+10	0.2	Traumatic Brain Injury	OMIM:607499

@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heimler Syndrome 1	OMIM:234580
+2	0.8	Heimler Syndrome 2	OMIM:616617
+3	0.7	Tooth Agenesis, Selective, 1, with or without Orofacial Cleft	OMIM:106600
+4	0.6	Amelogenesis Imperfecta, Type Ia	OMIM:104530
+4	0.6	Amelogenesis Imperfecta, Type Ib	OMIM:104500
+4	0.6	Amelogenesis Imperfecta, Type Ic	OMIM:204650
+4	0.6	Amelogenesis Imperfecta, Type Id	OMIM:104510
+4	0.6	Amelogenesis Imperfecta, Type Ie	OMIM:301200
+4	0.6	Amelogenesis Imperfecta, Type If	OMIM:617297
+10	0.5	Amelogenesis Imperfecta, Type IVa	OMIM:104510
+10	0.5	Amelogenesis Imperfecta, Type IVc	OMIM:610975

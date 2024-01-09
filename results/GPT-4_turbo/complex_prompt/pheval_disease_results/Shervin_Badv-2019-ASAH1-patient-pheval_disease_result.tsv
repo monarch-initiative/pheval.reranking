@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy-dystroglycanopathy type C5	OMIM:607155
+2	0.85	Becker muscular dystrophy	OMIM:300376
+3	0.8	Mitochondrial myopathy	OMIM:500001
+3	0.8	Myotonic dystrophy type 1	OMIM:160900
+5	0.75	Pompe disease	OMIM:232300
+6	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+7	0.65	Amyotrophic lateral sclerosis	OMIM:105400
+8	0.6	Sporadic adult-onset ataxia of unknown etiology	OMIM:609270

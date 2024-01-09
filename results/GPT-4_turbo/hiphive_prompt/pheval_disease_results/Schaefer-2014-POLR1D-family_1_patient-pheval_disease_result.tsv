@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Treacher Collins syndrome 1	OMIM:154500
+2	0.85	Waardenburg syndrome, type 1	OMIM:193500
+3	0.83	Velocardiofacial syndrome	OMIM:192430
+4	0.82	22q11.2 deletion syndrome	OMIM:188400
+5	0.81	Noonan syndrome 1	OMIM:163950
+6	0.8	CHARGE syndrome	OMIM:214800
+7	0.79	DiGeorge syndrome	OMIM:188400
+8	0.78	Stickler syndrome, type I	OMIM:108300
+9	0.76	Branchiootorenal syndrome 1	OMIM:113650
+10	0.75	Wolf-Hirschhorn syndrome	OMIM:194190

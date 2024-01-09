@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Nance-Horan Syndrome	OMIM:302350
+2	0.75	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.7	CHARGE Syndrome	OMIM:214800
+4	0.65	Microphthalmia with Limb Anomalies	OMIM:206920
+5	0.6	Oculo-oto-dental Syndrome	OMIM:164210

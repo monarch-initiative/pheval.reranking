@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonic dystrophy type 1	OMIM:160900
+2	0.8	Glycogen storage disease type II	OMIM:232300
+3	0.7	Wilson disease	OMIM:277900
+4	0.6	Mitochondrial myopathy	OMIM:500001
+5	0.5	Becker muscular dystrophy	OMIM:300376
+6	0.4	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+7	0.3	Propionic acidemia	OMIM:606054
+8	0.2	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+9	0.1	Mitochondrial complex I deficiency	OMIM:252010
+10	0.05	Hyperthyroidism, nonautoimmune	OMIM:609152

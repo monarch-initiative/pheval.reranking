@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.8	Congenital Contractural Arachnodactyly	OMIM:121050
+3	0.75	Loeys-Dietz Syndrome	OMIM:609192
+4	0.7	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.65	Beals Syndrome	OMIM:121050
+6	0.6	Costello Syndrome	OMIM:218040
+7	0.55	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+8	0.5	Homocystinuria due to Cystathionine Beta-Synthase Deficiency	OMIM:236200
+9	0.45	Shprintzen-Goldberg Syndrome	OMIM:182212
+10	0.4	Cohen Syndrome	OMIM:216550

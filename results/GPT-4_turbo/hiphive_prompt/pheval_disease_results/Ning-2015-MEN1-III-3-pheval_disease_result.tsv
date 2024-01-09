@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia type 1	OMIM:131100
+2	0.85	Pituitary adenomas, multiple types	OMIM:102200
+3	0.8	MEN1-related familial isolated hyperparathyroidism	OMIM:145000
+4	0.75	Carcinoid syndrome	OMIM:259240
+5	0.7	Autoimmune polyendocrine syndrome type 1	OMIM:240300
+6	0.68	Zollinger-Ellison syndrome	OMIM:131100
+7	0.65	Primary familial isolated hyperparathyroidism	OMIM:145000
+8	0.6	Isolated ACTH deficiency	OMIM:201400
+9	0.55	Neurofibromatosis type 1	OMIM:162200
+10	0.5	Parathyroid adenoma	OMIM:169500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	von Willebrand Disease	OMIM:193400
+2	0.85	Glanzmann Thrombasthenia	OMIM:273800
+3	0.8	Bernard-Soulier Syndrome	OMIM:231200
+4	0.75	Platelet-type Bleeding Disorder 17	OMIM:187900
+5	0.7	Gray Platelet Syndrome	OMIM:139090
+6	0.65	Delta-storage Pool Disease	OMIM:262400
+7	0.6	Thrombocytopenia 2	OMIM:188000
+8	0.55	Hemophilia A	OMIM:306700
+9	0.5	Hemophilia B	OMIM:306900
+10	0.45	Iron Deficiency Anemia	OMIM:206200

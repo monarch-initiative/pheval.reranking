@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.8	Becker muscular dystrophy	OMIM:300376
+3	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.6	Facioscapulohumeral muscular dystrophy	OMIM:158900
+5	0.5	Emery-Dreifuss muscular dystrophy	OMIM:310300
+6	0.4	Myotonic dystrophy	OMIM:160900
+7	0.3	Pompe disease	OMIM:232300
+8	0.2	Congenital myopathies	OMIM:117000

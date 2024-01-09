@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Giant Cell Arteritis	OMIM:187360
+2	0.8	Systemic Lupus Erythematosus	OMIM:152700
+3	0.75	Meningitis	OMIM:607783
+4	0.7	Behcet Syndrome	OMIM:109650
+5	0.65	Idiopathic Intracranial Hypertension	OMIM:607836
+6	0.6	Polyarteritis Nodosa	OMIM:615688
+7	0.55	Granulomatosis with Polyangiitis	OMIM:608710
+8	0.5	Cryopyrin-Associated Periodic Syndromes	OMIM:606416

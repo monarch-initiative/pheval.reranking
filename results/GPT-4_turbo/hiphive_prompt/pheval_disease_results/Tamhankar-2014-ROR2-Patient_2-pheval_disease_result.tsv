@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.89	3MC Syndrome	OMIM:257920
+3	0.87	Cornelia de Lange Syndrome	OMIM:122470
+4	0.85	Kabuki Syndrome	OMIM:147920
+5	0.82	Noonan Syndrome	OMIM:163950
+6	0.8	Alagille Syndrome	OMIM:118450
+7	0.78	Carpenter Syndrome	OMIM:201000
+8	0.76	Smith-Magenis Syndrome	OMIM:182290
+9	0.74	Apert Syndrome	OMIM:101200
+10	0.72	Coffin-Siris Syndrome	OMIM:135900

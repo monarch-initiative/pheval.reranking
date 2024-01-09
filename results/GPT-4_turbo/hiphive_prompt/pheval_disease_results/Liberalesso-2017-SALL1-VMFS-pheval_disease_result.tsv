@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	CHARGE syndrome	OMIM:214800
+2	0.9	22q11.2 deletion syndrome	OMIM:188400
+3	0.88	VACTERL association	OMIM:192350
+4	0.86	Townes-Brocks syndrome	OMIM:107480
+5	0.85	Branchiootorenal syndrome	OMIM:113650
+6	0.83	Velocardiofacial syndrome	OMIM:192430
+7	0.81	DiGeorge syndrome	OMIM:188400
+8	0.79	Mowat-Wilson syndrome	OMIM:235730
+9	0.77	Noonan syndrome	OMIM:163950
+10	0.76	Craniofrontonasal syndrome	OMIM:304110

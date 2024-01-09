@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal Dysplasia, Anhidrotic	OMIM:305100
+2	0.85	Hypohidrotic Ectodermal Dysplasia	OMIM:300291
+2	0.85	Ectodermal Dysplasia 1, Hypohidrotic/X-Linked	OMIM:306800
+4	0.8	Ectodermal Dysplasia, Hidrotic, Clouston Type	OMIM:129500
+5	0.75	Odontoonychodermal Dysplasia	OMIM:257980
+6	0.7	Schopf-Schulz-Passarge Syndrome	OMIM:224750
+7	0.65	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.6	Hay-Wells Syndrome	OMIM:106260
+9	0.55	Pachyonychia Congenita	OMIM:167200
+10	0.5	Ectrodactyly-Ectodermal Dysplasia-Cleft Syndrome	OMIM:129900

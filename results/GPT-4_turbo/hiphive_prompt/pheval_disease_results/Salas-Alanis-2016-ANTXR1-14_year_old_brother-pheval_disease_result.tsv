@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Craniofrontonasal Syndrome	OMIM:304110
+2	0.83	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.81	Cleidocranial Dysplasia	OMIM:119600
+4	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.77	Pyknodysostosis	OMIM:265800
+6	0.75	Acrocephalosyndactyly, Apert Type	OMIM:101200
+7	0.73	Waardenburg Syndrome	OMIM:193500
+8	0.72	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+9	0.69	Schwartz-Jampel Syndrome	OMIM:255800
+10	0.67	Progeria	OMIM:176670

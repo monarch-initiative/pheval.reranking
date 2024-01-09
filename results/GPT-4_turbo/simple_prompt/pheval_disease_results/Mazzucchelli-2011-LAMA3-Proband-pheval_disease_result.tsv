@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolysis bullosa simplex, Koebner type	OMIM:131900
+2	0.9	Epidermolysis bullosa simplex, Weber-Cockayne type	OMIM:131800
+3	0.85	Epidermolysis bullosa simplex, Dowling-Meara type	OMIM:131760
+4	0.8	Bullous pemphigoid	OMIM:113200
+5	0.75	Epidermolysis bullosa simplex with muscular dystrophy	OMIM:226670
+6	0.7	Epidermolysis bullosa simplex with pyloric atresia	OMIM:612138
+7	0.65	Junctional epidermolysis bullosa, Herlitz type	OMIM:226700
+8	0.6	Dermatitis herpetiformis	OMIM:601776

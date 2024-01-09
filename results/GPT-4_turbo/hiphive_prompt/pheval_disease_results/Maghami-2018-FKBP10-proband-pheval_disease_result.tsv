@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta	OMIM:166200
+2	0.87	Hypophosphatasia	OMIM:241500
+3	0.82	Paget Disease of Bone	OMIM:167250
+4	0.8	Gaucher Disease	OMIM:230800
+5	0.79	Niemann-Pick Disease	OMIM:257200
+6	0.75	Alagille Syndrome	OMIM:118450
+7	0.73	Stickler Syndrome	OMIM:108300
+8	0.71	Cleidocranial Dysplasia	OMIM:119600
+9	0.69	Pyle Disease	OMIM:265800
+10	0.67	Van Buchem Disease	OMIM:239100

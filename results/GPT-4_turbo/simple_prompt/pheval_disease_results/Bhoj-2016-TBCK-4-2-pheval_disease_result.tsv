@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi Syndrome	OMIM:176270
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+4	0.6	Angelman Syndrome	OMIM:105830
+5	0.5	Myotonic Dystrophy	OMIM:160900

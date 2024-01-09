@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Creatine deficiency syndrome, X-linked	OMIM:300352
+2	0.8	Autism spectrum disorder	OMIM:209850
+3	0.75	Rett syndrome	OMIM:312750
+4	0.7	Angelman syndrome	OMIM:105830
+5	0.65	Fragile X syndrome	OMIM:300624

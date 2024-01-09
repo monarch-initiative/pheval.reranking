@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial dilated cardiomyopathy	OMIM:115200
+2	0.85	Lamin A/C; LMNA-related dilated cardiomyopathy	OMIM:150330
+3	0.8	Myocarditis	OMIM:611705
+4	0.75	Barth syndrome	OMIM:302060
+5	0.7	Danon disease	OMIM:300257
+6	0.65	Alcoholic cardiomyopathy	OMIM:612776
+7	0.6	Myocardial infarction	OMIM:608446
+8	0.55	Peripartum cardiomyopathy	OMIM:609658
+9	0.5	Duchenne muscular dystrophy	OMIM:310200
+10	0.45	Emery-Dreifuss muscular dystrophy	OMIM:310300

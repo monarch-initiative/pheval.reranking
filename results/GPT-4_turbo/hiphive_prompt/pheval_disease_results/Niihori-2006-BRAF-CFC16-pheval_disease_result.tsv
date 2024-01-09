@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Noonan Syndrome 1	OMIM:163950
+2	0.85	Costello Syndrome	OMIM:218040
+3	0.84	Cornelia de Lange Syndrome 1	OMIM:122470
+4	0.82	Cardiofaciocutaneous Syndrome	OMIM:115150
+5	0.8	LEOPARD Syndrome 1	OMIM:151100
+6	0.79	Craniofrontonasal Syndrome	OMIM:304110
+7	0.77	Noonan Syndrome-Like Disorder with or without Juvenile Myelomonocytic Leukemia	OMIM:611553
+8	0.76	Aarskog-Scott Syndrome	OMIM:305400
+9	0.74	Williams Syndrome	OMIM:194050
+10	0.73	Rubinstein-Taybi Syndrome 1	OMIM:180849

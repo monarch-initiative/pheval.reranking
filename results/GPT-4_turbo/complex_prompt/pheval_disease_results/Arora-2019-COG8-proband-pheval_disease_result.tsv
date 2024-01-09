@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Freeman-Sheldon syndrome	OMIM:193700
+2	0.75	Pena-Shokeir syndrome type I	OMIM:208150
+3	0.7	Multiple Pterygium Syndrome, Escobar Variant	OMIM:265000
+4	0.65	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+5	0.6	Marden-Walker Syndrome	OMIM:248700
+6	0.55	Noonan Syndrome	OMIM:163950
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.45	ATR-X Syndrome	OMIM:301040
+9	0.4	Beckwith-Wiedemann syndrome	OMIM:130650

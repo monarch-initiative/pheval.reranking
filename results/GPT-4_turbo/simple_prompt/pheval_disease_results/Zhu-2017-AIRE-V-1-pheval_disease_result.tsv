@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy	OMIM:240300
+2	0.8	Hypoparathyroidism, Sensorineural Deafness, and Renal Disease	OMIM:146255
+3	0.7	Dent's Disease	OMIM:300009
+4	0.65	Bartter Syndrome	OMIM:601678
+5	0.6	Keutel Syndrome	OMIM:245150

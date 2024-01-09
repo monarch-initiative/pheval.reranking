@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic hyperkeratosis	OMIM:113800
+2	0.8	Howel-Evans syndrome	OMIM:148500
+3	0.7	Pachyonychia congenita	OMIM:167200
+4	0.6	Focal non-epidermolytic palmoplantar keratoderma	OMIM:144200
+5	0.5	Mal de Meleda	OMIM:248300
+6	0.4	Palmoplantar keratoderma, Bothnian type	OMIM:600231
+6	0.4	Palmoplantar keratoderma, epidermolytic	OMIM:144200
+8	0.3	Palmoplantar keratoderma with deafness	OMIM:148350
+9	0.2	Richner-Hanhart syndrome	OMIM:276600
+10	0.1	Vörner's epidermolytic palmoplantar keratoderma	OMIM:144200

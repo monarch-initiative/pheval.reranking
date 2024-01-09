@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Peutz-Jeghers Syndrome	OMIM:175200
+2	0.7	Carney Complex	OMIM:160980
+3	0.65	Laugier-Hunziker Syndrome	OMIM:612314

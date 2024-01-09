@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cerebral Palsy	OMIM:603513
+2	0.75	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.7	Spastic paraplegia 2, X-linked	OMIM:312920
+4	0.65	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+5	0.6	Hereditary spastic paraplegia	OMIM:303350
+6	0.55	Demyelinating disease, autosomal recessive	OMIM:605280
+7	0.5	Alexander disease	OMIM:203450
+8	0.45	Rett syndrome	OMIM:312750
+9	0.4	Aicardi-Goutieres syndrome	OMIM:225750
+10	0.35	Metachromatic leukodystrophy	OMIM:250100

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hartsfield syndrome	OMIM:615465
+2	0.8	Ellis-van Creveld syndrome	OMIM:225500
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.6	Pallister-Hall syndrome	OMIM:146510
+5	0.5	Coffin-Siris syndrome	OMIM:135900
+6	0.4	Acrocallosal syndrome	OMIM:200990
+7	0.3	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.2	Laron syndrome with immunodeficiency	OMIM:245590

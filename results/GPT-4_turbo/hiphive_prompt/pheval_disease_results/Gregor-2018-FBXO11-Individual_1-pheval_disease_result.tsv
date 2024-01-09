@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.82	Smith-Magenis Syndrome	OMIM:182290
+4	0.8	Cohen Syndrome	OMIM:216550
+5	0.78	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.76	Rett Syndrome	OMIM:312750
+7	0.74	Mowat-Wilson Syndrome	OMIM:235730
+8	0.72	Fragile X Syndrome	OMIM:300624
+9	0.7	Angelman Syndrome	OMIM:105830
+10	0.68	Sotos Syndrome 1	OMIM:117550

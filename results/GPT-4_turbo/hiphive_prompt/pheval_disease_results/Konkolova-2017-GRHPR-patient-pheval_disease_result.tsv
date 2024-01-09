@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary hyperoxaluria type 1	OMIM:259900
+2	0.85	Primary hyperoxaluria type 2	OMIM:260000
+3	0.75	Dent disease 1	OMIM:300009
+4	0.65	Autosomal dominant hypocalcemia	OMIM:601198
+5	0.64	Cystinuria	OMIM:220100
+6	0.62	Familial hypomagnesemia with hypercalciuria and nephrocalcinosis	OMIM:248250
+7	0.6	Autosomal dominant polycystic kidney disease	OMIM:173900
+8	0.58	Bartter syndrome type 3	OMIM:607364
+9	0.55	Liddle syndrome	OMIM:177200
+10	0.53	Renal tubular acidosis, distal, autosomal recessive	OMIM:602722

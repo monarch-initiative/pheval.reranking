@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Friedreich ataxia	OMIM:229300
+2	0.9	Spinocerebellar ataxia	OMIM:164400
+3	0.85	Multiple sclerosis	OMIM:126200
+4	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.75	Hereditary spastic paraplegia	OMIM:303350

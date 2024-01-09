@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Nephrotic Syndrome, Finnish Type	OMIM:256300
+2	0.8	Nephrotic Syndrome, Type 1	OMIM:256300
+3	0.7	Nephrotic Syndrome, Type 2	OMIM:600995
+4	0.6	Nephrotic Syndrome, Type 3	OMIM:610725
+5	0.5	Nephrotic Syndrome, Type 4	OMIM:612924
+6	0.4	Nephrotic Syndrome, Type 5, with or without Ocular Abnormalities	OMIM:614199
+7	0.3	Nephrotic Syndrome, Type 6	OMIM:614196
+8	0.2	Nephrotic Syndrome, Type 7	OMIM:615008
+9	0.1	Nephrotic Syndrome, Type 8	OMIM:615892
+10	0.05	Nephrotic Syndrome, Type 9	OMIM:615573

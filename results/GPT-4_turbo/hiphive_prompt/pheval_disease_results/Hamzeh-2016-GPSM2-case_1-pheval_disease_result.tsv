@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Marfan Syndrome	OMIM:154700
+2	0.86	2p15-16.1 Microdeletion Syndrome	OMIM:612513
+3	0.84	Lujan-Fryns Syndrome	OMIM:309520
+4	0.82	Stickler Syndrome	OMIM:108300
+5	0.8	Noonan Syndrome	OMIM:163950
+6	0.78	Ehlers-Danlos Syndrome, Hypermobile Type	OMIM:130020
+7	0.76	Velocardiofacial Syndrome	OMIM:192430
+8	0.74	Williams Syndrome	OMIM:194050
+9	0.72	Kaufman Oculocerebrofacial Syndrome	OMIM:244450
+10	0.7	Mowat-Wilson Syndrome	OMIM:235730

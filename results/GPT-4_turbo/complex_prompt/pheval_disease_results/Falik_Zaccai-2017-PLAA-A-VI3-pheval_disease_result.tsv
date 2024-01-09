@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Menkes Disease	OMIM:309400
+2	0.8	Mitochondrial Complex I Deficiency	OMIM:252010
+3	0.75	Pyruvate Dehydrogenase Complex Deficiency	OMIM:312170
+4	0.7	Leigh Syndrome	OMIM:256000
+5	0.65	Wolfram Syndrome	OMIM:222300
+6	0.6	Cockayne Syndrome	OMIM:216400
+7	0.55	Myoclonic Epilepsy with Ragged Red Fibers	OMIM:545000
+8	0.5	Canavan Disease	OMIM:271900
+9	0.45	Glycogen Storage Disease Type II	OMIM:232300
+10	0.4	Neuronal Ceroid Lipofuscinosis	OMIM:256730

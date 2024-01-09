@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis	OMIM:607014
+2	0.85	Sanfilippo Syndrome	OMIM:252900
+3	0.7	Williams Syndrome	OMIM:194050
+4	0.65	Smith-Magenis Syndrome	OMIM:182290
+5	0.6	Autism Spectrum Disorder	OMIM:209850
+6	0.55	Rubinstein-Taybi Syndrome	OMIM:180849

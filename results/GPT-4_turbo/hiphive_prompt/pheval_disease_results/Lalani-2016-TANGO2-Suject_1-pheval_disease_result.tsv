@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Myoadenylate deaminase deficiency	OMIM:615511
+2	0.86	Glycogen storage disease type V	OMIM:232600
+3	0.85	Barth syndrome	OMIM:302060
+4	0.83	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+5	0.82	Duchenne muscular dystrophy	OMIM:310200
+6	0.81	MELAS syndrome	OMIM:540000
+7	0.79	Becker muscular dystrophy	OMIM:300376
+8	0.78	Mitochondrial complex I deficiency	OMIM:252010
+9	0.77	Ornithine transcarbamylase deficiency	OMIM:311250
+10	0.76	Propionic acidemia	OMIM:606054

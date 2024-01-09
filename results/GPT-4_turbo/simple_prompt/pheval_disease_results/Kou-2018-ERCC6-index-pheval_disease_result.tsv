@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cohen Syndrome	OMIM:216550
+2	0.75	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+3	0.72	Carpenter Syndrome	OMIM:201000
+4	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.68	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.65	Pfeiffer Syndrome	OMIM:101600

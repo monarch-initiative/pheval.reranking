@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia	OMIM:607596
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Dandy-Walker Syndrome	OMIM:220200
+4	0.6	Joubert Syndrome	OMIM:213300
+4	0.6	Zellweger Spectrum Disorder	OMIM:214100
+6	0.5	Mowat-Wilson Syndrome	OMIM:235730
+6	0.5	Miller-Dieker Syndrome	OMIM:247200
+6	0.5	Lissencephaly	OMIM:607432
+9	0.4	Coffin-Siris Syndrome	OMIM:135900
+10	0.3	Smith-Lemli-Opitz Syndrome	OMIM:270400

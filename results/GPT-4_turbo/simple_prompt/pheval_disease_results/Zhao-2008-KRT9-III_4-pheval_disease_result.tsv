@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolytic hyperkeratosis	OMIM:113800
+2	0.85	Palmoplantar keratoderma, epidermolytic	OMIM:144200
+3	0.7	Palmoplantar keratoderma, nonepidermolytic	OMIM:600962
+4	0.6	Howel-Evans syndrome	OMIM:148500
+5	0.55	Vörner's palmoplantar keratoderma	OMIM:144200

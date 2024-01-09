@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge Syndrome	OMIM:188400
+2	0.85	22q11.2 Deletion Syndrome	OMIM:611867
+3	0.75	CHARGE Syndrome	OMIM:214800
+4	0.7	Alagille Syndrome	OMIM:118450
+5	0.65	Truncus Arteriosus, Persistent	OMIM:215500
+6	0.6	Heterotaxy, X-Linked	OMIM:306955
+7	0.55	VACTERL Association	OMIM:192350
+8	0.5	Tetralogy of Fallot	OMIM:187500
+9	0.45	Noonan Syndrome	OMIM:163950
+10	0.4	Williams Syndrome	OMIM:194050

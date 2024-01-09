@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Albright Hereditary Osteodystrophy	OMIM:103580
+2	0.8	Pseudo-Pseudo Hypoparathyroidism	OMIM:612463
+3	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.6	Brachydactyly-Mental Retardation Syndrome	OMIM:600430
+5	0.5	Acrodysostosis	OMIM:101800
+6	0.4	Tricho-Rhino-Phalangeal Syndrome, Type I	OMIM:190350
+7	0.3	Cartilage-Hair Hypoplasia	OMIM:250250
+8	0.2	Ellis-van Creveld Syndrome	OMIM:225500
+9	0.1	Grebe Syndrome	OMIM:200700

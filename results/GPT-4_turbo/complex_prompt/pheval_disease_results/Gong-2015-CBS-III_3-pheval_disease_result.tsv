@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Homocystinuria	OMIM:236200
+3	0.7	Weill-Marchesani Syndrome	OMIM:277600
+4	0.6	Stickler Syndrome	OMIM:108300
+5	0.5	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+6	0.4	Fragile X Syndrome	OMIM:300624
+7	0.3	Spinocerebellar Ataxia	OMIM:164400
+8	0.2	Shprintzen-Goldberg Syndrome	OMIM:182212
+9	0.1	Neurofibromatosis Type 1	OMIM:162200

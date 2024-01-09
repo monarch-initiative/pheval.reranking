@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.85	Angelman Syndrome	OMIM:105830
+3	0.8	West Syndrome	OMIM:308350
+4	0.75	Lissencephaly	OMIM:607432
+5	0.7	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.65	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+7	0.6	Zellweger Syndrome	OMIM:214100
+8	0.55	Dandy-Walker Syndrome	OMIM:220200
+9	0.5	Aicardi Syndrome	OMIM:304050
+10	0.45	Smith-Lemli-Opitz Syndrome	OMIM:270400

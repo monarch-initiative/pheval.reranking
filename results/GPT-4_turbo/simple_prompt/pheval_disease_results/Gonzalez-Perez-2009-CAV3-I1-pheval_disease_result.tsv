@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial myopathies	OMIM:500001
+2	0.75	Myotonic dystrophy type 1	OMIM:160900
+3	0.7	Glycogen storage disease type V (McArdle disease)	OMIM:232600
+4	0.65	Pompe disease	OMIM:232300
+5	0.6	Charcot-Marie-Tooth disease	OMIM:118220
+6	0.55	Spinobulbar muscular atrophy (Kennedy's disease)	OMIM:313200
+7	0.5	Becker muscular dystrophy	OMIM:300376
+8	0.45	Inclusion body myositis	OMIM:147421

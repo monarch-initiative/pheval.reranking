@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bardet-Biedl Syndrome	OMIM:209900
+2	0.88	Alstrom Syndrome	OMIM:203800
+3	0.86	McKusick-Kaufman Syndrome	OMIM:236700
+4	0.85	Laurence-Moon Syndrome	OMIM:245800
+5	0.83	Wolfram Syndrome	OMIM:222300
+6	0.79	Albright Hereditary Osteodystrophy	OMIM:103580
+7	0.76	Meckel Syndrome	OMIM:249000
+8	0.74	Zellweger Syndrome	OMIM:214100
+9	0.72	Renal Cysts and Diabetes Syndrome	OMIM:137920
+10	0.69	Stickler Syndrome	OMIM:108300

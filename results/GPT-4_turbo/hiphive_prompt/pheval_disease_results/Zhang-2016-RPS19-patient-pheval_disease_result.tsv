@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.85	Myelodysplastic syndrome	OMIM:614286
+3	0.8	Thrombocytopenia-absent radius syndrome	OMIM:274000
+4	0.78	Congenital dyserythropoietic anemia	OMIM:224120
+5	0.75	Diamond-Blackfan anemia	OMIM:105650
+6	0.73	Aplastic anemia	OMIM:609135
+7	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.68	Essential thrombocythemia	OMIM:187950
+9	0.65	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+10	0.6	Glucose-6-phosphate dehydrogenase deficiency	OMIM:300908

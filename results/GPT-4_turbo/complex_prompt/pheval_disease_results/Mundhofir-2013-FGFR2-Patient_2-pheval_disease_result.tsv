@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Apert Syndrome	OMIM:101200
+2	0.8	Pfeiffer Syndrome	OMIM:101600
+3	0.7	Saethre-Chotzen Syndrome	OMIM:101400
+4	0.6	Carpenter Syndrome	OMIM:201000
+4	0.6	Craniofrontonasal Syndrome	OMIM:304110
+6	0.5	Antley-Bixler Syndrome	OMIM:207410
+6	0.5	Jackson-Weiss Syndrome	OMIM:123150

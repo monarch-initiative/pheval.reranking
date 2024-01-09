@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett Syndrome	OMIM:312750
+2	0.7	Angelman Syndrome	OMIM:105830
+3	0.6	Fragile X Syndrome	OMIM:300624
+4	0.5	Williams Syndrome	OMIM:194050
+5	0.4	22q11.2 Deletion Syndrome	OMIM:188400
+6	0.3	Smith-Magenis Syndrome	OMIM:182290

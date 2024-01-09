@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Severe Combined Immunodeficiency	OMIM:102700
+2	0.7	Fanconi Anemia	OMIM:227650
+3	0.6	Wiskott-Aldrich Syndrome	OMIM:301000
+3	0.6	Common Variable Immunodeficiency	OMIM:607594
+5	0.5	Friedreich Ataxia	OMIM:229300

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nail-Patella Syndrome	OMIM:161200
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.7	Small Patella Syndrome	OMIM:147891

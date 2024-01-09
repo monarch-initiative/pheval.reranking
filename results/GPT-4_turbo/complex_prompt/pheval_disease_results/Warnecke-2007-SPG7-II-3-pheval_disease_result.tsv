@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple system atrophy, cerebellar type	OMIM:117210
+2	0.85	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.85	Spinocerebellar ataxia type 2	OMIM:183090
+2	0.85	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.8	Progressive supranuclear palsy	OMIM:601104
+6	0.75	Wilson disease	OMIM:277900
+7	0.7	Friedreich ataxia	OMIM:229300
+8	0.65	Spinocerebellar ataxia type 7	OMIM:164500
+9	0.6	Hereditary spastic paraplegia	OMIM:303350
+10	0.55	Cerebrotendinous xanthomatosis	OMIM:213700

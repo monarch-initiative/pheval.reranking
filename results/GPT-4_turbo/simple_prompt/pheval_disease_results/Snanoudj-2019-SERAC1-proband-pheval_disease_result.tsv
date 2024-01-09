@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Leigh syndrome	OMIM:256000
+2	0.88	Mitochondrial DNA depletion syndrome	OMIM:251880
+3	0.81	Pyruvate dehydrogenase deficiency	OMIM:312170
+4	0.79	Kearns-Sayre syndrome	OMIM:530000
+5	0.77	Mitochondrial complex I deficiency	OMIM:252010
+6	0.74	Mitochondrial complex III deficiency	OMIM:124000
+7	0.71	Mitochondrial complex IV deficiency	OMIM:220110
+8	0.65	Wolfram syndrome	OMIM:222300
+9	0.62	Pearson syndrome	OMIM:557000
+10	0.59	MEGDEL syndrome	OMIM:614739

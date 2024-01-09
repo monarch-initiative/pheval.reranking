@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	22q11.2 deletion syndrome	OMIM:188400
+2	0.9	Fragile X syndrome	OMIM:300624
+3	0.87	Kabuki syndrome	OMIM:147920
+4	0.85	Timothy syndrome	OMIM:601005
+5	0.83	DiGeorge syndrome	OMIM:188400
+6	0.82	Rett syndrome	OMIM:312750
+7	0.8	Tuberous sclerosis	OMIM:191100
+8	0.78	Williams syndrome	OMIM:194050
+9	0.75	Angelman syndrome	OMIM:105830
+10	0.73	Turner syndrome	OMIM:300400

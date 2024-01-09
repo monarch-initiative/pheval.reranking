@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Craniofrontonasal syndrome	OMIM:304110
+4	0.6	Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant	OMIM:603736
+5	0.5	Pitt-Hopkins syndrome	OMIM:610954
+6	0.4	Brooks-Wisniewski-Brown syndrome	OMIM:300612
+7	0.3	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.2	Coffin-Siris syndrome	OMIM:135900

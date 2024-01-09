@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Apert Syndrome	OMIM:101200
+2	0.8	Carpenter Syndrome	OMIM:201000
+3	0.7	Pfeiffer Syndrome	OMIM:101600
+4	0.6	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.5	Antley-Bixler Syndrome	OMIM:207410
+6	0.4	Noonan Syndrome	OMIM:163950

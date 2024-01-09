@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+3	0.83	Beals-Hecht Syndrome	OMIM:121050
+4	0.82	Homocystinuria	OMIM:236200
+5	0.81	Loeys-Dietz Syndrome	OMIM:609192
+6	0.78	Stickler Syndrome	OMIM:108300
+7	0.76	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.75	Weill-Marchesani Syndrome	OMIM:277600
+9	0.72	Fragile X Syndrome	OMIM:300624
+10	0.71	Kniest Dysplasia	OMIM:156550

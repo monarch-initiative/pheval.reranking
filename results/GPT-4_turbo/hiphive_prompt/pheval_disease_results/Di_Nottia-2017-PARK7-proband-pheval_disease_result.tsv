@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+2	0.89	Mitochondrial DNA Depletion Syndrome 12B (Cardiomyopathic Type)	OMIM:615418
+3	0.87	Mitochondrial Complex I Deficiency	OMIM:252010
+4	0.86	Parkinson Disease, Juvenile, Type 2	OMIM:600116
+5	0.84	Autosomal Dominant Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, 1	OMIM:157640
+6	0.83	Leigh Syndrome due to Mitochondrial Complex I Deficiency	OMIM:256000
+7	0.81	Autosomal Dominant Optic Atrophy Plus Syndrome	OMIM:125250
+8	0.79	Perry Syndrome	OMIM:168605
+9	0.77	Hereditary Motor and Sensory Neuropathy VI	OMIM:601152
+10	0.75	Friedreich Ataxia	OMIM:229300

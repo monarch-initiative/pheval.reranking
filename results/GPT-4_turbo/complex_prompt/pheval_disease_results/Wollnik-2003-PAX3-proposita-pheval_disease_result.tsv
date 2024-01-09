@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waalid Syndrome	OMIM:615214
+2	0.8	Piebaldism	OMIM:172800
+3	0.7	Oculocutaneous Albinism	OMIM:203100
+4	0.6	Kabuki Syndrome	OMIM:147920
+5	0.5	Tietz Syndrome	OMIM:103500
+6	0.4	Ohdo Syndrome, SAY-Barber-Biesecker Variant	OMIM:603736
+7	0.3	Popliteal Pterygium Syndrome	OMIM:119500
+8	0.2	Freeman-Sheldon Syndrome	OMIM:193700

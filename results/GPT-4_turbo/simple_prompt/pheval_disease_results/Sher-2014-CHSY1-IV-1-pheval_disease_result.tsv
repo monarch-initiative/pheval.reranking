@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.7	Marfan Syndrome	OMIM:154700
+3	0.6	Saethre-Chotzen Syndrome	OMIM:101400
+3	0.6	Ellis-Van Creveld Syndrome	OMIM:225500
+5	0.5	Smith-Magenis Syndrome	OMIM:182290
+6	0.4	Pfeiffer Syndrome	OMIM:101600

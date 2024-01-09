@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.83	Angelman syndrome	OMIM:105830
+3	0.8	Lissencephaly	OMIM:607432
+4	0.79	Canavan disease	OMIM:271900
+5	0.77	Zellweger spectrum disorder	OMIM:214100
+6	0.76	Spinal muscular atrophy	OMIM:253300
+7	0.75	Pelizaeus-Merzbacher disease	OMIM:312080
+8	0.74	Mowat-Wilson syndrome	OMIM:235730
+9	0.72	Leigh syndrome	OMIM:256000
+10	0.71	Alexander disease	OMIM:203450

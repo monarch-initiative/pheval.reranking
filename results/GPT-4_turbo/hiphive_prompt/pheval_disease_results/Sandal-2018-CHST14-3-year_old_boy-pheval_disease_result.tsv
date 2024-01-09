@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Ehlers-Danlos syndrome	OMIM:130000
+2	0.81	Marfan syndrome	OMIM:154700
+3	0.76	Noonan syndrome	OMIM:163950
+4	0.75	Freeman-Sheldon syndrome	OMIM:193700
+5	0.74	Escobar syndrome	OMIM:265000
+6	0.71	Larsen syndrome	OMIM:150250
+7	0.69	LEOPARD syndrome	OMIM:151100
+8	0.67	Beals congenital contractural arachnodactyly	OMIM:121050
+9	0.65	Cornelia de Lange syndrome	OMIM:122470
+10	0.63	Smith-Lemli-Opitz syndrome	OMIM:270400

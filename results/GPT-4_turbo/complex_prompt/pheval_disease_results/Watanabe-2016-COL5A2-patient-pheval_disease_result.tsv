@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+3	0.75	Marfan syndrome	OMIM:154700
+4	0.7	Bethlem myopathy 1	OMIM:158810
+5	0.65	Ullrich congenital muscular dystrophy 1	OMIM:254090
+6	0.6	Loeys-Dietz syndrome	OMIM:609192
+7	0.55	Cutis laxa, autosomal dominant	OMIM:123700
+8	0.5	Larsen syndrome	OMIM:150250
+9	0.45	Stickler syndrome	OMIM:108300
+10	0.4	Osteogenesis imperfecta	OMIM:166200

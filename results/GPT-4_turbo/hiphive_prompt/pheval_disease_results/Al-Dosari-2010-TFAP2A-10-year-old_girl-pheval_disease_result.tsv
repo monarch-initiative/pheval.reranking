@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Nance-Horan syndrome	OMIM:302350
+2	0.82	Cat Eye Syndrome	OMIM:115470
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.78	Isolated ectopia lentis	OMIM:129600
+5	0.75	Aniridia	OMIM:106210
+6	0.73	Otodental syndrome	OMIM:166750
+7	0.72	Renal coloboma syndrome	OMIM:120330
+8	0.7	Marfan syndrome	OMIM:154700
+9	0.69	Fraser syndrome	OMIM:219000
+10	0.66	Ectrodactyly-ectodermal dysplasia-cleft lip/palate syndrome	OMIM:225280

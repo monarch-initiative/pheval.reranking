@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 3	OMIM:142945
+2	0.85	Holoprosencephaly 2	OMIM:157170
+3	0.8	Holoprosencephaly 5	OMIM:609637
+4	0.75	Holoprosencephaly 4	OMIM:142946
+5	0.7	Single Median Maxillary Central Incisor	OMIM:147250
+6	0.65	Holoprosencephaly 11	OMIM:614226
+7	0.6	Holoprosencephaly 9	OMIM:610828
+8	0.55	Holoprosencephaly 7	OMIM:610828
+9	0.45	Holoprosencephaly 1	OMIM:236100
+10	0.4	Septo-optic dysplasia	OMIM:182230

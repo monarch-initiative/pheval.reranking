@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+2	0.75	Myoadenylate Deaminase Deficiency	OMIM:615511
+3	0.7	Mitochondrial Complex I Deficiency	OMIM:252010
+4	0.65	MELAS Syndrome	OMIM:540000
+5	0.6	Glycogen Storage Disease Type V	OMIM:232600
+6	0.55	Long QT Syndrome	OMIM:192500
+7	0.5	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+8	0.45	Primary Carnitine Deficiency	OMIM:212140
+9	0.4	Pompe Disease	OMIM:232300
+10	0.35	Propionic Acidemia	OMIM:606054

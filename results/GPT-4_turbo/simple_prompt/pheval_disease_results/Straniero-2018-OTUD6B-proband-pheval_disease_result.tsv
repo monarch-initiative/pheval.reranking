@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.75	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.7	DiGeorge Syndrome	OMIM:188400
+3	0.65	Velocardiofacial Syndrome	OMIM:192430
+4	0.6	CHARGE Syndrome	OMIM:214800
+5	0.55	Williams Syndrome	OMIM:194050
+6	0.5	Noonan Syndrome	OMIM:163950
+7	0.45	Cornelia de Lange Syndrome	OMIM:122470
+8	0.4	Kabuki Syndrome	OMIM:147920

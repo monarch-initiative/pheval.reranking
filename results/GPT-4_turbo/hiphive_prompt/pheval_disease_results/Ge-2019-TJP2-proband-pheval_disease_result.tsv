@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alagille syndrome	OMIM:118450
+2	0.91	Progressive familial intrahepatic cholestasis	OMIM:211600
+3	0.89	Gilbert syndrome	OMIM:143500
+4	0.87	Dubin-Johnson syndrome	OMIM:237500
+5	0.85	Primary biliary cirrhosis	OMIM:109720
+6	0.84	Crigler-Najjar syndrome	OMIM:218800
+7	0.82	Zellweger syndrome	OMIM:214100
+8	0.8	Byler disease	OMIM:211600
+9	0.78	Wilson disease	OMIM:277900
+10	0.76	Tyrosinemia type 1	OMIM:276700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cerebral Creatine Deficiency Syndrome 1	OMIM:300352
+2	0.91	Mucopolysaccharidosis, Type II	OMIM:309900
+3	0.89	Propionic Acidemia	OMIM:606054
+4	0.87	Glycogen Storage Disease Type I	OMIM:232200
+5	0.85	Leigh Syndrome	OMIM:256000
+6	0.84	Pyruvate Dehydrogenase Complex Deficiency	OMIM:312170
+7	0.82	Glutaricaciduria, Type I	OMIM:231670
+8	0.8	Lysosomal Acid Lipase Deficiency	OMIM:278000
+9	0.79	Mitochondrial Complex I Deficiency	OMIM:252010
+10	0.77	Smith-Lemli-Opitz Syndrome	OMIM:270400

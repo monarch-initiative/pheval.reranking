@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wiskott-Aldrich syndrome	OMIM:301000
+2	0.8	Immune thrombocytopenia	OMIM:188030
+3	0.7	Thrombocytopenia-absent radius syndrome	OMIM:274000
+4	0.6	Thrombocytopenia 2	OMIM:188000
+4	0.6	Bone marrow failure syndrome 2	OMIM:616453
+6	0.5	Thrombocytopenia 4	OMIM:612004
+6	0.5	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+8	0.4	MYH9-related disorders	OMIM:160775
+9	0.3	Bernard-Soulier syndrome	OMIM:231200
+10	0.2	Paris-Trousseau thrombocytopenia	OMIM:188025

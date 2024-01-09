@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+2	0.9	Long QT Syndrome	OMIM:192500
+3	0.7	Usher Syndrome	OMIM:276900
+4	0.6	Pendred Syndrome	OMIM:274600
+5	0.5	Congenital Central Hypoventilation Syndrome	OMIM:209880

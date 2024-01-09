@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.65	Mucopolysaccharidosis Type III	OMIM:252900
+4	0.6	Coffin-Siris Syndrome	OMIM:135900
+4	0.6	Angelman Syndrome	OMIM:105830
+6	0.55	Rett Syndrome	OMIM:312750
+7	0.5	Charge Syndrome	OMIM:214800

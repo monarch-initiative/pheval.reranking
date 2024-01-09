@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pernicious anemia	OMIM:170900
+2	0.85	Renal tubular acidosis with anemia	OMIM:267300
+3	0.75	Imerslund-Grasbeck syndrome	OMIM:261100
+4	0.7	Megaloblastic anemia-1, Finnish type	OMIM:261100
+5	0.65	Cobalamin deficiency	OMIM:277400

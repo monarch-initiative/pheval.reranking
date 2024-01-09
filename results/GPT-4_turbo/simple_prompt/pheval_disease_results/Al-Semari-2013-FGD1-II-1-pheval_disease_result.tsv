@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Noonan syndrome	OMIM:163950
+2	0.75	Prader-Willi syndrome	OMIM:176270
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.65	Cohen syndrome	OMIM:216550
+5	0.6	Williams syndrome	OMIM:194050

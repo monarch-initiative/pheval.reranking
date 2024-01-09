@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Albright hereditary osteodystrophy	OMIM:103580
+2	0.88	Pseudo-Pseudohypoparathyroidism	OMIM:612463
+3	0.86	Brachydactyly type E	OMIM:113300
+4	0.85	Tricho-rhino-phalangeal syndrome, type I	OMIM:190350
+5	0.84	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+6	0.81	Grebe syndrome	OMIM:200700
+7	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.78	Ellis-van Creveld syndrome	OMIM:225500
+9	0.77	Robinow syndrome, autosomal dominant	OMIM:180700
+10	0.75	Langer mesomelic dysplasia	OMIM:249700

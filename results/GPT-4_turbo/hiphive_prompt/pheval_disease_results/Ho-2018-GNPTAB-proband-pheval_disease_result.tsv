@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis, Type IVA	OMIM:253000
+2	0.93	Noonan Syndrome 1	OMIM:163950
+3	0.91	Crouzon Syndrome	OMIM:123500
+4	0.88	Pfeiffer Syndrome	OMIM:101600
+5	0.87	Apert Syndrome	OMIM:101200
+6	0.85	Saethre-Chotzen Syndrome	OMIM:101400
+7	0.83	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.82	Beckwith-Wiedemann Syndrome	OMIM:130650
+9	0.8	Marshall-Smith Syndrome	OMIM:602535
+10	0.78	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200

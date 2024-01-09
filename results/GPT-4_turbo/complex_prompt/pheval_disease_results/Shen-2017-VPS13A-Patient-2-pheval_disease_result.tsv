@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chorea-Acanthocytosis	OMIM:200150
+2	0.85	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+3	0.8	Huntington Disease-Like 2	OMIM:606438
+4	0.75	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+5	0.7	Huntington's Disease	OMIM:143100
+6	0.65	Wilson Disease	OMIM:277900
+7	0.6	Neuroferritinopathy	OMIM:606159
+8	0.55	Dentatorubral-Pallidoluysian Atrophy	OMIM:125370

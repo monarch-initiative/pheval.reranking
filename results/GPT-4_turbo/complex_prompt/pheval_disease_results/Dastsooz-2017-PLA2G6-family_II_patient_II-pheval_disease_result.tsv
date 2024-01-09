@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial DNA depletion syndrome	OMIM:251880
+2	0.85	Pompe disease	OMIM:232300
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	Mucopolysaccharidosis Type II (Hunter syndrome)	OMIM:309900
+5	0.7	Niemann-Pick disease	OMIM:257200
+6	0.65	Gaucher disease	OMIM:230800
+7	0.6	Progressive muscular dystrophy	OMIM:310200
+8	0.55	Mitochondrial complex I deficiency	OMIM:252010
+9	0.5	Glycogen storage disease II (Pompe disease)	OMIM:232300
+10	0.45	Myopathy with lactic acidosis, hereditary	OMIM:255125

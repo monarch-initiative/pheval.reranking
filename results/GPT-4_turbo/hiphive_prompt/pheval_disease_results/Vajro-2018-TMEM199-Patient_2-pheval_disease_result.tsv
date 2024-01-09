@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Wilson Disease	OMIM:277900
+2	0.88	Primary Biliary Cirrhosis	OMIM:109720
+3	0.82	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+4	0.81	Non-alcoholic Fatty Liver Disease	OMIM:613282
+5	0.78	Alagille Syndrome	OMIM:118450
+6	0.75	Cholesteryl Ester Storage Disease	OMIM:278000
+7	0.74	Citrullinemia Type I	OMIM:215700
+8	0.72	Glycogen Storage Disease Type IV	OMIM:232500
+9	0.69	Zellweger Spectrum Disorder	OMIM:214100
+10	0.65	Hypobetalipoproteinemia, Familial	OMIM:615558

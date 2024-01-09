@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marinesco-Sjögren syndrome	OMIM:248800
+2	0.7	Cockayne syndrome	OMIM:216400
+3	0.6	Spinocerebellar ataxia type 7	OMIM:164500
+3	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Abetalipoproteinemia	OMIM:200100
+5	0.5	Refsum disease	OMIM:266500
+5	0.5	Congenital hypothyroidism	OMIM:218700
+5	0.5	Charcot-Marie-Tooth disease	OMIM:118220
+9	0.4	Wilson disease	OMIM:277900
+9	0.4	Ataxia-telangiectasia	OMIM:208900

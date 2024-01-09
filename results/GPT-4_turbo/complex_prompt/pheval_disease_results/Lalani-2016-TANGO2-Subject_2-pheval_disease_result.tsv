@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.85	Long QT Syndrome	OMIM:192500
+3	0.82	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+4	0.8	Organic Acidemia	OMIM:607758
+5	0.78	MELAS Syndrome	OMIM:540000
+6	0.76	Glycogen Storage Disease Type V	OMIM:232600
+7	0.74	MERRF Syndrome	OMIM:545000
+8	0.7	Myoadenylate Deaminase Deficiency	OMIM:615511
+9	0.68	Propionic Acidemia	OMIM:606054
+10	0.65	Very Long-Chain Acyl-Coenzyme A Dehydrogenase Deficiency	OMIM:201475

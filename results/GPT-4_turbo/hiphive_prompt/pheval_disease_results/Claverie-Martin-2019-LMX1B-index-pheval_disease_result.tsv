@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Nail-Patella Syndrome	OMIM:161200
+2	0.82	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.8	Prader-Willi Syndrome	OMIM:176270
+4	0.78	Noonan Syndrome	OMIM:163950
+5	0.76	Coffin-Siris Syndrome	OMIM:135900
+6	0.74	Marfan Syndrome	OMIM:154700
+7	0.73	Osteogenesis Imperfecta	OMIM:166200
+8	0.71	Charcot-Marie-Tooth Disease	OMIM:118220
+9	0.69	Trichorhinophalangeal Syndrome, Type I	OMIM:190350
+10	0.68	Beckwith-Wiedemann Syndrome	OMIM:130650

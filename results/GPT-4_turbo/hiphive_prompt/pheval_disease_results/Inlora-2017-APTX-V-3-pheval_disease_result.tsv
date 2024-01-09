@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Progressive Supranuclear Palsy	OMIM:601104
+2	0.85	Wilson Disease	OMIM:277900
+3	0.8	Parkinson Disease	OMIM:168600
+4	0.75	Multiple System Atrophy	OMIM:146500
+5	0.7	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+6	0.65	Huntington Disease	OMIM:143100
+7	0.6	Spinocerebellar Ataxia Type 3	OMIM:109150
+8	0.55	Neurodegeneration with Brain Iron Accumulation	OMIM:234200
+9	0.5	Juvenile Neuronal Ceroid Lipofuscinosis	OMIM:204200
+10	0.45	Friedreich Ataxia	OMIM:229300

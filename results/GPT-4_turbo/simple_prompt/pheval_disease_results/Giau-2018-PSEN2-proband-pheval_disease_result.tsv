@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alzheimer Disease	OMIM:104300
+2	0.85	Frontotemporal Dementia	OMIM:600274
+3	0.75	Huntington Disease	OMIM:143100
+4	0.7	Vascular Dementia	OMIM:153794
+5	0.65	Dementia, Lewy Body	OMIM:127750

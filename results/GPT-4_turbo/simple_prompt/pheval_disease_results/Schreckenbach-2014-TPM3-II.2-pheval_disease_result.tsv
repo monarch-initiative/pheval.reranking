@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Muscular Dystrophy-Dystroglycanopathy (Limb-Girdle)	OMIM:609308
+2	0.7	Myasthenia Gravis	OMIM:254200
+3	0.65	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+4	0.6	Becker Muscular Dystrophy	OMIM:300376
+4	0.6	Myotonic Dystrophy	OMIM:160900
+6	0.55	Mitochondrial Myopathies	OMIM:500000
+6	0.55	Lambert-Eaton Myasthenic Syndrome	OMIM:601462
+8	0.5	Charcot-Marie-Tooth Disease	OMIM:118220

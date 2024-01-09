@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria, bilateral frontoparietal	OMIM:606854
+2	0.8	Polymicrogyria with seizures	OMIM:300643
+3	0.7	West syndrome	OMIM:308350
+4	0.6	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome	OMIM:603387
+5	0.5	GPR56-related polymicrogyria	OMIM:615752
+6	0.4	Lennox-Gastaut syndrome	OMIM:606369
+7	0.3	2p16.1-p23.3 microdeletion syndrome	OMIM:613913
+8	0.2	Lissencephaly, X-linked	OMIM:300067
+9	0.1	Tuberous sclerosis complex	OMIM:191100

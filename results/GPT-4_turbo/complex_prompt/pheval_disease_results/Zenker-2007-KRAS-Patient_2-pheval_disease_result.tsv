@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Noonan Syndrome	OMIM:163950
+2	0.7	Costello Syndrome	OMIM:218040
+3	0.65	Weaver Syndrome	OMIM:277590
+3	0.65	Cardiofaciocutaneous Syndrome	OMIM:115150
+5	0.6	Craniofrontonasal Dysplasia	OMIM:304110
+6	0.55	Aarskog-Scott Syndrome	OMIM:305400
+7	0.5	Silver-Russell Syndrome	OMIM:180860
+7	0.5	Marshall-Smith Syndrome	OMIM:602535

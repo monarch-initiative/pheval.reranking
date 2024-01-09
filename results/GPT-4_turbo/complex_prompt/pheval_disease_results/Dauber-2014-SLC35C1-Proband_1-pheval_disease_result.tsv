@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sanfilippo syndrome	OMIM:252900
+1	0.9	Mucopolysaccharidosis type III	OMIM:252900
+3	0.8	Mucopolysaccharidosis	OMIM:252900
+4	0.7	Smith-Magenis syndrome	OMIM:182290
+5	0.6	Williams syndrome	OMIM:194050
+5	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.5	Noonan syndrome	OMIM:163950
+7	0.5	Cornelia de Lange syndrome	OMIM:122470
+9	0.4	Coffin-Lowry syndrome	OMIM:303600
+9	0.4	Sotos syndrome	OMIM:117550

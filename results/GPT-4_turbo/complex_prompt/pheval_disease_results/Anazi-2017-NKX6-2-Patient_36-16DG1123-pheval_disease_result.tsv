@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Hypomyelinating leukodystrophy	OMIM:612233
+3	0.8	4H syndrome (Hypomyelination, hypodontia, hypogonadotropic hypogonadism)	OMIM:612391
+4	0.75	Metachromatic leukodystrophy	OMIM:250100
+5	0.7	Canavan disease	OMIM:271900
+6	0.65	Cockayne syndrome	OMIM:216400
+7	0.6	Alexander disease	OMIM:203450
+8	0.55	Vanishing white matter disease	OMIM:603896
+9	0.5	Adrenoleukodystrophy	OMIM:300100
+10	0.45	Zellweger syndrome	OMIM:214100

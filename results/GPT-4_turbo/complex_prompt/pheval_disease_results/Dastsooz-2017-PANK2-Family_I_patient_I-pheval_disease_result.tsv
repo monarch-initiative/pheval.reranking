@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.8	Metachromatic leukodystrophy	OMIM:250100
+3	0.75	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+4	0.7	X-linked adrenoleukodystrophy	OMIM:300100
+5	0.65	Pelizaeus-Merzbacher disease	OMIM:312080
+6	0.6	Alexander disease	OMIM:203450
+7	0.55	Canavan disease	OMIM:271900
+8	0.5	Wilson disease	OMIM:277900
+9	0.45	L-2-hydroxyglutaric aciduria	OMIM:236792
+10	0.4	Globoid cell leukodystrophy	OMIM:245200

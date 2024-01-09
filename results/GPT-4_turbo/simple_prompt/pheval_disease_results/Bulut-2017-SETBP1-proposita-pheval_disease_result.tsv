@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pallister-Hall Syndrome	OMIM:146510
+2	0.75	Laurence-Moon Syndrome	OMIM:245800
+3	0.65	Joubert Syndrome	OMIM:213300
+4	0.6	Mucopolysaccharidosis Type I (Hurler Syndrome)	OMIM:607014
+5	0.55	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.5	Carpenter Syndrome	OMIM:201000
+7	0.45	Beckwith-Wiedemann Syndrome	OMIM:130650
+8	0.4	Meckel Syndrome	OMIM:249000
+9	0.35	Pfeiffer Syndrome	OMIM:101600
+10	0.3	CHARGE Syndrome	OMIM:214800

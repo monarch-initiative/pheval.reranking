@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Apert Syndrome	OMIM:101200
+2	0.88	Carpenter Syndrome	OMIM:201000
+3	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.83	3MC Syndrome	OMIM:257920
+5	0.82	Pfeiffer Syndrome	OMIM:101600
+6	0.79	Antley-Bixler Syndrome	OMIM:207410
+7	0.78	Mandibulofacial Dysostosis with Microcephaly	OMIM:610536
+8	0.76	Mowat-Wilson Syndrome	OMIM:235730
+9	0.74	Escobar Syndrome	OMIM:265000
+10	0.71	Pallister-Hall Syndrome	OMIM:146510

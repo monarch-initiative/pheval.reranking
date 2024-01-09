@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich Ataxia	OMIM:229300
+2	0.87	Diamond-Blackfan Anemia	OMIM:105650
+3	0.85	Ataxia-Telangiectasia	OMIM:208900
+4	0.82	Spinocerebellar Ataxia Type 1	OMIM:164400
+5	0.81	Fanconi Anemia	OMIM:227650
+6	0.8	Shwachman-Diamond Syndrome	OMIM:260400
+7	0.78	Episodic Ataxia Type 2	OMIM:108500
+8	0.76	Autosomal Dominant Cerebellar Ataxia	OMIM:117210
+9	0.74	Congenital Dyserythropoietic Anemia	OMIM:224120
+10	0.72	Pelizaeus-Merzbacher Disease	OMIM:312080

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+2	0.9	Dilated Cardiomyopathy 1AA	OMIM:612158
+3	0.85	Brugada Syndrome 1	OMIM:601144
+3	0.85	Hypertrophic Cardiomyopathy 1	OMIM:192600
+5	0.8	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+6	0.75	Myocarditis, Familial	OMIM:615552

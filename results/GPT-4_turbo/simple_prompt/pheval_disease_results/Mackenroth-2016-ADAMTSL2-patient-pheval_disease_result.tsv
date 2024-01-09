@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Coffin-Siris syndrome	OMIM:135900
+2	0.7	Noonan syndrome	OMIM:163950
+3	0.6	Achondroplasia	OMIM:100800
+3	0.6	Robinow syndrome, autosomal dominant	OMIM:180700
+5	0.5	Larsen syndrome	OMIM:150250
+6	0.4	3M syndrome	OMIM:273750
+6	0.4	Multiple epiphyseal dysplasia	OMIM:132400

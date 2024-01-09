@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myasthenia gravis	OMIM:254200
+2	0.85	Muscular dystrophy-dystroglycanopathy type C5	OMIM:606612
+3	0.75	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.65	Spinal muscular atrophy, late-onset, Finkel type	OMIM:182980
+5	0.55	Limb-girdle muscular dystrophy	OMIM:253600
+6	0.5	Congenital myasthenic syndrome	OMIM:601462

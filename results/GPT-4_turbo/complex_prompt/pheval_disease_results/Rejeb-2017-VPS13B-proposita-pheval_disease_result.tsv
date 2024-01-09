@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cohen Syndrome	OMIM:216550
+2	0.8	Bardet-Biedl Syndrome	OMIM:209900
+3	0.75	Prader-Willi Syndrome	OMIM:176270
+4	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.65	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.6	Mucopolysaccharidosis Type III	OMIM:252900
+7	0.55	Zellweger Syndrome	OMIM:214100
+8	0.5	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.45	Stickler Syndrome	OMIM:108300
+10	0.4	Marfan Syndrome	OMIM:154700

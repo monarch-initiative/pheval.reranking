@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ohdo syndrome, SBBYS variant	OMIM:603736
+2	0.8	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+3	0.7	Mowat-Wilson syndrome	OMIM:235730
+4	0.6	Velocardiofacial syndrome	OMIM:192430
+5	0.5	22q11.2 deletion syndrome	OMIM:611867
+6	0.4	Lujan-Fryns syndrome	OMIM:309520
+7	0.3	Kabuki syndrome	OMIM:147920

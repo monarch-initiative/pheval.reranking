@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic Sclerosis	OMIM:181750
+2	0.8	Nephrotic Syndrome	OMIM:256300
+3	0.7	Ehlers-Danlos Syndrome	OMIM:130000
+4	0.6	Crohn Disease	OMIM:266600
+4	0.6	Lupus Erythematosus	OMIM:152700
+6	0.5	Sarcoidosis	OMIM:181000
+7	0.4	Gingival Fibromatosis with Hypertrichosis	OMIM:135400
+7	0.4	Amyloidosis	OMIM:105200
+9	0.3	Chronic Granulomatous Disease	OMIM:306400
+9	0.3	Peutz-Jeghers Syndrome	OMIM:175200

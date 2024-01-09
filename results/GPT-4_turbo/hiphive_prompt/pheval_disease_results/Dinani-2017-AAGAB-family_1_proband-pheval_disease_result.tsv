@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pachyonychia Congenita	OMIM:167200
+2	0.85	Ectodermal dysplasia, anhidrotic	OMIM:305100
+3	0.82	Haim-Munk syndrome	OMIM:245010
+4	0.8	Ectodermal dysplasia, hypohidrotic, autosomal recessive	OMIM:224900
+5	0.79	Trichothiodystrophy syndromes	OMIM:601675
+6	0.78	Steatocystoma multiplex	OMIM:184500
+7	0.77	Palmoplantar keratoderma, Bothnian type	OMIM:600231
+8	0.75	Clouston syndrome	OMIM:129500
+9	0.73	Keratosis follicularis spinulosa decalvans	OMIM:308800
+10	0.72	Palmoplantar keratoderma and woolly hair	OMIM:148000

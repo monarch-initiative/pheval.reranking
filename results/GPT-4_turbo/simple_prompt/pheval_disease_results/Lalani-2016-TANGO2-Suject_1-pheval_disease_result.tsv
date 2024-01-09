@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Myoadenylate deaminase deficiency	OMIM:615511
+2	0.7	Severe myoclonic epilepsy in infancy	OMIM:607208
+3	0.65	Glycogen storage disease type V	OMIM:232600
+4	0.6	Becker muscular dystrophy	OMIM:300376
+5	0.55	Mitochondrial complex I deficiency	OMIM:252010
+6	0.5	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+7	0.45	Propionic acidemia	OMIM:606054
+8	0.4	Dravet syndrome	OMIM:607208

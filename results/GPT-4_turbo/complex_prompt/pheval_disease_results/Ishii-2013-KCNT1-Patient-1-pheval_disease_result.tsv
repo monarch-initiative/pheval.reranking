@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Dravet syndrome	OMIM:607208
+4	0.75	Lennox-Gastaut syndrome	OMIM:606369
+5	0.7	West syndrome	OMIM:308350
+6	0.65	2q24.3 microdeletion syndrome	OMIM:619683
+7	0.6	Fragile X syndrome	OMIM:300624
+8	0.55	Prader-Willi syndrome	OMIM:176270
+9	0.5	Tuberous sclerosis	OMIM:191100
+10	0.45	CDKL5 deficiency disorder	OMIM:300672

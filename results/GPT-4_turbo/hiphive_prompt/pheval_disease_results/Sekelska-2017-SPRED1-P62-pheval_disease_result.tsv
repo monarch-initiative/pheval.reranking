@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurofibromatosis, Type I	OMIM:162200
+2	0.85	Legius Syndrome	OMIM:611431
+3	0.75	McCune-Albright Syndrome	OMIM:174800
+4	0.65	Noonan Syndrome 1	OMIM:163950
+5	0.6	Watson Syndrome	OMIM:193520
+6	0.55	LEOPARD Syndrome 1	OMIM:151100
+7	0.5	Constitutional Mismatch Repair Deficiency Syndrome	OMIM:276300
+8	0.45	Cowden Syndrome 1	OMIM:158350
+9	0.4	Bannayan-Riley-Ruvalcaba Syndrome	OMIM:153480
+10	0.35	Tuberous Sclerosis 1	OMIM:191100

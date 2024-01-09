@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Costello syndrome	OMIM:218040
+2	0.83	Coffin-Lowry syndrome	OMIM:303600
+3	0.82	Menkes disease	OMIM:309400
+4	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.79	Leigh syndrome	OMIM:256000
+6	0.78	Mitochondrial complex I deficiency	OMIM:252010
+7	0.77	MECP2 duplication syndrome	OMIM:300260
+8	0.76	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:614111
+9	0.75	Peroxisome biogenesis disorder 1B	OMIM:601539
+10	0.73	Ohdo syndrome, SBBYS variant	OMIM:603736

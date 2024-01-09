@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.93	Mitochondrial complex I deficiency	OMIM:252010
+3	0.91	Mitochondrial DNA depletion syndrome 1 (MNGIE type)	OMIM:603041
+4	0.89	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+5	0.87	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS)	OMIM:540000
+6	0.85	Kearns-Sayre syndrome	OMIM:530000
+7	0.83	Pearson marrow-pancreas syndrome	OMIM:557000
+8	0.81	Wolfram syndrome	OMIM:222300
+9	0.79	POLG-related disorders	OMIM:POLG
+10	0.77	MECP2 duplication syndrome	OMIM:300260

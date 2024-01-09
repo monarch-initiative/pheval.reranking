@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral palsy	OMIM:603513
+2	0.85	Hereditary Spastic Paraplegia	OMIM:303350
+3	0.8	Multiple sclerosis	OMIM:126200
+3	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.75	Friedreich ataxia	OMIM:229300
+6	0.7	Primary Lateral Sclerosis	OMIM:611637
+7	0.65	Tay-Sachs disease	OMIM:272800
+8	0.6	Dopa-responsive dystonia	OMIM:128230

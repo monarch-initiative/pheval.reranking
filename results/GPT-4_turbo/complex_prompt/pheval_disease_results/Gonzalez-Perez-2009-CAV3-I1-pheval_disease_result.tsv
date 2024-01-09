@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myoglobinuria, Acute Recurrent, Autosomal Recessive	OMIM:268200
+2	0.8	Glycogen Storage Disease Type V	OMIM:232600
+3	0.75	Mitochondrial Myopathies	OMIM:500001
+4	0.7	Becker Muscular Dystrophy	OMIM:300376
+5	0.65	McArdle Disease	OMIM:232600
+6	0.6	Charcot-Marie-Tooth Disease, Type 2	OMIM:118220
+7	0.55	Limb-Girdle Muscular Dystrophy	OMIM:253600
+8	0.5	Myoadenylate Deaminase Deficiency	OMIM:615511
+9	0.45	Inclusion Body Myositis	OMIM:147421
+10	0.4	Pompe Disease	OMIM:232300

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.7	Combined immunodeficiency due to CD3-gamma deficiency	OMIM:609613
+3	0.65	Common variable immunodeficiency	OMIM:607594

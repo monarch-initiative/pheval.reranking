@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.8	Holt-Oram Syndrome	OMIM:142900
+3	0.7	DiGeorge Syndrome	OMIM:188400
+4	0.6	22q11.2 Deletion Syndrome	OMIM:611867
+5	0.5	Nijmegen Breakage Syndrome	OMIM:251260

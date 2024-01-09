@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa, autosomal recessive, type IC	OMIM:219100
+2	0.85	Cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities	OMIM:613177
+3	0.8	Williams-Beuren syndrome	OMIM:194050
+4	0.75	Ehlers-Danlos syndrome, classic type	OMIM:130000
+5	0.7	Marfan syndrome	OMIM:154700
+6	0.65	Loeys-Dietz syndrome	OMIM:609192
+7	0.6	Pseudoxanthoma elasticum	OMIM:264800
+8	0.55	De Barsy syndrome	OMIM:219150
+9	0.5	Arterial tortuosity syndrome	OMIM:208050
+10	0.45	Occipital horn syndrome	OMIM:304150

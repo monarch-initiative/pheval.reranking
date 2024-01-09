@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ohtahara Syndrome	OMIM:308350
+2	0.85	Leigh Syndrome	OMIM:256000
+3	0.8	Rett Syndrome	OMIM:312750
+4	0.75	Mowat-Wilson Syndrome	OMIM:235730
+5	0.7	Angelman Syndrome	OMIM:105830

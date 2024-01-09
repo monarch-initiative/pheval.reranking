@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.82	Angelman syndrome	OMIM:105830
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.78	Glutaric aciduria, type 1	OMIM:231670
+5	0.77	Smith-Magenis syndrome	OMIM:182290
+6	0.76	Tuberous sclerosis 1	OMIM:191100
+7	0.74	Phelan-McDermid syndrome	OMIM:606232
+8	0.72	2q23.1 microdeletion syndrome	OMIM:156200
+9	0.7	Pitt-Hopkins syndrome	OMIM:610954
+10	0.68	Creatine deficiency, X-linked	OMIM:300352

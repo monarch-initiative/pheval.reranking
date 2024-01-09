@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Epidermolysis Bullosa, Junctional	OMIM:226650
+2	0.9	Epidermolysis Bullosa Simplex	OMIM:131760
+3	0.85	Pemphigus Vulgaris	OMIM:169600
+4	0.8	Toxic Epidermal Necrolysis	OMIM:608579
+5	0.75	Stevens-Johnson Syndrome	OMIM:608579
+6	0.7	Erythema Multiforme	OMIM:131300
+7	0.65	Chronic Mucocutaneous Candidiasis	OMIM:212050
+8	0.6	Epidermolysis Bullosa Acquisita	OMIM:131800
+9	0.55	Dystrophic Epidermolysis Bullosa	OMIM:226600
+10	0.5	Kindler Syndrome	OMIM:173650

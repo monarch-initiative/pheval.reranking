@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson disease	OMIM:168600
+2	0.8	Multiple system atrophy	OMIM:146500
+3	0.75	Dementia with Lewy bodies	OMIM:127750
+4	0.7	Wilson disease	OMIM:277900
+5	0.65	Huntington disease	OMIM:143100

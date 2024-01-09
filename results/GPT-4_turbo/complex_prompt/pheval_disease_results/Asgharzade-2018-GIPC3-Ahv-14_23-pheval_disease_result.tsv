@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome, type 1	OMIM:276900
+2	0.85	Usher syndrome, type 2	OMIM:276901
+3	0.8	Pendred syndrome	OMIM:274600
+4	0.75	Waardenburg syndrome, type I	OMIM:193500
+5	0.7	Non-syndromic genetic deafness	OMIM:220290
+6	0.65	Jervell and Lange-Nielsen syndrome	OMIM:220400
+7	0.6	Branchiootorenal syndrome	OMIM:113650
+8	0.55	Biotinidase deficiency	OMIM:253260
+9	0.5	Mitochondrial DNA-associated Leigh syndrome and NARP	OMIM:535000
+10	0.45	Alport syndrome	OMIM:301050

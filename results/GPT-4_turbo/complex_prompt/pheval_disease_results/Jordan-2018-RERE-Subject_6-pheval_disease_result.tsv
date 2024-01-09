@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	22q13.3 deletion syndrome	OMIM:606232
+2	0.6	Fragile X Syndrome	OMIM:300624
+2	0.6	Kabuki syndrome	OMIM:147920
+4	0.5	Down Syndrome	OMIM:190685
+4	0.5	Turner Syndrome	OMIM:300000
+4	0.5	Williams Syndrome	OMIM:194050
+7	0.4	Cornelia de Lange Syndrome	OMIM:122470
+7	0.4	Smith-Magenis Syndrome	OMIM:182290
+7	0.4	CHARGE Syndrome	OMIM:214800
+7	0.4	Rubinstein-Taybi Syndrome	OMIM:180849

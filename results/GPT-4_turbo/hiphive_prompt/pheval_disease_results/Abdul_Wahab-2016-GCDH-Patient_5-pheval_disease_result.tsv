@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glutaricaciduria, Type I	OMIM:231670
+2	0.8	Leigh syndrome	OMIM:256000
+3	0.75	Canavan Disease	OMIM:271900
+4	0.7	Alexander disease	OMIM:203450
+5	0.65	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+6	0.6	Zellweger syndrome	OMIM:214100
+7	0.55	L-2-hydroxyglutaric aciduria	OMIM:236792
+8	0.5	Dystonia, Dopa-responsive, due to sepiapterin reductase deficiency	OMIM:612716
+9	0.45	Maple syrup urine disease	OMIM:248600
+10	0.4	Menkes disease	OMIM:309400

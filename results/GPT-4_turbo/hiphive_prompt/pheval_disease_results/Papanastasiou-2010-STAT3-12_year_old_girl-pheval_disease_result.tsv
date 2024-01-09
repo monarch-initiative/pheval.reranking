@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hyper IgE syndrome	OMIM:147060
+2	0.87	Chronic Granulomatous Disease	OMIM:306400
+3	0.85	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.82	Job Syndrome	OMIM:147060
+5	0.81	Severe Combined Immunodeficiency	OMIM:102700
+6	0.79	Leukocyte Adhesion Deficiency	OMIM:116920
+7	0.78	DOCK8 Deficiency	OMIM:611432
+8	0.76	STAT3 Mutation Spectrum	OMIM:102582
+9	0.75	Common Variable Immunodeficiency	OMIM:607594
+10	0.73	Omenn Syndrome	OMIM:603554

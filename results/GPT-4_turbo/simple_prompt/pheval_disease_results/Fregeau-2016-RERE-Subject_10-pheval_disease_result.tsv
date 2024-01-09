@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:209850
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.6	Rett syndrome	OMIM:312750
+4	0.6	22q13.3 deletion syndrome, or Phelan-McDermid syndrome	OMIM:606232
+6	0.5	Landau-Kleffner syndrome	OMIM:245570
+6	0.5	Smith-Magenis syndrome	OMIM:182290
+8	0.4	Prader-Willi syndrome	OMIM:176270

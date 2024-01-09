@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.8	Cleidocranial Dysplasia, Forme Fruste, Dental Anomalies Only	OMIM:119600
+3	0.7	Pyknodysostosis	OMIM:265800
+4	0.6	Ehlers-Danlos Syndrome, Progeroid Type	OMIM:130070
+5	0.5	Hallermann-Streiff Syndrome	OMIM:234100
+6	0.4	Osteogenesis Imperfecta	OMIM:166200
+7	0.3	Shwachman-Diamond Syndrome	OMIM:260400

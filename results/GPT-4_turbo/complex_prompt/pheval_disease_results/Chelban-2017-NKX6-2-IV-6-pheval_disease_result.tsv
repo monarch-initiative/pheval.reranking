@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	Cerebral palsy, spastic quadriplegic	OMIM:603513
+5	0.7	Metachromatic leukodystrophy	OMIM:250100
+6	0.65	Canavan disease	OMIM:271900
+7	0.6	Tay-Sachs disease	OMIM:272800
+8	0.55	Zellweger spectrum disorder	OMIM:214100
+9	0.5	Aicardi-Goutieres syndrome	OMIM:225750
+10	0.45	Alexander disease	OMIM:203450

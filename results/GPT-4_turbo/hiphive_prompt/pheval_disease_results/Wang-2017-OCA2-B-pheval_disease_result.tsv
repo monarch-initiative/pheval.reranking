@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Waardenburg Syndrome, Type 1	OMIM:193500
+2	0.92	Waardenburg Syndrome, Type 2	OMIM:193510
+3	0.9	Oculocutaneous Albinism Type 1	OMIM:203100
+4	0.88	Oculocutaneous Albinism Type 2	OMIM:203200
+5	0.85	Hermansky-Pudlak Syndrome	OMIM:203300
+6	0.83	Chediak-Higashi Syndrome	OMIM:214500
+7	0.82	Piebaldism	OMIM:172800
+8	0.8	Griscelli Syndrome	OMIM:214450
+9	0.77	Waardenburg Syndrome, Type 3	OMIM:148820
+10	0.75	Waardenburg Syndrome, Type 4	OMIM:277580

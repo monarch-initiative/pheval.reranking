@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glycogen storage disease type II	OMIM:232300
+2	0.88	Mitochondrial myopathies	OMIM:500001
+3	0.85	Pompe disease	OMIM:606800
+4	0.82	Mucopolysaccharidosis type I	OMIM:607014
+5	0.79	Niemann-Pick disease type C	OMIM:257220
+6	0.77	Becker muscular dystrophy	OMIM:300376
+7	0.74	Progressive muscular atrophy	OMIM:607688
+8	0.7	Wilson disease	OMIM:277900
+9	0.68	Leigh syndrome	OMIM:256000
+10	0.65	Pearson marrow-pancreas syndrome	OMIM:557000

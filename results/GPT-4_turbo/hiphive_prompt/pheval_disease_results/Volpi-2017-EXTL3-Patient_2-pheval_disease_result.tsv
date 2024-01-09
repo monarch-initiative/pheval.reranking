@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pfeiffer syndrome	OMIM:101600
+2	0.85	Apert syndrome	OMIM:101200
+3	0.82	Crouzon syndrome	OMIM:123500
+4	0.81	Thanatophoric dysplasia	OMIM:187600
+5	0.79	Muenke syndrome	OMIM:602849
+6	0.77	SCID due to ADA deficiency	OMIM:102700
+7	0.75	Antley-Bixler syndrome	OMIM:207410
+8	0.74	Jackson-Weiss syndrome	OMIM:123150
+9	0.71	Saethre-Chotzen syndrome	OMIM:101400
+10	0.68	Beare-Stevenson cutis gyrata syndrome	OMIM:123790

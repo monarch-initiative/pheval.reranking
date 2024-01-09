@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Distal Arthrogryposis Type 1	OMIM:108120
+2	0.7	Noonan Syndrome	OMIM:163950
+3	0.65	Trisomy 18	OMIM:190685
+4	0.6	Turner Syndrome	OMIM:300000
+4	0.6	CHARGE Syndrome	OMIM:214800
+6	0.55	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.5	Cornelia de Lange Syndrome	OMIM:122470
+8	0.45	Pena-Shokeir Syndrome Type I	OMIM:208150
+9	0.4	Zellweger Syndrome	OMIM:214100
+9	0.4	Meckel Syndrome	OMIM:249000

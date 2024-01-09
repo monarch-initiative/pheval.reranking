@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.9	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+2	0.9	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+4	0.7	Marfan Syndrome	OMIM:154700
+5	0.65	Bethlem myopathy	OMIM:158810
+6	0.6	Larsen syndrome	OMIM:150250

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+2	0.9	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.7	Marfan Syndrome	OMIM:154700
+4	0.65	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.6	Loeys-Dietz Syndrome	OMIM:609192

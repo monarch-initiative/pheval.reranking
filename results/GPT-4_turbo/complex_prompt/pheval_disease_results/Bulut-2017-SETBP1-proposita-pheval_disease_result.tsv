@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Meckel Syndrome	OMIM:249000
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.7	Crouzon Syndrome	OMIM:123500
+4	0.6	Pfeiffer Syndrome	OMIM:101600
+5	0.5	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.4	Apert Syndrome	OMIM:101200
+7	0.3	Carpenter Syndrome	OMIM:201000
+8	0.2	Jeune Syndrome	OMIM:208500
+9	0.1	Mucopolysaccharidosis Type I	OMIM:607014

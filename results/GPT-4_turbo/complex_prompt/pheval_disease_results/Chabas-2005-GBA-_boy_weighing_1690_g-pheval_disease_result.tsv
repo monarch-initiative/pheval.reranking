@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gaucher Disease Type 2	OMIM:230900
+2	0.75	Gaucher Disease Type 1	OMIM:230800
+3	0.7	Gaucher Disease Type 3	OMIM:231000
+4	0.65	Neonatal Ichthyosis-Sclerosing Cholangitis Syndrome	OMIM:607626
+5	0.6	Chanarin-Dorfman Syndrome	OMIM:275630
+6	0.55	Harp Syndrome	OMIM:607217
+7	0.5	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+8	0.45	Sly Syndrome	OMIM:253220
+9	0.4	Congenital Disorder of Glycosylation, Type Ic	OMIM:603147
+10	0.35	Zellweger Syndrome	OMIM:214100

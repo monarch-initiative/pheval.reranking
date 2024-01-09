@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.8	Mitochondrial DNA depletion syndrome	OMIM:251880
+3	0.7	Kearns-Sayre syndrome	OMIM:530000
+4	0.6	Pearson marrow-pancreas syndrome	OMIM:557000
+5	0.5	Leber hereditary optic neuropathy	OMIM:535000
+6	0.4	MELAS syndrome	OMIM:540000
+7	0.3	Costeff Optic Atrophy Syndrome	OMIM:258501
+8	0.2	Wolfram syndrome	OMIM:222300
+9	0.1	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+10	0.05	Complex I mitochondrial respiratory chain deficiency	OMIM:252010

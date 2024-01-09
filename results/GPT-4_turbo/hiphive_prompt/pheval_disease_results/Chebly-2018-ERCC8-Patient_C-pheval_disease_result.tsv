@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne syndrome	OMIM:216400
+2	0.85	Hallermann-Streiff syndrome	OMIM:234100
+3	0.8	Nance-Horan syndrome	OMIM:302350
+4	0.75	Marshall syndrome	OMIM:154780
+5	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.65	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+7	0.6	Seckel syndrome	OMIM:210600
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Pfeiffer syndrome	OMIM:101600
+10	0.45	Lowe syndrome	OMIM:309000

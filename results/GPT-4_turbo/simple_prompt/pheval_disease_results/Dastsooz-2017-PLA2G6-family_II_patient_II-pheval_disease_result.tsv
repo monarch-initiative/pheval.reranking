@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pompe disease	OMIM:232300
+2	0.85	Mitochondrial myopathy	OMIM:000680
+3	0.8	Mucopolysaccharidosis type I	OMIM:607014
+4	0.75	Lysosomal storage disease	OMIM:000668
+5	0.7	Gaucher disease	OMIM:230800
+6	0.65	Progressive muscular dystrophy	OMIM:310200

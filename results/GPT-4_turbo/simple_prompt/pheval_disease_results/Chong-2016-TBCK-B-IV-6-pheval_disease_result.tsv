@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia	OMIM:607596
+2	0.8	Mowat-Wilson Syndrome	OMIM:235730
+3	0.7	Rett Syndrome	OMIM:312750
+4	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400

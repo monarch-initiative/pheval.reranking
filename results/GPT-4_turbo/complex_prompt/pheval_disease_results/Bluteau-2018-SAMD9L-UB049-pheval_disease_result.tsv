@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal dominant	OMIM:127550
+2	0.85	Dyskeratosis congenita, autosomal recessive	OMIM:224230
+2	0.85	Dyskeratosis congenita, X-linked	OMIM:305000
+4	0.7	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	OMIM:611291
+5	0.6	Cartilage-hair hypoplasia	OMIM:250250
+5	0.6	Shwachman-Diamond syndrome	OMIM:260400
+7	0.5	Fanconi anemia	OMIM:227650
+7	0.5	Revesz syndrome	OMIM:268130
+7	0.5	Hoyeraal-Hreidarsson syndrome	OMIM:300240
+10	0.4	Diamond-Blackfan anemia	OMIM:105650

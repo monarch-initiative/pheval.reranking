@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson disease	OMIM:168600
+2	0.88	Wilson disease	OMIM:277900
+3	0.86	Multiple Sclerosis	OMIM:126200
+4	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.82	Huntington disease	OMIM:143100
+6	0.8	Friedreich ataxia	OMIM:229300
+7	0.79	Cerebral palsy, spastic quadriplegic	OMIM:603513
+8	0.78	Hereditary spastic paraplegia	OMIM:303350
+9	0.75	Dopa-responsive dystonia	OMIM:128230
+10	0.73	Progressive supranuclear palsy	OMIM:601104

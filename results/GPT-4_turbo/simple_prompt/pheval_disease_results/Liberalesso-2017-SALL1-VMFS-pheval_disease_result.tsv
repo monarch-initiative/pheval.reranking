@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.85	22q11.2 deletion syndrome	OMIM:188400
+3	0.8	Townes-Brocks syndrome	OMIM:107480
+4	0.75	VACTERL association	OMIM:192350
+5	0.7	Branchiootorenal syndrome	OMIM:113650
+6	0.65	Ellis-van Creveld syndrome	OMIM:225500
+7	0.6	Cat eye syndrome	OMIM:115470
+8	0.55	Baraitser-Winter syndrome 1	OMIM:243310

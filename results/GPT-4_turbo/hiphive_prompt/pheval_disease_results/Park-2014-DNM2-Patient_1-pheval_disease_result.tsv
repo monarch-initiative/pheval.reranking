@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Myasthenic syndrome, congenital, 1B, fast-channel	OMIM:608930
+2	0.91	Myasthenic syndrome, congenital, 1A, slow-channel	OMIM:601462
+3	0.89	Myasthenic syndrome, congenital, 1C	OMIM:614750
+4	0.88	Myasthenic syndrome, congenital, 1D	OMIM:614751
+5	0.87	Myopathy, distal, 1	OMIM:160500
+6	0.86	Mitochondrial DNA depletion syndrome 11	OMIM:615471
+7	0.85	Limb-girdle muscular dystrophy	OMIM:253600
+8	0.84	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+9	0.82	Oculopharyngeal muscular dystrophy	OMIM:164300
+10	0.81	Paramyotonia congenita of von Eulenburg	OMIM:168300

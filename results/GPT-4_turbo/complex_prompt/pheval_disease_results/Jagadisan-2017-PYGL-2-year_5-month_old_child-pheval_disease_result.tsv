@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Niemann-Pick disease type C	OMIM:257220
+2	0.85	Wolman disease	OMIM:278000
+3	0.8	Gaucher disease	OMIM:230800
+4	0.75	Alagille syndrome	OMIM:118450
+5	0.7	Tyrosinemia type I	OMIM:276700
+6	0.65	Zellweger syndrome	OMIM:214100
+7	0.6	Glycogen storage disease type IV	OMIM:232500
+8	0.55	Propionic acidemia	OMIM:606054
+9	0.5	Citrullinemia, type II	OMIM:605814
+10	0.45	Lysinuric protein intolerance	OMIM:222700

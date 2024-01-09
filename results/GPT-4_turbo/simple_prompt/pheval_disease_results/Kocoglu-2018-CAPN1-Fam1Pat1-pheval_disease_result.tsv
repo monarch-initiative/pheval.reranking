@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia	OMIM:164400
+2	0.8	Multiple sclerosis	OMIM:126200
+3	0.7	Friedreich ataxia	OMIM:229300
+4	0.6	Hereditary spastic paraplegia	OMIM:303350
+5	0.5	Ataxia with vitamin E deficiency	OMIM:277460
+6	0.4	Charcot-Marie-Tooth disease	OMIM:118220

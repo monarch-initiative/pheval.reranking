@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hyperphosphatasia with Mental Retardation Syndrome	OMIM:239300
+2	0.8	Camurati-Engelmann Disease	OMIM:131300
+3	0.75	Paget Disease of Bone	OMIM:167250
+4	0.7	Endocrine-Cerebroosteodysplasia	OMIM:612651
+4	0.7	Progressive Pseudorheumatoid Dysplasia	OMIM:208230
+6	0.65	Osteopetrosis	OMIM:259700
+7	0.6	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+8	0.55	Myotonic Dystrophy	OMIM:160900
+9	0.5	Kearns-Sayre Syndrome	OMIM:530000
+9	0.5	Osteogenesis Imperfecta	OMIM:166200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Loeys-Dietz Syndrome Type 1	OMIM:609192
+2	0.85	Loeys-Dietz Syndrome Type 2	OMIM:608967
+4	0.8	Loeys-Dietz Syndrome Type 3	OMIM:613795
+4	0.8	Loeys-Dietz Syndrome Type 4	OMIM:614816
+6	0.75	Vascular Ehlers-Danlos Syndrome	OMIM:130050
+7	0.7	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086
+8	0.65	Shprintzen-Goldberg Syndrome	OMIM:182212
+9	0.6	Arterial Tortuosity Syndrome	OMIM:208050
+10	0.5	Turner Syndrome	OMIM:300400

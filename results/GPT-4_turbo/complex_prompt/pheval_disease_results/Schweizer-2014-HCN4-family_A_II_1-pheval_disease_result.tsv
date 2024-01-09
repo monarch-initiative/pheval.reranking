@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Left Ventricular Noncompaction 1	OMIM:604169
+2	0.8	Left Ventricular Noncompaction 10	OMIM:615916
+3	0.7	Left Ventricular Noncompaction 8	OMIM:615373
+4	0.6	Barth Syndrome	OMIM:302060
+4	0.6	Endocardial Fibroelastosis	OMIM:305300
+6	0.5	Dilated Cardiomyopathy 1AA	OMIM:611878
+6	0.5	Dilated Cardiomyopathy 1BB	OMIM:612877
+6	0.5	Dilated Cardiomyopathy 1DD	OMIM:613172
+6	0.5	Dilated Cardiomyopathy 1EE	OMIM:613252
+6	0.5	Dilated Cardiomyopathy 1FF	OMIM:613286

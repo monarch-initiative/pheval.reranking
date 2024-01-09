@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:303350
+2	0.89	Primary Lateral Sclerosis, Juvenile	OMIM:606353
+3	0.85	Multiple Sclerosis	OMIM:126200
+4	0.82	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+5	0.81	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+6	0.79	Adrenoleukodystrophy	OMIM:300100
+7	0.78	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+8	0.75	Troyer Syndrome	OMIM:275900
+9	0.72	L1 Syndrome	OMIM:308840
+10	0.7	Neurodegeneration with Brain Iron Accumulation	OMIM:234200

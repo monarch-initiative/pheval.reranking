@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Marfan Syndrome	OMIM:154700
+2	0.84	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.82	Mucopolysaccharidosis Type I	OMIM:607014
+4	0.81	Meckel Syndrome	OMIM:249000
+5	0.79	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.76	Pallister-Hall Syndrome	OMIM:146510
+7	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.73	22q11.2 Deletion Syndrome	OMIM:188400
+9	0.71	Ellis-van Creveld Syndrome	OMIM:225500
+10	0.69	Barth Syndrome	OMIM:302060

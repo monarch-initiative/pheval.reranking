@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Chloride Diarrhea	OMIM:214700
+2	0.7	Bartter Syndrome, Type 4b	OMIM:613090

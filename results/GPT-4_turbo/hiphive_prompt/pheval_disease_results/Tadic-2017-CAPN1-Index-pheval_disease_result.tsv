@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Hereditary spastic paraplegia	OMIM:303350
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.83	Spinocerebellar ataxia	OMIM:164400
+4	0.81	Ataxia-telangiectasia	OMIM:208900
+5	0.78	Cerebral palsy, spastic quadriplegic	OMIM:603513
+6	0.76	Multiple sclerosis	OMIM:126200
+7	0.74	Wilson disease	OMIM:277900
+8	0.72	Charcot-Marie-Tooth disease	OMIM:118220
+9	0.7	Pelizaeus-Merzbacher disease	OMIM:312080
+10	0.68	Tay-Sachs disease	OMIM:272800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.85	Mitochondrial DNA depletion syndrome	OMIM:251880
+3	0.8	Canavan disease	OMIM:271900
+4	0.75	Krabbe disease	OMIM:245200
+5	0.7	Pelizaeus-Merzbacher disease	OMIM:312080
+6	0.65	Vanishing white matter disease	OMIM:603896
+7	0.6	Alexander disease	OMIM:203450
+8	0.55	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+9	0.5	X-linked adrenoleukodystrophy	OMIM:300100
+10	0.45	Maple syrup urine disease	OMIM:248600

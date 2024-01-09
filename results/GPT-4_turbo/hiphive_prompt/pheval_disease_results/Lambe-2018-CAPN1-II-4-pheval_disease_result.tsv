@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia	OMIM:303350
+2	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.82	Adrenoleukodystrophy	OMIM:300100
+4	0.8	Multiple sclerosis	OMIM:126200
+5	0.78	Spinocerebellar ataxia	OMIM:164400
+6	0.76	Cerebral palsy, spastic quadriplegic	OMIM:603513
+7	0.74	Leukodystrophy, metachromatic	OMIM:250100
+8	0.72	Alexander disease	OMIM:203450
+9	0.7	Pelizaeus-Merzbacher disease	OMIM:312080
+10	0.68	Friedreich ataxia	OMIM:229300

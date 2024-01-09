@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.82	Fanconi Anemia	OMIM:227650
+3	0.8	Dyskeratosis Congenita	OMIM:305000
+4	0.75	Seckel Syndrome	OMIM:210600
+5	0.73	Nijmegen Breakage Syndrome	OMIM:251260
+6	0.72	Diamond-Blackfan Anemia	OMIM:105650
+7	0.7	Cartilage-Hair Hypoplasia	OMIM:250250
+8	0.68	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.66	Chediak-Higashi Syndrome	OMIM:214500
+10	0.65	Ataxia-Telangiectasia	OMIM:208900

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.7	CHARGE syndrome	OMIM:214800
+3	0.6	Congenital hypothyroidism	OMIM:218700
+4	0.5	Pendred syndrome	OMIM:274600
+5	0.4	Schinzel-Giedion syndrome	OMIM:269150

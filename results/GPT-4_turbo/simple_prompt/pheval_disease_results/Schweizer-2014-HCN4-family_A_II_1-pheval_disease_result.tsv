@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Left ventricular noncompaction 1	OMIM:604169
+2	0.85	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+3	0.75	Barth syndrome	OMIM:302060

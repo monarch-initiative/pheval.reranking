@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Coffin-Lowry syndrome	OMIM:303600
+2	0.7	Mowat-Wilson syndrome	OMIM:235730
+3	0.65	Baraitser-Winter syndrome 1	OMIM:243310
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+5	0.55	C syndrome	OMIM:211750
+6	0.5	Smith-Magenis syndrome	OMIM:182290
+7	0.45	Joubert syndrome	OMIM:213300
+8	0.4	Schinzel-Giedion syndrome	OMIM:269150

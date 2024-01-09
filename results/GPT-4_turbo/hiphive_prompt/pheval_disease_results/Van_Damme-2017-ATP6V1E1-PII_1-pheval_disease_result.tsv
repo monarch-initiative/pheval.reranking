@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Marfan Syndrome	OMIM:154700
+2	0.91	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+3	0.85	Loeys-Dietz Syndrome 1	OMIM:609192
+4	0.84	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.82	Williams Syndrome	OMIM:194050
+6	0.81	Congenital Contractural Arachnodactyly	OMIM:121050
+7	0.79	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+8	0.77	Birt-Hogg-Dube Syndrome	OMIM:135150
+9	0.75	Stickler Syndrome, Type I	OMIM:108300
+10	0.73	Noonan Syndrome	OMIM:163950

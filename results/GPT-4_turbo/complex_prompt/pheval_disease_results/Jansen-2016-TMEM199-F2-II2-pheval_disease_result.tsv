@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.75	Gilbert Syndrome	OMIM:143500
+3	0.7	Hereditary Hemochromatosis	OMIM:235200
+4	0.65	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+5	0.6	Progressive Familial Intrahepatic Cholestasis Type 2	OMIM:601847
+6	0.55	Galactosemia	OMIM:230400
+7	0.5	Congenital Disorders of Glycosylation Type I	OMIM:212065
+8	0.45	Niemann-Pick Disease, Type C1	OMIM:607623
+9	0.4	Familial Hypercholesterolemia	OMIM:143890
+10	0.35	Non-Alcoholic Fatty Liver Disease	OMIM:613282

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.7	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+3	0.6	Pyle Disease	OMIM:265900
+3	0.6	Pyknodysostosis	OMIM:265800
+5	0.5	Mandibuloacral Dysplasia	OMIM:248370
+6	0.4	Campomelic Dysplasia	OMIM:114290

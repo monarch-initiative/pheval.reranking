@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.75	Angelman syndrome	OMIM:105830
+3	0.7	Fragile X syndrome	OMIM:300624
+4	0.65	Smith-Magenis syndrome	OMIM:182290
+5	0.6	Cohen syndrome	OMIM:216550
+6	0.55	22q13.3 deletion syndrome	OMIM:606232
+7	0.5	Mucopolysaccharidosis type III	OMIM:252900
+8	0.45	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.4	Williams syndrome	OMIM:194050
+10	0.35	Rubinstein-Taybi syndrome	OMIM:180849

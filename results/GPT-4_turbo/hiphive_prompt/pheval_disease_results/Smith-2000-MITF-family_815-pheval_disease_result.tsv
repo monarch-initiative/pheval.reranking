@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Waardenburg syndrome, type 2A	OMIM:193510
+2	0.93	Waardenburg syndrome, type 1	OMIM:193500
+3	0.9	Tietz albinism-deafness syndrome	OMIM:103500
+4	0.85	Piebaldism	OMIM:172800
+5	0.83	Waardenburg syndrome, type 4C	OMIM:613266
+6	0.75	Oculocutaneous albinism type 1	OMIM:203100
+7	0.7	Waardenburg syndrome, type 3	OMIM:148820
+8	0.68	Hermansky-Pudlak syndrome 1	OMIM:203300
+9	0.65	Chediak-Higashi syndrome	OMIM:214500
+10	0.6	Cross syndrome	OMIM:257800

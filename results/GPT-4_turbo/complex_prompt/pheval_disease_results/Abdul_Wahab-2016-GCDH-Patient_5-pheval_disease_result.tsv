@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glutaricaciduria type I	OMIM:231670
+2	0.85	Glutaricaciduria type II	OMIM:231680
+3	0.7	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+4	0.65	Alexander disease	OMIM:203450
+5	0.6	Canavan disease	OMIM:271900
+6	0.55	Leigh syndrome	OMIM:256000
+7	0.5	Maple syrup urine disease	OMIM:248600
+8	0.45	L-2-hydroxyglutaric aciduria	OMIM:236792
+9	0.4	D-2-hydroxyglutaric aciduria	OMIM:600721
+10	0.35	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE syndrome	OMIM:147060
+2	0.85	Chediak-Higashi syndrome	OMIM:214500
+3	0.8	Griscelli syndrome	OMIM:214450
+4	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.7	Severe combined immunodeficiency	OMIM:102700

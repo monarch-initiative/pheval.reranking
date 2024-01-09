@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+5	0.65	CHARGE Syndrome	OMIM:214800
+6	0.6	Noonan Syndrome	OMIM:163950
+7	0.55	Williams Syndrome	OMIM:194050
+8	0.5	Marshall-Smith Syndrome	OMIM:602535
+9	0.45	Apert Syndrome	OMIM:101200
+10	0.4	Coffin-Siris Syndrome	OMIM:135900

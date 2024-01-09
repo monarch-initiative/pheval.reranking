@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	ROHHAD syndrome	OMIM:615961
+2	0.85	CHARGE syndrome	OMIM:214800
+3	0.8	22q11.2 deletion syndrome	OMIM:188400
+4	0.75	Pitt-Hopkins syndrome	OMIM:610954
+5	0.7	Mowat-Wilson syndrome	OMIM:235730
+6	0.65	Carpenter syndrome	OMIM:201000
+7	0.6	Smith-Magenis syndrome	OMIM:182290
+8	0.55	Cornelia de Lange syndrome	OMIM:122470
+9	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.45	Kabuki syndrome	OMIM:147920

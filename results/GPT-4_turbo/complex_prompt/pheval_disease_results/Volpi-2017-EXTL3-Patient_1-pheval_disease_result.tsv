@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+2	0.8	Gaucher Disease, Type 2	OMIM:230900
+3	0.7	Langerhans Cell Histiocytosis	OMIM:604856
+4	0.6	Netherton Syndrome	OMIM:256500
+5	0.5	Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation	OMIM:602450
+6	0.4	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.3	Omenn Syndrome	OMIM:603554
+8	0.2	Pseudoachondroplasia	OMIM:177170
+9	0.1	Chondrodysplasia Punctata 1, X-Linked	OMIM:302950

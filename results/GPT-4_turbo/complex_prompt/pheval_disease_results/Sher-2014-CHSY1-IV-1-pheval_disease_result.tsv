@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.7	Ballarati-Lupski syndrome	OMIM:614980
+3	0.6	Distal trisomy 10q	OMIM:613885
+4	0.55	Chromosome 22q11.2 deletion syndrome, DiGeorge syndrome	OMIM:188400
+5	0.5	Carpenter syndrome	OMIM:201000
+6	0.45	Craniofrontonasal syndrome	OMIM:304110
+7	0.4	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.35	Kaufman oculocerebrofacial syndrome	OMIM:244450

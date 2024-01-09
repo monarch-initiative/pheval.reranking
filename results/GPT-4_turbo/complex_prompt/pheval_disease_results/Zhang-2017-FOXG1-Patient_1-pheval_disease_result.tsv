@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman Syndrome	OMIM:105830
+2	0.85	Rett Syndrome	OMIM:312750
+3	0.8	D-Bifunctional Protein Deficiency	OMIM:261515
+4	0.75	Lissencephaly, X-Linked	OMIM:300067
+5	0.7	Mowat-Wilson Syndrome	OMIM:235730
+6	0.65	2-Hydroxyglutaric Aciduria, D- or L-	OMIM:600721
+7	0.6	Zellweger Syndrome	OMIM:214100
+8	0.55	Miller-Dieker Syndrome	OMIM:247200
+9	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+10	0.45	Aicardi Syndrome	OMIM:304050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+2	0.8	Metachromatic leukodystrophy	OMIM:250100
+2	0.8	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	Alexander disease	OMIM:203450
+2	0.8	Krabbe disease	OMIM:245200
+6	0.7	Charcot-Marie-Tooth disease, type 1	OMIM:118220
+6	0.7	Wilson disease	OMIM:277900
+6	0.7	Spinocerebellar ataxia	OMIM:164400
+6	0.7	Niemann-Pick disease, type C	OMIM:607625
+10	0.6	Ataxia-telangiectasia	OMIM:208900

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Progressive familial intrahepatic cholestasis	OMIM:211600
+2	0.9	Alagille syndrome	OMIM:118450
+3	0.85	Zellweger spectrum disorder	OMIM:214100
+4	0.8	Dubin-Johnson syndrome	OMIM:237500
+5	0.75	Wilson disease	OMIM:277900
+6	0.7	Niemann-Pick disease	OMIM:257200
+7	0.65	Alpha-1 antitrypsin deficiency	OMIM:613490
+8	0.6	Bile acid synthesis defect, congenital	OMIM:603711
+9	0.55	Tyrosinemia type 1	OMIM:276700

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+2	0.9	Marfan syndrome	OMIM:154700
+3	0.85	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.8	Loeys-Dietz syndrome	OMIM:609192
+5	0.75	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+6	0.7	MASS phenotype	OMIM:604308
+7	0.65	Stickler syndrome	OMIM:108300

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glanzmann Thrombasthenia	OMIM:273800
+2	0.8	Bernard-Soulier Syndrome	OMIM:231200
+3	0.7	Scott Syndrome	OMIM:262890
+4	0.6	Wiskott-Aldrich Syndrome	OMIM:301000
+5	0.5	Storage Pool Disease	OMIM:SPD
+6	0.4	May-Hegglin Anomaly	OMIM:155100
+7	0.3	Paris-Trousseau Thrombocytopenia	OMIM:188025
+8	0.2	Platelet-Type Von Willebrand Disease	OMIM:177820
+9	0.1	MYH9-Related Disorders	OMIM:160775

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome	OMIM:163950
+2	0.72	Costello syndrome	OMIM:218040
+3	0.71	Coffin-Lowry syndrome	OMIM:303600
+4	0.65	Weaver syndrome	OMIM:277590
+5	0.62	Silver-Russell syndrome	OMIM:180860
+6	0.61	Turner syndrome	OMIM:300400
+7	0.58	Tuberous sclerosis	OMIM:191100
+8	0.57	Cornelia de Lange syndrome	OMIM:122470
+9	0.55	Apert syndrome	OMIM:101200
+10	0.53	Crouzon syndrome	OMIM:123500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Mucopolysaccharidosis, MPS-IVA	OMIM:253000
+2	0.6	Cleidocranial dysplasia	OMIM:119600
+2	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.6	Hajdu-Cheney syndrome	OMIM:102500
+5	0.5	Cranioectodermal dysplasia	OMIM:218330
+5	0.5	Pfeiffer syndrome	OMIM:101600
+5	0.5	Apert syndrome	OMIM:101200
+5	0.5	Cornelia de Lange syndrome	OMIM:122470
+9	0.4	Stickler syndrome	OMIM:108300
+9	0.4	Noonan syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alopecia universalis	OMIM:203655
+2	0.93	Anhidrotic ectodermal dysplasia	OMIM:224900
+3	0.91	Hidrotic ectodermal dysplasia	OMIM:129500
+4	0.88	Ectodermal dysplasia, hypohidrotic, with hypothyroidism and ciliary dyskinesia	OMIM:614080
+5	0.86	Ectrodactyly-ectodermal dysplasia-cleft syndrome	OMIM:129900
+6	0.84	Pachyonychia congenita	OMIM:167200
+7	0.82	Schopf-Schulz-Passarge syndrome	OMIM:224750
+8	0.79	Poikiloderma with neutropenia	OMIM:604173
+9	0.77	Nail-patella syndrome	OMIM:161200
+10	0.75	Hay-Wells syndrome	OMIM:106260

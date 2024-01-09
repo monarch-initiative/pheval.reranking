@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorders of Glycosylation	OMIM:212065
+2	0.85	Pontocerebellar Hypoplasia	OMIM:607596
+3	0.8	Spinal Muscular Atrophy	OMIM:253300
+4	0.75	Mucopolysaccharidosis Type III	OMIM:252900
+5	0.7	Rett Syndrome	OMIM:312750
+6	0.65	Zellweger Syndrome	OMIM:214100
+7	0.6	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+8	0.55	Leigh Syndrome	OMIM:256000
+9	0.5	Charcot-Marie-Tooth Disease	OMIM:118220
+10	0.45	Smith-Lemli-Opitz Syndrome	OMIM:270400

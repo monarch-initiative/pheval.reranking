@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.85	Craniofrontonasal syndrome	OMIM:304110
+3	0.82	Greig cephalopolysyndactyly syndrome	OMIM:175700
+4	0.8	Birt-Hogg-Dube syndrome	OMIM:135150
+5	0.79	Gardner syndrome	OMIM:175100
+6	0.75	Familial adenomatous polyposis 1	OMIM:175100
+7	0.74	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.73	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.67	Meckel syndrome	OMIM:249000

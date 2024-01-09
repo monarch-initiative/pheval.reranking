@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome 1	OMIM:122470
+2	0.7	Noonan Syndrome 1	OMIM:163950
+3	0.6	Craniofrontonasal Syndrome	OMIM:304110
+3	0.6	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.6	Coffin-Siris Syndrome 1	OMIM:135900
+6	0.5	Dubowitz Syndrome	OMIM:223370
+6	0.5	Russell-Silver Syndrome	OMIM:180860
+6	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.4	Mucopolysaccharidosis Type I	OMIM:607014
+9	0.4	Brachydactyly-Mental Retardation Syndrome	OMIM:600430

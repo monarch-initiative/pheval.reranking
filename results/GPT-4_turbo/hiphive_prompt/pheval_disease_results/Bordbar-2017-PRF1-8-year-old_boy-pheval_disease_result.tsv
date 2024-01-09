@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.9	Hemochromatosis	OMIM:235200
+3	0.85	Aceruloplasminemia	OMIM:604290
+4	0.83	Non-alcoholic Fatty Liver Disease	OMIM:613282
+5	0.82	Mitochondrial Myopathy	OMIM:500001
+6	0.8	Alcoholic Liver Disease	OMIM:600151
+7	0.78	Hepatocellular Carcinoma	OMIM:114550
+8	0.76	Leigh Syndrome	OMIM:256000
+9	0.74	Glycogen Storage Disease Type I	OMIM:232200
+10	0.72	Primary Biliary Cholangitis	OMIM:109720

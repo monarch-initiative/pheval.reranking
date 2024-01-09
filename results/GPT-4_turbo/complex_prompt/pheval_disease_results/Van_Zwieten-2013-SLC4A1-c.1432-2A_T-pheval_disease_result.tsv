@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hereditary spherocytosis	OMIM:182900
+2	0.7	Hereditary elliptocytosis	OMIM:611804
+3	0.6	G6PD deficiency	OMIM:305900
+4	0.5	Autoimmune hemolytic anemia	OMIM:609135
+5	0.4	Hereditary pyropoikilocytosis	OMIM:266140
+6	0.3	Rh-null, regulator type	OMIM:268150

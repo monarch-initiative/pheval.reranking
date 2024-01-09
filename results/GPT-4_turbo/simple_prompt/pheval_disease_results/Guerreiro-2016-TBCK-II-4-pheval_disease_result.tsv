@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Down Syndrome	OMIM:190685
+2	0.85	Seckel Syndrome	OMIM:210600
+3	0.75	Coffin-Lowry Syndrome	OMIM:303600
+4	0.65	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.55	Prader-Willi Syndrome	OMIM:176270
+6	0.55	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.5	Angelman Syndrome	OMIM:105830
+8	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.45	Apert Syndrome	OMIM:101200

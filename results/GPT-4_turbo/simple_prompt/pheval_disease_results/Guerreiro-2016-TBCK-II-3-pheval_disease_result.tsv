@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett Syndrome	OMIM:312750
+2	0.75	West Syndrome	OMIM:308350
+3	0.65	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.6	Prader-Willi Syndrome	OMIM:176270
+5	0.55	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+6	0.5	Angelman Syndrome	OMIM:105830
+7	0.45	Cornelia de Lange Syndrome	OMIM:122470
+8	0.4	Lennox-Gastaut Syndrome	OMIM:606369
+9	0.35	Pitt-Hopkins Syndrome	OMIM:610954
+10	0.3	Pena-Shokeir Syndrome Type I	OMIM:208150

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Myotonic Dystrophy	OMIM:160900
+2	0.81	Charcot-Marie-Tooth Disease	OMIM:118220
+3	0.77	Mitochondrial Myopathy	OMIM:500001
+4	0.74	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+5	0.72	Limb-Girdle Muscular Dystrophy	OMIM:253600

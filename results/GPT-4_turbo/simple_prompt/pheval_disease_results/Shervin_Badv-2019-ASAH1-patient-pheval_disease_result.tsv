@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myoclonic epilepsy with ragged red fibers	OMIM:545000
+2	0.85	Limb-girdle muscular dystrophy	OMIM:253600
+3	0.82	Duchenne muscular dystrophy	OMIM:310200
+4	0.8	Pompe disease	OMIM:232300
+5	0.79	Becker muscular dystrophy	OMIM:300376
+6	0.77	Amyotrophic lateral sclerosis	OMIM:105400

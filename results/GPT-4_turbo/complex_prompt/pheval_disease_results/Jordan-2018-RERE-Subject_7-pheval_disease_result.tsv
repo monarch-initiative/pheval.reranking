@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Diabetes mellitus, transient neonatal	OMIM:601410
+2	0.6	Holt-Oram syndrome	OMIM:142900
+3	0.5	Down Syndrome	OMIM:190685
+3	0.5	CHARGE syndrome	OMIM:214800
+3	0.5	Pentalogy of Cantrell	OMIM:313850
+6	0.4	Noonan syndrome	OMIM:163950
+6	0.4	Turner syndrome	OMIM:300400
+8	0.3	Marfan syndrome	OMIM:154700
+9	0.2	Stickler Syndrome	OMIM:108300
+9	0.2	Beckwith-Wiedemann syndrome	OMIM:130650

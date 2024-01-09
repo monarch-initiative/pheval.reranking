@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Leigh Syndrome	OMIM:256000
+2	0.8	Pelizaeus-Merzbacher Disease	OMIM:312080
+3	0.75	2-Hydroxyglutaric Aciduria	OMIM:236792
+4	0.7	Infantile Neuroaxonal Dystrophy	OMIM:256600
+5	0.65	Mitochondrial DNA Depletion Syndrome 6 (Hepatocerebral Type)	OMIM:256810
+6	0.6	Globoid Cell Leukodystrophy	OMIM:245200
+7	0.55	Canavan Disease	OMIM:271900
+8	0.5	Rett Syndrome	OMIM:312750
+9	0.45	Alexander Disease	OMIM:203450
+10	0.4	Metachromatic Leukodystrophy	OMIM:250100

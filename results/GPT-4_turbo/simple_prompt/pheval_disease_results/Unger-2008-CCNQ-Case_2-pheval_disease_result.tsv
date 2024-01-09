@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Ballard Syndrome	OMIM:219000
+2	0.6	Catel-Manzke Syndrome	OMIM:302380
+3	0.55	CHARGE Syndrome	OMIM:214800
+4	0.5	Disorders of Sex Development	OMIM:233420
+5	0.4	Holt-Oram Syndrome	OMIM:142900
+6	0.35	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.3	VACTERL Association	OMIM:192350

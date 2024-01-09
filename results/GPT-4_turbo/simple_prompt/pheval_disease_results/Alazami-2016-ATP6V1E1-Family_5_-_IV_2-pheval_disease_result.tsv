@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+2	0.8	Cutis Laxa, Autosomal Recessive, Type IIIA	OMIM:219150
+3	0.7	Cutis Laxa with Severe Pulmonary, Gastrointestinal, and Urinary Anomalies	OMIM:613480
+4	0.6	Arterial Tortuosity Syndrome	OMIM:208050
+5	0.5	Marfan Syndrome	OMIM:154700
+6	0.4	Hyperphosphatemic Familial Tumoral Calcinosis	OMIM:211900
+7	0.3	Williams Syndrome	OMIM:194050

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow Syndrome, Autosomal Dominant	OMIM:180700
+2	0.8	Stickler Syndrome	OMIM:108300
+3	0.7	3M Syndrome	OMIM:273750
+4	0.6	Kniest Dysplasia	OMIM:156550
+5	0.5	Acrocephalopolydactylous Dysplasia	OMIM:101200
+6	0.4	Cleidocranial Dysplasia	OMIM:119600
+7	0.3	Pseudohypoparathyroidism	OMIM:103580

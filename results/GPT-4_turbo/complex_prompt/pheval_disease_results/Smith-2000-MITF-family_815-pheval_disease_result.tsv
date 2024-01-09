@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome Type 2A	OMIM:193510
+2	0.8	Waardenburg Syndrome Type 1	OMIM:193500
+3	0.7	Waardenburg Syndrome Type 4C	OMIM:613266
+4	0.6	Waardenburg Syndrome Type 2E	OMIM:611584
+5	0.5	Waardenburg Syndrome Type 3	OMIM:148820
+6	0.4	Waardenburg Syndrome Type 2D	OMIM:608890
+7	0.3	Piebaldism	OMIM:172800
+8	0.2	Tietz Albinism-Deafness Syndrome	OMIM:103500
+9	0.1	Oculocutaneous Albinism Type 1	OMIM:203100

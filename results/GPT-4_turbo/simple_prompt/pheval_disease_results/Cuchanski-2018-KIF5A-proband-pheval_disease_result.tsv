@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:303350
+2	0.9	Multiple Sclerosis	OMIM:126200
+3	0.88	Amyotrophic Lateral Sclerosis	OMIM:105400
+4	0.85	Friedreich Ataxia	OMIM:229300
+5	0.8	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+6	0.77	Charcot-Marie-Tooth Disease	OMIM:118220
+7	0.75	Spinal Muscular Atrophy	OMIM:253300
+8	0.7	B12 Deficiency	OMIM:266100
+9	0.65	Leukodystrophy, Metachromatic	OMIM:250100

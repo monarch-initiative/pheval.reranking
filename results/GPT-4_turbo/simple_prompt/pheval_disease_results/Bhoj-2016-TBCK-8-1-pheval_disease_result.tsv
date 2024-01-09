@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+2	0.7	Mucopolysaccharidosis, type IIIA (Sanfilippo syndrome A)	OMIM:252900
+3	0.6	Mucopolysaccharidosis, type IIIB (Sanfilippo syndrome B)	OMIM:252920
+3	0.6	Mucopolysaccharidosis type I (Hurler Syndrome)	OMIM:607014
+3	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.5	MECP2 duplication syndrome	OMIM:300260
+6	0.5	Angelman syndrome	OMIM:105830

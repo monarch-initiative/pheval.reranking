@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	3M Syndrome	OMIM:273750
+2	0.7	Mucopolysaccharidosis Type IVA (Morquio Syndrome)	OMIM:253000
+2	0.7	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+4	0.6	Carpenter Syndrome	OMIM:201000
+5	0.5	Cleidocranial Dysplasia	OMIM:119600
+5	0.5	Ballard Syndrome	OMIM:112240

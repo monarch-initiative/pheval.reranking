@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne Muscular Dystrophy	OMIM:310200
+2	0.85	Becker Muscular Dystrophy	OMIM:300376
+3	0.7	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+4	0.65	Limb-Girdle Muscular Dystrophy	OMIM:253600
+5	0.6	Myotonic Dystrophy Type 1	OMIM:160900
+6	0.55	Congenital Myopathy	OMIM:117000
+7	0.5	Myotubular Myopathy	OMIM:310400
+8	0.45	Nemaline Myopathy	OMIM:256030
+9	0.4	Centronuclear Myopathy	OMIM:255200
+10	0.35	Emery-Dreifuss Muscular Dystrophy	OMIM:310300

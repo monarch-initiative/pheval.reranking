@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.87	Pitt-Hopkins syndrome	OMIM:610954
+3	0.85	Coffin-Lowry syndrome	OMIM:303600
+4	0.83	Mucopolysaccharidosis type III	OMIM:252900
+5	0.81	Rett Syndrome	OMIM:312750
+6	0.79	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.77	Carpenter syndrome	OMIM:201000
+8	0.76	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.74	Cornelia de Lange syndrome	OMIM:122470
+10	0.72	Kleefstra syndrome	OMIM:610253

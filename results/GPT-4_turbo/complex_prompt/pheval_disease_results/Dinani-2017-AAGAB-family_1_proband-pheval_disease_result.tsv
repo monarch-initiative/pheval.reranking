@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pachyonychia Congenita 1	OMIM:167200
+2	0.85	Pachyonychia Congenita 2	OMIM:167210
+3	0.8	Hidrotic Ectodermal Dysplasia 1	OMIM:129500
+4	0.75	Focal Palmoplantar Keratoderma with Oral Mucosal Hyperkeratosis	OMIM:148730
+5	0.7	Howel-Evans Syndrome	OMIM:148500
+6	0.65	Clouston Syndrome	OMIM:129500
+7	0.6	Palmoplantar Keratoderma with Deafness	OMIM:148350
+8	0.55	Palmoplantar Keratoderma, Nonepidermolytic	OMIM:600962
+9	0.5	Dyskeratosis Congenita	OMIM:127550
+10	0.45	Steatocystoma Multiplex	OMIM:184500

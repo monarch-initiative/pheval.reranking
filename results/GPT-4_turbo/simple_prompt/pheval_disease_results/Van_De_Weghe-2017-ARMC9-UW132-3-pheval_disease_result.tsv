@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert syndrome	OMIM:213300
+2	0.85	Lissencephaly	OMIM:607432
+3	0.75	Dandy-Walker syndrome	OMIM:220200
+4	0.65	Leber congenital amaurosis	OMIM:204000
+5	0.55	Sephardic Jewish lethal neonatal dysmyelinating leukodystrophy	OMIM:611890

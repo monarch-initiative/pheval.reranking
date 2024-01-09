@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial DNA depletion syndrome	OMIM:251880
+2	0.85	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609016
+3	0.8	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+3	0.8	MELAS syndrome (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes)	OMIM:540000
+5	0.75	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+6	0.7	Myoclonic epilepsy with ragged red fibers (MERRF)	OMIM:545000
+7	0.65	Propionic acidemia	OMIM:606054
+8	0.6	Very long-chain acyl-CoA dehydrogenase deficiency (VLCAD)	OMIM:201475
+9	0.55	Maple syrup urine disease	OMIM:248600
+10	0.5	Organic acidemia	OMIM:210200

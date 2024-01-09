@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+3	0.75	Loeys-Dietz Syndrome	OMIM:609192
+4	0.65	Homocystinuria	OMIM:236200
+5	0.55	Stickler Syndrome	OMIM:108300
+6	0.45	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086

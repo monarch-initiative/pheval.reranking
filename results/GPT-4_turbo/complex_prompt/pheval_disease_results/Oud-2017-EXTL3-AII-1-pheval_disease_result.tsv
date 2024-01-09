@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Short Rib-Polydactyly Syndrome	OMIM:263530
+2	0.85	Meckel Syndrome	OMIM:249000
+3	0.8	Jeune Asphyxiating Thoracic Dystrophy	OMIM:208500
+4	0.7	Ellis-van Creveld Syndrome	OMIM:225500
+5	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.55	Joubert Syndrome	OMIM:213300
+7	0.5	Carpenter Syndrome	OMIM:201000
+8	0.45	Zellweger Spectrum Disorder	OMIM:214100

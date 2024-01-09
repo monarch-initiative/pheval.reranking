@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Pseudoachondroplasia	OMIM:177170
+3	0.7	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.6	Multiple Epiphyseal Dysplasia	OMIM:132400
+5	0.5	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.4	Metatropic Dysplasia	OMIM:250600

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome	OMIM:123500
+2	0.8	Pfeiffer syndrome	OMIM:101600
+3	0.7	Apert syndrome	OMIM:101200
+4	0.6	Muenke syndrome	OMIM:602849
+5	0.5	Saethre-Chotzen syndrome	OMIM:101400
+6	0.4	CHARGE syndrome	OMIM:214800
+7	0.3	Waardenburg syndrome	OMIM:193500
+8	0.2	Cornelia de Lange syndrome	OMIM:122470

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.7	Noonan syndrome	OMIM:163950
+3	0.6	Mucopolysaccharidosis type III (Sanfilippo syndrome)	OMIM:252900
+4	0.5	LEOPARD syndrome	OMIM:151100
+5	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.3	Costello syndrome	OMIM:218040
+7	0.2	McCune-Albright syndrome	OMIM:174800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome	OMIM:130000
+2	0.84	Marfan syndrome	OMIM:154700
+3	0.77	Stickler syndrome	OMIM:108300
+4	0.76	Pseudoachondroplasia	OMIM:177170
+5	0.73	Cleidocranial dysplasia	OMIM:119600
+6	0.71	Larsen syndrome	OMIM:150250
+7	0.69	Osteogenesis imperfecta	OMIM:166200
+8	0.66	Noonan syndrome	OMIM:163950
+9	0.64	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+10	0.62	Cutis laxa, autosomal dominant	OMIM:123700

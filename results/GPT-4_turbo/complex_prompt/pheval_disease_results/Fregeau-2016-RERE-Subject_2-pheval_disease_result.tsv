@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.7	Cat eye syndrome	OMIM:115470
+4	0.6	Pallister-Hall syndrome	OMIM:146510
+5	0.5	VACTERL association	OMIM:192350
+6	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.3	Pfeiffer syndrome	OMIM:101600
+8	0.2	Treacher Collins syndrome	OMIM:154500
+9	0.1	Craniofrontonasal dysplasia	OMIM:304110

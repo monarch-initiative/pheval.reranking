@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alagille syndrome	OMIM:118450
+2	0.6	CHARGE syndrome	OMIM:214800
+3	0.5	Noonan syndrome	OMIM:163950
+4	0.4	22q11.2 deletion syndrome	OMIM:188400
+5	0.3	Turner syndrome	OMIM:300000
+6	0.2	Cornelia de Lange syndrome	OMIM:122470
+7	0.1	Marfan syndrome	OMIM:154700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Zellweger Syndrome	OMIM:214100
+3	0.75	Pitt-Hopkins Syndrome	OMIM:610954
+4	0.72	Mowat-Wilson Syndrome	OMIM:235730
+5	0.7	Aicardi Syndrome	OMIM:304050
+6	0.68	Lissencephaly	OMIM:607432
+7	0.65	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.63	Baraitser-Winter Syndrome	OMIM:243310
+9	0.6	Angelman Syndrome	OMIM:105830
+10	0.58	Wolf-Hirschhorn Syndrome	OMIM:194190

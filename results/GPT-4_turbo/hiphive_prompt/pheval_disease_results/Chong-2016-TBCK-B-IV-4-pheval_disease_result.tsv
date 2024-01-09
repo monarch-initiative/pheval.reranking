@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett Syndrome	OMIM:312750
+2	0.82	Angelman Syndrome	OMIM:105830
+3	0.81	Prader-Willi Syndrome	OMIM:176270
+4	0.79	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.78	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.76	Coffin-Siris Syndrome	OMIM:135900
+7	0.74	Charcot-Marie-Tooth Disease	OMIM:118220
+8	0.73	CHARGE Syndrome	OMIM:214800
+9	0.71	Cornelia de Lange Syndrome	OMIM:122470
+10	0.69	Pelizaeus-Merzbacher Disease	OMIM:312080

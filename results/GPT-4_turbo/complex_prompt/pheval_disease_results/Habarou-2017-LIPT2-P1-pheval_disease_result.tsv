@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pyridoxine-dependent epilepsy	OMIM:266100
+2	0.8	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+3	0.75	Nonketotic hyperglycinemia	OMIM:605899
+4	0.7	Leigh syndrome	OMIM:256000
+5	0.65	L-2-hydroxyglutaric aciduria	OMIM:236792
+6	0.6	Zellweger syndrome	OMIM:214100
+7	0.55	D-2-hydroxyglutaric aciduria	OMIM:600721
+8	0.5	Mitochondrial complex I deficiency	OMIM:252010
+9	0.45	Pontocerebellar hypoplasia	OMIM:607596
+10	0.4	Aicardi-Goutieres syndrome	OMIM:225750

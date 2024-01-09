@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	MYH9-related disorders	OMIM:160775
+2	0.9	Bernard-Soulier syndrome	OMIM:231200
+3	0.85	Gray platelet syndrome	OMIM:139090
+4	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.75	Paris-Trousseau thrombocytopenia	OMIM:188025
+6	0.7	Essential thrombocythemia	OMIM:187950
+7	0.65	Congenital amegakaryocytic thrombocytopenia	OMIM:604498

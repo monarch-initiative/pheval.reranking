@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.9	Metachromatic leukodystrophy	OMIM:250100
+3	0.85	Leigh syndrome	OMIM:256000
+4	0.8	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.75	Multiple system atrophy	OMIM:146500
+6	0.7	Wilson disease	OMIM:277900
+7	0.65	Neurodegeneration with brain iron accumulation	OMIM:234200
+8	0.6	Spinocerebellar ataxia	OMIM:164400

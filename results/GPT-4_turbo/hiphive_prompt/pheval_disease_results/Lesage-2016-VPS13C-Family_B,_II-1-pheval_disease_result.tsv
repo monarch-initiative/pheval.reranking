@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson disease	OMIM:168600
+2	0.9	Multiple system atrophy	OMIM:146500
+3	0.85	Dystonia, DOPA-responsive, due to sepiapterin reductase deficiency	OMIM:612716
+4	0.83	Lewy body dementia	OMIM:127750
+5	0.78	Wilson disease	OMIM:277900
+6	0.75	Alzheimer disease	OMIM:104300
+7	0.72	Huntington disease	OMIM:143100
+8	0.7	Progressive supranuclear palsy	OMIM:601104
+9	0.65	Frontotemporal dementia	OMIM:600274
+10	0.6	Spinocerebellar ataxia	OMIM:164400

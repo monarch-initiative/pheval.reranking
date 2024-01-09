@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi Anemia	OMIM:227650
+2	0.8	Severe Combined Immunodeficiency	OMIM:102700
+3	0.7	Myelodysplastic Syndromes	OMIM:614286
+4	0.6	Aplastic Anemia	OMIM:609135
+5	0.5	Dyskeratosis Congenita	OMIM:127550
+6	0.4	Diamond-Blackfan Anemia	OMIM:105650
+7	0.3	Paroxysmal Nocturnal Hemoglobinuria	OMIM:300818
+8	0.2	Shwachman-Diamond Syndrome	OMIM:260400
+9	0.1	Congenital Dyserythropoietic Anemia	OMIM:224120

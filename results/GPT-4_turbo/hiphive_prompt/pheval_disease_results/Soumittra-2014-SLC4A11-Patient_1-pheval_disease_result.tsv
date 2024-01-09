@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fuchs endothelial dystrophy	OMIM:136800
+2	0.9	Congenital hereditary endothelial dystrophy	OMIM:121700
+3	0.85	Posterior polymorphous corneal dystrophy	OMIM:122000
+4	0.75	Keratoconus	OMIM:148300
+5	0.7	Meesmann corneal dystrophy	OMIM:122100
+6	0.65	Schnyder corneal dystrophy	OMIM:121800
+7	0.6	Corneal dystrophy and perceptive deafness	OMIM:217400
+8	0.55	Interstitial keratitis	OMIM:148600
+9	0.5	Endothelial dystrophy, iris hypoplasia, congenital glaucoma, and stromal thinning	OMIM:601771
+10	0.45	Microcornea, myopic chorioretinal atrophy, and telecanthus	OMIM:615458

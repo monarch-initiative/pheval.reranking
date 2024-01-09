@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis congenita, autosomal dominant	OMIM:127550
+2	0.93	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+3	0.85	Fanconi anemia	OMIM:227650
+4	0.8	Shwachman-Diamond syndrome	OMIM:260400
+5	0.75	Severe combined immunodeficiency	OMIM:102700

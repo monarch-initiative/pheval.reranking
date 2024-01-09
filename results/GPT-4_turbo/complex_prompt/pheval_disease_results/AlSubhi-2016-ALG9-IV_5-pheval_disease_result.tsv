@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Adams-Oliver Syndrome	OMIM:100300
+2	0.8	Trisomy 13	OMIM:264480
+3	0.7	Pallister-Killian Syndrome	OMIM:601803
+4	0.6	Apert Syndrome	OMIM:101200
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.4	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.3	Mowat-Wilson Syndrome	OMIM:235730
+8	0.2	Noonan Syndrome	OMIM:163950
+9	0.1	Coffin-Siris Syndrome	OMIM:135900

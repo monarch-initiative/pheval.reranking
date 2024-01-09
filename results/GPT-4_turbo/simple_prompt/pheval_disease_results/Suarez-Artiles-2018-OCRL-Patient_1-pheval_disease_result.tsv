@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lowe Syndrome	OMIM:309000
+2	0.85	Cystinosis, Nephropathic	OMIM:219800
+3	0.75	Fanconi Renotubular Syndrome 2	OMIM:613388
+4	0.6	Galactosemia	OMIM:230400
+5	0.55	Fabry Disease	OMIM:301500

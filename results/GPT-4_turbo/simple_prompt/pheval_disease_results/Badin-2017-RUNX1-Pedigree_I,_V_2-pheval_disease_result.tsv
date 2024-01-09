@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Acute Myeloid Leukemia	OMIM:601626
+2	0.8	Gray Platelet Syndrome	OMIM:139090
+3	0.7	Paris-Trousseau thrombocytopenia	OMIM:188025

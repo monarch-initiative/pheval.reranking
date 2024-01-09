@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heterotaxy, Visceral, 1, X-Linked	OMIM:306955
+2	0.85	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.83	DiGeorge Syndrome	OMIM:188400
+4	0.81	CHARGE Syndrome	OMIM:214800
+5	0.75	Alagille Syndrome 1	OMIM:118450
+6	0.74	Ellis-van Creveld Syndrome	OMIM:225500
+7	0.72	Tetralogy of Fallot	OMIM:187500
+8	0.68	Polycystic Kidney Disease 1	OMIM:173900
+9	0.65	Noonan Syndrome 1	OMIM:163950
+10	0.6	Cat Eye Syndrome	OMIM:115470

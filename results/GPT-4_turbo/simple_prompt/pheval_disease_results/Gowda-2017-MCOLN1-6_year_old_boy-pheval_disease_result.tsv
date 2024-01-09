@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	3-methylglutaconic aciduria type 3	OMIM:258501
+2	0.87	LBSL, leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation	OMIM:611105
+3	0.85	Alexander disease	OMIM:203450
+4	0.82	Pelizaeus-Merzbacher disease	OMIM:312080
+5	0.81	Zellweger syndrome	OMIM:214100
+6	0.79	Cockayne syndrome	OMIM:216400

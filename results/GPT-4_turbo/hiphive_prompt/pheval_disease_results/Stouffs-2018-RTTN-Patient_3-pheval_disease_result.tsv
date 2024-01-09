@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Seckel syndrome	OMIM:210600
+2	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.84	Cohen Syndrome	OMIM:216550
+4	0.82	3C syndrome	OMIM:220210
+5	0.81	Meckel syndrome	OMIM:249000
+6	0.8	Joubert Syndrome	OMIM:213300
+7	0.78	Mowat-Wilson syndrome	OMIM:235730
+8	0.76	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.75	Rett Syndrome	OMIM:312750
+10	0.73	Carbohydrate-Deficient Glycoprotein Syndrome Type I	OMIM:212065

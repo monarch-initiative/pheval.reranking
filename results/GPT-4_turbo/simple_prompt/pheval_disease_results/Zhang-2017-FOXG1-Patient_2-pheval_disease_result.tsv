@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Angelman syndrome	OMIM:105830
+2	0.7	Rett syndrome	OMIM:312750
+3	0.6	Lissencephaly	OMIM:607432
+3	0.6	2q37 deletion syndrome	OMIM:614526
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	22q13 deletion syndrome	OMIM:606232
+5	0.5	Prader-Willi syndrome	OMIM:176270
+8	0.4	Mowat-Wilson syndrome	OMIM:235730

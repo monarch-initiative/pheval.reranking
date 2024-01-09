@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Morquio Syndrome	OMIM:253000
+2	0.88	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+3	0.85	Achondroplasia	OMIM:100800
+4	0.82	Diastrophic Dysplasia	OMIM:222600
+5	0.8	Pseudoachondroplasia	OMIM:177170
+6	0.75	Mucopolysaccharidosis Type IV	OMIM:253000
+7	0.72	Kniest Dysplasia	OMIM:156550

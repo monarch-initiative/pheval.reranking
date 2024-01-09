@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Diabetes mellitus, insulin-dependent, 10	OMIM:601942
+2	0.9	Maturity-onset diabetes of the young, type 2	OMIM:125851
+3	0.85	Renal cysts and diabetes syndrome	OMIM:137920
+4	0.75	Diabetic nephropathy	OMIM:603933

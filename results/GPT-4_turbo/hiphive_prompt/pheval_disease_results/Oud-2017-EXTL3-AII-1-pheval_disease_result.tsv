@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Short-Rib Thoracic Dysplasia 1 with or without Polydactyly	OMIM:263520
+2	0.82	Ciliopathy	OMIM:609290
+3	0.78	Meckel Syndrome	OMIM:249000
+4	0.76	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+5	0.74	Jeune Syndrome	OMIM:208500
+6	0.72	Joubert Syndrome	OMIM:213300
+7	0.71	Chondrodysplasia Punctata	OMIM:215100
+8	0.69	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.68	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+10	0.65	Ellis-van Creveld Syndrome	OMIM:225500

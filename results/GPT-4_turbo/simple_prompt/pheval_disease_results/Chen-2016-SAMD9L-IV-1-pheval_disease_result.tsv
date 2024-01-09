@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar Ataxia Type 1	OMIM:164400
+2	0.9	Friedreich Ataxia	OMIM:229300
+3	0.85	Spinocerebellar Ataxia Type 3	OMIM:109150
+4	0.8	Multiple System Atrophy, Cerebellar Type	OMIM:146500
+5	0.75	Spinocerebellar Ataxia Type 2	OMIM:183090

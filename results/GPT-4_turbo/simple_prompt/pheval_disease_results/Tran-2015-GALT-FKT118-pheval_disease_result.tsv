@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Galactosemia	OMIM:230400
+2	0.75	Urea Cycle Disorders	OMIM:605014
+3	0.7	Neonatal Jaundice, Hereditary	OMIM:237900
+4	0.65	Phenylketonuria	OMIM:261600
+5	0.6	Biotinidase Deficiency	OMIM:253260

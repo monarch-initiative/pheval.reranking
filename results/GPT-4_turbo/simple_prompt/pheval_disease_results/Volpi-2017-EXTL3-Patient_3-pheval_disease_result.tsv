@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Schimke Immuno-Osseous Dysplasia	OMIM:242900
+2	0.7	Hurler Syndrome	OMIM:607014
+3	0.65	Marfan Syndrome	OMIM:154700
+4	0.6	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+4	0.6	Morquio Syndrome	OMIM:253000
+6	0.55	Multiple Epiphyseal Dysplasia	OMIM:132400
+7	0.5	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+7	0.5	Gaucher Disease	OMIM:230800

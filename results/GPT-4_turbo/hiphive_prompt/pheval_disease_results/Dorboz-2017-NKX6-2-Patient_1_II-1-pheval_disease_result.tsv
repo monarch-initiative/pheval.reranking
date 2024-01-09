@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.93	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.91	Rett syndrome	OMIM:312750
+4	0.88	Mitochondrial complex III deficiency	OMIM:124000
+5	0.86	Tay-Sachs disease	OMIM:272800
+6	0.85	Glutaric aciduria type 1	OMIM:231670
+7	0.83	Metachromatic leukodystrophy	OMIM:250100
+8	0.82	Canavan disease	OMIM:271900
+9	0.81	Alexander disease	OMIM:203450
+10	0.79	Krabbe disease	OMIM:245200

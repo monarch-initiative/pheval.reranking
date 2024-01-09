@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange Syndrome	OMIM:122470
+2	0.87	Cohen Syndrome	OMIM:216550
+3	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.83	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+5	0.81	Mucopolysaccharidosis Type I	OMIM:252800
+6	0.79	Meier-Gorlin Syndrome	OMIM:224690
+7	0.76	Wolfram Syndrome	OMIM:222300
+8	0.74	Mowat-Wilson Syndrome	OMIM:235730
+9	0.72	Cockayne Syndrome	OMIM:216400
+10	0.7	Triple A Syndrome	OMIM:231550

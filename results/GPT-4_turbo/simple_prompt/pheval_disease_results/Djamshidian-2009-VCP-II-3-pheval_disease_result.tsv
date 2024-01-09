@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:167320
+2	0.85	GNE myopathy	OMIM:605820
+3	0.75	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.65	Osteopetrosis with distal renal tubular acidosis	OMIM:259730
+5	0.55	Hereditary sensorineural hearing impairment and amyotrophy	OMIM:600794

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange Syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.8	Coffin-Siris Syndrome	OMIM:135900
+4	0.78	Williams Syndrome	OMIM:194050
+5	0.75	Noonan Syndrome	OMIM:163950
+6	0.72	Mucopolysaccharidosis Type III	OMIM:252900
+7	0.7	Rett Syndrome	OMIM:312750
+8	0.68	Kabuki Syndrome	OMIM:147920
+9	0.65	Seckel Syndrome	OMIM:210600
+10	0.63	Smith-Lemli-Opitz Syndrome	OMIM:270400

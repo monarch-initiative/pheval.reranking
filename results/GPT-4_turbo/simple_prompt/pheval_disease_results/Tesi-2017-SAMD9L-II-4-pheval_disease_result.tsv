@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.8	Fanconi Anemia	OMIM:227650
+3	0.7	Whipple Disease	OMIM:261000
+4	0.6	Ataxia-Telangiectasia	OMIM:208900
+5	0.5	Chronic Granulomatous Disease	OMIM:306400

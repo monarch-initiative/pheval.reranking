@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert syndrome	OMIM:213300
+2	0.85	Lissencephaly	OMIM:607432
+3	0.82	Septo-optic dysplasia	OMIM:182230
+4	0.79	Leber congenital amaurosis	OMIM:204000
+5	0.77	Perrault syndrome	OMIM:233400
+6	0.75	Congenital muscular dystrophy-dystroglycanopathy	OMIM:613155
+7	0.73	Gillespie syndrome	OMIM:206700
+8	0.71	Neuronal ceroid lipofuscinosis	OMIM:256730
+9	0.68	Warburg Micro syndrome	OMIM:600118
+10	0.65	Walker-Warburg syndrome	OMIM:236670

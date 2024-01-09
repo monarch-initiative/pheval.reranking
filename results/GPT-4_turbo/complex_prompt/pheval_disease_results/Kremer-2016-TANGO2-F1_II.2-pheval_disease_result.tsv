@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial DNA depletion syndrome	OMIM:251880
+2	0.85	Mitochondrial complex I deficiency	OMIM:252010
+3	0.8	Pyruvate dehydrogenase deficiency	OMIM:312170
+4	0.75	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+5	0.7	MELAS syndrome	OMIM:540000
+6	0.65	Organic acidemia	OMIM:245000
+7	0.6	Leigh syndrome	OMIM:256000
+8	0.55	McArdle disease	OMIM:232600
+9	0.5	Maple syrup urine disease	OMIM:248600
+10	0.45	Glutaric acidemia type II	OMIM:231680

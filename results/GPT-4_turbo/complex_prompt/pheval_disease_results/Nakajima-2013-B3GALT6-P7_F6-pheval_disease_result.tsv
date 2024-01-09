@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	De Barsy syndrome	OMIM:219150
+2	0.8	Larsen syndrome	OMIM:150250
+3	0.75	Cleidocranial dysplasia	OMIM:119600
+4	0.7	Marfan Syndrome	OMIM:154700
+5	0.65	Ehlers-Danlos syndrome, classic type	OMIM:130000
+6	0.6	Pseudoachondroplasia	OMIM:177170
+7	0.55	Stickler Syndrome	OMIM:108300
+8	0.5	Kniest Dysplasia	OMIM:156550
+9	0.45	Osteogenesis Imperfecta	OMIM:166200
+10	0.4	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Schimke Immunoosseous Dysplasia	OMIM:242900
+2	0.8	Zellweger Syndrome	OMIM:214100
+3	0.78	22q11.2 Deletion Syndrome	OMIM:188400
+4	0.77	Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation	OMIM:602450
+5	0.76	Mevalonate Kinase Deficiency	OMIM:251170
+6	0.75	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.74	CHARGE Syndrome	OMIM:214800
+8	0.73	T-B+ Severe Combined Immunodeficiency due to IL-7Ralpha Deficiency	OMIM:608971
+9	0.72	Prader-Willi Syndrome	OMIM:176270
+10	0.71	DiGeorge Syndrome	OMIM:188400

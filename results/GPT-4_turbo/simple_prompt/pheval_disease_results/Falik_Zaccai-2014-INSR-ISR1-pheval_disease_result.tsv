@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.7	Cushing's syndrome	OMIM:219080
+3	0.6	Polycystic ovary syndrome	OMIM:184700
+4	0.5	Insulin resistance syndrome type A	OMIM:610549
+5	0.4	Primary insulin hypersecretion	OMIM:147100
+6	0.3	McCune-Albright syndrome	OMIM:174800
+7	0.2	11-beta-hydroxylase deficiency	OMIM:202010
+8	0.1	Congenital adrenal hyperplasia due to 21-hydroxylase deficiency	OMIM:201910

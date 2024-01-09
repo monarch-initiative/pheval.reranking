@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Camurati-Engelmann Disease	OMIM:131300
+2	0.8	Hypophosphatasia	OMIM:241500
+3	0.65	Primary Hyperparathyroidism	OMIM:145000
+4	0.6	Paget Disease of Bone	OMIM:602080
+5	0.55	Multiple Myeloma	OMIM:254500
+6	0.45	Myasthenia Gravis	OMIM:254200

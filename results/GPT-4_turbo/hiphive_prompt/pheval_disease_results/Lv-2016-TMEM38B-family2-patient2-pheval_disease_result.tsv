@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta, Type I	OMIM:166200
+2	0.93	Osteogenesis Imperfecta, Type III	OMIM:259420
+3	0.92	Osteogenesis Imperfecta, Type IV	OMIM:166220
+4	0.87	Osteogenesis Imperfecta, Type II	OMIM:166210
+5	0.79	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+6	0.77	Hypophosphatasia	OMIM:241500
+7	0.76	Osteoporosis-Pseudoglioma Syndrome	OMIM:259770
+8	0.74	Cole-Carpenter Syndrome	OMIM:112240
+9	0.73	Paget Disease of Bone	OMIM:602080
+10	0.71	Osteopetrosis, Autosomal Dominant Type 2	OMIM:166600

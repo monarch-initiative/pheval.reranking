@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Shprintzen-Goldberg syndrome	OMIM:182212
+2	0.8	Loeys-Dietz syndrome	OMIM:609192
+3	0.75	Craniofacial-deafness-hand syndrome	OMIM:122880
+4	0.7	Noonan syndrome	OMIM:163950
+5	0.65	Cohen syndrome	OMIM:216550

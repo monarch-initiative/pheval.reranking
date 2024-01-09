@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgE syndrome	OMIM:147060
+2	0.85	Job syndrome	OMIM:147060
+3	0.8	Omenn syndrome	OMIM:603554
+4	0.75	Idiopathic CD4+ lymphocytopenia	OMIM:615978
+5	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.65	DiGeorge syndrome	OMIM:188400
+7	0.6	Dyskeratosis congenita	OMIM:127550
+8	0.55	Severe combined immunodeficiency	OMIM:102700
+9	0.5	Common variable immunodeficiency	OMIM:607594
+10	0.45	Chronic granulomatous disease	OMIM:306400

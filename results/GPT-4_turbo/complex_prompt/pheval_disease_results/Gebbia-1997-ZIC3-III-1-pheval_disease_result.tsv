@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heterotaxy, X-Linked	OMIM:306955
+2	0.85	Primary Ciliary Dyskinesia	OMIM:244400
+3	0.8	Ivemark Syndrome	OMIM:208530
+4	0.75	Congenital Heart Disease	OMIM:217095
+5	0.7	Isolated Congenital Asplenia	OMIM:271400
+6	0.65	Situs Inversus	OMIM:270100
+7	0.6	Cartilage-Hair Hypoplasia	OMIM:250250
+8	0.55	CHARGE Syndrome	OMIM:214800

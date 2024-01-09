@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cartilage-hair hypoplasia	OMIM:250250
+2	0.83	Geleophysic dysplasia	OMIM:231050
+3	0.82	Coffin-Siris syndrome	OMIM:135900
+4	0.8	Cleidocranial dysplasia	OMIM:119600
+5	0.79	Schwartz-Jampel syndrome	OMIM:255800
+6	0.77	Noonan syndrome	OMIM:163950
+7	0.76	Marshall syndrome	OMIM:154780
+8	0.75	Achondroplasia	OMIM:100800
+9	0.74	Asphyxiating thoracic dystrophy	OMIM:208500
+10	0.73	Kniest dysplasia	OMIM:156550

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peutz-Jeghers syndrome	OMIM:175200
+2	0.8	Carney complex	OMIM:160980
+3	0.7	Laugier-Hunziker syndrome	OMIM:612515
+4	0.6	LEOPARD syndrome	OMIM:151100
+5	0.5	Cowden syndrome	OMIM:158350
+6	0.4	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+7	0.3	Addison's disease	OMIM:103230
+8	0.2	McCune-Albright syndrome	OMIM:174800

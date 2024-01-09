@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan Syndrome 1	OMIM:163950
+2	0.82	LEOPARD Syndrome 1	OMIM:151100
+3	0.8	Short-Rib Thoracic Dysplasia 3 with or without Polydactyly	OMIM:613091
+4	0.75	Achondroplasia	OMIM:100800
+5	0.73	Costello Syndrome	OMIM:218040
+6	0.71	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.69	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+8	0.65	Carpenter Syndrome	OMIM:201000
+9	0.63	Pseudoachondroplasia	OMIM:177170
+10	0.6	Ellis-van Creveld Syndrome	OMIM:225500

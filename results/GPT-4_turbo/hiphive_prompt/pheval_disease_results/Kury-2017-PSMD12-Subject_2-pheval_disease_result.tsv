@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Charge syndrome	OMIM:214800
+2	0.82	22q11.2 deletion syndrome	OMIM:188400
+3	0.8	Kabuki syndrome	OMIM:147920
+4	0.78	CHARGE syndrome	OMIM:214800
+5	0.76	Usher Syndrome	OMIM:276900
+6	0.74	Prader-Willi Syndrome	OMIM:176270
+7	0.72	Congenital Disorders of Glycosylation	OMIM:212065
+8	0.7	DiGeorge Syndrome	OMIM:188400
+9	0.68	Smith-Lemli-Opitz Syndrome	OMIM:270400
+10	0.66	Velocardiofacial syndrome	OMIM:192430

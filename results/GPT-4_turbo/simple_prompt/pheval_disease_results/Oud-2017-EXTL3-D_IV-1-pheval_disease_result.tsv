@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+2	0.85	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.75	Ellis-van Creveld syndrome	OMIM:225500
+5	0.7	Multiple epiphyseal dysplasia	OMIM:132400
+6	0.65	Cleidocranial dysostosis	OMIM:119600
+7	0.6	Pseudoachondroplasia	OMIM:177170

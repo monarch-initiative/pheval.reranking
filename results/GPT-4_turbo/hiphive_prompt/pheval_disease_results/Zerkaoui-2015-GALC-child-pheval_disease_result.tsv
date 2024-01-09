@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rett syndrome	OMIM:312750
+2	0.85	Dystonia 1, DYT1	OMIM:128100
+3	0.83	Spinal Muscular Atrophy	OMIM:253300
+4	0.81	Stuve-Wiedemann syndrome	OMIM:601559
+5	0.79	GLUT1 Deficiency Syndrome 1	OMIM:606777
+6	0.77	Alexander disease	OMIM:203450
+7	0.75	Leigh syndrome	OMIM:256000
+8	0.72	Aicardi-Goutieres syndrome	OMIM:225750
+9	0.7	Pelizaeus-Merzbacher Disease	OMIM:312080
+10	0.68	MERRF Syndrome	OMIM:545000

@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier Syndrome	OMIM:231200
+2	0.7	von Willebrand Disease, Type 2B	OMIM:613554
+3	0.5	Gray Platelet Syndrome	OMIM:139090
+4	0.4	MYH9-Related Disorders	OMIM:160775

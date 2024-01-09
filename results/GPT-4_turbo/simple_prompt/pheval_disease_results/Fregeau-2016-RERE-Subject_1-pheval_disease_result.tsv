@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.65	Mowat-Wilson Syndrome	OMIM:235730
+3	0.6	CHARGE Syndrome	OMIM:214800
+4	0.55	Cornelia de Lange Syndrome	OMIM:122470
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.45	Noonan Syndrome	OMIM:163950
+7	0.4	Williams Syndrome	OMIM:194050
+8	0.35	Velocardiofacial Syndrome	OMIM:192430
+9	0.3	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.25	Prader-Willi Syndrome	OMIM:176270

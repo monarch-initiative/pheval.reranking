@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	L-2-Hydroxyglutaric Aciduria	OMIM:236792
+2	0.84	3-Phosphoglycerate Dehydrogenase Deficiency	OMIM:601815
+3	0.82	Pyruvate Dehydrogenase Complex Deficiency	OMIM:312170
+4	0.81	Canavan Disease	OMIM:271900
+5	0.79	Glutaric Acidemia Type I	OMIM:231670
+6	0.77	Peroxisome Biogenesis Disorder 1B	OMIM:601539
+7	0.76	MECP2 Duplication Syndrome	OMIM:300260
+8	0.75	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470
+9	0.74	Alexander Disease	OMIM:203450
+10	0.73	Nonketotic Hyperglycinemia	OMIM:605899

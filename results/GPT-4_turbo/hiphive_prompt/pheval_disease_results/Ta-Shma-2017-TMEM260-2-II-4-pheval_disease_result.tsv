@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	22q11.2 deletion syndrome	OMIM:188400
+2	0.89	Alagille syndrome	OMIM:118450
+3	0.88	DiGeorge syndrome	OMIM:188400
+4	0.87	Tetralogy of Fallot	OMIM:187500
+5	0.85	Williams syndrome	OMIM:194050
+6	0.83	CHARGE syndrome	OMIM:214800
+7	0.82	Pulmonary atresia with intact ventricular septum	OMIM:265200
+8	0.81	Holt-Oram syndrome	OMIM:142900
+9	0.79	Truncus arteriosus, persistent	OMIM:217095
+10	0.78	Noonan syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE Syndrome	OMIM:214800
+2	0.85	DiGeorge Syndrome	OMIM:188400
+3	0.82	22q11.2 Deletion Syndrome	OMIM:611867
+4	0.8	Branchiootorenal Syndrome	OMIM:113650
+5	0.78	Treacher Collins Syndrome	OMIM:154500
+6	0.75	Pierre Robin Syndrome	OMIM:261800
+7	0.73	Trisomy 18	OMIM:190685
+8	0.7	Joubert Syndrome	OMIM:213300
+9	0.68	Alagille Syndrome	OMIM:118450
+10	0.65	Barth Syndrome	OMIM:302060

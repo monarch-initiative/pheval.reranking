@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan syndrome	OMIM:163950
+2	0.94	CHARGE syndrome	OMIM:214800
+3	0.86	22q11.2 deletion syndrome	OMIM:188400
+4	0.85	VACTERL association	OMIM:192350
+5	0.84	Turner syndrome	OMIM:300400
+6	0.82	Cornelia de Lange Syndrome	OMIM:122470
+7	0.79	Craniofrontonasal syndrome	OMIM:304110
+8	0.77	Alagille syndrome	OMIM:118450
+9	0.76	Apert syndrome	OMIM:101200
+10	0.75	Crouzon syndrome	OMIM:123500

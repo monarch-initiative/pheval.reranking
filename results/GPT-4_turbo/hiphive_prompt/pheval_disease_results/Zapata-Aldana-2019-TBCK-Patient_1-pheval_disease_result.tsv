@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alexander disease	OMIM:203450
+2	0.85	Rett syndrome	OMIM:312750
+3	0.82	2p16.3 microdeletion syndrome	OMIM:613913
+4	0.81	Canavan disease	OMIM:271900
+5	0.79	Pitt-Hopkins syndrome	OMIM:610954
+6	0.77	Mowat-Wilson syndrome	OMIM:235730
+7	0.75	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+8	0.74	Spinal muscular atrophy with progressive myoclonic epilepsy	OMIM:159950
+9	0.73	Aicardi-Goutieres syndrome	OMIM:225750
+10	0.72	Wolf-Hirschhorn syndrome	OMIM:194190

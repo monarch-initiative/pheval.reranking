@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mucopolysaccharidosis, Type IVA (Morquio Syndrome)	OMIM:253000
+2	0.75	Crouzon Syndrome	OMIM:123500
+3	0.65	Pfeiffer Syndrome	OMIM:101600
+4	0.6	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.55	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.5	Carpenter Syndrome	OMIM:201000
+7	0.45	Apert Syndrome	OMIM:101200
+8	0.4	Marshall-Smith Syndrome	OMIM:602535
+9	0.35	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.3	Smith-Lemli-Opitz Syndrome	OMIM:270400

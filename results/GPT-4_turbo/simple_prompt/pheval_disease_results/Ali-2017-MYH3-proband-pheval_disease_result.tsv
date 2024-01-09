@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow syndrome, autosomal dominant	OMIM:180700
+2	0.8	Robinow syndrome, autosomal recessive	OMIM:268310
+3	0.7	Opitz G/BBB syndrome	OMIM:145410
+4	0.6	LEOPARD syndrome	OMIM:151100
+5	0.5	Noonan syndrome	OMIM:163950
+6	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.3	Aarskog-Scott syndrome	OMIM:305400
+8	0.2	Popliteal pterygium syndrome	OMIM:119500

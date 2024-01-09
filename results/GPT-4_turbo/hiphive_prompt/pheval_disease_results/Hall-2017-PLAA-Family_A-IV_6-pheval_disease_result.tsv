@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Peroxisome Biogenesis Disorder 1A (Zellweger)	OMIM:214100
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.78	Bardet-Biedl Syndrome	OMIM:209900
+4	0.75	Trisomy 18	OMIM:611815
+5	0.73	Meckel Syndrome	OMIM:249000
+6	0.71	Coffin-Siris Syndrome	OMIM:135900
+7	0.69	CHARGE Syndrome	OMIM:214800
+8	0.67	Cornelia de Lange Syndrome	OMIM:122470
+9	0.65	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.63	Beckwith-Wiedemann Syndrome	OMIM:130650

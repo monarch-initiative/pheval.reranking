@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Nijmegen breakage syndrome	OMIM:251260
+2	0.65	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+3	0.6	Cartilage-hair hypoplasia	OMIM:250250
+4	0.58	Bloom syndrome	OMIM:210900
+5	0.57	Ataxia-telangiectasia	OMIM:208900
+6	0.55	Cohen syndrome	OMIM:216550
+7	0.5	Dubowitz syndrome	OMIM:223370
+8	0.45	Cernunnos-XLF deficiency	OMIM:611291

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial myopathy	OMIM:500001
+2	0.93	Leigh syndrome	OMIM:256000
+3	0.91	MELAS syndrome	OMIM:540000
+4	0.89	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+5	0.87	Pyruvate dehydrogenase deficiency	OMIM:312170
+6	0.85	Kearns-Sayre syndrome	OMIM:530000
+7	0.82	Maple syrup urine disease	OMIM:248600
+8	0.8	Very Long Chain Acyl-CoA Dehydrogenase Deficiency (VLCAD)	OMIM:201475
+9	0.78	Glutaric acidemia type II	OMIM:231680
+10	0.75	Long QT syndrome	OMIM:192500

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Chronic Kidney Disease	OMIM:614377
+2	0.85	Gout	OMIM:138900
+3	0.65	Hyperuricemia, PRPS-related	OMIM:300661
+4	0.55	Renal Cysts and Diabetes Syndrome	OMIM:137920
+5	0.5	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900

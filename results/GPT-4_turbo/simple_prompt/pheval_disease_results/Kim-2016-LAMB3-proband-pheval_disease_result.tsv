@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Johanson-Blizzard syndrome	OMIM:243800
+2	0.8	Heimler syndrome 1	OMIM:234580
+3	0.75	Amelogenesis imperfecta, type III	OMIM:130900
+4	0.7	Amelogenesis imperfecta, type IA	OMIM:104530
+5	0.65	Amelogenesis imperfecta, type IV	OMIM:104510

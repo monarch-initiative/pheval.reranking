@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis, Congenital, Autosomal Recessive 4A	OMIM:242300
+2	0.85	Ichthyosis, Congenital, Autosomal Recessive 4B	OMIM:242100
+3	0.8	Netherton Syndrome	OMIM:256500
+4	0.75	Trichothiodystrophy Photosensitive	OMIM:601675
+5	0.7	Sjögren-Larsson Syndrome	OMIM:270200
+6	0.65	Conradi-Hünermann Syndrome	OMIM:302960
+7	0.6	Rapp-Hodgkin Syndrome	OMIM:129400
+8	0.55	Hypotrichosis-Lymphedema-Telangiectasia Syndrome	OMIM:607823
+9	0.5	Bazex-Dupré-Christol Syndrome	OMIM:301845
+10	0.45	KID Syndrome	OMIM:148210

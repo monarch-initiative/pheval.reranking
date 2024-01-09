@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Dandy-Walker malformation	OMIM:220200
+3	0.7	Gillespie syndrome	OMIM:206700
+4	0.6	Lissencephaly	OMIM:607432
+5	0.5	Congenital disorder of glycosylation	OMIM:212066
+6	0.4	Leber congenital amaurosis	OMIM:204000
+7	0.3	Septo-optic dysplasia	OMIM:182230
+8	0.2	Carbohydrate-deficient glycoprotein syndrome	OMIM:212065
+9	0.1	Walker-Warburg syndrome	OMIM:236670

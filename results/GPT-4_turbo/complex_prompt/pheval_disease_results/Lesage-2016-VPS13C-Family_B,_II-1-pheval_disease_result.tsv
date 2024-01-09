@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson Disease	OMIM:168600
+2	0.8	Multiple System Atrophy	OMIM:146500
+3	0.75	Dementia With Lewy Bodies	OMIM:127750
+4	0.7	Progressive Supranuclear Palsy	OMIM:601104
+5	0.65	Corticobasal Degeneration	OMIM:610799
+6	0.6	Huntington Disease	OMIM:143100
+7	0.55	Wilson Disease	OMIM:277900
+8	0.5	Neuroacanthocytosis	OMIM:200100
+9	0.45	Frontotemporal Dementia	OMIM:600274
+10	0.4	Hereditary Diffuse Lewy Body Disease	OMIM:127750

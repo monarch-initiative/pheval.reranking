@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Escobar Syndrome	OMIM:265000
+2	0.8	Freeman-Sheldon Syndrome	OMIM:193700
+3	0.75	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.7	Larsen Syndrome	OMIM:150250
+5	0.65	Opitz G/BBB Syndrome	OMIM:145410
+6	0.6	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+7	0.55	Noonan Syndrome	OMIM:163950
+8	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.45	Pfeiffer Syndrome	OMIM:101600
+10	0.4	Apert Syndrome	OMIM:101200

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+2	0.85	Angelman Syndrome	OMIM:105830
+3	0.8	Rett Syndrome	OMIM:312750
+4	0.75	Dystonia 16, Myoclonic	OMIM:614065
+5	0.7	Spastic Paraplegia 1, Complicated	OMIM:303350
+6	0.65	Down Syndrome	OMIM:190685

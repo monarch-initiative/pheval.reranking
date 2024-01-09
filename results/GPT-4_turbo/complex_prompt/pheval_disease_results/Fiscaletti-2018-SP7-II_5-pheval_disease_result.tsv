@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome, progeroid type, 2	OMIM:615349
+2	0.75	Osteogenesis imperfecta, Type III	OMIM:259420
+3	0.7	Osteogenesis imperfecta, Type I	OMIM:166200
+4	0.65	Osteogenesis imperfecta, Type IV	OMIM:166220
+5	0.6	Marshall syndrome	OMIM:154780
+6	0.55	Cleidocranial dysplasia	OMIM:119600
+7	0.5	Stickler syndrome	OMIM:108300
+8	0.45	Larsen syndrome	OMIM:150250

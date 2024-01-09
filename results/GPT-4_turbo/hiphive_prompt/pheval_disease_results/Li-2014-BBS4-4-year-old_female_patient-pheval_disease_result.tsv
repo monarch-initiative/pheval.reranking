@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bardet-Biedl Syndrome	OMIM:209900
+2	0.92	Retinitis Pigmentosa	OMIM:268000
+3	0.87	Leber Hereditary Optic Neuropathy	OMIM:535000
+4	0.85	Wolfram Syndrome	OMIM:222300
+5	0.82	Stickler Syndrome	OMIM:108300
+6	0.8	Laurence-Moon Syndrome	OMIM:245800
+7	0.78	Cockayne Syndrome	OMIM:216400
+8	0.76	Alström Syndrome	OMIM:203800
+9	0.74	Usher Syndrome	OMIM:276900
+10	0.72	Neuronal Ceroid Lipofuscinosis	OMIM:204200

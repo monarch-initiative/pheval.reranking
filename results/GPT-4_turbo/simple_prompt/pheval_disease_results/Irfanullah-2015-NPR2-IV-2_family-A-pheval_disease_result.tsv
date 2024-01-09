@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Brachydactyly type E	OMIM:113300
+2	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.65	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+4	0.6	Albright hereditary osteodystrophy	OMIM:103580
+5	0.55	Cleidocranial dysostosis	OMIM:119600
+6	0.5	Pseudohypoparathyroidism	OMIM:103580

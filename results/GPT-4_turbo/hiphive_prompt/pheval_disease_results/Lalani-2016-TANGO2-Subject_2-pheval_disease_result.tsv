@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial Myopathy, Lactic Acidosis, and Sideroblastic Anemia 1	OMIM:600462
+2	0.91	Carnitine Palmitoyltransferase II Deficiency, Lethal Neonatal	OMIM:608836
+3	0.87	Long QT Syndrome 1	OMIM:192500
+4	0.85	Malignant Hyperthermia, Susceptibility To, 1	OMIM:145600
+5	0.84	Glycogen Storage Disease Type II	OMIM:232300
+6	0.83	Very Long-Chain Acyl-Coenzyme A Dehydrogenase Deficiency	OMIM:609575
+7	0.8	McArdle Disease	OMIM:232600
+8	0.79	Becker Muscular Dystrophy	OMIM:300376
+9	0.77	Barth Syndrome	OMIM:302060
+10	0.75	Mitochondrial Complex I Deficiency	OMIM:252010

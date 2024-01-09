@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pseudoachondroplasia	OMIM:177170
+2	0.85	Multiple Epiphyseal Dysplasia, Dominant	OMIM:132400
+3	0.8	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+4	0.75	Achondroplasia	OMIM:100800
+5	0.7	Diastrophic Dysplasia	OMIM:222600
+6	0.65	Schwartz-Jampel Syndrome	OMIM:255800
+7	0.6	Metatropic Dysplasia	OMIM:156530
+8	0.55	Kniest Dysplasia	OMIM:156550
+9	0.5	Cartilage-Hair Hypoplasia	OMIM:250250
+10	0.45	Morquio Syndrome	OMIM:253000

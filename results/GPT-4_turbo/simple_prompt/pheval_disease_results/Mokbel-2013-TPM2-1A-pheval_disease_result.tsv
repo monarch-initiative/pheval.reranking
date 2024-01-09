@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Nemaline Myopathy 1	OMIM:609284
+2	0.9	Nemaline Myopathy 2	OMIM:256030
+3	0.85	Nemaline Myopathy 3	OMIM:161800
+4	0.8	Nemaline Myopathy 4	OMIM:609285
+5	0.75	Bethlem Myopathy 1	OMIM:158810

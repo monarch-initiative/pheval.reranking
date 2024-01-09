@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan Syndrome	OMIM:163950
+2	0.8	Turner Syndrome	OMIM:300400
+3	0.7	Williams Syndrome	OMIM:194050
+4	0.6	Mowat-Wilson Syndrome	OMIM:235730
+5	0.5	CHARGE Syndrome	OMIM:214800
+6	0.4	22q11.2 Deletion Syndrome	OMIM:188400
+7	0.3	Cornelia de Lange Syndrome	OMIM:122470
+8	0.2	Klippel-Feil Syndrome	OMIM:118100
+9	0.1	Crouzon Syndrome	OMIM:123500

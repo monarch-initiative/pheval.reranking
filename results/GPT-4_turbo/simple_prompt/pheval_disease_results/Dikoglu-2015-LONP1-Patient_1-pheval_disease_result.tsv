@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome	OMIM:224050
+2	0.85	Rhizomelic chondrodysplasia punctata	OMIM:215100
+3	0.8	Cockayne syndrome	OMIM:216400
+4	0.75	Perrault syndrome	OMIM:233400
+5	0.7	Mulibrey nanism	OMIM:253250

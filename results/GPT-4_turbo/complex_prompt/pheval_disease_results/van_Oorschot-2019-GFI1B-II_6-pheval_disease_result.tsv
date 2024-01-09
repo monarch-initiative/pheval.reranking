@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.85	Primary Myelofibrosis	OMIM:254450
+3	0.8	Gray Platelet Syndrome	OMIM:139090
+4	0.75	Paris-Trousseau Thrombocytopenia	OMIM:188025
+5	0.7	Glanzmann Thrombasthenia	OMIM:273800
+6	0.65	Bernard-Soulier Syndrome	OMIM:231200
+7	0.6	Thrombocytopenia 2	OMIM:188000
+8	0.55	MYH9-related disorders	OMIM:160775
+9	0.5	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+10	0.45	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000

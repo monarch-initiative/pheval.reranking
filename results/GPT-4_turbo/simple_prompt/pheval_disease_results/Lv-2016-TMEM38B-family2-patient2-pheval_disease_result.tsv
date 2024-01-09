@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type I	OMIM:166200
+2	0.85	Osteogenesis imperfecta, type IV	OMIM:166220
+3	0.8	Osteogenesis imperfecta, type III	OMIM:259420
+4	0.7	Primary hyperparathyroidism	OMIM:145000
+5	0.65	Osteogenesis imperfecta, type II	OMIM:166210
+6	0.6	Hypophosphatasia	OMIM:146300
+7	0.55	Idiopathic juvenile osteoporosis	OMIM:259750

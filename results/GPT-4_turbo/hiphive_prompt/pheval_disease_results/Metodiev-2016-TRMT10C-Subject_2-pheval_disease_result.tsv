@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial myopathy-lactic acidosis-deafness syndrome	OMIM:251950
+2	0.93	Leigh syndrome	OMIM:256000
+3	0.89	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:245348
+4	0.87	MELAS syndrome	OMIM:540000
+5	0.85	Pyruvate carboxylase deficiency	OMIM:266150
+6	0.83	Alpers-Huttenlocher syndrome	OMIM:203700
+7	0.81	Complex I mitochondrial respiratory chain deficiency	OMIM:252010
+8	0.78	CARDIOMYOPATHY, DILATED, 1G	OMIM:604145
+9	0.75	Combined oxidative phosphorylation deficiency	OMIM:609059
+10	0.72	Glycogen storage disease type IV	OMIM:232500

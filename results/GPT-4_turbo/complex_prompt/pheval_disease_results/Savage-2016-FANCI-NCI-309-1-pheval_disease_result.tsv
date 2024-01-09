@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge Syndrome	OMIM:188400
+2	0.85	22q11.2 Deletion Syndrome	OMIM:611867
+3	0.8	Fanconi Anemia	OMIM:227650
+4	0.75	CHARGE Syndrome	OMIM:214800
+5	0.7	VACTERL Association	OMIM:192350
+6	0.65	Nager Syndrome	OMIM:154400
+7	0.6	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.55	Ballard Syndrome	OMIM:219250
+9	0.5	Cat Eye Syndrome	OMIM:115470
+10	0.45	Holt-Oram Syndrome	OMIM:142900

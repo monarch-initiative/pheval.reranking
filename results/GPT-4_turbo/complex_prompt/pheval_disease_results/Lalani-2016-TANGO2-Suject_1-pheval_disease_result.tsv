@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial DNA depletion syndrome 12b	OMIM:615418
+2	0.8	Glycogen storage disease type V	OMIM:232600
+3	0.7	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+4	0.6	MELAS syndrome	OMIM:540000
+5	0.5	Myoadenylate deaminase deficiency	OMIM:615511
+6	0.4	Propionic acidemia	OMIM:606054
+7	0.3	Very long-chain acyl-CoA dehydrogenase deficiency	OMIM:201475
+8	0.2	Pearson marrow-pancreas syndrome	OMIM:557000
+9	0.1	Becker muscular dystrophy	OMIM:300376

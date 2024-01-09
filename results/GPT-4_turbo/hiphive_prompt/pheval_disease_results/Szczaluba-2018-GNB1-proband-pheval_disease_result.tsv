@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.79	Rett Syndrome	OMIM:312750
+3	0.77	Kabuki Syndrome	OMIM:147920
+4	0.74	Mowat-Wilson Syndrome	OMIM:235730
+5	0.71	Angelman Syndrome	OMIM:105830
+6	0.68	Joubert Syndrome	OMIM:213300
+7	0.65	Noonan Syndrome	OMIM:163950
+8	0.64	Miller-Dieker Syndrome	OMIM:247200
+9	0.61	Williams Syndrome	OMIM:194050
+10	0.59	Cornelia de Lange Syndrome	OMIM:122470

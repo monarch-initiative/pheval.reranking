@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+2	0.85	Larsen syndrome	OMIM:150250
+3	0.75	Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects	OMIM:245600
+4	0.65	Desbuquois dysplasia	OMIM:251450
+5	0.6	Diastrophic dysplasia	OMIM:222600

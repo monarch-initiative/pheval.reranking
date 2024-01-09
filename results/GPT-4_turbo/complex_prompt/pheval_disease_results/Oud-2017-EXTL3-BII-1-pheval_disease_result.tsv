@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia - Anauxetic Dysplasia Spectrum Disorders	OMIM:250250
+2	0.8	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+3	0.7	Schimke Immuno-Osseous Dysplasia	OMIM:242900
+4	0.6	Mulibrey Nanism	OMIM:253250
+5	0.5	Dubowitz Syndrome	OMIM:223370
+6	0.4	Severe Combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:602450
+7	0.3	X-Linked Agammaglobulinemia	OMIM:300755
+8	0.2	Kniest Dysplasia	OMIM:156550
+9	0.1	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+10	0.05	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250

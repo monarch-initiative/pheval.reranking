@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis type I	OMIM:607014
+2	0.94	Mucopolysaccharidosis type II	OMIM:309900
+3	0.9	Mucopolysaccharidosis type IIIA	OMIM:252900
+4	0.89	Mucopolysaccharidosis type IIIB	OMIM:252920
+5	0.88	Mucopolysaccharidosis type IVA	OMIM:253000
+6	0.86	Mucopolysaccharidosis type VI	OMIM:253200
+7	0.85	Mucopolysaccharidosis type VII	OMIM:253220
+8	0.84	Aspartylglucosaminuria	OMIM:208400
+9	0.83	Fucosidosis	OMIM:230000
+10	0.82	Manosidosis, alpha-B	OMIM:248500

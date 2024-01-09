@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Angelman syndrome	OMIM:105830
+2	0.93	Rett syndrome	OMIM:312750
+3	0.91	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.9	Coffin-Siris syndrome	OMIM:135900
+5	0.88	Mowat-Wilson syndrome	OMIM:235730
+6	0.86	CHARGE syndrome	OMIM:214800
+7	0.84	Prader-Willi syndrome	OMIM:176270
+8	0.83	Lissencephaly	OMIM:607432
+9	0.81	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.79	Miller-Dieker syndrome	OMIM:247200

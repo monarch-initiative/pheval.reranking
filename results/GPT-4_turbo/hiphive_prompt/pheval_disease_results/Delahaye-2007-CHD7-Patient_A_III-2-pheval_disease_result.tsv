@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	22q11.2 deletion syndrome	OMIM:188400
+2	0.9	CHARGE syndrome	OMIM:214800
+3	0.85	Velocardiofacial syndrome	OMIM:192430
+3	0.85	DiGeorge syndrome	OMIM:188400
+5	0.8	Cleft palate, isolated	OMIM:119540
+6	0.75	Opitz G/BBB syndrome	OMIM:300000
+7	0.7	VACTERL association	OMIM:192350
+8	0.65	Craniofrontonasal syndrome	OMIM:304110
+9	0.6	Treacher Collins syndrome	OMIM:154500
+10	0.55	Pfeiffer syndrome	OMIM:101600

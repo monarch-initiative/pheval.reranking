@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.8	Cornelia de Lange Syndrome	OMIM:122470
+3	0.75	CHARGE syndrome	OMIM:214800
+4	0.7	Turner syndrome	OMIM:300400
+5	0.65	Treacher Collins syndrome	OMIM:154500
+6	0.6	22q11.2 deletion syndrome	OMIM:611867
+7	0.55	Pfeiffer syndrome	OMIM:101600
+8	0.5	Crouzon syndrome	OMIM:123500
+9	0.45	Apert syndrome	OMIM:101200

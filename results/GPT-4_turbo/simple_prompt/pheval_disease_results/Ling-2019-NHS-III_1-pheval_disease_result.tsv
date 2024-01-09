@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.7	Coffin-Siris Syndrome	OMIM:135900
+3	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.6	Williams Syndrome	OMIM:194050
+5	0.5	Treacher Collins Syndrome	OMIM:154500
+5	0.5	Cornelia de Lange Syndrome	OMIM:122470

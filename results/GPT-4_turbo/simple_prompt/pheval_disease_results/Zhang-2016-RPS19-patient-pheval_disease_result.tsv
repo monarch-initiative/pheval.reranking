@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myelodysplastic syndrome	OMIM:614286
+2	0.85	Vitamin B12 deficiency	OMIM:266100
+3	0.82	Fanconi anemia	OMIM:227650
+4	0.8	Aplastic anemia	OMIM:609135
+5	0.78	Congenital dyserythropoietic anemia	OMIM:224120

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Wilson Disease	OMIM:277900
+2	0.89	Urea Cycle Disorders, Hyperornithinemia-hyperammonemia-homocitrullinuria Syndrome	OMIM:238970
+3	0.88	Propionic Acidemia	OMIM:606054
+4	0.86	Becker Muscular Dystrophy	OMIM:300376
+5	0.85	Congenital Myotonic Dystrophy	OMIM:160900
+6	0.84	Mitochondrial Complex I Deficiency	OMIM:252010
+7	0.83	Myoadenylate Deaminase Deficiency	OMIM:615511
+8	0.82	Glycogen Storage Disease Type V	OMIM:232600
+9	0.81	Thyroid Dyshormonogenesis 1	OMIM:274400
+10	0.8	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110

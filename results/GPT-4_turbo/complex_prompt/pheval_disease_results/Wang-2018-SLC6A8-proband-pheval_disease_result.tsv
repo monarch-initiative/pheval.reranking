@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency syndrome, X-linked	OMIM:300352
+2	0.85	Cerebral Creatine Deficiency Syndrome 1	OMIM:300352
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Angelman syndrome	OMIM:105830
+4	0.6	Autism spectrum disorder	OMIM:209850
+6	0.5	Fragile X syndrome	OMIM:300624
+7	0.4	Lysosomal storage diseases	OMIM:Varies
+8	0.3	Phenylketonuria	OMIM:261600
+9	0.2	2-Hydroxyglutaric aciduria	OMIM:600721
+10	0.1	Kabuki syndrome	OMIM:147920

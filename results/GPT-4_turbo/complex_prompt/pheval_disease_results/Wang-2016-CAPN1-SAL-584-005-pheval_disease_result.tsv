@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia	OMIM:164400
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Hereditary spastic paraplegia	OMIM:303350
+4	0.6	Multiple sclerosis	OMIM:126200
+5	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.4	Cerebrotendinous xanthomatosis	OMIM:213700
+6	0.4	Wilson disease	OMIM:277900
+8	0.3	Amyotrophic lateral sclerosis	OMIM:105400
+8	0.3	Primary lateral sclerosis	OMIM:611637
+10	0.2	Adrenomyeloneuropathy	OMIM:300100

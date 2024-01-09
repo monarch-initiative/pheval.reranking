@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysplasia	OMIM:119600
+2	0.7	Pyknodysostosis	OMIM:265800
+3	0.65	Hypochondroplasia	OMIM:146000
+4	0.6	Achondroplasia	OMIM:100800
+5	0.55	Thanatophoric Dysplasia	OMIM:187600

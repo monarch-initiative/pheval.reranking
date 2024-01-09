@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenic Syndrome, Congenital, with Tubular Aggregates 1	OMIM:610542
+2	0.8	Spinal Muscular Atrophy	OMIM:253300
+3	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+4	0.6	Becker Muscular Dystrophy	OMIM:300376
+4	0.6	Pompe Disease	OMIM:232300
+6	0.5	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+6	0.5	Mitochondrial DNA Depletion Syndrome 5 (Alpers Type)	OMIM:203700
+8	0.4	Congenital Muscular Dystrophy-Dystroglycanopathy Type B5	OMIM:606612
+9	0.3	Prader-Willi Syndrome	OMIM:176270
+9	0.3	Werdnig-Hoffmann Disease	OMIM:253300

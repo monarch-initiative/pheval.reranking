@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis Type I	OMIM:607014
+2	0.8	Mucolipidosis III Alpha/Beta	OMIM:252600
+3	0.7	Mucolipidosis IV	OMIM:252650
+4	0.6	Gaucher Disease	OMIM:230800
+5	0.5	Mucolipidosis II Alpha/Beta	OMIM:252500
+6	0.4	GM1 Gangliosidosis	OMIM:230500
+7	0.3	Niemann-Pick Disease Type A	OMIM:257200
+8	0.2	Salla Disease	OMIM:604369
+9	0.1	Infantile Sialic Acid Storage Disorder	OMIM:269920

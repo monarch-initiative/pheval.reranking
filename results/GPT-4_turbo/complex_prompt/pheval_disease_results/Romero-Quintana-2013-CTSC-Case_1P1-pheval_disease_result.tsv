@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Papillon-Lefevre Syndrome	OMIM:245000
+2	0.8	Haim-Munk Syndrome	OMIM:245010
+3	0.7	Chediak-Higashi Syndrome	OMIM:214500
+4	0.6	Cohen Syndrome	OMIM:216550
+5	0.5	Gingival Fibromatosis with Hypertrichosis	OMIM:135400
+6	0.4	Langerhans Cell Histiocytosis	OMIM:604856
+7	0.3	Chronic Mucocutaneous Candidiasis	OMIM:212050
+8	0.2	Hypophosphatasia	OMIM:146300
+9	0.1	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, and Acne	OMIM:604416

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome, type 1	OMIM:276900
+2	0.8	Usher syndrome, type 2	OMIM:276901
+3	0.7	Usher syndrome, type 3	OMIM:276902
+4	0.6	Bilateral vestibulopathy	OMIM:193000
+5	0.5	Waardenburg syndrome, type IV	OMIM:277580
+6	0.4	Pendred syndrome	OMIM:274600
+7	0.3	Alport syndrome	OMIM:301050
+8	0.2	Jervell and Lange-Nielsen syndrome	OMIM:220400
+9	0.1	Stickler syndrome	OMIM:108300

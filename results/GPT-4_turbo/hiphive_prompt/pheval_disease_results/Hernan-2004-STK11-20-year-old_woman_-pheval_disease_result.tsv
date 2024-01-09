@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Peutz-Jeghers syndrome	OMIM:175200
+2	0.85	Carney complex	OMIM:160980
+3	0.8	Laugier-Hunziker syndrome	OMIM:612391
+4	0.75	Cowden syndrome	OMIM:158350
+5	0.7	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+6	0.65	Familial atypical multiple mole melanoma syndrome	OMIM:155600
+7	0.6	Neurofibromatosis, type 1	OMIM:162200
+8	0.55	Gardner syndrome	OMIM:175100
+9	0.5	Muir-Torre syndrome	OMIM:158320
+10	0.45	Juvenile polyposis syndrome	OMIM:174900

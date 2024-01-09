@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral palsy, spastic quadriplegic	OMIM:603513
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Down syndrome	OMIM:190685
+4	0.6	Fragile X syndrome	OMIM:300624
+6	0.5	Prader-Willi syndrome	OMIM:176270
+6	0.5	Williams syndrome	OMIM:194050
+8	0.4	2q37 deletion syndrome	OMIM:614803
+8	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.3	Pelizaeus-Merzbacher disease	OMIM:312080

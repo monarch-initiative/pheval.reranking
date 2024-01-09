@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	2p16.1-p15 Deletion Syndrome	OMIM:612513
+4	0.6	Autism spectrum disorder	OMIM:209850
+4	0.6	Mowat-Wilson syndrome	OMIM:235730
+6	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.5	Pitt-Hopkins syndrome	OMIM:610954
+8	0.4	Zellweger syndrome	OMIM:214100
+8	0.4	2q37 deletion syndrome	OMIM:600430
+10	0.3	4-H syndrome	OMIM:612541

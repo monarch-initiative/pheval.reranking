@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Magenis Syndrome	OMIM:182290
+2	0.8	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+3	0.78	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.75	Mucopolysaccharidosis Type III	OMIM:252900
+5	0.73	Langer Mesomelic Dysplasia Syndrome	OMIM:249700
+6	0.71	Nager Acrofacial Dysostosis	OMIM:154400
+7	0.68	Cleidocranial Dysplasia	OMIM:119600
+8	0.66	Marshall-Smith Syndrome	OMIM:602535
+9	0.63	Floating-Harbor Syndrome	OMIM:136140
+10	0.6	Carpenter Syndrome	OMIM:201000

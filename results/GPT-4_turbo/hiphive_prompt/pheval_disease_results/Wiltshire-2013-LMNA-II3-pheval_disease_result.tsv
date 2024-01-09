@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+2	0.82	Werner Syndrome	OMIM:277700
+3	0.79	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+4	0.77	Emery-Dreifuss Muscular Dystrophy	OMIM:310300
+5	0.74	Congenital Muscular Dystrophy-dystroglycanopathy Type A	OMIM:236670
+6	0.72	Berardinelli-Seip Congenital Lipodystrophy	OMIM:269700
+7	0.69	Myotonic Dystrophy	OMIM:160900
+8	0.66	Spinal Muscular Atrophy	OMIM:253300
+9	0.64	Mandibuloacral Dysplasia	OMIM:248370
+10	0.62	Familial Partial Lipodystrophy	OMIM:151660

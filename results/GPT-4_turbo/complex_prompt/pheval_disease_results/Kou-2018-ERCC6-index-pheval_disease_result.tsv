@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cohen Syndrome	OMIM:216550
+2	0.7	3MC Syndrome	OMIM:257920
+3	0.6	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+4	0.5	Cornelia de Lange Syndrome	OMIM:122470
+4	0.5	Pseudoachondroplasia	OMIM:177170
+6	0.4	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.3	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.3	Warburg Micro Syndrome	OMIM:600118
+9	0.2	Marshall Syndrome	OMIM:154780
+9	0.2	Cranioectodermal Dysplasia	OMIM:218330

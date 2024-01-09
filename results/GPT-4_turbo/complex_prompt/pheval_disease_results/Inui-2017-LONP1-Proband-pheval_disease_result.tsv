@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.65	VACTERL association	OMIM:192350
+2	0.6	Mowat-Wilson syndrome	OMIM:235730
+3	0.55	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+4	0.5	Mitochondrial complex I deficiency	OMIM:252010
+5	0.45	Leigh syndrome	OMIM:256000
+6	0.4	Cockayne syndrome	OMIM:216400
+7	0.35	Dystonia 12	OMIM:128235
+8	0.3	MECP2 duplication syndrome	OMIM:300260
+9	0.25	Canavan disease	OMIM:271900
+10	0.2	Glutaric acidemia type I	OMIM:231670

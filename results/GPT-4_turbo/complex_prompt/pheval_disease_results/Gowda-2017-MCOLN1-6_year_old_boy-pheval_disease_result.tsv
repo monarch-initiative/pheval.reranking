@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	3-methylglutaconic aciduria type 3	OMIM:258501
+2	0.85	Joubert syndrome	OMIM:213300
+3	0.8	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.75	Zellweger spectrum disorders	OMIM:214100
+5	0.7	Alexander disease	OMIM:203450
+6	0.65	Lissencephaly	OMIM:607432
+7	0.6	Leigh syndrome	OMIM:256000
+8	0.55	Septo-optic dysplasia	OMIM:182230
+9	0.5	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004

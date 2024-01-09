@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome, type VI	OMIM:225400
+2	0.8	Osteogenesis imperfecta, type I	OMIM:166200
+3	0.75	Osteogenesis imperfecta, type III	OMIM:259420
+4	0.7	Osteogenesis imperfecta, type IV	OMIM:166220
+5	0.65	Stickler syndrome, type I	OMIM:108300
+6	0.6	Cleidocranial dysplasia	OMIM:119600
+7	0.55	Marfan syndrome	OMIM:154700
+8	0.5	Ehlers-Danlos syndrome, arthrochalasia type	OMIM:130060
+9	0.45	Hajdu-Cheney syndrome	OMIM:102500
+10	0.4	Kniest dysplasia	OMIM:156550

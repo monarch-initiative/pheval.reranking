@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Trisomy 21	OMIM:190685
+2	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.7	Noonan Syndrome	OMIM:163950
+4	0.6	Williams Syndrome	OMIM:194050
+5	0.5	Silver-Russell Syndrome	OMIM:180860
+6	0.4	Prader-Willi Syndrome	OMIM:176270
+7	0.3	Turner Syndrome	OMIM:300400
+8	0.2	Cornelia de Lange Syndrome	OMIM:122470
+9	0.1	Fragile X Syndrome	OMIM:300624
