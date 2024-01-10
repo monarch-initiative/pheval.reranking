@@ -1,0 +1,10 @@
+tool: ontogpt
+tool_version: 0.2.9
+variant_analysis: False
+# Set either gene_analysis or disease_analysis to True depending on the request being made
+gene_analysis: True
+disease_analysis: False
+tool_specific_configuration_options:
+  model: gpt-4
+  # Specify the name of the jinja template file path for the request - this should be located in the input_dir
+  template:
