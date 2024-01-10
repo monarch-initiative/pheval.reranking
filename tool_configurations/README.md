@@ -1,1 +1,1 @@
-This directory contains details on how to run 
+This directory contains details on how to run the Exomiser and OntoGPT experiments.
