@@ -40,8 +40,16 @@ Input directory structure as follows:
     └── exomiser-cli-13.3.0.jar
 ```
 
-# Run Exomiser with PhEval
+# Run Exomiser experiment
+
+Set the variables in the bash script:
+
+1. `INPUT_DIR` -> provide the full path to the parent directory that contains all the input directories (configurations).
+2. `TESTDATA_DIR` -> provide the full path to the corpus directory (`../../corpora/LIRICAL`).
+3. `OUTPUT_DIR` -> provide the full path to the directory you wish to write the results.
+
+Execute the bash script:
 
 ```bash
-pheval run --input-dir ./input_dir --runner exomiserphevalrunner --testdata-dir ./corpora/LIRICAL --output-dir ./results/exomiser-13.3.0-2109 --version 13.3.0 
+bash run_exomiser.sh
 ```
