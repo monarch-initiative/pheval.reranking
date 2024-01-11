@@ -3,7 +3,7 @@ RESULTS_DIR=
 
 touch runs.txt
 
-for d in "$RESULTS_DIR"/* ; do
+for d in "${RESULTS_DIR%/}"/* ; do
     echo -e "${TESTDATA_DIR%/}/phenopackets\t$d" >> runs.txt
 done
 
