@@ -8,3 +8,5 @@ tool_specific_configuration_options:
   model: gpt-4
   # Specify the name of the jinja template file path for the request - this should be located in the input_dir
   template:
+  # Specify the name of the constrained gene or disease text file path - this should be located in the input_dir
+  constrained_list_path:
