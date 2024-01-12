@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypotrichosis	OMIM:145200
+2	0.8	Anodontia	OMIM:241850
+2	0.8	Hypohidrosis	OMIM:601661
+4	0.7	Recurrent fever	OMIM:138040
+5	0.6	Prominent forehead	OMIM:102370

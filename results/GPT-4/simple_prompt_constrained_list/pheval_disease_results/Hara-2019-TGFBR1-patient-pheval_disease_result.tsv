@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Loeys-Dietz Syndrome	OMIM:610168
+2	0.85	Aneurysm Syndrome, Familial Thoracic	OMIM:211980
+4	0.7	Stickler Syndrome	OMIM:108300
+5	0.65	Aneurysms-Osteoarthritis Syndrome	OMIM:616834
+6	0.55	Ehlers-Danlos syndrome	OMIM:130050
+7	0.5	Congenital Contractural Arachnodactyly	OMIM:121050
+8	0.45	Aneurysm, Intracranial Berry	OMIM:105820
+9	0.4	Stiff Skin Syndrome	OMIM:184900
+10	0.35	Arthropathy, Progressive Pseudorheumatoid, Of Childhood	OMIM:208230
+11	0.3	Bruck Syndrome	OMIM:259450
+12	0.25	Bent Bone Dysplasia Syndrome	OMIM:614592
+13	0.2	Brittle Cornea Syndrome	OMIM:229200
+14	0.1	Arthrogryposis, Distal, Type 2A	OMIM:108120
+15	0.05	Ectopia Lentis, Isolated, Autosomal Recessive	OMIM:225100

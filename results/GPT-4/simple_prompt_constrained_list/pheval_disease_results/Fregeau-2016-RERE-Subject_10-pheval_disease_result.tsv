@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Example Disease1	OMIM:Example1
+2	0.8	Example Disease2	OMIM:Example2

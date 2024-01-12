@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypophosphatasia	OMIM:241500
+2	0.85	Alagille Syndrome	OMIM:118450
+3	0.8	Gaucher Disease	OMIM:230800
+4	0.75	Osteogenesis imperfecta	OMIM:166200
+5	0.7	Primary hyperoxaluria	OMIM:259900
+6	0.65	Primary Biliary Cirrhosis	OMIM:109720
+7	0.6	Wilson disease	OMIM:277900
+8	0.55	Mucopolysaccharidosis type I	OMIM:607014
+9	0.5	Niemann-Pick disease type C1	OMIM:257220
+10	0.45	Autosomal dominant progressive sensorineural hearing loss	OMIM:601316
+11	0.4	Primary autosomal recessive microcephaly 5	OMIM:613255
+12	0.35	Congenital disorder of glycosylation type 1T	OMIM:614921
+13	0.3	Wolman disease	OMIM:278000
+14	0.25	Primary hypomagnesemia	OMIM:602014
+15	0.2	Mastocytosis with associated hematologic disorder	OMIM:614039

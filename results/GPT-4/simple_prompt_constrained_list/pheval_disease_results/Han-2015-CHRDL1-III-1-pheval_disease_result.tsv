@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalocornea 1, X-linked	OMIM:309300
+2	0.85	Cataract 43	OMIM:616279
+3	0.8	Glaucoma, Primary Open Angle	OMIM:137760
+4	0.75	Megalocornea - Mental Retardation Syndrome	OMIM:249310
+5	0.7	Aniridia 1	OMIM:106210
+6	0.65	Microphthalmia, Syndromic 3	OMIM:206900
+7	0.6	Microcornea, Myopic Chorioretinal Atrophy, And Telecanthus	OMIM:615877
+8	0.55	Weill-Marchesani Syndrome 3	OMIM:614819
+9	0.5	Megalocornea - Macrocephaly - Mental And Motor Retardation	OMIM:249505
+10	0.45	Glaucoma 1, Open Angle, F	OMIM:601652
+11	0.4	Megalocornea With Pathologic Myopia And Iris Atrophy	OMIM:309700
+12	0.35	Anterior Segment Dysgenesis 8	OMIM:618315
+13	0.3	Microcornea, Rod-Cone Dystrophy, Cataract, And Posterior Staphyloma 1	OMIM:615374
+14	0.25	Cornea Planus	OMIM:121400
+15	0.2	Aniridia 2	OMIM:617141

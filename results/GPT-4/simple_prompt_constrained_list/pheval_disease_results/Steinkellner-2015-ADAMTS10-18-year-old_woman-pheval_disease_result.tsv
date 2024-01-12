@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectopia Lentis 2 Isolated Autosomal Recessive	OMIM:225100
+2	0.88	Brachydactyly type B1	OMIM:113000
+3	0.75	Rubinstein-Taybi syndrome due to CREBBP mutations	OMIM:180849
+4	0.7	Mental retardation, autosomal dominant 20	OMIM:614113
+5	0.65	Rubinstein-Taybi syndrome due to epi-genetic modifications	OMIM:613684
+6	0.63	Stuve-Wiedemann syndrome	OMIM:601559
+7	0.61	Hypophosphatasia	OMIM:241500
+8	0.58	Hyperostosis corticalis generalisata	OMIM:144750
+9	0.55	Osteodysplasty Precocious of Danks, Mayne, and Kozlowski	OMIM:166500
+10	0.54	Camurati-Engelmann disease	OMIM:131300
+11	0.52	Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis	OMIM:201750
+12	0.5	Ehlers-Danlos syndrome progeroid type 1	OMIM:230970
+13	0.48	Laing distal myopathy	OMIM:160500
+14	0.45	Prader-Willi syndrome due to imprinting defect in chromosome 15	OMIM:176270
+15	0.43	Cutis laxa, autosomal recessive, type IC	OMIM:613177

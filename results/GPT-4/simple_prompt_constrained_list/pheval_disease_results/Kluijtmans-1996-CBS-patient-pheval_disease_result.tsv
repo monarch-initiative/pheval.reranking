@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.9	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Beals syndrome	OMIM:121050
+4	0.75	Loeys-Dietz syndrome	OMIM:609192
+5	0.7	Disease5	OMIM:601776

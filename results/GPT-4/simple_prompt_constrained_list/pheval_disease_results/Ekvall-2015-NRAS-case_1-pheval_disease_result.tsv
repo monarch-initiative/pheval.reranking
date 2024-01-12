@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Turner syndrome	OMIM:300867
+2	0.82	Freeman-Sheldon syndrome	OMIM:193700
+3	0.81	Neurofibromatosis, type 1	OMIM:162200
+4	0.79	Cornelia de Lange syndrome	OMIM:122470
+5	0.77	Cri-du-Chat syndrome	OMIM:123450
+6	0.76	Noonan syndrome	OMIM:163950
+7	0.73	Williams syndrome	OMIM:194050
+8	0.72	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.7	Marfan syndrome	OMIM:154700
+10	0.68	Treacher Collins syndrome	OMIM:154500
+11	0.67	Russell-Silver syndrome	OMIM:180860
+12	0.65	Prader-Willi syndrome	OMIM:176270
+13	0.64	Apert syndrome	OMIM:101200
+14	0.61	Sotos syndrome	OMIM:117550
+15	0.6	Holt-Oram syndrome	OMIM:142900

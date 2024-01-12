@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE syndrome	OMIM:147060
+2	0.8	Chronic granulomatous disease	OMIM:233700
+3	0.7	Severe combined immunodeficiency	OMIM:102700
+4	0.6	DiGeorge syndrome	OMIM:188400
+4	0.6	Common variable immunodeficiency	OMIM:607594
+6	0.5	Agammaglobulinemia	OMIM:613500
+6	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.4	Ataxia-telangiectasia	OMIM:208900
+8	0.4	X-linked agammaglobulinemia	OMIM:300755
+10	0.3	Hyper-IgM syndrome type 1	OMIM:308230
+11	0.2	Hemophagocytic lymphohistiocytosis	OMIM:267700
+11	0.2	Complement component 2 deficiency	OMIM:217000
+11	0.2	Selective IgA deficiency	OMIM:137100
+14	0.1	Chédiak-Higashi syndrome	OMIM:233800
+14	0.1	Hypocomplementemic urticarial vasculitis	OMIM:602782

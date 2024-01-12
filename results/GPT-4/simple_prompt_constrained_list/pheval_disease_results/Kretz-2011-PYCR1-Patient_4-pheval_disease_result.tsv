@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gerodermia osteodysplastica	OMIM:231070
+2	0.85	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+3	0.83	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+4	0.82	Cutis laxa, autosomal recessive, type IB	OMIM:614437
+5	0.8	Cutis laxa, autosomal dominant	OMIM:123700
+6	0.78	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+7	0.77	Ehlers-Danlos syndrome, kyphoscoliotic and deafness type	OMIM:614557
+8	0.75	Ehlers-Danlos syndrome, musculocontractural type	OMIM:601776
+9	0.72	Ehlers-Danlos syndrome, spondylodysplastic type, 1	OMIM:130070
+10	0.7	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+11	0.68	Ehlers-Danlos syndrome, arthrochalasia type, 1	OMIM:130060
+12	0.66	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM:225410
+13	0.65	Congenital generalized lipodystrophy type 1	OMIM:608594
+14	0.63	Cutis laxa, autosomal recessive, type III	OMIM:614744
+15	0.6	Osteogenesis imperfecta, type XIII	OMIM:614856

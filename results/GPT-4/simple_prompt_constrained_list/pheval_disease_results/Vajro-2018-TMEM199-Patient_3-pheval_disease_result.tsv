@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277300
+2	0.85	Idiopathic copper deficiency	OMIM:613406
+2	0.85	Aceruloplasminemia	OMIM:604290
+4	0.75	Medullary cystic kidney disease 1	OMIM:174000
+5	0.7	Liver cirrhosis	OMIM:215600
+6	0.65	Hepatic steatosis	OMIM:617561
+7	0.6	Cholestasis, progressive familial intrahepatic 5	OMIM:617049
+8	0.55	Broad beta disease	OMIM:107730
+8	0.55	LLD syndrome	OMIM:615510
+10	0.5	Hypobetalipoproteinemia, familial, 1	OMIM:615558
+11	0.45	Glycogen storage disease of liver	OMIM:232400
+12	0.4	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	OMIM:616192
+13	0.35	Hepatocerebral degeneration	OMIM:231045
+14	0.3	Hepatic dysfunction, transient infantile	OMIM:618359
+15	0.2	Liver failure acute infantile	OMIM:608002

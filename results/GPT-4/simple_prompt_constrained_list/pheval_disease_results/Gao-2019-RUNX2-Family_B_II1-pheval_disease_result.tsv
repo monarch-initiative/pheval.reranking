@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysostosis	OMIM:119600
+2	0.85	Coffin-Lowry Syndrome	OMIM:303600
+3	0.8	Apert Syndrome	OMIM:101200
+4	0.75	Craniofrontonasal Syndrome	OMIM:304110
+5	0.7	Hypochondroplasia	OMIM:146000
+6	0.65	Metatropic Dysplasia	OMIM:156530
+7	0.6	Rubinstein-Taybi Syndrome 1	OMIM:180849
+8	0.55	Crouzon Syndrome	OMIM:123500
+9	0.5	Pfeiffer Syndrome	OMIM:101600
+10	0.45	Tricho-Rhino-Phalangeal Syndrome, Type I	OMIM:190350
+11	0.4	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+12	0.35	Sotos Syndrome	OMIM:117550
+13	0.3	Meier-Gorlin Syndrome 1	OMIM:224690
+14	0.25	Nager Acrofacial Dysostosis	OMIM:154400
+15	0.2	Pitt-Hopkins Syndrome	OMIM:610954

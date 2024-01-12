@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Example Disease 1	OMIM:613254
+2	0.8	Example Disease 2	OMIM:613454
+3	0.7	Example Disease 3	OMIM:617560
+4	0.6	Example Disease 4	OMIM:613990
+5	0.5	Example Disease 5	OMIM:115150

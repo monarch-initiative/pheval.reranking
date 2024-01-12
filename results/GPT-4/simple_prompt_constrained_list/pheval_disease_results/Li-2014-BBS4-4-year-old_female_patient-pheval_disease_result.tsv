@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bardet-Biedl syndrome	OMIM:209900
+2	0.89	Alstrom syndrome	OMIM:203200
+3	0.86	Retinitis pigmentosa	OMIM:268000
+4	0.84	Retinoschisis	OMIM:300839
+5	0.82	Optic atrophy 1	OMIM:165500
+6	0.8	Cohen syndrome	OMIM:216550
+7	0.78	Laurence-Moon syndrome	OMIM:245800
+8	0.76	Stargardt disease	OMIM:248200
+9	0.73	Usher syndrome	OMIM:276900
+10	0.71	Cone-rod dystrophy	OMIM:120970
+11	0.68	Batten disease	OMIM:204200
+12	0.65	Neuronal ceroid lipofuscinosis	OMIM:256730
+13	0.63	Coloboma, ocular	OMIM:120200
+14	0.6	Night blindness, congenital stationary	OMIM:310500
+15	0.58	Neuropathy, hereditary optic	OMIM:535000

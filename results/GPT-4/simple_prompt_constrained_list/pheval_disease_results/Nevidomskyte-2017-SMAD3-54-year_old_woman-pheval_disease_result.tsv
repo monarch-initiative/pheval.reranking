@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lymphedema-Distichiasis Syndrome	OMIM:153400
+2	0.85	Lymphedema-Distichiasis Syndrome with Renal Disease and Diabetes Mellitus	OMIM:153680
+3	0.8	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+4	0.78	Kabuki Syndrome 1	OMIM:147920
+5	0.77	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.75	Hyper IgM Immunodeficiency Syndrome, Type 5	OMIM:608106
+7	0.71	Loeys-Dietz Syndrome	OMIM:609192
+8	0.7	Weill-Marchesani Syndrome	OMIM:277600
+9	0.69	Lipodystrophy, Congenital Generalized, Type 1	OMIM:608594
+10	0.68	Congenital Contractural Arachnodactyly	OMIM:121050
+11	0.67	Arthrogryposis Multiplex Congenita, Neurogenic With Myelin Defect	OMIM:209800
+12	0.65	Blepharophimosis, Ptosis, and Epicanthus Inversus	OMIM:110100
+13	0.63	Melkersson-Rosenthal Syndrome	OMIM:155900
+14	0.6	Trigonocephaly 2	OMIM:614485
+15	0.58	Isolated Congenital Anonychia	OMIM:206800

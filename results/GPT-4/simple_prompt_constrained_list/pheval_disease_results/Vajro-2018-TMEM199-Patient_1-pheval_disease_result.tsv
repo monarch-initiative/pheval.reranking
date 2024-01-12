@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277300
+2	0.75	Primary biliary cirrhosis	OMIM:109720
+3	0.65	Alpha-1 antitrypsin deficiency	OMIM:613490
+4	0.6	Gracile syndrome	OMIM:603358
+5	0.55	Budd-Chiari syndrome	OMIM:600880
+6	0.5	Glycogen storage disease type 3	OMIM:232400
+7	0.4	Hypobetalipoproteinemia, familial, 1	OMIM:107730
+8	0.35	Hemochromatosis, hereditary, 1	OMIM:235200
+9	0.3	Sickle cell anemia	OMIM:603903
+10	0.25	Leptin receptor deficiency	OMIM:614963
+11	0.2	Hepatitis C	OMIM:609532
+12	0.15	Citrullinemia, type II, adult-onset	OMIM:603471
+13	0.1	Lipoatrophy with diabetes, hepatic steatosis, cardiomyopathy, and leukomelanodermic papules	OMIM:605286
+14	0.05	Hepatitis B	OMIM:610986
+15	0.01	Tyrosinemia, Type II	OMIM:276600

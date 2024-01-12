@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis-Noonan syndrome	OMIM:601321
+2	0.85	LEOPARD syndrome	OMIM:151100
+3	0.8	Legius syndrome	OMIM:611431
+4	0.75	Smith-Magenis syndrome	OMIM:182290
+5	0.7	Shprintzen-Goldberg craniosynostosis syndrome	OMIM:182212
+6	0.65	Kabuki syndrome	OMIM:147920
+7	0.6	CK syndrome	OMIM:300831
+8	0.55	Coffin lowry syndrome	OMIM:303600
+9	0.5	Cardio-facio-cutaneous syndrome	OMIM:115150
+10	0.45	Costello syndrome	OMIM:218040
+11	0.4	Noonan syndrome	OMIM:163950
+12	0.35	Loeys-dietz syndrome	OMIM:609643
+13	0.3	Wolf-Hirschhorn syndrome	OMIM:194190
+14	0.25	Autoimmune polyendocrine syndrome	OMIM:616115
+15	0.2	Rubinstein-Taybi syndrome	OMIM:180849

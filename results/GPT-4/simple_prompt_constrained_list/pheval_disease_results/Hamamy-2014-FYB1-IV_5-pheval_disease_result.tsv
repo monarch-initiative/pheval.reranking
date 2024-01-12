@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Wiskott-Aldrich syndrome	OMIM:301040
+2	0.97	Thrombocytopenia absent radius syndrome	OMIM:274000
+3	0.95	ITP (immune thrombocytopenia)	OMIM:188030
+4	0.93	May-Hegglin anomaly	OMIM:155100
+5	0.92	Bernard-Soulier syndrome	OMIM:231200
+6	0.89	Amegakaryocytic thrombocytopenia congenital	OMIM:604498
+7	0.88	Thrombocytopenia with absent radii	OMIM:274000
+8	0.86	MYH9-related disease	OMIM:160775
+9	0.84	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+10	0.82	Thrombocytopenia 2	OMIM:188000
+11	0.79	Platelet-type bleeding disorder 11	OMIM:614201
+12	0.76	Fanconi anemia	OMIM:227650
+13	0.74	Platelet function defect, GFI1B-related	OMIM:616029
+14	0.72	SEBMAT dysplasia	OMIM:618747
+15	0.7	Hermansky-Pudlak syndrome 2	OMIM:608233

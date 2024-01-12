@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson's disease	OMIM:600974
+2	0.9	Lewy Body Dementia	OMIM:130000

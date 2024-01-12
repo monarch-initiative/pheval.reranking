@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type XV	OMIM:613982
+2	0.85	Osteogenesis imperfecta, type XIII	OMIM:614856
+3	0.8	Brittle bone disorder	OMIM:613982
+4	0.75	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225410
+5	0.73	Cole-Carpenter syndrome 1	OMIM:112240
+6	0.7	Clubfoot, congenital, with or without deficiency of long bones and/or mirror-image polydactyly	OMIM:119800
+7	0.68	Ehlers-Danlos syndrome, spondylodysplastic type, 3	OMIM:612350
+8	0.67	Ehlers-Danlos syndrome, spondylodysplastic type, 2	OMIM:615349
+9	0.65	Bruck syndrome 2	OMIM:609220
+10	0.63	Bruck syndrome 1	OMIM:259450
+11	0.6	Osteogenesis imperfecta, type IV	OMIM:166220
+12	0.59	Osteogenesis imperfecta, type I	OMIM:166200
+13	0.57	Osteogenesis imperfecta, type II	OMIM:166210
+14	0.55	Osteogenesis imperfecta, type III	OMIM:259420
+15	0.53	Osteogenesis imperfecta, type V	OMIM:610967

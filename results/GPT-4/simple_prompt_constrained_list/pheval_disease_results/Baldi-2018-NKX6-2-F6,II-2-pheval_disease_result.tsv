@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukodystrophy	OMIM:613254
+2	0.92	Spastic tetraparesis	OMIM:613454
+3	0.89	Scoliosis	OMIM:115150
+4	0.87	Hyperreflexia	OMIM:144200
+5	0.83	Gingival overgrowth	OMIM:261100
+6	0.82	Hearing impairment	OMIM:604841
+7	0.8	CNS hypomyelination	OMIM:230740
+8	0.79	Cerebellar hypoplasia	OMIM:614833
+9	0.78	Dystonia	OMIM:128100
+10	0.77	Hypoplasia of the corpus callosum	OMIM:300834
+11	0.76	Generalized hypotonia	OMIM:615981
+11	0.76	Slender finger	OMIM:613990
+13	0.75	Strabismus	OMIM:185100
+13	0.75	Global developmental delay	OMIM:617560
+15	0.74	Brain atrophy	OMIM:609284

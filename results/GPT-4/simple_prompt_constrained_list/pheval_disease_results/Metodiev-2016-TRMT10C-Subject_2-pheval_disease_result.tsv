@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.87	Congenital Disorder of Glycosylation Type 1a	OMIM:212065
+3	0.83	Leigh Syndrome	OMIM:256000
+4	0.82	Ehlers-Danlos Syndrome, kyphoscoliotic Type	OMIM:225400
+5	0.81	Wolman Disease	OMIM:278000
+6	0.8	Organic Acidemia	OMIM:605330
+7	0.78	MELAS Syndrome	OMIM:540000
+8	0.75	Muscular Dystrophy-Dystroglycanopathy	OMIM:613150
+9	0.73	Maple Syrup Urine Disease	OMIM:248600
+10	0.71	Long-Chain 3-Hydroxyacyl-CoA Dehydrogenase Deficiency	OMIM:609016
+11	0.68	Lysosomal Acid Lipase Deficiency	OMIM:278000
+12	0.67	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+13	0.63	Zellweger Syndrome	OMIM:214100
+14	0.62	Propionic Acidemia	OMIM:606054
+15	0.6	Medium-chain Acyl-Coenzyme A Dehydrogenase Deficiency	OMIM:201470

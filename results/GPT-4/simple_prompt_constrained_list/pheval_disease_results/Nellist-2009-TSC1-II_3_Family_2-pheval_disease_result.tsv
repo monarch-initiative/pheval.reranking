@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous sclerosis	OMIM:191100
+2	0.85	Bourneville disease	OMIM:191090
+3	0.65	Hypomelanosis of Ito	OMIM:300337
+4	0.6	Epidermal nevus	OMIM:162900
+5	0.55	Birt-Hogg-Dubé syndrome	OMIM:135150
+6	0.45	Neurofibromatosis type 2	OMIM:101000
+6	0.45	von Recklinghausen disease	OMIM:162200
+8	0.4	Watson syndrome	OMIM:193520
+9	0.35	Leopard syndrome	OMIM:151100
+10	0.25	Menkes disease	OMIM:309400
+11	0.2	Piebaldism	OMIM:172800
+12	0.15	Silver-Russell syndrome	OMIM:180860
+13	0.1	Oculocutaneous albinism	OMIM:203100
+14	0.05	Sturge-Weber syndrome	OMIM:185300
+15	0.0	Waardenburg syndrome	OMIM:193500
