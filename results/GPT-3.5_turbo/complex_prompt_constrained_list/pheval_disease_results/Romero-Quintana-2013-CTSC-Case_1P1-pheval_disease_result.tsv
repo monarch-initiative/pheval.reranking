@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Papillon-Lefèvre syndrome	OMIM:245000
+2	0.8	Haim-Munk syndrome	OMIM:245010
+3	0.7	Palmoplantar keratoderma with periodontitis	OMIM:613116
+4	0.6	Papillon-Lefèvre and Haim-Munk syndrome	OMIM:245000 and OMIM:245010
+5	0.5	Papillon-Lefèvre syndrome - Periodontitis variant	OMIM:245000

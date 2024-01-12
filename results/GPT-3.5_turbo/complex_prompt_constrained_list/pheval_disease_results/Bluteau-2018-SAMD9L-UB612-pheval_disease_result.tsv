@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe congenital neutropenia autosomal dominant	OMIM:202700
+2	0.8	Fanconi anemia complementation group A	OMIM:227650
+3	0.7	Shwachman-Diamond syndrome	OMIM:260400
+4	0.6	Aplastic anemia	OMIM:609135
+5	0.5	Ataxia-telangiectasia	OMIM:208900
+6	0.4	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+7	0.3	Diamond-Blackfan anemia	OMIM:105650
+8	0.2	Aplastic anemia and myelodysplasia	OMIM:614675
+9	0.1	GATA2-related myelodysplastic syndrome	OMIM:614172
+10	0.05	Paroxysmal nocturnal hemoglobinuria	OMIM:300818

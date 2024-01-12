@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.95	Antley-Bixler syndrome	OMIM:207410
+3	0.9	Robinow syndrome	OMIM:180700
+4	0.85	Aarskog-Scott syndrome	OMIM:305400
+5	0.8	Denys-Drash syndrome	OMIM:194080
+6	0.75	Klinefelter syndrome	OMIM:148900
+7	0.7	17-beta-hydroxysteroid dehydrogenase deficiency	OMIM:202110
+8	0.65	17-alpha-hydroxylase deficiency	OMIM:202110
+9	0.6	17-beta-hydroxysteroid dehydrogenase type 3 deficiency	OMIM:264300
+10	0.55	17-beta-hydroxysteroid dehydrogenase type 2 deficiency	OMIM:201910

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Common variable immunodeficiency	OMIM:613954
+2	0.8	Neonatal hepatitis	OMIM:140600
+3	0.7	Pneumocystis jirovecii pneumonia	OMIM:614394
+3	0.7	Cytomegalovirus infection	OMIM:610007
+5	0.6	Neurofibromatosis type 1	OMIM:162200
+5	0.6	Idiopathic pulmonary fibrosis	OMIM:178500
+7	0.5	Alagille syndrome	OMIM:118450
+8	0.4	Cockayne syndrome	OMIM:133540
+8	0.4	Xeroderma pigmentosum	OMIM:278700
+10	0.3	Primary ciliary dyskinesia	OMIM:244400

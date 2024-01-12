@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peters anomaly	OMIM:604229
+2	0.85	Cerebral hypomyelination	OMIM:616230
+3	0.8	Coloboma	OMIM:120430
+4	0.75	Abnormality of the anterior commissure	OMIM:217990
+5	0.7	Hearing impairment	OMIM:220290
+6	0.65	Abnormality of the cerebellar vermis	OMIM:213025
+7	0.6	Abnormality of iris morphology	OMIM:601620
+8	0.55	Abnormality of the pons	OMIM:614673
+9	0.5	Abnormality of the ear	OMIM:148780
+10	0.45	Abnormal corpus callosum morphology	OMIM:217990

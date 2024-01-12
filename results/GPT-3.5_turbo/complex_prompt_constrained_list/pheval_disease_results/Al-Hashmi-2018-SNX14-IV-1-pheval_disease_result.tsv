@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis type II	OMIM:309900
+2	0.8	Mucopolysaccharidosis type I	OMIM:607014
+3	0.7	Gaucher disease	OMIM:230800
+3	0.7	Hunter syndrome	OMIM:309900
+5	0.6	Sanfilippo syndrome	OMIM:252900
+5	0.6	Maroteaux-Lamy syndrome	OMIM:253200
+7	0.5	Mucolipidosis III	OMIM:252600
+7	0.5	Pompe disease	OMIM:232300
+9	0.4	Niemann-Pick disease type C	OMIM:607616
+9	0.4	Krabbe disease	OMIM:245200
+11	0.3	Cystinosis	OMIM:219800
+11	0.3	Lowe syndrome	OMIM:309000
+13	0.2	Barth syndrome	OMIM:302060
+13	0.2	Salla disease	OMIM:604369
+15	0.1	Duchenne muscular dystrophy	OMIM:310200

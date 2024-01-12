@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130050
+3	0.7	Loeys-Dietz Syndrome	OMIM:609192
+4	0.6	Stickler Syndrome	OMIM:108300
+5	0.5	Homocystinuria	OMIM:236200
+6	0.4	Loeys-Dietz Syndrome	OMIM:610168
+7	0.3	Kniest Dysplasia	OMIM:156550
+8	0.2	Weill-Marchesani Syndrome	OMIM:277600
+9	0.1	Marfanoid-progeroid-lipodystrophy Syndrome	OMIM:616914
+10	0.05	Beals Syndrome	OMIM:121050

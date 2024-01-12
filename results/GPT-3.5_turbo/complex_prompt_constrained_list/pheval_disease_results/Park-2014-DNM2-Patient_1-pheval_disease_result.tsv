@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy, limb-girdle, type 2I	OMIM:609524
+2	0.85	Spinal muscular atrophy, linked to chromosome 5q	OMIM:600623
+3	0.8	Myasthenia gravis	OMIM:254200
+3	0.8	Progressive external ophthalmoplegia with mitochondrial DNA deletions 1	OMIM:157640
+5	0.75	Spinal muscular atrophy with congenital bone fractures	OMIM:618734
+6	0.7	Centronuclear myopathy	OMIM:160150
+6	0.7	Charcot-Marie-Tooth disease, type 2B	OMIM:600882
+8	0.65	Dystonia 1	OMIM:128100
+9	0.6	Limb-girdle muscular dystrophy, type 2A	OMIM:253600
+10	0.55	Hypokalemic periodic paralysis, type 1	OMIM:170400

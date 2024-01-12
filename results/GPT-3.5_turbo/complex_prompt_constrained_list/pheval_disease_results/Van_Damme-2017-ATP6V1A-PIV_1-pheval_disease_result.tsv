@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	8.7	Abnormal heart morphology	OMIM:600001
+2	0.95	Cutis laxa	OMIM:614437
+3	0.92	Kyphoscoliosis	OMIM:218000
+4	0.9	Abnormal subcutaneous fat tissue distribution	OMIM:612526
+5	0.85	Flexion contracture	OMIM:305200
+6	0.82	Abnormal cardiac septum morphology	OMIM:613697
+7	0.8	Death in infancy	OMIM:1
+8	0.78	Cryptorchidism	OMIM:219050
+9	0.75	Generalized hypotonia	OMIM:0001252
+10	0.72	Entropion	OMIM:131500

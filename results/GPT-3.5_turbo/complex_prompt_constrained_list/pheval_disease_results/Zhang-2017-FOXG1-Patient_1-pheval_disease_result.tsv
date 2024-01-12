@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+4	0.6	Phenylketonuria	OMIM:261600
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Prader-Willi syndrome	OMIM:176270
+7	0.3	Fragile X syndrome	OMIM:300624
+8	0.2	Cornelia de Lange syndrome	OMIM:122470
+9	0.1	Sotos syndrome	OMIM:117550

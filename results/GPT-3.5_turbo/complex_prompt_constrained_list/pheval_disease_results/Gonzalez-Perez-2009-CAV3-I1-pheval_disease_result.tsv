@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Myopathy and Sideroblastic Anemia	OMIM:609283
+2	0.85	Glycogen Storage Disease XI	OMIM:613954
+3	0.8	Familial Mediterranean Fever	OMIM:249100
+4	0.75	Inclusion Body Myopathy 3	OMIM:605637
+5	0.7	Tibial Muscular Dystrophy	OMIM:605355
+6	0.65	Myopathy with Purkinje Fiber Atrophy	OMIM:617227
+7	0.6	Familial Polycythemia	OMIM:167470
+8	0.55	Myoglobinuria, Autosomal Dominant, Treated with Iron	OMIM:617186
+9	0.5	Combined Oxidative Phosphorylation Deficiency 55	OMIM:617228
+10	0.45	Combined Oxidative Phosphorylation Deficiency 50	OMIM:617228

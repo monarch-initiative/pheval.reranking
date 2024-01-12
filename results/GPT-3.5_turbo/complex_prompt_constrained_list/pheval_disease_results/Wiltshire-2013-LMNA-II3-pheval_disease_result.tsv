@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progeria	OMIM:176670
+2	0.85	Familial partial lipodystrophy	OMIM:604367
+3	0.8	Hutchinson-Gilford syndrome	OMIM:176670
+4	0.75	Friedreich ataxia	OMIM:229300
+5	0.7	Muscular dystrophy	OMIM:158900
+6	0.65	Marfan syndrome	OMIM:154700
+7	0.6	Wernicke-Korsakoff syndrome	OMIM:277730
+8	0.55	Emery-Dreifuss muscular dystrophy	OMIM:181350
+9	0.5	Polymyositis	OMIM:610698
+10	0.45	Lipodystrophy, familial partial, with severe insulin resistance	OMIM:604367

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypohidrotic ectodermal dysplasia	OMIM:305100
+2	0.8	Tricho-rhino-phalangeal syndrome type 1	OMIM:190350
+3	0.7	Van der Woude syndrome 1	OMIM:119300
+3	0.7	Coffin-Siris syndrome 1	OMIM:135900
+5	0.6	Oral-facial-digital syndrome 1	OMIM:311200
+5	0.6	Melnick-Needles syndrome	OMIM:309350
+7	0.5	Non-syndromic ankyloglossia	OMIM:106280
+7	0.5	Oral-facial-digital syndrome 3	OMIM:258860
+9	0.4	Chromosome 2q37 deletion syndrome	OMIM:600430
+9	0.4	Kenny-Caffey syndrome, type 2	OMIM:127000

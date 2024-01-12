@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Feeding difficulties in infancy	OMIM:613849
+1	1.0	Death in infancy	OMIM:617332
+3	0.9	Congenital hypothyroidism	OMIM:218700
+3	0.9	Central apnea	OMIM:269600
+3	0.9	Feeding difficulties	OMIM:614959
+6	0.8	Polyhydramnios	OMIM:609595
+6	0.8	Abnormality of fundus pigmentation	OMIM:231200
+8	0.7	High palate	OMIM:103300
+8	0.7	Short nose	OMIM:163200
+8	0.7	Bilateral microphthalmos	OMIM:600165

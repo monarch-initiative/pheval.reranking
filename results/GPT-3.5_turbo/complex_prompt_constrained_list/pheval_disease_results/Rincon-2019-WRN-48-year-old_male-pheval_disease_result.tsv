@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ostegenesis Imperfecta	OMIM:259440
+2	0.8	Marfan Syndrome	OMIM:154700
+3	0.7	Craniometaphyseal Dysplasia	OMIM:123000
+4	0.6	Progeria	OMIM:176670
+5	0.5	Tietz Syndrome	OMIM:103500
+6	0.4	Alkaptonuria	OMIM:203500
+7	0.3	Hurler Syndrome	OMIM:607014
+8	0.2	Alzheimer Disease	OMIM:104300
+9	0.1	Prader-Willi Syndrome	OMIM:176270
+10	0.05	Turner Syndrome	OMIM:314550

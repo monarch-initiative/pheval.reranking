@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.8	Spinocerebellar ataxia type 2	OMIM:183090
+3	0.7	Spinocerebellar ataxia type 3	OMIM:109150
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+6	0.4	Spinocerebellar ataxia type 7	OMIM:164500
+7	0.3	Spinocerebellar ataxia type 6	OMIM:183086
+8	0.2	Multiple system atrophy	OMIM:146500
+9	0.1	Hereditary spastic paraplegia	OMIM:182600
+10	0.05	Amyotrophic lateral sclerosis	OMIM:105400

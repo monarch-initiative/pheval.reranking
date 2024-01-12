@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Intellectual disability	OMIM:615220
+2	0.8	Epileptic encephalopathy	OMIM:613721
+3	0.7	Seizure disorder	OMIM:609454
+4	0.6	Short stature	OMIM:604271
+5	0.5	Hypogonadism	OMIM:308200
+6	0.4	Hypotonia	OMIM:604273
+7	0.3	Muscular dystrophy	OMIM:158900
+8	0.2	Ocular abnormalities	OMIM:601500
+9	0.1	Cognitive impairment	OMIM:614643

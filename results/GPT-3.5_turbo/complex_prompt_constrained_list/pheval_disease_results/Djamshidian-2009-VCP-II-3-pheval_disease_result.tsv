@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Limb-girdle muscular dystrophy type 2H	OMIM:254110
+2	0.8	Muscular dystrophy-dystroglycanopathy type C13	OMIM:615287
+3	0.7	Polymyositis	OMIM:605809
+4	0.6	Duchenne muscular dystrophy	OMIM:310200
+5	0.5	Facioscapulohumeral muscular dystrophy	OMIM:158900
+6	0.4	Myotonic dystrophy type 1	OMIM:160900
+7	0.3	Amyotrophic lateral sclerosis type 1	OMIM:105400
+8	0.2	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:605382
+9	0.1	Oculopharyngeal muscular dystrophy	OMIM:164300

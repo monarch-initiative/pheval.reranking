@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypergastrinemia	OMIM:137920
+2	0.8	Galactorrhea	OMIM:103500
+3	0.7	Carcinoid tumor	OMIM:114470
+4	0.6	Thymoma	OMIM:273660
+5	0.5	Macroscopic hematuria	OMIM:227645
+6	0.4	Pituitary adenoma	OMIM:102200
+7	0.3	Primary hyperparathyroidism	OMIM:145000
+8	0.2	Neuroendocrine neoplasm	OMIM:256190
+9	0.1	Adrenocorticotropic hormone deficiency	OMIM:201400

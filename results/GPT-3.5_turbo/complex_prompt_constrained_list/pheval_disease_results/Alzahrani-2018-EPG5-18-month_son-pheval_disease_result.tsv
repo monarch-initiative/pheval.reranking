@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alport syndrome	OMIM:301050
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+3	0.8	Bardet-Biedl syndrome	OMIM:209900
+4	0.75	CHARGE syndrome	OMIM:214800
+5	0.7	Leukodystrophy, hypomyelinating, 2	OMIM:608804

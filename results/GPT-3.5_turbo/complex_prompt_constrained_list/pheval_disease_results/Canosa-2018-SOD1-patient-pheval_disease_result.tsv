@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.8	Spinal muscular atrophy	OMIM:253300
+3	0.7	Bulbar palsy	OMIM:601543
+4	0.6	Motor neuron disease	OMIM:600820
+5	0.5	Progressive bulbar palsy	OMIM:237500
+6	0.4	Motor neuropathy	OMIM:600794

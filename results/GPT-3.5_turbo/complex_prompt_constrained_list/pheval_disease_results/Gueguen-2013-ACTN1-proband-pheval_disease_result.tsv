@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential thrombocythemia	OMIM:600474
+2	0.8	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+3	0.7	Bernard-Soulier syndrome	OMIM:231200
+4	0.6	Acute megakaryoblastic leukemia	OMIM:612751
+5	0.5	Grey platelet syndrome	OMIM:139090
+6	0.4	Familial platelet disorder with associated myeloid malignancy	OMIM:601399
+7	0.3	Thrombocytopenia with congenital dyserythropoietic anemia	OMIM:614166
+8	0.2	MYH9-related disorders	OMIM:160775
+9	0.1	Thrombocytopenia absent radius syndrome	OMIM:274000
+10	0.05	Thrombocytopenia 2	OMIM:188000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Loeys-Dietz syndrome	OMIM:610168
+3	0.8	Ehlers-Danlos syndrome	OMIM:130000
+4	0.75	Bicuspid aortic valve	OMIM:109730
+5	0.7	Turner syndrome	OMIM:312850
+6	0.65	Aortic root aneurysm	OMIM:614104
+7	0.6	Ectopia lentis	OMIM:129600
+8	0.55	Congenital heart defect	OMIM:306955
+9	0.5	Kabuki syndrome	OMIM:147920
+10	0.45	Aortic valve disease	OMIM:109730

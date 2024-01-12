@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:606693
+2	0.8	Primary lateral sclerosis	OMIM:606353
+3	0.7	Friedreich ataxia	OMIM:229300
+4	0.6	Cerebral palsy	OMIM:603513
+5	0.5	Adrenomyeloneuropathy	OMIM:300100

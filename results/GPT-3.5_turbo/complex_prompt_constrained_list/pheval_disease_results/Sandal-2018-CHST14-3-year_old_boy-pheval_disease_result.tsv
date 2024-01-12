@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arthrogryposis multiplex congenita	OMIM:108300
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+3	0.7	Bardet-Biedl syndrome	OMIM:209900
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Noonan syndrome	OMIM:163950
+6	0.4	Marfan syndrome	OMIM:154700
+7	0.3	Fragile X syndrome	OMIM:300624
+8	0.2	Turner syndrome	OMIM:313850
+9	0.1	Williams syndrome	OMIM:194050

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange syndrome	OMIM:122470
+2	0.82	Pallister-Hall syndrome	OMIM:146000
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.78	Trisomy 21	OMIM:190685
+5	0.75	Rubinstein-Taybi syndrome	OMIM:180849

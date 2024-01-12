@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+3	0.7	Stickler syndrome	OMIM:108300
+5	0.6	Weill-Marchesani syndrome	OMIM:277600
+5	0.6	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+7	0.5	Lujan-Fryns syndrome	OMIM:309520
+7	0.5	Neurofibromatosis type 1	OMIM:162200
+9	0.4	Beals syndrome	OMIM:121050
+9	0.4	Homocystinuria	OMIM:236200

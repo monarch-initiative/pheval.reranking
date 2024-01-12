@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia 10B, hypohidrotic/hair/tooth type, autosomal recessive	OMIM:615722
+2	0.8	Microcephaly 1, primary, autosomal recessive	OMIM:251200
+3	0.7	Cataract 9, multiple types	OMIM:604219
+3	0.7	Cutaneous photosensitivity, particularly with sunlight, chronic actinic reticuloid	OMIM:601499
+5	0.6	Cataract 6, multiple types	OMIM:116600
+5	0.6	Microphthalmia, isolated 2	OMIM:602482
+7	0.5	Microphthalmia 5, syndromic	OMIM:610125
+7	0.5	Cataract 48, lamellar	OMIM:610425
+9	0.4	Microcephaly 21, primary, autosomal recessive	OMIM:617335
+9	0.4	Xeroderma pigmentosum, group E	OMIM:278740

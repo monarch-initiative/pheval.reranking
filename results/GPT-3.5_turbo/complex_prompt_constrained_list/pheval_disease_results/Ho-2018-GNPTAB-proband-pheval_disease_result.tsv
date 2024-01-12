@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:609673
+2	0.85	Achondroplasia	OMIM:100800
+3	0.8	Robinow syndrome	OMIM:268310
+4	0.75	Cerebrooculofacioskeletal syndrome	OMIM:214150
+5	0.7	Coffin-Lowry syndrome	OMIM:303600
+6	0.65	Kabuki syndrome	OMIM:147920
+7	0.6	Rett syndrome	OMIM:312750
+8	0.55	Prader-Willi syndrome	OMIM:176270
+9	0.5	Neurofibromatosis type 1	OMIM:162200
+10	0.45	Noonan syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebellar atrophy	OMIM:614104
+2	0.8	Hypoplasia of the corpus callosum	OMIM:217990
+3	0.7	Microcytic anemia	OMIM:604147
+3	0.7	Generalized tonic-clonic seizures	OMIM:613351
+5	0.6	Brain atrophy	OMIM:607167
+5	0.6	Severe global developmental delay	OMIM:614689
+7	0.5	Status epilepticus	OMIM:254900
+7	0.5	CNS demyelination	OMIM:127600
+9	0.4	Brachycephaly	OMIM:607142
+9	0.4	Deeply set eye	OMIM:601097

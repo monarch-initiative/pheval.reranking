@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+2	0.85	Lactic acidemia due to defect of E1alpha subunit of pyruvate dehydrogenase complex	OMIM:245349
+3	0.8	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:245348
+3	0.8	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:300502
+3	0.8	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:614111
+3	0.8	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:614111
+7	0.7	Mitochondrial complex I deficiency, nuclear type 24	OMIM:618242
+7	0.7	Mitochondrial complex I deficiency, nuclear type 22	OMIM:618225
+7	0.7	Mitochondrial complex I deficiency, nuclear type 15	OMIM:618164
+7	0.7	Lethal neonatal complex I deficiency	OMIM:252010

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.7	Primary biliary cholangitis	OMIM:109720
+4	0.6	Non-alcoholic fatty liver disease	OMIM:613282
+5	0.5	Gaucher disease	OMIM:230800
+6	0.4	Alkaptonuria	OMIM:203500
+7	0.3	Hereditary hemochromatosis	OMIM:235200
+8	0.2	Glycogen storage disease type I	OMIM:232200
+9	0.1	Cholestasis	OMIM:214980
+10	0.05	Polycystic liver disease	OMIM:174050

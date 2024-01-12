@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Kabuki syndrome	OMIM:147920
+2	0.7	Sotos syndrome	OMIM:117550
+3	0.65	Peroxisome biogenesis disorder	OMIM:214100
+4	0.6	Angelman syndrome	OMIM:105830
+5	0.55	Prader-Willi syndrome	OMIM:176270
+6	0.5	Fragile X syndrome	OMIM:300624
+7	0.45	Mucopolysaccharidosis type II	OMIM:309900
+8	0.4	Rett syndrome	OMIM:312750
+9	0.35	Williams syndrome	OMIM:194050
+10	0.3	Tuberous sclerosis	OMIM:191100

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Long QT syndrome	OMIM:613254
+2	0.9	Polymorphic ventricular tachycardia, type 1	OMIM:613990
+3	0.8	Brugada syndrome	OMIM:603553
+4	0.7	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+5	0.6	Timothy syndrome	OMIM:601005

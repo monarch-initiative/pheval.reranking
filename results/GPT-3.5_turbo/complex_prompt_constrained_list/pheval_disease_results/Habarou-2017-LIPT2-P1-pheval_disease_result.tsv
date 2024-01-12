@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	11-β hydroxylase deficiency	OMIM:614174
+2	0.8	Pyridoxine-dependent epilepsy	OMIM:266100
+3	0.7	Phenylketonuria	OMIM:261600
+4	0.6	Glycine encephalopathy	OMIM:605899
+5	0.5	Spastic paraplegia type 15	OMIM:270700
+6	0.4	Beta-propeller protein-associated neurodegeneration	OMIM:618305
+7	0.3	Congenital disorder of glycosylation type 1a	OMIM:212065
+8	0.2	Glutaric acidemia type 1	OMIM:231670
+9	0.1	Gamma-aminobutyric acid transaminase deficiency	OMIM:613163
+10	0.05	Isobutyryl-CoA dehydrogenase deficiency	OMIM:611283

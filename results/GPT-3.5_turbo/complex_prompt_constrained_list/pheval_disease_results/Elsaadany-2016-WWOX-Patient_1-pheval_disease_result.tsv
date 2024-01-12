@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 17	OMIM:615473
+2	0.85	Epilepsy, progressive myoclonic, 2A	OMIM:605820
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	Epileptic encephalopathy, early infantile, 9	OMIM:616647
+5	0.7	Myoclonic epilepsy, familial infantile	OMIM:605021
+6	0.65	Epileptic encephalopathy, early infantile, 6	OMIM:615010
+7	0.6	Pyruvate dehydrogenase E2 deficiency	OMIM:245349
+8	0.55	Glycine encephalopathy	OMIM:605899
+9	0.5	Severe infantile axonal neuropathy	OMIM:214400
+10	0.45	Cockayne syndrome B	OMIM:133540

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary Open Angle Glaucoma	OMIM:137760
+2	0.8	Congenital Megalocornea	OMIM:249300
+3	0.7	Axenfeld-Rieger Syndrome, Type 1	OMIM:180500
+4	0.6	Congenital Glaucoma	OMIM:231300
+5	0.5	Anterior Segment Dysgenesis	OMIM:107250
+6	0.4	Normal Tension Glaucoma	OMIM:606657
+7	0.3	Congenital Heart Defects, Multiple Types 3	OMIM:614954
+8	0.2	Cataract, Congenital, With Microcornea Or Megalocornea	OMIM:116150
+9	0.1	Microcornea, Myopic Chorioretinal Atrophy, And Telecanthus	OMIM:615458
+10	0.05	Peter's Anomaly	OMIM:604229

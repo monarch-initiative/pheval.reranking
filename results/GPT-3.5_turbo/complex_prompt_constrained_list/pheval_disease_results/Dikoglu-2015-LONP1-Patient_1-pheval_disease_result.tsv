@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal recessive spastic paraplegia type 44	OMIM:614232
+2	0.8	Autosomal dominant spastic paraplegia type 8	OMIM:603563
+3	0.7	Familial osteochondritis dissecans	OMIM:165800
+4	0.6	Cataract 36	OMIM:615189
+5	0.5	Hallermann-Streiff syndrome	OMIM:234100
+6	0.4	Ataxia with ocular apraxia type 1	OMIM:208920
+7	0.3	Hereditary sensory and autonomic neuropathy type 2B	OMIM:613115
+8	0.2	Blepharophimosis, ptosis, and epicanthus inversus syndrome type 1	OMIM:110100
+9	0.1	Chondrodysplasia punctata 2, X-linked dominant	OMIM:302960

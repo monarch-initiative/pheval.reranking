@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+3	0.7	Metatropic dysplasia	OMIM:156530
+4	0.6	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome	OMIM:208250
+5	0.5	Metaphyseal anadysplasia	OMIM:602111
+6	0.4	Nestor-Guillermo progeria syndrome	OMIM:614008
+7	0.3	Osteopathia striata with cranial sclerosis	OMIM:300373
+8	0.2	Hyper IgM syndrome, type 4	OMIM:608184
+9	0.1	Progeria Hutchinson-Gilford type	OMIM:176670
+10	0.05	Robin sequence with cleft mandible and limb anomalies	OMIM:268305

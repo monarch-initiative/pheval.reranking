@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease 1	OMIM:168601
+2	0.85	Parkinson disease 4	OMIM:605543
+3	0.8	Parkinson disease 2	OMIM:600116
+4	0.75	Parkinson disease 3	OMIM:602404
+5	0.7	Parkinson disease 6	OMIM:605909
+6	0.65	Parkinson disease 5	OMIM:613643
+7	0.6	Parkinson disease 8	OMIM:607060
+8	0.55	Parkinson disease 7	OMIM:606324
+9	0.5	Parkinson disease 9	OMIM:606693
+10	0.45	Parkinson disease 11	OMIM:607688

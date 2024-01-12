@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Apert syndrome	OMIM:101200
+3	0.7	Treacher Collins syndrome	OMIM:154500
+4	0.6	Pierre Robin sequence	OMIM:261800
+5	0.5	Crouzon syndrome	OMIM:123500
+6	0.4	Goldenhar syndrome	OMIM:164210
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Dubowitz syndrome	OMIM:223370
+9	0.1	Klinefelter syndrome	OMIM:148200

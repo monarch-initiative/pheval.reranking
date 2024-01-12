@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow syndrome	OMIM:268310
+2	0.8	Pierre Robin sequence	OMIM:261800
+3	0.7	Cornelia de Lange syndrome	OMIM:122470
+4	0.6	Treacher Collins syndrome	OMIM:154500
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital muscular dystrophy	OMIM:613254
+2	0.8	Centronuclear myopathy	OMIM:617560
+3	0.7	Myotonic dystrophy type 1	OMIM:160900
+4	0.6	Emery-Dreifuss muscular dystrophy	OMIM:181350
+5	0.5	Spinal muscular atrophy	OMIM:253300
+6	0.4	Charcot-Marie-Tooth disease type 2	OMIM:118210
+7	0.3	Myotonia congenita	OMIM:160800
+8	0.2	Limb-girdle muscular dystrophy	OMIM:609115
+9	0.1	Becker muscular dystrophy	OMIM:300376
+10	0.05	Myasthenia gravis	OMIM:254200

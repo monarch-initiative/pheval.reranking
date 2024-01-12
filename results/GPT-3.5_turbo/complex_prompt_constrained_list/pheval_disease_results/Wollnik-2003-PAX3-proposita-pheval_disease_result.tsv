@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Waardenburg syndrome type 1	OMIM:193500
+3	0.7	Tsukahara syndrome	OMIM:272350
+4	0.6	Cockayne syndrome	OMIM:216400
+5	0.5	Goldenhar syndrome	OMIM:164210
+6	0.4	Fetal hydantoin syndrome	OMIM:121150
+7	0.3	Branchiooculofacial syndrome	OMIM:113620
+8	0.2	Andermann syndrome	OMIM:218000
+9	0.1	Orofaciodigital syndrome VIII	OMIM:277170

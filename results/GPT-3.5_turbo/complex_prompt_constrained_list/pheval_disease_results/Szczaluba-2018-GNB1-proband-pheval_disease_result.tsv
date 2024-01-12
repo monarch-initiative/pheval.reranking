@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Intellectual disability	OMIM:234200
+2	0.8	Epileptic encephalopathy	OMIM:613254
+3	0.7	Autism spectrum disorder	OMIM:605282
+4	0.6	Cerebral palsy	OMIM:603553
+5	0.5	Genetic syndrome	OMIM:618000
+6	0.4	Developmental delay	OMIM:614104
+7	0.3	Chorea	OMIM:118450
+7	0.3	Hypotonia	OMIM:603553
+9	0.2	Feeding difficulties	OMIM:194585
+9	0.2	Hydronephrosis	OMIM:143400

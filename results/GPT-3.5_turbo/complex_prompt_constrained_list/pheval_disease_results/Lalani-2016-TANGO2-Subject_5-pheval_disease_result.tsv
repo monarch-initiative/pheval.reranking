@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital myasthenic syndrome	OMIM:601088
+2	0.85	Long QT syndrome	OMIM:116920
+3	0.8	Rhabdomyolysis	OMIM:268300
+4	0.75	Hypokalemic periodic paralysis	OMIM:170500
+5	0.7	Generalized epilepsy	OMIM:600669
+5	0.7	Hyperkalemic periodic paralysis	OMIM:170500
+7	0.65	Hypokalemic periodic paralysis type 1	OMIM:170500
+7	0.65	Mitochondrial myopathy	OMIM:590000
+9	0.6	Epileptic encephalopathy	OMIM:615006
+9	0.6	Neonatal hypoglycemia	OMIM:256450

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Obesity	OMIM:601665
+2	0.8	Macular degeneration	OMIM:603075
+3	0.7	Rod-cone dystrophy	OMIM:120970
+4	0.6	Attenuation of retinal blood vessels	OMIM:261100
+5	0.5	Strabismus	OMIM:185100
+6	0.4	Global developmental delay	OMIM:614672
+7	0.3	Specific learning disability	OMIM:612494

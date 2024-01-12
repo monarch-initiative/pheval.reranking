@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Epidermolytic hyperkeratosis	OMIM:144200
+2	0.95	Punctate palmoplantar keratoderma	OMIM:148600
+3	0.9	Palmoplantar keratoderma with tylosis	OMIM:148500
+4	0.85	Diffuse palmoplantar keratoderma	OMIM:144400
+5	0.8	Arsenical keratoses	OMIM:144250
+6	0.75	Focal palmoplantar keratoderma	OMIM:613000
+7	0.7	Howel-Evans syndrome	OMIM:604173
+8	0.65	Huriez syndrome	OMIM:278150
+9	0.6	Costello syndrome	OMIM:218040
+10	0.55	Porokeratosis	OMIM:175800

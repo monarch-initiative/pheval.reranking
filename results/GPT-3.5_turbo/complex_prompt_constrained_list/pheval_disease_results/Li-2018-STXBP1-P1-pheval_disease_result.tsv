@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epilepsy, X-linked, with Variable Learning Disabilities and Behavior Disorders	OMIM:300643
+2	0.8	Epilepsy, Childhood Absence 1	OMIM:600131
+3	0.7	Epilepsy, Childhood Absence 2	OMIM:607681
+4	0.6	Epilepsy, Progressive Myoclonic 1A	OMIM:254800
+5	0.5	Epileptic Encephalopathy, Early Infantile, 4	OMIM:612164

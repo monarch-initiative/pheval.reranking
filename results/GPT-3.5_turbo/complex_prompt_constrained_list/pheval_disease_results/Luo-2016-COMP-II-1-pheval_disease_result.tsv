@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondrogenesis type 2	OMIM:200610
+2	0.8	Spondyloperipheral dysplasia	OMIM:271700
+3	0.7	Kniest dysplasia	OMIM:156550
+4	0.6	Spondyloepiphyseal dysplasia, Maroteaux type	OMIM:184095
+5	0.5	Spondyloepiphyseal dysplasia, Omani type	OMIM:614135
+6	0.4	Spondylometaphyseal dysplasia, Algerian type	OMIM:250230
+7	0.3	Multiple epiphyseal dysplasia, with miniepiphyses	OMIM:600970
+8	0.2	Spondyloepiphyseal dysplasia tarda	OMIM:313400
+9	0.1	Hajdu-Cheney syndrome	OMIM:102500
+10	0.05	Pyle disease	OMIM:265900

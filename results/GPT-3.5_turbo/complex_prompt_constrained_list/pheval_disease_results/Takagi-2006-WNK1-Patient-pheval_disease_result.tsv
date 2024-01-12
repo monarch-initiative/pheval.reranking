@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease	OMIM:601472
+2	0.8	Hereditary Sensory and Autonomic Neuropathy Type IV	OMIM:601967
+3	0.7	Hereditary Sensory and Autonomic Neuropathy Type II	OMIM:201300
+4	0.6	Hereditary Sensory Neuropathy Type I	OMIM:162400
+5	0.5	Hereditary Motor and Sensory Neuropathy Type VI	OMIM:601152
+6	0.4	Familial Dysautonomia	OMIM:223900
+7	0.3	Charcot-Marie-Tooth Disease Type 2	OMIM:606071
+8	0.2	Charcot-Marie-Tooth Disease Type 1A	OMIM:118220
+9	0.1	Hereditary Motor and Sensory Neuropathy	OMIM:5010

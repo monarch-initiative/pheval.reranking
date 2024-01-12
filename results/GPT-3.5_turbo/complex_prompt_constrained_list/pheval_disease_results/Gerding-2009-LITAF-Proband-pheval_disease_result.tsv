@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Charcot-Marie-Tooth disease	OMIM:118220
+3	0.7	Spinocerebellar ataxia type 1	OMIM:164400
+4	0.6	Peripheral neuropathy	OMIM:162500
+5	0.5	Familial amyloid polyneuropathy	OMIM:176300
+6	0.4	Juvenile Huntington disease	OMIM:143100
+7	0.3	Sjögren-Larsson syndrome	OMIM:270200
+8	0.2	Ataxia-telangiectasia	OMIM:208900
+9	0.1	Hereditary sensory neuropathy type 1	OMIM:162400
+10	0.05	Familial spastic paraplegia	OMIM:603563

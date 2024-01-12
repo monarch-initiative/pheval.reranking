@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuchs endothelial corneal dystrophy	OMIM:136800
+2	0.8	Keratoconus	OMIM:148300
+3	0.7	Pseudophakic bullous keratopathy	OMIM:609741
+4	0.6	Keratoglobus	OMIM:121900
+5	0.5	Corneal dystrophy, posterior polymorphous, 1	OMIM:122000

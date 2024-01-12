@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow syndrome	OMIM:268310
+2	0.8	Omodysplasia 1	OMIM:258315
+3	0.7	Otopalatodigital syndrome type II	OMIM:304120
+4	0.6	Short-rib thoracic dysplasia 12	OMIM:269860
+5	0.5	Situs inversus totalis with cystic dysplasia of kidneys and pancreas	OMIM:617738
+6	0.4	Meckel syndrome, type 1	OMIM:249000
+7	0.3	Short-rib thoracic dysplasia 10 with or without polydactyly	OMIM:615630
+8	0.2	Short-rib thoracic dysplasia 3 with or without polydactyly	OMIM:613091
+9	0.1	Short-rib thoracic dysplasia 2 with or without polydactyly	OMIM:263520
+10	0.05	Short-rib thoracic dysplasia 4 with or without polydactyly	OMIM:613819

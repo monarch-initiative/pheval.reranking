@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:613254
+2	0.8	Arrhythmogenic right ventricular cardiomyopathy	OMIM:173630
+3	0.7	Hypertrophic cardiomyopathy	OMIM:192600
+4	0.6	Vasovagal syncope	OMIM:193000
+5	0.5	Brugada syndrome	OMIM:601144
+6	0.4	Cardiac arrest	OMIM:114500
+7	0.3	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+8	0.2	Myocarditis	OMIM:611878
+9	0.1	Aortic stenosis	OMIM:109730

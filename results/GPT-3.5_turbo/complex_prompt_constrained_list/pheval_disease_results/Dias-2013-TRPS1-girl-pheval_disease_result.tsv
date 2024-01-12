@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry Syndrome	OMIM:303600
+2	0.85	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.75	Sotos Syndrome	OMIM:117550
+5	0.7	Angelman Syndrome	OMIM:105830
+6	0.65	Fragile X Syndrome	OMIM:300624
+7	0.6	Prader-Willi Syndrome	OMIM:176270
+8	0.55	Klinefelter Syndrome	OMIM:148190
+9	0.5	Williams Syndrome	OMIM:194050
+10	0.45	Cri-du-Chat Syndrome	OMIM:123450

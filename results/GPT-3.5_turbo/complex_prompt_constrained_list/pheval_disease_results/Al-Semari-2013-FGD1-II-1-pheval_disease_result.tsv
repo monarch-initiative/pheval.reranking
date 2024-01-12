@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+2	0.8	Lowe syndrome	OMIM:309000
+4	0.7	FKTN-related muscular dystrophy	OMIM:607440
+4	0.7	Noonan syndrome	OMIM:163950
+4	0.7	Sjögren-Larsson syndrome	OMIM:270200
+7	0.6	Crouzon syndrome	OMIM:123500
+7	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.6	Williams syndrome	OMIM:194050

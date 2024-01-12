@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.75	Fragile X syndrome	OMIM:300624
+5	0.7	Aicardi syndrome	OMIM:304050
+6	0.65	Phenylketonuria	OMIM:261600
+7	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.55	Angelman-like syndrome	OMIM:617656
+9	0.5	Tuberous sclerosis	OMIM:191100
+10	0.45	Cohen syndrome	OMIM:216550

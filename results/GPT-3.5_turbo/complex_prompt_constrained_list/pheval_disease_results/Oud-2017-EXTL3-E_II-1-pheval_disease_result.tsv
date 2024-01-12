@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary ciliary dyskinesia	OMIM:613244
+2	0.9	Alveolar capillary dysplasia	OMIM:265380
+3	0.85	Nephronophthisis	OMIM:256100
+4	0.8	Congenital central hypoventilation syndrome	OMIM:209880
+5	0.75	Severe combined immunodeficiency	OMIM:202500
+6	0.7	Aicardi-Goutieres syndrome	OMIM:225750
+7	0.65	Netherton syndrome	OMIM:256500
+8	0.6	Fanconi anemia	OMIM:227650
+9	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.5	Prader-Willi syndrome	OMIM:176270

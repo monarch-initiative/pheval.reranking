@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tay-Sachs disease	OMIM:272800
+2	0.9	Niemann-Pick disease Type C	OMIM:257220
+3	0.85	Gaucher disease	OMIM:230800
+4	0.8	Niemann-Pick disease Type A	OMIM:257200
+5	0.75	Krabbe disease	OMIM:245200
+6	0.7	Metachromatic leukodystrophy	OMIM:250100
+7	0.65	Sandhoff disease	OMIM:268800
+8	0.6	Farber lipogranulomatosis	OMIM:228000
+9	0.55	GM2-gangliosidosis, AB variant	OMIM:272750
+10	0.5	Aspartylglycosaminuria	OMIM:208400

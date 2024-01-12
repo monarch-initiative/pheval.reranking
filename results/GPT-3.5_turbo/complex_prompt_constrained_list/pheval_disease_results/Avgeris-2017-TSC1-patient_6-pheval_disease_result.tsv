@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis	OMIM:191100
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.7	Phakomatosis pigmentovascularis	OMIM:608975
+4	0.6	X-linked intellectual disability	OMIM:300215
+5	0.5	Fragile X syndrome	OMIM:300624
+6	0.4	Tuberous sclerosis-2	OMIM:613254
+7	0.3	Rett syndrome	OMIM:312750
+8	0.2	Phacomatosis pigmentokeratotica	OMIM:609528
+9	0.1	Hypomelanosis of Ito	OMIM:300337
+10	0.05	Angelman syndrome	OMIM:105830

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome	OMIM:118450
+2	0.8	Neutrophil immunodeficiency syndrome	OMIM:612653
+3	0.7	Chédiak-Higashi syndrome	OMIM:214500
+4	0.6	Schimke immuno-osseous dysplasia	OMIM:242900
+5	0.5	DiGeorge syndrome	OMIM:188400
+6	0.4	Familial hemophagocytic lymphohistiocytosis	OMIM:603553
+7	0.3	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.2	Ataxia-telangiectasia	OMIM:208900
+9	0.1	Hyper IgM syndrome	OMIM:308230
+10	0.05	IPEX syndrome	OMIM:304790

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.8	Spinal muscular atrophy	OMIM:253300
+3	0.7	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.6	Limb-girdle muscular dystrophy	OMIM:253600
+5	0.5	Myotonic dystrophy	OMIM:160900
+6	0.4	Metabolic myopathies	OMIM:255200
+7	0.3	Friedreich ataxia	OMIM:229300
+8	0.2	Primary lateral sclerosis	OMIM:606353
+9	0.1	Benign fasciculation syndrome	OMIM:174500
+9	0.1	Myasthenia gravis	OMIM:254200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome, type 1D	OMIM:601067
+1	0.9	Usher syndrome, type 1B	OMIM:276900
+1	0.9	Usher syndrome, type 1A	OMIM:276901
+1	0.9	Usher syndrome, type 1C	OMIM:276904
+1	0.9	Usher syndrome, type 1E	OMIM:602097
+1	0.9	Usher syndrome, type 1F	OMIM:602083
+7	0.8	Autosomal recessive nonsyndromic sensorineural deafness type DFNB	OMIM:600035
+7	0.8	Autosomal recessive nonsyndromic sensorineural deafness type DFNB3	OMIM:600060
+7	0.8	Autosomal recessive nonsyndromic sensorineural deafness type DFNB6	OMIM:600971
+7	0.8	Autosomal recessive nonsyndromic sensorineural deafness type DFNB1	OMIM:220290

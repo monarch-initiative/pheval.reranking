@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Achondroplasia	OMIM:100800
+3	0.7	Campomelic dysplasia	OMIM:114290
+3	0.7	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+5	0.6	Multiple epiphyseal dysplasia	OMIM:132400
+5	0.6	Diastrophic dysplasia	OMIM:222600
+7	0.5	Metatropic dysplasia	OMIM:156530
+7	0.5	Short-rib thoracic dysplasia	OMIM:263520
+9	0.4	Aarskog-Scott syndrome	OMIM:305400
+9	0.4	Metaphyseal dysplasia	OMIM:250400

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Glaucoma, primary open angle	OMIM:137760
+3	0.7	Arthrogryposis, distal, type 2A	OMIM:193700
+4	0.6	Nail-patella syndrome	OMIM:161200
+5	0.5	Arthrogryposis, distal, type 5D	OMIM:108145
+6	0.4	Connective tissue disorder due to lysyl hydroxylase-3 deficiency	OMIM:618000
+7	0.3	Stickler syndrome, type I	OMIM:108300
+8	0.2	Marfanoid habitus, intellectual disability, congestive heart failure, moderate hyperostosis, and bone fragility	OMIM:605822

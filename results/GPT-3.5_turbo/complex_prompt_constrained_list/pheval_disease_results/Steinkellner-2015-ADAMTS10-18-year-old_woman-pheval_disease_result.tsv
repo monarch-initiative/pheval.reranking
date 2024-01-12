@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Stickler syndrome	OMIM:108300
+3	0.7	Ehlers-Danlos syndrome, classical type	OMIM:130000
+4	0.6	Loeys-Dietz syndrome	OMIM:609192
+5	0.5	Weill-Marchesani syndrome	OMIM:277600
+6	0.4	Alport syndrome	OMIM:301050
+7	0.3	Congenital contractural arachnodactyly	OMIM:121050
+8	0.2	Osteogenesis imperfecta	OMIM:166200
+9	0.1	Turner syndrome	OMIM:313850

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly	OMIM:251200
+2	0.8	Intellectual disability, severe	OMIM:614921
+3	0.7	Global developmental delay	OMIM:601362
+4	0.6	Motor delay	OMIM:616865
+5	0.5	EEG abnormality	OMIM:203150
+6	0.4	Abnormality of brain morphology	OMIM:233840
+7	0.3	Absent speech	OMIM:618520

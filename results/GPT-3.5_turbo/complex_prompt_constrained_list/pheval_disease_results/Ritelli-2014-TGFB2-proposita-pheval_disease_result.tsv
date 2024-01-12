@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ehlers-Danlos syndrome, kyphoscoliotic type, 2	OMIM:615349
+2	0.9	Marfan syndrome	OMIM:154700
+3	0.8	Loeys-Dietz syndrome, type 1B	OMIM:610168
+4	0.7	Ehlers-Danlos syndrome, classic type	OMIM:130000
+5	0.6	Stickler syndrome, type 1	OMIM:108300
+6	0.5	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+7	0.4	Lujan-Fryns syndrome	OMIM:309520
+8	0.3	Weill-Marchesani syndrome 1	OMIM:277600
+9	0.2	Stickler syndrome, type 2	OMIM:604841
+10	0.1	Hyperextensible skin	OMIM:130050

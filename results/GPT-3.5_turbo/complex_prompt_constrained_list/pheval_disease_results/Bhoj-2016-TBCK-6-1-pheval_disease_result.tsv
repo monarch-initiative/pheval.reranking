@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Chromosome 15q duplication syndrome	OMIM:613173
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Floating-Harbor syndrome	OMIM:136140
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Kabuki syndrome	OMIM:147920
+8	0.2	22q11.2 deletion syndrome	OMIM:192430
+9	0.1	Prader-Willi syndrome	OMIM:176270
+10	0.05	Angelman-like syndrome	OMIM:105830

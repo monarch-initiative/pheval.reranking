@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nephrogenic Diabetes Insipidus, X-Linked	OMIM:304800
+2	0.8	Renal Tubular Acidosis, Proximal	OMIM:604278
+3	0.7	Fructose Intolerance	OMIM:22960
+4	0.6	Distal Renal Tubular Acidosis	OMIM:179800
+5	0.5	Midline Granuloma	OMIM:137850

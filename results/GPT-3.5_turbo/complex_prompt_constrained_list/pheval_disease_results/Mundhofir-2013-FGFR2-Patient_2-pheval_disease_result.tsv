@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:123100
+2	0.85	Saethre-Chotzen syndrome	OMIM:101400
+3	0.8	Pfeiffer syndrome	OMIM:101600
+4	0.75	Apert syndrome	OMIM:101200
+5	0.7	Crouzon syndrome	OMIM:123500
+6	0.65	Jackson-Weiss syndrome	OMIM:123150
+7	0.6	Muenke syndrome	OMIM:602849
+8	0.55	Nager syndrome	OMIM:154400
+9	0.5	Treacher Collins syndrome	OMIM:154500
+10	0.45	Cohen syndrome	OMIM:216550

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta, type IV	OMIM:104500
+2	0.8	Amelogenesis imperfecta, type IIA3	OMIM:613211
+3	0.7	Amelogenesis imperfecta, typeA1	OMIM:104530
+4	0.6	Aplasia cutis congenita, nonsyndromic	OMIM:107480
+5	0.5	Dentinogenesis imperfecta, Shields type II	OMIM:125490
+6	0.4	Amelogenesis imperfecta, type IIIA	OMIM:130900
+7	0.3	Rapp-Hodgkin syndrome	OMIM:129400
+8	0.2	Dentinal dysplasia, Shields type I	OMIM:125400
+9	0.1	Amelogenesis imperfecta, type IA2	OMIM:204650
+10	0.05	Amelogenesis imperfecta, type IIB	OMIM:104510

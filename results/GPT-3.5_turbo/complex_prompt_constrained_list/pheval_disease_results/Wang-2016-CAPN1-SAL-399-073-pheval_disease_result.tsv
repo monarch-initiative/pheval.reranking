@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia	OMIM:609282
+2	0.8	Friedreich ataxia	OMIM:229300
+3	0.7	Ataxia telangiectasia	OMIM:208900
+4	0.6	Spinal muscular atrophy	OMIM:253300
+5	0.5	Multiple sclerosis	OMIM:126200
+6	0.4	Lou Gehrig's disease (ALS)	OMIM:105400
+6	0.4	Hereditary spastic paraplegia	OMIM:604805
+8	0.3	Wilson disease	OMIM:277900
+8	0.3	Charcot-Marie-Tooth disease	OMIM:118220
+10	0.2	Leigh syndrome	OMIM:256000

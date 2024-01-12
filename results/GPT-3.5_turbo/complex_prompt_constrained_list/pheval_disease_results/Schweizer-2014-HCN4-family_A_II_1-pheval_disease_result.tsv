@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604772
+2	0.8	Hypertrophic cardiomyopathy	OMIM:192600
+3	0.7	Dilated cardiomyopathy	OMIM:115200
+3	0.7	Long QT syndrome	OMIM:192500
+5	0.6	Brugada syndrome	OMIM:601144
+5	0.6	Familial dilated cardiomyopathy	OMIM:115200
+7	0.5	Restrictive cardiomyopathy	OMIM:115210
+8	0.4	Isolated noncompaction of the ventricular myocardium	OMIM:604169
+9	0.3	Arrhythmogenic right ventricular dysplasia	OMIM:107970
+9	0.3	Familial ventricular arrhythmias	OMIM:192600

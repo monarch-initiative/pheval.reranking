@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2	OMIM:605382
+2	0.85	Hereditary motor and sensory neuropathy type 1B	OMIM:118200
+3	0.8	Distal hereditary motor neuronopathy type 2A	OMIM:158590
+4	0.75	Spastic paraplegia 3A	OMIM:182600
+5	0.7	Friedreich ataxia	OMIM:229300
+6	0.65	Familial spastic paraparesis	OMIM:605280
+7	0.6	Dejerine-Sottas syndrome	OMIM:145900
+8	0.55	Hereditary motor and sensory neuropathy type VIC	OMIM:616632
+9	0.5	Autosomal dominant intermediate Charcot-Marie-Tooth disease	OMIM:604484
+10	0.45	Hereditary motor and sensory neuropathy type V	OMIM:600361

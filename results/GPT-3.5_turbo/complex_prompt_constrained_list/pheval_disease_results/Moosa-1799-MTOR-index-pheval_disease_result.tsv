@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Juvenile polyposis syndrome	OMIM:174900
+2	0.8	Familial adenomatous polyposis	OMIM:175100
+2	0.8	Cowden syndrome	OMIM:158350
+4	0.7	Blepharophimosis, Ptosis, and Epicanthus inversus syndrome	OMIM:110100
+4	0.7	Tuberous sclerosis complex	OMIM:191100
+6	0.6	Costello syndrome	OMIM:218040
+6	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.6	Sotos syndrome	OMIM:117550
+6	0.6	Macrocephaly-autism syndrome	OMIM:605309
+10	0.5	PTEN hamartoma tumor syndrome	OMIM:601728

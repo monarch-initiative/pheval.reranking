@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.85	Kniest dysplasia	OMIM:156550
+3	0.8	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.75	Multiple epiphyseal dysplasia	OMIM:132400
+5	0.7	Campomelic dysplasia	OMIM:114290
+6	0.65	Conradi-Hünermann syndrome	OMIM:302960
+7	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+8	0.55	7q11.23 duplication syndrome	OMIM:609757
+9	0.5	Mucopolysaccharidosis type VII	OMIM:253220
+10	0.45	Trichorhinophalangeal syndrome type I	OMIM:190350

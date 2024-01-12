@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Ataxia-telangiectasia	OMIM:208900
+5	0.5	Trichothiodystrophy	OMIM:601675

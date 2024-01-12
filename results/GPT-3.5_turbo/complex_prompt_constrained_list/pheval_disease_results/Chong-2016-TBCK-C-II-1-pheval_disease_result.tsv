@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.924	Fryns syndrome	OMIM:229850
+2	0.805	Ondine syndrome	OMIM:609031
+3	0.783	Warburg micro syndrome	OMIM:600118
+4	0.761	Opitz-Kaveggia syndrome	OMIM:305450
+5	0.712	Pitt-Hopkins syndrome	OMIM:610954
+6	0.684	Williams syndrome	OMIM:194050
+7	0.672	Rett syndrome	OMIM:312750
+8	0.643	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.627	Marfan syndrome	OMIM:154700
+10	0.616	Cri-du-chat syndrome	OMIM:123450

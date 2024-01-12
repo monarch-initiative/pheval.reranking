@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hemochromatosis	OMIM:235200
+2	0.85	Wilson Disease	OMIM:277900
+3	0.8	Acute Viral Hepatitis	OMIM:614652
+4	0.7	Toxic Hepatitis	OMIM:140800
+5	0.6	Copper Toxicosis	OMIM:616669
+6	0.55	Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	OMIM:125310
+7	0.5	Alpha-1-Antitrypsin Deficiency	OMIM:613490

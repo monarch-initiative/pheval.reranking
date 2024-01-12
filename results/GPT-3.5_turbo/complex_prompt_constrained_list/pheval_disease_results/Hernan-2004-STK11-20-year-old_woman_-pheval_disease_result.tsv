@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peutz-Jeghers syndrome	OMIM:175200
+2	0.8	Familial adenomatous polyposis	OMIM:175200
+3	0.7	Melanoma	OMIM:155600
+4	0.6	Lentigo simplex	OMIM:151527
+5	0.5	Carney complex	OMIM:160980
+6	0.4	Cowden syndrome	OMIM:158350
+7	0.3	McCune-Albright syndrome	OMIM:174800
+8	0.2	Neurofibromatosis type 1	OMIM:162200
+9	0.1	Peutz-Jeghers-like syndrome	OMIM:617527

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukoencephalopathy with vanishing white matter	OMIM:603896
+2	0.8	Autosomal recessive spastic ataxia with leukoencephalopathy	OMIM:270550
+3	0.7	Aicardi-Goutieres syndrome	OMIM:225750
+4	0.6	Autosomal dominant optic atrophy plus syndrome	OMIM:125250
+5	0.5	Chorea, childhood-onset, with psychomotor retardation	OMIM:617143
+6	0.4	Ataxia-telangiectasia-like disorder	OMIM:604391
+7	0.3	Xeroderma pigmentosum	OMIM:278700
+8	0.2	Hereditary spastic paraplegia	OMIM:604805
+9	0.1	Friedreich ataxia	OMIM:229300

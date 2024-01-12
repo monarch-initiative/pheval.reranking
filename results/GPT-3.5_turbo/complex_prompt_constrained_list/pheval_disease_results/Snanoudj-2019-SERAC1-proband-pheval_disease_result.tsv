@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:165500
+2	0.8	Mitochondrial complex IV deficiency	OMIM:220110
+3	0.7	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+4	0.6	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+5	0.5	Severe X-linked intellectual disability, Gustavson type	OMIM:300716
+6	0.4	3-methylglutaconic aciduria type 4	OMIM:152350
+7	0.3	Pontocerebellar hypoplasia type 6	OMIM:611523
+8	0.2	Combined oxidative phosphorylation deficiency 12	OMIM:614924
+9	0.1	Combined oxidative phosphorylation deficiency 4	OMIM:610678

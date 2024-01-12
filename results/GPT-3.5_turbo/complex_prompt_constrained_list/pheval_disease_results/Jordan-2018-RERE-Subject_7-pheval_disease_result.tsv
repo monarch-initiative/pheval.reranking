@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.8	Maternal uniparental disomy of chromosome 11	OMIM:176270
+3	0.7	Simpson-Golabi-Behmel syndrome	OMIM:312870
+4	0.6	Noonan syndrome	OMIM:163950
+5	0.5	CHARGE syndrome	OMIM:214800
+6	0.4	Fryns syndrome	OMIM:229850
+7	0.3	Holt-Oram syndrome	OMIM:142900
+8	0.2	Fanconi anemia	OMIM:227650
+9	0.1	Down syndrome	OMIM:190685
+10	0.05	Oculoauriculofrontonasal syndrome	OMIM:601452

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+3	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.75	Marfan syndrome	OMIM:154700
+5	0.7	Beals syndrome	OMIM:121050
+6	0.65	Limb-girdle muscular dystrophy type 2C	OMIM:253700
+7	0.6	Myopathy, distal, 1	OMIM:603575
+8	0.55	Ullrich congenital muscular dystrophy	OMIM:254090
+9	0.5	Bethlem myopathy	OMIM:158810
+10	0.45	Congenital muscular dystrophy-dystroglycanopathy	OMIM:607155

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614104
+2	0.9	Hydrocephalus	OMIM:236200
+3	0.8	Abnormality of the pituitary gland	OMIM:102500
+4	0.7	Eye of the tiger anomaly of globus pallidus	OMIM:168600
+5	0.6	Poor coordination	OMIM:609528
+6	0.5	Elevated alkaline phosphatase	OMIM:171400
+7	0.4	Elevated serum creatine kinase	OMIM:123400

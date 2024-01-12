@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Stickler syndrome	OMIM:108300
+3	0.7	Ehlers-Danlos syndrome	OMIM:130000
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Dentinogenesis imperfecta	OMIM:125490
+6	0.4	Waardenburg syndrome	OMIM:277580
+7	0.3	Treacher Collins syndrome	OMIM:154500
+8	0.2	Kabuki syndrome	OMIM:147920
+9	0.1	Cockayne syndrome	OMIM:133540
+10	0.05	Alport syndrome	OMIM:301050

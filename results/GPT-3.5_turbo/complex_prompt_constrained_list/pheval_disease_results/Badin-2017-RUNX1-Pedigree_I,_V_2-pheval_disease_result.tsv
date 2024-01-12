@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Abnormal Platelet Function	OMIM:605282
+2	0.8	Acute Myeloid Leukemia	OMIM:601626
+3	0.7	Essential Thrombocythemia	OMIM:187950
+4	0.6	Hereditary Motor and Sensory Neuropathy Type V	OMIM:614751
+4	0.6	Paris-Trousseau Thrombocytopenia	OMIM:188025
+6	0.5	Anemia, Sideroblastic, with Ataxia	OMIM:301310
+6	0.5	Bernard-Soulier Syndrome, Type C	OMIM:231200
+6	0.5	Congenital Disorder of Glycosylation, Type Ib	OMIM:602579
+9	0.4	Fanconi Anemia, Complementation Group a	OMIM:227650
+9	0.4	Gray Platelet Syndrome	OMIM:139090

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.85	Down syndrome	OMIM:190685
+3	0.8	Kabuki syndrome	OMIM:147920
+4	0.75	Cri-du-chat syndrome	OMIM:123450
+5	0.7	Noonan syndrome	OMIM:163950
+6	0.65	Smith-Magenis syndrome	OMIM:182290
+7	0.6	Cohen syndrome	OMIM:216550
+8	0.55	Angelman syndrome	OMIM:105830
+9	0.5	Prader-Willi syndrome	OMIM:176270
+10	0.45	Smith-Lemli-Opitz syndrome	OMIM:270400

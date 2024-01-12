@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic lymphocytic leukemia	OMIM:609670
+2	0.8	Hodgkin lymphoma	OMIM:236000
+3	0.7	Monoclonal gammopathy	OMIM:614187
+4	0.6	Hairy cell leukemia	OMIM:234580
+5	0.5	Multiple myeloma	OMIM:254500

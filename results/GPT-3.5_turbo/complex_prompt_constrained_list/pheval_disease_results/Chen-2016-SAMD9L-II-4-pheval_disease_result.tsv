@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.85	Autosomal recessive cerebellar ataxia	OMIM:610743
+3	0.8	Congenital pure red cell aplasia	OMIM:179700
+4	0.75	Spinocerebellar ataxia type 6	OMIM:183086
+5	0.7	Friedreich-like ataxia	OMIM:606829
+6	0.65	Acquired aplastic anemia	OMIM:609135
+7	0.6	X-linked sideroblastic anemia and ataxia	OMIM:301310
+8	0.55	Cerebrotendinous xanthomatosis	OMIM:213700
+9	0.5	Refsum disease	OMIM:266500
+10	0.45	Ataxia-telangiectasia	OMIM:208900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crohn's Disease	OMIM:266600
+2	0.85	Ulcerative Colitis	OMIM:191390
+3	0.82	Pemphigus Vulgaris	OMIM:169610
+4	0.8	Nephrotic Syndrome	OMIM:256300
+5	0.79	Malnutrition	OMIM:611411
+6	0.78	Rheumatoid Arthritis	OMIM:180300
+7	0.76	Ehlers-Danlos Syndrome	OMIM:130050
+8	0.75	Systemic Lupus Erythematosus	OMIM:152700
+9	0.73	Multiple Myeloma	OMIM:254500
+10	0.72	Chronic Kidney Disease	OMIM:614099

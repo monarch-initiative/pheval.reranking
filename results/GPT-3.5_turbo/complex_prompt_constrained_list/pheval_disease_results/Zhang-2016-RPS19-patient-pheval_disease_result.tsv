@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial platelet disorder with associated myeloid malignancy	OMIM:601399
+2	0.8	Congenital heart defects, hamartomas of tongue and lips, and macrocytosis	OMIM:611182
+3	0.7	Diamond-Blackfan anemia 5	OMIM:612528
+4	0.6	Thrombocytopenia 4	OMIM:612004
+5	0.5	Fanconi anemia, complementation group O	OMIM:613390
+6	0.4	Megakaryocytic leukemia	OMIM:155605
+7	0.3	Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder	OMIM:617865
+8	0.2	Kabuki syndrome 1	OMIM:147920
+9	0.1	Tuberous sclerosis 1	OMIM:191100

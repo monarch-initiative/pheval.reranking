@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Deafness	OMIM:220400
+2	0.8	Usher syndrome	OMIM:276900
+3	0.7	Stickler syndrome	OMIM:108300
+4	0.6	Branchiootorenal syndrome	OMIM:113650
+5	0.5	Treacher Collins syndrome	OMIM:154500
+6	0.4	CHARGE syndrome	OMIM:214800
+7	0.3	Alport syndrome	OMIM:301050
+8	0.2	Goldenhar syndrome	OMIM:164210
+9	0.1	Waardenburg syndrome	OMIM:193500

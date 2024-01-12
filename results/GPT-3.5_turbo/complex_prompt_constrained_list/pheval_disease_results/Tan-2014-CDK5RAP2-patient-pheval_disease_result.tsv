@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Asthma	OMIM:600373
+2	0.9	Speech Language Delay	OMIM:608716
+3	0.8	Developmental coordination disorder	OMIM:300354
+4	0.75	Sleep apnea, obstructive	OMIM:609856
+5	0.6	Short stature	OMIM:613507
+6	0.5	Delayed bone age	OMIM:100700
+7	0.4	Attention deficit hyperactivity disorder	OMIM:143465

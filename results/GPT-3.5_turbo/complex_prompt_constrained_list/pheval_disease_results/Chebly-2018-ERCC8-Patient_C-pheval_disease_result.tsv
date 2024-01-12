@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.9	Cockayne syndrome	OMIM:216400
+3	0.8	Hallermann-Streiff syndrome	OMIM:234100
+4	0.7	Fanconi anemia	OMIM:227650
+5	0.6	Seckel syndrome	OMIM:210600
+6	0.5	Nance-Horan syndrome	OMIM:302350
+7	0.4	Greig cephalopolysyndactyly syndrome	OMIM:175700
+8	0.3	Branchiooculofacial syndrome	OMIM:113620
+9	0.2	Baraitser-Winter syndrome	OMIM:614583
+10	0.1	Meckel syndrome	OMIM:249000

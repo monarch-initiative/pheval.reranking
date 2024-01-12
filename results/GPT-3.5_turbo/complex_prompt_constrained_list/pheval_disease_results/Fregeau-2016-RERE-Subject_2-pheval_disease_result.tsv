@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pierre Robin syndrome with fetal chondrodysplasia	OMIM:614417
+2	0.8	Feingold syndrome 2	OMIM:614326
+3	0.7	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.6	Langer-Giedion syndrome	OMIM:150230
+5	0.5	Myhre syndrome	OMIM:139210

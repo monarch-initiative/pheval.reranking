@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher disease	OMIM:230800
+2	0.85	Wolman disease	OMIM:278000
+3	0.8	Niemann-Pick disease	OMIM:257200
+4	0.7	Congenital disorder of glycosylation	OMIM:212065
+5	0.6	Meckel syndrome	OMIM:249000
+6	0.5	Severe combined immunodeficiency	OMIM:300300
+7	0.4	Epidermolysis bullosa simplex	OMIM:131900
+8	0.35	GM1 gangliosidosis	OMIM:230500
+9	0.3	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+10	0.25	Severe intellectual disability and progressive spastic paraplegia	OMIM:312920

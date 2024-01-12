@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis	OMIM:146000
+2	0.8	Seizures	OMIM:615498
+3	0.7	Pulmonic stenosis	OMIM:178600
+4	0.6	Depressed nasal bridge	OMIM:609510
+5	0.5	Intellectual disability, severe	OMIM:614222
+6	0.4	Relative macrocephaly	OMIM:132000
+7	0.3	Anteverted nares	OMIM:600330
+8	0.2	Underdeveloped supraorbital ridges	OMIM:602097
+9	0.1	High palate	OMIM:614982
+10	0.05	Sparse hair	OMIM:300036

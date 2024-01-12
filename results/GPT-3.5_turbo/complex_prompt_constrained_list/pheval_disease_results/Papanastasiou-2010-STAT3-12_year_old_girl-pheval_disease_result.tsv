@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgE recurrent infection syndrome	OMIM:147060
+2	0.8	Job syndrome	OMIM:147060
+3	0.7	DOCK8 immunodeficiency syndrome	OMIM:612653
+4	0.6	Atopic dermatitis	OMIM:603165
+5	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.4	Severe combined immunodeficiency	OMIM:601457
+7	0.3	Chédiak-Higashi syndrome	OMIM:214500
+8	0.2	X-linked hyper IgM syndrome	OMIM:308230
+9	0.1	Cyclic neutropenia	OMIM:162800

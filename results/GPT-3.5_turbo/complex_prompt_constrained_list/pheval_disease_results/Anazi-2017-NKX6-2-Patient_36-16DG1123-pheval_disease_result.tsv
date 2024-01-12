@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher Disease	OMIM:312080
+2	0.8	Alexander Disease	OMIM:203450
+3	0.7	Multiple Sulfatase Deficiency	OMIM:272200
+4	0.6	L-2-Hydroxyglutaric Aciduria	OMIM:236792
+5	0.5	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200

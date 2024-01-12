@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Timothy syndrome	OMIM:601005
+2	0.85	Long QT syndrome	OMIM:613688
+3	0.8	Atrioventricular block	OMIM:113900
+4	0.75	Hypertrophic cardiomyopathy	OMIM:192600
+5	0.7	Brugada syndrome	OMIM:601144
+6	0.65	Dilated cardiomyopathy	OMIM:115200
+7	0.6	Left ventricular noncompaction	OMIM:613426
+8	0.55	Sinus bradycardia	OMIM:114000
+9	0.5	Short QT syndrome	OMIM:609620
+10	0.45	Sick sinus syndrome	OMIM:163800

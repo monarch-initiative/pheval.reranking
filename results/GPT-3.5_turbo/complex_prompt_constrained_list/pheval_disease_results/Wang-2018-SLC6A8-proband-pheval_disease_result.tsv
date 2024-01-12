@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Developmental delay	OMIM:601088
+2	0.9	Autism spectrum disorder	OMIM:209850
+3	0.85	Epilepsy	OMIM:613775
+4	0.8	Intellectual disability	OMIM:614549
+5	0.75	Gastrointestinal dysmotility	OMIM:605373
+6	0.7	Inborn errors of metabolism	OMIM:277000
+7	0.65	Speech and language disorder	OMIM:602081
+8	0.6	Brain malformation	OMIM:613606
+9	0.55	Vomiting	OMIM:220100
+10	0.5	Cerebral palsy	OMIM:607460

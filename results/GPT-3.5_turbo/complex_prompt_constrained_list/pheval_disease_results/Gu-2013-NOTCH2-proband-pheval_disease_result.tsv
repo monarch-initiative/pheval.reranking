@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:259440
+2	0.8	Coffin-Lowry Syndrome	OMIM:303600
+3	0.7	Seckel Syndrome	OMIM:210600
+4	0.6	Kabuki Syndrome	OMIM:147920
+5	0.5	Noonan Syndrome	OMIM:163950
+6	0.4	Cole-Carpenter Syndrome	OMIM:112240
+7	0.3	Larsen Syndrome	OMIM:150250
+8	0.2	Mandibuloacral Dysplasia	OMIM:248370
+9	0.1	Cleidocranial Dysplasia	OMIM:119600
+10	0.05	Stickler Syndrome	OMIM:609508

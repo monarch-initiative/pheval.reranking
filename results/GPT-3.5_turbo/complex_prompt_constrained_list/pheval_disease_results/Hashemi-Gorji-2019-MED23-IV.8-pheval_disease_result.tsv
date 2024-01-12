@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.8	Cerebral palsy	OMIM:603513
+3	0.7	Rett syndrome	OMIM:312750
+3	0.7	Angelman syndrome	OMIM:105830
+5	0.6	Prader-Willi syndrome	OMIM:176270
+5	0.6	Smith-Magenis syndrome	OMIM:182290
+7	0.5	Fragile X syndrome	OMIM:300624
+7	0.5	Pitt-Hopkins syndrome	OMIM:610954
+9	0.4	Tourette syndrome	OMIM:137580
+9	0.4	Cockayne syndrome	OMIM:216400

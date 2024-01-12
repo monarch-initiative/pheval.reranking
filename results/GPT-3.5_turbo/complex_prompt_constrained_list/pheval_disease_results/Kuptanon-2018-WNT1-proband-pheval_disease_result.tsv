@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:259440
+2	0.8	Ehlers-Danlos syndrome	OMIM:130000
+3	0.7	Osteoporosis	OMIM:166710
+4	0.6	Cole-Carpenter syndrome	OMIM:112240
+5	0.5	Fragile X syndrome	OMIM:300624

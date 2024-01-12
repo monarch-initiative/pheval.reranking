@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Cornelia de Lange syndrome	OMIM:122470
+3	0.7	Fetal alcohol spectrum disorder	OMIM:617616
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Angelman syndrome	OMIM:105830
+5	0.6	Prader-Willi syndrome	OMIM:176270
+7	0.5	Cri-du-chat syndrome	OMIM:123450
+7	0.5	17q21.31 microdeletion syndrome	OMIM:613946
+9	0.4	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+9	0.4	Kabuki syndrome	OMIM:147920

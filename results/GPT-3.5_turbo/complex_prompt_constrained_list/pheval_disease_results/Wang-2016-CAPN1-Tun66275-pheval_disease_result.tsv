@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.8	Spinocerebellar ataxia	OMIM:164400
+3	0.7	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.6	Multiple sclerosis	OMIM:126200
+5	0.5	Cerebellar ataxia	OMIM:607677
+6	0.4	Hereditary spastic paraplegia	OMIM:182601
+7	0.3	Parkinson's disease	OMIM:168600
+8	0.2	Spinal muscular atrophy	OMIM:253300
+9	0.1	Charcot-Marie-Tooth disease	OMIM:118220
+10	0.05	Multiple system atrophy	OMIM:146500

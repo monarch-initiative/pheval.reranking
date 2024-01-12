@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.85	Autoimmune Hemolytic Anemia	OMIM:235700
+3	0.8	G6PD Deficiency	OMIM:305900
+3	0.8	Hepatitis	OMIM:140200
+5	0.75	Thalassemia	OMIM:141800
+6	0.7	Paroxysmal Nocturnal Hemoglobinuria	OMIM:311770
+6	0.7	Gilbert Syndrome	OMIM:143500
+8	0.65	Wilson Disease	OMIM:277900
+9	0.6	Hemochromatosis	OMIM:235200
+9	0.6	Malaria	OMIM:611162

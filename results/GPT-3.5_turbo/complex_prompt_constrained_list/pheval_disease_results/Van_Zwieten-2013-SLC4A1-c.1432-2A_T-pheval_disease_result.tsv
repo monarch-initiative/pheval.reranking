@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spherocytosis	OMIM:182900
+2	0.85	Autoimmune hemolytic anemia	OMIM:614868
+3	0.8	Pyruvate kinase deficiency	OMIM:266200
+4	0.7	G6PD deficiency	OMIM:305900
+5	0.6	Hereditary elliptocytosis	OMIM:611804
+6	0.5	Paroxysmal nocturnal hemoglobinuria	OMIM:300818
+7	0.4	Congenital dyserythropoietic anemia	OMIM:224120
+8	0.3	Iron-deficiency anemia	OMIM:206100
+9	0.2	Thalassemia	OMIM:187550
+10	0.1	Megaloblastic anemia	OMIM:261100

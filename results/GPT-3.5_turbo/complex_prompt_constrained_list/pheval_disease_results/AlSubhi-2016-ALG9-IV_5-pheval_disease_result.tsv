@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130050
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Larsen syndrome	OMIM:150250
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Klippel-Feil syndrome	OMIM:118100
+6	0.4	Nail-patella syndrome	OMIM:161200
+7	0.3	Trisomy 18	OMIM:190685
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Prader-Willi syndrome	OMIM:176270
+10	0.05	WAGR syndrome	OMIM:194072

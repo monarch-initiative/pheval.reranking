@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dystonia	OMIM:128230
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Mitochondrial Encephalopathy	OMIM:545000
+4	0.6	Mitochondrial Myopathy	OMIM:609560
+5	0.5	Metachromatic Leukodystrophy	OMIM:250100
+6	0.4	Friedreich Ataxia	OMIM:229300
+7	0.3	Niemann-Pick Disease	OMIM:257200
+8	0.2	Spinal Muscle Atrophy	OMIM:253300
+9	0.1	Alexander Disease	OMIM:203450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Prader-Willi syndrome	OMIM:176270
+3	0.7	Williams-Beuren syndrome	OMIM:194050
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.5	Smith-Magenis syndrome	OMIM:182290
+6	0.4	18p deletion syndrome	OMIM:146390
+7	0.3	Kabuki syndrome	OMIM:147920
+8	0.2	Phelan-McDermid syndrome	OMIM:606232
+9	0.1	3q29 microdeletion syndrome	OMIM:609425
+10	0.05	Rett syndrome	OMIM:312750

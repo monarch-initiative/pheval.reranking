@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Antiphospholipid syndrome	OMIM:107480
+2	0.9	Systemic lupus erythematosus	OMIM:152700
+3	0.8	Vasculitis	OMIM:147000
+4	0.7	Mixed connective tissue disease	OMIM:159990
+5	0.6	Temporal arteritis	OMIM:187360
+6	0.5	Hypertrophic cardiomyopathy	OMIM:192600
+7	0.4	Vasospasm	OMIM:192755
+8	0.3	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	OMIM:125310
+9	0.2	Familial cold autoinflammatory syndrome	OMIM:120100
+10	0.1	Hughes-Stovin syndrome	OMIM:201530

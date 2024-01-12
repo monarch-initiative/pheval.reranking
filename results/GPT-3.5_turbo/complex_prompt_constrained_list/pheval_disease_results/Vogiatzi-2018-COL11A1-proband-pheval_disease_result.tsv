@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130000
+2	0.85	Osteogenesis imperfecta	OMIM:166200
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.75	Stickler syndrome	OMIM:108300
+5	0.7	Glaucoma	OMIM:137760
+6	0.65	Myopia	OMIM:160700
+7	0.6	Achondroplasia	OMIM:100800
+8	0.55	Hypermobility syndrome	OMIM:147900
+9	0.5	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+10	0.45	Multiple epiphyseal dysplasia	OMIM:132400

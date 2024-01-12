@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.85	Wiedemann-Steiner syndrome	OMIM:605130
+3	0.8	Noonan syndrome	OMIM:163950
+4	0.75	Fetal alcohol syndrome	OMIM:600623
+5	0.7	Charge syndrome	OMIM:214800
+6	0.65	Fragile X syndrome	OMIM:300624
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Prader-Willi syndrome	OMIM:176270
+10	0.45	22q11.2 deletion syndrome	OMIM:192430

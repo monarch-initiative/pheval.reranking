@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 10	OMIM:604187
+2	0.8	Hereditary sensory and autonomic neuropathy type II	OMIM:201300
+3	0.7	Dysferlinopathy	OMIM:603553
+4	0.6	Hereditary sensory and autonomic neuropathy type IV	OMIM:256800
+5	0.5	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+6	0.4	Spastic paraplegia 11	OMIM:604360
+7	0.3	Charcot-Marie-Tooth disease type 2A2A	OMIM:609260
+8	0.2	SPG15	OMIM:270700
+9	0.1	Hereditary motor sensory neuropathy type I	OMIM:118200
+10	0.05	Hereditary sensory neuropathy type IE	OMIM:617120

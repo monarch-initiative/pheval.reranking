@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Oculocutaneous albinism	OMIM:203200
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Albinism, yellow mutant type	OMIM:303100
+5	0.5	Sanjad-Sakati syndrome	OMIM:241410
+6	0.4	Ehlers-Danlos syndrome, autosomal recessive, cardiac valvular form	OMIM:225320
+7	0.3	Alagille syndrome 2	OMIM:605902
+8	0.2	Coffin-Lowry syndrome	OMIM:303600
+9	0.1	Kabuki syndrome 1	OMIM:147920
+10	0.05	Williams-Beuren syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Type VIIa	OMIM:130000
+2	0.8	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.7	Aicardi Syndrome	OMIM:304050
+4	0.6	Marfan Syndrome	OMIM:154700
+5	0.5	Ehlers-Danlos Syndrome, Classic Type	OMIM:130080
+6	0.4	Turner Syndrome	OMIM:313850
+7	0.3	Williams Syndrome	OMIM:194050
+8	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Goldenhar Syndrome	OMIM:164210
+10	0.05	Cockayne Syndrome, Type II	OMIM:133540

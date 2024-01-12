@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130050
+3	0.7	Osteogenesis imperfecta	OMIM:166200
+4	0.6	Achondroplasia	OMIM:100800
+5	0.5	Stickler syndrome	OMIM:108300
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.2	Apert syndrome	OMIM:101200
+9	0.1	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+10	0.05	Aarskog-Scott syndrome	OMIM:305400

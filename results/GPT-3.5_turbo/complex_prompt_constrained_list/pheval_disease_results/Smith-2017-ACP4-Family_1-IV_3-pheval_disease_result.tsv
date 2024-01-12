@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Amelogenesis imperfecta	OMIM:104500
+2	0.9	Tooth agenesis	OMIM:189500
+3	0.8	Taurodontism	OMIM:272480
+4	0.7	Amelogenesis imperfecta, type I	OMIM:104510
+5	0.6	Amelogenesis imperfecta, type II	OMIM:104530
+6	0.5	Amelogenesis imperfecta, type III	OMIM:130900
+7	0.4	Amelogenesis imperfecta, type IV	OMIM:104600
+8	0.3	Amelogenesis imperfecta, type IA	OMIM:104510
+9	0.2	Amelogenesis imperfecta, type IB	OMIM:104530
+10	0.1	Amelogenesis imperfecta, type IC	OMIM:104520

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.8	Rett syndrome	OMIM:312750
+4	0.7	Aicardi syndrome	OMIM:304050
+5	0.65	Dravet syndrome	OMIM:607208
+6	0.6	Bardet-Biedl syndrome	OMIM:209900
+7	0.55	Kabuki syndrome	OMIM:147920
+8	0.5	Aarskog-Scott syndrome	OMIM:305400
+9	0.45	Sotos syndrome	OMIM:117550
+10	0.4	Phelan-McDermid syndrome	OMIM:606232

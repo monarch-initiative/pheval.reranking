@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome	OMIM:122470
+2	0.93	Waardenburg syndrome	OMIM:277700
+3	0.9	Saethre-Chotzen syndrome	OMIM:101200
+4	0.88	Fetal alcohol syndrome	OMIM:134200
+5	0.85	CHARGE syndrome	OMIM:214800
+6	0.83	Craniofrontonasal dysplasia	OMIM:304110
+7	0.8	Goldenhar syndrome	OMIM:164210
+8	0.78	Apert syndrome	OMIM:101200
+9	0.75	Treacher Collins syndrome	OMIM:154500
+10	0.72	Pfeiffer syndrome	OMIM:101600

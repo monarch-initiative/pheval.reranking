@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Williams-Beuren syndrome	OMIM:194050
+3	0.8	Cornelia de Lange syndrome	OMIM:122470
+4	0.75	Fragile X syndrome	OMIM:300624
+5	0.7	Prader-Willi syndrome	OMIM:176270
+6	0.65	Rett syndrome	OMIM:312750
+7	0.6	Cri du chat syndrome	OMIM:123450
+8	0.55	Kabuki syndrome	OMIM:147920
+9	0.5	Noonan syndrome	OMIM:163950
+10	0.45	Prune belly syndrome	OMIM:100100

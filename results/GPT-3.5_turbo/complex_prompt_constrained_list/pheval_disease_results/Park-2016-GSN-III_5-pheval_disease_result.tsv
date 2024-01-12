@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.8	Charcot-Marie-Tooth disease	OMIM:118450
+3	0.7	Familial dysautonomia	OMIM:223900
+4	0.6	Ehlers-Danlos syndrome	OMIM:130000
+5	0.5	Multiple sclerosis	OMIM:126200
+6	0.4	Sjogren-Larsson syndrome	OMIM:270200
+7	0.3	Refsum disease	OMIM:266500
+8	0.2	Alkaptonuria	OMIM:203500
+9	0.1	Autosomal dominant spinal muscular atrophy	OMIM:182810
+10	0.05	Metachromatic leukodystrophy	OMIM:250100

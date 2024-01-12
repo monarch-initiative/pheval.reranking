@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cantu syndrome	OMIM:614076
+2	0.8	Ectodermal dysplasia 10A, hypohidrotic/hair/tooth type, autosomal dominant	OMIM:129490
+3	0.7	Daniel syndrome	OMIM:636514
+4	0.6	Barber-Say syndrome	OMIM:209885
+5	0.5	Werner syndrome	OMIM:277700
+6	0.4	Dursun syndrome	OMIM:609528
+7	0.3	PODXL2-related syndrome	OMIM:617730
+8	0.2	Microphthalmia, syndromic 7	OMIM:614859
+9	0.1	Frey syndrome	OMIM:134400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 1	OMIM:236100
+2	0.8	Hydrocephalus	OMIM:236600
+3	0.7	Holoprosencephaly 2	OMIM:157170
+3	0.7	Hydrocephalus 4	OMIM:615219
+5	0.6	Holoprosencephaly 3	OMIM:142945
+5	0.6	Hydrocephalus 3	OMIM:236640
+7	0.5	Holoprosencephaly 7	OMIM:610828
+8	0.4	Holoprosencephaly 5	OMIM:609637
+9	0.3	Holoprosencephaly 4	OMIM:142946
+9	0.3	Holoprosencephaly 9	OMIM:610829

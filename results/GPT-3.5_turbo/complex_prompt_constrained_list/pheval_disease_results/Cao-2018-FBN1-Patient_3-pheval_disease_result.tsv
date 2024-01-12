@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130050
+3	0.8	Stickler syndrome	OMIM:108300
+4	0.75	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+5	0.7	Lowe syndrome	OMIM:309000

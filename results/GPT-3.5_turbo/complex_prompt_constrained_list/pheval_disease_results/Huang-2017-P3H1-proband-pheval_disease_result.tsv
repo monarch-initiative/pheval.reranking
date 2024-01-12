@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diastrophic dysplasia	OMIM:222600
+2	0.8	Robinow syndrome, autosomal recessive	OMIM:268310
+3	0.7	Hypochondroplasia	OMIM:146000
+4	0.6	Campomelic dysplasia	OMIM:114290
+5	0.5	Achondrogenesis type 1A	OMIM:200600
+6	0.4	Osteogenesis imperfecta type III	OMIM:259420
+7	0.3	Multiple epiphyseal dysplasia 4	OMIM:226900
+8	0.2	Langer mesomelic dysplasia	OMIM:249700
+9	0.1	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500

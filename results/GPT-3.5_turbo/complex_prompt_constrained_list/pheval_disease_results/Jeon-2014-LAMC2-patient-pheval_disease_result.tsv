@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa	OMIM:226700
+2	0.8	Pemphigus vulgaris	OMIM:169610
+3	0.7	Toxic epidermal necrolysis	OMIM:608579
+4	0.6	Bullous pemphigoid	OMIM:113811
+5	0.5	Stevens-Johnson syndrome	OMIM:608579

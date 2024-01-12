@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Turner Syndrome	OMIM:313850
+2	0.8	Klinefelter Syndrome	OMIM:148800
+3	0.7	Noonan Syndrome	OMIM:163950
+4	0.6	Marfan Syndrome	OMIM:154700
+5	0.5	Stickler Syndrome	OMIM:108300
+6	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650
+7	0.3	Aarskog-Scott Syndrome	OMIM:305400
+8	0.2	Williams Syndrome	OMIM:194050
+9	0.1	Russell-Silver Syndrome	OMIM:180860
+10	0.05	Smith-Lemli-Opitz Syndrome	OMIM:270400

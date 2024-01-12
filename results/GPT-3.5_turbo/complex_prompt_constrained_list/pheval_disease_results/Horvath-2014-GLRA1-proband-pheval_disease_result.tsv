@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary ciliary dyskinesia	OMIM:244400
+2	0.8	Renal pelvic dilatation	OMIM:611584
+3	0.7	Hypertonia	OMIM:602936
+4	0.6	Tension pneumothorax	OMIM:277210
+5	0.5	Neurodevelopmental disorder	OMIM:614019

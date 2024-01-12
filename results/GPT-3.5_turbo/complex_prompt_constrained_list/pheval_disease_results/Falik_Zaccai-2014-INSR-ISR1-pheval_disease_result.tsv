@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cystic fibrosis	OMIM:219700
+2	0.8	Polycystic kidney disease	OMIM:613095
+3	0.7	Turner syndrome	OMIM:314550
+4	0.6	Congenital adrenal hyperplasia	OMIM:201910
+5	0.5	Prader-Willi syndrome	OMIM:176270
+6	0.4	Mucopolysaccharidosis type II	OMIM:309900
+7	0.3	Cushing syndrome	OMIM:219080
+8	0.2	Congenital rubella syndrome	OMIM:268350
+9	0.1	Beckwith-Wiedemann syndrome	OMIM:130650

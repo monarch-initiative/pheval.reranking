@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Joubert syndrome	OMIM:213300
+3	0.7	Leber congenital amaurosis	OMIM:204000
+4	0.6	Pontocerebellar hypoplasia	OMIM:607596
+5	0.5	Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	OMIM:152950
+6	0.4	Primary autosomal recessive microcephaly	OMIM:251200
+7	0.3	Seckel syndrome	OMIM:210600
+8	0.2	Aicardi syndrome	OMIM:304050
+9	0.1	X-linked intellectual disability	OMIM:300498

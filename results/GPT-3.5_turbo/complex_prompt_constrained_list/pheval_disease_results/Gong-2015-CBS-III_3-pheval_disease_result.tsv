@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome	OMIM:130050
+3	0.7	Lhermitte-Duclos disease	OMIM:158350
+4	0.6	Neurofibromatosis type 1	OMIM:162200
+5	0.5	Stickler syndrome	OMIM:108300

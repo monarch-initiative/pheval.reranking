@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital nephrotic syndrome	OMIM:609049
+2	0.85	Cerebral atrophy	OMIM:617520
+3	0.8	Microcephaly	OMIM:617102
+4	0.75	Congenital diaphragmatic hernia	OMIM: 601027
+5	0.7	Hiatus hernia	OMIM:614751
+6	0.65	Hypertelorism	OMIM:145410
+7	0.6	Low-set ears	OMIM:130650
+8	0.55	Simplified gyral pattern	OMIM:614029
+9	0.5	Focal segmental glomerulosclerosis	OMIM:603278
+10	0.45	Volvulus	OMIM:192350

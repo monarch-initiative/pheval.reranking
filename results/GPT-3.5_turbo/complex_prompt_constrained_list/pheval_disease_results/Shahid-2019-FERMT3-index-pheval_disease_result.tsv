@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic lymphocytic leukemia	OMIM:151400
+2	0.8	Hodgkin lymphoma	OMIM:605027
+3	0.7	Lymphoma	OMIM:605027
+4	0.6	Felty syndrome	OMIM:134750
+5	0.5	Common variable immunodeficiency	OMIM:240500
+6	0.4	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.3	Autoimmune lymphoproliferative syndrome	OMIM:601859
+8	0.2	Hyper-IgM syndrome	OMIM:308230
+9	0.1	Griscelli syndrome	OMIM:214450
+10	0.05	Leukocyte adhesion deficiency	OMIM:116920

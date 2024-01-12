@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kabuki syndrome 1	OMIM:147920
+2	0.85	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.8	Floating-Harbor syndrome	OMIM:136140
+4	0.78	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.75	Opitz G/BBB syndrome type 1	OMIM:300000
+6	0.7	Saethre-Chotzen syndrome	OMIM:101400
+7	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.6	Aarskog-Scott syndrome	OMIM:305400
+9	0.55	DiGeorge syndrome	OMIM:188400
+10	0.5	Noonan syndrome 1	OMIM:163950

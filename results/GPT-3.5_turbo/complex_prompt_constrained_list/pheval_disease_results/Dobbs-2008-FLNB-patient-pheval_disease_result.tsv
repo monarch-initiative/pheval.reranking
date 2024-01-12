@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome type 2	OMIM:614529
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.7	Spondylocostal dysostosis 1, autosomal recessive	OMIM:277300
+4	0.6	CHARGE syndrome	OMIM:214800
+5	0.5	Distal arthrogryposis type 2A	OMIM:193700
+6	0.4	Goldenhar syndrome	OMIM:164210
+7	0.3	Turner syndrome	OMIM:313850
+8	0.2	Holt-Oram syndrome	OMIM:142900
+9	0.1	Pierre Robin sequence with fetal chondrodysplasia	OMIM:277910
+10	0.05	Pena-Shokeir syndrome type 1	OMIM:208150

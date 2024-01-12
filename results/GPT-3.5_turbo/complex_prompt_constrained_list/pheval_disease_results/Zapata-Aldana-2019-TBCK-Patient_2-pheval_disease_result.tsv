@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	16p11.2 deletion syndrome	OMIM:614671
+2	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.7	Angelman syndrome	OMIM:105830
+4	0.7	Cri-du-chat syndrome	OMIM:123450
+6	0.6	Rett syndrome	OMIM:312750
+6	0.6	Prune belly syndrome	OMIM:100100
+8	0.5	Fragile X syndrome	OMIM:300624
+8	0.5	Kabuki syndrome	OMIM:147920
+10	0.4	Williams syndrome	OMIM:194050

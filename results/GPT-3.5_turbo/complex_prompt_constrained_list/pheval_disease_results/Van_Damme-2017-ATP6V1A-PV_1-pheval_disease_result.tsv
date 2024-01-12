@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan syndrome	OMIM:154700
+2	0.9	Ehlers-Danlos syndrome	OMIM:130000
+3	0.8	Congenital contractural arachnodactyly	OMIM:121050
+4	0.7	Lujan-Fryns syndrome	OMIM:309520
+5	0.6	Neurofibromatosis type 1	OMIM:162200
+6	0.5	Hyper IgM syndrome	OMIM:308230
+7	0.4	Williams syndrome	OMIM:194050
+7	0.4	Kabuki syndrome	OMIM:147920
+9	0.3	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.2	Laron syndrome	OMIM:262500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Microcephaly	OMIM:251200
+2	0.95	Intellectual disability	OMIM:614607
+3	0.9	Autism	OMIM:209850
+4	0.85	Delayed speech and language development	OMIM:608614
+5	0.8	Short stature	OMIM:604271
+6	0.75	Hyperactivity	OMIM:143465
+7	0.7	Delayed ability to walk	OMIM:609226
+8	0.65	Ptosis	OMIM:178300
+9	0.6	Myopia	OMIM:160740
+10	0.55	Bilateral camptodactyly	OMIM:114300

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.7	Limb-girdle muscular dystrophy	OMIM:253600
+4	0.6	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.5	Spinal muscular atrophy	OMIM:253300
+6	0.4	Polymyositis	OMIM:160750
+7	0.3	Inclusion body myositis	OMIM:147421
+8	0.2	Amyotrophic lateral sclerosis	OMIM:105400
+9	0.1	Myotonic dystrophy	OMIM:160900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's Disease	OMIM:168600
+2	0.8	Spastic Paraplegia 4	OMIM:182601
+3	0.7	Friedreich Ataxia	OMIM:229300
+3	0.7	Huntington Disease	OMIM:143100
+5	0.6	Spinocerebellar Ataxia 2	OMIM:183090
+5	0.6	Spinocerebellar Ataxia 7	OMIM:164500
+5	0.6	Spinocerebellar Ataxia 3	OMIM:109150
+8	0.5	Fragile X Syndrome	OMIM:300624
+8	0.5	Wilson Disease	OMIM:277900
+8	0.5	Spinocerebellar Ataxia 1	OMIM:164400

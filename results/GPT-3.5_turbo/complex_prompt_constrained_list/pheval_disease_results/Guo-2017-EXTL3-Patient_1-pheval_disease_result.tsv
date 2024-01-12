@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hemangioma	OMIM:235000
+2	0.8	Muscular hypotonia	OMIM:603353
+3	0.7	Spinal cord compression	OMIM:183000
+4	0.6	Pneumonia	OMIM:613261
+5	0.5	Microcephaly	OMIM:251290
+6	0.4	Muscle weakness	OMIM:160600
+7	0.3	Hepatomegaly	OMIM:147255
+8	0.2	Failure to thrive	OMIM:610978
+9	0.1	Cognitive impairment	OMIM:614501

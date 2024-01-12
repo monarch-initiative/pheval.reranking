@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation type Ia	OMIM:212065
+2	0.8	Muscular dystrophy, congenital, megaconial type	OMIM:602541
+3	0.7	Congenital disorder of glycosylation type Id	OMIM:601110
+4	0.6	Congenital disorder of glycosylation type Ix	OMIM:615597
+5	0.5	Congenital disorder of glycosylation type If	OMIM:612015
+6	0.4	Mitochondrial complex I deficiency	OMIM:252010
+7	0.3	Congenital disorder of glycosylation type Ii	OMIM:607906
+8	0.2	Congenital disorder of glycosylation type Ik	OMIM:608540
+9	0.1	Congenital disorder of glycosylation type Ie	OMIM:608799

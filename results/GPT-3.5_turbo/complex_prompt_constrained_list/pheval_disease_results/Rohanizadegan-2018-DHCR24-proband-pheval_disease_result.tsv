@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.92	CHARGE syndrome	OMIM:214800
+3	0.9	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+4	0.88	Cornelia de Lange syndrome	OMIM:122470
+5	0.85	Kabuki syndrome	OMIM:147920
+6	0.8	RASopathies	OMIM:164757
+7	0.78	Sotos syndrome	OMIM:117550

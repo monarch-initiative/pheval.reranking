@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital nephrotic syndrome	OMIM:610725
+2	0.85	Neonatal hypoproteinemia	OMIM:235300
+3	0.8	Proteinuria	OMIM:173100
+4	0.7	Hypoalbuminemia	OMIM:307200
+5	0.6	Hypercholesterolemia	OMIM:143890

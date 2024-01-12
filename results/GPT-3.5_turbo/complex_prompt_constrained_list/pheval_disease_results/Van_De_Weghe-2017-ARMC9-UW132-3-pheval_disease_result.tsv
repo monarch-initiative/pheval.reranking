@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Cerebellar ataxia	OMIM:118450
+3	0.7	Microcephaly	OMIM:604804
+4	0.6	Epileptic encephalopathy	OMIM:615473
+5	0.5	Cerebellar hypoplasia	OMIM:213000
+6	0.4	Severe global developmental delay	OMIM:607041
+7	0.3	Cerebellar vermis hypoplasia	OMIM:601706
+8	0.2	Spinocerebellar ataxia	OMIM:164400
+9	0.1	Pontocerebellar hypoplasia	OMIM:607596
+10	0.05	Congenital cerebellar hypoplasia	OMIM:615528

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Netherton syndrome	OMIM:256500
+2	0.8	Ichthyosis, congenital, autosomal recessive 7	OMIM:609579
+3	0.7	Harlequin ichthyosis	OMIM:242500
+4	0.6	Ectodermal dysplasia 9, hair/nail type	OMIM:614930
+5	0.5	Oculocutaneous albinism, type I	OMIM:203100
+6	0.4	Alopecia universalis	OMIM:203655
+7	0.3	Trichomegaly	OMIM:190330
+8	0.2	Trichotillomania	OMIM:191400
+9	0.1	Congenital ectodermal dysplasia	OMIM:129490

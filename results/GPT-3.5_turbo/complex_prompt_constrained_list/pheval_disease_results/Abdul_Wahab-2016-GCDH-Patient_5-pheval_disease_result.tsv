@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Macrocephaly	OMIM:613849
+1	1.0	Cerebral atrophy	OMIM:116920
+1	1.0	Subdural hemorrhage	OMIM:607259
+1	1.0	Glutaric aciduria	OMIM:231670
+1	1.0	Dystonia	OMIM:128230
+6	0.9	Macrocephaly	OMIM:604387
+6	0.9	Neuronal ceroid lipofuscinosis	OMIM:204200
+6	0.9	Cockayne syndrome	OMIM:133540
+6	0.9	Syndromic sensorineural deafness	OMIM:610212
+6	0.9	Alkaptonuria	OMIM:203500

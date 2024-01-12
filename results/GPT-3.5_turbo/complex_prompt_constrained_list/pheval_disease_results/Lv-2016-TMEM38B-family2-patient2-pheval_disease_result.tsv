@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Paget disease of bone	OMIM:602080
+3	0.7	Osteoporosis	OMIM:166710
+4	0.6	Hyperparathyroidism	OMIM:145000
+5	0.5	Osteopetrosis	OMIM:259700
+6	0.4	Multiple myeloma	OMIM:254500
+7	0.3	Hypophosphatasia	OMIM:241500
+8	0.2	Clarkson disease	OMIM:609162
+9	0.1	Osteomalacia	OMIM:259100

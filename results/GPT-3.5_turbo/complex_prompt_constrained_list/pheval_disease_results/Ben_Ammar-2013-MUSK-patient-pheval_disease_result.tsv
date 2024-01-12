@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital myasthenic syndrome	OMIM:601462
+2	0.8	Muscular dystrophy, congenital, with cataracts and intellectual disability	OMIM:617404
+3	0.7	Congenital myasthenic syndrome with episodic apnea	OMIM:614198
+4	0.6	Congenital fiber-type disproportion	OMIM:255310
+5	0.5	Congenital muscular dystrophy with intellectual disability	OMIM:613180
+6	0.4	Congenital myasthenic syndrome with ocular involvement	OMIM:615120
+7	0.3	Limb-girdle muscular dystrophy	OMIM:253600
+8	0.2	Myotonic dystrophy	OMIM:160900
+9	0.1	Amyotrophic lateral sclerosis	OMIM:105400

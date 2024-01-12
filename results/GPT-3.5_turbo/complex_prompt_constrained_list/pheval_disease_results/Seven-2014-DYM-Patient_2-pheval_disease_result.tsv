@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schwartz-Jampel syndrome	OMIM:255800
+2	0.8	Robinow syndrome	OMIM:268310
+3	0.7	Stickler syndrome	OMIM:108300
+4	0.6	Brachydactyly	OMIM:113200
+5	0.5	Crouzon syndrome	OMIM:123500
+6	0.4	Acromesomelic dysplasia	OMIM:201250
+7	0.3	Desbuquois dysplasia	OMIM:251450
+8	0.2	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.1	Diastrophic dysplasia	OMIM:222600
+10	0.05	Campomelic dysplasia	OMIM:114290

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Tuberous sclerosis	OMIM:191100
+2	0.9	Hermansky-Pudlak syndrome	OMIM:203300
+3	0.8	Fanconi anemia	OMIM:227650
+4	0.7	Von Hippel-Lindau syndrome	OMIM:193300
+5	0.6	Alport syndrome	OMIM:301050
+6	0.5	Cronkhite-Canada syndrome	OMIM:175500
+7	0.4	Neurofibromatosis type 1	OMIM:162200
+8	0.3	Cowden syndrome	OMIM:158350
+9	0.2	Ataxia-telangiectasia	OMIM:208900
+10	0.1	Tourette syndrome	OMIM:137580

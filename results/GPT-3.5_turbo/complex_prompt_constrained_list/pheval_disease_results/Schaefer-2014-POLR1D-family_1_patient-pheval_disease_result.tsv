@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Down syndrome	OMIM:190685
+2	0.8	Treacher Collins syndrome	OMIM:154500
+3	0.7	Stickler syndrome	OMIM:108300
+4	0.6	Crouzon syndrome	OMIM:123500
+5	0.5	CHARGE syndrome	OMIM:214800
+6	0.4	Noonan syndrome	OMIM:163950
+7	0.3	Kabuki syndrome	OMIM:147920
+8	0.2	Goldenhar syndrome	OMIM:164210
+9	0.1	Pierre Robin sequence	OMIM:261800
+10	0.05	Marfan syndrome	OMIM:154700

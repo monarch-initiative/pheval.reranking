@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	GM1 gangliosidosis	OMIM:230500
+2	0.8	Niemann-Pick disease type A	OMIM:257200
+3	0.75	Mucopolysaccharidosis type I	OMIM:607014
+4	0.7	Tay-Sachs disease	OMIM:272800
+4	0.7	Mucolipidosis II alpha/beta	OMIM:252500
+6	0.65	Mucopolysaccharidosis type II	OMIM:309900
+7	0.6	Sanfilippo syndrome type A	OMIM:252900
+8	0.55	Niemann-Pick disease type C	OMIM:257220
+9	0.5	Mucolipidosis III alpha/beta	OMIM:252600
+10	0.45	Mucolipidosis IV	OMIM:252650

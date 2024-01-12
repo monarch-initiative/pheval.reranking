@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.85	Pallister-Killian syndrome	OMIM:601803
+3	0.8	Mowat-Wilson syndrome	OMIM:235730
+4	0.75	Aicardi-Goutières syndrome 1	OMIM:225750
+5	0.7	Peters anomaly	OMIM:604229
+6	0.65	Ritscher-Schinzel syndrome 2	OMIM:220210
+7	0.6	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.55	Zellweger syndrome	OMIM:214100
+9	0.5	Trisomy 13	OMIM:190685
+10	0.45	Citrullinemia type I	OMIM:215700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome	OMIM:117550
+2	0.8	Microcephaly	OMIM:251200
+3	0.7	Cockayne syndrome	OMIM:133540
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Floating-Harbor syndrome	OMIM:136140
+6	0.4	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.3	Marshall-Smith syndrome	OMIM:602535
+8	0.2	Seckel syndrome	OMIM:210600
+9	0.1	Otopalatodigital syndrome	OMIM:311300
+10	0.05	Fryns syndrome	OMIM:229850

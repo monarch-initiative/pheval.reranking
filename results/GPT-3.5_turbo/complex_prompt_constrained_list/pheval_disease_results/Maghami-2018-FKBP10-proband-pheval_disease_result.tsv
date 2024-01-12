@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.8	Gaucher Disease	OMIM:230800
+3	0.7	Wilson Disease	OMIM:277900
+4	0.6	Hypophosphatasia	OMIM:241500
+5	0.5	Alkaptonuria	OMIM:203500
+6	0.4	Mucopolysaccharidosis Type II	OMIM:309900
+7	0.3	Mucopolysaccharidosis Type IV	OMIM:253000
+8	0.2	Hypophosphatemic Rickets	OMIM:300554
+9	0.1	Glycogen Storage Disease Type II	OMIM:232300
+10	0.05	Mucolipidosis Type IV	OMIM:252650

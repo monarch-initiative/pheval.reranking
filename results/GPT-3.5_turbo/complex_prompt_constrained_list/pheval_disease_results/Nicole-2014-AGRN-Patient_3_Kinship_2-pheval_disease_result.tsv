@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myasthenic Syndrome	OMIM:609284
+2	0.8	Spinal Muscular Atrophy	OMIM:253300
+2	0.8	Myasthenia Gravis	OMIM:254200
+4	0.7	Myotonic Dystrophy	OMIM:160900
+4	0.7	Motor Neuron Disease	OMIM:105400
+6	0.6	Limb-Girdle Muscular Dystrophy	OMIM:253700
+6	0.6	Duchenne Muscular Dystrophy	OMIM:310200
+8	0.5	Fascioscapulohumeral Muscular Dystrophy	OMIM:158900
+8	0.5	Congenital Muscular Dystrophy	OMIM:607423
+10	0.4	Amyotrophic Lateral Sclerosis	OMIM:105400

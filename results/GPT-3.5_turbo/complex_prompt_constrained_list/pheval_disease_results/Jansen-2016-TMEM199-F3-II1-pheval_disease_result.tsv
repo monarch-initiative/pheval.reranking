@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital disorder of glycosylation, type Ik	OMIM:615120
+2	0.9	Congenital disorder of glycosylation, type Ia	OMIM:212065
+3	0.85	Wilson disease	OMIM:277900
+4	0.8	Hypercholesterolemia	OMIM:143890
+5	0.75	Infantile Refsum disease	OMIM:266510
+6	0.7	Alagille syndrome	OMIM:118450
+7	0.65	Mucolipidosis III Gamma	OMIM:252605
+8	0.6	Alpha-1 antitrypsin deficiency	OMIM:613490
+9	0.55	Hurler syndrome	OMIM:607014
+10	0.5	Congenital disorder of glycosylation, type Im	OMIM:607143

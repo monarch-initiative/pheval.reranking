@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Syndromic X-linked intellectual disability	OMIM:300423
+2	0.8	Phenylketonuria	OMIM:261600
+3	0.7	Angelman syndrome	OMIM:105830
+3	0.7	Down syndrome	OMIM:190685
+5	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.6	Schizophrenia	OMIM:181500
+7	0.5	Prader-Willi syndrome	OMIM:176270
+7	0.5	Fragile X syndrome	OMIM:300624
+9	0.4	Rett syndrome	OMIM:312750
+9	0.4	Cri-du-chat syndrome	OMIM:123450

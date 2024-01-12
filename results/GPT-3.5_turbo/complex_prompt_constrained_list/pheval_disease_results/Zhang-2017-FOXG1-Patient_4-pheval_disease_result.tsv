@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.8	Prader-Willi syndrome	OMIM:176270
+3	0.7	Autism spectrum disorder	OMIM:209850
+4	0.6	Rett syndrome	OMIM:312750
+5	0.5	Dravet syndrome	OMIM:607208
+6	0.4	Fragile X syndrome	OMIM:300624
+7	0.3	Lennox-Gastaut syndrome	OMIM:606369
+8	0.2	Tuberous sclerosis	OMIM:191100

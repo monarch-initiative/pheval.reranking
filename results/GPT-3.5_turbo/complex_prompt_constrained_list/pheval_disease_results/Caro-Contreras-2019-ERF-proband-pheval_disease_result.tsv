@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Down syndrome	OMIM:190685
+2	0.8	Williams-Beuren syndrome	OMIM:194050
+3	0.7	Noonan syndrome	OMIM:163950
+4	0.6	Treacher Collins syndrome	OMIM:154500
+5	0.5	22q11.2 deletion syndrome	OMIM:192430

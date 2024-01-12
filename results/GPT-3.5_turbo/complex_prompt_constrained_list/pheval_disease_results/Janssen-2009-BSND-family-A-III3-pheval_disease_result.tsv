@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gitelman syndrome	OMIM:263800
+2	0.85	Bartter syndrome, type 1	OMIM:601678
+3	0.8	Jervell and Lange-Nielsen syndrome	OMIM:220400
+4	0.75	Cystic fibrosis	OMIM:219700
+5	0.7	Lowe syndrome	OMIM:309000
+6	0.65	Bartter syndrome, type 2	OMIM:241200
+7	0.6	Bartter syndrome, type 3	OMIM:607364
+8	0.55	Distal renal tubular acidosis	OMIM:267300
+9	0.5	Familial hypokalemic periodic paralysis	OMIM:170500
+10	0.45	Liddle syndrome	OMIM:177200

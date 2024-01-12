@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alagille syndrome	OMIM:118450
+2	0.8	Cerebrooculofacioskeletal syndrome	OMIM:214800
+3	0.75	Zellweger syndrome	OMIM:214100
+4	0.7	Trisomy 21	OMIM:190685
+4	0.7	Down syndrome	OMIM:190685
+6	0.65	Cockayne syndrome	OMIM:216400
+7	0.6	Peroxisomal biogenesis disorder	OMIM:266510
+8	0.55	Werner syndrome	OMIM:277700
+9	0.5	Progressive familial intrahepatic cholestasis	OMIM:607748
+10	0.45	Williams syndrome	OMIM:194050

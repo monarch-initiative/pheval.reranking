@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Brachydactyly type E1	OMIM:113000
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.8	Trisomy 21	OMIM:190685
+4	0.75	Short rib-polydactyly syndrome	OMIM:613091
+5	0.7	Williams-Beuren syndrome	OMIM:194050
+6	0.65	Cornelia de Lange syndrome	OMIM:122470
+7	0.6	Sotos syndrome	OMIM:117550
+8	0.55	Noonan syndrome	OMIM:163950
+9	0.5	Chromosome 8p deletion syndrome	OMIM:61621
+10	0.45	CHARGE syndrome	OMIM:214800

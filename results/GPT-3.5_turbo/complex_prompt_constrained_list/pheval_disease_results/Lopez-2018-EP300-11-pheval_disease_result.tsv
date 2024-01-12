@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Rett syndrome	OMIM:312750
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Stickler syndrome	OMIM:108300
+6	0.4	Kabuki syndrome	OMIM:147920
+7	0.3	Prader-Willi syndrome	OMIM:176270
+8	0.2	Angelman syndrome	OMIM:105830
+9	0.1	Cornelia de Lange syndrome	OMIM:122470
+10	0.05	Cri-du-chat syndrome	OMIM:123450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nephrotic syndrome	OMIM:613254
+2	0.8	Cataract	OMIM:115150
+3	0.75	Renal glucosuria	OMIM:604837
+4	0.7	Primary hypomagnesemia with secondary hypocalcemia	OMIM:616418
+4	0.7	Familial hyperglycemia due to mutations in glucokinase	OMIM:138079
+6	0.6	Fanconi syndrome with isolated proximal renal tubular acidosis	OMIM:298970
+6	0.6	Ion transport defect in the distal tubules and cortical collecting ducts	OMIM:600803
+8	0.5	Familial idiopathic hypoparathyroidism	OMIM:146200
+8	0.5	Bardet-Biedl syndrome	OMIM:209900
+10	0.4	Autosomal dominant glaucoma	OMIM:603383

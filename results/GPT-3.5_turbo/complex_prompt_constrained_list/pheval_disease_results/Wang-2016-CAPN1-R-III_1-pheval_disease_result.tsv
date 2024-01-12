@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 3	OMIM:109150
+1	0.9	Spinocerebellar ataxia 2	OMIM:183090
+3	0.85	Spastic ataxia Charlevoix-Saguenay type	OMIM:270550
+4	0.8	Friedreich ataxia	OMIM:229300
+4	0.8	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+4	0.8	Ataxia with oculomotor apraxia type 1	OMIM:208920
+7	0.75	Ataxia with oculomotor apraxia type 2	OMIM:606002
+8	0.73	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 1	OMIM:224050
+9	0.72	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614370
+10	0.7	Beta-propeller protein-associated neurodegeneration	OMIM:609647

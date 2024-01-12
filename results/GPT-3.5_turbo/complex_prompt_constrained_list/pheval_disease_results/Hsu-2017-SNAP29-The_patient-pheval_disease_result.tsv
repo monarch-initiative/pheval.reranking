@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary ciliary dyskinesia	OMIM:613190
+2	0.8	Hyper IgM syndrome	OMIM:308230
+3	0.7	Cerebellar ataxia	OMIM:616670
+4	0.6	Incontinentia pigmenti	OMIM:308300
+5	0.5	Sjögren Syndrome	OMIM:270150
+6	0.4	Tuberous sclerosis	OMIM:191100
+7	0.3	Mucopolysaccharidosis type II	OMIM:309900
+8	0.2	Nijmegen breakage syndrome	OMIM:251260
+9	0.1	Apert syndrome	OMIM:101200
+10	0.05	Hurler syndrome	OMIM:607014

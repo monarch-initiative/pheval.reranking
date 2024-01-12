@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leber hereditary optic neuropathy	OMIM:535000
+2	0.8	Bardet-Biedl syndrome	OMIM:209900
+3	0.7	Senior-Løken syndrome	OMIM:266900
+3	0.7	Joubert syndrome	OMIM:213300
+5	0.6	Usher syndrome	OMIM:276900
+6	0.5	Alström syndrome	OMIM:203800
+7	0.4	Crouzon syndrome	OMIM:123500
+7	0.4	Marfan syndrome	OMIM:154700
+9	0.3	Batten disease	OMIM:204200
+9	0.3	Prader-Willi syndrome	OMIM:176270

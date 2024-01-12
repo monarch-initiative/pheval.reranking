@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aplasia of the semicircular canal	OMIM:211480
+2	0.85	Generalized hypotonia	OMIM:209900
+3	0.8	Congestive heart failure	OMIM:617280
+4	0.75	Facial palsy	OMIM:603128
+5	0.7	Retinal coloboma	OMIM:120430
+6	0.65	Neonatal respiratory distress	OMIM:267370
+7	0.6	Microretrognathia	OMIM:603667
+8	0.55	Respiratory failure	OMIM:603474
+9	0.5	Dysphagia	OMIM:603539
+10	0.45	Cryptorchidism	OMIM:219050

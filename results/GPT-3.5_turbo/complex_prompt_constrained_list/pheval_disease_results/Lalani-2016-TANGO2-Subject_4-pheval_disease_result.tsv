@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Urea cycle disorder 1	OMIM:124700
+2	0.85	Familial hypocalciuric hypercalcemia	OMIM:145980
+3	0.8	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+4	0.75	Duchenne muscular dystrophy	OMIM:310200
+5	0.7	Hypothyroidism	OMIM:275200
+6	0.65	Myotonic dystrophy type 1	OMIM:160900
+7	0.6	Friedreich ataxia	OMIM:229300
+8	0.55	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	OMIM:125310
+9	0.5	Myotonic dystrophy type 2	OMIM:602668
+10	0.4	Propionic acidemia	OMIM:606054

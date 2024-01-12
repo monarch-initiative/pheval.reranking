@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Spondyloepiphyseal dysplasia	OMIM:184252
+2	0.85	Combined immunodeficiency	OMIM:616126
+3	0.79	Severe combined immunodeficiency	OMIM:300400
+4	0.78	Postaxial foot polydactyly	OMIM:186000
+5	0.76	Microcephaly	OMIM:251200
+6	0.75	Atrial septal defect	OMIM:607941
+7	0.72	Hypsarrhythmia	OMIM:308350
+8	0.7	Seizures	OMIM:144200
+9	0.68	Muscular hypotonia of the trunk	OMIM:614549
+10	0.65	Enlarged uterus	OMIM:616383

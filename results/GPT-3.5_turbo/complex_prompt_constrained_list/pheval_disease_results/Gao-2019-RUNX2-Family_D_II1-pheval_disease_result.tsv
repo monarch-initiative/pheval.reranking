@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cleidocranial Dysplasia	OMIM:119600
+2	0.89	Osteogenesis Imperfecta	OMIM:166200
+3	0.88	Coffin-Lowry Syndrome	OMIM:303600
+4	0.85	Ehlers-Danlos Syndrome	OMIM:130000
+5	0.83	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.82	Crouzon Syndrome	OMIM:123500
+7	0.81	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+8	0.79	Marfan Syndrome	OMIM:154700
+9	0.78	Kniest Dysplasia	OMIM:156550
+10	0.76	Achondroplasia	OMIM:100800

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:613254
+2	0.8	EEG abnormalities	OMIM:613990
+3	0.7	Intellectual disability	OMIM:161200
+4	0.6	Epilepsy	OMIM:613750
+5	0.5	Language delay	OMIM:605282
+6	0.4	Bruxism	OMIM:607259
+7	0.3	Corpus callosum hypoplasia	OMIM:300352
+8	0.2	Frontal lobe hypoplasia	OMIM:607259
+9	0.1	Sleep disorder	OMIM:614185

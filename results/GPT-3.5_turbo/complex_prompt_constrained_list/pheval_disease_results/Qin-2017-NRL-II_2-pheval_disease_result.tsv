@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.8	Retinitis pigmentosa 25	OMIM:603356
+3	0.7	Retinitis pigmentosa 7	OMIM:608133
+4	0.6	Autoimmune retinopathy	OMIM:608849
+5	0.5	Retinal dystrophy	OMIM:266900

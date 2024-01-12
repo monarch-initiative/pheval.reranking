@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis	OMIM:191100
+2	0.8	Hereditary gingival fibromatosis	OMIM:135300
+3	0.7	Peutz-Jeghers syndrome	OMIM:175200
+4	0.6	Gorlin syndrome	OMIM:109400
+5	0.5	Tuberous sclerosis-like	OMIM:614317
+6	0.4	Carney complex	OMIM:160980
+7	0.3	Familial infiltrative fibromatosis	OMIM:135290
+8	0.2	Cowden syndrome	OMIM:158350
+9	0.1	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+10	0.05	Nevoid basal cell carcinoma syndrome	OMIM:109400

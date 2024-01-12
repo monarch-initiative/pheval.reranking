@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Trisomy 13	OMIM:613458
+2	0.8	Pentalogy of Cantrell	OMIM:314390
+3	0.7	Heterotaxy syndrome	OMIM:306955
+3	0.7	Trisomy 18	OMIM:190685
+5	0.6	Holt-Oram syndrome	OMIM:142900
+5	0.6	Alagille syndrome	OMIM:118450
+7	0.5	VACTERL association	OMIM:192350
+7	0.5	Down syndrome	OMIM:190685
+9	0.4	Fanconi anemia	OMIM:227650
+9	0.4	Williams syndrome	OMIM:194050

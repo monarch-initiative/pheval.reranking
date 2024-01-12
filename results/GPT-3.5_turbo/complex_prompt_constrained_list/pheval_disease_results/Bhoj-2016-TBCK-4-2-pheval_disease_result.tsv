@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614607
+2	0.9	Muscular dystrophy	OMIM:310200
+3	0.8	Hypothyroidism	OMIM:610978
+4	0.7	Cerebral palsy	OMIM:603513
+5	0.6	Autism spectrum disorder	OMIM:209850
+6	0.5	Fragile X syndrome	OMIM:300624
+7	0.4	Prader-Willi syndrome	OMIM:176270
+8	0.3	Williams syndrome	OMIM:194050
+9	0.2	Angelman syndrome	OMIM:105830
+10	0.1	Rett syndrome	OMIM:312750

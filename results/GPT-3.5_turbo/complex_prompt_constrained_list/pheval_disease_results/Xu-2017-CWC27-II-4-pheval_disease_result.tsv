@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondroplasia	OMIM:100800
+2	0.8	Noonan syndrome	OMIM:163950
+3	0.7	Neurofibromatosis type 1	OMIM:162200
+4	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Cornelia de Lange syndrome	OMIM:122470
+6	0.4	Sotos syndrome	OMIM:117550
+7	0.3	Coffin-Lowry syndrome	OMIM:303600
+8	0.2	Rett syndrome	OMIM:312750
+9	0.1	Spondyloepiphyseal dysplasia congenita	OMIM:183900

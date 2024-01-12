@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Medullary thyroid carcinoma	OMIM:155240
+2	0.8	Multiple endocrine neoplasia type 2A	OMIM:171400
+3	0.7	Multiple endocrine neoplasia type 2B	OMIM:162300
+3	0.7	Familial medullary thyroid carcinoma	OMIM:155240
+5	0.6	Pheochromocytoma	OMIM:171300
+5	0.6	Familial paraganglioma and gastric stromal sarcoma	OMIM:606864
+5	0.6	Familial pheochromocytoma	OMIM:171300
+8	0.5	Carney-Stratakis syndrome	OMIM:606864
+8	0.5	Hereditary paraganglioma-pheochromocytoma syndrome	OMIM:168000
+10	0.4	Cowden syndrome	OMIM:158350

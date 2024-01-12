@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arthrogryposis	OMIM:108300
+2	0.8	Dandy-Walker malformation	OMIM:220400
+3	0.7	Agenesis of the corpus callosum	OMIM:217990
+4	0.6	Distal arthrogryposis	OMIM:609417
+5	0.5	Ventriculomegaly	OMIM:236660
+6	0.4	Wrist flexion contracture	OMIM:108250
+7	0.3	Low-set ears	OMIM:184450
+8	0.2	Micrognathia	OMIM:156000
+9	0.1	Hypertelorism	OMIM:145400
+10	0.08	Short neck	OMIM:176400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inclusion body myopathy with early-onset Paget disease of bone and frontotemporal dementia	OMIM:605382
+2	0.8	Myofibrillar myopathy	OMIM:609200
+3	0.7	Nemaline myopathy 5	OMIM:605355
+3	0.7	Inclusion body myopathy 2	OMIM:600737
+5	0.6	Inclusion body myopathy 3	OMIM:605637
+5	0.6	Myopathy, desmin storage	OMIM:601419
+5	0.6	Myopathy, myofibrillar, myotilin-related	OMIM:609200
+5	0.6	Myopathy, late-onset, with fatigability	OMIM:603689
+9	0.5	Myopathy, distal, 5	OMIM:617424
+9	0.5	Macular dystrophy, vitelliform, 1 , with or without pseudohypopyon	OMIM:153840

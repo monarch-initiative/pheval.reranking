@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Temporal arteritis	OMIM:617306
+2	0.8	Kawasaki disease	OMIM:611775
+2	0.8	Vasculitis	OMIM:603165
+4	0.7	Systemic lupus erythematosus	OMIM:152700
+4	0.7	Bacterial meningitis	OMIM:614662
+6	0.6	Juvenile idiopathic arthritis	OMIM:604302
+6	0.6	Rheumatoid arthritis	OMIM:180300
+8	0.55	Chronic sinusitis	OMIM:604287
+9	0.5	Chronic urticaria	OMIM:191010
+9	0.5	Migraine	OMIM:157300

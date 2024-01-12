@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Townes-Brocks syndrome	OMIM:107480
+3	0.7	Oculodentodigital dysplasia	OMIM:164200
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.6	Treacher Collins syndrome	OMIM:154500
+5	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.4	Fryns syndrome	OMIM:229850
+8	0.4	Cockayne syndrome	OMIM:133540
+10	0.3	Beckwith-Wiedemann syndrome	OMIM:130650

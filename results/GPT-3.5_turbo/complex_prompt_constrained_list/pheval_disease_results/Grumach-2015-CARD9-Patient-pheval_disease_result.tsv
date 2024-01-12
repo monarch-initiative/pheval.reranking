@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hyper-IgE syndrome	OMIM:147060
+2	0.9	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.8	Common variable immunodeficiency	OMIM:607594
+4	0.7	Severe combined immunodeficiency	OMIM:603554
+5	0.6	Job syndrome	OMIM:147060
+6	0.5	Selective IgM deficiency	OMIM:146910
+7	0.4	DiGeorge syndrome	OMIM:188400
+8	0.3	Ataxia-telangiectasia	OMIM:208900
+9	0.2	Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy	OMIM:240300
+10	0.1	Chronic mucocutaneous candidiasis	OMIM:613108

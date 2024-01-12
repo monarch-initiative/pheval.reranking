@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.85	Cornelia de Lange syndrome	OMIM:122470
+3	0.8	Angelman syndrome	OMIM:105830
+4	0.75	Prader-Willi syndrome	OMIM:176270
+5	0.7	Cri-du-chat syndrome	OMIM:123450
+6	0.65	Smith-Magenis syndrome	OMIM:182290
+7	0.6	Fragile X syndrome	OMIM:300624
+8	0.55	Kabuki syndrome	OMIM:147920
+9	0.5	Pallister-Killian syndrome	OMIM:601803
+10	0.45	Rubinstein-Taybi syndrome	OMIM:180849

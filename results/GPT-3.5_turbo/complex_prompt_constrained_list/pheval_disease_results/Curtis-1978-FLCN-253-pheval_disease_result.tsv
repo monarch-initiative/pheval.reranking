@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Birt-Hogg-Dube syndrome	OMIM:135150
+2	0.8	Primary spontaneous pneumothorax	OMIM:178900
+3	0.7	Pleuropulmonary blastoma	OMIM:601200
+4	0.6	Tuberous sclerosis complex	OMIM:191100
+5	0.5	Familial spontaneous pneumothorax	OMIM:178900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Epidermolysis Bullosa Simplex	OMIM:131900
+2	0.8	Junctional Epidermolysis Bullosa	OMIM:226700
+3	0.75	Epidermolysis Bullosa Dystrophica	OMIM:131750
+4	0.7	Epidermolysis Bullosa Pruriginosa	OMIM:604129
+5	0.65	Kindler Syndrome	OMIM:173650
+6	0.6	Dowling-Degos Disease	OMIM:179850
+7	0.55	Junctional Epidermolysis Bullosa with Pyloric Atresia	OMIM:226730
+8	0.5	Recessive Dystrophic Epidermolysis Bullosa	OMIM:226600
+9	0.45	Dominant Dystrophic Epidermolysis Bullosa	OMIM:131750
+10	0.4	Epidermolysis Bullosa Simplex with Mottled Pigmentation	OMIM:131960

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.85	Nicolaides-Baraitser Syndrome	OMIM:601358
+3	0.82	Olivopontocerebellar Atrophy	OMIM:164400
+4	0.8	Seckel Syndrome 1	OMIM:210600
+5	0.78	Xeroderma Pigmentosum, Group C	OMIM:278720
+6	0.77	Barakat Syndrome	OMIM:314390
+7	0.75	Sotos Syndrome 1	OMIM:117550
+8	0.73	Rothmund-Thomson Syndrome, Type 2	OMIM:617744
+9	0.7	Warburg Micro Syndrome 1	OMIM:600118
+10	0.69	Galloway-Mowat Syndrome 2	OMIM:618347

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Methylmalonic acidemia, mut type	OMIM:609058
+1	0.9	Propionic acidemia	OMIM:606054
+3	0.8	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+3	0.8	Medium chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+5	0.7	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+5	0.7	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+5	0.7	Dihydrolipoamide dehydrogenase deficiency	OMIM:246900
+8	0.6	Isovaleric acidemia	OMIM:243500
+8	0.6	Pyruvate carboxylase deficiency	OMIM:266150
+8	0.6	Glutaric acidemia type 1	OMIM:231670

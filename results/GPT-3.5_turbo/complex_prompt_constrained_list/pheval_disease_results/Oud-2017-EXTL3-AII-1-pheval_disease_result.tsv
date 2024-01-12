@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia tarda	OMIM:184100
+2	0.8	Jeune syndrome	OMIM:208500
+3	0.7	Meckel syndrome	OMIM:249000
+4	0.6	Autosomal recessive polycystic kidney disease	OMIM:263200
+5	0.5	Bardet-Biedl syndrome	OMIM:209900
+6	0.4	Orofaciodigital syndrome IV	OMIM:258860
+7	0.3	Short-rib thoracic dysplasia	OMIM:613091
+8	0.2	Nephronophthisis	OMIM:256100
+9	0.1	Trisomy 13	OMIM:190685
+10	0.05	Simpson-Golabi-Behmel syndrome	OMIM:312870

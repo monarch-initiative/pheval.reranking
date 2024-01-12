@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.8	Obesity	OMIM:601665
+3	0.7	Hypogonadism	OMIM:241100
+4	0.6	Albinism	OMIM:103300
+5	0.5	Optic neuropathy	OMIM:165500
+6	0.4	Strabismus	OMIM:185100
+7	0.3	Congenital stationary night blindness	OMIM:310500

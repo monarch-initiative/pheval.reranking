@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism	OMIM:209850
+2	0.85	Intellectual disability	OMIM:240600
+3	0.8	Epilepsy	OMIM:613720
+4	0.75	Global developmental delay	OMIM:614498
+5	0.7	Seizures	OMIM:270400
+6	0.65	Intellectual disability, severe	OMIM:614386
+7	0.6	Intellectual disability, mild	OMIM:614340
+8	0.55	Language delay	OMIM:245570
+9	0.5	Scoliosis	OMIM:181800
+10	0.45	Broad toe	OMIM:201430

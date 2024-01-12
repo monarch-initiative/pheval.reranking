@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schwartz-Jampel syndrome	OMIM:255800
+2	0.8	Spondyloepiphyseal dysplasia	OMIM:143095
+3	0.7	Weill-Marchesani syndrome	OMIM:277600
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Kniest dysplasia	OMIM:156550
+6	0.4	Diastrophic dysplasia	OMIM:222600
+7	0.3	Achondroplasia	OMIM:100800
+8	0.2	Stickler syndrome	OMIM:108300
+9	0.1	Larsen syndrome	OMIM:150250
+10	0.05	Mucopolysaccharidosis type IV	OMIM:252600

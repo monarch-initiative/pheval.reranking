@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniofacial-Deafness-Paralysis Syndrome	OMIM:600373
+2	0.8	Pfeiffer Syndrome	OMIM:101600
+3	0.7	Stickler Syndrome	OMIM:108300
+4	0.6	Velocardiofacial Syndrome	OMIM:192430
+5	0.5	Otospondylomegaepiphyseal Dysplasia	OMIM:215150
+6	0.4	Marfan Syndrome	OMIM:154700
+7	0.3	Cohen Syndrome	OMIM:216550
+8	0.2	Osteogenesis Imperfecta, Type IV	OMIM:166220
+9	0.1	Treacher Collins Syndrome	OMIM:154500
+10	0.05	Cleidocranial Dysplasia	OMIM:119600

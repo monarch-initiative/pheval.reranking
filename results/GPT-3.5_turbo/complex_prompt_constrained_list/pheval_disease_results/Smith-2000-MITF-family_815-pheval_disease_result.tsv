@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Waardenburg syndrome	OMIM:193500
+2	0.9	Tietz syndrome	OMIM:103500
+3	0.85	Oculocutaneous albinism type II	OMIM:203200
+4	0.8	Chediak-Higashi syndrome	OMIM:214500

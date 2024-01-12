@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Retinitis pigmentosa	OMIM:268000
+2	0.9	Congenital stationary night blindness	OMIM:310500
+3	0.8	Leber congenital amaurosis	OMIM:204000
+4	0.7	Usher syndrome	OMIM:276900
+5	0.6	Albinism	OMIM:203100
+6	0.5	Glaucoma	OMIM:137750
+7	0.4	Cataract	OMIM:116800
+8	0.3	Visual impairment	OMIM:310600
+9	0.2	Optic atrophy	OMIM:165500
+10	0.1	Retinal detachment	OMIM:180000

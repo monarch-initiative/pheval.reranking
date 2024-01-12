@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency, X-linked	OMIM:300400
+2	0.85	X-linked agammaglobulinemia	OMIM:300755
+3	0.8	Ataxia-telangiectasia	OMIM:208900
+4	0.75	Fanconi anemia	OMIM:227650
+5	0.7	Myasthenia gravis	OMIM:254200
+6	0.65	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.6	Paroxysmal nocturnal hemoglobinuria	OMIM:300818
+8	0.55	Primary lymphedema	OMIM:153100
+9	0.5	Congenital hypogammaglobulinemia	OMIM:608840
+10	0.45	Hereditary sensory neuropathy	OMIM:162400

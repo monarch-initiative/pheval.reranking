@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 4, autosomal dominant	OMIM:182301
+2	0.8	Congenital muscular dystrophy, Fukuyama type	OMIM:253800
+3	0.7	Brain small vessel disease with or without ocular anomalies	OMIM:607595
+4	0.6	Hereditary spastic paraplegia 7	OMIM:607259
+5	0.5	Fragile X syndrome	OMIM:300624
+6	0.4	Mitochondrial complex I deficiency	OMIM:252010
+7	0.3	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+8	0.2	Hypomyelinating leukodystrophy 11	OMIM:616494
+9	0.1	X-linked intellectual disability, Siderius type	OMIM:300263

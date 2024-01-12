@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arrhythmogenic right ventricular cardiomyopathy	OMIM:600996
+2	0.8	Long QT syndrome	OMIM:192500
+3	0.7	Hypertrophic cardiomyopathy	OMIM:192600
+4	0.6	Brugada syndrome	OMIM:601144
+5	0.5	Dilated cardiomyopathy	OMIM:115200
+6	0.4	Wolff-Parkinson-White syndrome	OMIM:194200
+7	0.3	Sudden cardiac death	OMIM:115090
+8	0.2	Restrictive cardiomyopathy	OMIM:115210
+9	0.1	Short QT syndrome	OMIM:609620

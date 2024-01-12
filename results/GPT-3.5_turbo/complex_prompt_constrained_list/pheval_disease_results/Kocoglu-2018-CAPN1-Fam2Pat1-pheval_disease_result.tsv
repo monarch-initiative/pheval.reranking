@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia, autosomal recessive 3	OMIM:607013
+2	0.8	Spinocerebellar ataxia, X-linked 1	OMIM:302500
+3	0.7	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+4	0.6	Spinocerebellar ataxia, autosomal recessive 8	OMIM:610743
+5	0.5	Spinocerebellar ataxia, autosomal recessive 10	OMIM:613728
+6	0.4	Spartan syndrome	OMIM:616471
+7	0.3	Spinocerebellar ataxia type 13	OMIM:605259
+8	0.2	Spinocerebellar ataxia 15	OMIM:606224
+9	0.1	Spinocerebellar ataxia 6	OMIM:183086
+10	0.05	Spinocerebellar ataxia, autosomal recessive 7	OMIM:609270

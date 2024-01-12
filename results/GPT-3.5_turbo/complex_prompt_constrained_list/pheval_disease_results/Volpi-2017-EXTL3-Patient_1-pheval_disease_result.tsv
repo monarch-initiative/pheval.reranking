@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgM syndrome	OMIM:308230
+2	0.85	Pyridoxine-dependent epilepsy	OMIM:266130
+3	0.8	Cystinuria	OMIM:220100
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.7	Cardiomyopathy, dilated, with woolly hair and keratoderma	OMIM:605676
+6	0.65	Duchenne muscular dystrophy	OMIM:310200
+7	0.6	Prader-Willi syndrome	OMIM:176270
+8	0.55	Angelman syndrome	OMIM:105830
+9	0.5	Fanconi anemia	OMIM:227650
+10	0.45	Multiple epiphyseal dysplasia	OMIM:132400

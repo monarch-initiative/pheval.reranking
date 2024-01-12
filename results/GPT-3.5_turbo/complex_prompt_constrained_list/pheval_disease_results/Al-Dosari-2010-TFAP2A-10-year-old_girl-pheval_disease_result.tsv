@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectopia lentis	OMIM:129600
+2	0.85	Cat-eye syndrome	OMIM:115470
+3	0.8	Renal coloboma syndrome	OMIM:120330
+4	0.75	Nail-patella syndrome	OMIM:161200
+5	0.7	Aniridia	OMIM:106210
+6	0.65	Uveal coloboma	OMIM:120200
+7	0.6	Gorlin syndrome	OMIM:109400
+8	0.55	Branchio-oculo-facial syndrome	OMIM:113620
+9	0.5	Tricho-dento-osseous syndrome	OMIM:190320
+10	0.45	Craniosynostosis	OMIM:123100

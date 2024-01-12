@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa	OMIM:219100
+2	0.8	Nephrocalcinosis	OMIM:605576
+3	0.7	HSD10 mitochondrial disease	OMIM:300438
+4	0.6	Ellis-van Creveld syndrome	OMIM:225500
+5	0.5	Marfanoid habitus syndrome, X-linked	OMIM:309410
+6	0.4	Hypertrophic cardiomyopathy	OMIM:192600
+7	0.3	Ondine's curse	OMIM:206900
+8	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.1	Lujan-Fryns syndrome	OMIM:309520

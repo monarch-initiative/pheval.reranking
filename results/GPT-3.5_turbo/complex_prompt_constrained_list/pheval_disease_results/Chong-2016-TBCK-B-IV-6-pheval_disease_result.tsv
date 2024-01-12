@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins Syndrome	OMIM:610954
+2	0.8	Rett Syndrome	OMIM:312750
+3	0.7	Angelman Syndrome	OMIM:105830
+4	0.6	Cri-du-Chat Syndrome	OMIM:123450
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.4	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.3	Kabuki Syndrome	OMIM:147920
+8	0.2	Duchenne Muscular Dystrophy	OMIM:310200
+9	0.1	Prader-Willi Syndrome	OMIM:176270
+10	0.05	Williams Syndrome	OMIM:194050

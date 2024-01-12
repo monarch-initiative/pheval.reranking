@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bloom syndrome	OMIM:210900
+2	0.8	Werner syndrome	OMIM:277700
+3	0.7	Cockayne syndrome	OMIM:133540
+4	0.6	Ataxia-telangiectasia	OMIM:208900
+5	0.5	Bazex-Dupré-Christol syndrome	OMIM:301845
+6	0.4	Ataxia with oculomotor apraxia	OMIM:208920
+6	0.4	Rothmund-Thomson syndrome	OMIM:268400
+8	0.3	Nijmegen breakage syndrome	OMIM:251260
+8	0.3	Schimke immuno-osseous dysplasia	OMIM:242900
+10	0.2	Fanconi anemia	OMIM:227650

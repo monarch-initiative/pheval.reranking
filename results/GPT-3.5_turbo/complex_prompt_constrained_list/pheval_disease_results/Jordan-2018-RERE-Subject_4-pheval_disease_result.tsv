@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe intellectual disability	OMIM:615981
+2	0.85	Choanal atresia	OMIM:119600
+3	0.82	Delayed speech and language development	OMIM:604804
+4	0.8	Global developmental delay	OMIM:616907
+5	0.77	Abnormal heart morphology	OMIM:617180
+6	0.75	Abnormality of the eye	OMIM:604213
+7	0.73	Muscular hypotonia	OMIM:614031
+8	0.7	Cerebellar dysplasia	OMIM:206700
+9	0.68	Scoliosis	OMIM:181800
+10	0.65	Hearing impairment	OMIM:220400

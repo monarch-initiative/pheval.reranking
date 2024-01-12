@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neuromuscular syndrome, congenital, with uniform type 1 fiber	OMIM:605355
+2	0.8	Distal arthrogryposis, type 5	OMIM:108145
+3	0.7	Nemaline myopathy 4	OMIM:609285
+4	0.6	Distal arthrogryposis, type 1A	OMIM:108120
+5	0.5	Nemaline myopathy 5	OMIM:605355
+6	0.4	Distal arthrogryposis, type 2A	OMIM:193700
+7	0.3	Centronuclear myopathy 2	OMIM:617181
+8	0.2	Congenital fiber-type disproportion	OMIM:255310
+9	0.1	Nemaline myopathy 1	OMIM:161800

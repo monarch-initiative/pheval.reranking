@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous Sclerosis	OMIM:191100
+2	0.8	Neurofibromatosis Type 1	OMIM:162200
+3	0.7	Progressive Myoclonic Epilepsy Type 2B	OMIM:612437
+4	0.6	Bannayan-Riley-Ruvalcaba Syndrome	OMIM:153480
+5	0.5	Tuberous Sclerosis 2	OMIM:613254
+6	0.4	PTEN Hamartoma Tumor Syndrome	OMIM:158350
+6	0.4	Cowden Syndrome 1	OMIM:158350
+8	0.3	Tuberous Sclerosis 1	OMIM:191100
+9	0.2	Birt-Hogg-Dube Syndrome	OMIM:135150
+10	0.1	Neurofibromatosis-Noonan Syndrome	OMIM:601321

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Severe Combined Immunodeficiency, X-Linked	OMIM:300400
+2	0.95	X-Linked Agammaglobulinemia	OMIM:300755
+3	0.94	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.92	Selective IgA Deficiency	OMIM:137100
+5	0.9	Common Variable Immunodeficiency	OMIM:607594
+6	0.89	DiGeorge Syndrome	OMIM:188400
+7	0.87	Hyper-IgM Syndrome, Type 1	OMIM:308230
+8	0.85	Chronic Lymphocytic Leukemia	OMIM:151400
+9	0.83	Cernunnos-XLF Deficiency	OMIM:611291
+10	0.81	Ataxia-Telangiectasia	OMIM:208900

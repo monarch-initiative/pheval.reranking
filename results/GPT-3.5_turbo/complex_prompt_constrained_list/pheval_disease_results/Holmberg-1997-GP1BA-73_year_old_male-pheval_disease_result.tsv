@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier Syndrome	OMIM:231200
+2	0.85	Glanzmann Thrombasthenia	OMIM:273800
+3	0.8	Chediak-Higashi Syndrome	OMIM:214500
+4	0.75	Severe Congenital Neutropenia	OMIM:202700
+5	0.7	Wiskott-Aldrich Syndrome	OMIM:301000

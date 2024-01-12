@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy	OMIM:253300
+2	0.8	Myasthenia gravis	OMIM:254210
+3	0.7	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Amyotrophic lateral sclerosis	OMIM:105400
+6	0.4	Congenital myasthenic syndrome	OMIM:601143
+7	0.3	Spinocerebellar ataxia	OMIM:164400
+8	0.2	Cerebral palsy	OMIM:603513
+9	0.1	Guillain-Barré syndrome	OMIM:139390

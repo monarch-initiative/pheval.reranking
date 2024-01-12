@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Homocystinuria	OMIM:236200
+3	0.7	Sotos syndrome	OMIM:117550
+4	0.6	Ehlers-Danlos syndrome	OMIM:130000
+5	0.5	Lowe syndrome	OMIM:309000
+6	0.4	Weill-Marchesani syndrome	OMIM:277600
+7	0.3	Osteogenesis imperfecta	OMIM:166200
+8	0.2	Neurofibromatosis type 1	OMIM:162200
+9	0.1	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.05	Noonan syndrome	OMIM:163950

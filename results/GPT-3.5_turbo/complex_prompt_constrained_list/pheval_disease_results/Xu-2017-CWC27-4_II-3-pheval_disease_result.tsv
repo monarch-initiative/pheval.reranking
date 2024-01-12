@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM: Craniosynostosis_OMIM_ID
+2	0.8	Severe global developmental delay	OMIM: Severe global developmental delay_OMIM_ID
+3	0.7	Feeding difficulties	OMIM: Feeding difficulties_OMIM_ID
+4	0.6	Intellectual disability	OMIM: Intellectual disability_OMIM_ID
+5	0.5	Rod-cone dystrophy	OMIM: Rod-cone dystrophy_OMIM_ID
+6	0.4	Short stature	OMIM: Short stature_OMIM_ID
+7	0.3	Brachydactyly	OMIM: Brachydactyly_OMIM_ID
+8	0.2	Alopecia	OMIM: Alopecia_OMIM_ID
+9	0.1	Renal cyst	OMIM: Renal cyst_OMIM_ID
+9	0.1	Ichthyosis	OMIM: Ichthyosis_OMIM_ID

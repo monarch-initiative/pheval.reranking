@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fanconi anemia	OMIM:227650
+2	0.9	Bleeding disorder, platelet-type 23	OMIM:619248
+3	0.85	MYH9-related disorder	OMIM:153650
+4	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.75	Glanzmann thrombasthenia	OMIM:273800
+6	0.7	Thrombocytopenia 4	OMIM:612004
+7	0.65	Uremic thrombocytopenia	OMIM:314400
+8	0.6	Scott syndrome	OMIM:262890
+9	0.55	Gray platelet syndrome	OMIM:139090
+10	0.5	Bernard-Soulier syndrome, type B	OMIM:231200

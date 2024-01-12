@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Temple syndrome	OMIM:616222
+2	0.8	Short stature, microcephaly, and endocrine dysfunction	OMIM:616541
+3	0.7	KBG syndrome	OMIM:148050
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.6	Craniofrontonasal dysplasia	OMIM:304110
+5	0.6	Cornelia de Lange syndrome	OMIM:122470
+7	0.5	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.5	Floating-Harbor syndrome	OMIM:136140
+9	0.4	Pitt-Hopkins syndrome	OMIM:610954
+9	0.4	Cornelia de Lange syndrome 2	OMIM:300590

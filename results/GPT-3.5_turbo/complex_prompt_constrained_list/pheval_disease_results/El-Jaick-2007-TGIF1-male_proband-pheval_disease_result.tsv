@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Median cleft lip	OMIM:119600
+1	1.0	Absent nasal septal cartilage	OMIM:304110
+1	1.0	Microcephaly	OMIM:617777
+1	1.0	Lobar holoprosencephaly	OMIM:237310
+1	1.0	Median cleft palate	OMIM:610668
+6	0.9	Diabetes insipidus	OMIM:125700
+6	0.9	Depressed nasal tip	OMIM:249310

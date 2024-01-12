@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.8	Neurofibromatosis, type 2	OMIM:101000
+3	0.7	McCune-Albright syndrome	OMIM:174800
+4	0.6	Noonan syndrome	OMIM:163950
+5	0.5	Li-Fraumeni syndrome	OMIM:151623
+6	0.4	PTEN hamartoma tumor syndrome	OMIM:273300
+7	0.3	Fanconi anemia	OMIM:227650
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Noonan syndrome-like disorder with loose anagen hair	OMIM:607721
+10	0.05	Ataxia-telangiectasia-like disorder	OMIM:604391

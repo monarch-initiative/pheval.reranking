@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Crouzon syndrome	OMIM:123500
+2	0.8	Apert syndrome	OMIM:101200
+2	0.8	Pfeiffer syndrome	OMIM:101600
+4	0.7	Saethre-Chotzen syndrome	OMIM:101400
+4	0.7	Goldenhar syndrome	OMIM:164210
+4	0.7	Alagille syndrome	OMIM:118450
+7	0.6	Treacher Collins syndrome	OMIM:154500
+7	0.6	Ehlers-Danlos syndrome	OMIM:130050
+9	0.5	Stickler syndrome	OMIM:108300
+9	0.5	Weill-Marchesani syndrome	OMIM:608328

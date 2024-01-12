@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.93	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.92	Cystic fibrosis	OMIM:219700
+4	0.9	Alagille syndrome	OMIM:118450
+5	0.88	Viral hepatitis	OMIM:140200
+6	0.87	Hirschsprung disease	OMIM:142623
+7	0.85	Familial hyperlipidemia	OMIM:143890
+8	0.83	Galactosemia	OMIM:230400
+9	0.82	Congenital hypothyroidism	OMIM:275200
+10	0.8	Argininosuccinic aciduria	OMIM:207900

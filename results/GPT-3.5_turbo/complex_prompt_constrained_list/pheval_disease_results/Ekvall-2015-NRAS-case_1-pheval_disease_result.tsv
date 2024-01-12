@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome	OMIM:163950
+2	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.75	Costello syndrome	OMIM:218040
+4	0.7	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.65	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.55	Sotos syndrome	OMIM:117550
+8	0.5	Fanconi anemia	OMIM:227650
+9	0.45	Prader-Willi syndrome	OMIM:176270
+10	0.4	Kabuki syndrome	OMIM:147920

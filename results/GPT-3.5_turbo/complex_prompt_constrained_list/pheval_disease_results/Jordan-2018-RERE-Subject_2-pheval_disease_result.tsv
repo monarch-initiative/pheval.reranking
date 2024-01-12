@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Syndromic microphthalmia 6	OMIM:616516
+2	0.85	Craniofrontonasal syndrome	OMIM:304110
+3	0.8	FG syndrome 1	OMIM:305400
+4	0.75	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+5	0.7	Marfanoid--intellectual disability syndrome	OMIM:616354
+6	0.65	Cornelia de Lange syndrome 4	OMIM:614721
+7	0.6	FG syndrome 4	OMIM:300422
+8	0.55	Seckel syndrome 1	OMIM:602054
+9	0.5	Saethre-Chotzen syndrome	OMIM:101400
+10	0.45	Microphthalmia, syndromic 11	OMIM:614402

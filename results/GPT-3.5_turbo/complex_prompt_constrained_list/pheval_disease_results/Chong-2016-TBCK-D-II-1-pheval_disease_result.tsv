@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hydranencephaly	OMIM:609033
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+3	0.8	Angelman syndrome	OMIM:105830
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.7	Schinzel-Giedion syndrome	OMIM:269150
+6	0.65	Wiedemann-Rautenstrauch syndrome	OMIM:264090
+7	0.6	Floating-Harbor syndrome	OMIM:136140
+8	0.55	Sotos syndrome	OMIM:117550
+9	0.5	Smith-Magenis syndrome	OMIM:182290
+10	0.45	Cri-du-chat syndrome	OMIM:123450

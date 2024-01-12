@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Truncus arteriosus	OMIM:PS614090
+2	0.85	Tetralogy of Fallot with pulmonary atresia	OMIM:187500
+3	0.8	Tricuspid atresia	OMIM:PS614090
+4	0.75	Interrupted aortic arch	OMIM:PS614090
+5	0.7	Aortopulmonary collateral arteries	OMIM:PS614090
+6	0.65	Persistent left superior vena cava	OMIM:PS614090
+7	0.6	Right aortic arch	OMIM:PS614090
+8	0.55	Partial anomalous pulmonary venous return	OMIM:PS614090
+9	0.5	Systolic heart murmur	OMIM:PS614090
+10	0.45	Elevated serum creatinine	OMIM:PS614090

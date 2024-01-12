@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Osteogenesis imperfecta	OMIM:166200
+3	0.8	Oculodentodigital dysplasia	OMIM:164200
+4	0.75	Acroosteolysis	OMIM:102650
+5	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.65	Cohen syndrome	OMIM:216550
+7	0.6	Cerebellar hypoplasia	OMIM:607596
+8	0.55	Camptodactyly	OMIM:300205
+9	0.5	Ehlers-Danlos syndrome	OMIM:130000
+10	0.45	Frontometaphyseal dysplasia	OMIM:305620

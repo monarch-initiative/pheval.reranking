@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Non-alcoholic fatty liver disease	OMIM:613366
+2	0.8	Hereditary hemochromatosis	OMIM:235200
+3	0.7	Wilson disease	OMIM:277900
+4	0.6	Alpha-1 antitrypsin deficiency	OMIM:613490
+5	0.5	Glycogen storage disease type I	OMIM:232200
+6	0.4	Primary biliary cholangitis	OMIM:109720
+7	0.3	Gilbert syndrome	OMIM:143500
+8	0.2	Alagille syndrome	OMIM:118450
+9	0.1	Lipodystrophy, familial partial, type 2	OMIM:151660
+10	0.05	Primary sclerosing cholangitis	OMIM:211600

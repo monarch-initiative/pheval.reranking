@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Oculocutaneous Albinism	OMIM:203200
+2	0.8	Waardenburg Syndrome	OMIM:277580
+2	0.8	Hermansky-Pudlak Syndrome	OMIM:203300
+4	0.7	Hypomyelination and Congenital Cataract	OMIM:610532
+4	0.7	Griscelli Syndrome	OMIM:214450
+4	0.7	Chediak-Higashi Syndrome	OMIM:214500
+4	0.7	Hurler Syndrome	OMIM:607014
+8	0.6	Prader-Willi Syndrome	OMIM:176270
+8	0.6	Albinism, Oculocutaneous, Type 2	OMIM:203200
+8	0.6	Piebaldism	OMIM:172800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Huntington disease	OMIM:143100
+2	0.8	Wilson disease	OMIM:277900
+3	0.7	McLeod neuroacanthocytosis syndrome	OMIM:300842
+4	0.6	Juvenile Huntington disease	OMIM:143100
+5	0.5	Neuroferritinopathy	OMIM:606159
+6	0.4	Chorea-acanthocytosis	OMIM:200150
+7	0.3	McLeod syndrome	OMIM:300842
+8	0.2	Kufor-Rakeb syndrome	OMIM:606693
+9	0.1	Spinocerebellar ataxia 3	OMIM:109150
+10	0.05	Spinocerebellar ataxia 2	OMIM:183090

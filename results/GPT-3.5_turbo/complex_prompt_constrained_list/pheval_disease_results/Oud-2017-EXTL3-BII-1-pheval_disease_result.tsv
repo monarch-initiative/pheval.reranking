@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia	OMIM:184255
+2	0.8	Limb-mammary syndrome	OMIM:603543
+3	0.7	Microcephaly	OMIM:251200
+4	0.6	Primary immunodeficiency disease	OMIM:614102
+5	0.5	Short stature	OMIM:604271
+6	0.4	Global developmental delay	OMIM:614498
+7	0.3	Epileptic spasms	OMIM:308350
+8	0.2	Overweight	OMIM:601665
+9	0.1	Severe combined immunodeficiency	OMIM:601457
+10	0.05	Robinow syndrome	OMIM:268310

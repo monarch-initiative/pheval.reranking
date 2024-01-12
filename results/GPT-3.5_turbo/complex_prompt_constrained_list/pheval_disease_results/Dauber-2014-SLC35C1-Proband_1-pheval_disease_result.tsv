@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism Spectrum Disorder	OMIM:209850
+2	0.8	Mucopolysaccharidosis Type II	OMIM:309900
+3	0.7	Prader-Willi Syndrome	OMIM:176270
+3	0.7	Coffin-Lowry Syndrome	OMIM:303600
+5	0.6	Richardson-Olsson Syndrome	OMIM:268029
+5	0.6	Noonan Syndrome	OMIM:163950

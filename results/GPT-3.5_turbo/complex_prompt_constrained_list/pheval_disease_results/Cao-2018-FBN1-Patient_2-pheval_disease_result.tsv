@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Weill-Marchesani syndrome	OMIM:277600
+5	0.5	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+6	0.4	Loeys-Dietz syndrome, type 2A	OMIM:610168
+7	0.3	Marfanoid habitus-deafness syndrome	OMIM:614202
+8	0.2	Homocystinuria	OMIM:236200
+9	0.1	Mitral valve prolapse	OMIM:157700
+9	0.1	Stickler syndrome type 1	OMIM:108300

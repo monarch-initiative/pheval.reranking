@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Smith-Magenis syndrome	OMIM:182290
+4	0.6	Wiedemann-Rautenstrauch syndrome	OMIM:264090
+5	0.5	Cohen syndrome	OMIM:216550
+6	0.4	Noonan syndrome	OMIM:163950
+7	0.3	Down syndrome	OMIM:190685
+8	0.2	Kabuki syndrome	OMIM:147920
+9	0.1	Baraitser-Winter syndrome	OMIM:243310
+10	0.05	Fragile X syndrome	OMIM:300624

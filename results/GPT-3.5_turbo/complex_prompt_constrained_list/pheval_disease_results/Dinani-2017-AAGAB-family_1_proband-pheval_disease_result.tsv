@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypohidrotic ectodermal dysplasia	OMIM:305100
+2	0.9	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+3	0.8	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 1	OMIM:129900
+4	0.7	Ellis-Van Creveld syndrome	OMIM:225500
+5	0.6	Pachyonychia congenita 1	OMIM:167200
+6	0.5	Palmoplantar keratoderma with deafness	OMIM:148350
+6	0.5	Palmoplantar keratoderma-deafness syndrome	OMIM:148350
+8	0.4	Ectodermal dysplasia 10B	OMIM:617325
+9	0.3	Thiel-Behnke corneal dystrophy	OMIM:602082
+10	0.2	Oculocerebrocutaneous syndrome	OMIM:164180

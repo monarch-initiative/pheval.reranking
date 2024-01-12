@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chronic kidney disease	OMIM:614104
+2	0.85	Polycystic kidney disease	OMIM:173900
+3	0.8	Gout	OMIM:138900
+4	0.75	Renal cysts	OMIM:173900
+5	0.7	Hyperuricemia	OMIM:138900
+6	0.6	Nephrolithiasis	OMIM:611874
+7	0.5	Glomerulonephritis	OMIM:166300
+8	0.45	Hypertensive nephropathy	OMIM:614753
+9	0.4	Amyloidosis	OMIM:105200
+10	0.35	Renal failure	OMIM:615638

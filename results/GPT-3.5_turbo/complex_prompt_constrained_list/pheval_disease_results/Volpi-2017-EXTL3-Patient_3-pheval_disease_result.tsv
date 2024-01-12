@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency	OMIM:603554
+1	0.9	Eosinophilic esophagitis	OMIM:616560
+1	0.9	Skeletal dysplasia	OMIM:184840
+4	0.85	Methylmalonic aciduria and homocystinuria type cblC	OMIM:277400
+4	0.85	Combined immunodeficiency	OMIM:617106

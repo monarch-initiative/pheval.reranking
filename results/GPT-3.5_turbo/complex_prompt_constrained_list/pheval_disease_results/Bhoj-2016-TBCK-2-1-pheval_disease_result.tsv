@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rett syndrome	OMIM:312750
+2	0.9	Angelman syndrome	OMIM:105830
+3	0.8	Epileptic encephalopathy, early infantile, 2	OMIM:607682
+4	0.7	Interstitial deletion of the short arm of chromosome 9	OMIM:158170
+5	0.6	Patau syndrome	OMIM:176270
+6	0.5	Autosomal dominant mental retardation 4	OMIM:614113
+7	0.4	Macrocephaly/autism syndrome	OMIM:605309
+8	0.3	Alpers syndrome	OMIM:203700
+9	0.2	Ohtahara syndrome	OMIM:308350
+10	0.1	Lissencephaly, X-linked	OMIM:300067

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Potocki-Shaffer syndrome	OMIM:601224
+2	0.8	Jacobsen syndrome	OMIM:147791
+3	0.7	Chromosome 17p13.3, deletion syndrome	OMIM:613667
+4	0.6	Kaufman oculocerebrofacial syndrome	OMIM:244450
+5	0.5	Laurence-Moon syndrome	OMIM:245800
+6	0.4	Charcot-Marie-Tooth disease type 1B3	OMIM:614228
+7	0.3	Weaver syndrome	OMIM:277590
+8	0.2	Prader-Willi syndrome	OMIM:176270
+9	0.1	Syndromic X-linked intellectual disability type 10	OMIM:300220
+10	0.05	Wiedemann-Rautenstrauch syndrome	OMIM:264090

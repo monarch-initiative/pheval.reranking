@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spinocerebellar ataxia type 17	OMIM:607136
+1	1.0	Spinocerebellar ataxia type 34	OMIM:614934
+3	0.9	Hypogonadotropic hypogonadism 23 without anosmia	OMIM:228300
+3	0.9	Hereditary ataxia	OMIM:302400
+5	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+5	0.8	Spinocerebellar ataxia type 2	OMIM:183090
+5	0.8	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.8	Spinocerebellar ataxia type 6	OMIM:183086
+9	0.7	Friedreich ataxia	OMIM:229300
+10	0.6	Hypogonadotropic hypogonadism 19 with or without anosmia	OMIM:615270

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+3	0.7	X-Linked Intellectual Disability Syndrome	OMIM:300486
+4	0.6	Kabuki Syndrome	OMIM:147920
+5	0.5	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.4	Smith-Magenis Syndrome	OMIM:182290
+7	0.3	Noonan Syndrome	OMIM:163950
+8	0.2	Cornelia de Lange Syndrome	OMIM:122470
+9	0.1	Williams Syndrome	OMIM:194050
+9	0.1	Cri-du-chat Syndrome	OMIM:123450

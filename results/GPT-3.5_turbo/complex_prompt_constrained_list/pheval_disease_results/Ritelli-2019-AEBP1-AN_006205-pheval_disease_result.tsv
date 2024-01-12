@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classical type	OMIM:130000
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Vascular Ehlers-Danlos syndrome	OMIM:130050
+5	0.5	Osteogenesis imperfecta	OMIM:166200
+6	0.4	Stickler syndrome	OMIM:108300
+7	0.3	Hypermobile Ehlers-Danlos syndrome	OMIM:130020
+8	0.2	Alport syndrome	OMIM:301050
+9	0.1	Larsen syndrome	OMIM:150250
+10	0.05	Osteopathia striata with cranial sclerosis	OMIM:300373

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital hypothyroidism	OMIM:275200
+2	0.8	CHARGE syndrome	OMIM:214800
+3	0.7	Pallister-Hall syndrome	OMIM:146510
+4	0.6	Treacher Collins syndrome	OMIM:154500
+5	0.5	Kallmann syndrome	OMIM:308700
+6	0.4	Stickler syndrome	OMIM:108300
+7	0.3	Goldenhar syndrome	OMIM:164210
+8	0.2	Apert syndrome	OMIM:101200
+9	0.1	Trisomy 21	OMIM:190685

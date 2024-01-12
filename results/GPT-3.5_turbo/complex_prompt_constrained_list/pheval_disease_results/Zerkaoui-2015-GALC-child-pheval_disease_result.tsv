@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial Cortical Myoclonus	OMIM:605282
+2	0.8	Benign Familial Infantile Epilepsy	OMIM:605130
+3	0.7	Benign Familial Neonatal Epilepsy	OMIM:601127
+4	0.6	Spastic Paraplegia 47, Autosomal Recessive	OMIM:614833
+5	0.5	Hepatocellular Carcinoma	OMIM:114550
+6	0.4	Benign Familial Infantile Epilepsy 2	OMIM:121200
+7	0.3	Familial Infantile Myoclonic Epilepsy	OMIM:605021
+8	0.2	Recurrent Respiratory Papillomatosis	OMIM:178500
+9	0.1	Distal Hereditary Motor Neuropathy Type Vi	OMIM:604320
+10	0.05	Encephalopathy, Acute, Infection-Induced, 4, Susceptibility To	OMIM:611162

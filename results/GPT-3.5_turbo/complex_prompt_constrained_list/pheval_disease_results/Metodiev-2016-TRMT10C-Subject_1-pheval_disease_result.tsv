@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex IV Deficiency	OMIM:220110
+2	0.85	Cytochrome C Oxidase Deficiency	OMIM:220110
+3	0.8	Respiratory Chain Deficiency	OMIM:220110
+4	0.75	Mitochondrial Myopathy	OMIM:157640
+5	0.7	Leigh Syndrome	OMIM:256000
+6	0.65	Infantile Onset Encephalopathy	OMIM:611105
+7	0.6	Mitochondrial Disorders	OMIM:157640
+8	0.55	Mitochondrial Encephalomyopathy	OMIM:271245
+9	0.5	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+10	0.45	Mitochondrial Respiratory Chain Complex Deficiency	OMIM:220110

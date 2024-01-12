@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Branchiootorenal syndrome	OMIM:113650
+2	0.8	Renal coloboma syndrome	OMIM:120330
+3	0.7	Townes-Brocks syndrome	OMIM:107480
+3	0.7	Goldenhar syndrome	OMIM:164210
+5	0.6	WAGR syndrome	OMIM:194072
+5	0.6	Pallister-Hall syndrome	OMIM:146510
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.4	Opitz G/BBB syndrome	OMIM:300000
+8	0.4	Pfeiffer syndrome	OMIM:101600
+10	0.3	Coffin-Siris syndrome	OMIM:135900

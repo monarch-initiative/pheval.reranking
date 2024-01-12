@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:609284
+2	0.85	Congenital sensorineural hearing impairment	OMIM:220400
+3	0.8	Bradycardia	OMIM:192600
+4	0.75	Pulmonary hypertension, primary, 1	OMIM:178600
+5	0.7	Hypoplastic left heart syndrome	OMIM:241550
+6	0.65	Noonan syndrome	OMIM:163950
+7	0.6	Pheochromocytoma	OMIM:171300
+8	0.55	Long QT syndrome 1	OMIM:192500
+9	0.5	Hypoparathyroidism, sensorineural deafness, and renal dysplasia syndrome	OMIM:146255
+10	0.45	Long QT syndrome 2	OMIM:613688

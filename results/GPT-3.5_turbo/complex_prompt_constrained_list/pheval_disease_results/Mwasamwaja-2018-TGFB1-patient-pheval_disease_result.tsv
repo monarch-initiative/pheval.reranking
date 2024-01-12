@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Osteogenesis imperfecta type XI	OMIM:613254
+1	1.0	Osteopoikilosis	OMIM:166710
+1	1.0	Multicentric osteolysis, nodulosis, and arthropathy	OMIM:605156
+1	1.0	Camptodactyly, tall stature, and hearing loss syndrome	OMIM:603239
+1	1.0	Sclerosteosis	OMIM:269500
+1	1.0	Craniometaphyseal dysplasia, autosomal recessive	OMIM:218400
+7	0.9	Otopalatodigital syndrome, type II	OMIM:304120
+7	0.9	Infantile cortical hyperostosis	OMIM:114000
+7	0.9	Fibrodysplasia ossificans progressiva	OMIM:135100
+7	0.9	Melorheostosis	OMIM:155950
+7	0.9	Osteoporosis-pseudoglioma syndrome	OMIM:259770

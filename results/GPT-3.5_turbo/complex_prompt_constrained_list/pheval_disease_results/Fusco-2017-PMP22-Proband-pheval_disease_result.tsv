@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease, Axonal, Type 2L	OMIM:613454
+2	0.8	Charcot-Marie-Tooth Disease, Axonal, Type 2E	OMIM:615190
+3	0.7	Charcot-Marie-Tooth Disease, Axonal, Type 2D	OMIM:614455
+4	0.6	Hereditary Sensory and Autonomic Neuropathy, Type ID	OMIM:607677
+5	0.5	Charcot-Marie-Tooth Disease, Axonal, Type 2A2A	OMIM:617087
+6	0.4	Hereditary Motor and Sensory Neuropathy with Areflexia	OMIM:601093
+7	0.3	Charcot-Marie-Tooth Disease, Axonal, Type 2I	OMIM:607677
+8	0.2	Hereditary Motor and Sensory Neuropathy, Type I	OMIM:157800
+9	0.1	Hereditary Motor and Sensory Neuropathy, Type VIA	OMIM:607734

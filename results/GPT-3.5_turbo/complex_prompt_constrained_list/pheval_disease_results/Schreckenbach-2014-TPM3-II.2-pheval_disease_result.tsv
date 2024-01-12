@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, scapuloperoneal	OMIM:616760
+2	0.8	Muscular dystrophy, congenital, with infantile cataract and hypogonadism	OMIM:613854
+3	0.7	Muscular dystrophy, limb-girdle, type 2I	OMIM:607155
+4	0.6	Muscular dystrophy, limb-girdle, type 2C	OMIM:611588
+5	0.5	Myopathy, limb-girdle, with lung involvement	OMIM:611423
+6	0.4	Myopathy, scapuloperoneal, and deafness	OMIM:181430
+7	0.3	Muscular dystrophy, limb-girdle, type 2J	OMIM:608807
+8	0.2	Muscular dystrophy, limb-girdle, type 2H	OMIM:254110
+9	0.1	Muscular dystrophy, limb-girdle, type 2G	OMIM:601954
+10	0.05	Muscular dystrophy, limb-girdle, type 2E	OMIM:604286

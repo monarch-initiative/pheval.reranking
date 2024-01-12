@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Stickler syndrome	OMIM:108300
+3	0.8	Larsen syndrome	OMIM:150250
+4	0.75	Ehlers-Danlos syndrome	OMIM:130000
+5	0.7	Weill-Marchesani syndrome	OMIM:277600
+6	0.65	Multiple pterygium syndrome	OMIM:253290
+7	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+8	0.55	Homocystinuria	OMIM:236200
+9	0.5	Mucopolysaccharidosis Type IV	OMIM:253000
+10	0.45	Turner syndrome	OMIM:313850

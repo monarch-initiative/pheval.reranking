@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonic dystrophy type 1	OMIM:160900
+2	0.8	Congenital myasthenic syndrome	OMIM:601462
+2	0.8	Emery-Dreifuss muscular dystrophy	OMIM:181350
+4	0.7	Becker muscular dystrophy	OMIM:300376
+4	0.7	McLeod neuroacanthocytosis syndrome	OMIM:300842
+6	0.6	Bethlem myopathy	OMIM:158810
+6	0.6	Duchenne muscular dystrophy	OMIM:310200
+8	0.5	Myotonic dystrophy type 2	OMIM:602668
+8	0.5	Congenital fiber-type disproportion	OMIM:255310
+10	0.4	Amyotrophic lateral sclerosis	OMIM:105400

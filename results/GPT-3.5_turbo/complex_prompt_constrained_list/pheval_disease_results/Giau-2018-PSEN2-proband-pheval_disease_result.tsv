@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer's Disease	OMIM:104300
+2	0.8	Frontotemporal Dementia	OMIM:600274
+3	0.7	Huntington's Disease	OMIM:143100
+4	0.6	Lewy Body Dementia	OMIM:127750
+5	0.5	Vascular Dementia	OMIM:607627
+6	0.4	Periventricular Nodular Heterotopia	OMIM:300049
+7	0.3	Frontotemporal Lobar Degeneration	OMIM:600795
+8	0.2	Parkinson's Disease	OMIM:168600
+9	0.1	Down Syndrome	OMIM:190685
+10	0.05	Creutzfeldt-Jakob Disease	OMIM:123400

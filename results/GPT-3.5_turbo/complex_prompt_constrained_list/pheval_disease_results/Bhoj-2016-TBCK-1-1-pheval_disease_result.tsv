@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Warburg micro syndrome	OMIM:600118
+2	0.8	Severe intellectual disability-progressive postnatal microcephaly-midline stereotypic hand movements syndrome	OMIM:617726
+3	0.7	Severe neurodegenerative syndrome with lipodystrophy	OMIM:614962
+4	0.6	Severe intellectual disability-epilepsy-anal anomalies-distal phalangeal hypoplasia syndrome	OMIM:301042
+5	0.5	Mental retardation-hypotonic facies syndrome, X-linked	OMIM:309440
+6	0.4	Intellectual disability-early-onset seizures-brachycephaly-syndactyly syndrome	OMIM:615547
+7	0.3	Pilarowski-Bjornsson syndrome	OMIM:617768
+8	0.2	Mosaic variegated aneuploidy syndrome	OMIM:257300
+9	0.1	Chromosomal triplication	OMIM:614236
+10	0.05	Alpha-thalassemia X-linked intellectual disability syndrome	OMIM:301040

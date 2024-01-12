@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Vanishing white matter syndrome	OMIM:603896
+2	0.8	Pelizaeus-Merzbacher-like disease	OMIM:300534
+3	0.7	Alexander disease	OMIM:203450
+4	0.6	Adrenoleukodystrophy	OMIM:300100
+5	0.5	Metachromatic leukodystrophy	OMIM:250100
+6	0.4	Spastic paraplegia 15	OMIM:270700
+7	0.3	Cockayne syndrome B	OMIM:133540
+8	0.2	Aicardi-Goutières Syndrome 2	OMIM:610181
+9	0.1	Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion 1	OMIM:224050
+10	0.05	GM2-gangliosidosis, AB variant	OMIM:272750

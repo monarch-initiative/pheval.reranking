@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple synostoses syndrome	OMIM:186500
+1	0.9	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+3	0.8	Brachydactyly-syndactyly syndrome	OMIM:610713
+3	0.8	Holt-Oram syndrome	OMIM:142900
+5	0.7	Cleidocranial dysplasia	OMIM:119600
+5	0.7	Roberts syndrome	OMIM:268300
+7	0.6	Fanconi anemia	OMIM:227650
+7	0.6	Frontometaphyseal dysplasia	OMIM:305620
+9	0.5	Carpenter syndrome	OMIM:201000
+9	0.5	Opitz G/BBB syndrome	OMIM:300000

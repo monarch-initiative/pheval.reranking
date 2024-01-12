@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Speech and Language Delay	OMIM:613254
+2	0.9	Autism Spectrum Disorder	OMIM:613410
+3	0.8	Enuresis Nocturna	OMIM:600804
+4	0.7	Obstructive Sleep Apnea	OMIM:610569
+5	0.6	Apraxia of Speech	OMIM:610925
+6	0.5	Intellectual Disability	OMIM:614607

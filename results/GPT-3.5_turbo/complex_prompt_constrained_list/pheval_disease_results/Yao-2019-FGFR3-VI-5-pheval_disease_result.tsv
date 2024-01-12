@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Trichodental Syndrome	OMIM:190320
+2	0.8	Douglas Syndrome	OMIM:304150
+3	0.7	Osteogenesis Imperfecta Type XI	OMIM:610968
+4	0.6	Osteogenesis Imperfecta Type IX	OMIM:259440
+5	0.5	Osteogenesis Imperfecta Type X	OMIM:613848
+6	0.4	Craniodiaphyseal Dysplasia	OMIM:218300
+7	0.3	Osteogenesis Imperfecta Type IV	OMIM:166220
+8	0.2	Osteogenesis Imperfecta Type VII	OMIM:610682
+9	0.1	Osteogenesis Imperfecta Type XIII	OMIM:614856

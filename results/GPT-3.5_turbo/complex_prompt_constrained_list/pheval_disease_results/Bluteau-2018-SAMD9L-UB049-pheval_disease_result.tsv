@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive, 1	OMIM:613987
+2	0.8	Severe congenital neutropenia 1	OMIM:202700
+3	0.7	Severe congenital neutropenia 2	OMIM:613107
+4	0.6	Fanconi anemia, complementation group A	OMIM:227650
+5	0.5	Immunodeficiency, common variable, 5	OMIM:613495
+6	0.4	Diamond-Blackfan anemia 1	OMIM:105650
+7	0.3	Congenital hypoplastic anemia	OMIM:206200
+8	0.2	Dyskeratosis congenita, autosomal dominant, 3	OMIM:613990
+9	0.1	Immunodeficiency 19	OMIM:615617

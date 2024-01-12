@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 29, autosomal dominant	OMIM:609727
+2	0.92	Familial dysautonomia	OMIM:223900
+3	0.91	Aromatic L-amino acid decarboxylase deficiency	OMIM:608643
+4	0.9	Mitochondrial complex I deficiency, nuclear type 28	OMIM:616838
+5	0.88	Leigh syndrome, French Canadian type	OMIM:220111
+6	0.85	Ataxia with isolated vitamin E deficiency	OMIM:277460
+7	0.82	Hereditary spastic paraplegia 78	OMIM:617225
+8	0.8	Pyruvate dehydrogenase E2 deficiency	OMIM:614111
+9	0.78	Episodic ataxia, type 2	OMIM:108500
+10	0.77	Oculopalatoskeletal syndrome	OMIM:257910

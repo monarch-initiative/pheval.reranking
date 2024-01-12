@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Orofacial cleft 1	OMIM:119800
+2	0.8	Microcephaly 1, primary, autosomal recessive	OMIM:251200
+3	0.7	Nephronophthisis 1	OMIM:256100
+4	0.6	Renal cysts and diabetes syndrome	OMIM:137920
+5	0.5	Seckel syndrome 1	OMIM:210600
+6	0.4	Lowe oculocerebrorenal syndrome	OMIM:309000
+7	0.3	Autistic disorder	OMIM:209850
+8	0.2	Scimitar syndrome 1	OMIM:106700
+9	0.1	Jarcho-Levin syndrome 1	OMIM:277300
+10	0.01	Meckel syndrome 1	OMIM:249000

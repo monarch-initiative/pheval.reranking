@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, arthrochalasia type	OMIM:617516
+2	0.8	Blepharophimosis, ptosis, and epicanthus inversus syndrome	OMIM:110100
+2	0.8	Freeman-Sheldon syndrome	OMIM:193700
+4	0.7	Marfan syndrome	OMIM:154700
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.6	Saethre-Chotzen syndrome	OMIM:101400
+6	0.6	Craniofacial-dermal-digital syndrome	OMIM:122470
+8	0.5	Mandibulofacial dysostosis with microcephaly	OMIM:610536
+8	0.5	Monosomy 9p	OMIM:158170
+10	0.4	KBG syndrome	OMIM:148050

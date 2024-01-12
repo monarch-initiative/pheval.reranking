@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Failure to thrive in infancy	OMIM:616809
+2	0.8	Cleft palate	OMIM:119540
+2	0.8	Cleft lip	OMIM:119530
+4	0.7	Dehydration	OMIM:613881
+4	0.7	Diarrhea	OMIM:251040
+4	0.7	Hypovolemia	OMIM:614911
+7	0.6	Vomiting	OMIM:189290
+7	0.6	Hyponatremia	OMIM:614661
+9	0.5	Chorioretinal coloboma	OMIM:120430
+10	0.4	Prominent occiput	OMIM:614872

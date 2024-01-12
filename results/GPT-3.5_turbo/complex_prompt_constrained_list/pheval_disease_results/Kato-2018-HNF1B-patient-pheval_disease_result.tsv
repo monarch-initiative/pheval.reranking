@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diabetes Mellitus, Insulin-Dependent, 2	OMIM:125852
+2	0.8	Maturity-Onset Diabetes Of The Young, Type 2	OMIM:125851
+3	0.7	Polycystic Kidney Disease 2 With Or Without Polycystic Liver Disease	OMIM:613095
+4	0.6	Diabetes Mellitus, Permanent Neonatal	OMIM:606176
+5	0.5	Diabetes Mellitus, Noninsulin-Dependent; NIDDM	OMIM:125853
+6	0.4	Hyperglycinemia, Nonketotic	OMIM:238300
+7	0.3	Diabetes Mellitus, Insulin-Dependent	OMIM:222700
+8	0.2	Chronic Progressive External Ophthalmoplegia With Mitochondrial Dna Deletions, Autosomal Dominant 1	OMIM:157640
+9	0.1	Gsd5	OMIM:232700

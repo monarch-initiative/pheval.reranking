@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alopecia universalis	OMIM:203655
+2	0.8	Ectodermal dysplasia	OMIM:129600
+3	0.7	Hypohidrotic ectodermal dysplasia	OMIM:305100
+4	0.6	Palmoplantar keratoderma	OMIM:148600
+5	0.5	Trichodental syndrome	OMIM:601345
+6	0.4	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+7	0.3	Rapp-Hodgkin syndrome	OMIM:129400
+8	0.2	Hay-Wells syndrome	OMIM:106260
+9	0.1	Incontinentia pigmenti	OMIM:308300

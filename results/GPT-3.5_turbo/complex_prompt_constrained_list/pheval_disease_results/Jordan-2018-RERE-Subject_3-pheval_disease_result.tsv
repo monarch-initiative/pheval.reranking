@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Intellectual disability	OMIM:616907
+2	0.85	Atrial septal defect	OMIM:614863
+3	0.8	Choanal atresia	OMIM:613611
+4	0.75	Hypoplasia of the corpus callosum	OMIM:300629
+5	0.7	Abnormality of the eye	OMIM:120433
+6	0.65	Language impairment	OMIM:606711
+7	0.6	Abnormal cardiac septum morphology	OMIM:613985
+8	0.55	Sleep apnea	OMIM:609622
+9	0.5	Abnormality of the kidney	OMIM:143860
+10	0.45	Myopathy	OMIM:160650

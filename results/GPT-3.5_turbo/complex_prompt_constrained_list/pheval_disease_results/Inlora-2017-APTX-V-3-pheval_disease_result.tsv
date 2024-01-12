@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progressive Supranuclear Palsy	OMIM:601104
+2	0.8	Huntington disease	OMIM:143100
+3	0.75	Parkinson disease	OMIM:168600
+4	0.7	Basal ganglia calcification	OMIM:213600
+4	0.7	Friedreich Ataxia	OMIM:229300
+6	0.6	Wilson Disease	OMIM:277900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen storage disease type V	OMIM:232600
+2	0.8	McArdle disease	OMIM:232600
+3	0.7	Glycogen storage disease	OMIM:232600
+4	0.6	Myoadenylate deaminase deficiency	OMIM:615025
+5	0.5	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+6	0.4	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+7	0.3	Glycogen storage disease type III	OMIM:232400
+8	0.2	Carnitine deficiency	OMIM:212140
+9	0.1	Glycogen storage disease type II	OMIM:232300
+10	0.05	Lactic acidosis	OMIM:236750

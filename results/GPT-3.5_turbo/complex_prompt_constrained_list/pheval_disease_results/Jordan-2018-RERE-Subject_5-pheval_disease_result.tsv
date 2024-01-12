@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Williams-Beuren syndrome	OMIM:194050
+2	0.8	Noonan syndrome	OMIM:163950
+3	0.7	Turner syndrome	OMIM:313850
+4	0.6	Kabuki syndrome	OMIM:147920
+5	0.5	Down syndrome	OMIM:190685
+6	0.4	CHARGE syndrome	OMIM:214800
+7	0.3	Mowat-Wilson syndrome	OMIM:235730
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Cri-du-chat syndrome	OMIM:123450
+10	0.05	Prader-Willi syndrome	OMIM:176270

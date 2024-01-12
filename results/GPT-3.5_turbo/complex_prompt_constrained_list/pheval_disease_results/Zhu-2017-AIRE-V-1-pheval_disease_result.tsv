@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy	OMIM:240300
+2	0.8	Hypoparathyroidism, Sensorineural Deafness, and Renal Anomaly Syndrome	OMIM:146255
+3	0.7	Hypoparathyroidism, Familial Isolated	OMIM:146200
+4	0.6	Adrenal Insufficiency, Congenital, with 46,XY Sex Reversal, Partial or Complete	OMIM:613743
+5	0.5	Familial Hypocalciuric Hypercalcemia, Type I	OMIM:145980
+6	0.4	22q11.2 Duplication Syndrome	OMIM:608363
+7	0.3	Transient Neonatal Diabetes Mellitus	OMIM:601410
+8	0.2	Fanconi-Bickel Syndrome	OMIM:227810
+9	0.1	Hereditary Hypophosphatemic Rickets with Hypercalciuria	OMIM:241530
+10	0.05	Cystinuria	OMIM:220100

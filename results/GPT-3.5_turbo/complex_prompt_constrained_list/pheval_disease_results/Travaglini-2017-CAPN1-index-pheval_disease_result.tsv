@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy	OMIM:253300
+2	0.8	Cerebral palsy	OMIM:603513
+3	0.7	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Friedreich ataxia	OMIM:229300
+5	0.6	Spinal cord injury	OMIM:278900
+5	0.6	Hereditary spastic paraplegia	OMIM:604805
+7	0.5	Multiple sclerosis	OMIM:126200
+7	0.5	Cerebellar ataxia	OMIM:212780
+9	0.4	Guillain-Barré syndrome	OMIM:139393
+9	0.4	Primary lateral sclerosis	OMIM:611637
+11	0.3	Peripheral neuropathy	OMIM:162500

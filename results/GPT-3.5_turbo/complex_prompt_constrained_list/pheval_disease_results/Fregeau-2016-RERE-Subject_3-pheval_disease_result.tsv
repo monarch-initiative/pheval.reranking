@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome	OMIM:117550
+2	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.7	Noonan syndrome	OMIM:163950
+4	0.6	Goldenhar syndrome	OMIM:164210
+5	0.5	Williams syndrome	OMIM:194050

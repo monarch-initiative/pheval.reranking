@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial digital arthropathy-brachydactyly	OMIM:605282
+2	0.8	Ectopic ossification	OMIM:166100
+3	0.7	Familial exudative vitreoretinopathy	OMIM:133780
+4	0.6	Hyperparathyroidism	OMIM:145000
+5	0.5	Familial calcium pyrophosphate deposition	OMIM:600668
+6	0.4	Vitamin D receptor defects	OMIM:601769
+7	0.3	Calcium metabolic disorders	OMIM:275200
+8	0.2	Paget disease of bone	OMIM:602080
+9	0.1	Psoriatic arthritis	OMIM:177900
+10	0.05	Primary hypertrophic osteoarthropathy	OMIM:157300
