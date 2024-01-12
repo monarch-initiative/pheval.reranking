@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Loeys-Dietz Syndrome	OMIM:609192
+3	0.7	Ehlers-Danlos Syndrome	OMIM:130000
+4	0.6	Aortic Aneurysm, Familial Thoracic 6	OMIM:610168
+5	0.5	Isolated Noncompaction Of The Ventricular Myocardium	OMIM:300183
+6	0.4	Cardiovascular Phenotype In Mucopolysaccharidosis Type II	OMIM:607015
+7	0.3	Homocystinuria Due To Cystathionine Beta-Synthase Deficiency	OMIM:236200
+8	0.2	Ehlers-Danlos Syndrome, Type IV, Autosomal Dominant	OMIM:130050
+9	0.1	TAAD5	OMIM:617180
+9	0.1	Supravalvar Aortic Stenosis	OMIM:185500

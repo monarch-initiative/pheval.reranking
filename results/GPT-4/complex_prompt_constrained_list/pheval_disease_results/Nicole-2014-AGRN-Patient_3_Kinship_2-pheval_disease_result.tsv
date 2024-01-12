@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenia Gravis	OMIM:254200
+2	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+3	0.7	Spinal Muscular Atrophy	OMIM:253300
+4	0.6	Lambert-Eaton Syndrome	OMIM:254200
+5	0.5	Muscular Dystrophy	OMIM:310200
+6	0.4	Mitochondrial Myopathy	OMIM:251900
+7	0.3	Congenital Myopathy	OMIM:255310
+8	0.2	Peripheral Neuropathy	OMIM:162500
+9	0.1	Charcot-Marie-Tooth Disease	OMIM:118200
+10	0.05	Chronic Inflammatory Demyelinating Polyradiculoneuropathy	OMIM:145300

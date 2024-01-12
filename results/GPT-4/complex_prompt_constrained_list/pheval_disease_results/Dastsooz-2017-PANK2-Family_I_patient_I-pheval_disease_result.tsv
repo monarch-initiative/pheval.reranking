@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.7	Pituitary adenoma	OMIM:102200
+3	0.6	Hypopituitarism	OMIM:146000
+4	0.5	Primary familial brain calcification	OMIM:213600
+5	0.4	Neuroferritinopathy	OMIM:606159
+6	0.3	Dystonia, Dopa-responsive, with or without Hyperphenylalaninemia	OMIM:128230
+7	0.2	Epilepsy, Idiopathic Generalized 10	OMIM:613060
+8	0.1	Malonyl-CoA decarboxylase deficiency	OMIM:248360
+9	0.05	Mitochondrial Complex I Deficiency	OMIM:252010
+10	0.04	Spinocerebellar Ataxia 11	OMIM:604432

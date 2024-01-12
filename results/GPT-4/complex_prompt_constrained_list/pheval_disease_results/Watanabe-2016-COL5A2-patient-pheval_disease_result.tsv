@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+2	0.8	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+3	0.7	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+4	0.6	Cutis laxa, autosomal dominant 1	OMIM:123700
+5	0.5	Ehlers-Danlos syndrome, arthrochalasia type, 1	OMIM:130060
+5	0.5	Ehlers-Danlos syndrome, arthrochalasia type, 2	OMIM:130070
+7	0.4	Ehlers-Danlos syndrome, periodontitis type, 2	OMIM:617174
+8	0.3	Ehlers-Danlos syndrome, cardiac valvular type	OMIM:225320
+9	0.2	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 1	OMIM:236670
+10	0.1	Bethlem myopathy 1	OMIM:158810

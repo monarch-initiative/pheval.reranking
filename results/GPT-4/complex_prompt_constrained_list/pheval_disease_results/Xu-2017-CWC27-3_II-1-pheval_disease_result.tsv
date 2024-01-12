@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa 1	OMIM:613837
+2	0.85	Leber Congenital Amaurosis	OMIM:204000
+3	0.8	Retinal Dystrophy	OMIM:120330
+4	0.75	Cone-Rod Dystrophy 15	OMIM:613660
+5	0.7	Cone-Rod Dystrophy 1	OMIM:180020
+6	0.6	Cone-Rod Dystrophy 10	OMIM:610283
+7	0.5	Cone-Rod Dystrophy 2	OMIM:120970
+8	0.45	Cone-Rod Dystrophy 4	OMIM:613660
+9	0.4	Cone-Rod Dystrophy 12	OMIM:604116
+10	0.35	Cone-Rod Dystrophy 13	OMIM:608194

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.78	Cornelia de Lange syndrome	OMIM:122470
+4	0.7	Sotos syndrome	OMIM:117550
+5	0.68	Williams syndrome	OMIM:194050
+6	0.65	Fragile X syndrome	OMIM:300624
+7	0.63	Autism, susceptibility to, 1	OMIM:209850
+8	0.6	Smith-Magenis syndrome	OMIM:182290
+9	0.58	Rett syndrome	OMIM:312750
+10	0.56	Phelan-McDermid syndrome	OMIM:606232

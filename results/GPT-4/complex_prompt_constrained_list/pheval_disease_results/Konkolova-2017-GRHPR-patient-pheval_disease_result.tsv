@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria, type I	OMIM:259900
+2	0.9	Primary hyperoxaluria, type II	OMIM:260000
+3	0.85	Nephrolithiasis/osteoporosis, hypophosphatemic, 1	OMIM:612286
+4	0.8	Distal renal tubular acidosis with progressive nerve deafness	OMIM:602722
+5	0.75	Nephropathy, deafness, and hyperparathyroidism	OMIM:609528

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis, Autosomal Recessive 4B	OMIM:601277
+2	0.8	Epidermolytic Hyperkeratosis	OMIM:113800
+3	0.7	Keratoderma, Palmoplantar, Non-Epidermolytic	OMIM:600962
+4	0.6	Ichthyosis, Congenital, Autosomal Recessive 4A	OMIM:601675
+5	0.5	Keratoderma, Palmoplantar, Diffuse	OMIM:604338
+6	0.4	Palmoplantar Keratoderma, Epidermolytic	OMIM:144200
+7	0.3	Palmoplantar Keratosis	OMIM:144200
+8	0.2	Epidermolysis Bullosa Simplex with Palmoplantar Keratoderma	OMIM:131800
+9	0.1	Keratosis Palmoplantaris with Stomach Cancer	OMIM:148500
+10	0.05	Bjornstad Syndrome	OMIM:262000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	WFS1-Related Disorders	OMIM:605282
+2	0.82	Usher Syndrome, Type IIIA	OMIM:276903
+3	0.79	Pendred syndrome	OMIM:274600
+4	0.77	autosomal recessive non-syndromic sensorineural deafness type DFNB	OMIM:601071
+5	0.74	branchiootic syndrome 1	OMIM:602588
+6	0.72	Distal renal tubular acidosis with sensorineural deafness	OMIM:267300
+7	0.7	Auditory Neuropathy, Nonsyndromic, Autosomal Dominant, 1	OMIM:609129
+8	0.68	Jervell and Lange-Nielsen syndrome 2	OMIM:612347
+9	0.65	Waardenburg Syndrome, Type 4A	OMIM:277580
+10	0.6	Mohr-Tranebjaerg syndrome	OMIM:304700

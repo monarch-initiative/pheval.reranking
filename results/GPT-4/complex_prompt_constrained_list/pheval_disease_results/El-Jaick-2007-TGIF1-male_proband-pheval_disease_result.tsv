@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly-9	OMIM:610829
+2	0.85	Cleft lip/palate-tetra-digit syndrome	OMIM:201550
+3	0.75	Frontorhiny	OMIM:613895
+4	0.7	Faciooculoacousticorenal syndrome	OMIM:261440
+4	0.7	Complex 1 mitochondrial respiratory chain deficiency	OMIM:252010
+6	0.6	Diamond-Blackfan anemia 2	OMIM:612527
+7	0.5	Nephrogenic syndrome of inappropriate antidiuresis	OMIM:300539
+8	0.4	Oral-facial-digital syndrome I	OMIM:311200
+9	0.3	Diabetes insipidus, nephrogenic, autosomal	OMIM:125800
+10	0.2	Hypogonadotropic hypogonadism 7 with or without anosmia	OMIM:146110

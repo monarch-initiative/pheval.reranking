@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Papillon-Lefevre syndrome	OMIM:245000
+2	0.7	Haim-Munk syndrome	OMIM:245010
+3	0.5	Prepubertal periodontitis	OMIM:618550

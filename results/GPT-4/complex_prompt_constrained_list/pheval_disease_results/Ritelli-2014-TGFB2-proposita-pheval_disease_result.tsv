@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, type 4	OMIM:130050
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Loeys-Dietz syndrome	OMIM:609192
+4	0.6	Brittle cornea syndrome	OMIM:229200
+5	0.5	Klippel-Feil syndrome 4, autosomal recessive, with myopathy and facial dysmorphism	OMIM:616549
+6	0.4	Arthrogryposis, distal, type 2B	OMIM:601680

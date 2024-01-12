@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Loeys-Dietz Syndrome 1	OMIM:609192
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Loeys-Dietz Syndrome 2	OMIM:610168
+4	0.7	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.65	Marfan Syndrome, Autosomal Recessive Variant	OMIM:154705
+6	0.6	Loeys-Dietz Syndrome 3	OMIM:613795
+7	0.55	Loeys-Dietz Syndrome 5	OMIM:615582
+8	0.5	Loeys-Dietz Syndrome 4	OMIM:614816
+9	0.45	Ehlers-Danlos Syndrome, Musculocontractural Type	OMIM:601776
+10	0.4	Ehlers-Danlos Syndrome, Kyphoscoliotic Type 1	OMIM:225400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.75	Ehlers-Danlos syndrome, type 4	OMIM:130050
+3	0.7	Ehlers-Danlos syndrome, kyphoscoliotic form	OMIM:225400
+4	0.65	Stickler syndrome, type 1	OMIM:108300
+5	0.6	Loeys-Dietz syndrome	OMIM:609192
+6	0.5	Weill-Marchesani syndrome	OMIM:608328
+6	0.5	Stickler syndrome, type II	OMIM:604841
+8	0.45	Stickler syndrome, type III	OMIM:184840
+8	0.45	Beals syndrome	OMIM:121050
+10	0.4	Spondyloepiphyseal dysplasia with congenital joint dislocations	OMIM:143095

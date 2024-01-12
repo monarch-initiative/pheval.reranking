@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Glycogen storage disease type 1B	OMIM:232220
+2	0.9	MELAS Syndrome	OMIM:540000
+3	0.85	Leigh syndrome, French Canadian type	OMIM:220111
+4	0.82	Phosphoglycerate kinase 1 deficiency	OMIM:300653
+5	0.79	Combined oxidative phosphorylation deficiency 1	OMIM:609060
+6	0.77	Glycogen storage disease Ib	OMIM:232220
+7	0.75	Combined oxidative phosphorylation deficiency 2	OMIM:610498
+8	0.73	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+9	0.71	Pyruvate dehydrogenase E2 deficiency	OMIM:245349
+10	0.7	Pyruvate dehydrogenase E3-Binding protein deficiency	OMIM:614111

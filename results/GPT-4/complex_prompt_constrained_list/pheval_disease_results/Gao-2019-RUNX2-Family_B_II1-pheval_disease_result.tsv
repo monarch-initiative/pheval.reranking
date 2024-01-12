@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Cleidocranial dysostosis	OMIM:119600
+2	0.85	Pfeiffer syndrome	OMIM:101600
+3	0.82	Apert syndrome	OMIM:101200
+4	0.8	Crouzon syndrome	OMIM:123500
+5	0.77	Hypochondroplasia	OMIM:146000
+6	0.73	Pyknodysostosis	OMIM:265800
+7	0.7	Achondroplasia	OMIM:100800
+8	0.68	Smith-McCort Dysplasia	OMIM:607326

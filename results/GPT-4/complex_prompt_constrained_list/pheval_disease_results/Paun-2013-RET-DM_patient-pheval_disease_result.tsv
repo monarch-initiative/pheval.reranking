@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Multiple Endocrine Neoplasia Type 2B	OMIM:162300
+2	0.95	Multiple Endocrine Neoplasia Type 2A	OMIM:171400
+3	0.9	Familial Medullary Thyroid Carcinoma	OMIM:155240
+4	0.8	Von Hippel-Lindau Syndrome	OMIM:193300
+5	0.75	Hereditary Paraganglioma-Pheochromocytoma Syndromes	OMIM:168000
+6	0.7	Pheochromocytoma	OMIM:171300
+7	0.68	Familial Pheochromocytoma	OMIM:171300

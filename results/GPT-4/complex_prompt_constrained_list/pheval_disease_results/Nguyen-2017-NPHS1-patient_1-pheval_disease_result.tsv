@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nephrotic syndrome, type 1, Finnish type	OMIM:256300
+2	0.85	Nephrotic syndrome, type 2	OMIM:600995
+3	0.8	Nephrotic syndrome, type 3	OMIM:610725
+4	0.7	Nephrotic syndrome, type 4, with or without ocular abnormalities	OMIM:256370
+5	0.6	Nephrotic syndrome, type 6	OMIM:614196
+6	0.55	Nephrotic syndrome, type 8	OMIM:615244
+7	0.5	Nephrotic syndrome, type 9	OMIM:615573
+8	0.45	Nephrotic syndrome, type 10	OMIM:615861
+9	0.4	Wolcott-Rallison syndrome	OMIM:226980
+10	0.35	Lipoprotein glomerulopathy	OMIM:611771

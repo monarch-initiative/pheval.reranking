@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+2	0.8	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+3	0.7	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+4	0.6	Ehlers-Danlos syndrome, arthrochalasia type, 1	OMIM:130060
+5	0.5	Ehlers-Danlos syndrome, arthrochalasia type, 2	OMIM:130070
+6	0.4	Marfan syndrome	OMIM:154700
+7	0.3	Loeys-Dietz syndrome, type 1A	OMIM:609192
+8	0.2	Loeys-Dietz syndrome, type 1B	OMIM:610168
+9	0.1	Loeys-Dietz syndrome, type 2A	OMIM:608967
+9	0.1	Loeys-Dietz syndrome, type 2B	OMIM:610380

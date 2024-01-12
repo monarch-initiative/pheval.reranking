@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Maturity-Onset Diabetes of the Young, Type 1	OMIM:606391
+2	0.7	Maturity-Onset Diabetes of the Young, Type 2	OMIM:125851
+3	0.6	Maturity-Onset Diabetes of the Young, Type 3	OMIM:600496
+4	0.5	Maturity-Onset Diabetes of the Young, Type 4	OMIM:606392
+5	0.4	Maturity-Onset Diabetes of the Young, Type 5	OMIM:137920
+6	0.3	Maturity-Onset Diabetes of the Young, Type 6	OMIM:606394
+7	0.2	Maturity-Onset Diabetes of the Young, Type 7	OMIM:606324
+8	0.1	Maturity-Onset Diabetes of the Young, Type 8	OMIM:609812
+9	0.05	Maturity-Onset Diabetes of the Young, Type 9	OMIM:612225
+10	0.02	Maturity-Onset Diabetes of the Young, Type 10	OMIM:613370

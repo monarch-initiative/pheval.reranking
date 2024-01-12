@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Marfan Syndrome	OMIM:154700
+2	0.84	Beals Syndrome	OMIM:121050
+3	0.6	Stickler Syndrome	OMIM:108300
+4	0.55	Weavers Syndrome	OMIM:277590
+5	0.5	Blepharophimosis	OMIM:110100
+6	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650
+7	0.37	Sotos Syndrome	OMIM:117550
+8	0.32	Ehlers-Danlos Syndrome	OMIM:130000
+9	0.28	Mandibulofacial Dysostosis	OMIM:154500
+10	0.25	Neurofibromatosis	OMIM:162200

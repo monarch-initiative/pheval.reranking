@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Pycnodysostosis	OMIM:265800
+3	0.8	Hypophosphatasia	OMIM:241500
+4	0.75	Osteogenesis imperfecta type 3	OMIM:259420
+5	0.7	Campomelic dysplasia	OMIM:114290
+6	0.65	Marfan syndrome	OMIM:154700
+7	0.6	Ehlers-Danlos syndrome	OMIM:130050
+8	0.55	Langer-Giedion syndrome	OMIM:150230
+9	0.5	Craniometaphyseal dysplasia	OMIM:123000
+10	0.45	Rubinstein-Taybi syndrome	OMIM:180849

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.8	Hypochondroplasia	OMIM:146000
+3	0.7	Pyknodysostosis	OMIM:265800
+4	0.6	Campomelic Dysplasia	OMIM:114290
+5	0.5	Thanatophoric Dysplasia	OMIM:187600
+6	0.4	Achondroplasia	OMIM:100800
+7	0.3	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+8	0.2	Osteogenesis Imperfecta	OMIM:166200
+9	0.1	Coffin-Lowry Syndrome	OMIM:303600
+9	0.1	Osteopetrosis	OMIM:259700

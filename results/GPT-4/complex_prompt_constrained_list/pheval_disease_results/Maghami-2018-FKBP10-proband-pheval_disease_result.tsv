@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type IV	OMIM:166220
+2	0.85	Osteogenesis imperfecta, type III	OMIM:259420
+3	0.83	Osteogenesis imperfecta, type II	OMIM:166210
+4	0.82	Osteogenesis imperfecta, type I	OMIM:166200
+5	0.65	Osteopetrosis, autosomal recessive 1	OMIM:259700
+6	0.6	Paget disease of bone	OMIM:167250
+7	0.55	Hypophosphatasia, childhood type	OMIM:241510
+8	0.52	Fanconi anemia	OMIM:227650
+9	0.51	McCune-Albright syndrome	OMIM:174800
+10	0.5	Cholestasis, progressive familial intrahepatic, 2	OMIM:601847

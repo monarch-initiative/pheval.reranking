@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Freeman-Sheldon syndrome	OMIM:193700
+2	0.8	Campomelic dysplasia	OMIM:114290
+3	0.7	Orofaciodigital syndrome I	OMIM:311200
+4	0.6	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+5	0.5	Stickler syndrome, type I	OMIM:108300
+6	0.4	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+7	0.3	Congenital contractural arachnodactyly	OMIM:121050
+8	0.2	Mandibuloacral dysplasia, type A	OMIM:248370
+9	0.1	Desbuquois dysplasia 1	OMIM:251450
+10	0.05	Spinal muscular atrophy, type I	OMIM:253300

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.7	McCune-Albright syndrome	OMIM:174800
+3	0.6	LEGUIS syndrome	OMIM:616831
+4	0.5	Watson syndrome	OMIM:193520
+5	0.4	Leopard syndrome	OMIM:151100
+6	0.3	Bloom syndrome	OMIM:210900
+7	0.2	Constitutional mismatch repair deficiency syndrome	OMIM:276300
+8	0.1	Noonan syndrome	OMIM:163950

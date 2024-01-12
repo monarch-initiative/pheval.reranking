@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Amelogenesis Imperfecta, Type IIA2	OMIM:612529
+2	0.89	Amelogenesis Imperfecta, Type IIC	OMIM:204700
+3	0.86	Amelogenesis Imperfecta, Type IIB	OMIM:612212
+4	0.84	Amelogenesis Imperfecta, Type IIA1	OMIM:204680
+5	0.82	Enamel-Renal Syndrome	OMIM:204690
+6	0.79	Dentinogenesis Imperfecta, Shield's Type II	OMIM:125490
+7	0.76	Oculo-Dento-Digital Dysplasia	OMIM:164200
+8	0.73	Nance-Horan Syndrome	OMIM:302350
+9	0.7	Tricho-Dento-Osseous Syndrome	OMIM:190320
+10	0.67	Ellis-van Creveld Syndrome	OMIM:225500

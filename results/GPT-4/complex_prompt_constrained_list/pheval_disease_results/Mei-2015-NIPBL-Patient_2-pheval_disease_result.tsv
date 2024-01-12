@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:612591
+2	0.8	Rubinstein-Taybi syndrome	OMIM:613454
+3	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.6	Kleefstra syndrome	OMIM:610253
+5	0.5	Angelman syndrome	OMIM:105830
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	CHARGE syndrome	OMIM:214800
+8	0.2	Pitt-Hopkins syndrome	OMIM:610954
+10	0.1	Floating-Harbor syndrome	OMIM:136140

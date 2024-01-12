@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy	OMIM:611182
+2	0.8	Myotubular myopathy	OMIM:255200
+3	0.7	Central core disease	OMIM:117000
+3	0.7	Rigid spine syndrome	OMIM:602771
+5	0.6	Congenital myasthenic syndrome	OMIM:176500
+5	0.6	Collagen VI-related myopathy	OMIM:616470
+7	0.5	Becker muscular dystrophy	OMIM:300376
+8	0.4	Myasthenia gravis	OMIM:159400
+8	0.4	Myopathy, reducing body	OMIM:617200
+10	0.3	Congenital muscular dystrophy-dystroglycanopathy	OMIM:600980

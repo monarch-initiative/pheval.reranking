@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Tuberous sclerosis	OMIM:613254
+2	0.7	Epidermal naevus syndrome	OMIM:613454
+3	0.6	Basal cell nevus syndrome	OMIM:109400
+4	0.5	Oculo-Dento-Digital Dysplasia	OMIM:164200
+5	0.4	Amelogenesis imperfecta	OMIM:104530
+6	0.3	Ectodermal dysplasia	OMIM:604292
+7	0.2	Nevus depigmentosus	OMIM:305100
+8	0.1	Peutz-Jeghers syndrome	OMIM:175200

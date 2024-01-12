@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuchs Endothelial Corneal Dystrophy	OMIM:613267
+2	0.7	Corneal endothelial dystrophy 3	OMIM:613270
+3	0.68	Posterior Polymorphous Corneal Dystrophy 1	OMIM:122000
+4	0.65	Corneal endothelial dystrophy 2	OMIM:613268
+4	0.65	Central Cloudy Dystrophy of Francois	OMIM:121900
+6	0.6	Meesmann Corneal Dystrophy	OMIM:122100
+6	0.6	Corneal Dystrophy, Fleck	OMIM:121850

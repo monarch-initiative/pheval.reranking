@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gout, HPRT-related	OMIM:300322
+2	0.8	HOMG	OMIM:603592
+2	0.8	Renal Cysts And Diabetes Syndrome	OMIM:137920
+4	0.7	Polycystic Kidney Disease	OMIM:173900
+4	0.7	Primary Hyperoxaluria	OMIM:259900
+6	0.6	Lesch-Nyhan Syndrome	OMIM:300322
+6	0.6	Autosomal recessive polycystic kidney disease	OMIM:263200
+8	0.5	Medullary Cystic Kidney Disease	OMIM:603860
+8	0.5	Autosomal Dominant Polycystic Kidney Disease	OMIM:613095
+10	0.4	Juvenile Gout	OMIM:208014

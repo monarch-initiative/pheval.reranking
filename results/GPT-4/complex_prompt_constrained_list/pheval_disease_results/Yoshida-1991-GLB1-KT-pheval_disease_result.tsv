@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gm1 gangliosidosis, type I	OMIM:230500
+2	0.8	Gm1 gangliosidosis, type II	OMIM:230600
+3	0.7	Gm1 gangliosidosis, type III	OMIM:230650
+4	0.6	Neuraminidase deficiency	OMIM:256540
+5	0.5	Sialidosis, type I	OMIM:256550

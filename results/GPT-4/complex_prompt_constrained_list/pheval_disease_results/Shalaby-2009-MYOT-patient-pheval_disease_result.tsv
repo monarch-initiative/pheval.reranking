@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Centronuclear Myopathy 3	OMIM:600974
+2	0.8	Congenital Muscular Dystrophy-Dystroglycanopathy With Mental Retardation, Type B14	OMIM:613509
+3	0.75	Congenital Myopathy With Excess Of Muscle Spindles	OMIM:218040
+4	0.7	Congenital Myotonic Dystrophy	OMIM:116900
+5	0.65	Myofibrillar Myopathy 1	OMIM:601419
+6	0.6	Muscular Dystrophy, Limb-Girdle, Autosomal Recessive 20	OMIM:613158
+7	0.55	Muscular Dystrophy, Congenital, Davignon-Chauveau Type	OMIM:617066
+8	0.5	Myasthenia, Congenital, 11, Associated With Acetylcholine Receptor Deficiency	OMIM:617239
+9	0.45	Neuromuscular Disease, Congenital, With Uniform Type 1 Fiber	OMIM:117000
+10	0.4	Myopathy, Congenital, Compton-North	OMIM:612931

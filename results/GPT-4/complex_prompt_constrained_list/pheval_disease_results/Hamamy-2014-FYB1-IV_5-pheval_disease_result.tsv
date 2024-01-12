@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia, X-Linked, With Or Without Dyserythropoietic Anemia	OMIM:300367
+2	0.85	Thrombocytopenia 7	OMIM:618020
+3	0.8	Thrombocytopenia 6	OMIM:616937
+4	0.75	Thrombocytopenia 5	OMIM:616216
+5	0.7	Thrombocytopenia 4	OMIM:612004
+6	0.65	Thrombocytopenia 3	OMIM:614502
+7	0.6	Thrombocytopenia 2	OMIM:188000
+8	0.55	Thrombocytopenia 1	OMIM:173550
+9	0.5	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+10	0.45	Gray Platelet Syndrome	OMIM:139090

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurofibromatosis, Type I	OMIM:162200
+2	0.75	Watson Syndrome	OMIM:193520
+3	0.6	Legius Syndrome	OMIM:611431
+4	0.4	Leopard Syndrome	OMIM:151100
+5	0.3	Noonan Syndrome	OMIM:163950
+6	0.25	Neurofibromatosis, Type 5	OMIM:614104
+7	0.2	Neurofibromatosis, Type 6	OMIM:613675

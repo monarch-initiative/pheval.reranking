@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease, Type 1B	OMIM:118200
+2	0.8	Charcot-Marie-Tooth Disease, Type 2A2	OMIM:617087
+3	0.7	Charcot-Marie-Tooth Disease, Axonal, Type 2E	OMIM:607684
+4	0.6	Charcot-Marie-Tooth Disease, Axonal, Autosomal Recessive, Type 2	OMIM:617565
+5	0.5	Charcot-Marie-Tooth Disease, Type 4B1	OMIM:601382
+6	0.4	Charcot-Marie-Tooth Disease, Type 4B2	OMIM:604563
+7	0.3	Charcot-Marie-Tooth Disease, Demyelinating, Type 1A	OMIM:118220
+8	0.2	Charcot-Marie-Tooth Disease, X-Linked Recessive, 4	OMIM:310490
+9	0.1	Charcot-Marie-Tooth Disease, Type 2B1	OMIM:605588
+10	0.05	Charcot-Marie-Tooth Disease, Type 2B2	OMIM:605589

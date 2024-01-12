@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spherocytosis	OMIM:182900
+2	0.85	Congenital Hemolytic Anemia	OMIM:612690
+3	0.75	Spherocytosis type 2	OMIM:616649
+4	0.65	Spherocytosis type 3	OMIM:270970
+5	0.55	Spherocytosis type 4	OMIM:612653
+6	0.45	Spherocytosis type 5	OMIM:612748

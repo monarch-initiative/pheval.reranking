@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome, dominant	OMIM:153670
+2	0.8	Bernard-Soulier syndrome, recessive	OMIM:231200
+3	0.7	Autosomal thrombocytopenia with normal platelets	OMIM:313900
+4	0.6	Thrombocytopenia 1	OMIM:313900
+5	0.5	Medullary cystic kidney disease 2	OMIM:603860
+6	0.4	X-linked thrombocytopenia 1	OMIM:313900
+7	0.3	Platelet-type bleeding disorder 20	OMIM:617443
+8	0.2	Radioulnar synostosis with microcephaly	OMIM:616738
+9	0.1	SeSAME syndrome	OMIM:612780
+10	0.05	Stormorken syndrome	OMIM:185070

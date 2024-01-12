@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:115150
+2	0.8	Loeys-Dietz Syndrome	OMIM:609192
+3	0.7	Homocystinuria due to CBS deficiency	OMIM:236200
+4	0.6	Stickler Syndrome, Type I	OMIM:108300
+5	0.5	Stickler Syndrome, Type II	OMIM:604841
+6	0.4	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+7	0.3	Lens subluxation and myocardial infarction syndrome	OMIM:614614
+7	0.3	Familial thoracic aortic aneurysm and aortic dissection	OMIM:608967
+9	0.2	Shprintzen-Goldberg syndrome	OMIM:182212
+9	0.2	Ehlers-Danlos syndrome, kyphoscoliotic and deafness type	OMIM:614557

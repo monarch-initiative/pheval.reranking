@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Myotonia, Autosomal Recessive	OMIM:255700
+2	0.8	Congenital Myotonia, Autosomal Dominant	OMIM:160800
+3	0.7	Becker muscular dystrophy	OMIM:300376
+3	0.7	Duchenne muscular dystrophy	OMIM:310200
+5	0.6	Myopathy with lactic acidosis and sideroblastic anemia 2	OMIM:617613
+6	0.5	Multiminicore disease	OMIM:255320
+7	0.4	Stiff person syndrome	OMIM:184850
+8	0.3	Congenital muscular dystrophy-dystroglycanopathy with mental retardation type B5	OMIM:606612
+9	0.2	Congenital generalized lipodystrophy type 3	OMIM:612526
+10	0.1	Myopathy and diabetes mellitus	OMIM:615518

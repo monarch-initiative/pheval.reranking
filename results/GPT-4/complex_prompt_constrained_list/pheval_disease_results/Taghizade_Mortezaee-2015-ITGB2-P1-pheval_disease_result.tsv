@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency	OMIM:116920
+2	0.85	Leukocyte Adhesion Deficiency, Type III	OMIM:612840
+3	0.8	Leukocyte Adhesion Deficiency, Type II	OMIM:266265
+4	0.7	Chediak-Higashi syndrome	OMIM:214500
+5	0.65	Chronic Granulomatous Disease	OMIM:306400
+6	0.6	Granulomatous Disease, Chronic, X-Linked	OMIM:306400
+7	0.55	Myeloperoxidase Deficiency	OMIM:254600
+8	0.5	Neutrophil Actin Dysfunction	OMIM:257150
+9	0.45	Neutrophil immunodeficiency syndrome	OMIM:608860
+10	0.4	Proteasome-associated autoinflammatory syndromes	OMIM:256040

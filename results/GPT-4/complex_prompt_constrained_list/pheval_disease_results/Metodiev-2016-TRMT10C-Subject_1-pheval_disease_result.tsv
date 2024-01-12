@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial Complex IV Deficiency	OMIM:220110
+2	0.89	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-like Episodes	OMIM:540000
+3	0.87	Leigh Syndrome	OMIM:256000
+4	0.83	Leigh Syndrome Due To Mitochondrial Complex I Deficiency	OMIM:252010
+5	0.8	Multiple Acyl-CoA Dehydrogenase Deficiency	OMIM:231680
+6	0.78	Mitochondrial Dna Depletion Syndrome 7 (Hepatocerebral Type)	OMIM:271245
+7	0.76	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+8	0.74	Leigh Syndrome Due To Pyruvate Dehydrogenase E1 Component Deficiency	OMIM:211000
+9	0.71	NARP Syndrome	OMIM:551500
+10	0.68	Congenital Disease Of Glycosylation Type 1A	OMIM:212065
