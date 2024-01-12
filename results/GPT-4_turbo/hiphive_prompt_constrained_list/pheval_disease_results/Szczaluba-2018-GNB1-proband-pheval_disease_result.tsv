@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.79	Coffin-Siris syndrome	OMIM:135900
+4	0.78	Angelman syndrome	OMIM:105830
+5	0.76	Mowat-Wilson syndrome	OMIM:235730
+6	0.75	CHARGE syndrome	OMIM:214800
+7	0.73	Cornelia de Lange syndrome	OMIM:122470
+8	0.71	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.7	Williams syndrome	OMIM:194050
+10	0.69	Prader-Willi syndrome	OMIM:176270

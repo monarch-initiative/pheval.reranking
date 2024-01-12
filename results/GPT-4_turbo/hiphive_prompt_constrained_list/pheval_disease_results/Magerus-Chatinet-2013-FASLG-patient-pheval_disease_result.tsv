@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune lymphoproliferative syndrome	OMIM:601859
+2	0.92	Common variable immunodeficiency	OMIM:607594
+3	0.89	X-linked lymphoproliferative syndrome	OMIM:308240
+4	0.86	Chronic granulomatous disease	OMIM:306400
+5	0.85	Hemophagocytic lymphohistiocytosis, familial	OMIM:267700
+6	0.82	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.81	Hyper-IgM immunodeficiency syndrome	OMIM:308230
+8	0.78	Gaucher disease	OMIM:230800
+9	0.76	Lysosomal acid lipase deficiency	OMIM:278000
+10	0.75	DiGeorge syndrome	OMIM:188400

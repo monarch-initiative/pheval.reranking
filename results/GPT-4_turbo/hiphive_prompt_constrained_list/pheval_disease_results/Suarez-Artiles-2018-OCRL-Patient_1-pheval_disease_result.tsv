@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lowe syndrome	OMIM:309000
+2	0.93	Dent disease 1	OMIM:300009
+3	0.85	Primary congenital glaucoma	OMIM:231300
+4	0.82	Cystinosis	OMIM:219800
+5	0.8	Fanconi-Bickel syndrome	OMIM:227810
+6	0.75	Alport syndrome	OMIM:301050
+7	0.7	Bardet-Biedl syndrome	OMIM:209900
+8	0.68	Nail-patella syndrome	OMIM:161200
+9	0.65	Wilson disease	OMIM:277900
+10	0.63	Fabry disease	OMIM:301500

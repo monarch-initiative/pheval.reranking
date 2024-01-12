@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Noonan syndrome 1	OMIM:163950
+2	0.81	Neurofibromatosis, type 1	OMIM:162200
+3	0.79	Legius syndrome	OMIM:611431
+4	0.77	Watson syndrome	OMIM:193520
+5	0.75	LEOPARD syndrome 1	OMIM:151100
+6	0.72	Costello syndrome	OMIM:218040
+7	0.69	Craniofrontonasal syndrome	OMIM:304110
+8	0.67	Cardiofaciocutaneous syndrome	OMIM:115150
+9	0.65	Apert syndrome	OMIM:101200
+10	0.63	Crouzon syndrome	OMIM:123500

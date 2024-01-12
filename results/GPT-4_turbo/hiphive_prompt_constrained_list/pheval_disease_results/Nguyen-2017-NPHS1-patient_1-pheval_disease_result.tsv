@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital Nephrotic Syndrome, Finnish Type	OMIM:256300
+2	0.93	Nephrotic Syndrome, Type 1	OMIM:256300
+3	0.91	Nephrotic Syndrome, Type 2	OMIM:600995
+4	0.88	Pulmonary Surfactant Metabolism Dysfunction, Type 1	OMIM:265120
+5	0.86	Pulmonary Surfactant Metabolism Dysfunction, Type 2	OMIM:610913
+6	0.84	Diabetes Mellitus, Insulin-Resistant, With Acanthosis Nigricans	OMIM:610549
+7	0.82	Lipoprotein Glomerulopathy	OMIM:611771
+8	0.8	Hypercholesterolemia, Familial	OMIM:143890
+9	0.79	Lecithin Cholesterol Acyltransferase Deficiency	OMIM:245900
+10	0.77	Lymphedema-Distichiasis Syndrome	OMIM:153400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome 1	OMIM:163950
+2	0.82	Craniofrontonasal syndrome	OMIM:304110
+3	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.78	LEOPARD syndrome 1	OMIM:151100
+5	0.76	Treacher Collins syndrome 1	OMIM:154500
+6	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+7	0.73	Williams-Beuren syndrome	OMIM:194050
+8	0.71	CHARGE syndrome	OMIM:214800
+9	0.69	Coffin-Siris syndrome 1	OMIM:135900
+10	0.67	Wolf-Hirschhorn syndrome	OMIM:194190

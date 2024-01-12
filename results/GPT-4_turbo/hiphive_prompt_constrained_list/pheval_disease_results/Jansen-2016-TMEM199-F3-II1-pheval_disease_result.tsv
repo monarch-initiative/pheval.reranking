@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypercholesterolemia, Autosomal Dominant, 3	OMIM:603776
+2	0.87	Wilson disease	OMIM:277900
+3	0.85	Alagille syndrome 1	OMIM:118450
+4	0.82	Citrullinemia, Classic	OMIM:215700
+5	0.81	Glycogen Storage Disease Type II	OMIM:232300
+6	0.8	Glycogen Storage Disease Type IV	OMIM:232500
+7	0.79	Tyrosinemia, Type I	OMIM:276700
+8	0.78	Hyperchylomicronemia, Late-Onset	OMIM:144650
+9	0.77	Nonaka Myopathy	OMIM:605820
+10	0.76	Mevalonic Aciduria	OMIM:610377

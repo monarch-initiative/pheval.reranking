@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome 1	OMIM:192500
+2	0.9	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.86	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+4	0.82	Glycogen Storage Disease Type II	OMIM:232300
+5	0.78	Malignant Hyperthermia	OMIM:145600
+6	0.76	Myoadenylate Deaminase Deficiency	OMIM:615511
+7	0.74	Limb-Girdle Muscular Dystrophy	OMIM:253600
+8	0.72	Danon Disease	OMIM:300257
+9	0.7	Becker Muscular Dystrophy	OMIM:300376
+10	0.68	Pompe Disease	OMIM:232300

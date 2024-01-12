@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.85	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.85	Mucopolysaccharidosis type IV	OMIM:253000
+4	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Marshall syndrome	OMIM:154780
+4	0.8	Rubinstein-Taybi syndrome 1	OMIM:180849
+7	0.75	Myhre syndrome	OMIM:139210
+7	0.75	Branchiootorenal syndrome 1	OMIM:113650
+7	0.75	Baraitser-Winter syndrome 1	OMIM:243310
+7	0.75	Pitt-Hopkins syndrome	OMIM:610954

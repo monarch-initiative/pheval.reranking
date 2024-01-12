@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.87	Prader-Willi Syndrome	OMIM:176270
+3	0.85	Leber Congenital Amaurosis	OMIM:204000
+4	0.83	Retinitis Pigmentosa	OMIM:268000
+5	0.82	Laurence-Moon Syndrome	OMIM:245800
+6	0.8	Alstrom Syndrome	OMIM:203800
+7	0.79	Cohen Syndrome	OMIM:216550
+8	0.75	Kallmann Syndrome	OMIM:308700
+9	0.73	Stickler Syndrome	OMIM:108300
+10	0.71	Usher Syndrome	OMIM:276900

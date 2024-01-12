@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.88	Loeys-Dietz Syndrome, Type 1	OMIM:609192
+3	0.86	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+4	0.84	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.82	Beals-Hecht Syndrome	OMIM:121050
+6	0.8	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.78	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+8	0.76	Arthrogryposis, Renal Dysfunction, and Cholestasis 1	OMIM:208085
+9	0.74	Homocystinuria	OMIM:236200
+10	0.72	Supravalvular Aortic Stenosis	OMIM:185500

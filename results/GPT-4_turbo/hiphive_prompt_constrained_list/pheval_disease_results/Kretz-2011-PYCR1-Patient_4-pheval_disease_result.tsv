@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cutis Laxa, Autosomal Recessive, Type IIIB	OMIM:615636
+2	0.93	Cutis Laxa, Autosomal Dominant 1	OMIM:123700
+3	0.91	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+4	0.9	Ehlers-Danlos Syndrome, Progeroid Type, 2	OMIM:615349
+5	0.88	Geroderma Osteodysplasticum	OMIM:231070
+6	0.86	Marfan Syndrome	OMIM:154700
+7	0.85	Larsen Syndrome, Autosomal Dominant	OMIM:150250
+8	0.83	Arthrogryposis, Renal Dysfunction, And Cholestasis 1	OMIM:208085
+9	0.82	Aspartylglucosaminuria	OMIM:208400
+10	0.8	De Barsy Syndrome	OMIM:219150

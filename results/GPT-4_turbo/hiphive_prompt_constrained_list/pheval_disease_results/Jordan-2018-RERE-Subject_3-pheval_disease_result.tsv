@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE syndrome	OMIM:214800
+2	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.85	22q11.2 deletion syndrome	OMIM:611867
+4	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.78	Kabuki syndrome 1	OMIM:147920
+6	0.75	Noonan syndrome 1	OMIM:163950
+7	0.73	Williams syndrome	OMIM:194050
+8	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.68	Coffin-Siris syndrome 1	OMIM:135900
+10	0.65	Pitt-Hopkins syndrome	OMIM:610954

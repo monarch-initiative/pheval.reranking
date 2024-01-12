@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Essential thrombocythemia	OMIM:187950
+2	0.9	Primary myelofibrosis	OMIM:254450
+3	0.85	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+4	0.83	Polycythemia vera	OMIM:263300
+5	0.82	MYH9-related disorders	OMIM:160775
+6	0.8	Thrombocytopenia 2	OMIM:188000
+7	0.75	Glanzmann thrombasthenia	OMIM:273800
+8	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+9	0.65	Jacobsen syndrome	OMIM:147791
+10	0.6	Hemophilia A	OMIM:306700

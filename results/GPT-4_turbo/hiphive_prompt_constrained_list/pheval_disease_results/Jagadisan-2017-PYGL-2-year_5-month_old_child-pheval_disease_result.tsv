@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glycogen storage disease type I	OMIM:232200
+2	0.9	Tyrosinemia type I	OMIM:276700
+3	0.85	Wolman disease	OMIM:278000
+4	0.83	Zellweger syndrome	OMIM:214100
+5	0.82	Niemann-Pick disease, type C1	OMIM:257220
+6	0.8	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+7	0.78	Propionic acidemia	OMIM:606054
+8	0.76	Crigler-Najjar syndrome, type I	OMIM:218800
+9	0.75	Gaucher disease, type 1	OMIM:230800
+10	0.73	Galactosemia	OMIM:230400

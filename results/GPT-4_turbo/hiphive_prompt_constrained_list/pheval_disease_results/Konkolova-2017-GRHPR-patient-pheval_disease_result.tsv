@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria	OMIM:259900
+2	0.9	Dent disease	OMIM:300009
+3	0.85	Hyperoxaluria, type I	OMIM:259900
+4	0.8	Hyperoxaluria, type II	OMIM:260000
+5	0.75	Cystinuria	OMIM:220100
+6	0.7	Nephrocalcinosis	OMIM:143870
+7	0.65	Familial hypomagnesemia with hypercalciuria and nephrocalcinosis	OMIM:248250
+8	0.6	Autosomal dominant hypocalcemia	OMIM:601198
+9	0.55	Bartter syndrome, type 3	OMIM:607364
+10	0.5	X-linked hypophosphatemia	OMIM:307800

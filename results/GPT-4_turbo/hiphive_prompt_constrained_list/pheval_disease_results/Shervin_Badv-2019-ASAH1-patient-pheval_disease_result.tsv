@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Limb-girdle muscular dystrophy, type 2A	OMIM:253600
+2	0.89	Myoclonus-dystonia syndrome	OMIM:159900
+3	0.86	Becker muscular dystrophy	OMIM:300376
+4	0.82	Amyotrophic lateral sclerosis	OMIM:105400
+5	0.8	Pompe disease	OMIM:232300
+6	0.77	Myasthenic syndrome, congenital, with tubular aggregates 2	OMIM:614750
+7	0.75	Duchenne muscular dystrophy	OMIM:310200
+8	0.73	Nemaline myopathy 2, autosomal recessive	OMIM:256030
+9	0.71	Rippling muscle disease 1	OMIM:606072
+10	0.68	Glycogen storage disease VII	OMIM:232800

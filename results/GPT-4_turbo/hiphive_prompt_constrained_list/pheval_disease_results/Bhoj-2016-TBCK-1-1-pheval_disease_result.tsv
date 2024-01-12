@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pontocerebellar Hypoplasia Type 1B	OMIM:614678
+2	0.82	Rett Syndrome	OMIM:312750
+3	0.8	Angelman Syndrome	OMIM:105830
+4	0.79	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.78	Prader-Willi Syndrome	OMIM:176270
+6	0.76	Spinal Muscular Atrophy	OMIM:253300
+7	0.75	Coffin-Siris Syndrome	OMIM:135900
+8	0.73	Pitt-Hopkins Syndrome	OMIM:610954
+9	0.72	Aicardi-Goutieres Syndrome	OMIM:225750
+10	0.7	Zellweger Syndrome	OMIM:214100

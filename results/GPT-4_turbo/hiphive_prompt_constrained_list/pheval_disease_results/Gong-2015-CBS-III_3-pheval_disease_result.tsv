@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.91	Homocystinuria	OMIM:236200
+3	0.85	Weill-Marchesani Syndrome 2, Autosomal Recessive	OMIM:608328
+4	0.83	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+5	0.81	Spinocerebellar Ataxia 1	OMIM:164400
+6	0.79	Behr Syndrome	OMIM:210000
+7	0.78	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.75	Friedreich Ataxia	OMIM:229300
+9	0.72	Mitochondrial Complex I Deficiency	OMIM:252010
+10	0.7	Cone-Rod Dystrophy And Hearing Loss	OMIM:602093

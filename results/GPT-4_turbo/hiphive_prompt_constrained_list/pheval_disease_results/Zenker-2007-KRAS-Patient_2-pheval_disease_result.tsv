@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.87	Noonan syndrome 1	OMIM:163950
+3	0.85	Mowat-Wilson syndrome	OMIM:235730
+4	0.82	RAS-associated leukoproliferative disorder	OMIM:616224
+5	0.81	Kleefstra syndrome 1	OMIM:610253
+6	0.78	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.76	Lujan-Fryns syndrome	OMIM:309520
+8	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.73	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.71	Seckel syndrome 1	OMIM:210600

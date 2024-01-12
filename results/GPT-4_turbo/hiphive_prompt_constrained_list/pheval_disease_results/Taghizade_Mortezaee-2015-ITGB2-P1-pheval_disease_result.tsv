@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte adhesion deficiency, type I	OMIM:116920
+2	0.75	Papillon-Lefevre syndrome	OMIM:245000
+3	0.72	Pyogenic sterile arthritis, pyoderma gangrenosum, and acne	OMIM:604416
+4	0.7	Chronic granulomatous disease	OMIM:233690
+5	0.68	Hyper IgE recurrent infection syndrome	OMIM:243700
+6	0.66	Glycogen storage disease Ib	OMIM:232220
+7	0.64	Haim-Munk syndrome	OMIM:245010
+8	0.62	Cyclic neutropenia	OMIM:162800
+9	0.6	Job syndrome	OMIM:147060
+10	0.58	Shwachman-Diamond syndrome	OMIM:260400

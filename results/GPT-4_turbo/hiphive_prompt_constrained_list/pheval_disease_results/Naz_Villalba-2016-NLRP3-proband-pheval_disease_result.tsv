@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Behcet Syndrome	OMIM:109650
+2	0.85	Systemic Lupus Erythematosus	OMIM:152700
+3	0.83	Cryopyrin-Associated Periodic Syndromes	OMIM:260920
+4	0.82	Schnitzler Syndrome	OMIM:601305
+5	0.8	Familial Mediterranean Fever	OMIM:249100
+6	0.78	Temporal Arteritis	OMIM:187380
+7	0.75	Sarcoidosis	OMIM:181000
+8	0.73	Takayasu Arteritis	OMIM:207600
+9	0.72	Granulomatosis with Polyangiitis	OMIM:608710
+10	0.7	Polyarteritis Nodosa	OMIM:167250

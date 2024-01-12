@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Cleidocranial dysplasia	OMIM:119600
+2	0.83	Apert syndrome	OMIM:101200
+3	0.81	Ellis-van Creveld syndrome	OMIM:225500
+4	0.79	Mandibulofacial dysostosis with microcephaly	OMIM:610536
+5	0.77	Acrocephalosyndactyly type I	OMIM:101200
+6	0.76	Fibrodysplasia ossificans progressiva	OMIM:135100
+7	0.75	Cornelia de Lange syndrome	OMIM:122470
+8	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.7	Pallister-Hall syndrome	OMIM:146510
+10	0.69	Carpenter syndrome	OMIM:201000

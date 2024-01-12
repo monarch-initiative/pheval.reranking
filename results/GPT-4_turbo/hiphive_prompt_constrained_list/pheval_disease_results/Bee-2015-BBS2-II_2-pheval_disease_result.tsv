@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bardet-Biedl syndrome	OMIM:209900
+2	0.89	Alstrom syndrome	OMIM:203800
+3	0.87	Wolfram syndrome	OMIM:222300
+4	0.85	Cohen syndrome	OMIM:216550
+5	0.83	McKusick Kaufman syndrome	OMIM:236700
+6	0.81	Nephronophthisis	OMIM:256100
+7	0.79	Leptin receptor deficient obesity	OMIM:614963
+8	0.77	Usher syndrome, type 2C	OMIM:605472
+9	0.75	Meckel syndrome	OMIM:249000
+10	0.73	Joubert syndrome	OMIM:213300

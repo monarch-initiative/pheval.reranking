@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Mowat-Wilson syndrome	OMIM:235730
+4	0.78	MECP2 duplication syndrome	OMIM:300260
+5	0.75	West syndrome	OMIM:308350
+6	0.73	Lissencephaly	OMIM:607432
+7	0.7	Zellweger syndrome	OMIM:214100
+8	0.68	Angelman syndrome	OMIM:105830
+9	0.66	Pelizaeus-Merzbacher disease	OMIM:312080
+10	0.64	Alexander disease	OMIM:203500

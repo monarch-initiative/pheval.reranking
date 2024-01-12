@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+2	0.88	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+3	0.86	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+4	0.84	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+5	0.82	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+6	0.8	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+7	0.78	Hypomyelinating leukodystrophy 5	OMIM:610532
+8	0.76	Charcot-Marie-Tooth disease, type 2D	OMIM:601472
+9	0.74	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+10	0.72	Charcot-Marie-Tooth disease, type 4C	OMIM:601596

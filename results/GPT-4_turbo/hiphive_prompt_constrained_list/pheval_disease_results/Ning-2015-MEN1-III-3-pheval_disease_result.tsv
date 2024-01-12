@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple Endocrine Neoplasia, Type I	OMIM:131100
+2	0.85	Pituitary Adenoma, Prolactin-Secreting	OMIM:600634
+2	0.85	Primary Hyperparathyroidism	OMIM:145000
+4	0.8	Hereditary Paraganglioma-Pheochromocytoma Syndromes	OMIM:168000
+5	0.75	Nelson Syndrome	OMIM:601828
+5	0.75	Carney Complex, Type 1	OMIM:160980
+7	0.7	Isolated Familial Somatotropinoma	OMIM:102200
+7	0.7	Gastrointestinal Stromal Tumor	OMIM:606764
+9	0.65	Von Hippel-Lindau Syndrome	OMIM:193300
+9	0.65	Multiple Endocrine Neoplasia, Type Iv	OMIM:610755

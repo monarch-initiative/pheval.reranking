@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Parkinson disease 1	OMIM:168600
+2	0.75	Dystonia 12	OMIM:128235
+3	0.7	Leukodystrophy, hypomyelinating, 6	OMIM:612438
+4	0.65	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+5	0.6	Angelman syndrome	OMIM:105830
+6	0.55	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+7	0.5	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+8	0.45	Perry syndrome	OMIM:168605
+9	0.4	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.35	Neurodegeneration with brain iron accumulation 1	OMIM:234200

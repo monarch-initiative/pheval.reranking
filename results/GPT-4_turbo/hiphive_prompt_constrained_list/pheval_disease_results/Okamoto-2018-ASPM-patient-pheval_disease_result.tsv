@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+2	0.82	Angelman syndrome	OMIM:105830
+3	0.79	Coffin-Siris syndrome	OMIM:135900
+4	0.76	Mowat-Wilson syndrome	OMIM:235730
+5	0.74	Wieacker-Wolff syndrome	OMIM:314580
+6	0.71	Rett syndrome	OMIM:312750
+7	0.69	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.66	Seckel syndrome	OMIM:210600
+9	0.63	Schinzel-Giedion syndrome	OMIM:269150
+10	0.61	Cornelia de Lange syndrome 1	OMIM:122470

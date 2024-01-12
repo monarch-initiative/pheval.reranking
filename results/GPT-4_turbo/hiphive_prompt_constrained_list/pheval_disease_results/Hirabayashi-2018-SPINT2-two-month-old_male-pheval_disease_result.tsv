@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.85	Baraitser-Winter Syndrome 1	OMIM:243310
+3	0.83	CHARGE Syndrome	OMIM:214800
+4	0.81	Velocardiofacial Syndrome	OMIM:192430
+5	0.8	22q11.2 Deletion Syndrome	OMIM:611867
+6	0.79	Treacher Collins Syndrome 1	OMIM:154500
+7	0.77	Craniofrontonasal Dysplasia	OMIM:304110
+8	0.75	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.73	Noonan Syndrome 1	OMIM:163950
+10	0.71	Goldenhar Syndrome	OMIM:164210

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome 4	OMIM:614609
+2	0.87	Pitt-Hopkins syndrome	OMIM:610954
+3	0.85	Ohdo syndrome, SBBYS variant	OMIM:603736
+4	0.83	Mowat-Wilson syndrome	OMIM:235730
+5	0.81	Schinzel-Giedion syndrome	OMIM:269150
+6	0.79	Coffin-Siris syndrome 1	OMIM:135900
+7	0.77	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.75	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.73	Kabuki syndrome 1	OMIM:147920
+10	0.71	Angelman syndrome	OMIM:105830

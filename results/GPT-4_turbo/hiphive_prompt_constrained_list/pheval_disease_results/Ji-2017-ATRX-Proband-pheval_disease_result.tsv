@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome 1	OMIM:163950
+2	0.82	Floating-Harbor syndrome	OMIM:136140
+3	0.81	LEOPARD syndrome 1	OMIM:151100
+4	0.79	Costello syndrome	OMIM:218040
+5	0.77	Ohdo syndrome, X-linked	OMIM:300895
+6	0.76	Coffin-Lowry syndrome	OMIM:303600
+7	0.75	Sotos syndrome 1	OMIM:117550
+8	0.73	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.72	Kabuki syndrome 1	OMIM:147920
+10	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849

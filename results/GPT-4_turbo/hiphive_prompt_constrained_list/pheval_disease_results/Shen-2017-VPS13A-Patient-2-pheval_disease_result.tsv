@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Huntington Disease-Like 2	OMIM:606438
+2	0.88	Neuroacanthocytosis	OMIM:200150
+3	0.86	Chorea-Acanthocytosis	OMIM:200150
+4	0.85	Huntington Disease	OMIM:143100
+5	0.82	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+6	0.8	Wilson Disease	OMIM:277900
+7	0.78	Lesch-Nyhan Syndrome	OMIM:300322
+8	0.75	Dentatorubral-Pallidoluysian Atrophy	OMIM:125370
+9	0.73	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+10	0.71	Spinocerebellar Ataxia Type 17	OMIM:607136

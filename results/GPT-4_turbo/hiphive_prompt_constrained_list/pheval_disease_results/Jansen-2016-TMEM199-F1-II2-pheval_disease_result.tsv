@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Wilson disease	OMIM:277900
+2	0.89	Antithrombin III deficiency	OMIM:613118
+3	0.88	Hypercholesterolemia, familial	OMIM:143890
+4	0.86	Cholestasis, progressive familial intrahepatic 3	OMIM:602347
+5	0.85	Alagille syndrome	OMIM:118450
+6	0.83	Citrullinemia, type I	OMIM:215700
+7	0.82	Glycogen storage disease IV	OMIM:232500
+8	0.81	Zellweger syndrome	OMIM:214100
+9	0.79	Familial hypercholesterolemia	OMIM:606945
+10	0.78	Congenital disorders of glycosylation, type Ia	OMIM:212065

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniofrontonasal syndrome	OMIM:304110
+2	0.85	Coffin-Siris syndrome	OMIM:135900
+3	0.83	Kleefstra syndrome 1	OMIM:610253
+4	0.82	Pfeiffer syndrome	OMIM:101600
+5	0.81	Mowat-Wilson syndrome	OMIM:235730
+6	0.8	FG syndrome 4	OMIM:300422
+7	0.77	CHARGE syndrome	OMIM:214800
+8	0.75	Apert syndrome	OMIM:101200
+9	0.74	Saethre-Chotzen syndrome	OMIM:101400
+10	0.72	Pitt-Hopkins syndrome	OMIM:610954

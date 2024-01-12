@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+2	0.82	Coffin-Siris syndrome	OMIM:135900
+3	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.78	Ohdo syndrome, Say-Barber-Biesecker variant	OMIM:603736
+5	0.75	Noonan syndrome 1	OMIM:163950
+6	0.73	Kabuki syndrome 1	OMIM:147920
+7	0.71	Waardenburg syndrome, type 1	OMIM:193500
+8	0.69	CHARGE syndrome	OMIM:214800
+9	0.66	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.64	Treacher Collins syndrome 1	OMIM:154500

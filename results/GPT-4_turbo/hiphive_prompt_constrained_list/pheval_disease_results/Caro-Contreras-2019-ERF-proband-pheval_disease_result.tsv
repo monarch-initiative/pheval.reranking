@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.82	Marfan syndrome	OMIM:154700
+3	0.81	Apert syndrome	OMIM:101200
+4	0.8	Crouzon syndrome	OMIM:123500
+5	0.79	Stickler syndrome	OMIM:108300
+6	0.77	Cohen syndrome	OMIM:216550
+7	0.75	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.75	Noonan syndrome	OMIM:163950
+9	0.74	Cornelia de Lange syndrome	OMIM:122470
+10	0.73	Saethre-Chotzen syndrome	OMIM:101400

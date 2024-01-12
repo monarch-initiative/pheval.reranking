@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Spondylocarpotarsal synostosis	OMIM:272460
+2	0.82	Larsen syndrome	OMIM:150250
+3	0.8	Desbuquois dysplasia	OMIM:251450
+4	0.78	Cleidocranial dysplasia	OMIM:119600
+5	0.76	Diastrophic dysplasia	OMIM:222600
+6	0.74	Campomelic dysplasia	OMIM:114290
+7	0.72	Saethre-Chotzen syndrome	OMIM:101400
+8	0.7	Apert syndrome	OMIM:101200
+9	0.68	Shprintzen-Goldberg syndrome	OMIM:182212
+10	0.66	Ellis-van Creveld syndrome	OMIM:225500

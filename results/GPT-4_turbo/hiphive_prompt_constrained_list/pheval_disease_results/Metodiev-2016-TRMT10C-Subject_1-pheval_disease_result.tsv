@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leigh syndrome	OMIM:256000
+2	0.9	Mitochondrial complex I deficiency	OMIM:252010
+3	0.88	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+4	0.85	Mitochondrial myopathy	OMIM:000142
+5	0.84	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+6	0.82	Pompe disease	OMIM:232300
+7	0.8	Cytochrome C oxidase deficiency	OMIM:220110
+8	0.78	Alpers syndrome	OMIM:203700
+9	0.76	MELAS syndrome	OMIM:540000
+10	0.74	Barth syndrome	OMIM:302060

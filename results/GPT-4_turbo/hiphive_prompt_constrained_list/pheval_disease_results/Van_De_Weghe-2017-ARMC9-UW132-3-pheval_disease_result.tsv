@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome 10	OMIM:614173
+2	0.88	Senior-Loken syndrome 1	OMIM:266900
+3	0.87	Leber congenital amaurosis 10	OMIM:611755
+4	0.85	Retinitis pigmentosa 25	OMIM:605073
+5	0.84	Bardet-Biedl syndrome 1	OMIM:209900
+6	0.82	Cone-rod dystrophy 15	OMIM:613660
+7	0.81	Meckel syndrome 5	OMIM:611561
+8	0.8	Spinocerebellar ataxia 7	OMIM:164500
+9	0.79	Bardet-Biedl syndrome 4	OMIM:615982
+10	0.78	Carbohydrate-deficient glycoprotein syndrome type I	OMIM:212065

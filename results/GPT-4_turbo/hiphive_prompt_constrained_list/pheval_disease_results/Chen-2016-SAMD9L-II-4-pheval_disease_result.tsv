@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar Ataxia 28	OMIM:610246
+2	0.9	Shwachman-Diamond Syndrome	OMIM:260400
+3	0.85	Diamond-Blackfan Anemia 1	OMIM:105650
+4	0.8	Dyskeratosis Congenita, Autosomal Dominant 1	OMIM:127550
+5	0.78	Ataxia-Telangiectasia	OMIM:208900
+6	0.76	Ataxia, Early-Onset, with Oculomotor Apraxia and Hypoalbuminemia	OMIM:606002
+7	0.73	Friedreich Ataxia	OMIM:229300
+8	0.7	Mitochondrial DNA Depletion Syndrome 4B, MNGIE Type	OMIM:613662
+9	0.68	Cerebellar Ataxia, Deafness, and Narcolepsy, Autosomal Dominant	OMIM:604121
+10	0.65	Cerebellar Ataxia, Neuropathy, and Vestibular Areflexia Syndrome	OMIM:614575

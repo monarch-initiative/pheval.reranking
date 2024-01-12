@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.92	Angelman syndrome	OMIM:105830
+3	0.9	Lissencephaly	OMIM:607432
+3	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.88	X-linked lissencephaly	OMIM:300215
+6	0.87	Mowat-Wilson syndrome	OMIM:235730
+7	0.86	West syndrome	OMIM:308350
+8	0.85	Zellweger syndrome	OMIM:214100
+9	0.84	Coffin-Lowry syndrome	OMIM:303600
+10	0.83	Pitt-Hopkins syndrome	OMIM:610954

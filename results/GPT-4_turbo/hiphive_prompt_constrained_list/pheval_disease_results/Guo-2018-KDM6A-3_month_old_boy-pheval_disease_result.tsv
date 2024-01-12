@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.82	Noonan syndrome 1	OMIM:163950
+3	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Williams syndrome	OMIM:194050
+5	0.79	Charge syndrome	OMIM:214800
+6	0.78	22q11.2 deletion syndrome	OMIM:188400
+7	0.76	Treacher Collins syndrome 1	OMIM:154500
+8	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.73	DiGeorge syndrome	OMIM:188400
+10	0.72	Kabuki syndrome 1	OMIM:147920

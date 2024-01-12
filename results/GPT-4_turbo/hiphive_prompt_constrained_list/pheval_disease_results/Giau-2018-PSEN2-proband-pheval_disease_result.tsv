@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alzheimer Disease	OMIM:104300
+2	0.84	Frontotemporal Dementia	OMIM:600274
+3	0.82	Huntington Disease	OMIM:143100
+4	0.8	Bipolar Disorder	OMIM:125480
+5	0.78	Parkinson Disease	OMIM:168600
+6	0.76	Schizophrenia	OMIM:181500
+7	0.74	Prion Diseases	OMIM:123400
+8	0.72	Pick Disease	OMIM:172700
+9	0.7	Lewy Body Dementia	OMIM:127750
+10	0.68	Autism Spectrum Disorder	OMIM:209850

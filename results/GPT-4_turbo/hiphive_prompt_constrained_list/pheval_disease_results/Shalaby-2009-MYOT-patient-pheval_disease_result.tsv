@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Centronuclear myopathy 1	OMIM:160150
+2	0.9	Myopathy, centronuclear, 3, autosomal recessive	OMIM:614408
+3	0.88	Myopathy, centronuclear, 2	OMIM:255200
+4	0.86	Becker muscular dystrophy	OMIM:300376
+5	0.84	Myotonic dystrophy 1	OMIM:160900
+6	0.82	Myotonic dystrophy 2	OMIM:602668
+7	0.8	Facioscapulohumeral muscular dystrophy 1	OMIM:158900
+8	0.78	Limb-girdle muscular dystrophy, type 2L	OMIM:611307
+9	0.76	Emery-Dreifuss muscular dystrophy	OMIM:310300
+10	0.74	Nemaline myopathy 1	OMIM:609284

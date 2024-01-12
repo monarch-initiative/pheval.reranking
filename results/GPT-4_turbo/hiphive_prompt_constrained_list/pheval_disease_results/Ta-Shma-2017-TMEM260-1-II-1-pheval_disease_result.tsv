@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holt-Oram Syndrome	OMIM:142900
+2	0.85	Ellis-van Creveld Syndrome	OMIM:225500
+3	0.8	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+4	0.75	Noonan Syndrome 1	OMIM:163950
+5	0.7	DiGeorge Syndrome	OMIM:188400
+6	0.65	CHARGE Syndrome	OMIM:214800
+7	0.6	Marfan Syndrome	OMIM:154700
+8	0.55	Congenital Heart Defects, Multiple Types, 2	OMIM:614980
+9	0.5	Noonan Syndrome 7	OMIM:613706
+10	0.45	Alagille Syndrome 1	OMIM:118450

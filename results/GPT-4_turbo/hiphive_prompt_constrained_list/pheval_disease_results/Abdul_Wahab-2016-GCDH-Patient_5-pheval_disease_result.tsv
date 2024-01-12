@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glutaric acidemia type 1	OMIM:231670
+2	0.8	Megalencephaly	OMIM:155350
+3	0.75	Alexander disease	OMIM:203450
+4	0.72	Primary autosomal recessive microcephaly 1	OMIM:251200
+5	0.7	Canavan disease	OMIM:271900
+6	0.68	Leigh syndrome	OMIM:256000
+7	0.65	Leukodystrophy, metachromatic	OMIM:250100
+8	0.63	Lissencephaly, isolated, 1	OMIM:607432
+9	0.6	Van der Knaap syndrome	OMIM:603896
+10	0.58	Zellweger syndrome	OMIM:214100

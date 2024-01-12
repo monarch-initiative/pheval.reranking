@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia, Autosomal Recessive 13	OMIM:614831
+2	0.85	Alpha-Thalassemia X-Linked Intellectual Disability Syndrome	OMIM:301040
+2	0.85	Mitochondrial Complex I Deficiency	OMIM:252010
+4	0.82	Angelman Syndrome	OMIM:105830
+4	0.82	Rett Syndrome	OMIM:312750
+6	0.8	3-Methylglutaconic Aciduria Type III	OMIM:258501
+6	0.8	Adenylosuccinate Lyase Deficiency	OMIM:103050
+8	0.79	3-Phosphoglycerate Dehydrogenase Deficiency	OMIM:601815
+8	0.79	2-Hydroxyglutaric Aciduria, D-	OMIM:600721
+10	0.78	Creatine Deficiency Syndrome, X-Linked	OMIM:300352

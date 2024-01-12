@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	3MC syndrome 1	OMIM:257220
+2	0.8	Orofaciodigital syndrome I	OMIM:311200
+3	0.75	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+4	0.7	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+5	0.68	Robinow syndrome, autosomal dominant 1	OMIM:180700
+6	0.65	Feingold syndrome 1	OMIM:164280
+7	0.63	Craniofrontonasal syndrome	OMIM:304110
+8	0.6	Anauxetic dysplasia 1	OMIM:609944
+9	0.55	Gingival fibromatosis with hypertrichosis	OMIM:135300
+10	0.5	Noonan syndrome 1	OMIM:163950

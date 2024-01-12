@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cardiomyopathy, Dilated, 1AA	OMIM:615235
+2	0.9	Cardiomyopathy, Dilated, 1BB	OMIM:612877
+3	0.85	Cardiomyopathy, Dilated, 1CC	OMIM:613122
+4	0.8	Cardiomyopathy, Dilated, 1DD	OMIM:613172
+5	0.75	Cardiomyopathy, Dilated, 1EE	OMIM:613286
+6	0.7	Cardiomyopathy, Dilated, 1FF	OMIM:613642
+7	0.65	Cardiomyopathy, Familial Hypertrophic, 14	OMIM:613251
+8	0.6	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:192600
+9	0.55	Cardiomyopathy, Familial Restrictive, 1	OMIM:115210
+10	0.5	Cardiomyopathy, Familial Restrictive, 3	OMIM:612422

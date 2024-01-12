@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Coffin-Siris syndrome 5	OMIM:616938
+2	0.87	Prader-Willi syndrome	OMIM:176270
+3	0.86	Loeys-Dietz syndrome 1	OMIM:609192
+4	0.85	Williams syndrome	OMIM:194050
+5	0.83	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+7	0.81	Marfan syndrome	OMIM:154700
+8	0.79	Noonan syndrome 1	OMIM:163950
+9	0.78	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508
+10	0.76	Ehlers-Danlos syndrome, classical type	OMIM:130000

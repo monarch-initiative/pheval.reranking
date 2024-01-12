@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome	OMIM:118450
+2	0.85	Noonan syndrome 1	OMIM:163950
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.75	Donnai-Barrow syndrome	OMIM:222448
+5	0.7	Joubert syndrome	OMIM:213300
+6	0.65	Coffin-Siris syndrome	OMIM:135900
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.55	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.45	Pfeiffer syndrome	OMIM:101600

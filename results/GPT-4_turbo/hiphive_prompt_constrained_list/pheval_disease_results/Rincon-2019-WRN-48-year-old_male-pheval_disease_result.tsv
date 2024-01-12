@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progeroid Syndrome, Neonatal	OMIM:601776
+2	0.85	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+3	0.8	Lipodystrophy, Congenital Generalized, Type 2	OMIM:269700
+4	0.75	Insulin-Resistant Diabetes Mellitus, with Acanthosis Nigricans	OMIM:610549
+5	0.7	Mandibuloacral Dysplasia with Type A Lipodystrophy	OMIM:248370
+6	0.65	Metabolic Syndrome X	OMIM:605552
+7	0.6	Werner Syndrome	OMIM:277700
+8	0.55	Cockayne Syndrome, Type A	OMIM:216400
+9	0.5	Cockayne Syndrome, Type B	OMIM:133540
+10	0.45	Leptin Deficiency or Dysfunction	OMIM:614962

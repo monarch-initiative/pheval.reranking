@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Paget Disease Of Bone 1, Early-Onset	OMIM:178800
+2	0.8	Adrenal Hyperplasia, Congenital, Due To 21-Hydroxylase Deficiency	OMIM:201910
+3	0.78	Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain And Eye Anomalies), Type A, 1	OMIM:236670
+4	0.74	Charcot-Marie-Tooth Disease, Type 2A2B	OMIM:617087
+5	0.72	Charcot-Marie-Tooth Disease, Recessive Intermediate C	OMIM:615376
+6	0.68	Leukodystrophy, Hypomyelinating, 4	OMIM:612233
+7	0.65	Spastic Paraplegia 11, Autosomal Recessive	OMIM:604360
+8	0.63	Combined Oxidative Phosphorylation Deficiency 22	OMIM:616033
+9	0.6	Osteogenesis Imperfecta, Type III	OMIM:259420
+10	0.58	Miyoshi Muscular Dystrophy 3	OMIM:613319

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris syndrome 4	OMIM:614609
+2	0.83	Coffin-Siris syndrome 5	OMIM:616938
+3	0.82	Geleophysic dysplasia 1	OMIM:231050
+4	0.8	Coffin-Siris syndrome 3	OMIM:614608
+5	0.78	Mulibrey nanism	OMIM:253250
+6	0.76	Shprintzen-Goldberg syndrome	OMIM:182212
+7	0.74	Fetal akinesia deformation sequence 1	OMIM:208150
+8	0.72	Kaufman oculocerebrofacial syndrome	OMIM:244450
+9	0.71	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+10	0.69	Bohring-Opitz syndrome	OMIM:605039

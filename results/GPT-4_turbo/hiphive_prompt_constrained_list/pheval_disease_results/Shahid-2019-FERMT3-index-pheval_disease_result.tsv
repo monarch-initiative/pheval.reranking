@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Leukocyte adhesion deficiency, type I	OMIM:116920
+2	0.82	Agammaglobulinemia 1, autosomal recessive	OMIM:601495
+3	0.8	Chediak-Higashi syndrome	OMIM:214500
+4	0.79	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+5	0.75	Splenomegaly	OMIM:268500
+6	0.74	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.72	Hyper IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+8	0.71	Griscelli syndrome, type 2	OMIM:607624
+9	0.7	Familial hemophagocytic lymphohistiocytosis	OMIM:267700
+9	0.7	Common variable immunodeficiency	OMIM:607594

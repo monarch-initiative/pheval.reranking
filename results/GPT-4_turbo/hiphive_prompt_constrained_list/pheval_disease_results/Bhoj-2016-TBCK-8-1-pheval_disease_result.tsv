@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis, MPS-II	OMIM:309900
+2	0.85	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.8	Smith-Magenis Syndrome	OMIM:182290
+4	0.75	Frank-Ter Haar Syndrome	OMIM:249420
+5	0.7	Coffin-Siris Syndrome	OMIM:135900
+6	0.65	Sotos Syndrome 1	OMIM:117550
+7	0.6	MEHMO Syndrome	OMIM:300148
+8	0.55	Rubinstein-Taybi Syndrome 1	OMIM:180849
+9	0.5	Schinzel-Giedion Syndrome	OMIM:269150
+10	0.45	Perlman Syndrome	OMIM:267000

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgE recurrent infection syndrome	OMIM:147060
+2	0.85	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+3	0.82	Combined immunodeficiencies with associated or syndromic features	OMIM:209900
+4	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.78	Omenn syndrome	OMIM:603554
+6	0.76	Immunodeficiency 31B	OMIM:614894
+7	0.7	Chronic mucocutaneous candidiasis	OMIM:613108
+8	0.65	Hypereosinophilic syndrome, idiopathic	OMIM:607685
+9	0.6	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+10	0.55	Thymic aplasia	OMIM:188400

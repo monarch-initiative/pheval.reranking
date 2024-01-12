@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 1	OMIM:163950
+2	0.88	Noonan syndrome 3	OMIM:609942
+3	0.86	LEOPARD syndrome 1	OMIM:151100
+4	0.85	Noonan syndrome 7	OMIM:613706
+5	0.83	Noonan syndrome 4	OMIM:610733
+6	0.8	Noonan syndrome 5	OMIM:611553
+7	0.78	LEOPARD syndrome 2	OMIM:611554
+8	0.76	Cardiofaciocutaneous syndrome 1	OMIM:115150
+9	0.75	LEOPARD syndrome 3	OMIM:613707
+10	0.73	Costello syndrome	OMIM:218040

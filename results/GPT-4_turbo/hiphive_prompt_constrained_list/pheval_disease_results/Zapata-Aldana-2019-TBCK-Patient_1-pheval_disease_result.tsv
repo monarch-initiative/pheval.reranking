@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alexander disease	OMIM:203450
+2	0.84	Zellweger syndrome	OMIM:214100
+3	0.82	Angelman syndrome	OMIM:105830
+4	0.81	Rett syndrome	OMIM:312750
+5	0.8	Canavan disease	OMIM:271900
+6	0.79	Leigh syndrome	OMIM:256000
+7	0.78	Cockayne syndrome	OMIM:216400
+8	0.77	Pelizaeus-Merzbacher disease	OMIM:312080
+9	0.76	Lissencephaly	OMIM:607432
+10	0.75	Mucopolysaccharidosis type I	OMIM:607014

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.75	Lipoid Congenital Adrenal Hyperplasia	OMIM:201710
+2	0.75	20 Alpha-Hydroxysteroid Dehydrogenase Deficiency	OMIM:201710
+4	0.7	Androgen Insensitivity Syndrome	OMIM:300068
+5	0.65	Denys-Drash Syndrome	OMIM:194080
+5	0.65	Hypospadias 1, X-Linked	OMIM:300633
+7	0.6	Gonadal Dysgenesis, XY Type, with Associated Anomalies	OMIM:400044
+8	0.55	Leydig Cell Agensis	OMIM:238320
+8	0.55	Partial Androgen Insensitivity Syndrome	OMIM:312300
+10	0.5	Camptomelic Dysplasia	OMIM:114290

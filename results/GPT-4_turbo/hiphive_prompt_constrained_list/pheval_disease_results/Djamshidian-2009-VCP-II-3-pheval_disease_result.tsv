@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:167320
+2	0.85	Limb-girdle muscular dystrophy, type 2A	OMIM:253600
+3	0.8	Hereditary inclusion body myopathy	OMIM:600737
+4	0.75	Paget disease of bone	OMIM:602080
+5	0.7	Hypophosphatasia, adult	OMIM:146300
+6	0.65	Myopathy, distal, 1	OMIM:160500
+7	0.6	Charcot-Marie-Tooth disease, type 2B1	OMIM:605588
+8	0.55	Myopathy, myofibrillar, 2	OMIM:602668
+9	0.5	Usher syndrome, type 1	OMIM:276900
+10	0.45	Alkaptonuria	OMIM:203500

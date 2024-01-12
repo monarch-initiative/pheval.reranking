@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa, junctional	OMIM:226650
+2	0.88	Epidermolysis bullosa simplex	OMIM:131800
+3	0.86	Epidermolysis bullosa dystrophica	OMIM:131750
+4	0.84	Bullous pemphigoid	OMIM:113200
+5	0.82	Epidermolysis bullosa, junctional, nonspecific	OMIM:226700
+6	0.8	Pemphigus vulgaris	OMIM:169600
+7	0.78	Kindler syndrome	OMIM:173650
+8	0.76	Dermatitis herpetiformis	OMIM:601067
+9	0.74	Linear IgA disease	OMIM:604929
+10	0.72	Pemphigus foliaceus	OMIM:602723

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ectodermal dysplasia, hypohidrotic, autosomal recessive	OMIM:224900
+2	0.98	Ectodermal dysplasia 1, hypohidrotic/anhidrotic, X-linked	OMIM:305100
+3	0.96	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant	OMIM:612132
+4	0.94	Anhidrotic ectodermal dysplasia with immune deficiency, osteopetrosis, and lymphedema	OMIM:300301
+5	0.92	Pachyonychia congenita 1	OMIM:167200
+6	0.9	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+7	0.88	Hay-Wells syndrome	OMIM:106260
+8	0.86	Hidrotic ectodermal dysplasia 2, Clouston type	OMIM:129500
+9	0.84	Schopf-Schulz-Passarge syndrome	OMIM:224750
+10	0.82	Rapp-Hodgkin syndrome	OMIM:129400

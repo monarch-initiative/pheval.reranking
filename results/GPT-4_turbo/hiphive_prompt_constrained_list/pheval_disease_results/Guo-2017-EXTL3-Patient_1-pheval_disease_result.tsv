@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Metatropic Dysplasia	OMIM:250600
+2	0.82	Spondyloepimetaphyseal Dysplasia with Joint Laxity	OMIM:603546
+3	0.8	Mucopolysaccharidosis Type IV	OMIM:253000
+4	0.78	Mucopolysaccharidosis, MPS-IV-A	OMIM:253000
+5	0.76	Asphyxiating Thoracic Dystrophy 1	OMIM:208500
+6	0.74	Beals Syndrome	OMIM:121050
+7	0.72	Schwartz Jampel Syndrome 1	OMIM:255800
+8	0.7	Geleophysic Dysplasia 1	OMIM:231050
+9	0.68	Smith-McCort Dysplasia 1	OMIM:607326
+10	0.66	Pfeiffer Syndrome	OMIM:101600

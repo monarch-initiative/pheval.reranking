@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.87	MASS Syndrome	OMIM:604308
+3	0.78	Weill-Marchesani Syndrome 2, Autosomal Dominant	OMIM:608328
+4	0.76	Ectopia Lentis Et Pupillae	OMIM:225200
+5	0.73	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+6	0.72	Homocystinuria Due to CBS Deficiency	OMIM:236200
+7	0.68	Loeys-Dietz Syndrome 1	OMIM:609192
+8	0.67	Shprintzen-Goldberg Syndrome	OMIM:182212
+9	0.65	Beals-Hecht Syndrome	OMIM:121050
+10	0.6	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

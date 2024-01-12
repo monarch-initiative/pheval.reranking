@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital secretory chloride diarrhea 1	OMIM:214700
+2	0.85	Diarrhea 5, with tufting enteropathy, congenital	OMIM:613217
+3	0.8	Microvillus inclusion disease	OMIM:251850
+4	0.75	Diarrhea 6	OMIM:614816
+5	0.7	Cholestasis, progressive familial intrahepatic 3	OMIM:602347
+6	0.65	Glycogen storage disease Ib	OMIM:232220
+7	0.6	Mitochondrial DNA depletion syndrome 12B	OMIM:615418
+8	0.55	Bartter syndrome, type 3	OMIM:607364
+9	0.5	Bartter syndrome, type 4b	OMIM:613090
+10	0.45	Cystic fibrosis	OMIM:219700

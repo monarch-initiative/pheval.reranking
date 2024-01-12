@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Megalencephalic leukoencephalopathy with subcortical cysts 1	OMIM:604187
+2	0.83	Angelman syndrome	OMIM:105830
+3	0.81	Rett syndrome	OMIM:312750
+4	0.79	Lissencephaly 1	OMIM:607432
+5	0.77	2p16.1-p11.2 microdeletion syndrome	OMIM:614332
+6	0.76	West syndrome	OMIM:308350
+7	0.74	Canavan disease	OMIM:271900
+8	0.73	Aicardi-Goutieres syndrome 1	OMIM:225750
+9	0.71	Alexander disease	OMIM:203450
+10	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400

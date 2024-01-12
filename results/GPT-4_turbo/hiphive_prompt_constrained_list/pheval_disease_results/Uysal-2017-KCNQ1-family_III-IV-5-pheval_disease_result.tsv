@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT Syndrome, Type 1	OMIM:192500
+2	0.85	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+3	0.8	Usher Syndrome, Type 1	OMIM:276900
+4	0.75	Long QT Syndrome, Type 2	OMIM:613688
+5	0.7	Pendred Syndrome	OMIM:274600
+6	0.65	Brugada Syndrome	OMIM:601144
+7	0.6	Barth Syndrome	OMIM:302060
+8	0.55	Carvajal Syndrome	OMIM:605676
+9	0.5	Char Syndrome	OMIM:169100
+10	0.45	Timothy Syndrome	OMIM:601005

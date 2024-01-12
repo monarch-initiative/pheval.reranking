@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+2	0.85	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+3	0.8	Fanconi anemia, complementation group A	OMIM:227650
+4	0.75	Cartilage-hair hypoplasia	OMIM:250250
+4	0.75	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+6	0.7	Diamond-Blackfan anemia 1	OMIM:105650
+7	0.65	Schwachman-Diamond syndrome	OMIM:260400
+7	0.65	Nijmegen breakage syndrome	OMIM:251260
+9	0.6	Thrombocytopenia-absent radius syndrome	OMIM:274000
+10	0.55	Kostmann syndrome	OMIM:610738

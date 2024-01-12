@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, progeroid type, 2	OMIM:615349
+2	0.88	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+3	0.86	Osteogenesis imperfecta, type III	OMIM:259420
+4	0.85	Ehlers-Danlos syndrome, spondylodysplastic type, 3	OMIM:615539
+5	0.84	Osteogenesis imperfecta, type I	OMIM:166200
+6	0.82	Ehlers-Danlos syndrome, arthrochalasia type	OMIM:130060
+7	0.81	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM:225410
+8	0.79	Stickler syndrome	OMIM:108300
+9	0.78	Marfan syndrome	OMIM:154700
+10	0.77	Homocystinuria	OMIM:236200

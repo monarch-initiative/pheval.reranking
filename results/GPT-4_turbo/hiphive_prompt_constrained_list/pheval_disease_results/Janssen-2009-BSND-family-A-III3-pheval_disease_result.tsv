@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bartter syndrome, type 3	OMIM:607364
+2	0.93	Bartter syndrome, type 4A	OMIM:602522
+3	0.91	Gitelman syndrome	OMIM:263800
+4	0.89	Pseudohypoaldosteronism, type II	OMIM:614491
+5	0.87	Liddle syndrome	OMIM:177200
+6	0.85	Cystinosis, nephropathic	OMIM:219800
+7	0.83	Pseudohypoaldosteronism, type I, autosomal recessive	OMIM:264350
+8	0.81	Pendred syndrome	OMIM:274600
+9	0.79	East syndrome	OMIM:612780
+10	0.77	Familial hyperkalemic hypertension	OMIM:145260

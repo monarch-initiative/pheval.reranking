@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome, congenital variant	OMIM:312750
+2	0.85	Dopa-responsive dystonia	OMIM:128230
+3	0.82	Glucose transporter type 1 deficiency syndrome	OMIM:606777
+4	0.8	Leigh syndrome	OMIM:256000
+5	0.79	Mowat-Wilson syndrome	OMIM:235730
+6	0.77	Prader-Willi syndrome	OMIM:176270
+7	0.75	Angelman syndrome	OMIM:105830
+8	0.73	Aicardi-Goutieres syndrome	OMIM:225750
+9	0.71	Pitt-Hopkins syndrome	OMIM:610954
+10	0.69	Smith-Magenis syndrome	OMIM:182290

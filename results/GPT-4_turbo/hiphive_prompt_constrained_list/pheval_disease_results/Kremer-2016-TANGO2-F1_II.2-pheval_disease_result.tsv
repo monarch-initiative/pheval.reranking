@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial complex I deficiency	OMIM:252010
+2	0.9	Mitochondrial myopathy	OMIM:000373
+3	0.88	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609016
+4	0.86	Leigh syndrome	OMIM:256000
+5	0.85	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+6	0.84	Pyruvate dehydrogenase deficiency	OMIM:312170
+7	0.82	MELAS syndrome	OMIM:540000
+8	0.8	Pyruvate carboxylase deficiency	OMIM:266150
+9	0.78	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201450
+10	0.75	Lactic acidemia due to PDX1 deficiency	OMIM:245349

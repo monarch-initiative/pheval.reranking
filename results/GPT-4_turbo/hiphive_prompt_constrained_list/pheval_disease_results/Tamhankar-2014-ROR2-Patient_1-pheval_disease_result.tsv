@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+2	0.85	Robinow syndrome, autosomal recessive	OMIM:268310
+3	0.83	3MC syndrome 1	OMIM:257920
+4	0.82	Gorlin syndrome	OMIM:109400
+5	0.8	Noonan syndrome 1	OMIM:163950
+6	0.79	Crouzon syndrome	OMIM:123500
+7	0.78	Mucopolysaccharidosis type I	OMIM:607014
+8	0.77	Frontometaphyseal dysplasia	OMIM:305620
+9	0.75	Schwartz-Jampel syndrome type 1	OMIM:255800
+10	0.73	Saethre-Chotzen syndrome	OMIM:101400

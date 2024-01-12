@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Leigh syndrome, French-Canadian type	OMIM:220111
+2	0.85	Costello syndrome	OMIM:218040
+3	0.82	MECP2 duplication syndrome	OMIM:300260
+4	0.8	Coffin-Lowry syndrome	OMIM:303600
+5	0.78	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.75	Mowat-Wilson syndrome	OMIM:235730
+7	0.73	Alpha-thalassemia X-linked intellectual disability syndrome	OMIM:301040
+8	0.72	X-linked intellectual disability, Najm type	OMIM:300897
+9	0.71	Menkes disease	OMIM:309400
+10	0.69	Schinzel-Giedion syndrome	OMIM:269150

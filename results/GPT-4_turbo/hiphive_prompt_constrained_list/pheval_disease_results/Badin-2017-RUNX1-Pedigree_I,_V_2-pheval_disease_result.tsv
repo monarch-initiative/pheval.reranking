@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Paris-Trousseau thrombocytopenia	OMIM:188050
+2	0.9	Acute Myeloid Leukemia	OMIM:601626
+3	0.85	MYH9 related disorders	OMIM:160775
+4	0.8	Gray Platelet Syndrome	OMIM:139090
+5	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.65	Glanzmann Thrombasthenia	OMIM:273800
+7	0.6	Bernard-Soulier syndrome	OMIM:231200
+8	0.55	Chediak-Higashi syndrome	OMIM:214500
+9	0.5	Hermansky-Pudlak syndrome	OMIM:203300
+10	0.45	Scott syndrome	OMIM:262890

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cleidocranial dysplasia	OMIM:119600
+2	0.82	Gaucher disease, type 1	OMIM:230800
+3	0.79	Ellis-van Creveld syndrome	OMIM:225500
+4	0.76	Hearing impairment, unilateral, with restricted hearing on the contralateral side	OMIM:617516
+5	0.74	Laron syndrome	OMIM:262500
+6	0.71	Osteoglophonic dysplasia	OMIM:166250
+7	0.68	Coffin-Lowry syndrome	OMIM:303600
+8	0.65	Multiple epiphyseal dysplasia, Al-Gazali type	OMIM:607131
+9	0.63	Craniometaphyseal dysplasia, autosomal dominant	OMIM:123000
+10	0.61	Osteopetrosis, autosomal recessive 1	OMIM:259700

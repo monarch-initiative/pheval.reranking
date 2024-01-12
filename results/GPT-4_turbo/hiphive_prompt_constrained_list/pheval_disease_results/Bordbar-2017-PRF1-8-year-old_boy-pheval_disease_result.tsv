@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hemochromatosis type 1	OMIM:235200
+2	0.88	Wilson disease	OMIM:277900
+3	0.86	Acute liver failure	OMIM:613070
+3	0.86	Hepatocellular carcinoma	OMIM:114550
+5	0.85	Secondary hemochromatosis	OMIM:613313
+5	0.85	Mitochondrial hepatopathy	OMIM:500009
+7	0.83	Nonalcoholic steatohepatitis	OMIM:613282
+8	0.81	Niemann-Pick disease type C	OMIM:257220
+9	0.8	Glycogen storage disease type IV	OMIM:232500
+9	0.8	Leigh syndrome	OMIM:256000

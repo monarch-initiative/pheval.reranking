@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ellis-Van Creveld syndrome	OMIM:225500
+2	0.82	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.8	Smith-Magenis syndrome	OMIM:182290
+4	0.78	Campomelic dysplasia	OMIM:114290
+5	0.76	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.75	Stickler syndrome, type 1	OMIM:108300
+7	0.73	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.71	Mucopolysaccharidosis type IVA	OMIM:253000
+9	0.68	Beals syndrome	OMIM:121050
+10	0.65	Apert syndrome	OMIM:101200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Autosomal recessive primary microcephaly	OMIM:615414
+2	0.91	Angelman syndrome	OMIM:105830
+3	0.89	Rett syndrome	OMIM:312750
+4	0.87	Pitt-Hopkins syndrome	OMIM:610954
+5	0.85	Prader-Willi syndrome	OMIM:176270
+6	0.83	Smith-Magenis syndrome	OMIM:182290
+7	0.82	Stickler syndrome, type I	OMIM:108300
+8	0.81	Coffin-Lowry syndrome	OMIM:303600
+9	0.8	Russell-Silver syndrome	OMIM:180860
+10	0.79	Marshall syndrome	OMIM:154780

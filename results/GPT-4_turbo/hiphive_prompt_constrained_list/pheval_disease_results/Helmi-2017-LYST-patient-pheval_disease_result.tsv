@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Job syndrome	OMIM:147060
+2	0.85	Hypohidrotic ectodermal dysplasia	OMIM:305100
+3	0.8	Williams syndrome	OMIM:194050
+3	0.8	Chédiak-Higashi syndrome	OMIM:214500
+5	0.75	Cystic fibrosis	OMIM:219700
+5	0.75	Griscelli syndrome	OMIM:214450
+7	0.7	Familial Mediterranean fever	OMIM:249100
+7	0.7	Hermansky-Pudlak syndrome	OMIM:203300
+9	0.65	SCID due to ADA deficiency	OMIM:102700
+9	0.65	Wiskott-Aldrich syndrome	OMIM:301000

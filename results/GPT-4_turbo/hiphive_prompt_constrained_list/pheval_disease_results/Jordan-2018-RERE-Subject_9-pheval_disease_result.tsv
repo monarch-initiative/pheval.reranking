@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	22q11.2 deletion syndrome	OMIM:611182
+2	0.88	Autism spectrum disorder	OMIM:209850
+3	0.86	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.84	Fragile X syndrome	OMIM:300624
+6	0.83	Kabuki syndrome 1	OMIM:147920
+7	0.82	Williams syndrome	OMIM:194050
+8	0.81	Noonan syndrome 1	OMIM:163950
+9	0.8	Rubinstein-Taybi syndrome 1	OMIM:180849
+10	0.79	Rett syndrome	OMIM:312750

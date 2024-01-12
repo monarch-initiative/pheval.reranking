@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.89	Coffin-Siris syndrome	OMIM:135900
+3	0.87	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.85	Ohdo syndrome, SBBYS variant	OMIM:603736
+5	0.83	Mowat-Wilson syndrome	OMIM:235730
+6	0.81	Kabuki syndrome 1	OMIM:147920
+7	0.79	Angelman syndrome	OMIM:105830
+8	0.78	Rett syndrome	OMIM:312750
+9	0.76	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.74	Pitt-Hopkins syndrome	OMIM:610954

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lissencephaly	OMIM:607432
+2	0.94	Miller-Dieker syndrome	OMIM:247200
+3	0.85	Rett syndrome	OMIM:312750
+4	0.8	Dystonia 16	OMIM:612067
+4	0.8	Kabuki syndrome	OMIM:147920
+6	0.78	Cerebral palsy, spastic quadriplegic	OMIM:603513
+7	0.77	Mowat-Wilson syndrome	OMIM:235730
+8	0.76	Pelizaeus-Merzbacher Disease	OMIM:312080
+9	0.75	Spastic paraplegia 2	OMIM:312920
+10	0.74	Angelman syndrome	OMIM:105830

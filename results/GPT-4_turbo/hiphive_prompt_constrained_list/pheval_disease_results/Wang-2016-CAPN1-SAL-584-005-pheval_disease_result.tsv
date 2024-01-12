@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia	OMIM:604187
+2	0.93	Spinocerebellar ataxia	OMIM:606093
+3	0.92	Episodic ataxia	OMIM:601011
+4	0.9	Ataxia-telangiectasia	OMIM:208900
+5	0.87	Friedreich ataxia	OMIM:229300
+6	0.86	Multiple system atrophy, cerebellar type	OMIM:607296
+7	0.85	Primary lateral sclerosis	OMIM:611637
+8	0.83	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+9	0.8	Ataxia with vitamin E deficiency	OMIM:277460
+10	0.78	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:607574

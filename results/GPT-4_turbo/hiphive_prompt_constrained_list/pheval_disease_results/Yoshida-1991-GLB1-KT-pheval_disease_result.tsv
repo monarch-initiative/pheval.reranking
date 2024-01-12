@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Tay-Sachs Disease	OMIM:272800
+2	0.82	Gaucher Disease, Type I	OMIM:230800
+3	0.8	Metachromatic Leukodystrophy	OMIM:250100
+4	0.78	Niemann-Pick Disease, Type A	OMIM:257200
+5	0.75	Mucolipidosis II Alpha/Beta	OMIM:252500
+6	0.73	Mucolipidosis III Alpha/Beta	OMIM:252600
+7	0.7	Neuronal Ceroid Lipofuscinosis	OMIM:204200
+8	0.67	Mucolipidosis IV	OMIM:252650
+9	0.65	Sialidosis, Type I	OMIM:256550
+10	0.62	Sandhoff Disease	OMIM:268800

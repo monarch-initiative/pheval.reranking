@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Progressive familial intrahepatic cholestasis 3	OMIM:602347
+2	0.94	Bile acid synthesis defect, congenital, 4	OMIM:214950
+3	0.93	Alpha-1-antitrypsin deficiency	OMIM:107400
+4	0.92	Gilbert syndrome	OMIM:143500
+5	0.91	Crigler-Najjar syndrome, type I	OMIM:218800
+6	0.9	Crigler-Najjar syndrome, type II	OMIM:606785
+7	0.89	Dubin-Johnson syndrome	OMIM:237500
+8	0.88	Zellweger syndrome	OMIM:214100
+9	0.87	Alagille syndrome 1	OMIM:118450
+10	0.86	Byler disease	OMIM:211600

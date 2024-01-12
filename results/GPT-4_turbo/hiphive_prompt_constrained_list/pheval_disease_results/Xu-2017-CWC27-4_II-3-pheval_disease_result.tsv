@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris syndrome	OMIM:135900
+2	0.9	Cornelia de Lange syndrome	OMIM:122470
+3	0.88	Craniodiaphyseal dysplasia	OMIM:122860
+4	0.85	Cranioectodermal dysplasia	OMIM:218330
+5	0.82	Craniofrontonasal syndrome	OMIM:304110
+6	0.8	Craniofacial-deafness-hand syndrome	OMIM:122880
+7	0.78	Craniosynostosis syndrome	OMIM:123150
+8	0.75	Craniosynostosis-anal anomalies-porokeratosis syndrome	OMIM:612247
+9	0.72	Craniosynostosis with fibular aplasia	OMIM:218330
+10	0.7	Craniosynostosis-Dandy-Walker malformation	OMIM:600442

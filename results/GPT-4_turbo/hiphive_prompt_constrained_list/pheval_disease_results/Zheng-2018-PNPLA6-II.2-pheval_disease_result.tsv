@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kallmann syndrome 1	OMIM:308700
+2	0.93	Kallmann syndrome 2	OMIM:147950
+3	0.91	Kallmann syndrome 3	OMIM:244200
+4	0.88	Kallmann syndrome 4	OMIM:610628
+5	0.86	Gordon Holmes syndrome	OMIM:212840
+6	0.84	Hypogonadotropic hypogonadism 2 with or without anosmia	OMIM:147950
+7	0.82	Bardet-Biedl syndrome 1	OMIM:209900
+8	0.8	Congenital adrenal hypoplasia	OMIM:300200
+9	0.78	Prader-Willi syndrome	OMIM:176270
+10	0.76	Leber congenital amaurosis	OMIM:204000

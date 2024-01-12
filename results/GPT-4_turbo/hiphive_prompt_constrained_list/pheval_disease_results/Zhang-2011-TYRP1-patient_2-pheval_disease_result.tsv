@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome Type 2A	OMIM:193510
+2	0.88	Oculocutaneous Albinism Type 1	OMIM:203100
+3	0.86	Chediak-Higashi Syndrome	OMIM:214500
+4	0.85	Tietz Syndrome	OMIM:103500
+5	0.83	Griscelli Syndrome Type 1	OMIM:214450
+6	0.82	Hermansky-Pudlak Syndrome 1	OMIM:203300
+7	0.81	Waardenburg Syndrome Type 4A	OMIM:277580
+8	0.79	Piebaldism	OMIM:172800
+9	0.78	Albinism, Ocular, With Sensorineural Deafness	OMIM:300700
+10	0.76	Cross Syndrome	OMIM:257800

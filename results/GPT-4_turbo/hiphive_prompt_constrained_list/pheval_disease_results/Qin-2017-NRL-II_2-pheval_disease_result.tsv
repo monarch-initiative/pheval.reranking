@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa 59	OMIM:613861
+2	0.94	Retinitis Pigmentosa 50	OMIM:613194
+3	0.92	Retinitis Pigmentosa 26	OMIM:608380
+4	0.91	Retinitis Pigmentosa 39	OMIM:612095
+5	0.89	Congenital Stationary Night Blindness, Type 1C	OMIM:613216
+6	0.88	Retinitis Pigmentosa 40	OMIM:613801
+7	0.86	Retinitis Pigmentosa 18	OMIM:601414
+8	0.85	Usher Syndrome, Type 2A	OMIM:276901
+9	0.84	Retinitis Pigmentosa 4	OMIM:613731
+10	0.83	Retinitis Pigmentosa 60	OMIM:613983

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+2	0.88	Kenny-Caffey syndrome type 1	OMIM:244460
+3	0.86	Cartilage-hair hypoplasia	OMIM:250250
+4	0.85	Dubowitz syndrome	OMIM:223370
+5	0.83	Shwachman-Diamond syndrome	OMIM:260400
+6	0.81	Ataxia-telangiectasia	OMIM:208900
+7	0.8	Mulibrey nanism	OMIM:253250
+8	0.78	LIG4 syndrome	OMIM:606593
+9	0.76	Roifman syndrome	OMIM:616651
+10	0.74	Nijmegen breakage syndrome	OMIM:251260

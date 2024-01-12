@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Craniosynostosis 2	OMIM:604757
+2	0.7	Shprintzen-Goldberg Syndrome	OMIM:182212
+3	0.65	Noonan syndrome 1	OMIM:163950
+4	0.63	CHARGE syndrome	OMIM:214800
+5	0.61	Leopard Syndrome 1	OMIM:151100
+6	0.6	Holt-Oram Syndrome	OMIM:142900
+7	0.58	Velocardiofacial syndrome	OMIM:192430
+8	0.56	Loeys-Dietz syndrome 1	OMIM:609192
+9	0.54	Pallister-Hall syndrome	OMIM:146510
+10	0.52	DiGeorge syndrome	OMIM:188400

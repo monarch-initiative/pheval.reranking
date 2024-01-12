@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Nemaline myopathy 2, autosomal recessive	OMIM:256030
+2	0.93	Nemaline myopathy 3, autosomal dominant	OMIM:161800
+3	0.92	Nemaline myopathy 4, autosomal dominant	OMIM:609284
+4	0.9	Nemaline myopathy 6, autosomal dominant	OMIM:609273
+5	0.88	Nemaline myopathy 7, autosomal recessive	OMIM:610687
+6	0.86	Nemaline myopathy 5, Amish type	OMIM:605355
+7	0.85	Nemaline myopathy 9	OMIM:615731
+8	0.83	Nemaline myopathy 10	OMIM:616165
+9	0.81	Bethlem myopathy 1	OMIM:158810
+10	0.79	Ullrich congenital muscular dystrophy 1	OMIM:254090

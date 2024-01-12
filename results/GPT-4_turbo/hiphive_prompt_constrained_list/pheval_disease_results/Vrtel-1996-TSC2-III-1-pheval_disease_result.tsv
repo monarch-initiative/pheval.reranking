@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous Sclerosis 1	OMIM:191100
+2	0.93	Tuberous Sclerosis 2	OMIM:613254
+3	0.85	Birt-Hogg-Dube Syndrome	OMIM:135150
+4	0.7	Multiple Endocrine Neoplasia, Type 1	OMIM:131100
+5	0.68	Gardner Syndrome	OMIM:175100
+6	0.65	Basal Cell Nevus Syndrome	OMIM:109400
+7	0.6	Carney Complex, Type 1	OMIM:160980
+7	0.6	Multiple Endocrine Neoplasia, Type 2A	OMIM:171400
+9	0.57	Multiple Endocrine Neoplasia, Type 2B	OMIM:162300
+10	0.55	Peutz-Jeghers Syndrome	OMIM:175200

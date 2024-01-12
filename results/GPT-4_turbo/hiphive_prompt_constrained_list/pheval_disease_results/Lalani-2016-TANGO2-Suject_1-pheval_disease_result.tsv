@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carnitine palmitoyltransferase II deficiency, lethal neonatal	OMIM:608836
+2	0.9	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+3	0.85	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201450
+4	0.82	Mitochondrial complex I deficiency	OMIM:252010
+5	0.8	Myoadenylate deaminase deficiency	OMIM:615511
+6	0.78	Glutaric acidemia I	OMIM:231670
+7	0.75	Ornithine transcarbamylase deficiency	OMIM:311250
+8	0.73	Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency	OMIM:609016
+9	0.71	Maple syrup urine disease	OMIM:248600
+10	0.7	Argininosuccinate lyase deficiency	OMIM:207900

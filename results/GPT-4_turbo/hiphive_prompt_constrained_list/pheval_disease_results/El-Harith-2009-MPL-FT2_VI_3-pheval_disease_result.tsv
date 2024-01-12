@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Essential thrombocythemia	OMIM:187950
+2	0.85	Polycythemia vera	OMIM:263300
+3	0.8	Primary myelofibrosis	OMIM:254450
+4	0.75	Thrombocythemia 3	OMIM:614521
+5	0.7	Hereditary thrombocythemia	OMIM:187950
+6	0.65	MYH9-related thrombocytosis	OMIM:160775
+7	0.6	Thrombocythemia 1	OMIM:187950
+8	0.55	Thrombocythemia 2	OMIM:601977
+9	0.5	MPL-related thrombocytosis	OMIM:601977
+10	0.45	Familial erythrocytosis 1	OMIM:133100

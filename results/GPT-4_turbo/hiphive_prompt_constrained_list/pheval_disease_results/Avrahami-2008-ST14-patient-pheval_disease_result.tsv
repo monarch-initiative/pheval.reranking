@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ichthyosis, Congenital, Autosomal Recessive 4B	OMIM:615023
+2	0.82	Hypotrichosis 8	OMIM:278150
+3	0.8	Erythroderma, Congenital, with Palmoplantar Keratoderma, Hypotrichosis, and Hyper-IgE	OMIM:615508
+4	0.78	Alopecia, Neurologic Defects, and Endocrinopathy Syndrome	OMIM:612079
+5	0.75	Oliver-McFarlane Syndrome	OMIM:275400
+6	0.73	Blepharitis	OMIM:109650
+7	0.7	Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Tooth Type, Autosomal Recessive	OMIM:615508
+8	0.68	Trichothiodystrophy 1, Photosensitive	OMIM:601675
+9	0.66	Poikiloderma with Neutropenia	OMIM:604173
+10	0.64	Marie Unna Hereditary Hypotrichosis	OMIM:146550

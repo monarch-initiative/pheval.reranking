@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:614607
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.72	Mill-Paterson syndrome	OMIM:605822
+5	0.7	Lenz microphthalmia syndrome	OMIM:309800
+6	0.68	Pitt-Hopkins syndrome	OMIM:610954
+7	0.65	Sotos syndrome	OMIM:117550
+8	0.63	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.6	Smith-Magenis syndrome	OMIM:182290
+10	0.58	Timothy syndrome	OMIM:601005

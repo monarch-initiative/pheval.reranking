@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cockayne syndrome	OMIM:216400
+2	0.9	Werner syndrome	OMIM:277700
+3	0.85	Hallermann-Streiff syndrome	OMIM:234100
+4	0.8	Cerebrooculofacioskeletal syndrome 4	OMIM:616570
+5	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.72	Lowe syndrome	OMIM:309000
+7	0.7	Nance-Horan syndrome	OMIM:302350
+8	0.68	Micro Syndrome	OMIM:600982
+9	0.65	Rothmund-Thomson syndrome	OMIM:268400
+10	0.6	Seckel syndrome	OMIM:210600

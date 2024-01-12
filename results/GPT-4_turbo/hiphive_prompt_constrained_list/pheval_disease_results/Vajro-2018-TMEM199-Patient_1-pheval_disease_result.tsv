@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.9	Menkes Disease	OMIM:309400
+3	0.85	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+4	0.8	Alagille Syndrome 1	OMIM:118450
+5	0.75	Non-Alcoholic Fatty Liver Disease	OMIM:613282
+6	0.7	Citrullinemia, Type I	OMIM:215700
+7	0.65	Familial Hypobetalipoproteinemia	OMIM:615558
+8	0.6	Progressive Familial Intrahepatic Cholestasis Type 3	OMIM:602347
+9	0.55	Primary Biliary Cirrhosis	OMIM:109720
+10	0.5	Cystic Fibrosis	OMIM:219700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Meckel syndrome 3	OMIM:607361
+2	0.87	Cranioectodermal dysplasia 2	OMIM:613610
+3	0.85	Short rib-polydactyly syndrome, Beemer-Langer type	OMIM:269860
+4	0.83	Jeune asphyxiating thoracic dystrophy	OMIM:208500
+5	0.8	Joubert syndrome 10	OMIM:614173
+6	0.78	Ellis-van Creveld syndrome	OMIM:225500
+7	0.76	Asphyxiating thoracic dystrophy 1	OMIM:208500
+8	0.74	Orofaciodigital syndrome I	OMIM:311200
+9	0.72	Ciliopathy	OMIM:241800
+10	0.7	Renal-hepatic-pancreatic dysplasia	OMIM:208540

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly 3	OMIM:142945
+2	0.85	Frontonasal dysplasia 1	OMIM:136760
+2	0.85	Holoprosencephaly 2	OMIM:157170
+4	0.8	Diabetes insipidus, nephrogenic, X-linked	OMIM:304800
+4	0.8	Diabetes insipidus, neurohypophyseal	OMIM:125700
+4	0.8	Holoprosencephaly sequence	OMIM:236100
+7	0.75	Microcephaly, idiopathic, autosomal	OMIM:251200
+7	0.75	Cleft lip/palate	OMIM:119530
+9	0.7	Cleft palate with or without ankyloglossia, X-linked	OMIM:303400
+10	0.65	Median cleft face syndrome	OMIM:600674

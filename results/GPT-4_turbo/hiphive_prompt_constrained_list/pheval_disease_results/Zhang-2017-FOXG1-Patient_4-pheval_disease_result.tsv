@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome, congenital variant	OMIM:613454
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.82	Autism, susceptibility to, X-linked 3	OMIM:300496
+4	0.81	Mowat-Wilson syndrome	OMIM:235730
+5	0.79	Pitt-Hopkins syndrome	OMIM:610954
+6	0.76	Coffin-Siris syndrome	OMIM:135900
+7	0.74	West syndrome	OMIM:308350
+8	0.72	Smith-Magenis syndrome	OMIM:182290
+9	0.71	MECP2 duplication syndrome	OMIM:300260
+10	0.69	Prader-Willi syndrome	OMIM:176270

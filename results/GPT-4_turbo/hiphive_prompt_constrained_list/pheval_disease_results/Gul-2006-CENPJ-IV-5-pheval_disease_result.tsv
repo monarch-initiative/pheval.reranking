@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Angelman syndrome	OMIM:105830
+2	0.93	Rett syndrome	OMIM:312750
+3	0.91	Severe myoclonic epilepsy in infancy	OMIM:607208
+4	0.88	Kleefstra syndrome	OMIM:610253
+5	0.86	Coffin-Lowry syndrome	OMIM:303600
+6	0.85	Pitt-Hopkins syndrome	OMIM:610954
+7	0.83	Dysequilibrium syndrome	OMIM:224050
+8	0.81	Lissencephaly	OMIM:607432
+9	0.79	Peroxisome biogenesis disorder 1A (Zellweger)	OMIM:214100
+10	0.77	MECP2 duplication syndrome	OMIM:300260

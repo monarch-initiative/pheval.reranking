@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.92	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.9	Congenital Contractural Arachnodactyly	OMIM:121050
+4	0.87	Ehlers-Danlos Syndrome, Type IV, Vascular Type	OMIM:130050
+5	0.85	Cutis Laxa, Autosomal Dominant	OMIM:123700
+6	0.82	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+7	0.8	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+8	0.78	Beals Syndrome	OMIM:121050
+9	0.75	Homocystinuria	OMIM:236200
+10	0.73	Familial Thoracic Aortic Aneurysm And Dissection	OMIM:607086

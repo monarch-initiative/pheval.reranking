@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cartilage-hair hypoplasia	OMIM:250250
+2	0.82	Coffin-Lowry syndrome	OMIM:303600
+3	0.79	Laron syndrome	OMIM:262500
+4	0.76	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+5	0.74	Floating-Harbor syndrome	OMIM:136140
+6	0.72	Noonan syndrome	OMIM:163950
+7	0.69	Williams syndrome	OMIM:194050
+8	0.67	Prader-Willi syndrome	OMIM:176270
+9	0.65	Kabuki syndrome	OMIM:147920
+10	0.63	Rubinstein-Taybi syndrome	OMIM:180849

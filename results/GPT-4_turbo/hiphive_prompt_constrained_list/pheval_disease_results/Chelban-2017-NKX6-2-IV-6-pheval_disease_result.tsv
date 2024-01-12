@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 2, X-linked	OMIM:312920
+2	0.8	Leber congenital amaurosis	OMIM:204000
+2	0.8	Rett syndrome	OMIM:312750
+2	0.8	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	Spastic paraplegia 3A	OMIM:182600
+2	0.8	Mowat-Wilson syndrome	OMIM:235730
+2	0.8	Angelman syndrome	OMIM:105830
+8	0.7	Lissencephaly 1	OMIM:607432
+8	0.7	Dandy-Walker syndrome	OMIM:220200
+8	0.7	X-linked adrenoleukodystrophy	OMIM:300100

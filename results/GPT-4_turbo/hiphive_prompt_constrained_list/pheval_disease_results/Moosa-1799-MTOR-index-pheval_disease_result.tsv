@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Craniofrontonasal syndrome	OMIM:304110
+2	0.85	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+3	0.83	Cowden syndrome	OMIM:158350
+4	0.81	Gorlin syndrome	OMIM:109400
+5	0.79	Familial adenomatous polyposis	OMIM:175100
+6	0.77	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.75	Greig cephalopolysyndactyly syndrome	OMIM:175700
+8	0.73	Cleidocranial dysplasia	OMIM:119600
+9	0.71	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.69	Noonan syndrome	OMIM:163950

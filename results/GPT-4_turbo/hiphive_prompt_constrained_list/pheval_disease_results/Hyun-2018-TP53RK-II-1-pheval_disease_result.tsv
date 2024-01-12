@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Galloway-Mowat syndrome 1	OMIM:251300
+2	0.8	Cohen syndrome	OMIM:216550
+3	0.75	Meckel syndrome	OMIM:249000
+4	0.7	Joubert syndrome	OMIM:213300
+5	0.65	Schimke immuno-osseous dysplasia	OMIM:242900
+6	0.6	Donnai-Barrow syndrome	OMIM:222448
+6	0.6	Pierson syndrome	OMIM:609049
+8	0.55	Denys-Drash syndrome	OMIM:194080
+9	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Baraitser-Winter syndrome 1	OMIM:243310

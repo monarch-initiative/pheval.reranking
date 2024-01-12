@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.85	Congenital generalized lipodystrophy	OMIM:269700
+3	0.82	Donohue syndrome	OMIM:246200
+4	0.78	McCune-Albright syndrome	OMIM:174800
+5	0.75	Schwartz-Jampel syndrome	OMIM:255800
+6	0.72	Insulinoma	OMIM:606856
+7	0.68	Rabson-Mendenhall syndrome	OMIM:262190
+8	0.65	Proteus syndrome	OMIM:176920
+9	0.62	Laron syndrome	OMIM:262500
+10	0.6	Cushing's syndrome	OMIM:219090

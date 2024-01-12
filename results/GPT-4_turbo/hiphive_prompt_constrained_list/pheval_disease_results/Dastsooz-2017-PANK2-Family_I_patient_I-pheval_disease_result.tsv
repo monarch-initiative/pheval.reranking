@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.85	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+3	0.8	Wilson Disease	OMIM:277900
+4	0.75	Neurodegeneration with Brain Iron Accumulation 1	OMIM:234200
+5	0.7	Mevalonate Kinase Deficiency	OMIM:610377
+6	0.65	Leigh Syndrome, French-Canadian Type	OMIM:220111
+7	0.6	Metachromatic Leukodystrophy	OMIM:250100
+8	0.55	Alexander Disease	OMIM:203450
+9	0.5	Glycogen Storage Disease Type II	OMIM:232300
+10	0.45	X-linked Adrenoleukodystrophy	OMIM:300100

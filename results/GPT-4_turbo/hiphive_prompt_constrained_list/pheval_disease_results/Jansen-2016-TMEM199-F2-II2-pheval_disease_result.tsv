@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.85	Familial hypercholesterolemia	OMIM:143890
+3	0.8	Alpha-1-antitrypsin deficiency	OMIM:613490
+4	0.75	Progressive familial intrahepatic cholestasis type 1	OMIM:211600
+5	0.7	Dubin-Johnson syndrome	OMIM:237500
+6	0.65	Glycogen storage disease type III	OMIM:232400
+7	0.6	Non-alcoholic fatty liver disease	OMIM:613282
+8	0.55	Crigler-Najjar syndrome	OMIM:218800
+9	0.5	Hereditary hemochromatosis	OMIM:235200
+10	0.45	Gilbert syndrome	OMIM:143500

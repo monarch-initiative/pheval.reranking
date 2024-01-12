@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous sclerosis 1	OMIM:191100
+2	0.93	Tuberous sclerosis 2	OMIM:613254
+3	0.72	Neurofibromatosis, type 1	OMIM:162200
+4	0.68	Sturge-Weber syndrome	OMIM:185300
+5	0.63	Waardenburg syndrome, type 2A	OMIM:193510
+6	0.61	Leopard syndrome 1	OMIM:151100
+7	0.6	Hypomelanosis of Ito	OMIM:300337
+8	0.56	Piebaldism	OMIM:172800
+9	0.54	Neurofibromatosis, type 2	OMIM:101000
+10	0.52	Legius syndrome	OMIM:611431

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227645
+2	0.85	Dyskeratosis congenita	OMIM:127550
+3	0.82	Shwachman-Diamond syndrome	OMIM:260400
+4	0.8	Diamond-Blackfan anemia	OMIM:105650
+5	0.75	Copper deficiency, familial benign	OMIM:608684
+6	0.72	Severe congenital neutropenia	OMIM:202700
+7	0.7	Thrombocytopenia-absent radius syndrome	OMIM:274000
+8	0.68	Aplastic anemia	OMIM:609135
+9	0.65	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+10	0.6	Retinitis pigmentosa	OMIM:268000

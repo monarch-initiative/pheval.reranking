@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Metachromatic leukodystrophy	OMIM:250100
+2	0.85	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.83	Alexander disease	OMIM:203450
+4	0.81	Canavan disease	OMIM:271900
+5	0.78	Zellweger syndrome	OMIM:214100
+6	0.75	Adrenoleukodystrophy	OMIM:300100
+7	0.73	Vanishing white matter disease	OMIM:603896
+8	0.7	Maple syrup urine disease	OMIM:248600
+9	0.68	Leigh syndrome	OMIM:256000
+10	0.65	Mucopolysaccharidosis type I (Hurler syndrome)	OMIM:607014

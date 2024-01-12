@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome, type 2A	OMIM:193510
+2	0.85	Tietz albinism-deafness syndrome	OMIM:103500
+3	0.8	Piebaldism	OMIM:172800
+4	0.75	Waardenburg syndrome, type 1	OMIM:193500
+5	0.7	Woolf syndrome	OMIM:227240
+6	0.65	Vogt-Koyanagi-Harada disease	OMIM:607511
+7	0.6	Waardenburg syndrome, type 4C	OMIM:613266
+8	0.55	Oculocutaneous albinism type 1	OMIM:203100
+9	0.5	Hermansky-Pudlak syndrome 1	OMIM:203300
+10	0.45	Chediak-Higashi syndrome	OMIM:214500

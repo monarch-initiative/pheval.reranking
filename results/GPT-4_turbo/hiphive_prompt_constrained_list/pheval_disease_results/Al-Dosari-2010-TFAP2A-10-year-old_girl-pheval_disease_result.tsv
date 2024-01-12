@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Lipodystrophy syndrome	OMIM:616914
+2	0.85	Aniridia, cerebellar ataxia, and mental retardation	OMIM:206700
+3	0.8	Aniridia-renal agenesis-psychomotor retardation	OMIM:106210
+3	0.8	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+5	0.75	COACH Syndrome	OMIM:216360
+5	0.75	Baraitser-Winter syndrome 1	OMIM:243310
+7	0.7	Microphthalmia with limb anomalies	OMIM:206920
+7	0.7	Rabson-Mendenhall syndrome	OMIM:262190
+9	0.65	Oculocerebrorenal syndrome	OMIM:300535
+9	0.65	Renal-coloboma syndrome	OMIM:120330

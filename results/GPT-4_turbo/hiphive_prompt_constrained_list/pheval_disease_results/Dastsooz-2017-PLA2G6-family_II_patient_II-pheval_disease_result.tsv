@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial myopathy	OMIM:609560
+2	0.88	Glycogen storage disease type II	OMIM:232300
+3	0.85	Becker muscular dystrophy	OMIM:300376
+4	0.83	Duchenne muscular dystrophy	OMIM:310200
+5	0.82	Mitochondrial DNA depletion syndrome	OMIM:251880
+6	0.8	Lysosomal storage disease	OMIM:144650
+7	0.78	Pompe disease	OMIM:232300
+8	0.76	Progressive external ophthalmoplegia	OMIM:609286
+9	0.75	Myoclonic epilepsy with ragged red fibers	OMIM:545000
+10	0.74	Wilson disease	OMIM:277900

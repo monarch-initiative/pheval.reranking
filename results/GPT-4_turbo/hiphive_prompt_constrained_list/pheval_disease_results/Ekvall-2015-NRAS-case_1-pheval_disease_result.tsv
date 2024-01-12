@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Noonan syndrome 1	OMIM:163950
+2	0.92	Neurofibromatosis, type 1	OMIM:162200
+3	0.9	Costello syndrome	OMIM:218040
+4	0.88	LEOPARD syndrome	OMIM:151100
+5	0.85	Cardiofaciocutaneous syndrome	OMIM:115150
+6	0.82	Legius syndrome	OMIM:611431
+7	0.8	Noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia	OMIM:613563
+8	0.78	Capillary malformation-arteriovenous malformation	OMIM:608354
+9	0.75	Neurofibromatosis-Noonan syndrome	OMIM:601321
+10	0.72	Watson syndrome	OMIM:193520

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Weill-Marchesani Syndrome 2	OMIM:608328
+3	0.87	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+4	0.85	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.83	Kniest Dysplasia	OMIM:156550
+6	0.8	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.78	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+8	0.76	Homocystinuria Due To Cystathionine Beta-Synthase Deficiency	OMIM:236200
+9	0.74	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+10	0.7	Noonan Syndrome 1	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cartilage-hair hypoplasia	OMIM:250250
+2	0.9	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+3	0.89	Nijmegen breakage syndrome	OMIM:251260
+4	0.88	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	OMIM:602450
+5	0.85	Dubowitz syndrome	OMIM:223370
+6	0.83	Schimke immuno-osseous dysplasia	OMIM:242900
+7	0.81	Bloom syndrome	OMIM:210900
+8	0.79	Cohen syndrome	OMIM:216550
+9	0.77	WHIM syndrome	OMIM:193670
+10	0.75	Hyper IgM syndrome type 5	OMIM:608106

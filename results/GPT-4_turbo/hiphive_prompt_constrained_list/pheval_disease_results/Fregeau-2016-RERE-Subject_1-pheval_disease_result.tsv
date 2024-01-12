@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.83	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.82	Marfan syndrome	OMIM:154700
+5	0.81	Noonan syndrome 1	OMIM:163950
+6	0.79	Williams-Beuren syndrome	OMIM:194050
+7	0.78	CHARGE syndrome	OMIM:214800
+8	0.75	22q11.2 deletion syndrome	OMIM:188400
+9	0.74	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.72	Velocardiofacial syndrome	OMIM:192430

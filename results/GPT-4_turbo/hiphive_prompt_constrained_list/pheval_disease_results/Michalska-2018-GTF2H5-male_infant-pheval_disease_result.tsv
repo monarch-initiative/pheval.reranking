@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+2	0.85	Usher Syndrome, Type 2A	OMIM:276901
+3	0.8	Perrault Syndrome	OMIM:233400
+4	0.78	Cohen Syndrome	OMIM:216550
+5	0.75	Marfan Syndrome	OMIM:154700
+6	0.7	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+7	0.68	Incontinentia Pigmenti	OMIM:308300
+8	0.65	Cornelia De Lange Syndrome 1	OMIM:122470
+9	0.63	Alstrom Syndrome	OMIM:203800
+10	0.6	Kniest Dysplasia	OMIM:156550

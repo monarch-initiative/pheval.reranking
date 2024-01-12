@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	VACTERL association	OMIM:192350
+2	0.85	CHARGE syndrome	OMIM:214800
+3	0.8	22q11.2 deletion syndrome	OMIM:188400
+4	0.75	Velocardiofacial syndrome	OMIM:192430
+5	0.7	DiGeorge syndrome	OMIM:188400
+6	0.65	Opitz G/BBB syndrome	OMIM:145410
+7	0.6	Goldenhar syndrome	OMIM:164210
+8	0.55	Joubert syndrome	OMIM:213300
+9	0.5	Treacher Collins syndrome	OMIM:154500
+10	0.45	Stickler syndrome	OMIM:108300

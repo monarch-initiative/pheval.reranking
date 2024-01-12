@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial Complex II Deficiency	OMIM:252011
+2	0.89	Mitochondrial Myopathy	OMIM:000373
+3	0.87	Becker Muscular Dystrophy	OMIM:300376
+4	0.85	Limb-Girdle Muscular Dystrophy	OMIM:253600
+5	0.83	Myotonic Dystrophy	OMIM:160900
+6	0.8	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+7	0.78	Peripheral Neuropathy, Myopathy, Hoarseness, and Hearing Loss, Autosomal Recessive	OMIM:614369
+8	0.76	Glycogen Storage Disease Type V	OMIM:232600
+9	0.74	Duchenne Muscular Dystrophy	OMIM:310200
+10	0.72	Hereditary Inclusion Body Myopathy	OMIM:600737

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency with hyper-IgM, type 5	OMIM:608106
+2	0.85	Immunodeficiency 12B, with or without anhidrosis	OMIM:615468
+3	0.8	Hemophagocytic lymphohistiocytosis, familial, 3	OMIM:608898
+4	0.75	Immunodeficiency 31B	OMIM:614162
+5	0.7	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+6	0.65	APECED syndrome	OMIM:240300
+7	0.6	Nijmegen breakage syndrome	OMIM:251260
+8	0.55	Immunodeficiency 14	OMIM:615593
+9	0.5	Chediak-Higashi syndrome	OMIM:214500
+10	0.45	X-linked lymphoproliferative syndrome 1	OMIM:308240

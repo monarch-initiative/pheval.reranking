@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Apert syndrome	OMIM:101200
+2	0.85	Craniofrontonasal syndrome	OMIM:304110
+3	0.83	Crouzon syndrome	OMIM:123500
+4	0.8	Saethre-Chotzen syndrome	OMIM:101400
+5	0.79	Pfeiffer syndrome	OMIM:101600
+6	0.76	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+7	0.75	Muenke syndrome	OMIM:602849
+8	0.72	Antley-Bixler syndrome without genital anomalies or disordered steroidogenesis	OMIM:207410
+9	0.7	Jackson-Weiss syndrome	OMIM:123150
+10	0.65	Carpenter syndrome	OMIM:201000

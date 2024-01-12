@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Skeletal Dysplasia	OMIM:277300
+2	0.82	Robinow Syndrome, Autosomal Dominant 1	OMIM:180700
+3	0.8	Short-Rib Thoracic Dysplasia 3 with or without Polydactyly	OMIM:613091
+4	0.78	Geleophysic Dysplasia 1	OMIM:231050
+5	0.75	3-M Syndrome 1	OMIM:273750
+6	0.73	Mulibrey Nanism	OMIM:253250
+7	0.72	Greenberg Dysplasia	OMIM:215140
+8	0.7	Stuve-Wiedemann Syndrome	OMIM:601559
+9	0.68	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+10	0.65	Metatropic Dysplasia	OMIM:156530

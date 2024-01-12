@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+3	0.83	Beals Syndrome	OMIM:121050
+4	0.81	Supravalvular Aortic Stenosis	OMIM:185500
+5	0.79	Loeys-Dietz Syndrome 1	OMIM:609192
+6	0.77	Cutis Laxa, Autosomal Dominant	OMIM:123700
+7	0.75	Homocystinuria	OMIM:236200
+8	0.73	Stickler Syndrome	OMIM:108300
+9	0.71	Shprintzen-Goldberg Syndrome	OMIM:182212
+10	0.69	Coffin-Lowry Syndrome	OMIM:303600

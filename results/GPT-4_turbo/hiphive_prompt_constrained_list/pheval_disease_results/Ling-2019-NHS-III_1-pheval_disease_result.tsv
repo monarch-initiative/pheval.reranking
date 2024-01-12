@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen Syndrome	OMIM:216550
+2	0.93	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.9	Rubinstein-Taybi Syndrome 1	OMIM:180849
+4	0.88	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.86	Ectodermal Dysplasia 1, Anhidrotic	OMIM:305100
+6	0.85	Floating-Harbor Syndrome	OMIM:136140
+7	0.84	Williams Syndrome	OMIM:194050
+8	0.82	Kleefstra Syndrome 1	OMIM:610253
+9	0.81	Orofaciodigital Syndrome I	OMIM:311200
+10	0.8	Noonan Syndrome 1	OMIM:163950

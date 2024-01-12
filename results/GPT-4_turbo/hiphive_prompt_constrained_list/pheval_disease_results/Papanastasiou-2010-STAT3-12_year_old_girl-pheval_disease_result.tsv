@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgE recurrent infection syndrome	OMIM:147060
+2	0.87	Dyskeratosis congenita, autosomal dominant	OMIM:127550
+3	0.86	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.85	Chronic granulomatous disease	OMIM:306400
+5	0.82	Chediak-Higashi syndrome	OMIM:214500
+6	0.8	Familial Mediterranean fever	OMIM:249100
+7	0.78	Ataxia-telangiectasia	OMIM:208900
+8	0.76	Griscelli syndrome	OMIM:214450
+9	0.75	Omenn syndrome	OMIM:603554
+10	0.74	Severe combined immunodeficiency	OMIM:102700

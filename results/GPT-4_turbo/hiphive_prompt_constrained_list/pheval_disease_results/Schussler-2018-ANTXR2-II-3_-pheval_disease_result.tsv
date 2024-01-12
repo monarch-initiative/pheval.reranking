@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Nephrotic Syndrome, Type 1	OMIM:256300
+2	0.82	Scleroderma, Systemic	OMIM:181750
+3	0.79	Ehlers-Danlos Syndrome, Progeroid Type, 1	OMIM:130070
+4	0.75	Addison Disease	OMIM:103230
+5	0.72	Gingival Fibromatosis 1	OMIM:135300
+6	0.68	Bartter Syndrome, Type 3	OMIM:607364
+7	0.65	Hyperkalemic Periodic Paralysis	OMIM:170500
+8	0.6	Menkes Disease	OMIM:309400
+9	0.55	Leprechaunism	OMIM:246200
+10	0.5	Hypoalbuminemia, Familial	OMIM:615330

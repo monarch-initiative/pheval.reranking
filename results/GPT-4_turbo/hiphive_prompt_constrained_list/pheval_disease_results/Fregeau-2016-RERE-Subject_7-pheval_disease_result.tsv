@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.98	Velocardiofacial syndrome	OMIM:192430
+3	0.96	Marfan Syndrome	OMIM:154700
+4	0.94	Williams-Beuren syndrome	OMIM:194050
+5	0.92	Down Syndrome	OMIM:190685
+6	0.9	Noonan syndrome	OMIM:163950
+7	0.88	Coffin-Siris syndrome	OMIM:135900
+8	0.86	Smith-Magenis Syndrome	OMIM:182290
+9	0.84	Kleefstra syndrome	OMIM:610253
+10	0.82	Cornelia de Lange Syndrome	OMIM:122470

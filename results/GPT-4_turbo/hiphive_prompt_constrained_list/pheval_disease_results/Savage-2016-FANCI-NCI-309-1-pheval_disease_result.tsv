@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Holt-Oram syndrome	OMIM:142900
+2	0.8	Fanconi anemia	OMIM:227650
+3	0.75	Noonan syndrome 1	OMIM:163950
+4	0.7	DiGeorge syndrome	OMIM:188400
+5	0.68	Ellis-van Creveld syndrome	OMIM:225500
+6	0.65	Turner syndrome	OMIM:300000
+7	0.6	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.55	Williams syndrome	OMIM:194050
+9	0.5	CHARGE syndrome	OMIM:214800
+10	0.45	Kabuki syndrome 1	OMIM:147920

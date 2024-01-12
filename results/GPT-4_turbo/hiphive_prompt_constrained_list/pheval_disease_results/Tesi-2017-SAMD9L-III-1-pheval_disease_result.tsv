@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+2	0.88	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+3	0.86	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:601457
+4	0.85	Common variable immunodeficiency	OMIM:607594
+5	0.83	Agammaglobulinemia 1, autosomal recessive	OMIM:601495
+6	0.81	Whipple disease	OMIM:261300
+7	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.8	Ataxia-telangiectasia	OMIM:208900
+9	0.78	Cartilage-hair hypoplasia	OMIM:250250
+10	0.77	Retinitis pigmentosa and erythrocytic microcytosis	OMIM:616959

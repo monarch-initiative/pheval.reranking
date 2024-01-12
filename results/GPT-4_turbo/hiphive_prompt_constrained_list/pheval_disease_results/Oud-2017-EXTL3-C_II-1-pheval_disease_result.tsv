@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hypothyroidism, Congenital, Due To Thyroid Dysgenesis Or Hypoplasia	OMIM:218700
+2	0.83	Craniosynostosis 3	OMIM:615314
+3	0.81	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.79	Hyperbilirubinemia, Transient Familial Neonatal	OMIM:237900
+5	0.78	Crouzon Syndrome	OMIM:123500
+6	0.76	Loeys-Dietz Syndrome 1	OMIM:609192
+7	0.74	Noonan Syndrome 1	OMIM:163950
+8	0.72	Shprintzen-Goldberg Syndrome	OMIM:182212
+9	0.7	Apert Syndrome	OMIM:101200
+10	0.68	Skeletal Dysplasia, San Diego Type	OMIM:600092

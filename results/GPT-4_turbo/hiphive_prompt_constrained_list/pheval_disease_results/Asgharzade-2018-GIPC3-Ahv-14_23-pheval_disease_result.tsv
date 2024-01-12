@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher syndrome, type 1F	OMIM:602083
+2	0.94	Usher syndrome, type 1D	OMIM:601067
+3	0.93	Usher syndrome, type 1C	OMIM:605242
+4	0.92	Usher syndrome, type 1B	OMIM:276900
+5	0.91	Pendred syndrome	OMIM:274600
+6	0.9	Usher syndrome, type 2A	OMIM:276901
+7	0.89	Usher syndrome, type 1G	OMIM:606943
+8	0.88	Waardenburg syndrome, type 2A	OMIM:193510
+9	0.87	Usher syndrome, type 2C	OMIM:605472
+10	0.86	Branchiootorenal syndrome 1	OMIM:113650

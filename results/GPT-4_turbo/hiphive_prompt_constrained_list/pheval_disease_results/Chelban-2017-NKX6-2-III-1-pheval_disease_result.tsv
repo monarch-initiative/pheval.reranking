@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.92	Tay-Sachs disease	OMIM:272800
+3	0.9	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+4	0.89	Spinocerebellar ataxia type 1	OMIM:164400
+5	0.88	Multiple sclerosis	OMIM:126200
+6	0.87	Neuronal ceroid lipofuscinosis	OMIM:256730
+7	0.85	Friedreich ataxia	OMIM:229300
+8	0.84	Metachromatic leukodystrophy	OMIM:250100
+9	0.83	Wilson disease	OMIM:277900
+10	0.81	Globoid cell leukodystrophy	OMIM:245200

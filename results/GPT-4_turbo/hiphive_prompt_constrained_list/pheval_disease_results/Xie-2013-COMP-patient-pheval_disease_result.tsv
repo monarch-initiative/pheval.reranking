@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Achondroplasia	OMIM:100800
+2	0.93	Hypochondroplasia	OMIM:146000
+3	0.92	Pseudoachondroplasia	OMIM:177170
+4	0.9	Thanatophoric Dysplasia Type 1	OMIM:187600
+5	0.88	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.86	Diastrophic Dysplasia	OMIM:222600
+7	0.85	Metatropic Dysplasia	OMIM:156530
+8	0.84	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+9	0.82	Multiple Epiphyseal Dysplasia	OMIM:132400
+10	0.81	Kniest Dysplasia	OMIM:156550

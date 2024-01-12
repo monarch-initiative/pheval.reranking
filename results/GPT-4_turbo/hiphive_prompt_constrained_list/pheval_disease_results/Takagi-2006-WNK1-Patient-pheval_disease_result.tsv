@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease	OMIM:609284
+2	0.9	Familial dysautonomia	OMIM:223800
+3	0.85	Hereditary sensory and autonomic neuropathy type I	OMIM:162400
+3	0.85	Dejerine-Sottas disease	OMIM:145900
+5	0.8	Chronic inflammatory demyelinating polyneuropathy	OMIM:139395
+6	0.75	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+7	0.7	Refsum disease	OMIM:266500
+8	0.65	Roussy-Levy syndrome	OMIM:180800
+9	0.6	Hereditary sensory and autonomic neuropathy type II	OMIM:201300
+10	0.55	Congenital insensitivity to pain with anhidrosis	OMIM:256800

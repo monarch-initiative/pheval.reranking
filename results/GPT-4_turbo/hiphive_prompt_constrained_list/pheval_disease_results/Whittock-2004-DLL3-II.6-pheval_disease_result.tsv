@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+2	0.85	Achondroplasia	OMIM:100800
+3	0.81	Diastrophic Dysplasia	OMIM:222600
+4	0.78	Kniest Dysplasia	OMIM:156550
+5	0.75	Pseudoachondroplasia	OMIM:177170
+6	0.73	Multiple Epiphyseal Dysplasia	OMIM:132400
+7	0.7	Metatropic Dysplasia	OMIM:156530
+8	0.68	Morquio Syndrome	OMIM:253000
+9	0.66	Ellis-van Creveld Syndrome	OMIM:225500
+10	0.64	Stickler Syndrome, Type I	OMIM:108300

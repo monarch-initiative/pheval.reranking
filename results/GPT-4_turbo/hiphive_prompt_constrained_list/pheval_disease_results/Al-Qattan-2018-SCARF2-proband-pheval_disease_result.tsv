@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Shprintzen-Goldberg syndrome	OMIM:182212
+2	0.93	Marfan syndrome	OMIM:154700
+3	0.91	Geleophysic dysplasia 2	OMIM:614185
+4	0.89	Ohdo syndrome, Maat-Kievit-Brunner type	OMIM:300895
+5	0.87	Cornelia de Lange syndrome 1	OMIM:122470
+6	0.85	Beals-Hecht syndrome	OMIM:121050
+7	0.84	Lujan-Fryns syndrome	OMIM:309520
+8	0.82	Homocystinuria due to CBS deficiency	OMIM:236200
+9	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+10	0.78	Noonan syndrome 1	OMIM:163950

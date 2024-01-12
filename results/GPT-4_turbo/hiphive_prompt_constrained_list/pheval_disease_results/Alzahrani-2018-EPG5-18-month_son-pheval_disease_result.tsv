@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.85	Mulibrey Nanism	OMIM:253250
+3	0.82	Mucopolysaccharidosis Type IVA	OMIM:253000
+4	0.8	Wiedemann-Steiner Syndrome	OMIM:605130
+5	0.78	Shwachman-Diamond Syndrome	OMIM:260400
+6	0.75	Noonan Syndrome 1	OMIM:163950
+7	0.73	Cornelia de Lange Syndrome 1	OMIM:122470
+8	0.7	Mandibulofacial Dysostosis with Microcephaly	OMIM:610536
+9	0.68	Seckel Syndrome	OMIM:210600
+10	0.65	Dubowitz Syndrome	OMIM:223370

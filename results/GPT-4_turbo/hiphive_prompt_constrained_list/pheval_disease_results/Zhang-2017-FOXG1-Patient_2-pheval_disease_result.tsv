@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mowat-Wilson syndrome	OMIM:235730
+2	0.93	Angelman syndrome	OMIM:105830
+3	0.92	Rett syndrome	OMIM:312750
+4	0.9	2q23.1 microdeletion syndrome	OMIM:156200
+5	0.89	Pitt-Hopkins syndrome	OMIM:610954
+6	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.86	Coffin-Siris syndrome	OMIM:135900
+8	0.85	MECP2 duplication syndrome	OMIM:300260
+9	0.84	Prader-Willi syndrome	OMIM:176270
+10	0.83	CHARGE syndrome	OMIM:214800

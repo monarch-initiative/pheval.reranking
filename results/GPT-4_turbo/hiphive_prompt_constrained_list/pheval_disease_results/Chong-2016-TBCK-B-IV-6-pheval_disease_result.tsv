@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Angelman syndrome	OMIM:105830
+2	0.81	Prader-Willi syndrome	OMIM:176270
+3	0.79	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.76	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+5	0.75	Pitt-Hopkins syndrome	OMIM:610954
+6	0.74	Coffin-Lowry syndrome	OMIM:303600
+7	0.73	CHARGE syndrome	OMIM:214800
+8	0.72	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.71	Knobloch syndrome	OMIM:267750
+10	0.7	Zellweger syndrome	OMIM:214100

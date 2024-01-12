@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.89	Angelman syndrome	OMIM:105830
+3	0.88	Prader-Willi syndrome	OMIM:176270
+4	0.87	Coffin-Lowry syndrome	OMIM:303600
+5	0.86	Wilson-Turner syndrome	OMIM:309585
+6	0.85	MECP2 duplication syndrome	OMIM:300260
+7	0.84	Smith-Magenis syndrome	OMIM:182290
+8	0.83	X-linked lissencephaly	OMIM:300067
+9	0.82	Mowat-Wilson syndrome	OMIM:235730
+10	0.81	Snyder-Robinson syndrome	OMIM:309583

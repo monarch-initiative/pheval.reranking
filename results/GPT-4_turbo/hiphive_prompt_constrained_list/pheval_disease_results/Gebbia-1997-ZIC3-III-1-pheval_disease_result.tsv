@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Heterotaxy, X-Linked	OMIM:306955
+2	0.89	Holt-Oram Syndrome	OMIM:142900
+3	0.88	Ellis-Van Creveld Syndrome	OMIM:225500
+4	0.87	Primary Ciliary Dyskinesia	OMIM:244400
+5	0.85	Ivemark Syndrome	OMIM:208530
+6	0.83	Noonan Syndrome 1	OMIM:163950
+7	0.81	Tetralogy of Fallot	OMIM:187500
+8	0.8	DiGeorge Syndrome	OMIM:188400
+9	0.78	CHARGE Syndrome	OMIM:214800
+10	0.76	Alagille Syndrome 1	OMIM:118450

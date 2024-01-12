@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Ohdo syndrome, X-linked	OMIM:300895
+3	0.8	Coffin-Siris syndrome 1	OMIM:135900
+4	0.77	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+5	0.75	Barber-Say syndrome	OMIM:209885
+6	0.73	Anauxetic dysplasia 1	OMIM:607095
+7	0.7	Cardiofaciocutaneous syndrome 1	OMIM:115150
+8	0.68	3MC syndrome 1	OMIM:257920
+9	0.65	Nicolaides-Baraitser syndrome	OMIM:601358
+10	0.63	Rubinstein-Taybi syndrome 1	OMIM:180849

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	DiGeorge syndrome	OMIM:188400
+2	0.9	CHARGE syndrome	OMIM:214800
+3	0.88	22q11.2 deletion syndrome	OMIM:611867
+4	0.86	Velocardiofacial syndrome	OMIM:192430
+5	0.83	Kabuki syndrome	OMIM:147920
+6	0.8	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.77	Turner syndrome	OMIM:300400
+8	0.75	Noonan syndrome	OMIM:163950
+9	0.73	Williams syndrome	OMIM:194050
+10	0.7	VACTERL association	OMIM:192350

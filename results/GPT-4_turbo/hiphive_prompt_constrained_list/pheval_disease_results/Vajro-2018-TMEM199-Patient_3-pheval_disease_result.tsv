@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Alpha-1-antitrypsin deficiency	OMIM:613490
+3	0.75	Galactosemia	OMIM:230400
+4	0.7	Primary biliary cirrhosis	OMIM:109720
+5	0.65	Hereditary hemochromatosis	OMIM:235200
+6	0.6	Citrullinemia, type II	OMIM:605814
+7	0.55	Glycogen storage disease type I	OMIM:232200
+8	0.5	Tyrosinemia type I	OMIM:276700
+9	0.45	Acute intermittent porphyria	OMIM:176000
+10	0.4	Alagille syndrome 1	OMIM:118450

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.75	Craniofrontonasal syndrome	OMIM:304110
+3	0.73	Ohdo syndrome, Say-Barber-Biesecker variant	OMIM:603736
+4	0.68	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.66	Noonan syndrome 1	OMIM:163950
+6	0.64	Aarskog-Scott syndrome	OMIM:305400
+7	0.62	LEOPARD syndrome 1	OMIM:151100
+8	0.6	Noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia	OMIM:613563
+9	0.58	Costello syndrome	OMIM:218040
+10	0.55	Coffin-Siris syndrome	OMIM:135900

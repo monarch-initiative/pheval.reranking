@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spondyloepimetaphyseal Dysplasia with Multiple Dislocations	OMIM:603546
+2	0.89	Diastrophic Dysplasia	OMIM:222600
+3	0.87	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+4	0.85	Cleidocranial Dysostosis	OMIM:119600
+5	0.82	Pseudoachondroplasia	OMIM:177170
+6	0.81	Multiple Epiphyseal Dysplasia	OMIM:132400
+7	0.79	Schwartz-Jampel Syndrome	OMIM:255800
+8	0.77	Achondroplasia	OMIM:100800
+9	0.76	Metatropic Dysplasia	OMIM:250600
+10	0.75	Ellis-van Creveld Syndrome	OMIM:225500

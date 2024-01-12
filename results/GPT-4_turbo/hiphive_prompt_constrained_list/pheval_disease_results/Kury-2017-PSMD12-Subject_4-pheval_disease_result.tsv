@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Opitz G/BBB syndrome	OMIM:300000
+2	0.85	Noonan syndrome 1	OMIM:163950
+3	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Syndromic X-linked intellectual disability Turner type	OMIM:300706
+5	0.78	22q11.2 deletion syndrome	OMIM:188400
+6	0.75	Williams syndrome	OMIM:194050
+7	0.73	Sotos syndrome 1	OMIM:117550
+8	0.72	Tuberous sclerosis 1	OMIM:191100
+9	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849
+10	0.68	Coffin-Siris syndrome 1	OMIM:135900

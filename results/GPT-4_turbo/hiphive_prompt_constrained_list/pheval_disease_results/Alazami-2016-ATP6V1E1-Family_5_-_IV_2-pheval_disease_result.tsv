@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Marfan Lipodystrophy Syndrome	OMIM:616914
+2	0.89	Congenital Disorder of Deglycosylation	OMIM:617908
+3	0.88	Loeys-Dietz Syndrome 1	OMIM:609192
+4	0.87	Autosomal Recessive Cutis Laxa Type 1B	OMIM:614437
+5	0.86	Beta-Ureidopropionase Deficiency	OMIM:613161
+6	0.85	Ehlers-Danlos Syndrome, Progeroid Type, 2	OMIM:615349
+7	0.84	Fibulin 5-Related Cutis Laxa	OMIM:219100
+8	0.83	Williams-Beuren Syndrome	OMIM:194050
+9	0.82	Supravalvular Aortic Stenosis	OMIM:185500
+10	0.81	Gerodermia Osteodysplastica	OMIM:231070

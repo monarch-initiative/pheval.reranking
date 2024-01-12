@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial dysostosis	OMIM:119600
+2	0.85	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605282
+3	0.83	Shwachman-Diamond syndrome	OMIM:260400
+4	0.82	Ellis-van Creveld syndrome	OMIM:225500
+5	0.8	Dyssegmental dysplasia, Silverman-Handmaker type	OMIM:224410
+6	0.78	Craniometaphyseal dysplasia	OMIM:123000
+7	0.75	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+8	0.73	Pyle disease	OMIM:265900
+9	0.72	Coffin-Lowry syndrome	OMIM:303600
+10	0.7	Diastrophic dysplasia	OMIM:222600

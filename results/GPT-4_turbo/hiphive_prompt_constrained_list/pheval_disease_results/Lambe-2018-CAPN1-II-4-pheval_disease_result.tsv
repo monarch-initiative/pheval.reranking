@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia	OMIM:604187
+2	0.85	Cerebral palsy, spastic quadriplegic	OMIM:603513
+3	0.82	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+4	0.75	Cerebral palsy, spastic diplegic	OMIM:601835
+5	0.73	Spastic paraparesis	OMIM:303350
+6	0.71	Amyotrophic lateral sclerosis	OMIM:105400
+7	0.69	Spastic ataxia 1, autosomal dominant	OMIM:108600
+8	0.65	Primary lateral sclerosis, juvenile	OMIM:606353
+9	0.63	PLA2G6-associated neurodegeneration	OMIM:256600
+10	0.61	Spastic paraplegia 4, autosomal dominant	OMIM:182601

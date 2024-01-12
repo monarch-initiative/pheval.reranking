@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.85	Williams syndrome	OMIM:194050
+4	0.82	Noonan syndrome 1	OMIM:163950
+5	0.81	Coffin-Siris syndrome	OMIM:135900
+6	0.79	Kabuki syndrome 1	OMIM:147920
+7	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.75	Craniofrontonasal syndrome	OMIM:304110
+9	0.72	Pitt-Hopkins syndrome	OMIM:610954
+10	0.7	CHARGE syndrome	OMIM:214800

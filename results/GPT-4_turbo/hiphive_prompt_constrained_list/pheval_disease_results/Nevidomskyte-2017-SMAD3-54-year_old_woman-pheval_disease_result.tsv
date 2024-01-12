@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Loeys-Dietz Syndrome, Type 1	OMIM:609192
+2	0.94	Loeys-Dietz Syndrome, Type 2	OMIM:610168
+3	0.93	Loeys-Dietz Syndrome, Type 3	OMIM:613795
+4	0.92	Loeys-Dietz Syndrome, Type 4	OMIM:614816
+5	0.91	Loeys-Dietz Syndrome, Type 5	OMIM:615582
+6	0.85	Familial Thoracic Aortic Aneurysms and Aortic Dissections	OMIM:607086
+7	0.8	Marfan Syndrome	OMIM:154700
+8	0.7	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+9	0.6	Ehlers-Danlos Syndrome, Kyphoscoliosis Type	OMIM:225400
+10	0.5	Cutis Laxa, Autosomal Recessive, Type I	OMIM:219100

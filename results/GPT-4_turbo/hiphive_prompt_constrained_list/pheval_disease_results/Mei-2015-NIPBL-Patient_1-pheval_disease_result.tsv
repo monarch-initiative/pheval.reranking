@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris syndrome	OMIM:135900
+2	0.92	Cornelia de Lange syndrome	OMIM:122470
+3	0.89	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.85	22q11.2 deletion syndrome	OMIM:188400
+6	0.83	Fragile X syndrome	OMIM:300624
+7	0.81	Williams syndrome	OMIM:194050
+8	0.79	Kabuki syndrome	OMIM:147920
+9	0.77	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.75	Rett syndrome	OMIM:312750

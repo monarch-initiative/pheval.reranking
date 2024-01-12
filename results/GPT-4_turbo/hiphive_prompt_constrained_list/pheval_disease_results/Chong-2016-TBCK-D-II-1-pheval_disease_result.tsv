@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Glycosylphosphatidylinositol biosynthesis defect 4	OMIM:610293
+2	0.93	Infantile neuroaxonal dystrophy	OMIM:608840
+3	0.91	Alpha-thalassemia/mental retardation syndrome, X-linked	OMIM:301040
+4	0.89	MECP2 duplication syndrome	OMIM:300260
+5	0.88	Mucopolysaccharidosis, MPS-III-B	OMIM:252920
+6	0.86	Pontocerebellar hypoplasia type 2A	OMIM:277470
+7	0.85	Rett syndrome	OMIM:312750
+8	0.84	Angelman syndrome	OMIM:105830
+9	0.82	Coffin-Lowry syndrome	OMIM:303600
+10	0.81	Tay-Sachs disease	OMIM:272800

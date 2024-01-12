@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.85	Thyroid agenesis	OMIM:218700
+3	0.82	Congenital hypothyroidism	OMIM:218700
+4	0.8	Pendred syndrome	OMIM:274600
+5	0.78	Cleft palate short stature vertebral anomalies	OMIM:612290
+6	0.76	Cleft palate, isolated	OMIM:119530
+7	0.74	Central hypothyroidism	OMIM:275100
+8	0.72	Thyrotropin deficiency	OMIM:275100
+9	0.7	Kabuki syndrome	OMIM:147920
+10	0.68	Septo-optic dysplasia	OMIM:182230

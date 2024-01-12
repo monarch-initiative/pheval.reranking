@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fuchs Endothelial Dystrophy	OMIM:136800
+2	0.89	Congenital Hereditary Endothelial Dystrophy 1	OMIM:121700
+3	0.87	Congenital Hereditary Endothelial Dystrophy 2	OMIM:217700
+4	0.85	Posterior Polymorphous Corneal Dystrophy 1	OMIM:122000
+5	0.84	Corneal Dystrophy, Lattice Type I	OMIM:122200
+6	0.82	Corneal Dystrophy, Thiel-Behnke Type	OMIM:602082
+7	0.8	Corneal Dystrophy, Gelatinous Drop-Like	OMIM:204870
+8	0.79	Corneal Dystrophy, Juvenile Epithelial of Meesmann	OMIM:122100
+9	0.77	Corneal Dystrophy, Schnyder	OMIM:121800
+10	0.75	Corneal Dystrophy, Reis-Bücklers	OMIM:608470

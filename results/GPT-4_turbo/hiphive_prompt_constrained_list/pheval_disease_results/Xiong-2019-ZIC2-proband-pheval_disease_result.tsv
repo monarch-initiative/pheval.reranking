@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hydrocephalus	OMIM:236600
+2	0.9	Holoprosencephaly 3	OMIM:142945
+3	0.85	Hydrocephalus due to congenital stenosis of aqueduct of sylvius	OMIM:307000
+4	0.8	Holoprosencephaly 2	OMIM:157170
+5	0.75	Holoprosencephaly 4	OMIM:142946
+6	0.7	Holoprosencephaly 5	OMIM:609637
+7	0.65	Holoprosencephaly 6	OMIM:609408
+8	0.6	Holoprosencephaly 7	OMIM:610828
+9	0.55	Holoprosencephaly 9	OMIM:610829
+10	0.5	Holoprosencephaly 11	OMIM:614226

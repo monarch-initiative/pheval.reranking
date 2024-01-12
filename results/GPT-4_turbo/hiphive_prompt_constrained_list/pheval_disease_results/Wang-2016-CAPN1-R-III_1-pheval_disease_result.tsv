@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 1	OMIM:164400
+2	0.88	Spinocerebellar ataxia 2	OMIM:183090
+3	0.87	Spinocerebellar ataxia 3	OMIM:109150
+4	0.86	Spinocerebellar ataxia 6	OMIM:183086
+5	0.85	Spinocerebellar ataxia 7	OMIM:164500
+6	0.84	Friedreich ataxia	OMIM:229300
+7	0.8	Amyotrophic lateral sclerosis 1	OMIM:105400
+8	0.78	Huntington disease	OMIM:143100
+9	0.77	Ataxia-telangiectasia	OMIM:208900
+10	0.75	Primary lateral sclerosis	OMIM:611637

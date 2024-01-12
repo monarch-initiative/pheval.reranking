@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia 4	OMIM:612004
+2	0.8	MYH9-related disorder	OMIM:160775
+3	0.75	Anemia, X-Linked, with/without Neutropenia and/or Platelet Abnormalities	OMIM:300835
+4	0.73	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.72	Paris-Trousseau thrombocytopenia	OMIM:188025
+6	0.7	Thrombocytopenia 2	OMIM:188000
+7	0.68	Gray platelet syndrome	OMIM:139090
+8	0.65	Jacobsen syndrome	OMIM:147791
+9	0.63	Bernard-Soulier syndrome	OMIM:231200
+10	0.6	May-Hegglin anomaly	OMIM:155100

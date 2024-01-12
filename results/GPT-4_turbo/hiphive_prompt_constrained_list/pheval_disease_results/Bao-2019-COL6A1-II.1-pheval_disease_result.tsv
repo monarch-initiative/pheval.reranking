@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2B1	OMIM:605282
+2	0.85	Spinal muscular atrophy, distal, autosomal recessive, 4	OMIM:611182
+3	0.8	Charcot-Marie-Tooth disease, type 2A2A	OMIM:609260
+4	0.75	Limb-girdle muscular dystrophy, type 2L	OMIM:608807
+5	0.7	Charcot-Marie-Tooth disease, type 2A2B	OMIM:617087
+6	0.62	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+7	0.6	Distal hereditary motor neuronopathy type 5	OMIM:600794
+8	0.58	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+9	0.56	Myasthenic syndrome, congenital, 1A, slow-channel	OMIM:601462
+10	0.52	Nail-patella syndrome	OMIM:161200

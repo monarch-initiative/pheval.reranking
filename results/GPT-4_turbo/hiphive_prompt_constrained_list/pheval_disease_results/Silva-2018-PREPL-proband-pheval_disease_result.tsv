@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Marfan Syndrome	OMIM:154700
+2	0.85	Cohen Syndrome	OMIM:216550
+3	0.82	Noonan Syndrome 1	OMIM:163950
+4	0.8	Prader-Willi Syndrome	OMIM:176270
+5	0.78	Lujan-Fryns Syndrome	OMIM:309520
+6	0.77	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+7	0.75	Beckwith-Wiedemann Syndrome	OMIM:130650
+8	0.73	Baraitser-Winter Syndrome 1	OMIM:243310
+9	0.7	Williams Syndrome	OMIM:194050
+10	0.68	Cornelia De Lange Syndrome 1	OMIM:122470

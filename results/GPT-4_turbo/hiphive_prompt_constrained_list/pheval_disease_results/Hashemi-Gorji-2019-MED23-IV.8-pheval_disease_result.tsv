@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome, congenital variant	OMIM:613454
+2	0.89	Angelman syndrome	OMIM:105830
+3	0.88	Pitt-Hopkins syndrome	OMIM:610954
+4	0.87	Mowat-Wilson syndrome	OMIM:235730
+5	0.85	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+6	0.84	Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	OMIM:152950
+7	0.83	Pontocerebellar hypoplasia, type 1B	OMIM:614678
+8	0.82	X-linked lissencephaly 2	OMIM:300215
+9	0.81	Megalencephalic leukoencephalopathy with subcortical cysts 1	OMIM:604360
+10	0.8	Leukodystrophy, hypomyelinating, 4	OMIM:612233

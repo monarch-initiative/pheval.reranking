@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Myotonic dystrophy type 1	OMIM:160900
+2	0.86	Mitochondrial myopathy	OMIM:500001
+3	0.82	Myasthenia gravis	OMIM:254200
+4	0.81	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.79	Muscular dystrophy-dystroglycanopathy (limb-girdle)	OMIM:613154
+6	0.78	Facioscapulohumeral muscular dystrophy	OMIM:158900
+7	0.75	Lambert-Eaton myasthenic syndrome	OMIM:601462
+8	0.73	Spinal muscular atrophy	OMIM:253300
+9	0.72	Myotonia congenita	OMIM:160800
+10	0.7	Oculopharyngeal muscular dystrophy	OMIM:164300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:608782
+2	0.9	Holocarboxylase synthetase deficiency	OMIM:253270
+3	0.89	L-2-hydroxyglutaric aciduria	OMIM:236792
+4	0.88	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+5	0.87	Pyruvate dehydrogenase phosphatase deficiency	OMIM:608782
+6	0.85	Combined oxidative phosphorylation deficiency-9	OMIM:614582
+7	0.84	Leigh syndrome	OMIM:256000
+8	0.83	Neurodegeneration with brain iron accumulation 2b	OMIM:610217
+9	0.82	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss and skeletal dysplasia	OMIM:212540
+10	0.81	Dihydrolipoamide dehydrogenase deficiency	OMIM:246900

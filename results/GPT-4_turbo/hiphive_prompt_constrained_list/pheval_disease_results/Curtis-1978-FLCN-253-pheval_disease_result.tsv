@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Birt-Hogg-Dube Syndrome	OMIM:135150
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.75	Lymphangioleiomyomatosis	OMIM:606690
+4	0.7	Primary Spontaneous Pneumothorax	OMIM:173600
+5	0.65	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.6	Tuberous Sclerosis 1	OMIM:191100
+7	0.55	Alpha-1-Antitrypsin Deficiency	OMIM:107400
+8	0.5	Familial Spontaneous Pneumothorax	OMIM:173600
+9	0.45	Gorlin Syndrome	OMIM:109400
+10	0.4	Homocystinuria	OMIM:236200

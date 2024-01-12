@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+2	0.92	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+3	0.9	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+4	0.87	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+5	0.85	Hereditary motor and sensory neuropathy, type IIB	OMIM:600882
+6	0.83	Hereditary motor and sensory neuropathy, type IIA	OMIM:118210
+7	0.8	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+8	0.77	Paraplegia, hereditary spastic, 43, autosomal recessive	OMIM:615043
+9	0.74	Charcot-Marie-Tooth disease, type 2D	OMIM:601472
+10	0.71	Charcot-Marie-Tooth disease, type 4A	OMIM:214400

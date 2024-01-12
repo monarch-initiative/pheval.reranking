@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Maturity-onset diabetes of the young, type 2	OMIM:125850
+2	0.85	Diabetes mellitus, noninsulin-dependent	OMIM:125853
+3	0.8	Maturity-onset diabetes of the young, type 3	OMIM:600496
+4	0.75	Maturity-onset diabetes of the young, type 1	OMIM:606391
+5	0.7	Diabetic nephropathy	OMIM:603933
+6	0.65	Wolfram syndrome	OMIM:222300
+7	0.6	Diabetes mellitus, insulin-dependent	OMIM:222100
+8	0.55	MODY, type IV	OMIM:606392
+9	0.5	MODY, type V	OMIM:137190
+10	0.45	Cystic fibrosis	OMIM:219700

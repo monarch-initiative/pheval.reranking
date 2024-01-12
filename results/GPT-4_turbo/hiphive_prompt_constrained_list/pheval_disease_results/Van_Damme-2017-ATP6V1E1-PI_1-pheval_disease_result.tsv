@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.89	Loeys-Dietz syndrome 1	OMIM:609192
+3	0.84	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.82	Beals syndrome	OMIM:121050
+5	0.79	Shprintzen-Goldberg syndrome	OMIM:182212
+6	0.76	Homocystinuria	OMIM:236200
+7	0.74	Noonan syndrome 1	OMIM:163950
+8	0.71	Familial thoracic aortic aneurysm and aortic dissection	OMIM:607086
+9	0.68	TAAD/PDA1	OMIM:609192
+10	0.64	Fibrodysplasia ossificans progressiva	OMIM:135100

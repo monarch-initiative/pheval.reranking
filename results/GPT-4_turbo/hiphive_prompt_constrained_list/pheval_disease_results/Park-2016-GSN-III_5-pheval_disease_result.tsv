@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial Dysautonomia	OMIM:223900
+2	0.88	Myasthenic Syndrome, Congenital, 1A, Slow-Channel	OMIM:601462
+3	0.85	Myasthenic Syndrome, Congenital, 1B, Fast-Channel	OMIM:608930
+4	0.82	Lambert-Eaton Myasthenic Syndrome	OMIM:601542
+5	0.8	Epidermolysis Bullosa Simplex with Muscular Dystrophy	OMIM:226670
+6	0.78	Cutis Laxa, Autosomal Recessive	OMIM:219200
+7	0.75	Multiple System Atrophy 1	OMIM:146500
+8	0.73	Gerstmann-Straussler Disease	OMIM:137440
+9	0.7	Isaacs Syndrome	OMIM:604690
+10	0.68	Cardiofaciocutaneous Syndrome	OMIM:115150

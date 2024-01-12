@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher syndrome type 1D	OMIM:601067
+2	0.93	Usher syndrome type 1F	OMIM:602083
+3	0.92	Usher syndrome type 1C	OMIM:276904
+4	0.88	Usher syndrome type 3A	OMIM:276902
+5	0.85	Usher syndrome type 2C	OMIM:605472
+6	0.83	Usher syndrome type 2A	OMIM:276901
+7	0.81	Usher syndrome type 1B	OMIM:276900
+8	0.79	Perrault syndrome 1	OMIM:233400
+9	0.77	Bardet-Biedl syndrome 1	OMIM:209900
+10	0.75	Refsum disease	OMIM:266500

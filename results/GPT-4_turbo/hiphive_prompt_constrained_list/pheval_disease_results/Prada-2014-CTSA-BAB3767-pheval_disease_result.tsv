@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucolipidosis II Alpha/Beta	OMIM:252500
+2	0.85	Mucolipidosis III Alpha/Beta	OMIM:252600
+3	0.82	Gaucher Disease, Type I	OMIM:230800
+4	0.8	Niemann-Pick Disease, Type A	OMIM:257200
+5	0.78	Niemann-Pick Disease, Type C1	OMIM:257220
+6	0.76	Sialidosis, Type II	OMIM:256550
+7	0.74	Fabry Disease	OMIM:301500
+8	0.72	GM1 Gangliosidosis, Type I	OMIM:230500
+9	0.7	Galactosialidosis	OMIM:256540
+10	0.68	Maroteaux-Lamy Syndrome	OMIM:253200

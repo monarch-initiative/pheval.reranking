@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Waardenburg Syndrome, Type 2A	OMIM:193510
+2	0.82	Craniofrontonasal Syndrome	OMIM:304110
+3	0.79	Autosomal Recessive Deafness 49	OMIM:610153
+4	0.76	Coffin-Siris Syndrome	OMIM:614607
+5	0.74	Klippel-Feil Syndrome 1, Autosomal Dominant	OMIM:118100
+6	0.72	RAPADILINO Syndrome	OMIM:266280
+7	0.7	Blepharophimosis, Ptosis, and Epicanthus Inversus Syndrome	OMIM:110100
+8	0.69	Genee-Wiedemann Syndrome	OMIM:264070
+9	0.66	Yemenite Deaf-Blind Hypopigmentation Syndrome	OMIM:601706
+10	0.64	Frank-Ter Haar Syndrome	OMIM:249420

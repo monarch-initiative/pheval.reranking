@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa 4	OMIM:613731
+2	0.91	Usher Syndrome, Type 1F	OMIM:602083
+3	0.89	Retinitis Pigmentosa 1	OMIM:180100
+4	0.88	Leber Congenital Amaurosis 1	OMIM:204000
+5	0.86	Usher Syndrome, Type 3A	OMIM:276902
+6	0.84	Retinitis Pigmentosa 7	OMIM:608133
+7	0.83	Cone-Rod Dystrophy 2	OMIM:120970
+8	0.81	Retinitis Pigmentosa 9	OMIM:180104
+9	0.79	Retinitis Pigmentosa 20	OMIM:613794
+10	0.77	Usher Syndrome, Type 2A	OMIM:276901

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+2	0.85	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+3	0.8	Alport Syndrome	OMIM:301050
+4	0.75	Primary Hyperoxaluria	OMIM:259900
+5	0.7	Fabry Disease	OMIM:301500
+6	0.65	Nephronophthisis	OMIM:256100
+7	0.6	Bardet-Biedl Syndrome	OMIM:209900
+8	0.55	Familial Juvenile Hyperuricemic Nephropathy	OMIM:162000
+9	0.5	Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy	OMIM:605115
+10	0.45	Medullary Cystic Kidney Disease	OMIM:174000

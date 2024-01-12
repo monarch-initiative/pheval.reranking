@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+2	0.93	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+3	0.88	Marfan Syndrome	OMIM:154700
+4	0.86	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.84	Bethlem Myopathy 1	OMIM:158810
+6	0.82	Ullrich Congenital Muscular Dystrophy 1	OMIM:254090
+7	0.8	Cutis Laxa, Autosomal Dominant	OMIM:123700
+8	0.78	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+9	0.76	Congenital Contractural Arachnodactyly	OMIM:121050
+10	0.74	Stickler Syndrome, Type I	OMIM:108300

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type I	OMIM:166200
+2	0.93	Osteogenesis imperfecta, type III	OMIM:259420
+3	0.91	Osteogenesis imperfecta, type IV	OMIM:166220
+4	0.9	Idiopathic juvenile osteoporosis	OMIM:259750
+5	0.88	Osteogenesis imperfecta, type II	OMIM:166210
+6	0.86	Paget disease of bone	OMIM:167250
+7	0.85	Cole-Carpenter syndrome	OMIM:112240
+8	0.82	Osteopetrosis, autosomal recessive 1	OMIM:259700
+9	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+10	0.77	Van Buchem disease, type 2	OMIM:607636

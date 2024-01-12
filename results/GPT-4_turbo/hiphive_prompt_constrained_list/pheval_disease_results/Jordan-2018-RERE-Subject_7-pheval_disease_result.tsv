@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorder of glycosylation, type Ii	OMIM:212066
+2	0.88	Cantú syndrome	OMIM:239850
+3	0.86	Loeys-Dietz syndrome	OMIM:609192
+4	0.85	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.85	Noonan syndrome	OMIM:163950
+6	0.84	Jacobsen syndrome	OMIM:147791
+7	0.83	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+7	0.83	Barth syndrome	OMIM:302060
+9	0.82	Shprintzen-Goldberg craniosynostosis	OMIM:182212
+9	0.82	Marfan syndrome	OMIM:154700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Coffin-Siris syndrome	OMIM:135900
+3	0.82	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.8	Smith-Magenis syndrome	OMIM:182290
+5	0.75	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.73	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+7	0.72	Lipodystrophy, congenital generalized, type 3	OMIM:612526
+8	0.7	Mucopolysaccharidosis type I (Hurler syndrome)	OMIM:607014
+9	0.68	Charcot-Marie-Tooth disease	OMIM:118220
+10	0.65	Pitt-Hopkins syndrome	OMIM:610954

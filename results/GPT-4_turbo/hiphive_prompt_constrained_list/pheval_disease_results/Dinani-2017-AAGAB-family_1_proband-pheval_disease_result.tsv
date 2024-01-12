@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Pachyonychia congenita	OMIM:167200
+2	0.91	Ectodermal dysplasia	OMIM:129490
+3	0.88	Haim-Munk syndrome	OMIM:245010
+4	0.86	Clouston syndrome	OMIM:129500
+5	0.83	Odontoonychodermal dysplasia	OMIM:257980
+6	0.8	Hypohidrotic ectodermal dysplasia	OMIM:305100
+7	0.77	Schöpf-Schulz-Passarge syndrome	OMIM:224750
+8	0.75	Papillon-Lefevre syndrome	OMIM:245000
+9	0.72	Nail-patella syndrome	OMIM:161200
+10	0.69	Dyskeratosis congenita	OMIM:305000

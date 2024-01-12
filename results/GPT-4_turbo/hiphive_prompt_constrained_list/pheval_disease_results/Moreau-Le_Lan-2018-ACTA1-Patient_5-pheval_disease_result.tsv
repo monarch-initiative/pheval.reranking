@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, lower extremity-predominant, 1, autosomal dominant	OMIM:182980
+2	0.8	Pontocerebellar hypoplasia, type 1B	OMIM:614678
+3	0.7	Myasthenic syndrome, congenital, 1B, fast-channel	OMIM:608930
+4	0.65	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+5	0.6	Myasthenic syndrome, congenital, 1A, slow-channel	OMIM:601462
+6	0.55	Arthrogryposis, distal, type 2B	OMIM:601680
+7	0.5	Hereditary motor and sensory neuropathy with agenesis of the corpus callosum	OMIM:218000
+8	0.45	Nemaline myopathy 2, autosomal recessive	OMIM:256030
+9	0.4	Bethlem myopathy 1	OMIM:158810
+10	0.35	Centronuclear myopathy 1	OMIM:160150

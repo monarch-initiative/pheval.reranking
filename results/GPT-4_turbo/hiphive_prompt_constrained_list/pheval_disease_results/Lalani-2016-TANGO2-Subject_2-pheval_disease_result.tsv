@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mitochondrial complex I deficiency	OMIM:252010
+2	0.83	Long QT syndrome	OMIM:192500
+3	0.82	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+4	0.8	Glycogen storage disease type V	OMIM:232600
+5	0.79	Propionic acidemia	OMIM:606054
+6	0.78	MELAS syndrome	OMIM:540000
+7	0.76	Myoadenylate deaminase deficiency	OMIM:615511
+8	0.74	Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type)	OMIM:615418
+9	0.71	Leigh syndrome	OMIM:256000
+10	0.7	Primary hyperammonemia	OMIM:237300

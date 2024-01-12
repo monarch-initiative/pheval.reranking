@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amyotrophic lateral sclerosis 1	OMIM:105400
+2	0.9	Amyotrophic lateral sclerosis 22 with or without frontotemporal dementia	OMIM:616867
+3	0.85	Spinal muscular atrophy, lower extremity-predominant 1	OMIM:158600
+4	0.8	Primary lateral sclerosis, juvenile	OMIM:606353
+5	0.78	Charcot-Marie-Tooth disease, type 2D	OMIM:601472
+6	0.76	Charcot-Marie-Tooth disease, axonal, type 2F	OMIM:606595
+7	0.74	Charcot-Marie-Tooth disease, axonal, type 2S	OMIM:616155
+8	0.72	Spinal muscular atrophy, distal, autosomal recessive, 5	OMIM:614881
+9	0.7	Distal hereditary motor neuronopathy, type VIIA	OMIM:158580
+10	0.68	Hereditary spastic paraplegia 31	OMIM:610250

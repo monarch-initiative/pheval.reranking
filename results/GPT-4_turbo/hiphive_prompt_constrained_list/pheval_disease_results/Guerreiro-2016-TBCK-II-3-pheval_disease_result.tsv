@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 5	OMIM:616364
+2	0.88	Coffin-Siris syndrome 4	OMIM:614609
+3	0.86	Mucolipidosis III Gamma	OMIM:252605
+4	0.85	Mucolipidosis II Alpha/Beta	OMIM:252500
+5	0.83	Baraitser-Winter Syndrome 1	OMIM:243310
+6	0.82	Floating-Harbor Syndrome	OMIM:136140
+7	0.8	Aarskog-Scott Syndrome	OMIM:305400
+8	0.78	Pitt-Hopkins Syndrome	OMIM:610954
+9	0.76	Smith-Magenis Syndrome	OMIM:182290
+10	0.74	Cornelia de Lange Syndrome 1	OMIM:122470

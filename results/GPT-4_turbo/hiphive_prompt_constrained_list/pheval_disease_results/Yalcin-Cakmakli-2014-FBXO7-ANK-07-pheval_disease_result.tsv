@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Parkinson disease 1	OMIM:168600
+2	0.9	Dystonia, Dopa-responsive, due to sepiapterin reductase deficiency	OMIM:612716
+3	0.85	Parkinson disease 9	OMIM:606693
+4	0.8	Lewy body dementia	OMIM:127750
+5	0.75	Parkinson disease 8, autosomal dominant	OMIM:607060
+6	0.7	Neurodegeneration with brain iron accumulation 2b	OMIM:610217
+7	0.65	Parkinson disease 7	OMIM:605909
+8	0.6	Early-onset parkinsonism with mental retardation	OMIM:612953
+9	0.55	Rapid-onset dystonia parkinsonism	OMIM:128235
+10	0.5	Frontotemporal dementia and/or amyotrophic lateral sclerosis 4	OMIM:615911

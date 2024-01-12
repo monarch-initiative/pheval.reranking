@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.78	Crouzon syndrome	OMIM:123500
+6	0.75	Pitt-Hopkins syndrome	OMIM:610954
+7	0.72	CHARGE syndrome	OMIM:214800
+8	0.69	Branchiootorenal syndrome 1	OMIM:113650
+9	0.66	Treacher Collins syndrome 1	OMIM:154500
+10	0.63	Noonan syndrome 1	OMIM:163950

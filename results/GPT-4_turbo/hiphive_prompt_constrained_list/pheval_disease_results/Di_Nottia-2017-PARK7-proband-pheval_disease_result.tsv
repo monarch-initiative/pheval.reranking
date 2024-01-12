@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2A2	OMIM:609260
+2	0.85	Mitochondrial complex I deficiency	OMIM:252010
+3	0.8	Spinocerebellar ataxia 17	OMIM:607136
+4	0.75	Leigh syndrome, French Canadian type	OMIM:220111
+5	0.7	Charcot-Marie-Tooth disease, axonal, type 2K	OMIM:607831
+6	0.65	Perrault syndrome	OMIM:233400
+7	0.6	Optic atrophy 1 with deafness	OMIM:125250
+8	0.55	Hereditary sensory and autonomic neuropathy type IIC	OMIM:614213
+9	0.5	Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1	OMIM:157640
+10	0.45	Myoclonic dystonia	OMIM:159900

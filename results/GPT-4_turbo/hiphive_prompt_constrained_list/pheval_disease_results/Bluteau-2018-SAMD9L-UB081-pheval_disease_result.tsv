@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive, 1	OMIM:224230
+2	0.85	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:601457
+3	0.82	Myelodysplastic syndrome	OMIM:614286
+4	0.8	Shwachman-Diamond syndrome	OMIM:260400
+5	0.75	Poikiloderma with neutropenia	OMIM:604173
+6	0.7	Fanconi anemia	OMIM:227650
+7	0.68	Diamond-Blackfan anemia	OMIM:105650
+8	0.65	Noonan syndrome 1	OMIM:163950
+9	0.6	Cartilage-hair hypoplasia	OMIM:250250
+10	0.55	Congenital disorder of glycosylation, type IT	OMIM:614575

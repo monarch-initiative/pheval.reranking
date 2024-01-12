@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Geleophysic dysplasia 2	OMIM:614185
+2	0.9	Schimke immuno-osseous dysplasia	OMIM:242900
+3	0.85	Spondyloepiphyseal dysplasia with congenital joint dislocations	OMIM:143095
+4	0.8	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605073
+5	0.75	RAS-associated autoimmune leukoproliferative disorder	OMIM:614470
+6	0.7	Spondyloenchondrodysplasia with immune dysregulation	OMIM:607944
+7	0.65	Aspartylglycosaminuria	OMIM:208400
+8	0.6	Adenosine deaminase deficiency	OMIM:102700
+9	0.55	Wolcott-Rallison syndrome	OMIM:226980
+10	0.5	Greenberg dysplasia	OMIM:215140

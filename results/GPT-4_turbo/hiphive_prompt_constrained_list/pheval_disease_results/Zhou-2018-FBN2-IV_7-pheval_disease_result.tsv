@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Loeys-Dietz Syndrome Type 1A	OMIM:609192
+2	0.85	Loeys-Dietz Syndrome Type 1B	OMIM:610168
+4	0.8	Loeys-Dietz Syndrome Type 2A	OMIM:608967
+4	0.8	Loeys-Dietz Syndrome Type 2B	OMIM:610380
+4	0.8	Loeys-Dietz Syndrome Type 3	OMIM:613795
+4	0.8	Loeys-Dietz Syndrome Type 4	OMIM:614816
+8	0.75	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+9	0.7	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+10	0.65	Beals Syndrome	OMIM:121050

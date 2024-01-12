@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa, autosomal dominant 2	OMIM:614434
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.82	Loeys-Dietz syndrome 1	OMIM:609192
+4	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+5	0.78	Familial thoracic aortic aneurysm and dissection	OMIM:607086
+6	0.75	Williams syndrome	OMIM:194050
+7	0.72	Primary ciliary dyskinesia	OMIM:244400
+8	0.7	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+9	0.65	Alpha-1-antitrypsin deficiency	OMIM:107400
+10	0.6	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.9	Coffin-Siris syndrome	OMIM:135900
+3	0.85	Cornelia de Lange syndrome	OMIM:122470
+4	0.8	Ohdo syndrome, Say-Barber-Biesecker variant	OMIM:603736
+5	0.77	Pitt-Hopkins syndrome	OMIM:610954
+6	0.75	CHARGE syndrome	OMIM:214800
+7	0.7	Kleefstra syndrome	OMIM:610253
+8	0.68	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.65	Branchiootorenal syndrome	OMIM:113650
+10	0.63	Floating-Harbor syndrome	OMIM:136140

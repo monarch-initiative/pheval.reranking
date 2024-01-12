@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson Disease	OMIM:277900
+2	0.88	Medullary Cystic Kidney Disease 1	OMIM:174000
+3	0.87	Hepatolenticular Degeneration	OMIM:606882
+4	0.85	Hypobetalipoproteinemia, Familial, 1	OMIM:107730
+5	0.82	Cerebrotendinous Xanthomatosis	OMIM:213700
+6	0.8	Zellweger Syndrome	OMIM:214100
+7	0.77	Alpha-1-Antitrypsin Deficiency	OMIM:107400
+8	0.75	Antley-Bixler Syndrome Without Genital Anomalies or Disordered Steroidogenesis	OMIM:207410
+9	0.72	Menkes Disease	OMIM:309400
+10	0.7	Acute Intermittent Porphyria	OMIM:176000

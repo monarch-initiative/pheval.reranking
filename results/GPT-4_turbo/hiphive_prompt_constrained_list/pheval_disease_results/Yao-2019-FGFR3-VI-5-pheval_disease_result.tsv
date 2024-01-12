@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypophosphatasia	OMIM:241500
+2	0.85	Thanatophoric Dysplasia Type I	OMIM:187600
+3	0.82	Achondroplasia	OMIM:100800
+4	0.79	Pseudoachondroplasia	OMIM:177170
+5	0.76	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.73	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+7	0.7	Hypochondroplasia	OMIM:146000
+8	0.69	Pituitary Hormone Deficiency, Combined, 2	OMIM:262600
+9	0.68	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+10	0.66	Camurati-Engelmann Disease	OMIM:131300

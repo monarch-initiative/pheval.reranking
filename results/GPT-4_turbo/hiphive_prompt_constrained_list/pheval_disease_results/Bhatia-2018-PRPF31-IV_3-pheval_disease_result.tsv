@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa	OMIM:268000
+2	0.9	Usher Syndrome, Type I	OMIM:276900
+3	0.85	Leber Congenital Amaurosis	OMIM:204000
+4	0.8	Cone-Rod Dystrophy	OMIM:120970
+5	0.75	Stargardt Disease	OMIM:248200
+6	0.7	Choroideremia	OMIM:303100
+7	0.65	Retinal Dystrophy, Early Onset Severe	OMIM:613341
+8	0.6	Age-Related Macular Degeneration	OMIM:603075
+9	0.55	Best Vitelliform Macular Dystrophy	OMIM:153700
+10	0.5	Gyrate Atrophy	OMIM:258870

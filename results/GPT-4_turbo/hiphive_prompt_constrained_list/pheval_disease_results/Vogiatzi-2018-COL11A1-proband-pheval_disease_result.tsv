@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Stickler Syndrome, Type I	OMIM:108300
+3	0.8	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+4	0.75	Osteogenesis Imperfecta, Type I	OMIM:166200
+5	0.7	Osteogenesis Imperfecta, Type III	OMIM:259420
+6	0.65	Primary Congenital Glaucoma	OMIM:231300
+7	0.6	Kniest Dysplasia	OMIM:156550
+8	0.55	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+9	0.5	Achondroplasia	OMIM:100800
+10	0.45	Hypochondroplasia	OMIM:146000

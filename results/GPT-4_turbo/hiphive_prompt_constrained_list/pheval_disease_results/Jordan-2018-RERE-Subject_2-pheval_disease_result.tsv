@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher Syndrome, Type 3B	OMIM:614504
+2	0.92	Coffin-Siris Syndrome 4	OMIM:614609
+3	0.91	Coffin-Siris Syndrome 1	OMIM:135900
+4	0.88	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.87	Baraitser-Winter Syndrome 1	OMIM:243310
+6	0.85	Craniofrontonasal Syndrome	OMIM:304110
+7	0.84	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.82	Mowat-Wilson Syndrome	OMIM:235730
+9	0.8	Larsen Syndrome, Dominant Type	OMIM:150250
+9	0.8	Anauxetic Dysplasia 1	OMIM:607095

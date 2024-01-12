@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 2	OMIM:615349
+2	0.85	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.8	Marfan Syndrome	OMIM:154700
+4	0.77	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.75	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+6	0.71	Homocystinuria Due To Cystathionine Beta-Synthase Deficiency	OMIM:236200
+7	0.67	Lujan-Fryns Syndrome	OMIM:309520
+8	0.65	Mowat-Wilson Syndrome	OMIM:235730
+9	0.6	Coffin-Lowry Syndrome	OMIM:303600
+10	0.58	Wolf-Hirschhorn Syndrome	OMIM:194190

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome	OMIM:312750
+2	0.82	Angelman syndrome	OMIM:105830
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.78	Tuberous sclerosis complex	OMIM:191100
+5	0.76	Williams syndrome	OMIM:194050
+6	0.74	Smith-Magenis syndrome	OMIM:182290
+7	0.72	Timothy syndrome	OMIM:601005
+8	0.7	22q11.2 deletion syndrome	OMIM:188400
+9	0.68	Prader-Willi syndrome	OMIM:176270
+10	0.66	CHARGE syndrome	OMIM:214800

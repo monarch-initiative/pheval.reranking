@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia, complementation group A	OMIM:227650
+2	0.85	Fanconi anemia, complementation group C	OMIM:227645
+2	0.85	Fanconi anemia, complementation group G	OMIM:614082
+4	0.8	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+5	0.75	Severe congenital neutropenia 3, autosomal recessive	OMIM:610738
+5	0.75	Amegakaryocytic thrombocytopenia	OMIM:604498
+7	0.7	Shwachman-Diamond syndrome	OMIM:260400
+7	0.7	Thrombocytopenia 1	OMIM:313900
+9	0.65	Myelodysplastic syndrome	OMIM:614286
+9	0.65	Diamond-Blackfan anemia	OMIM:105650

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Limb-Girdle Muscular Dystrophy, Type 2A	OMIM:253600
+2	0.9	Duchenne Muscular Dystrophy	OMIM:310200
+3	0.87	Becker Muscular Dystrophy	OMIM:300376
+4	0.85	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+5	0.8	Myasthenic Syndrome, Congenital, 1B, Fast-Channel	OMIM:608930
+6	0.78	Spinal Muscular Atrophy, Type III	OMIM:253400
+7	0.75	Emery-Dreifuss Muscular Dystrophy 1, X-Linked	OMIM:310300
+8	0.72	Congenital Muscular Dystrophy Type 1A	OMIM:607855
+9	0.7	Myotonic Dystrophy 1	OMIM:160900
+10	0.65	Congenital Myasthenic Syndrome 1A	OMIM:601462

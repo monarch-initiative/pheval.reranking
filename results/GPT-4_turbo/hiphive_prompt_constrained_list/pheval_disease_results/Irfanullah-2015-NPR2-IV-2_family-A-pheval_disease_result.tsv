@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tricho-rhino-phalangeal syndrome, type I and III	OMIM:190350
+2	0.88	Acromesomelic dysplasia, Hunter-Thompson type	OMIM:201300
+3	0.87	Brachydactyly, type C	OMIM:113100
+4	0.85	Robinow syndrome, autosomal dominant 1	OMIM:180700
+5	0.84	Grebe syndrome	OMIM:200700
+6	0.82	Brachydactyly, type A1	OMIM:112500
+7	0.8	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+8	0.75	Geleophysic dysplasia 1	OMIM:231050
+9	0.73	Pseudopseudohypoparathyroidism	OMIM:612463
+10	0.7	Ellis-van Creveld syndrome	OMIM:225500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Charcot-Marie-Tooth disease type 2A2	OMIM:609260
+2	0.89	Marinesco-Sjogren syndrome	OMIM:248800
+3	0.87	Spinocerebellar ataxia 28	OMIM:610246
+4	0.86	Autosomal recessive cerebellar ataxia	OMIM:607250
+5	0.84	Retinitis pigmentosa 28	OMIM:605511
+6	0.82	Woolly hair, autosomal recessive 1	OMIM:278150
+7	0.81	Neuropathy, hereditary sensory and autonomic, type IIB	OMIM:613115
+8	0.79	Cockayne syndrome type A	OMIM:216400
+9	0.78	Hypomyelination, hypogonadotropic hypogonadism, hypodontia	OMIM:241530
+10	0.75	Bardet-Biedl syndrome 1	OMIM:209900

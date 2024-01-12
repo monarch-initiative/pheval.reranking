@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia, hypohidrotic, with hypothyroidism and ciliary dyskinesia	OMIM:614080
+2	0.87	Ectodermal dysplasia-syndactyly syndrome 1	OMIM:613573
+3	0.85	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+4	0.82	Ankyloblepharon-ectodermal defects-cleft lip/palate	OMIM:106260
+5	0.81	Hypohidrotic ectodermal dysplasia	OMIM:305100
+6	0.79	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency	OMIM:242100
+7	0.78	Ectodermal dysplasia 11A, hypohidrotic/hair/nail type, autosomal dominant	OMIM:614940
+8	0.76	Ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive	OMIM:614941
+9	0.74	Odontoonychodermal dysplasia	OMIM:257980
+10	0.72	Schopf-Schulz-Passarge syndrome	OMIM:224750

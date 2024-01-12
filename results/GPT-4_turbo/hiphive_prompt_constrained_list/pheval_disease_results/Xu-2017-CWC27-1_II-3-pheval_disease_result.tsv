@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 5	OMIM:616938
+2	0.87	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.85	Angelman Syndrome	OMIM:105830
+4	0.83	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.81	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.79	Mulibrey Nanism	OMIM:253250
+7	0.77	Wiedemann-Steiner Syndrome	OMIM:605130
+8	0.75	Floating-Harbor Syndrome	OMIM:136140
+9	0.73	Neurofibromatosis, Type 1	OMIM:162200
+10	0.71	Legius Syndrome	OMIM:611431

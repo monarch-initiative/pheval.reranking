@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 14	OMIM:605361
+2	0.88	Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)	OMIM:271245
+3	0.85	Leigh syndrome, French-Canadian type	OMIM:220111
+4	0.83	Pontocerebellar hypoplasia, type 1B	OMIM:614678
+5	0.82	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+6	0.8	Joubert syndrome 10	OMIM:300804
+6	0.8	Behr syndrome	OMIM:210000
+8	0.79	Autosomal recessive spinocerebellar ataxia-10	OMIM:613728
+9	0.78	Usher syndrome, type 1D/F	OMIM:601067
+10	0.77	Autosomal dominant cerebellar ataxia, deafness, and narcolepsy	OMIM:604121

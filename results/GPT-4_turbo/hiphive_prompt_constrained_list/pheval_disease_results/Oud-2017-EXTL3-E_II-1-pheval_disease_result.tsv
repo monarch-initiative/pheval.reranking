@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	22q11.2 deletion syndrome	OMIM:188400
+2	0.94	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+3	0.93	DiGeorge syndrome	OMIM:188400
+4	0.92	CHARGE syndrome	OMIM:214800
+5	0.91	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.9	X-linked agammaglobulinemia	OMIM:300755
+7	0.88	Ataxia-telangiectasia	OMIM:208900
+8	0.86	Hyper-IgM immunodeficiency syndrome, type 1	OMIM:308230
+9	0.85	Schimke immunoosseous dysplasia	OMIM:242900
+10	0.83	Kabuki syndrome	OMIM:147920

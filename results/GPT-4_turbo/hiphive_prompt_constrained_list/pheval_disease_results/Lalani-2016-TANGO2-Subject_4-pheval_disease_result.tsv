@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+2	0.87	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.85	Mitochondrial complex I deficiency	OMIM:252010
+4	0.82	Long QT syndrome	OMIM:192500
+5	0.81	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+6	0.79	Wilson disease	OMIM:277900
+7	0.77	Glycogen storage disease type II	OMIM:232300
+8	0.76	Hyperkalemic periodic paralysis	OMIM:170500
+9	0.75	Pompe disease	OMIM:232300
+10	0.73	Propionic acidemia	OMIM:606054

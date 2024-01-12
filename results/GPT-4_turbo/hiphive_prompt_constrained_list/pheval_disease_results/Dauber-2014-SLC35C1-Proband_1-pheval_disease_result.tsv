@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Smith-Magenis Syndrome	OMIM:182290
+2	0.82	Mucopolysaccharidosis, MPS-III-A	OMIM:252900
+3	0.81	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.78	Phelan-McDermid Syndrome	OMIM:606232
+5	0.77	Williams Syndrome	OMIM:194050
+6	0.76	Sanfilippo Syndrome Type A	OMIM:252900
+7	0.74	Mucopolysaccharidosis Type IIIA (Sanfilippo Syndrome A)	OMIM:252900
+8	0.73	Cornelia De Lange Syndrome 1	OMIM:122470
+9	0.7	Mucopolysaccharidosis, MPS-IV-A	OMIM:253000
+10	0.68	FG Syndrome 4	OMIM:300422

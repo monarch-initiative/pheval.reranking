@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary congenital glaucoma	OMIM:231300
+2	0.92	Marfan syndrome	OMIM:154700
+3	0.9	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+4	0.88	Aniridia	OMIM:106210
+5	0.85	Keratoconus	OMIM:148300
+6	0.82	Peters anomaly	OMIM:604229
+7	0.8	Sturge-Weber syndrome	OMIM:185300
+8	0.77	Nail-patella syndrome	OMIM:161200
+9	0.75	Microphthalmia syndromic 3	OMIM:206900
+10	0.72	Congenital stationary night blindness	OMIM:310500

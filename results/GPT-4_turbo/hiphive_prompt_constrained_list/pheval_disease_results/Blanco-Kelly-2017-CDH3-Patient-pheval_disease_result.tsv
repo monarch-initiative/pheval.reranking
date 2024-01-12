@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Clouston Syndrome	OMIM:129500
+2	0.82	Ectodermal Dysplasia 1, Anhidrotic	OMIM:305100
+3	0.8	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	OMIM:224900
+4	0.75	Naegeli-Franceschetti-Jadassohn Syndrome	OMIM:161000
+5	0.73	Dermatopathia Pigmentosa Reticularis	OMIM:125595
+6	0.69	Hidrotic Ectodermal Dysplasia 2	OMIM:129500
+7	0.67	IFAP Syndrome with or without BRESHECK Syndrome	OMIM:308205
+8	0.65	Pachyonychia Congenita	OMIM:167200
+9	0.63	Keratitis-Ichthyosis-Deafness Syndrome, Autosomal Dominant	OMIM:148210
+10	0.61	Palmoplantar Keratoderma with Squamous Cell Carcinoma of Skin and 46,XY Sex Reversal	OMIM:610644

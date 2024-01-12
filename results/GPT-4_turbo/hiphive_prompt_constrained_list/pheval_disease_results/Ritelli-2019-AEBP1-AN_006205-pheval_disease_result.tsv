@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Loeys-Dietz syndrome	OMIM:609192
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.75	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+5	0.7	Ohdo syndrome, SBBYS variant	OMIM:603736
+6	0.65	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508
+7	0.6	Cutis laxa, autosomal recessive, type IA	OMIM:219100
+8	0.55	Beals-Hecht syndrome	OMIM:121050
+9	0.5	Homocystinuria due to CBS deficiency	OMIM:236200
+10	0.45	Congenital contractural arachnodactyly	OMIM:121050

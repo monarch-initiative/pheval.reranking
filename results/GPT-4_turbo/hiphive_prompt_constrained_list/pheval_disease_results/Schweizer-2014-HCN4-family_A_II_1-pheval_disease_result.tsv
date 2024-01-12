@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial Isolated Arrhythmogenic Ventricular Dysplasia, Left Dominant Form	OMIM:611182
+2	0.85	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+2	0.85	Dysplasia, Fibromuscular	OMIM:135300
+4	0.8	Dilated Cardiomyopathy 1D	OMIM:601494
+4	0.8	Arrhythmogenic Right Ventricular Dysplasia, Familial, 10	OMIM:610193
+6	0.75	Cardiomyopathy, Familial Hypertrophic, 4	OMIM:115197
+7	0.7	Dilated Cardiomyopathy 1E	OMIM:601154
+8	0.65	Dilated Cardiomyopathy 1I	OMIM:604765
+9	0.6	Cardiomyopathy, Dilated, 1G	OMIM:604146
+10	0.55	Dilated Cardiomyopathy 1M	OMIM:607482

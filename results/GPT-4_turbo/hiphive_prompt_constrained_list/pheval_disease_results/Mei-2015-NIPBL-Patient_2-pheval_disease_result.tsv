@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Cohen Syndrome	OMIM:216550
+2	0.85	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.83	Kabuki Syndrome 1	OMIM:147920
+4	0.81	Mucopolysaccharidosis Type IIIA (Sanfilippo Syndrome A)	OMIM:252900
+5	0.8	Kleefstra Syndrome 1	OMIM:610253
+6	0.78	Albright Hereditary Osteodystrophy	OMIM:103580
+7	0.76	Noonan Syndrome 1	OMIM:163950
+8	0.74	Wolf-Hirschhorn Syndrome	OMIM:194190
+9	0.72	22q11.2 Deletion Syndrome	OMIM:188400
+10	0.7	Rett Syndrome	OMIM:312750

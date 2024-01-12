@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.94	Cleidocranial Dysplasia, Forme Fruste	OMIM:119600
+3	0.85	Pyknodysostosis	OMIM:265800
+4	0.8	Mandibuloacral Dysplasia	OMIM:248370
+5	0.77	Craniofacial Dysostosis	OMIM:123500
+6	0.74	Parietal Foramina 2	OMIM:609597
+7	0.72	Craniometaphyseal Dysplasia, Autosomal Dominant	OMIM:123000
+8	0.7	Shprintzen-Goldberg Syndrome	OMIM:182212
+9	0.68	Craniosynostosis 1	OMIM:123100
+10	0.66	Craniosynostosis 2	OMIM:604757

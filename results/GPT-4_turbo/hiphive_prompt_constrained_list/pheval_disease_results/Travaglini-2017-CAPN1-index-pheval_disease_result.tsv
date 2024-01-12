@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+2	0.85	Dystonia 12	OMIM:128235
+3	0.82	Hereditary Spastic Paraplegia 3A	OMIM:182600
+4	0.81	Paraplegia, Spastic, Congenital, Nance-Insley Type	OMIM:616683
+5	0.8	Spastic Paraplegia 4	OMIM:182601
+6	0.79	Spastic Paraplegia 50, Autosomal Recessive	OMIM:612936
+7	0.78	Spastic Tetraplegia, Thin Corpus Callosum, And Progressive Microcephaly	OMIM:612398
+8	0.77	Mental Retardation, Autosomal Recessive 49	OMIM:616281
+9	0.75	Mental Retardation, Autosomal Dominant 1	OMIM:156200
+10	0.73	Cerebral Palsy, Ataxic, Autosomal Recessive	OMIM:615075

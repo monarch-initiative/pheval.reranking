@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome 5	OMIM:300882
+2	0.93	Coffin-Siris syndrome 1	OMIM:135900
+3	0.9	Mowat-Wilson syndrome	OMIM:235730
+4	0.87	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.83	Kabuki syndrome 1	OMIM:147920
+7	0.81	Pitt-Hopkins syndrome	OMIM:610954
+8	0.79	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+9	0.77	Baraitser-Winter syndrome 1	OMIM:243310
+10	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849

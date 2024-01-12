@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.93	Leigh syndrome	OMIM:256000
+3	0.91	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+4	0.89	Mitochondrial complex III deficiency, nuclear type 2	OMIM:615157
+5	0.87	Lissencephaly 1	OMIM:607432
+6	0.85	Hereditary spastic paraplegia 11	OMIM:604360
+7	0.83	Mucopolysaccharidosis type I	OMIM:607014
+8	0.82	Globoid cell leukodystrophy	OMIM:245200
+9	0.8	Peroxisome biogenesis disorder 1B	OMIM:170993
+10	0.78	Mercury poisoning	OMIM:603949

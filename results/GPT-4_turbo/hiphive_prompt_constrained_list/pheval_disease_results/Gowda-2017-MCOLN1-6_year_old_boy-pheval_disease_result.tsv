@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Alexander disease	OMIM:203500
+2	0.9	Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome 3	OMIM:613227
+3	0.85	Lissencephaly 3	OMIM:611603
+4	0.8	Seckel Syndrome 1	OMIM:210600
+5	0.78	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470
+6	0.75	Joubert syndrome 10	OMIM:614851
+7	0.73	Cockayne Syndrome B	OMIM:133540
+8	0.7	Leigh Syndrome, French Canadian Type	OMIM:220111
+9	0.68	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+10	0.65	Peroxisome Biogenesis Disorder 1A (Zellweger)	OMIM:214100

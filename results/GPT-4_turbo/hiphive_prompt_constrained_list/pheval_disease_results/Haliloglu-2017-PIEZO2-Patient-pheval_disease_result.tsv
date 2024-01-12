@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, type III	OMIM:253400
+2	0.85	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.83	Duchenne muscular dystrophy	OMIM:310200
+3	0.83	Myasthenic syndrome, congenital, type 1A	OMIM:601462
+5	0.8	Becker muscular dystrophy	OMIM:300376
+5	0.8	Limb-girdle muscular dystrophy, type 2B	OMIM:253601
+7	0.75	Myopathy, congenital, Compton-North	OMIM:612541
+7	0.75	Nemaline myopathy 3, autosomal dominant	OMIM:161800
+9	0.73	Facioscapulohumeral muscular dystrophy	OMIM:158900
+10	0.7	Titinopathy	OMIM:613765

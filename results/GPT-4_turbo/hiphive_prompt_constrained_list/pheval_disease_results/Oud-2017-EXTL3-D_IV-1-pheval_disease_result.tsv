@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ellis-van Creveld syndrome	OMIM:225500
+2	0.93	Asphyxiating thoracic dystrophy	OMIM:208500
+3	0.91	Campomelic dysplasia	OMIM:114290
+4	0.89	Cleidocranial dysplasia	OMIM:119600
+5	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.85	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.83	Achondroplasia	OMIM:100800
+8	0.81	Diastrophic dysplasia	OMIM:222600
+9	0.79	Meckel syndrome	OMIM:249000
+10	0.77	Cornelia de Lange syndrome	OMIM:122470

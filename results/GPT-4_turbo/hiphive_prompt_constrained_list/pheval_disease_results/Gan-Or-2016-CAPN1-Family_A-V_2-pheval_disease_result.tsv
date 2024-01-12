@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+2	0.88	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+3	0.85	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+4	0.82	Spastic paraplegia 11, autosomal recessive	OMIM:604360
+5	0.8	Spastic paraplegia 31, autosomal dominant	OMIM:610250
+6	0.78	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+7	0.75	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+8	0.73	Spastic paraplegia 35, autosomal recessive	OMIM:612319
+9	0.7	Spastic paraplegia 2, X-linked	OMIM:312920
+10	0.68	Spastic paraplegia 1, X-linked	OMIM:303350

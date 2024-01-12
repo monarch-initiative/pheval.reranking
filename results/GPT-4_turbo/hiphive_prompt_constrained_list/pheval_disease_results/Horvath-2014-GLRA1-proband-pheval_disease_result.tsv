@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.68	Primary familial brain calcification	OMIM:213600
+2	0.65	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.63	Wilson disease	OMIM:277900
+4	0.61	Tuberous sclerosis-1	OMIM:191100
+5	0.59	Dent disease 1	OMIM:300009
+6	0.57	Leigh syndrome, French-Canadian type	OMIM:220111
+7	0.56	Neurofibromatosis, type 1	OMIM:162200
+8	0.54	Huntington disease	OMIM:143100
+9	0.52	Marfan syndrome	OMIM:154700
+10	0.5	Pantothenate kinase-associated neurodegeneration	OMIM:234200

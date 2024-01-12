@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rubinstein-Taybi syndrome 1	OMIM:180849
+2	0.91	Kabuki syndrome 1	OMIM:147920
+3	0.9	Smith-Magenis syndrome	OMIM:182290
+4	0.89	Mucopolysaccharidosis type II	OMIM:309900
+5	0.88	Rett syndrome	OMIM:312750
+6	0.87	Noonan syndrome 1	OMIM:163950
+7	0.86	Mucopolysaccharidosis, MPS-III-A	OMIM:252900
+8	0.85	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.84	Williams syndrome	OMIM:194050
+10	0.83	Cornelia de Lange syndrome 1	OMIM:122470

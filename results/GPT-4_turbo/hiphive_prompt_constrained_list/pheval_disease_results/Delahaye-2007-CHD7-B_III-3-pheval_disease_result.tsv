@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Perrault syndrome 3	OMIM:614104
+2	0.8	Deafness, autosomal recessive 31	OMIM:607084
+2	0.8	Perrault syndrome 1	OMIM:233400
+4	0.7	Mitochondrial complex III deficiency, nuclear type 1	OMIM:124000
+4	0.7	Thiamine metabolism dysfunction syndrome 5 (episodic encephalopathy type)	OMIM:614458
+6	0.6	Combined oxidative phosphorylation deficiency 1	OMIM:609060
+6	0.6	Diabetes and deafness, maternally inherited	OMIM:520000
+8	0.5	Barth syndrome	OMIM:302060
+8	0.5	MEGDEL syndrome	OMIM:614739
+8	0.5	3-Methylglutaconic aciduria, type III	OMIM:258501

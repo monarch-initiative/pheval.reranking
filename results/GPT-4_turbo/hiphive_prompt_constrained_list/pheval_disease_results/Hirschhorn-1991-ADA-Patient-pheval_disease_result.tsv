@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.9	Common variable immunodeficiency	OMIM:607594
+3	0.85	X-linked severe combined immunodeficiency	OMIM:300400
+4	0.8	Combined immunodeficiency due to CD3gamma deficiency	OMIM:609613
+5	0.78	Autoimmune lymphoproliferative syndrome	OMIM:601859
+6	0.75	Hyper-IgM immunodeficiency syndrome, type 1	OMIM:308230
+7	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.65	DiGeorge syndrome	OMIM:188400
+9	0.6	Ataxia-telangiectasia	OMIM:208900
+10	0.55	Omenn syndrome	OMIM:603554

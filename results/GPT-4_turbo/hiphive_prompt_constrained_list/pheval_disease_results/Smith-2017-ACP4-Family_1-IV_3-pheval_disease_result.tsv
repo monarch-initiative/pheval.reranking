@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amelogenesis imperfecta, type IV	OMIM:614832
+2	0.94	Amelogenesis imperfecta, type I	OMIM:104500
+3	0.93	Amelogenesis imperfecta, type II	OMIM:204650
+4	0.91	Amelogenesis imperfecta, type III	OMIM:130900
+5	0.88	Odontoonychodermal dysplasia	OMIM:257980
+6	0.85	Dentinogenesis imperfecta type I	OMIM:166240
+7	0.84	Dentinogenesis imperfecta type II	OMIM:125490
+8	0.83	Dentinogenesis imperfecta type III	OMIM:605594
+9	0.81	Schopf-Schulz-Passarge syndrome	OMIM:224750
+10	0.79	Tooth agenesis, selective, 1, with or without orofacial cleft	OMIM:106600

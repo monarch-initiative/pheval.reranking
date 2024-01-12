@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Megaloblastic Anemia due to Inborn Errors of Metabolism	OMIM:261100
+2	0.91	Methylmalonic Aciduria and Homocystinuria, cblC Type	OMIM:277400
+3	0.88	Methylmalonic Acidemia	OMIM:251000
+4	0.85	Homocystinuria	OMIM:236200
+5	0.82	Cobalamin Deficiency	OMIM:259050
+6	0.79	Methylmalonic Aciduria and Homocystinuria, cblD Type	OMIM:277410
+7	0.76	Renal Tubular Acidosis with Anemia	OMIM:105650
+8	0.73	Thiamine-Responsive Megaloblastic Anemia Syndrome	OMIM:249270
+9	0.68	Methylmalonic Aciduria, cblA Type	OMIM:251100
+10	0.65	Hereditary Orotic Aciduria	OMIM:258900

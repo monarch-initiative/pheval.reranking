@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa 59	OMIM:613861
+2	0.89	Cone-Rod Dystrophy 3	OMIM:604116
+3	0.87	Retinitis Pigmentosa 20	OMIM:613794
+4	0.85	Retinitis Pigmentosa 26	OMIM:608380
+5	0.84	Night Blindness, Congenital Stationary, Type 1E	OMIM:613514
+6	0.82	Cone-Rod Dystrophy 2	OMIM:120970
+7	0.81	Retinitis Pigmentosa 1	OMIM:180100
+8	0.79	Achromatopsia 2	OMIM:216900
+9	0.77	Retinitis Pigmentosa 41	OMIM:612095
+10	0.76	Retinitis Pigmentosa 4	OMIM:613731

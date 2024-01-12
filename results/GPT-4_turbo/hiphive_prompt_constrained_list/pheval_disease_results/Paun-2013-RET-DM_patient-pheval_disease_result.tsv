@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Multiple Endocrine Neoplasia, Type IIa	OMIM:171400
+2	0.93	Multiple Endocrine Neoplasia, Type IIb	OMIM:162300
+3	0.9	Pheochromocytoma	OMIM:171300
+4	0.88	Thyroid Carcinoma, Familial Medullary	OMIM:155240
+5	0.86	Paragangliomas 1	OMIM:168000
+6	0.84	Medullary Thyroid Carcinoma	OMIM:155240
+7	0.82	Paraganglioma and Gastric Stromal Sarcoma	OMIM:606864
+8	0.8	Thyroid Cancer, Nonmedullary, 1	OMIM:188550
+9	0.78	Paragangliomas 2	OMIM:601650
+10	0.76	Carney Complex, Type 1	OMIM:160980

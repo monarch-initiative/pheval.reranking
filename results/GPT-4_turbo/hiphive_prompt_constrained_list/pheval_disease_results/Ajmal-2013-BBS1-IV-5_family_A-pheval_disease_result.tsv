@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Early-onset autosomal dominant Alzheimer disease	OMIM:104300
+2	0.82	Bardet-Biedl syndrome 1	OMIM:209900
+3	0.8	Stargardt disease 1	OMIM:248200
+4	0.78	Cone-rod dystrophy 2	OMIM:120970
+5	0.75	Leber congenital amaurosis 10	OMIM:611755
+6	0.73	Retinitis pigmentosa 1	OMIM:180100
+7	0.7	Usher syndrome, type 1C	OMIM:276904
+8	0.68	Alström syndrome	OMIM:203800
+9	0.65	Retinitis pigmentosa 59	OMIM:613861
+10	0.63	Best vitelliform macular dystrophy	OMIM:153700

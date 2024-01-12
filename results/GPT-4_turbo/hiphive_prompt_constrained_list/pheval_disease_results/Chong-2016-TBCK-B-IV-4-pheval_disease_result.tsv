@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+2	0.94	Spinal muscular atrophy, type I	OMIM:253300
+3	0.88	Leigh syndrome	OMIM:256000
+4	0.86	Rett syndrome	OMIM:312750
+5	0.85	Usher syndrome, type 1F	OMIM:602083
+6	0.83	Congenital disorder of glycosylation, type Ia	OMIM:212065
+7	0.81	Joubert syndrome 1	OMIM:213300
+8	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.78	Zellweger syndrome	OMIM:214100
+10	0.76	Pitt-Hopkins syndrome	OMIM:610954

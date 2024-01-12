@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gaucher Disease, Type II	OMIM:230900
+2	0.85	Gaucher Disease, Type I	OMIM:230800
+3	0.83	Gaucher Disease, Perinatal Lethal	OMIM:608013
+4	0.81	Gaucher Disease, Type III	OMIM:231000
+5	0.79	Gaucher Disease, Type III C	OMIM:231005
+6	0.77	MYH9-related disease	OMIM:160775
+7	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.74	Hematopoietic stem cell transplantation for Gaucher disease	OMIM:230900HT
+9	0.7	Neonatal Ichthyosis-Sclerosing Cholangitis Syndrome	OMIM:607626
+10	0.69	Chanarin-Dorfman Syndrome	OMIM:275630

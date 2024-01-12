@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+2	0.85	Cornelia de Lange syndrome	OMIM:122470
+3	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.75	Rett syndrome	OMIM:312750
+5	0.7	Noonan syndrome	OMIM:163950
+6	0.65	Angelman syndrome	OMIM:105830
+7	0.6	Prader-Willi syndrome	OMIM:176270
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Williams syndrome	OMIM:194050
+10	0.45	Fragile X syndrome	OMIM:300624

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen syndrome	OMIM:216550
+2	0.9	Smith-Magenis syndrome	OMIM:182290
+3	0.88	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.86	Noonan syndrome 1	OMIM:163950
+5	0.85	Carpenter syndrome 1	OMIM:201000
+6	0.84	Cornelia de Lange syndrome 1	OMIM:122470
+7	0.82	Mucopolysaccharidosis type IIIA (Sanfilippo syndrome A)	OMIM:252900
+8	0.81	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.8	Kauffman syndrome	OMIM:244450
+10	0.79	Wiedemann-Steiner syndrome	OMIM:605130

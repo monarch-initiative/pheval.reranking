@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal recessive primary microcephaly	OMIM:615414
+2	0.85	CHARGE syndrome	OMIM:214800
+3	0.83	Coffin-Lowry syndrome	OMIM:303600
+4	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.8	Angelman syndrome	OMIM:105830
+6	0.78	Kabuki syndrome 1	OMIM:147920
+7	0.77	Mowat-Wilson syndrome	OMIM:235730
+8	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.73	Williams syndrome	OMIM:194050
+10	0.72	Rubinstein-Taybi syndrome 1	OMIM:180849

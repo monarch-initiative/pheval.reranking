@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen Syndrome	OMIM:216550
+2	0.92	Mucopolysaccharidosis Type IV	OMIM:253000
+3	0.9	Rubinstein Taybi Syndrome	OMIM:180849
+4	0.85	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.83	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.82	Carpenter Syndrome	OMIM:201000
+7	0.8	Marshall-Smith Syndrome	OMIM:602535
+8	0.78	Cornelia De Lange Syndrome 1	OMIM:122470
+9	0.75	Pseudoachondroplasia	OMIM:177170
+10	0.73	Cranioectodermal Dysplasia	OMIM:218330

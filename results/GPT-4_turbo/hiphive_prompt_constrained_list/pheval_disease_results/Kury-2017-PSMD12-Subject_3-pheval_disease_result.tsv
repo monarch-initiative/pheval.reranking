@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Timothy syndrome	OMIM:601005
+2	0.87	Rett syndrome	OMIM:312750
+3	0.85	Cohen syndrome	OMIM:216550
+4	0.83	22q11.2 deletion syndrome	OMIM:188400
+5	0.82	Noonan syndrome	OMIM:163950
+6	0.81	Williams syndrome	OMIM:194050
+7	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.79	Angelman syndrome	OMIM:105830
+9	0.78	Fragile X syndrome	OMIM:300624
+10	0.77	Velocardiofacial syndrome	OMIM:192430

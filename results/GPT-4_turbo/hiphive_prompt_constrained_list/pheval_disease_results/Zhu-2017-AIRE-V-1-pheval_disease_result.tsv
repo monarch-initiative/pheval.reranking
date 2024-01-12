@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune Polyendocrinopathy Syndrome , Type I, with or without Reversible Metaphyseal Dysplasia	OMIM:240300
+2	0.85	Hypocalcemia, Autosomal Dominant 1	OMIM:601198
+3	0.83	Hypoparathyroidism, Sensorineural Deafness, and Renal Disease	OMIM:146200
+4	0.82	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410
+5	0.8	DiGeorge Syndrome	OMIM:188400
+6	0.75	Candidiasis, Familial, 2	OMIM:212050
+7	0.7	Hypoparathyroidism Deafness Renal Dysplasia Syndrome	OMIM:146255
+8	0.65	Hypomagnesemia 6, Renal	OMIM:613882
+9	0.6	Hypomagnesemia 3, Renal	OMIM:248250
+10	0.55	Dent's Disease	OMIM:300009

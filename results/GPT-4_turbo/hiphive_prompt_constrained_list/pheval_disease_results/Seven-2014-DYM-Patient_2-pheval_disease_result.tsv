@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ellis-van Creveld syndrome	OMIM:225500
+2	0.8	Pseudoachondroplasia	OMIM:177170
+3	0.75	Achondroplasia	OMIM:100800
+4	0.7	Diastrophic dysplasia	OMIM:222600
+5	0.65	Schwartz-Jampel syndrome	OMIM:255800
+6	0.6	Multiple epiphyseal dysplasia	OMIM:132400
+7	0.55	Smith-McCort dysplasia	OMIM:607326
+8	0.5	Cartilage-hair hypoplasia	OMIM:250250
+9	0.45	Metaphyseal dysplasia, McKusick type	OMIM:250300
+10	0.4	Metatropic dysplasia	OMIM:156530

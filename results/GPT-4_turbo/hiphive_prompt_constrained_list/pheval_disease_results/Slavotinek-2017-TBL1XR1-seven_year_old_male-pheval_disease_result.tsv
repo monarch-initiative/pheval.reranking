@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.87	Marfan syndrome	OMIM:154700
+3	0.85	Ellis-van Creveld syndrome	OMIM:225500
+4	0.83	Robinow syndrome, autosomal dominant	OMIM:180700
+5	0.82	Rett syndrome	OMIM:312750
+6	0.8	Cornelia de Lange syndrome	OMIM:122470
+7	0.79	Noonan syndrome	OMIM:163950
+8	0.77	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.76	Williams syndrome	OMIM:194050
+10	0.75	Prader-Willi syndrome	OMIM:176270

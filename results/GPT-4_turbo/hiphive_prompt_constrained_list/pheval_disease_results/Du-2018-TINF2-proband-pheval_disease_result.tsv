@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Dyskeratosis congenita, autosomal recessive 5	OMIM:615190
+2	0.79	Epidermolysis bullosa simplex with mottled pigmentation	OMIM:131960
+3	0.75	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 1	OMIM:614742
+4	0.73	Netherton syndrome	OMIM:256500
+5	0.71	Kindler syndrome	OMIM:173650
+6	0.68	Poikiloderma with neutropenia	OMIM:604173
+7	0.65	Acrodermatitis enteropathica	OMIM:201100
+8	0.63	Chronic mucocutaneous candidiasis	OMIM:114580
+9	0.61	Fanconi anemia, complementation group A	OMIM:227650
+10	0.59	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550

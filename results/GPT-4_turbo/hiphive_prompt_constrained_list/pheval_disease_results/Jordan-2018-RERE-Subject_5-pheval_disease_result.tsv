@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charge Syndrome	OMIM:214800
+2	0.85	22q11.2 Deletion Syndrome	OMIM:188400
+3	0.83	Coffin-Siris Syndrome	OMIM:135900
+4	0.82	Cornelia De Lange Syndrome	OMIM:122470
+5	0.8	Kabuki Syndrome	OMIM:147920
+6	0.78	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.76	Noonan Syndrome	OMIM:163950
+8	0.75	Prader-Willi Syndrome	OMIM:176270
+9	0.73	Beckwith-Wiedemann Syndrome	OMIM:130650
+10	0.71	Mowat-Wilson Syndrome	OMIM:235730

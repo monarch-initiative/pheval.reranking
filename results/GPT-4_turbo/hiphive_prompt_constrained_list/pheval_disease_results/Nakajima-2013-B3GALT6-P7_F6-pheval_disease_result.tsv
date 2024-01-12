@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIIB	OMIM:615577
+2	0.85	Cutis Laxa, Autosomal Dominant	OMIM:123700
+3	0.82	Geleophysic Dysplasia 1	OMIM:231050
+4	0.8	Marfan Syndrome	OMIM:154700
+5	0.78	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+6	0.76	Supravalvular Aortic Stenosis	OMIM:185500
+7	0.74	Ehlers-Danlos Syndrome, Kyphoscoliotic Form	OMIM:225400
+8	0.72	Osteogenesis Imperfecta, Type I	OMIM:166200
+9	0.7	Coffin-Lowry Syndrome	OMIM:303600
+10	0.68	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508

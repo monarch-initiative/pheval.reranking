@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.92	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.86	LOX-Related Familial Thoracic Aortic Aneurysm and Dissection	OMIM:613780
+4	0.84	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+5	0.81	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+6	0.79	Loeys-Dietz Syndrome 1	OMIM:609192
+7	0.78	Osteogenesis Imperfecta, Type I	OMIM:166200
+8	0.76	Cutis Laxa, Autosomal Dominant	OMIM:123700
+9	0.75	Homocystinuria	OMIM:236200
+10	0.73	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

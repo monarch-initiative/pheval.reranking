@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 5	OMIM:607155
+2	0.87	Myopathy, distal, 1	OMIM:254130
+3	0.85	Myopathy, myofibrillar, 1	OMIM:601419
+4	0.83	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5	OMIM:613153
+5	0.81	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 4	OMIM:611588
+6	0.79	Limb-girdle muscular dystrophy, type 2L	OMIM:611307
+7	0.77	Myopathy, centronuclear, 1	OMIM:160150
+8	0.75	Myopathy, myofibrillar, 8	OMIM:617258
+9	0.73	Myoglobinuria, acute recurrent, autosomal recessive	OMIM:268200
+10	0.71	Myopathy, centronuclear, X-linked	OMIM:310400

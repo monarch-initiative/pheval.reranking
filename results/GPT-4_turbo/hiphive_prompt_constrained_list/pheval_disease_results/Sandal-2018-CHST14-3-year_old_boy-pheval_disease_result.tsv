@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.93	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.92	Noonan Syndrome 1	OMIM:163950
+4	0.91	Beals Syndrome	OMIM:121050
+5	0.9	Lujan Syndrome	OMIM:309520
+6	0.89	Shprintzen-Goldberg Syndrome	OMIM:182212
+7	0.88	Stickler Syndrome Type 1	OMIM:108300
+8	0.87	Multiple Pterygium Syndrome, Escobar Variant	OMIM:265000
+9	0.85	Fragile X Syndrome	OMIM:300624
+10	0.84	Freeman-Sheldon Syndrome	OMIM:193700

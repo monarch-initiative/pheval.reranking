@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Progeroid Syndrome, Neonatal	OMIM:264090
+2	0.97	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+3	0.93	Muscular Dystrophy-Dystroglycanopathy Type C5	OMIM:606612
+4	0.91	Myasthenic Syndrome, Congenital, 1B, Fast-Channel	OMIM:608930
+5	0.89	Dyskeratosis Congenita, Autosomal Dominant, 2	OMIM:613989
+6	0.87	Metabolic Syndrome	OMIM:605552
+7	0.85	Sarcopenia	OMIM:604349
+8	0.83	Berardinelli-Seip Congenital Lipodystrophy	OMIM:269700
+9	0.81	Emery-Dreifuss Muscular Dystrophy 1, X-Linked	OMIM:310300
+10	0.79	Mandibuloacral Dysplasia With Type A Lipodystrophy	OMIM:248370

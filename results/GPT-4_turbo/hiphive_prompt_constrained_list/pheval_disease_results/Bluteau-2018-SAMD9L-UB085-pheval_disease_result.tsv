@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+2	0.9	Schimke immunoosseous dysplasia	OMIM:242900
+3	0.85	Ataxia-telangiectasia	OMIM:208900
+4	0.8	Seckel syndrome 1	OMIM:210600
+5	0.75	LIG4 syndrome	OMIM:606593
+6	0.7	Cerebroretinal microangiopathy with calcifications and cysts	OMIM:612199
+7	0.68	Metachromatic leukodystrophy	OMIM:250100
+8	0.66	Rothmund-Thomson syndrome	OMIM:268400
+9	0.65	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.6	Alexander disease	OMIM:203450

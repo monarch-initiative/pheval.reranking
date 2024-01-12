@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease 1	OMIM:168600
+2	0.85	Dementia, Lewy body	OMIM:127750
+3	0.8	Parkinson disease 8, autosomal dominant	OMIM:607060
+4	0.75	Multiple system atrophy 1	OMIM:146500
+5	0.7	Alzheimer disease 1	OMIM:104300
+6	0.65	Frontotemporal dementia	OMIM:600274
+7	0.6	Dystonia, DOPA-responsive, due to sepiapterin reductase deficiency	OMIM:612716
+8	0.55	Spinocerebellar ataxia 2	OMIM:183090
+9	0.5	Huntington disease	OMIM:143100
+10	0.45	Wilson disease	OMIM:277900

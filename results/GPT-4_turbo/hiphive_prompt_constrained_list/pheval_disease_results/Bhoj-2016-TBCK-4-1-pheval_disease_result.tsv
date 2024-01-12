@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.92	X-linked lissencephaly	OMIM:300067
+3	0.9	Angelman syndrome	OMIM:105830
+4	0.89	Duchenne muscular dystrophy	OMIM:310200
+5	0.87	Fragile X syndrome	OMIM:300624
+6	0.85	Neurofibromatosis type 1	OMIM:162200
+7	0.83	Tuberous sclerosis complex	OMIM:191100
+8	0.82	Prader-Willi syndrome	OMIM:176270
+9	0.8	Phelan-McDermid syndrome	OMIM:606232
+10	0.78	Smith-Magenis syndrome	OMIM:182290

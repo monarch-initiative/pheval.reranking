@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myasthenia gravis	OMIM:254200
+2	0.91	Limb-girdle muscular dystrophy	OMIM:253600
+3	0.88	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.86	Congenital myasthenic syndrome	OMIM:608931
+5	0.85	Spinal muscular atrophy	OMIM:253300
+6	0.83	Charcot-Marie-Tooth disease	OMIM:118220
+7	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+8	0.79	Duchenne muscular dystrophy	OMIM:310200
+9	0.77	Pompe disease	OMIM:232300
+10	0.76	Distal hereditary motor neuropathy	OMIM:160700
