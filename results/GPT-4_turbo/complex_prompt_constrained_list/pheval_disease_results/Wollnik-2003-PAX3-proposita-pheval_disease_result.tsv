@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome, type 1	OMIM:193500
+2	0.8	Waardenburg syndrome, type 2A	OMIM:193510
+3	0.7	Waardenburg syndrome, type 3	OMIM:148820
+4	0.6	Waardenburg syndrome, type 4C	OMIM:613266
+5	0.5	Marden-Walker syndrome	OMIM:248700

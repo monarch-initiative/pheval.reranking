@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Paris-Trousseau thrombocytopenia	OMIM:188025
+2	0.85	Gray platelet syndrome	OMIM:139090
+3	0.8	Glanzmann thrombasthenia	OMIM:273800
+4	0.75	Bernard-Soulier syndrome	OMIM:231200
+5	0.7	Platelet-type bleeding disorder 17	OMIM:615193
+6	0.65	Wiskott-Aldrich syndrome	OMIM:301000

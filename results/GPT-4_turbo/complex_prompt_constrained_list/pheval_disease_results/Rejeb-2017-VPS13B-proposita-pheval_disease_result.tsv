@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Bardet-Biedl syndrome	OMIM:209900
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.6	Mucopolysaccharidosis type III	OMIM:252900
+4	0.6	Prader-Willi syndrome	OMIM:176270
+6	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.5	Zellweger syndrome	OMIM:214100
+6	0.5	Alström syndrome	OMIM:203800
+9	0.4	Carpenter syndrome	OMIM:201000
+9	0.4	Waardenburg syndrome	OMIM:193500

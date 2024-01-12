@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Syphilis	OMIM:215700
+2	0.8	Cohen Syndrome	OMIM:216550
+3	0.7	Carpenter Syndrome	OMIM:201000
+4	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+5	0.5	Mowat-Wilson Syndrome	OMIM:235730
+6	0.4	Rubinstein-Taybi Syndrome 1	OMIM:180849
+7	0.3	Williams Syndrome	OMIM:194050

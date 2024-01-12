@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Perlman syndrome	OMIM:267000
+2	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.85	Costello syndrome	OMIM:218040
+4	0.8	Noonan syndrome 1	OMIM:163950
+5	0.75	Cohen syndrome	OMIM:216550
+6	0.7	Cardiofaciocutaneous syndrome	OMIM:115150
+7	0.65	Carpenter syndrome 1	OMIM:201000
+8	0.6	LEOPARD syndrome 1	OMIM:151100
+9	0.55	Mowat-Wilson syndrome	OMIM:235730
+10	0.5	Simpson-Golabi-Behmel syndrome, type 1	OMIM:312870

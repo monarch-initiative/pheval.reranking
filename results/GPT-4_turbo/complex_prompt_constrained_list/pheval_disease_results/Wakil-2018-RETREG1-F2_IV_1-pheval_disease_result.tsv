@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Sensory and Autonomic Neuropathy Type IID	OMIM:615548
+2	0.8	Congenital Insensitivity to Pain with Anhidrosis	OMIM:256800
+3	0.7	Spastic Paraplegia 2, X-Linked	OMIM:312920
+4	0.6	Leukodystrophy, Hypomyelinating, 4	OMIM:612233
+5	0.5	Spastic Paraplegia 3A	OMIM:182600
+6	0.4	Hereditary Sensory and Autonomic Neuropathy Type I	OMIM:162400

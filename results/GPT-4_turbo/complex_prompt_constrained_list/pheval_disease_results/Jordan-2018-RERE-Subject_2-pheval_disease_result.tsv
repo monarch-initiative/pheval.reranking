@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Turner syndrome	OMIM:163950
+2	0.8	Noonan syndrome 1	OMIM:163950
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	22q11.2 deletion syndrome	OMIM:611867
+5	0.5	Williams syndrome	OMIM:194050

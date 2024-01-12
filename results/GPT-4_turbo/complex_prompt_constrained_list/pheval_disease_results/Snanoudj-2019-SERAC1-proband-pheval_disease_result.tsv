@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.8	Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type)	OMIM:615418
+3	0.75	Autosomal recessive progressive external ophthalmoplegia with mitochondrial myopathy	OMIM: 258450
+4	0.7	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	OMIM:612073
+5	0.65	Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)	OMIM:271245
+6	0.6	MT-ATP6 related mitochondrial disorder	OMIM:516060
+7	0.55	Combined oxidative phosphorylation deficiency	OMIM:609060
+8	0.5	Mitochondrial complex I deficiency	OMIM:252010
+9	0.45	Mitochondrial complex IV deficiency	OMIM:220110
+10	0.4	Mitochondrial complex III deficiency, nuclear type	OMIM:124000

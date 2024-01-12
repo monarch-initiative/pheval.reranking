@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer Disease, Type 4	OMIM:606889
+2	0.8	Frontotemporal Dementia	OMIM:600274
+3	0.7	Pick Disease	OMIM:172700
+4	0.6	Alzheimer Disease, Type 1	OMIM:104300
+5	0.5	Alzheimer Disease, Type 3	OMIM:607822
+6	0.4	Dementia, Lewy Body	OMIM:127750
+7	0.3	Huntington Disease	OMIM:143100
+8	0.2	Creutzfeldt-Jakob Disease	OMIM:123400
+9	0.1	Niemann-Pick Disease, Type C1	OMIM:257220

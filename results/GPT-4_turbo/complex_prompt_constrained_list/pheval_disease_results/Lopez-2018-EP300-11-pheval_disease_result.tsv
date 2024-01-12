@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.8	Coffin-Siris syndrome 1	OMIM:135900
+4	0.75	Ohdo syndrome, SBBYS variant	OMIM:603736

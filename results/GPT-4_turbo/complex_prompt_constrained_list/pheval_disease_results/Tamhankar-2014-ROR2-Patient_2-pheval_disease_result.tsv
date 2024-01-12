@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carpenter syndrome	OMIM:201000
+2	0.85	Geleophysic dysplasia 1	OMIM:231050
+3	0.8	Acromicric dysplasia	OMIM:102370
+4	0.75	Larsen syndrome	OMIM:150250
+5	0.7	3MC syndrome 1	OMIM:257920
+6	0.65	Muenke syndrome	OMIM:602849
+7	0.6	Antley-Bixler syndrome without genital anomalies or disordered steroidogenesis	OMIM:207410
+8	0.55	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+9	0.5	Chromosome 22q11.2 duplication syndrome	OMIM:608363
+10	0.45	Loeys-Dietz syndrome 1	OMIM:609192

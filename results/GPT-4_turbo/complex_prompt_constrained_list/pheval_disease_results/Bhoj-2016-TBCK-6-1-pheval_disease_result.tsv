@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal recessive mental retardation type 21	OMIM:615502
+2	0.8	Glycosylphosphatidylinositol biosynthesis defect 14	OMIM:616809
+3	0.7	MUCOPOLYSACCHARIDOSIS, TYPE IIIC	OMIM:252930
+4	0.6	Noonan syndrome 7	OMIM:613706
+5	0.5	HISTIDINEMIA	OMIM:235800

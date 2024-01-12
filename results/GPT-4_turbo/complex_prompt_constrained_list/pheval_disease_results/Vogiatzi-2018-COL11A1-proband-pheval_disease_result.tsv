@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130000
+2	0.8	Kniest dysplasia	OMIM:156550
+3	0.7	Stickler syndrome	OMIM:108300
+3	0.7	Osteogenesis imperfecta	OMIM:166200
+5	0.6	Morquio syndrome	OMIM:253000
+5	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.5	Marfan syndrome	OMIM:154700
+7	0.5	Pseudoachondroplasia	OMIM:177170
+9	0.4	Multiple epiphyseal dysplasia	OMIM:132400
+10	0.3	Achondroplasia	OMIM:100800

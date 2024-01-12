@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, distal, 4	OMIM:615575
+2	0.85	Glycogen storage disease type V	OMIM:232600
+3	0.8	Glycogen storage disease type VII	OMIM:232800
+3	0.8	Mitochondrial myopathy	OMIM:000373
+5	0.75	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.75	Paramyotonia congenita of von Eulenburg	OMIM:168300
+7	0.7	Myotonic dystrophy type 1	OMIM:160900
+7	0.7	Batten disease	OMIM:204200
+9	0.65	Spinal and bulbar muscular atrophy, X-linked 1	OMIM:313200
+10	0.6	Isaacs syndrome	OMIM:604809

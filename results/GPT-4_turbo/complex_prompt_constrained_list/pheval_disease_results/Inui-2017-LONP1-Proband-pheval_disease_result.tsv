@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Pearson marrow-pancreas syndrome	OMIM:557000
+2	0.75	Methylmalonic acidemia with homocystinuria	OMIM:277400
+3	0.7	Glutaric acidemia I	OMIM:231670
+4	0.65	Isobutyryl-CoA dehydrogenase deficiency	OMIM:611283
+5	0.6	Mitochondrial complex III deficiency, nuclear type 2	OMIM:615157
+6	0.55	2-methyl-3-hydroxybutyric aciduria	OMIM:300438
+7	0.5	Propionic acidemia	OMIM:606054
+8	0.45	Multiple mitochondrial dysfunctions syndrome 1	OMIM:605711
+9	0.4	Mitochondrial DNA depletion syndrome 9	OMIM:245400
+10	0.35	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170

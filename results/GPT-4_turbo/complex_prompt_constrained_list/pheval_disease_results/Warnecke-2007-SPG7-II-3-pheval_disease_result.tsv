@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia 2	OMIM:183090
+2	0.9	Wilson disease	OMIM:277900
+3	0.85	Spinocerebellar ataxia 17	OMIM:607136
+4	0.8	Spinocerebellar ataxia 7	OMIM:164500
+5	0.75	Progressive supranuclear palsy	OMIM:601104
+6	0.7	Multiple system atrophy	OMIM:146500
+7	0.65	Friedreich ataxia	OMIM:229300
+8	0.6	Huntington disease	OMIM:143100
+9	0.55	Cerebrotendinous xanthomatosis	OMIM:213700
+10	0.5	Ataxia-telangiectasia	OMIM:208900

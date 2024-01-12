@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille syndrome	OMIM:118450
+2	0.8	Ellis-van Creveld syndrome	OMIM:225500
+3	0.7	Noonan syndrome 1	OMIM:163950
+4	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.5	Coffin-Siris syndrome	OMIM:135900
+6	0.4	Cornelia de Lange syndrome	OMIM:122470
+7	0.3	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.2	Williams syndrome	OMIM:194050
+9	0.1	Pfeiffer syndrome	OMIM:101600

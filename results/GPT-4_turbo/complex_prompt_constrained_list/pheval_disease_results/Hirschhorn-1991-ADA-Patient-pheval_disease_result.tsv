@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency autosomal recessive T cell-negative/B cell-negative/NK cell-positive	OMIM:601457
+2	0.85	Bare lymphocyte syndrome type II	OMIM:209920
+3	0.8	Combined cellular and humoral immune defects with granulomas	OMIM:233650
+4	0.75	Immunodeficiency with hyper IgM type 1	OMIM:308230
+5	0.7	Adenosine deaminase deficiency	OMIM:102700
+5	0.7	Omenn syndrome	OMIM:603554
+7	0.65	Agammaglobulinemia 1, autosomal recessive	OMIM:601495

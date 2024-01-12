@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis Imperfecta, Type III	OMIM:259420
+2	0.9	Osteogenesis Imperfecta, Type IV	OMIM:166220
+3	0.85	Osteogenesis Imperfecta, Type I	OMIM:166200
+4	0.8	Cole-Carpenter Syndrome 1	OMIM:112240
+5	0.75	Ehlers-Danlos Syndrome, Type VI	OMIM:225400
+6	0.7	Bruck Syndrome 1	OMIM:259450

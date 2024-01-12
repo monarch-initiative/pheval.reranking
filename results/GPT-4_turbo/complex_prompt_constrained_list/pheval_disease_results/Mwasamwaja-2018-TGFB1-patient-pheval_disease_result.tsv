@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Camurati-Engelmann disease	OMIM:131300
+2	0.8	Paget disease of bone 1, juvenile	OMIM:239000
+3	0.7	Hyperphosphatasia with mental retardation syndrome 1	OMIM:239300
+4	0.6	Osteopetrosis, autosomal recessive 1	OMIM:259700
+5	0.5	Progeroid and marfanoid aspect-lipodystrophy syndrome	OMIM:616914
+6	0.4	Pyle disease	OMIM:265900
+7	0.3	Craniometaphyseal dysplasia, autosomal dominant	OMIM:123000
+8	0.2	Myopathy, tubular aggregate, 2	OMIM:615883
+9	0.1	Cardiomyopathy, dilated, 1aa, with or without left ventricular noncompaction	OMIM:615235
+10	0.05	Diaphyseal medullary stenosis with malignant fibrous histiocytoma	OMIM:112250

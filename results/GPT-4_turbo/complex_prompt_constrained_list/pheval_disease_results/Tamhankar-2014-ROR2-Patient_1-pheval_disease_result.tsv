@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+2	0.85	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+3	0.8	3m Syndrome	OMIM:273750
+4	0.75	Carpenter Syndrome	OMIM:201000
+5	0.7	Frank-Ter Haar Syndrome	OMIM:249420

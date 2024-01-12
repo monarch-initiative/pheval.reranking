@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.85	LEOPARD syndrome 1	OMIM:151100
+3	0.8	Costello syndrome	OMIM:218040
+4	0.75	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.7	Neurofibromatosis, type 1	OMIM:162200

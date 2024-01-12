@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease 9	OMIM:601882
+2	0.87	Dementia, Lewy body	OMIM:127750
+3	0.85	Alzheimer's disease	OMIM:104300
+4	0.82	Parkinson disease 2, autosomal recessive juvenile	OMIM:600116
+5	0.8	Parkinson disease 1	OMIM:168601
+6	0.78	Parkinson disease 8, autosomal dominant	OMIM:607060
+7	0.75	Supranuclear Palsy, Progressive	OMIM:601104
+8	0.72	Corticobasal degeneration	OMIM:615075
+9	0.7	Multiple system atrophy	OMIM:146500
+10	0.68	Huntington disease	OMIM:143100

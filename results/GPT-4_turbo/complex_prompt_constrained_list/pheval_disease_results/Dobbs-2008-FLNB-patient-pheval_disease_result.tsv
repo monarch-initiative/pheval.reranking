@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Arthrogryposis, renal dysfunction, and cholestasis 1	OMIM:208085
+2	0.9	Multiple pterygium syndrome, lethal type	OMIM:253290
+3	0.85	Multiple pterygium syndrome, Escobar variant	OMIM:265000
+4	0.8	Diastrophic dysplasia	OMIM:222600
+5	0.75	Larsen syndrome	OMIM:150250
+6	0.7	Meckel syndrome	OMIM:249000
+7	0.65	Noonan syndrome 1	OMIM:163950
+8	0.6	Freeman-Sheldon syndrome	OMIM:193700
+9	0.55	Campomelic dysplasia	OMIM:114290
+10	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400

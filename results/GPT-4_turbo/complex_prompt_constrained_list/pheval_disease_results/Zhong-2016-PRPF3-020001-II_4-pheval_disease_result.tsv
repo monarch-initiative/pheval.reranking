@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa	OMIM:268000
+2	0.8	Usher Syndrome	OMIM:276900

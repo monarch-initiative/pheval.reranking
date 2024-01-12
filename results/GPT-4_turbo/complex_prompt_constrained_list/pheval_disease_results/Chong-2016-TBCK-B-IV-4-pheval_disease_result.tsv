@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia, Type 1A	OMIM:607596
+2	0.85	Spinal Muscular Atrophy, Type I	OMIM:253300
+3	0.8	Leigh Syndrome	OMIM:256000
+4	0.75	Peroxisome Biogenesis Disorder 1A (Zellweger)	OMIM:214100
+5	0.7	Dandy-Walker Syndrome	OMIM:220200
+6	0.65	Lissencephaly	OMIM:607432
+7	0.6	Rett Syndrome	OMIM:312750
+8	0.55	Primary Autosomal Recessive Microcephaly 1	OMIM:251200
+9	0.5	Neuronal Ceroid Lipofuscinosis	OMIM:204200
+10	0.45	Usher Syndrome, Type 1	OMIM:276900

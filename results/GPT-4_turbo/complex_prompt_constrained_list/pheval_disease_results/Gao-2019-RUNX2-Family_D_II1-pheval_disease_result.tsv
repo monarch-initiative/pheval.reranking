@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial Dysplasia	OMIM:119600
+2	0.8	Hypophosphatasia, Infantile	OMIM:241500
+3	0.7	Pyknodysostosis	OMIM:265800
+4	0.6	Campomelic Dysplasia	OMIM:114290
+5	0.5	Thanatophoric Dysplasia, Type I	OMIM:187600
+6	0.4	Schwartz-Jampel Syndrome Type 1	OMIM:255800
+7	0.3	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.2	Achondrogenesis, Type II	OMIM:200610
+9	0.1	Smith-McCort Dysplasia	OMIM:607326
+10	0.05	Asphyxiating Thoracic Dysplasia	OMIM:208500

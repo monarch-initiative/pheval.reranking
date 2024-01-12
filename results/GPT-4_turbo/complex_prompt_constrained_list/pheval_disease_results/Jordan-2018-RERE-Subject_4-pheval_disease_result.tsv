@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Joubert syndrome 10	OMIM:300804
+3	0.7	Cerebrooculofacioskeletal syndrome 4	OMIM:616570
+4	0.6	Coffin-Siris syndrome 4	OMIM:614609
+5	0.5	Kaufman oculocerebrofacial syndrome	OMIM:244450
+6	0.4	Mowat-Wilson syndrome	OMIM:235730
+7	0.3	Kabuki syndrome 1	OMIM:147920
+8	0.2	Pitt-Hopkins syndrome	OMIM:610954
+9	0.1	Rubinstein-Taybi syndrome 1	OMIM:180849

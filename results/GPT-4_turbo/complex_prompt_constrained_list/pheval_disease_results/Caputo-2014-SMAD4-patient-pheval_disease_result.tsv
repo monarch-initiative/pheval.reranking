@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+2	0.85	Geleophysic Dysplasia 1	OMIM:231050
+2	0.85	Brachydactyly, Type E2	OMIM:613382
+4	0.8	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+4	0.8	Crane-Heise Syndrome	OMIM:218330
+6	0.75	Chondrodysplasia Punctata, X-Linked Dominant	OMIM:302960
+6	0.75	Frontometaphyseal Dysplasia	OMIM:305620
+8	0.7	Greenberg Dysplasia	OMIM:215140
+8	0.7	Melorheostosis with Osteopoikilosis	OMIM:155950
+10	0.65	Osteoglophonic Dysplasia	OMIM:166250

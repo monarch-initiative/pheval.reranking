@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucolipidosis III Gamma	OMIM:252650
+2	0.8	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+3	0.7	Coffin-Siris syndrome	OMIM:135900
+4	0.6	Craniofrontonasal syndrome	OMIM:304110
+5	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.4	3MC syndrome	OMIM:257920
+7	0.3	Noonan syndrome	OMIM:163950
+8	0.2	Baraitser-Winter syndrome	OMIM:243310
+9	0.1	Blepharophimosis, ptosis, and epicanthus inversus syndrome	OMIM:110100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy, Lower Extremity-Predominant, 1, Autosomal Dominant	OMIM:182980
+2	0.85	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210
+3	0.8	Myopathy, Centronuclear, 1	OMIM:160150
+4	0.75	Charcot-Marie-Tooth Disease, Axonal, Type 2O	OMIM:614228
+5	0.7	Muscular Dystrophy, Duchenne Type	OMIM:310200
+6	0.65	Myasthenic Syndrome, Congenital, 1B, Fast-Channel	OMIM:608930
+7	0.6	Stüve-Wiedemann Syndrome	OMIM:601559
+8	0.55	Paramyotonia Congenita Of Von Eulenburg	OMIM:168300
+9	0.5	Bethlem Myopathy 1	OMIM:158810
+10	0.45	Distal Myopathy, Welander Type	OMIM:604454

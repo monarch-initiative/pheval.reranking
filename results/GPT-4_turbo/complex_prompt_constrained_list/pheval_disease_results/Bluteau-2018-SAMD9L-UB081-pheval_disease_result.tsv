@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.85	Dyskeratosis Congenita, Autosomal Recessive 5	OMIM:615987
+3	0.8	Fanconi Anemia, Complementation Group A	OMIM:227650
+4	0.75	Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation	OMIM:602450
+5	0.7	Nijmegen Breakage Syndrome	OMIM:251260
+6	0.65	Thrombocytopenia-Absent Radius Syndrome	OMIM:274000
+7	0.6	Cartilage-Hair Hypoplasia	OMIM:250250
+8	0.55	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.5	Diamond-Blackfan Anemia 1	OMIM:105650
+10	0.45	Ataxia-Telangiectasia	OMIM:208900

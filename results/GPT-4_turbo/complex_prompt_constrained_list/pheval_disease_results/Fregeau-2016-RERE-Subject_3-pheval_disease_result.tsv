@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.85	Mowat-Wilson syndrome	OMIM:235730
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.7	Kabuki syndrome	OMIM:147920
+6	0.65	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.6	Cornelia de Lange syndrome	OMIM:122470
+8	0.55	Schinzel-Giedion syndrome	OMIM:269150
+9	0.5	Pitt-Hopkins syndrome	OMIM:610954
+10	0.45	22q11.2 deletion syndrome	OMIM:188400

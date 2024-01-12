@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer syndrome	OMIM:101600
+2	0.8	Thanatophoric dysplasia, type I	OMIM:187600
+2	0.8	Apert syndrome	OMIM:101200
+4	0.7	Crouzon syndrome	OMIM:123500
+4	0.7	Carpenter syndrome	OMIM:201000
+6	0.6	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative	OMIM:601457

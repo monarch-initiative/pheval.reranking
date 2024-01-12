@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Opitz-Kaveggia Syndrome	OMIM:305450
+2	0.85	Lujan-Fryns Syndrome	OMIM:309520
+3	0.8	Mowat-Wilson Syndrome	OMIM:235730
+4	0.75	Smith-Magenis Syndrome	OMIM:182290
+5	0.7	Kleefstra Syndrome	OMIM:610253
+6	0.65	Cohen Syndrome	OMIM:216550
+7	0.6	Rubinstein-Taybi Syndrome 1	OMIM:180849
+8	0.55	Pitt-Hopkins Syndrome	OMIM:610954
+9	0.5	Sotos Syndrome 1	OMIM:117550
+10	0.45	Williams Syndrome	OMIM:194050

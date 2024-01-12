@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa	OMIM:268000
+2	0.85	Usher Syndrome Type 2A	OMIM:276901
+3	0.8	Leber Congenital Amaurosis	OMIM:204000
+4	0.75	Cone-Rod Dystrophy	OMIM:120970
+5	0.7	Stargardt Disease	OMIM:248200
+6	0.65	Bestrophinopathy	OMIM:607854
+7	0.6	Bardet-Biedl Syndrome	OMIM:209900
+8	0.55	Choroideremia	OMIM:303100
+9	0.5	Enhanced S-Cone Syndrome	OMIM:268100
+10	0.45	Gyrate Atrophy of Choroid and Retina	OMIM:258870

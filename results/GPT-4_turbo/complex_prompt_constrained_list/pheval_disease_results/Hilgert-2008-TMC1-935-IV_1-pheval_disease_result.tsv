@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher syndrome type 1D/F	OMIM:601067
+2	0.8	Usher syndrome type 1B	OMIM:276900
+3	0.7	Wolfram syndrome	OMIM:222300
+4	0.6	Bilateral vestibulopathy	OMIM:605799
+5	0.5	Bartonella henselae infection	OMIM:607008
+6	0.4	Pendred syndrome	OMIM:274600
+7	0.3	CHARGE syndrome	OMIM:214800
+8	0.2	Norrie disease	OMIM:310600
+9	0.1	Alport syndrome, X-linked	OMIM:301050
+10	0.05	Biotinidase deficiency	OMIM:253260

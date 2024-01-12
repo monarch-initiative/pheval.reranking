@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Apert Syndrome	OMIM:101200
+2	0.8	Pfeiffer Syndrome	OMIM:101600
+3	0.7	Saethre-Chotzen Syndrome	OMIM:101400
+4	0.6	Marden-Walker Syndrome	OMIM:248700
+5	0.5	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.4	Beare-Stevenson Cutis Gyrata Syndrome	OMIM:123790
+7	0.3	Carpenter Syndrome	OMIM:201000
+8	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.1	Craniofrontonasal Dysplasia	OMIM:304110

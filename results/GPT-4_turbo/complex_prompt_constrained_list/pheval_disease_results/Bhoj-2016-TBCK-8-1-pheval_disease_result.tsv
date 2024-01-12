@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis, MPS-III-D	OMIM:252940
+2	0.85	Mucopolysaccharidosis, MPS-I-H/S	OMIM:607015
+3	0.8	Mucopolysaccharidosis, MPS-II	OMIM:309900
+4	0.75	Beckwith-Wiedemann Syndrome	OMIM:130650
+5	0.7	Sotos Syndrome 1	OMIM:117550
+6	0.65	Weaver Syndrome	OMIM:277590

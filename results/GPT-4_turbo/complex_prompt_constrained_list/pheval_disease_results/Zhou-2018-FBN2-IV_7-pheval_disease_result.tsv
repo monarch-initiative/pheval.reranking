@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Beals Congenital Contractural Arachnodactyly	OMIM:121050
+3	0.7	Ehlers-Danlos Syndrome, Kyphoscoliosis Type	OMIM:225400
+4	0.6	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.5	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508

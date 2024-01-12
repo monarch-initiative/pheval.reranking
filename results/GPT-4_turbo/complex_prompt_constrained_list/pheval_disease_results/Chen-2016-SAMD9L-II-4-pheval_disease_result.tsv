@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ataxia-Pancytopenia Syndrome	OMIM:159550
+2	0.8	Spinocerebellar Ataxia, Autosomal Recessive 1	OMIM:606002
+3	0.7	Anemia, Hypoplastic, Congenital	OMIM:205900

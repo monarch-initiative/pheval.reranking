@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Weill-Marchesani Syndrome 2, Recessive	OMIM:608328
+3	0.8	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+4	0.75	Homocystinuria Due To Cystathionine Beta-Synthase Deficiency	OMIM:236200
+5	0.7	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+6	0.6	Loeys-Dietz Syndrome 1	OMIM:609192
+7	0.55	Microphthalmia With Limb Anomalies	OMIM:206920
+8	0.5	Lens Subluxation And Ectopia Lentis	OMIM:129600
+9	0.45	Kabuki Syndrome 1	OMIM:147920
+10	0.4	Ectopia Lentis, Isolated, Autosomal Dominant	OMIM:129600

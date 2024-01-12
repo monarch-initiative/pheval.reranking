@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+2	0.85	Charcot-Marie-Tooth Disease, Type 2A2	OMIM:609260
+3	0.8	Charcot-Marie-Tooth Disease, Type 4A	OMIM:214400
+4	0.75	Hereditary Motor and Sensory Neuropathy, Type IIC	OMIM:606071
+5	0.7	Hereditary Motor and Sensory Neuropathy, Russe Type	OMIM:605285
+6	0.65	Hereditary Neuropathy with Liability to Pressure Palsies	OMIM:162500
+7	0.6	Spinal Muscular Atrophy, Type III	OMIM:253400
+8	0.55	Spinal Muscular Atrophy, Type IV	OMIM:271150
+9	0.5	Friedreich Ataxia	OMIM:229300
+10	0.45	Giant Axonal Neuropathy	OMIM:256850

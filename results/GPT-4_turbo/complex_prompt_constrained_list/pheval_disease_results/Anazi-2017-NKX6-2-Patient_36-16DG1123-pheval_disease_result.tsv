@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Hypomyelination, Hypogonadotropic Hypogonadism, and Hypodontia	OMIM:241530
+3	0.8	Metachromatic Leukodystrophy	OMIM:250100
+4	0.75	Canavan Disease	OMIM:271900
+5	0.7	Alexander Disease	OMIM:203450
+6	0.65	Leigh Syndrome	OMIM:256000
+7	0.6	Krabbe Disease	OMIM:245200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorder of Deglycosylation	OMIM:617908
+2	0.8	Spinocerebellar Ataxia Type 7	OMIM:164500
+3	0.7	Mitochondrial DNA Depletion Syndrome 6	OMIM:256810
+4	0.6	Early-Onset Ataxia with Oculomotor Apraxia and Hypoalbuminemia	OMIM:208920
+5	0.5	Joubert Syndrome 10	OMIM:614852
+6	0.4	Leigh Syndrome	OMIM:256000
+7	0.3	Mucopolysaccharidosis Type II	OMIM:309900
+8	0.2	Marinesco-Sjogren Syndrome	OMIM:248800
+9	0.1	Autosomal Recessive Spinocerebellar Ataxia 8	OMIM:610743
+10	0.05	Kearns-Sayre Syndrome	OMIM:530000

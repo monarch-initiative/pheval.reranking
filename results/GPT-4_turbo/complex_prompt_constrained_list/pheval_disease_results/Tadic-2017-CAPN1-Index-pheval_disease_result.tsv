@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 35, autosomal recessive	OMIM:612319
+2	0.85	Spastic paraplegia 10	OMIM:604187
+3	0.8	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+4	0.75	Ataxia-telangiectasia	OMIM:208900
+5	0.7	Leigh syndrome	OMIM:256000
+6	0.6	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss (CAPOS)	OMIM:601338
+7	0.55	Early-onset ataxia with oculomotor apraxia and hypoalbuminemia	OMIM:606002
+8	0.5	Charcot-Marie-Tooth disease	OMIM:118220

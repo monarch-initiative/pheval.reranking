@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nail-Patella Syndrome	OMIM:161200
+2	0.8	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.7	Isolated Patellar Aplasia-Hypoplasia	OMIM:603349

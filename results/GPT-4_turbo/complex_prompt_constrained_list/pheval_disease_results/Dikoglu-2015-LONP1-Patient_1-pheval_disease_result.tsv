@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stuve-Wiedemann Syndrome	OMIM:601559
+2	0.8	Larsen Syndrome, Autosomal Dominant	OMIM:150250
+3	0.7	Larsen Syndrome, Autosomal Recessive	OMIM:245600
+4	0.6	Raine Syndrome	OMIM:259775
+5	0.5	Schimke Immunoosseous Dysplasia	OMIM:242900
+6	0.4	Cleidocranial Dysplasia	OMIM:119600
+7	0.3	Greenberg Dysplasia	OMIM:215140
+8	0.2	Cerebro-oculo-facio-skeletal Syndrome	OMIM:214150
+9	0.1	Atelosteogenesis Type I	OMIM:108720
+10	0.05	Desbuquois Dysplasia 1	OMIM:251450

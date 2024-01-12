@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Leigh syndrome	OMIM:256000
+3	0.8	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+4	0.75	Wolfram syndrome	OMIM:222300
+5	0.7	Cornelia de Lange syndrome	OMIM:122470
+6	0.65	Menkes disease	OMIM:309400
+7	0.6	Mitochondrial DNA depletion syndrome	OMIM:251880
+8	0.55	Mucopolysaccharidosis type III	OMIM:252900
+9	0.5	Fucosidosis	OMIM:230000
+10	0.45	Sialidosis	OMIM:256550

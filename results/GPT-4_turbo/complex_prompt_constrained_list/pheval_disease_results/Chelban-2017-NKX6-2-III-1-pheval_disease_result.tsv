@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	TUBB4A-related leukodystrophy	OMIM:612438
+3	0.7	Metachromatic leukodystrophy	OMIM:250100
+4	0.6	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+5	0.5	Leigh syndrome	OMIM:256000
+6	0.4	Neuronal ceroid lipofuscinosis	OMIM:204200
+7	0.3	Alexander disease	OMIM:203450
+8	0.2	Spinocerebellar ataxia type 7	OMIM:164500
+9	0.1	Multiple system atrophy	OMIM:146500

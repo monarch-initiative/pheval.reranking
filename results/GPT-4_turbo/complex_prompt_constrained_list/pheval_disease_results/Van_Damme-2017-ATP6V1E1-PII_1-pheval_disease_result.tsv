@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:154700
+2	0.8	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.75	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.7	Beals Syndrome	OMIM:121050
+5	0.65	Homocystinuria	OMIM:236200
+6	0.6	Cutis Laxa, Autosomal Recessive, Type IA	OMIM:219100
+7	0.55	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+8	0.5	Shprintzen-Goldberg Syndrome	OMIM:182212

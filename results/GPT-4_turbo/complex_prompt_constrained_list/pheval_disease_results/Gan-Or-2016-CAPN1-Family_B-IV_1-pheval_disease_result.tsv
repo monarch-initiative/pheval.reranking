@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia 11	OMIM:604187
+2	0.8	Hereditary spastic paraplegia 3A	OMIM:182600
+2	0.8	Hereditary spastic paraplegia 4	OMIM:182601
+4	0.7	Hereditary spastic paraplegia 31	OMIM:610250
+4	0.7	Hereditary spastic paraplegia 15	OMIM:270700
+6	0.6	Amyotrophic lateral sclerosis 10	OMIM:604187
+6	0.6	Charcot-Marie-Tooth disease, type 2D	OMIM:601472
+8	0.5	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+8	0.5	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+8	0.5	Spastic paraplegia 7, autosomal recessive	OMIM:607259

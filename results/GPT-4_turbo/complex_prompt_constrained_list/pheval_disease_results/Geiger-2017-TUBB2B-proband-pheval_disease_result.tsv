@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lissencephaly 1	OMIM:607432
+2	0.8	Muscle-eye-brain disease	OMIM:253280
+3	0.7	Lissencephaly, X-linked	OMIM:300215
+4	0.6	Walker-Warburg syndrome	OMIM:236670
+5	0.5	Lissencephaly 3	OMIM:611603
+6	0.4	Lissencephaly 4	OMIM:614019
+7	0.35	Congenital muscular dystrophy-dystroglycanopathy type A, 1	OMIM:236670
+8	0.3	Fukuyama congenital muscular dystrophy	OMIM:253800
+9	0.25	Miller-Dieker syndrome	OMIM:247200
+10	0.2	Congenital muscular dystrophy-dystroglycanopathy type A, 2	OMIM:613150

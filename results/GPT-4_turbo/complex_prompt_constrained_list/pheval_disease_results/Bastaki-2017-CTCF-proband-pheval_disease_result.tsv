@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Mowat-Wilson syndrome	OMIM:235730
+3	0.8	Kaufman oculocerebrofacial syndrome	OMIM:244450

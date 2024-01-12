@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2A2B	OMIM:617087
+2	0.85	Charcot-Marie-Tooth disease, axonal, type 2S	OMIM:616155
+3	0.8	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+4	0.75	Spinocerebellar ataxia type 1	OMIM:164400
+5	0.7	Friedreich ataxia	OMIM:229300
+6	0.65	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+7	0.6	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+8	0.55	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+9	0.5	Neuropathy, hereditary sensory and autonomic, type IA	OMIM:162400
+10	0.45	Charcot-Marie-Tooth disease, type 4C	OMIM:601596

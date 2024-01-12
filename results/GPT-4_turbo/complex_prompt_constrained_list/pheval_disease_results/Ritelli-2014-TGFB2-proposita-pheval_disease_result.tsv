@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, kyphoscoliotic type, 2	OMIM:615349
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.75	Loeys-Dietz syndrome 1	OMIM:609192
+4	0.7	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+5	0.65	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+6	0.6	Ehlers-Danlos syndrome, periodontitis type, 1	OMIM:130080
+7	0.55	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+8	0.5	Brittle cornea syndrome 1	OMIM:229200
+9	0.45	Ehlers-Danlos syndrome, spondylodysplastic type, 3	OMIM:612350
+10	0.4	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508

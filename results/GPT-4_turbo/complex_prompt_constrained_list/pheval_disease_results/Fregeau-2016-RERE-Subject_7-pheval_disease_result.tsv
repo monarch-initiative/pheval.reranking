@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chromosome 16-related intellectual disability	OMIM:616211
+2	0.8	Shprintzen-Goldberg syndrome	OMIM:182212
+3	0.7	Ohdo syndrome, Maat-Kievit-Brunner type	OMIM:300895
+4	0.6	Hypotonia, infantile, with psychomotor retardation and characteristic facies	OMIM:616801
+4	0.6	Baraitser-Winter syndrome 1	OMIM:243310
+6	0.5	Coffin-Siris syndrome 4	OMIM:614609
+6	0.5	Wiedemann-Steiner syndrome	OMIM:605130
+8	0.4	Corpus callosum, agenesis of, with facial anomalies and Robin sequence	OMIM:607513
+8	0.4	Growth hormone deficiency, isolated, type II	OMIM:173100
+10	0.3	Aarskog-Scott syndrome	OMIM:305400

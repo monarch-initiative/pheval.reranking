@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiomyopathy, dilated, 1ff	OMIM:613254
+2	0.8	Atrial standstill 1	OMIM:108300
+3	0.75	Long QT syndrome 5	OMIM:613695
+4	0.7	Atrial fibrillation, familial, 10	OMIM:614022
+5	0.65	Cardiomyopathy, dilated, 1ee	OMIM:613252
+6	0.6	Heart block, nonprogressive	OMIM:113900
+7	0.55	Jervell and Lange-Nielsen syndrome 2	OMIM:612347
+8	0.5	Sick sinus syndrome 2, autosomal dominant	OMIM:163800
+9	0.45	Familial progressive cardiac conduction defect	OMIM:113900
+10	0.4	Cardiomyopathy, dilated, 1aa	OMIM:615373

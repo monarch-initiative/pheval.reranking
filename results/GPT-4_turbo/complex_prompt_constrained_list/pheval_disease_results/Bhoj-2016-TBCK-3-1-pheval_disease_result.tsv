@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rett syndrome, congenital variant	OMIM:312750
+2	0.82	Pitt-Hopkins syndrome	OMIM:610954
+3	0.8	Mowat-Wilson syndrome	OMIM:235730
+4	0.75	Coffin-Lowry syndrome	OMIM:303600
+5	0.73	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.72	Angelman syndrome	OMIM:105830
+7	0.7	Kleefstra syndrome 1	OMIM:610253
+8	0.68	Prader-Willi syndrome	OMIM:176270
+9	0.67	Cornelia de Lange syndrome 1	OMIM:122470
+10	0.66	CHARGE syndrome	OMIM:214800

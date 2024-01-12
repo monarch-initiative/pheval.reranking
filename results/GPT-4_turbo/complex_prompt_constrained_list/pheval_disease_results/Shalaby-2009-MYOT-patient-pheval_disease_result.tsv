@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, centronuclear, 1	OMIM:160150
+2	0.8	Myopathy, centronuclear, 3, autosomal recessive	OMIM:614408
+3	0.7	Muscular dystrophy, limb-girdle, type 2A	OMIM:253600
+4	0.6	Myopathy, myofibrillar, 1	OMIM:601419
+5	0.5	Muscular dystrophy, congenital, due to ITGA7 deficiency	OMIM:613204
+6	0.4	Myopathy, centronuclear, X-linked	OMIM:310400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris Syndrome 5	OMIM:616634
+2	0.8	Coffin-Siris Syndrome	OMIM:135900
+3	0.75	Cornelia de Lange Syndrome 1	OMIM:122470
+4	0.7	Noonan Syndrome 1	OMIM:163950
+5	0.65	Rubinstein-Taybi Syndrome 1	OMIM:180849
+6	0.6	Craniofrontonasal Syndrome	OMIM:304110
+6	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.55	Sotos Syndrome 1	OMIM:117550
+9	0.5	Saethre-Chotzen Syndrome	OMIM:101400
+10	0.45	Mowat-Wilson Syndrome	OMIM:235730

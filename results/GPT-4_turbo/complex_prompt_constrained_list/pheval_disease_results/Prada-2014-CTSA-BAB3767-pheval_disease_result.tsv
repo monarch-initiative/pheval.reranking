@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis Type IVa	OMIM:253000
+2	0.85	GM1 Gangliosidosis Type I	OMIM:230500
+3	0.8	Sialidosis Type II	OMIM:256550
+4	0.75	Fabry Disease	OMIM:301500
+5	0.7	Aspartylglucosaminuria	OMIM:208400
+6	0.65	Fucosidosis	OMIM:230000
+7	0.6	Galactosialidosis	OMIM:256540
+8	0.55	Cystinosis	OMIM:219800
+9	0.5	Mitochondrial DNA Depletion Syndrome 4B, MNGIE Type	OMIM:613662

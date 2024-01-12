@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive 5	OMIM:615190
+2	0.85	Shwachman-Diamond syndrome 1	OMIM:260400
+3	0.8	Cartilage-hair hypoplasia - anauxetic dysplasia spectrum disorders	OMIM:250250
+4	0.75	Poikiloderma with neutropenia	OMIM:604173
+5	0.7	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860

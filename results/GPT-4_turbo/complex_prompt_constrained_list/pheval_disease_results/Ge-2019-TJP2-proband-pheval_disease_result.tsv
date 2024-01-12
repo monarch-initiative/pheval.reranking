@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progressive familial intrahepatic cholestasis type 3	OMIM:602347
+2	0.8	Progressive familial intrahepatic cholestasis type 2	OMIM:601847
+2	0.8	Alagille syndrome 1	OMIM:118450
+4	0.7	Progressive familial intrahepatic cholestasis type 1	OMIM:211600
+4	0.7	Gilbert syndrome	OMIM:143500
+4	0.7	Dubin-Johnson syndrome	OMIM:237500
+7	0.6	Rotor syndrome	OMIM:237450
+7	0.6	Crigler-Najjar syndrome type 1	OMIM:218800
+7	0.6	Crigler-Najjar syndrome type 2	OMIM:606785
+10	0.5	Zellweger syndrome	OMIM:214100
+10	0.5	Neonatal ichthyosis-sclerosing cholangitis syndrome	OMIM:607626
+10	0.5	Bile acid synthesis defect, congenital, 3	OMIM:613812
+13	0.4	Bile acid synthesis defect, congenital, 2	OMIM:235555
+13	0.4	Cholestasis, intrahepatic, of pregnancy, 3	OMIM:614972
+13	0.4	Bile acid synthesis defect, congenital, 4	OMIM:214950

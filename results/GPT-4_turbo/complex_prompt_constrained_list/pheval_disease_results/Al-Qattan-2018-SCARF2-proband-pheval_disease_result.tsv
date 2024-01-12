@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Lipodystrophy Syndrome	OMIM:616914
+2	0.85	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+3	0.8	Geleophysic Dysplasia 2	OMIM:614185
+3	0.8	Shprintzen-Goldberg Syndrome	OMIM:182212
+5	0.75	Arthrogryposis, Renal Dysfunction, and Cholestasis 1	OMIM:208085
+6	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+7	0.65	Beals Syndrome	OMIM:121050
+8	0.6	Marden-Walker Syndrome	OMIM:248700
+8	0.6	Gorlin Syndrome	OMIM:109400
+10	0.55	Autosomal Recessive Cutis Laxa Type 2B	OMIM:612940

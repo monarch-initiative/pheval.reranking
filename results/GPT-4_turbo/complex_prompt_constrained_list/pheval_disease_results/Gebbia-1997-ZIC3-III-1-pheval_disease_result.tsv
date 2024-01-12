@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+2	0.85	Heterotaxy, visceral, 4, autosomal	OMIM:613751
+3	0.8	Heterotaxy, visceral, 7, autosomal	OMIM:616749
+4	0.75	Heterotaxy, visceral, 2, autosomal	OMIM:605376
+5	0.7	Heterotaxy, visceral, 5, autosomal	OMIM:270100
+6	0.65	Heterotaxy, visceral, 6, autosomal	OMIM:218330

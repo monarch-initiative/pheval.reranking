@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Job syndrome	OMIM:147060
+2	0.8	Griscelli syndrome	OMIM:214500
+3	0.7	Chediak-Higashi syndrome	OMIM:214500
+4	0.6	Hermansky-Pudlak syndrome	OMIM:203300
+4	0.6	Chronic granulomatous disease	OMIM:306400
+6	0.5	Selective IgA deficiency	OMIM:137000
+6	0.5	Hyper IgM immunodeficiency syndrome	OMIM:308230
+6	0.5	Common variable immunodeficiency	OMIM:607594
+9	0.4	Leukocyte adhesion deficiency	OMIM:116920
+9	0.4	Severe combined immunodeficiency	OMIM:102700

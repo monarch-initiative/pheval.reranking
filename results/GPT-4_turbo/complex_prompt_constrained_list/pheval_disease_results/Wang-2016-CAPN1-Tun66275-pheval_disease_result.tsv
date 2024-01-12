@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 11, autosomal recessive	OMIM:604187
+2	0.8	Spastic paraplegia 15, autosomal recessive	OMIM:270420
+3	0.75	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+4	0.7	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+5	0.65	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+6	0.6	Spastic paraplegia 2, X-linked	OMIM:312920
+7	0.55	Spastic paraplegia 31, autosomal dominant	OMIM:610250
+8	0.5	Cerebellar ataxia and spasticity with or without dysarthria	OMIM:108500
+9	0.45	Machado-Joseph disease	OMIM:109150
+10	0.4	Amyotrophic lateral sclerosis 10, with or without FTD	OMIM:612069

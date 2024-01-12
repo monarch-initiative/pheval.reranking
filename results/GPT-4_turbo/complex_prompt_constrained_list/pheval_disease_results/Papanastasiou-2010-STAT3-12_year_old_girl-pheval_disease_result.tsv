@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE recurrent infection syndrome, autosomal dominant	OMIM:147060
+2	0.85	Job syndrome	OMIM:147060
+3	0.8	Severe combined immunodeficiency due to DOCK8 deficiency	OMIM:611432
+4	0.75	Chronic granulomatous disease	OMIM:306400
+5	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.65	Hyper IgE recurrent infection syndrome, autosomal recessive	OMIM:243700
+7	0.6	Omenn syndrome	OMIM:603554
+8	0.55	DiGeorge syndrome	OMIM:188400
+9	0.5	CVID (Common variable immunodeficiency)	OMIM:607594
+10	0.45	Ataxia-telangiectasia	OMIM:208900

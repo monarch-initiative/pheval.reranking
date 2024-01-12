@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carnitine palmitoyltransferase II deficiency, lethal neonatal	OMIM:608836
+2	0.85	Pyruvate carboxylase deficiency	OMIM:266150
+3	0.7	Glutaric acidemia I	OMIM:231670
+4	0.65	Organic acidemia	OMIM:258920
+5	0.6	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201450
+6	0.55	Mitochondrial complex I deficiency	OMIM:252010
+7	0.5	Mitochondrial complex III deficiency	OMIM:124000
+8	0.45	Primary hyperammonemia	OMIM:237310
+9	0.4	Mitochondrial DNA depletion syndrome	OMIM:251880
+10	0.35	Proximal myopathy with extrapyramidal signs	OMIM:615673

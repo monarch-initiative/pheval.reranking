@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Congenital Disorder of Glycosylation, Type Ii	OMIM:212066
+2	0.9	Neutral Lipid Storage Disease with Myopathy	OMIM:610717
+3	0.8	Neutral Lipid Storage Disease with Ichthyosis	OMIM:275630
+4	0.7	Chanarin-Dorfman Syndrome	OMIM:275630
+5	0.6	Gaucher Disease, Type II	OMIM:230900
+6	0.5	Multiple Sulfatase Deficiency	OMIM:272200
+7	0.4	Gaucher Disease, Type I	OMIM:230800
+8	0.3	Gaucher Disease, Perinatal Lethal	OMIM:608013
+9	0.2	Carnitine Palmitoyltransferase II Deficiency, Lethal Neonatal	OMIM:608836
+10	0.1	Wolman Disease	OMIM:278000

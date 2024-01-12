@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myelodysplastic syndrome	OMIM:614286
+2	0.85	Congenital dyserythropoietic anemia	OMIM:224120
+3	0.8	Megaloblastic anemia-1, Finnish type	OMIM:261100
+4	0.75	Thrombocytopenia-absent radius syndrome	OMIM:274000
+5	0.7	Fanconi anemia	OMIM:227650
+6	0.65	Diamond-Blackfan anemia	OMIM:105650
+7	0.6	Shwachman-Diamond syndrome	OMIM:260400
+8	0.55	Dyskeratosis congenita	OMIM:127550
+9	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+9	0.5	Acute myeloid leukemia	OMIM:601626

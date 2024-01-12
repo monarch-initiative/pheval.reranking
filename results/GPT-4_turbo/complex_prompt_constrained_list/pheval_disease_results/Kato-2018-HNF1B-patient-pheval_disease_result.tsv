@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diabetes mellitus, type 1	OMIM:222100
+2	0.8	Diabetes mellitus, transient neonatal, 3	OMIM:610582
+3	0.7	Maturity-onset diabetes of the young, type 1	OMIM:125850
+4	0.6	Maturity-onset diabetes of the young, type 2	OMIM:125851
+5	0.5	Diabetes mellitus, insulin-dependent, 20	OMIM:612520

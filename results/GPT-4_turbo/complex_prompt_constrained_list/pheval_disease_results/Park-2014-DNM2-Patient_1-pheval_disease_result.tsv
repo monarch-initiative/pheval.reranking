@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, myofibrillar, 1	OMIM:601419
+2	0.85	Myopathy, myofibrillar, 4	OMIM:609200
+3	0.8	Myopathy, distal, 1	OMIM:160500
+4	0.75	Myopathy, centronuclear, 1	OMIM:160150
+5	0.7	Myopathy, centronuclear, 3	OMIM:614408

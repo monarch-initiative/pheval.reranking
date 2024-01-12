@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema	OMIM:300301
+2	0.8	Hypotrichosis Simplex	OMIM:146520
+3	0.7	Cranioectodermal Dysplasia	OMIM:218330
+4	0.6	Lymphedema-Distichiasis Syndrome with Renal Disease and Diabetes Mellitus	OMIM:153400
+5	0.5	Osteopetrosis with Renal Tubular Acidosis	OMIM:259730
+6	0.4	Rapp-Hodgkin Syndrome	OMIM:129400

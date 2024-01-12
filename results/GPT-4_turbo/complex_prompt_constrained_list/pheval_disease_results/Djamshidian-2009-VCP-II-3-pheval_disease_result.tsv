@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	OMIM:167320
+2	0.7	Hypophosphatasia, adult	OMIM:146300
+3	0.6	Distal myopathies	OMIM:601419

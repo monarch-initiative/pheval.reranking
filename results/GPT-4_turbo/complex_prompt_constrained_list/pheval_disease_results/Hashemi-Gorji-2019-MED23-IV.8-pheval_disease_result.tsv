@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic paraplegia 47, autosomal recessive	OMIM:614066
+2	0.8	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+4	0.7	2-methyl-3-hydroxybutyric aciduria	OMIM:300438
+4	0.7	Pitt-Hopkins syndrome	OMIM:610954
+4	0.7	MECP2 duplication syndrome	OMIM:300260
+4	0.7	Mowat-Wilson syndrome	OMIM:235730
+8	0.6	PEHO syndrome	OMIM:260565
+8	0.6	Lissencephaly 1	OMIM:607432
+8	0.6	X-linked lissencephaly	OMIM:300067

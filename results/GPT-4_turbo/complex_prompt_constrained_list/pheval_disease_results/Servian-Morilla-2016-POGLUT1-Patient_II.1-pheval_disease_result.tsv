@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy-dystroglycanopathy type C5	OMIM:606612
+2	0.85	Muscular dystrophy-dystroglycanopathy type A5	OMIM:613153
+3	0.8	Limb-girdle muscular dystrophy, type 2L	OMIM:611307
+4	0.75	Bethlem myopathy 1	OMIM:158810
+5	0.7	Muscular dystrophy-dystroglycanopathy type B5	OMIM:606612
+6	0.65	Limb-girdle muscular dystrophy, type 1B	OMIM:159001
+7	0.6	Myofibrillar myopathy, ZASP-related	OMIM:609452

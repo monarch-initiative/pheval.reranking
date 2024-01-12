@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Weill-Marchesani Syndrome 2	OMIM:608328
+2	0.8	Marfan Syndrome	OMIM:154700
+3	0.7	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+4	0.6	Homocystinuria	OMIM:236200
+5	0.5	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+5	0.5	Loeys-Dietz 1A	OMIM:609192
+5	0.5	Loeys-Dietz 1B	OMIM:610168

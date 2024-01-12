@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Left ventricular noncompaction 10	OMIM:615087
+2	0.88	Left ventricular noncompaction 8	OMIM:615373
+3	0.85	Emery-Dreifuss muscular dystrophy 7, autosomal dominant	OMIM:616516
+4	0.8	Familial hypertrophic cardiomyopathy 1	OMIM:192600
+5	0.79	Cardiomyopathy, dilated, 1AA, with or without left ventricular noncompaction	OMIM:615235
+6	0.77	Left ventricular noncompaction 6	OMIM:601494
+7	0.76	Left ventricular noncompaction 9	OMIM:611878
+8	0.75	Cardiomyopathy, dilated, 1GG	OMIM:613642
+9	0.72	Barth syndrome	OMIM:302060
+10	0.7	Cardiomyopathy, familial hypertrophic, 20	OMIM:613876

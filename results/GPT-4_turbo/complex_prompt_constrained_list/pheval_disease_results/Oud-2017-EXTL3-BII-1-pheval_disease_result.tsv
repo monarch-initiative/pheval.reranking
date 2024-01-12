@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-hair hypoplasia	OMIM:250250
+2	0.85	Schimke Immunoosseous Dysplasia	OMIM:242900
+3	0.8	Mulibrey nanism	OMIM:253250
+4	0.75	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	OMIM:602450
+5	0.7	Roifman Syndrome	OMIM:616651
+6	0.65	Dubowitz syndrome	OMIM:223370
+7	0.6	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+8	0.55	Nijmegen breakage syndrome	OMIM:251260
+9	0.5	LIG4 syndrome	OMIM:606593
+10	0.45	Cockayne syndrome type A	OMIM:216400

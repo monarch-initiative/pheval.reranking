@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal muscular atrophy, Type I	OMIM:253300
+2	0.8	Pompe disease	OMIM:232300
+3	0.75	Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency	OMIM:608930
+4	0.7	Prader-Willi syndrome	OMIM:176270
+5	0.65	Myotonic dystrophy type 1	OMIM:160900
+6	0.6	Duchenne muscular dystrophy	OMIM:310200
+7	0.55	Becker muscular dystrophy	OMIM:300376
+8	0.5	Mitochondrial myopathy	OMIM:000000
+9	0.45	Infantile neuroaxonal dystrophy	OMIM:256600
+10	0.4	Rett syndrome	OMIM:312750
+11	0.35	Werdnig-Hoffmann disease	OMIM:253300

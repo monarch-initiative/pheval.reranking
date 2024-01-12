@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease, type 2B1	OMIM:605282
+2	0.8	Spinal muscular atrophy, lower extremity-predominant 2, autosomal dominant	OMIM:615291
+3	0.7	Bethlem myopathy 1	OMIM:158810
+4	0.6	Ehlers-Danlos syndrome, classic type	OMIM:130000
+5	0.5	Dysferlinopathy	OMIM:606768

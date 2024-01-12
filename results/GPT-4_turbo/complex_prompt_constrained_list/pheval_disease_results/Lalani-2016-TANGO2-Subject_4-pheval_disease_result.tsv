@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, Centronuclear, 1	OMIM:160150
+2	0.8	Thyroid Hormone Metabolism, Abnormal	OMIM:609698
+3	0.75	Myopathy, Myotubular, X-Linked	OMIM:310400
+4	0.7	Glycogen Storage Disease Type V	OMIM:232600
+5	0.65	Long QT Syndrome	OMIM:192500
+6	0.6	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+7	0.55	Periodic Paralysis, Hyperkalemic	OMIM:170500
+8	0.5	Mitochondrial Complex I Deficiency	OMIM:252010

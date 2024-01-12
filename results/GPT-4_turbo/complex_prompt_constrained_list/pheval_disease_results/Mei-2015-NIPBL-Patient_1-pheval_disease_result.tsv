@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.9	Cornelia de Lange syndrome 3	OMIM:610759
+3	0.85	Cornelia de Lange syndrome 2	OMIM:300590
+4	0.8	Mowat-Wilson syndrome	OMIM:235730
+5	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.7	Coffin-Siris syndrome	OMIM:135900
+7	0.65	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.6	Wiedemann-Steiner syndrome	OMIM:605130
+9	0.55	Williams syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Early Infantile Epileptic Encephalopathy	OMIM:308350
+2	0.85	2-Hydroxyglutaricaciduria	OMIM:600721
+3	0.8	Aromatic L-Amino Acid Decarboxylase Deficiency	OMIM:608643
+4	0.75	Leigh Syndrome	OMIM:256000
+5	0.7	Severe Myoclonic Epilepsy of Infancy	OMIM:607208
+5	0.7	Glutaricaciduria, Type 1	OMIM:231670
+7	0.65	Pyridoxine-Dependent Epilepsy	OMIM:266100
+8	0.6	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470
+8	0.6	Pontocerebellar Hypoplasia, Type 2B	OMIM:612389
+10	0.55	X-Linked Creatine Deficiency	OMIM:300352

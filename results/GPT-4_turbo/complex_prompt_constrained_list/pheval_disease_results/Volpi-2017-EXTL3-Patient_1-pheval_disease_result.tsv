@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia with joint laxity, type 2	OMIM:603546
+2	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.7	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605946
+4	0.65	Schimke immunoosseous dysplasia	OMIM:242900
+5	0.6	Spondyloepimetaphyseal dysplasia with multiple dislocations	OMIM:603546
+6	0.55	Greenberg dysplasia	OMIM:215140
+7	0.5	Chondrodysplasia punctata, X-linked recessive	OMIM:302950
+8	0.45	Asphyxiating thoracic dystrophy 1	OMIM:208500
+9	0.4	Diastrophic dysplasia	OMIM:222600
+10	0.35	Ellis-van Creveld syndrome	OMIM:225500

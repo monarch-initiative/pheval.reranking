@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency due to ADA deficiency	OMIM:102700
+2	0.8	Hemophagocytic lymphohistiocytosis, familial, 2	OMIM:603553
+3	0.7	Griscelli syndrome, type 2	OMIM:607624
+4	0.6	Chediak-Higashi syndrome	OMIM:214500
+5	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.4	Hyper IgM immunodeficiency syndrome, type 1	OMIM:308230
+7	0.3	Chronic granulomatous disease	OMIM:306400
+8	0.2	Leukocyte adhesion deficiency, type I	OMIM:116920
+9	0.1	X-linked agammaglobulinemia	OMIM:300755
+10	0.05	X-linked lymphoproliferative disease	OMIM:308240

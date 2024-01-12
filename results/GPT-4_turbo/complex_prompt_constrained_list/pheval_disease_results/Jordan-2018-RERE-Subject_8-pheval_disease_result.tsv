@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.7	Treacher Collins syndrome 1	OMIM:154500
+4	0.6	Trisomy 18	OMIM:190685
+5	0.5	Trisomy 13	OMIM:267000

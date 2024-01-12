@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sensorineural hearing impairment, autosomal recessive 1	OMIM:220290
+2	0.85	Usher syndrome, type 1F	OMIM:602083
+3	0.8	Pendred syndrome	OMIM:274600
+4	0.75	Usher syndrome, type 1D	OMIM:601067
+5	0.7	Usher syndrome, type 1C	OMIM:276904
+6	0.65	Usher syndrome, type 2A	OMIM:276901
+7	0.6	Waardenburg syndrome, type II	OMIM:193510
+8	0.55	Waardenburg syndrome, type III	OMIM:148820
+9	0.5	Usher syndrome, type 3A	OMIM:276902
+10	0.45	Branchiootorenal syndrome 1	OMIM:113650

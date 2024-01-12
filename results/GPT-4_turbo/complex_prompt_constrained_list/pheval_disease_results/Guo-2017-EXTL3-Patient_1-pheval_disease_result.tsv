@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Haim-Munk syndrome	OMIM:245010
+2	0.85	Pfeiffer syndrome	OMIM:101600
+3	0.8	Metatropic dysplasia	OMIM:156530
+3	0.8	Schwartz-Jampel syndrome, type 1	OMIM:255800
+5	0.75	Greenberg dysplasia	OMIM:215140
+6	0.7	Coffin-Siris syndrome	OMIM:135900
+7	0.65	Morquio syndrome B	OMIM:253010
+8	0.6	Arthrogryposis multiplex congenita	OMIM:108120
+8	0.6	Asphyxiating thoracic dystrophy	OMIM:208500
+10	0.55	Dyggve-Melchior-Clausen syndrome	OMIM:223800

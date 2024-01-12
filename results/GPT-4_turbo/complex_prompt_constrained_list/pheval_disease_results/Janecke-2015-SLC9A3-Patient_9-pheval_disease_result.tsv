@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Chloride Diarrhea	OMIM:214700
+2	0.8	Microvillus Inclusion Disease	OMIM:251850
+3	0.7	Sodium diarrhea, congenital	OMIM:270420

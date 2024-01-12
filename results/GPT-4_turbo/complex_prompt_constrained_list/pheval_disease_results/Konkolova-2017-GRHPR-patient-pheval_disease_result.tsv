@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria type 1	OMIM:259900
+2	0.85	Primary hyperoxaluria type 2	OMIM:260000
+3	0.8	Primary hyperoxaluria type 3	OMIM:613616
+4	0.75	Dent disease 1	OMIM:300009
+5	0.7	Dent disease 2	OMIM:300555
+6	0.65	Familial hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement	OMIM:248190

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bernard-Soulier syndrome, type A1	OMIM:231200
+2	0.85	Bernard-Soulier syndrome, type B	OMIM:153670
+3	0.8	Bernard-Soulier syndrome, type C	OMIM:262850
+4	0.75	MYH9-related thrombocytopenia	OMIM:605249
+5	0.7	Platelet-type bleeding disorder 17	OMIM:187900
+6	0.65	Thrombocytopenia 2	OMIM:188000
+7	0.6	Wiskott-Aldrich syndrome	OMIM:301000

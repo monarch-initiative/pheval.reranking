@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.8	Hereditary Elliptocytosis	OMIM:611804
+3	0.7	G6PD Deficiency	OMIM:305900
+4	0.6	Pyruvate Kinase Deficiency	OMIM:266200
+5	0.5	Autoimmune Hemolytic Anemia	OMIM:609135
+6	0.4	Sickle Cell Anemia	OMIM:603903
+7	0.3	Thalassemia	OMIM:613985
+8	0.2	Hereditary Stomatocytosis	OMIM:194380
+9	0.1	Anemia, Congenital Dyserythropoietic, Type II	OMIM:224100

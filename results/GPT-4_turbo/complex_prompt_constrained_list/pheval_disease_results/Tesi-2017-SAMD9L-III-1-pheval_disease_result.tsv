@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia, autosomal recessive 13	OMIM:614831
+2	0.85	Episodic ataxia type 6	OMIM:612656
+2	0.85	Immunoglobulin deficiency, selective	OMIM:137100
+4	0.8	Ataxia-telangiectasia	OMIM:208900
+5	0.75	Common variable immunodeficiency	OMIM:607594
+6	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.6	Severe combined immunodeficiency, autosomal recessive	OMIM:102700
+8	0.55	X-linked agammaglobulinemia	OMIM:300755

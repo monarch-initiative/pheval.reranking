@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia 2	OMIM:188000
+2	0.8	Thrombocytopenia 3	OMIM:614009
+3	0.7	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+4	0.6	MYH9-Related Disorders	OMIM:160775
+5	0.5	Thrombocytopenia 1	OMIM:313900
+6	0.4	Thrombocytopenia 4	OMIM:612004

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	Townes-Brocks syndrome	OMIM:107480
+3	0.7	Branchiootorenal syndrome	OMIM:113650
+4	0.6	DiGeorge syndrome	OMIM:188400
+5	0.5	VACTERL association	OMIM:192350
+6	0.4	Noonan syndrome	OMIM:163950
+6	0.4	22q11.2 deletion syndrome	OMIM:611867
+8	0.3	Mowat-Wilson syndrome	OMIM:235730
+9	0.2	Stickler syndrome	OMIM:108300
+10	0.1	Treacher Collins syndrome	OMIM:154500

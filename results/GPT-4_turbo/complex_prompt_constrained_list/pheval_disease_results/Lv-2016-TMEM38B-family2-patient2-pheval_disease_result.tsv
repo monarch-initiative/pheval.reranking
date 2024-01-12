@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta, type I	OMIM:166200
+2	0.85	Osteogenesis imperfecta, type III	OMIM:259420
+3	0.8	Osteogenesis imperfecta, type IV	OMIM:166220
+4	0.75	Osteopetrosis, autosomal recessive 1	OMIM:259700
+5	0.7	Osteopenia and sparse hair	OMIM:259775
+6	0.65	Pyle disease	OMIM:265900

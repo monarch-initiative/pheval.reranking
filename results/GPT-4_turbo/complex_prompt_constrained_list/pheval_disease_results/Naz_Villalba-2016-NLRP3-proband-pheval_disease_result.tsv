@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Behcet Syndrome	OMIM:109650
+2	0.85	Cryopyrin-Associated Periodic Syndromes	OMIM:260920
+3	0.8	Hypocomplementemic Urticarial Vasculitis	OMIM:191900
+4	0.75	Systemic Lupus Erythematosus	OMIM:152700
+5	0.7	Adult-Onset Still Disease	OMIM:604302
+6	0.65	Granulomatosis with Polyangiitis	OMIM:608710
+7	0.6	Temporal Arteritis	OMIM:187360
+8	0.55	Polyarteritis Nodosa	OMIM:615688
+9	0.5	Cogan Syndrome	OMIM:212850
+10	0.45	Giant Cell Arteritis	OMIM:187360

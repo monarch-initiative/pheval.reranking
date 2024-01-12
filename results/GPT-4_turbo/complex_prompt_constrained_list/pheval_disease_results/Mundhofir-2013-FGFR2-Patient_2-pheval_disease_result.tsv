@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer syndrome	OMIM:101600
+2	0.8	Saethre-Chotzen syndrome	OMIM:101400
+3	0.7	Carpenter syndrome	OMIM:201000
+4	0.6	Apert syndrome	OMIM:101200
+5	0.5	Jackson-Weiss syndrome	OMIM:123150
+6	0.4	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+7	0.3	Muenke syndrome	OMIM:602849

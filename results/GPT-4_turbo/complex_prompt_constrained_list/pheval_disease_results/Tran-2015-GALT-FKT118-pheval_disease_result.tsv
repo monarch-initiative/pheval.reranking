@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase	OMIM:230400
+2	0.85	Classic galactosemia	OMIM:230400
+2	0.85	Galactose epimerase deficiency	OMIM:230350
+4	0.8	Crigler-Najjar syndrome, type I	OMIM:218800
+5	0.75	Dubin-Johnson syndrome	OMIM:237500
+6	0.7	Rotor syndrome	OMIM:237450
+7	0.65	Gilbert syndrome	OMIM:143500

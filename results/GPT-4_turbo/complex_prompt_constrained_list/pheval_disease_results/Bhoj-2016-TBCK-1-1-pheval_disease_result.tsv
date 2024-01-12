@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+2	0.8	Congenital Disorder of Glycosylation, Type Ia	OMIM:212065
+2	0.8	Coffin-Siris Syndrome 2	OMIM:614607
+4	0.7	Schinzel-Giedion Midface Retraction Syndrome	OMIM:269150
+4	0.7	Rett Syndrome	OMIM:312750
+6	0.6	Mowat-Wilson Syndrome	OMIM:235730
+6	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.6	Cornelia De Lange Syndrome 1	OMIM:122470
+9	0.5	Aicardi-Goutieres Syndrome 1	OMIM:225750
+9	0.5	West Syndrome	OMIM:308350

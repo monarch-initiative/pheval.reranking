@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.9	Leigh syndrome	OMIM:256000
+3	0.8	Metachromatic leukodystrophy	OMIM:250100
+4	0.7	Canavan disease	OMIM:271900
+5	0.6	Krabbe disease	OMIM:245200
+6	0.5	Alexander disease	OMIM:203450
+7	0.4	3-phosphoglycerate dehydrogenase deficiency	OMIM:601815
+8	0.3	X-linked Adrenoleukodystrophy	OMIM:300100
+9	0.2	Zellweger syndrome	OMIM:214100
+10	0.1	Mucopolysaccharidosis type III (Sanfilippo syndrome)	OMIM:252900

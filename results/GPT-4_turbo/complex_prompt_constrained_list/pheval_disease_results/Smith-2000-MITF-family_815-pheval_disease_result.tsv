@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome, type 2A	OMIM:193510
+2	0.8	Waardenburg syndrome, type 1	OMIM:193500
+3	0.7	Piebaldism	OMIM:172800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniofrontonasal Syndrome	OMIM:304110
+2	0.8	Cornelia de Lange Syndrome 1	OMIM:122470
+3	0.7	Baraitser-Winter Syndrome 1	OMIM:243310
+4	0.6	Fryns Syndrome	OMIM:229850
+5	0.5	Jacobsen Syndrome	OMIM:147791
+6	0.4	Kabuki Syndrome 1	OMIM:147920
+7	0.3	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.3	Coffin-Siris Syndrome	OMIM:135900
+7	0.3	Lujan-Fryns Syndrome	OMIM:309520
+10	0.2	Mowat-Wilson Syndrome	OMIM:235730

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	GM1 Gangliosidosis Type 1	OMIM:230500
+2	0.9	GM1 Gangliosidosis Type 2	OMIM:230600
+3	0.85	GM1 Gangliosidosis Type 3	OMIM:230650
+4	0.8	Tay-Sachs Disease	OMIM:272800
+5	0.75	Sandhoff Disease	OMIM:268800
+6	0.7	Mucolipidosis Type IV	OMIM:252650
+7	0.65	Gaucher Disease Type 1	OMIM:230800
+8	0.6	Gaucher Disease Type II	OMIM:230900
+9	0.55	Gaucher Disease Type III	OMIM:231000
+10	0.5	Sialidosis Type 1	OMIM:256550

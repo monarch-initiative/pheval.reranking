@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Muscular Dystrophy-Dystroglycanopathy Type A5	OMIM:613153
+2	0.85	Congenital Muscular Dystrophy-Dystroglycanopathy Type A14	OMIM:615249
+3	0.8	Emery-Dreifuss Muscular Dystrophy 1	OMIM:310300
+4	0.75	Becker Muscular Dystrophy	OMIM:300376
+5	0.7	Muscular Dystrophy-Dystroglycanopathy (Limb-Girdle), Type C, 14	OMIM:616345
+6	0.65	Autosomal Recessive Limb-Girdle Muscular Dystrophy Type 2A	OMIM:253600
+7	0.6	Autosomal Recessive Limb-Girdle Muscular Dystrophy Type 2I	OMIM:607155
+8	0.55	Spinal Muscular Atrophy, Type I	OMIM:253300
+9	0.5	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+10	0.45	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210

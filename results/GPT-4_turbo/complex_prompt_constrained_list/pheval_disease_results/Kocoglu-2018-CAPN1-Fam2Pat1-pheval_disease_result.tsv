@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 3	OMIM:109150
+2	0.85	Spinocerebellar ataxia 1	OMIM:164400
+3	0.8	Spinocerebellar ataxia 2	OMIM:183090
+4	0.75	Spinocerebellar ataxia 6	OMIM:183086
+5	0.7	Spinocerebellar ataxia 7	OMIM:164500
+6	0.65	Spinocerebellar ataxia 10	OMIM:603516
+7	0.6	Friedreich ataxia	OMIM:229300
+8	0.55	Ataxia-telangiectasia	OMIM:208900
+9	0.5	Episodic ataxia, type 2	OMIM:108500
+10	0.45	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550

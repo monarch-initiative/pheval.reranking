@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.85	Congenital disorders of glycosylation, type I	OMIM:212065
+3	0.8	Cholesterol ester storage disease	OMIM:278000
+4	0.75	Gilbert syndrome	OMIM:143500
+5	0.7	Progressive familial intrahepatic cholestasis	OMIM:211600
+6	0.65	Dubin-Johnson syndrome	OMIM:237500
+7	0.6	Non-alcoholic fatty liver disease	OMIM:613282
+8	0.55	Citrullinemia, type II	OMIM:605814
+9	0.5	Alpha-1-antitrypsin deficiency	OMIM:107400
+10	0.45	Hepatocellular carcinoma	OMIM:114550

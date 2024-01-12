@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cardiomyopathy, dilated, 1AA, with or without left ventricular noncompaction	OMIM:615235
+2	0.9	Cardiomyopathy, dilated, 1EE	OMIM:613252
+3	0.8	Cardiomyopathy, dilated, 1BB	OMIM:612877
+4	0.7	Cardiomyopathy, dilated, 1GG	OMIM:604145
+5	0.6	Cardiomyopathy, dilated, 1HH	OMIM:613876
+6	0.5	Cardiomyopathy, dilated, 1II	OMIM:615184
+7	0.4	Cardiomyopathy, dilated, 1JJ	OMIM:615373
+8	0.3	Cardiomyopathy, dilated, 1KK	OMIM:615396
+9	0.2	Cardiomyopathy, dilated, 1C	OMIM:601494
+10	0.1	Cardiomyopathy, dilated, 1MM	OMIM:615916

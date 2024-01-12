@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.8	Loeys-Dietz syndrome 1	OMIM:609192
+3	0.8	Loeys-Dietz syndrome 2	OMIM:610168
+3	0.8	Loeys-Dietz syndrome 3	OMIM:613795
+3	0.8	Loeys-Dietz syndrome 4	OMIM:614816
+7	0.75	Cutis laxa, autosomal dominant 2	OMIM:614434
+7	0.75	Cutis laxa, autosomal recessive, type IA	OMIM:219100
+7	0.75	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+7	0.75	Cutis laxa, autosomal recessive, type IIIA	OMIM:219150

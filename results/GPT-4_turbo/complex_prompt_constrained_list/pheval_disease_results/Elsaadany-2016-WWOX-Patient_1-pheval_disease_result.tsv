@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.85	Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)	OMIM:245400
+3	0.8	Leber hereditary optic neuropathy	OMIM:535000
+4	0.75	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+5	0.7	Kearns-Sayre syndrome	OMIM:530000
+6	0.65	Glutaric acidemia type I	OMIM:231670
+7	0.6	Methylmalonic aciduria and homocystinuria, cblC type	OMIM:277400
+8	0.55	Canavan disease	OMIM:271900
+9	0.5	Vanishing white matter disease	OMIM:603896
+10	0.45	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+11	0.4	Alexander disease	OMIM:203450
+12	0.35	Maple syrup urine disease	OMIM:248600
+13	0.3	Wolfram syndrome	OMIM:222300
+14	0.25	Pelizaeus-Merzbacher disease	OMIM:312080
+15	0.2	Zellweger syndrome	OMIM:214100

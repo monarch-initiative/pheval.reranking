@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+2	0.85	Cutis Laxa, Autosomal Recessive, Type IIIA	OMIM:219150
+3	0.75	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.7	Ehlers-Danlos Syndrome, Type VI	OMIM:225400
+5	0.65	Geroderma Osteodysplastica	OMIM:231070
+6	0.6	De Barsy Syndrome	OMIM:219150
+7	0.55	Marfan Syndrome	OMIM:154700
+8	0.5	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+9	0.45	Larsen Syndrome	OMIM:150250
+10	0.4	Progeroid Syndrome, Neonatal	OMIM:264090

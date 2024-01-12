@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1	OMIM:603387
+2	0.85	Rett syndrome	OMIM:312750
+2	0.85	2-hydroxyglutaric aciduria	OMIM:236792
+2	0.85	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+2	0.85	Glucose transporter type 1 deficiency syndrome	OMIM:606777
+2	0.85	Angelman syndrome	OMIM:105830
+2	0.85	Prader-Willi syndrome	OMIM:176270
+9	0.8	Dysequilibrium syndrome	OMIM:224050
+9	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400

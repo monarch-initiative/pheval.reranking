@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.85	Cornelia de Lange Syndrome	OMIM:122470
+3	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.75	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+5	0.7	CHARGE Syndrome	OMIM:214800
+6	0.65	Barber-Say Syndrome	OMIM:209885
+7	0.6	Wiedemann-Steiner Syndrome	OMIM:605130
+8	0.55	Craniofacial-Deafness-Hand Syndrome	OMIM:122880
+9	0.5	Gorlin Syndrome	OMIM:109400
+10	0.45	3MC Syndrome	OMIM:257920

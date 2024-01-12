@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Peroxisome biogenesis disorder 1B	OMIM:601539
+3	0.7	Mucolipidosis III Gamma	OMIM:252605

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital Disorders of Glycosylation, Type Ia	OMIM:212065
+2	0.8	Congenital Disorders of Glycosylation, Type Ib	OMIM:602579
+3	0.75	Congenital Disorders of Glycosylation, Type Ic	OMIM:603147
+4	0.7	Congenital Disorders of Glycosylation, Type Id	OMIM:601110
+5	0.65	Congenital Disorders of Glycosylation, Type Ie	OMIM:608799
+6	0.6	Congenital Disorders of Glycosylation, Type If	OMIM:609180
+7	0.55	Congenital Disorders of Glycosylation, Type Ig	OMIM:607143
+8	0.5	Congenital Disorders of Glycosylation, Type Ih	OMIM:608104
+9	0.45	Congenital Disorders of Glycosylation, Type Ii	OMIM:212066
+10	0.4	Congenital Disorders of Glycosylation, Type Ij	OMIM:608093

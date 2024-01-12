@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lambert-Eaton Myasthenic Syndrome	OMIM:601462
+2	0.8	Familial Dysautonomia	OMIM:223900
+3	0.7	Multiple System Atrophy	OMIM:146500
+4	0.6	Rippling Muscle Disease 2	OMIM:617336
+5	0.5	Anhidrosis, Isolated, With Normal Sweat Glands	OMIM:106190
+6	0.4	Geroderma Osteodysplasticum	OMIM:231070
+7	0.3	Peripheral Neuropathy, Myopathy, Hoarseness, And Hearing Loss	OMIM:614369

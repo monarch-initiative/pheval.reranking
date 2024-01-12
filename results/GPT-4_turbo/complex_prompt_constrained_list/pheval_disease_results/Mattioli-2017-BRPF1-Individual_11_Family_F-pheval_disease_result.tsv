@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism, susceptibility to, 18	OMIM:615032
+2	0.8	Mental retardation and microcephaly with pontine and cerebellar hypoplasia	OMIM:300749
+2	0.8	Autosomal recessive intellectual developmental disorder 22	OMIM:607681
+4	0.7	Mental retardation, autosomal dominant 19	OMIM:615075
+4	0.7	Cohen syndrome	OMIM:216550
+6	0.6	Pitt-Hopkins syndrome	OMIM:610954
+6	0.6	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.5	Mabry syndrome	OMIM:239300
+8	0.5	Angelman syndrome	OMIM:105830
+8	0.5	Rett syndrome, congenital variant	OMIM:312750

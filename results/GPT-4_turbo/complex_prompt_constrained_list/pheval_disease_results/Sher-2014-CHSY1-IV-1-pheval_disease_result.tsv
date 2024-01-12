@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tricho-rhino-phalangeal syndrome, type I	OMIM:190350
+2	0.85	Oral-facial-digital syndrome, type I	OMIM:311200
+3	0.8	Coffin-Lowry syndrome	OMIM:303600
+4	0.7	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.6	Wolf-Hirschhorn syndrome	OMIM:194190
+6	0.55	Townes-Brocks syndrome 1	OMIM:107480
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.45	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.4	Ellis-van Creveld syndrome	OMIM:225500
+10	0.35	CHARGE syndrome	OMIM:214800

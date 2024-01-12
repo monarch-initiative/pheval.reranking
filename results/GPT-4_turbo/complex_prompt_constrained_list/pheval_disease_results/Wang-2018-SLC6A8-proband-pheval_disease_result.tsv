@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency syndrome, X-linked	OMIM:300352
+2	0.8	Autism, susceptibility to, X-linked 3	OMIM:300496
+3	0.7	Mental retardation, X-linked	OMIM:300423
+4	0.6	Intestinal pseudoobstruction neuronal chronic idiopathic X-linked	OMIM:300048
+5	0.5	Rett syndrome	OMIM:312750

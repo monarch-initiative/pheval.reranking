@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.7	Hereditary Hemochromatosis	OMIM:235200
+4	0.6	Primary Biliary Cirrhosis	OMIM:109720
+5	0.5	Nonalcoholic Fatty Liver Disease	OMIM:613282
+6	0.4	Glycogen Storage Disease Type I	OMIM:232200
+7	0.3	Galactosemia	OMIM:230400
+8	0.2	Tyrosinemia Type I	OMIM:276700
+9	0.1	Citrullinemia Type I	OMIM:215700

@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple Endocrine Neoplasia, Type IIA	OMIM:171400
+2	0.8	Multiple Endocrine Neoplasia, Type IIB	OMIM:162300
+3	0.7	Medullary Thyroid Carcinoma, Familial	OMIM:155240

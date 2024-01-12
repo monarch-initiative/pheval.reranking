@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Laurence-Moon Syndrome	OMIM:245800
+3	0.7	Leber Congenital Amaurosis	OMIM:204000
+4	0.6	Retinitis Pigmentosa	OMIM:268000
+5	0.5	Cohen Syndrome	OMIM:216550

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+2	0.85	Long QT Syndrome 1	OMIM:192500
+3	0.8	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+4	0.75	Myopathic Form Glycogen Storage Disease II	OMIM:232300
+5	0.7	Mitochondrial Complex I Deficiency	OMIM:252010
+6	0.65	Myoadenylate Deaminase Deficiency	OMIM:615511
+7	0.6	Glycogen Storage Disease Type III	OMIM:232400
+8	0.55	Glycogen Storage Disease Type V	OMIM:232600
+9	0.5	Malignant Hyperthermia Susceptibility	OMIM:145600
+10	0.45	Andersen-Tawil Syndrome	OMIM:170390

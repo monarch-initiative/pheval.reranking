@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Gorlin Chaudhry Moss Syndrome	OMIM:233500
+3	0.75	Craniofacial-deafness-hand syndrome	OMIM:122880
+3	0.75	Hallermann-Streiff syndrome	OMIM:234100
+5	0.7	Pyknodysostosis	OMIM:265800
+6	0.65	Osteoglophonic dysplasia	OMIM:166250
+7	0.6	Pfeiffer syndrome	OMIM:101600
+7	0.6	Saethre-Chotzen syndrome	OMIM:101400
+9	0.55	Acrocephalosyndactyly, Apert type	OMIM:101200
+10	0.5	Mandibuloacral dysplasia with type B lipodystrophy	OMIM:608612

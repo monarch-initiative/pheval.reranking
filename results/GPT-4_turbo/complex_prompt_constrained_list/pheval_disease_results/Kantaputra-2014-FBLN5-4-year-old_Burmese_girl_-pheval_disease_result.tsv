@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:612940
+2	0.8	Cutis Laxa, Autosomal Dominant	OMIM:123700
+3	0.7	Cutis Laxa, Autosomal Recessive, Type IIIA	OMIM:219150
+4	0.6	Cutis Laxa, Autosomal Recessive, Type IA	OMIM:219100
+5	0.5	Geleophysic Dysplasia 2	OMIM:614185
+6	0.4	Loeys-Dietz Syndrome 1	OMIM:609192
+7	0.3	Marfan Syndrome	OMIM:154700
+8	0.2	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

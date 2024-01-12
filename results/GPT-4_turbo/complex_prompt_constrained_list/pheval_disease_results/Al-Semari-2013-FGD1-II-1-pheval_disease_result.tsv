@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome 1	OMIM:163950
+2	0.82	LEOPARD syndrome 1	OMIM:151100
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.78	Ehlers-Danlos syndrome, classical type	OMIM:130000
+5	0.75	Prader-Willi syndrome	OMIM:176270

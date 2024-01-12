@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mucopolysaccharidosis, MPS-III-D	OMIM:252940
+2	0.82	Mucopolysaccharidosis Type I	OMIM:607014
+3	0.8	Mucopolysaccharidosis, MPS-IIIA	OMIM:252900
+4	0.78	Mucopolysaccharidosis, MPS-IIIB	OMIM:252920
+5	0.76	Mucopolysaccharidosis, MPS-II	OMIM:309900
+6	0.74	Mucopolysaccharidosis, MPS-IVA	OMIM:253000
+7	0.72	Mucopolysaccharidosis, MPS-IVB	OMIM:253010
+8	0.7	Mucopolysaccharidosis, MPS-VI	OMIM:253200
+9	0.68	Mucopolysaccharidosis, MPS-VII	OMIM:253220
+10	0.66	Mucopolysaccharidosis, MPS-IX	OMIM:601492

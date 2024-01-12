@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autosomal recessive congenital ichthyosis 4B	OMIM:615023
+2	0.85	Ichthyosis, congenital, autosomal recessive 4A	OMIM:601277
+3	0.8	Ichthyosis, congenital, autosomal recessive 9	OMIM:615024
+4	0.75	Ichthyosis, congenital, autosomal recessive 11	OMIM:602400
+5	0.7	Trichothiodystrophy 1, photosensitive	OMIM:601675
+6	0.65	Trichothiodystrophy 5, nonphotosensitive	OMIM:616390
+7	0.6	Bazex-Dupré-Christol syndrome	OMIM:301845

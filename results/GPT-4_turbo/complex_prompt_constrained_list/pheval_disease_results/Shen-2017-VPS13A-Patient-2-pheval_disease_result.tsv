@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	McLeod neuroacanthocytosis syndrome	OMIM:314850
+2	0.9	Chorea-Acanthocytosis	OMIM:200150
+3	0.75	Huntington Disease	OMIM:143100
+4	0.65	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+5	0.6	Wilson Disease	OMIM:277900
+6	0.55	Neuroferritinopathy	OMIM:606159
+7	0.5	Dentatorubral-pallidoluysian atrophy	OMIM:125370
+8	0.45	Benign hereditary chorea	OMIM:118700
+9	0.4	Lesch-Nyhan syndrome	OMIM:300322
+10	0.35	Neuroacanthocytosis	OMIM:216770

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Geleophysic dysplasia	OMIM:231050
+2	0.85	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+3	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.77	Larsen syndrome	OMIM:150250
+5	0.75	Marfan syndrome	OMIM:154700
+6	0.7	Osteogenesis imperfecta	OMIM:166200
+7	0.68	Stickler Syndrome	OMIM:108300

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+2	0.87	Progressive Osseous Heteroplasia	OMIM:166350
+3	0.75	Pseudohypoparathyroidism	OMIM:103580
+4	0.7	Pseudopseudohypoparathyroidism	OMIM:612463
+5	0.65	Hyperphosphatasia with Mental Retardation Syndrome	OMIM:239300
+6	0.6	Hypophosphatasia	OMIM:146300

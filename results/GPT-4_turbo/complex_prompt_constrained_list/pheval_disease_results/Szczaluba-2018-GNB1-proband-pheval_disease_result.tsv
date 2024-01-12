@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Kingsmore Syndrome	OMIM:616638
+2	0.8	Pitt-Hopkins Syndrome	OMIM:610954
+3	0.7	Kleefstra Syndrome	OMIM:610253
+4	0.6	Coffin-Siris Syndrome	OMIM:135900
+5	0.5	Mowat-Wilson Syndrome	OMIM:235730

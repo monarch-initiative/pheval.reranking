@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peroxisome biogenesis disorder 1B	OMIM:601539
+2	0.8	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+3	0.7	Glycine encephalopathy	OMIM:605899
+4	0.6	Aicardi-Goutieres syndrome 1	OMIM:225750
+5	0.5	Peroxisome biogenesis disorder 4A	OMIM:614862
+6	0.4	Peroxisome biogenesis disorder 4B	OMIM:614863
+7	0.3	Peroxisome biogenesis disorder 7A	OMIM:614870
+8	0.2	Peroxisome biogenesis disorder 7B	OMIM:614871
+9	0.1	Peroxisome biogenesis disorder 2A (Zellweger)	OMIM:214100
+10	0.05	Peroxisome biogenesis disorder 2B	OMIM:202370

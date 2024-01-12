@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+2	0.85	Revesz syndrome	OMIM:268130
+3	0.8	Pearson marrow-pancreas syndrome	OMIM:557000
+4	0.75	Shwachman-Diamond syndrome 1	OMIM:260400

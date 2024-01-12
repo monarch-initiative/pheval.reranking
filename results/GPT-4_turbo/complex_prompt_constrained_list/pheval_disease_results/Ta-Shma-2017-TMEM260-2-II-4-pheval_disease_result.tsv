@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge syndrome	OMIM:188400
+2	0.8	22q11.2 deletion syndrome	OMIM:611867
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	Alagille syndrome	OMIM:118450
+5	0.5	Holt-Oram syndrome	OMIM:142900
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Noonan syndrome	OMIM:163950
+8	0.2	Trisomy 18	OMIM:190685

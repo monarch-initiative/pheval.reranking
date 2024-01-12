@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lipodystrophy, familial partial, type 2	OMIM:151660
+2	0.8	Emery-Dreifuss muscular dystrophy 7, autosomal dominant	OMIM:615999
+3	0.7	Hutchinson-Gilford progeria	OMIM:176670

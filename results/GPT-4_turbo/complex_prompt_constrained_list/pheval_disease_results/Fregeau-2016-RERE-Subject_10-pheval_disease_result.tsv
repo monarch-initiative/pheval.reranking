@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.75	Coffin-Lowry syndrome	OMIM:303600
+5	0.7	Phelan-McDermid syndrome	OMIM:606232
+6	0.65	Pitt-Hopkins syndrome	OMIM:610954
+7	0.6	Smith-Magenis syndrome	OMIM:182290
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	Prader-Willi syndrome	OMIM:176270
+10	0.45	2q23.1 microdeletion syndrome	OMIM:156200
+11	0.4	Koolen-De Vries syndrome	OMIM:610443

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pseudoachondroplasia	OMIM:177170
+2	0.8	Multiple Epiphyseal Dysplasia, Dominant	OMIM:132400
+3	0.7	Metaphyseal Dysplasia, McKusick Type	OMIM:250250
+4	0.6	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+5	0.5	Diastrophic Dysplasia	OMIM:222600
+6	0.4	Achondrogenesis, Type IB	OMIM:600972
+7	0.3	Achondroplasia	OMIM:100800
+8	0.2	Hypochondroplasia	OMIM:146000
+9	0.1	Schmid Metaphyseal Chondrodysplasia	OMIM:156500

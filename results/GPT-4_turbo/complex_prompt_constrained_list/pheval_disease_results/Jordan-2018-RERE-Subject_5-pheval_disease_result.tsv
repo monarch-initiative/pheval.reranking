@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Shaheen syndrome	OMIM:615328
+2	0.85	Cantú syndrome	OMIM:239850
+3	0.8	Timothy syndrome	OMIM:601005
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.72	Mowat-Wilson syndrome	OMIM:235730
+6	0.7	CHARGE syndrome	OMIM:214800
+7	0.65	Coffin-Siris syndrome	OMIM:135900
+8	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.55	Cornelia de Lange syndrome	OMIM:122470
+10	0.5	Bohring-Opitz syndrome	OMIM:605039

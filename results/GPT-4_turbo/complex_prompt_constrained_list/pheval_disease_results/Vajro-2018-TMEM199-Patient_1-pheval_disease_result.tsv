@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Medication-related liver disease	OMIM:607259
+3	0.7	Cholestasis, intrahepatic, of pregnancy, 3	OMIM:614972
+4	0.6	Hypercholesterolemia, autosomal dominant, 3	OMIM:603776
+5	0.5	Cirrhosis, North American Indian childhood type	OMIM:263750
+6	0.4	Cholestasis of pregnancy	OMIM:147480
+7	0.3	Cholestasis, benign recurrent intrahepatic, 2	OMIM:605479
+8	0.2	Cholestasis, progressive familial intrahepatic, 3	OMIM:602347
+9	0.1	Cholestasis of pregnancy, recurrent, 1	OMIM:147530

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial myopathy	OMIM:000000
+2	0.8	Parkinson disease	OMIM:000000
+3	0.7	Hereditary hearing impairment	OMIM:000000
+4	0.6	Charcot-Marie-Tooth disease	OMIM:000000
+5	0.5	Autosomal dominant progressive external ophthalmoplegia	OMIM:000000
+6	0.4	Hereditary cataracts	OMIM:000000
+7	0.3	Dystonia	OMIM:000000

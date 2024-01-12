@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic Hyperkeratosis	OMIM:113800
+2	0.8	Palmoplantar Keratoderma, Bothnian Type	OMIM:600231
+3	0.7	Palmoplantar Keratoderma, Epidermolytic	OMIM:144200
+4	0.6	Keratosis Palmoplantaris Striata I	OMIM:148700
+5	0.5	Palmoplantar Keratoderma, Non-Epidermolytic	OMIM:600962
+6	0.4	Palmoplantar Keratosis, Nagashima Type	OMIM:615598

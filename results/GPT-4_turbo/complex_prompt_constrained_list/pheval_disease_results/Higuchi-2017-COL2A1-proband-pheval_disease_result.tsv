@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniofrontonasal syndrome	OMIM:304110
+2	0.8	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+3	0.75	Shprintzen-Goldberg syndrome	OMIM:182212
+4	0.7	Apert syndrome	OMIM:101200
+5	0.65	Crouzon syndrome	OMIM:123500
+6	0.6	Stickler syndrome, type I	OMIM:108300
+7	0.5	Mucopolysaccharidosis, MPS-I-H/S	OMIM:607014

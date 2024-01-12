@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson syndrome	OMIM:235730
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.7	CHARGE syndrome	OMIM:214800
+4	0.6	Cohen syndrome	OMIM:216550
+5	0.5	Kabuki syndrome	OMIM:147920
+6	0.4	Noonan syndrome	OMIM:163950
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Cornelia de Lange syndrome	OMIM:122470
+9	0.1	Rubinstein-Taybi syndrome	OMIM:180849

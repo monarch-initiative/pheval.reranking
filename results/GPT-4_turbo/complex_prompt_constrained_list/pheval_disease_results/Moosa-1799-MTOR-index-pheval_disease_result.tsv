@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cronkhite-Canada Syndrome	OMIM:175500
+2	0.8	Familial Adenomatous Polyposis 1	OMIM:175100
+3	0.7	Gardner Syndrome	OMIM:175100
+4	0.6	Bannayan-Riley-Ruvalcaba Syndrome	OMIM:153480
+5	0.5	Turcot Syndrome	OMIM:276300
+6	0.4	Juvenile Polyposis Syndrome	OMIM:174900
+7	0.3	Peutz-Jeghers Syndrome	OMIM:175200
+8	0.2	Cowden Syndrome 1	OMIM:158350

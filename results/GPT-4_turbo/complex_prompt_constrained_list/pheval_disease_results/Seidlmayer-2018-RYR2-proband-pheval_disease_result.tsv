@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Arrhythmogenic right ventricular cardiomyopathy, type 1	OMIM:107480
+2	0.92	Arrhythmogenic right ventricular cardiomyopathy, type 2	OMIM:600996
+3	0.9	Arrhythmogenic right ventricular dysplasia, familial, 11	OMIM:610193
+4	0.88	Cardiomyopathy, dilated, 1E	OMIM:601154
+5	0.86	Cardiomyopathy, dilated, 1GG, with or without left ventricular noncompaction	OMIM:613642
+6	0.84	Cardiomyopathy, dilated, 1II	OMIM:615184
+7	0.8	Cardiomyopathy, dilated, 1DD	OMIM:611615
+8	0.78	Cardiomyopathy, familial hypertrophic, 1	OMIM:192600
+9	0.76	Cardiomyopathy, familial hypertrophic, 4	OMIM:115197
+10	0.74	Cardiomyopathy, familial hypertrophic, 6	OMIM:600858
+11	0.72	Cardiomyopathy, familial restrictive, 1	OMIM:115210
+12	0.7	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+13	0.68	Left ventricular noncompaction 10	OMIM:615916
+14	0.66	Myocarditis, autosomal recessive	OMIM:615122
+15	0.64	Naxos disease	OMIM:601214

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia 28	OMIM:610246
+2	0.8	Episodic Ataxia, Type 1	OMIM:160120
+3	0.7	Spinocerebellar Ataxia 14	OMIM:605361
+4	0.6	Cerebellar Ataxia, Nonprogressive, With Mental Retardation	OMIM:614756
+5	0.5	Marinesco-Sjogren Syndrome	OMIM:248800
+6	0.4	Ataxia With Vitamin E Deficiency	OMIM:277460
+7	0.3	Autosomal Recessive Spastic Ataxia Of Charlevoix-Saguenay	OMIM:270550
+8	0.2	Friedreich Ataxia 1	OMIM:229300
+9	0.1	Ataxia-Telangiectasia	OMIM:208900

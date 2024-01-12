@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen storage disease type I	OMIM:232200
+2	0.85	Wolman disease	OMIM:278000
+3	0.8	Niemann-Pick disease type C	OMIM:257220
+4	0.75	Tyrosinemia type I	OMIM:276700
+5	0.7	Gaucher disease	OMIM:230800
+6	0.65	Alagille syndrome	OMIM:118450
+7	0.6	Zellweger syndrome	OMIM:214100
+8	0.55	Mitochondrial DNA depletion syndrome	OMIM:251880
+9	0.5	Progressive familial intrahepatic cholestasis	OMIM:211600
+10	0.45	Congenital disorders of glycosylation	OMIM:212065

@@ -1,0 +1,3 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.8	Alstrom Syndrome	OMIM:203800

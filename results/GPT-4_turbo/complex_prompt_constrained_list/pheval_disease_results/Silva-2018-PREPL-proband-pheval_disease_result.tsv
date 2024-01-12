@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi Syndrome	OMIM:176270
+2	0.8	Myotonic Dystrophy	OMIM:160900
+3	0.7	Congenital Myasthenic Syndrome	OMIM:601462
+4	0.6	Marfan Syndrome	OMIM:154700
+5	0.5	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.4	Cleidocranial Dysplasia	OMIM:119600
+7	0.3	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+8	0.2	Schwartz-Jampel Syndrome	OMIM:255800
+9	0.1	Fragile X Syndrome	OMIM:300624

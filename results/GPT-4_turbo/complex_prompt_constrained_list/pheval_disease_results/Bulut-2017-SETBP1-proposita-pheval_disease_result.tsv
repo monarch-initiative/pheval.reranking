@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Meckel syndrome	OMIM:249000
+2	0.8	Joubert syndrome	OMIM:213300
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+4	0.6	Craniofrontonasal syndrome	OMIM:304110
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.5	Coffin-Siris syndrome	OMIM:135900
+7	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.5	Waardenburg syndrome	OMIM:193500
+7	0.5	Mucopolysaccharidosis type I	OMIM:607014
+7	0.5	Noonan syndrome	OMIM:163950

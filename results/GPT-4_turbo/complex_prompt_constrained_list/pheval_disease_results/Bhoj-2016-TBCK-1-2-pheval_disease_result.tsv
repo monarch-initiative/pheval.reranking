@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome, congenital variant	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Coffin-Siris syndrome 1	OMIM:135900
+4	0.6	Pitt-Hopkins syndrome	OMIM:610954
+5	0.5	X-linked intellectual disability, syndromic, Claes-Jensen type	OMIM:300534
+6	0.4	Schinzel-Giedion syndrome	OMIM:269150
+7	0.3	X-linked Lissencephaly	OMIM:300215
+8	0.2	Mowat-Wilson syndrome	OMIM:235730
+9	0.1	Smith-Lemli-Opitz syndrome	OMIM:270400

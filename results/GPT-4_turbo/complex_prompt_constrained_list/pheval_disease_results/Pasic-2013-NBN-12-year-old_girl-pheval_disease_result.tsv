@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Severe Combined Immunodeficiency, Athabaskan Type	OMIM:615981
+3	0.7	Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 1	OMIM:242860
+4	0.6	Dubowitz Syndrome	OMIM:223370
+5	0.5	Bloom Syndrome	OMIM:210900
+6	0.4	Nijmegen Breakage Syndrome	OMIM:251260
+7	0.3	WHIM Syndrome	OMIM:193670
+8	0.2	Ataxia-Telangiectasia	OMIM:208900

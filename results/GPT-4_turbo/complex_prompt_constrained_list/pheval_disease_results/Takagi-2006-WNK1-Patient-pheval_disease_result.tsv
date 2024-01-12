@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease	OMIM:145200
+2	0.85	Familial dysautonomia	OMIM:223900
+3	0.8	Dejerine-Sottas syndrome	OMIM:145900
+4	0.75	Congenital insensitivity to pain with anhidrosis	OMIM:256800
+5	0.7	Hereditary sensory and autonomic neuropathy	OMIM:162000
+6	0.65	Hereditary sensory and autonomic neuropathy type II	OMIM:201300
+7	0.6	Hereditary sensory neuropathy	OMIM:162400

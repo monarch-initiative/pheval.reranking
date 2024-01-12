@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+2	0.8	Marfan Syndrome	OMIM:154700
+2	0.8	Congenital Contractural Arachnodactyly	OMIM:121050
+4	0.7	Cutis Laxa, Autosomal Dominant	OMIM:123700
+4	0.7	Ehlers-Danlos Syndrome, Progeroid Form, 2	OMIM:615349
+6	0.6	Beals Syndrome	OMIM:121050
+7	0.5	Lujan Fryns Syndrome	OMIM:309520
+7	0.5	Weill-Marchesani Syndrome 2, Autosomal Dominant	OMIM:608328
+7	0.5	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+7	0.5	Homocystinuria Due To Cystathionine Beta-Synthase Deficiency	OMIM:236200

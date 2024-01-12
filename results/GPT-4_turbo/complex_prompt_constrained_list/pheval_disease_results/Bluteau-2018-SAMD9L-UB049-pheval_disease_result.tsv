@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+2	0.9	Dyskeratosis congenita, autosomal dominant 2	OMIM:613989
+3	0.85	Dyskeratosis congenita, autosomal dominant 3	OMIM:613990
+4	0.8	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+5	0.75	Dyskeratosis congenita, autosomal recessive 2	OMIM:613987
+6	0.7	Dyskeratosis congenita, autosomal recessive 3	OMIM:613988
+7	0.65	Dyskeratosis congenita, autosomal recessive 4	OMIM:613989
+8	0.6	Dyskeratosis congenita, autosomal recessive 5	OMIM:615190
+9	0.55	Revesz syndrome	OMIM:268130
+10	0.5	Hoyeraal Hreidarsson syndrome	OMIM:300240

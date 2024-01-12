@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Autosomal Recessive Stickler Syndrome	OMIM:614134
+3	0.8	Coffin-Siris Syndrome 4	OMIM:614609
+4	0.75	Cornelia de Lange Syndrome 5	OMIM:300882
+5	0.7	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+6	0.65	Nicolaides-Baraitser Syndrome	OMIM:601358
+7	0.6	Wolf-Hirschhorn Syndrome	OMIM:194190
+8	0.55	Mucopolysaccharidosis, MPS-IV-A	OMIM:253000
+9	0.5	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+10	0.45	Williams Syndrome	OMIM:194050

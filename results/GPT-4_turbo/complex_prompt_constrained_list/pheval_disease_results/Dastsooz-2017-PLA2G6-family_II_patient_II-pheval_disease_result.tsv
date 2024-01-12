@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen storage disease II	OMIM:232300
+2	0.8	Neuronal ceroid lipofuscinosis	OMIM:204200
+3	0.7	Mitochondrial DNA depletion syndrome	OMIM:251880
+4	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.6	Pearson marrow-pancreas syndrome	OMIM:557000
+6	0.5	Mitochondrial complex I deficiency	OMIM:252010
+6	0.5	Propionic acidemia	OMIM:606054
+8	0.4	Wolman disease	OMIM:278000
+8	0.4	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+10	0.3	Methylmalonic acidemia	OMIM:251000

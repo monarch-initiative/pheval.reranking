@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Gaucher disease, perinatal lethal	OMIM:608013
+2	0.85	Sialidosis, type II	OMIM:256550
+3	0.8	Multiple sulfatase deficiency	OMIM:272200
+4	0.75	Neuronal ceroid lipofuscinosis	OMIM:204500
+4	0.75	Niemann-Pick disease, type A	OMIM:257200

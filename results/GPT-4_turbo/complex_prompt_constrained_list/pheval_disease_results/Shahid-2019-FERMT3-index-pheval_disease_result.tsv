@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency 11A	OMIM:615206
+2	0.8	Leukocyte Adhesion Deficiency, Type III	OMIM:612840
+3	0.7	Immunodeficiency 12	OMIM:615468
+4	0.6	Hyper-IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+5	0.5	Agammaglobulinemia 1, Autosomal Recessive	OMIM:601495

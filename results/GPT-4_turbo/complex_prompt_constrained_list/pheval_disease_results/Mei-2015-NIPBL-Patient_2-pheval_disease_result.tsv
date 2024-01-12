@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Cornelia de Lange syndrome 3	OMIM:610759
+3	0.8	Cornelia de Lange syndrome 5	OMIM:300882
+3	0.8	Wiedemann-Steiner syndrome	OMIM:605130
+5	0.7	Coffin-Siris syndrome 1	OMIM:135900
+5	0.7	Dubowitz syndrome	OMIM:223370
+7	0.6	Blepharophimosis, ptosis, and epicanthus inversus syndrome	OMIM:110100
+7	0.6	Fragile X syndrome	OMIM:300624
+7	0.6	Pitt-Hopkins syndrome	OMIM:610954
+7	0.6	Rubinstein-Taybi syndrome 1	OMIM:180849

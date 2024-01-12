@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	OMIM:226650
+2	0.85	Epidermolysis Bullosa, Junctional, Herlitz Type	OMIM:226700
+3	0.8	Epidermolysis Bullosa, Junctional, with Pyloric Atresia	OMIM:226730

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalocornea-mental retardation syndrome	OMIM:249310
+2	0.8	Glaucoma 3, primary infantile, A	OMIM:231300
+3	0.7	Glaucoma 1, open-angle, A	OMIM:137750
+4	0.6	Anterior segment dysgenesis 4	OMIM:137600
+5	0.5	Aniridia	OMIM:106210
+6	0.4	Axenfeld-Rieger syndrome, type 1	OMIM:180500

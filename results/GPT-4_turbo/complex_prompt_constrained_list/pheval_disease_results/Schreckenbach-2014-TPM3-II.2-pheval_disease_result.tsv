@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy-dystroglycanopathy type B6	OMIM:608840
+2	0.85	Becker Muscular Dystrophy	OMIM:300376
+3	0.8	Facioscapulohumeral muscular dystrophy	OMIM:158900
+4	0.75	Myasthenic syndrome, congenital, 1B, fast-channel	OMIM:608930
+5	0.7	Myasthenic syndrome, congenital, 1A, slow-channel	OMIM:601462
+6	0.65	Limb-girdle muscular dystrophy, type 1B	OMIM:159001
+7	0.6	Myopathy, centronuclear, 1	OMIM:160150
+8	0.55	Emery-Dreifuss muscular dystrophy 1, X-linked	OMIM:310300
+9	0.5	Limb-girdle muscular dystrophy, type 2L	OMIM:611307
+10	0.45	Myopathy, distal, 2	OMIM:606768

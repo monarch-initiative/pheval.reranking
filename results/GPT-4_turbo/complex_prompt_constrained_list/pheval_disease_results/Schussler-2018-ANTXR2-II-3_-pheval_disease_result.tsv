@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypoalbuminemia, hypertriglyceridemia, and edema	OMIM:615038
+2	0.8	Lipedema	OMIM:614103
+3	0.7	Congenital disorder of glycosylation type IIc	OMIM:266265
+4	0.6	Nephrotic syndrome type 1	OMIM:256300
+5	0.5	Complement component 2 deficiency	OMIM:217000
+6	0.4	Lymphedema-distichiasis syndrome	OMIM:153400
+7	0.3	Glomerulopathy with fibronectin deposits 2	OMIM:601894

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.8	Congenital disorder of glycosylation, type IIc	OMIM:266265
+3	0.7	Cushing's syndrome	OMIM:219090
+3	0.7	Insulinoma	OMIM:606856
+5	0.6	Mucopolysaccharidosis type III	OMIM:252900
+5	0.6	Polycystic ovary syndrome	OMIM:184700

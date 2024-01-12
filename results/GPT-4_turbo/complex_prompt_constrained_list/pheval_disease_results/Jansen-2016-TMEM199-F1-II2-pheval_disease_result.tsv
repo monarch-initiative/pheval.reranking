@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Antithrombin III Deficiency	OMIM:613118
+3	0.7	CDG Syndrome Type II	OMIM:212066
+4	0.6	Abetalipoproteinemia	OMIM:200100
+5	0.5	Familial Hypercholesterolemia	OMIM:143890

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	1.0	CHARGE syndrome	OMIM:214800
+2	0.9	Kabuki syndrome	OMIM:147920
+3	0.8	Usher syndrome	OMIM:276900
+4	0.7	Thrombocytopenia-absent radius syndrome	OMIM:274000
+5	0.6	Prader-Willi syndrome	OMIM:176270
+6	0.5	Williams syndrome	OMIM:194050
+7	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.3	Bardet-Biedl syndrome	OMIM:209900
+9	0.2	Wolf-Hirschhorn syndrome	OMIM:194190

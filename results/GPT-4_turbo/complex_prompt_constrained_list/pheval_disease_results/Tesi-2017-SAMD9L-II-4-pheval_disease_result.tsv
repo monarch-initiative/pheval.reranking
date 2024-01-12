@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myelodysplastic Syndrome	OMIM:614286
+2	0.85	Severe Congenital Neutropenia Autosomal Recessive 4	OMIM:616022
+3	0.8	Shwachman-Diamond Syndrome 1	OMIM:260400
+4	0.75	Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 1	OMIM:242860
+5	0.7	Dyskeratosis Congenita, Autosomal Dominant 2	OMIM:613989
+6	0.65	Spinocerebellar Ataxia, Autosomal Recessive 11	OMIM:614229
+7	0.6	Wiskott-Aldrich Syndrome	OMIM:301000
+8	0.55	Ataxia-Telangiectasia	OMIM:208900
+9	0.5	Nijmegen Breakage Syndrome	OMIM:251260
+10	0.45	Kostmann Syndrome	OMIM:610738

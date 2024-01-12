@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+2	0.87	Lissencephaly 3	OMIM:611603
+3	0.85	Spastic Paraplegia 56, Autosomal Recessive	OMIM:615030
+4	0.82	Mental Retardation, Autosomal Recessive 13	OMIM:612652
+5	0.8	Leukoencephalopathy With Vanishing White Matter	OMIM:603896
+6	0.78	Joubert Syndrome 10	OMIM:300804
+7	0.75	Mental Retardation, Autosomal Dominant 7	OMIM:614104
+8	0.73	Seckel Syndrome 1	OMIM:210600
+9	0.71	Microcephaly With Simplified Gyral Pattern	OMIM:251200
+10	0.68	Cerebellar Hypoplasia	OMIM:213000

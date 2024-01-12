@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galloway-Mowat syndrome	OMIM:251300
+2	0.8	Cohen syndrome	OMIM:216550
+3	0.7	Meckel syndrome	OMIM:249000
+4	0.6	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+5	0.5	Donnai-Barrow syndrome	OMIM:222448
+6	0.4	Pierson syndrome	OMIM:609049
+7	0.3	Joubert syndrome	OMIM:213300
+8	0.2	Denys-Drash syndrome	OMIM:194080
+9	0.1	Schinzel-Giedion syndrome	OMIM:269150

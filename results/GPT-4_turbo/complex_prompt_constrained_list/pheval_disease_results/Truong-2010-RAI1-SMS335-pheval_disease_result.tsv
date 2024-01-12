@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.8	Mucopolysaccharidosis Type II	OMIM:309900
+3	0.7	Smith-Magenis Syndrome	OMIM:182290
+4	0.6	Rubinstein-Taybi Syndrome 1	OMIM:180849
+5	0.5	Prader-Willi Syndrome	OMIM:176270
+6	0.4	Bardet-Biedl Syndrome 1	OMIM:209900
+7	0.3	22q11.2 Deletion Syndrome	OMIM:188400
+8	0.2	Craniofrontonasal Syndrome	OMIM:304110
+9	0.1	Beta Thalassemia	OMIM:613985
+10	0.05	Saethre-Chotzen Syndrome	OMIM:101400

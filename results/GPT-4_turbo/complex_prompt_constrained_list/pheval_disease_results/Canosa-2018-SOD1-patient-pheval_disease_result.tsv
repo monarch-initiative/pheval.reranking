@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Amyotrophic lateral sclerosis 9	OMIM:611895
+2	0.95	Amyotrophic lateral sclerosis 10, with or without FTD	OMIM:612069
+3	0.9	Amyotrophic lateral sclerosis 15, with or without frontotemporal dementia	OMIM:300857
+4	0.85	Amyotrophic lateral sclerosis 19	OMIM:615515
+5	0.8	Amyotrophic lateral sclerosis 21	OMIM:606070
+6	0.75	Amyotrophic lateral sclerosis 17	OMIM:614696
+7	0.7	Amyotrophic lateral sclerosis 14, with or without frontotemporal dementia	OMIM:613954
+8	0.65	Amyotrophic lateral sclerosis 18	OMIM:617839
+9	0.6	Amyotrophic lateral sclerosis 13	OMIM:183090
+10	0.55	Amyotrophic lateral sclerosis 16	OMIM:614373

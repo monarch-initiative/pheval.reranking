@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Marfan Syndrome	OMIM:154700
+2	0.7	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.6	Loeys-Dietz Syndrome 2	OMIM:610168
+4	0.5	Beals Syndrome	OMIM:121050

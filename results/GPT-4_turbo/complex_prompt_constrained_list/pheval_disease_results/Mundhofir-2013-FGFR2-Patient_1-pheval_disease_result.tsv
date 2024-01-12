@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen syndrome	OMIM:216550
+2	0.8	Marden-Walker syndrome	OMIM:248700
+3	0.7	Frontonasal dysplasia	OMIM:136760
+4	0.6	Noonan syndrome 1	OMIM:163950
+5	0.5	Pfeiffer syndrome	OMIM:101600
+6	0.4	Saethre-Chotzen syndrome	OMIM:101400

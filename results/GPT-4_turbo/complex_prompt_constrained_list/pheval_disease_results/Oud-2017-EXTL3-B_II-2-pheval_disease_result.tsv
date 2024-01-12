@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Schopf-Schulz-Passarge syndrome	OMIM:224750
+2	0.9	Wiedemann-Steiner syndrome	OMIM:605130
+3	0.8	Coffin-Siris syndrome 1	OMIM:135900

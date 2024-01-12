@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 5	OMIM:616938
+2	0.8	Mental Retardation, Autosomal Dominant 42	OMIM:616973
+3	0.7	Rubinstein-Taybi Syndrome 1	OMIM:180849
+4	0.6	Mucopolysaccharidosis, MPS-III-A	OMIM:252900
+4	0.6	Neurodevelopmental Disorder with Hypotonia, Facial Dysmorphism, and Brain Abnormalities	OMIM:617260

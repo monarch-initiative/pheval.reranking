@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autosomal Dominant Polycystic Kidney Disease	OMIM:173900
+2	0.9	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+3	0.85	Chronic Kidney Disease	OMIM:613388
+4	0.8	Primary Hyperoxaluria	OMIM:259900
+5	0.75	Fabry Disease	OMIM:301500
+6	0.7	Uromodulin Kidney Disease	OMIM:162000
+7	0.65	Nephronophthisis	OMIM:256100
+8	0.6	Bardet-Biedl Syndrome	OMIM:209900
+9	0.55	Alport Syndrome	OMIM:301050
+10	0.5	Gout	OMIM:138900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Costello syndrome	OMIM:218040
+2	0.82	Coffin-Siris syndrome	OMIM:135900
+3	0.8	Weaver syndrome	OMIM:277590
+4	0.78	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.75	LEOPARD syndrome	OMIM:151100
+6	0.72	Mowat-Wilson syndrome	OMIM:235730
+7	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+8	0.65	Pitt-Hopkins syndrome	OMIM:610954
+9	0.63	Angelman syndrome	OMIM:105830
+10	0.6	Rubinstein-Taybi syndrome	OMIM:180849

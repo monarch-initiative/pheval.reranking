@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schneckenbecken Dysplasia	OMIM:269250
+2	0.8	Short-Rib Thoracic Dysplasia 4 With Or Without Polydactyly	OMIM:613819
+3	0.7	Asphyxiating Thoracic Dysplasia 1	OMIM:208500
+4	0.6	Coffin-Siris Syndrome 4	OMIM:614609
+5	0.5	Polycystic Kidney Disease 1	OMIM:173900
+6	0.4	Joubert Syndrome 10	OMIM:614173
+7	0.3	Meckel Syndrome, Type 1	OMIM:249000
+8	0.2	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+9	0.1	Ellis-Van Creveld Syndrome	OMIM:225500

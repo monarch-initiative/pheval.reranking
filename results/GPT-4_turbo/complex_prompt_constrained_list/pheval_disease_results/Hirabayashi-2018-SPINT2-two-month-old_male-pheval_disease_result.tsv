@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charge Syndrome	OMIM:214800
+2	0.85	Velocardiofacial Syndrome	OMIM:192430
+2	0.85	22q11.2 Deletion Syndrome	OMIM:611867
+4	0.8	Treacher Collins Syndrome 1	OMIM:154500
+5	0.75	Pierre Robin Syndrome	OMIM:261800
+5	0.75	DiGeorge Syndrome	OMIM:188400
+7	0.7	Opitz G/BBB Syndrome	OMIM:300000
+8	0.65	Craniofrontonasal Dysplasia	OMIM:304110
+9	0.6	Vacterl Association With Hydrocephalus	OMIM:314390
+9	0.6	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508

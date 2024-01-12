@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Coffin-Siris syndrome 1	OMIM:135900
+3	0.7	Coffin-Siris syndrome	OMIM:614608
+4	0.6	Nicolaides-Baraitser syndrome	OMIM:601358
+5	0.5	Pseudohypoaldosteronism type 1, autosomal dominant	OMIM:177735
+6	0.4	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.4	Rubinstein-Taybi syndrome 2	OMIM:613684

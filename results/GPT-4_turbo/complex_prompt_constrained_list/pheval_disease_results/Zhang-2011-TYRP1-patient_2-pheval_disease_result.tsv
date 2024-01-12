@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chediak-Higashi Syndrome	OMIM:214500
+2	0.8	Griscelli Syndrome, Type 2	OMIM:607624
+3	0.7	Hermansky-Pudlak Syndrome	OMIM:203300
+4	0.6	Tietz Albinism-Deafness Syndrome	OMIM:103500
+5	0.5	Waardenburg Syndrome, Type 2A	OMIM:193510
+6	0.4	Oculocutaneous Albinism Type 1	OMIM:203100
+7	0.3	Oculocutaneous Albinism Type 2	OMIM:203200
+8	0.2	Oculocutaneous Albinism Type 3	OMIM:203290
+9	0.1	Oculocutaneous Albinism Type 4	OMIM:606574

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Asthma, susceptibility to	OMIM:600807
+2	0.8	Mental retardation and distinctive facial features with or without cardiac defects	OMIM:616789
+3	0.75	Dyskeratosis congenita, autosomal dominant 2	OMIM:613989
+4	0.72	Najjar syndrome	OMIM:211100
+5	0.68	Cardiofaciocutaneous syndrome 1	OMIM:115150
+6	0.65	Costello syndrome	OMIM:218040
+7	0.63	Hypochondroplasia	OMIM:146000
+8	0.6	Noonan syndrome 1	OMIM:163950
+8	0.6	LEOPARD syndrome 1	OMIM:151100
+10	0.55	Coffin-Siris syndrome 1	OMIM:135900

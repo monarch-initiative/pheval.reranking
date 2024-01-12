@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE Syndrome	OMIM:214800
+2	0.8	Kaufman Oculocerebrofacial Syndrome	OMIM:244450
+3	0.7	Branchiooculofacial Syndrome	OMIM:113620
+4	0.6	Townes-Brocks Syndrome	OMIM:107480
+5	0.5	Cat Eye Syndrome	OMIM:115470
+6	0.4	Wolf-Hirschhorn Syndrome	OMIM:194190
+7	0.3	3MC Syndrome	OMIM:257920
+8	0.2	Bohring-Opitz Syndrome	OMIM:605039
+9	0.1	Rubinstein-Taybi Syndrome	OMIM:180849

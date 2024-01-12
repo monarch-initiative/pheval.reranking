@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Carbohydrate-Deficient Glycoprotein Syndrome Type II	OMIM:212066
+2	0.8	Peroxisome Biogenesis Disorder 1B	OMIM:601539
+3	0.7	Peroxisome Biogenesis Disorder 4B	OMIM:614871
+4	0.6	Cutis Laxa, Autosomal Recessive, Type IIIB	OMIM:615636
+5	0.5	Meier-Gorlin Syndrome 1	OMIM:224690
+6	0.4	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+7	0.3	Epidermolysis Bullosa Simplex, Koebner Type	OMIM:131900
+8	0.2	Ornithine Carbamoyltransferase Deficiency	OMIM:311250
+9	0.1	Lissencephaly 3	OMIM:611603

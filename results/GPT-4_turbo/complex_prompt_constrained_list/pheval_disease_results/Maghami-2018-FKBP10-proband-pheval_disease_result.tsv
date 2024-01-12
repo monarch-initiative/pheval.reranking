@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta, Type III	OMIM:259420
+2	0.85	Osteogenesis Imperfecta, Type I	OMIM:166200
+3	0.8	Hypophosphatasia, Infantile	OMIM:241500
+4	0.75	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+5	0.7	Paget Disease of Bone	OMIM:167250
+6	0.65	Hypophosphatemia, X-Linked Dominant	OMIM:307800
+7	0.6	Osteogenesis Imperfecta, Type IV	OMIM:166220
+8	0.55	Gaucher Disease, Type 1	OMIM:230800
+9	0.5	Gaucher Disease, Type III	OMIM:231000
+10	0.45	Multiple Epiphyseal Dysplasia, Autosomal Recessive	OMIM:226900

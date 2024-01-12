@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pachyonychia congenita	OMIM:167200
+2	0.8	Hidrotic ectodermal dysplasia	OMIM:129500
+3	0.7	Clouston syndrome	OMIM:129500
+4	0.6	Focal palmoplantar keratoderma with oral mucosal hyperkeratosis	OMIM:148730
+5	0.5	Howel-Evans syndrome	OMIM:148500
+6	0.4	White sponge nevus	OMIM:193900
+7	0.3	Palmoplantar keratosis and esophageal cancer	OMIM:148500
+8	0.2	Odonto-onycho-dermal dysplasia	OMIM:257980
+9	0.1	Schopf-Schulz-Passarge syndrome	OMIM:224750

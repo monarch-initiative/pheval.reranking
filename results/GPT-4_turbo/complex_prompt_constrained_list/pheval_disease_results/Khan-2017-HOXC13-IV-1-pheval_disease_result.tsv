@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Tooth Type, Autosomal Dominant	OMIM:129490
+2	0.85	Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema	OMIM:300301
+2	0.85	Ectodermal Dysplasia 1, Anhidrotic	OMIM:305100
+2	0.85	Ectodermal Dysplasia 1, Hypohidrotic, X-Linked	OMIM:308800
+5	0.8	Hypohidrotic Ectodermal Dysplasia with Hypothyroidism and Agenesis of the Corpus Callosum	OMIM:613583
+5	0.8	Ectodermal Dysplasia-Syndactyly Syndrome 1	OMIM:613573
+7	0.75	Ectodermal Dysplasia and Neurosensory Deafness	OMIM:602092
+7	0.75	Ectodermal Dysplasia, Tricho-Odonto-Onychial Type	OMIM:602032
+9	0.7	Ectodermal Dysplasia, Hypohidrotic, with Hypothyroidism and Ciliary Dyskinesia	OMIM:614080
+9	0.7	Odontoonychodermal Dysplasia	OMIM:257980

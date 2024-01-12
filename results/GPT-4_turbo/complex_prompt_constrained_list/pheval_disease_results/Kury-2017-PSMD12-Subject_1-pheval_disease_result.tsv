@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.8	22q11.2 deletion syndrome	OMIM:188400
+3	0.7	Townes-Brocks syndrome	OMIM:107480
+4	0.6	VACTERL association	OMIM:192350
+5	0.5	DiGeorge syndrome	OMIM:188400
+6	0.4	Jacobsen syndrome	OMIM:147791
+6	0.4	Kabuki syndrome	OMIM:147920
+6	0.4	Noonan syndrome	OMIM:163950
+9	0.3	Treacher Collins syndrome	OMIM:154500
+9	0.3	Wolf-Hirschhorn syndrome	OMIM:194190

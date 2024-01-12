@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.8	Trichothiodystrophy Photosensitive	OMIM:601675
+3	0.7	Rothmund-Thomson Syndrome	OMIM:268400
+4	0.6	Xeroderma Pigmentosum	OMIM:278700
+5	0.5	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+6	0.4	Werner Syndrome	OMIM:277700

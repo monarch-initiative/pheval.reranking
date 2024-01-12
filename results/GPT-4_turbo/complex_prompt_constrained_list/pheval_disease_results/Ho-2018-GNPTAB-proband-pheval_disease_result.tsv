@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis, Type IVA	OMIM:253000
+2	0.85	Pfeiffer syndrome	OMIM:101600
+3	0.8	Crouzon syndrome	OMIM:123500
+4	0.75	Apert syndrome	OMIM:101200
+5	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.65	Mucopolysaccharidosis, Type VI	OMIM:253200
+7	0.6	Carpenter syndrome	OMIM:201000
+8	0.55	Thrombocytopenia-absent radius syndrome	OMIM:274000
+9	0.5	Sotos syndrome 1	OMIM:117550
+10	0.45	Smith-Lemli-Opitz syndrome	OMIM:270400

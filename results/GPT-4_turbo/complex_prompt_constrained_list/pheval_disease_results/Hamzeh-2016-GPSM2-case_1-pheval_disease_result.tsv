@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Baraitser-Winter Syndrome 1	OMIM:243310
+2	0.85	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.8	Marden-Walker Syndrome	OMIM:248700
+4	0.75	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+5	0.7	Marfan Syndrome	OMIM:154700
+6	0.65	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+7	0.6	Loeys-Dietz Syndrome 1	OMIM:609192
+8	0.55	Beals congenital contractural arachnodactyly	OMIM:121050
+9	0.5	Pfeiffer Syndrome	OMIM:101600
+10	0.45	Noonan Syndrome 1	OMIM:163950

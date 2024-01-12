@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Mednik Syndrome	OMIM:609313
+3	0.7	Myopathy, Distal, 4	OMIM:614065
+4	0.6	Hepatic Lipase Deficiency	OMIM:614025
+5	0.5	Cholesteryl Ester Storage Disease	OMIM:278000
+6	0.4	Cerebrotendinous Xanthomatosis	OMIM:213700
+7	0.3	Sea-Blue Histiocyte Syndrome	OMIM:269600
+8	0.2	Alagille Syndrome 1	OMIM:118450
+9	0.1	Progressive Familial Intrahepatic Cholestasis 2	OMIM:601847

@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Acute myeloid leukemia	OMIM:601626
+2	0.9	MYH9 related disorders	OMIM:160775
+3	0.8	Paris-Trousseau thrombocytopenia	OMIM:188025
+4	0.7	Platelet-type bleeding disorder 17	OMIM:187900
+5	0.6	Platelet-type bleeding disorder 18	OMIM:615888
+6	0.5	Platelet-type bleeding disorder 20	OMIM:618660

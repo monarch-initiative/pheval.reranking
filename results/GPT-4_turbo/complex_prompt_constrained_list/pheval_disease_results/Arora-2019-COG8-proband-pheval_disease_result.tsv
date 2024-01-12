@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Distal arthrogryposis type 1	OMIM:108120
+2	0.8	Meckel syndrome	OMIM:249000
+3	0.7	Noonan syndrome	OMIM:163950
+3	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.6	Craniofrontonasal syndrome	OMIM:304110

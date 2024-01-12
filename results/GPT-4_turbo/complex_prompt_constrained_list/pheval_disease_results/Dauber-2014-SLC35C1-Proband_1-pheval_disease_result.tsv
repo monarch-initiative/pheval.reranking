@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Mucopolysaccharidosis type IVA (Morquio syndrome)	OMIM:253000
+3	0.8	Sanfilippo syndrome type B	OMIM:252920
+3	0.8	Floating-Harbor syndrome	OMIM:136140
+5	0.75	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+5	0.75	Mucopolysaccharidosis type IIIA (Sanfilippo syndrome A)	OMIM:252900
+7	0.7	Williams syndrome	OMIM:194050
+7	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.65	Smith-Magenis syndrome	OMIM:182290
+9	0.65	Sotos syndrome 1	OMIM:117550

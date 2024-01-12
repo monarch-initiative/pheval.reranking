@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+2	0.8	Diastrophic Dysplasia	OMIM:222600
+3	0.7	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+4	0.6	Achondroplasia	OMIM:100800
+5	0.5	Pseudoachondroplasia	OMIM:177170
+6	0.4	Metatropic Dysplasia	OMIM:250600
+7	0.3	Kniest Dysplasia	OMIM:156550
+8	0.2	Mucopolysaccharidosis Type IV	OMIM:253000
+9	0.1	Multiple Epiphyseal Dysplasia	OMIM:132400

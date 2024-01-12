@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autoimmune Polyendocrine Syndrome, Type I	OMIM:240300
+2	0.8	Hypoparathyroidism, Autoimmune	OMIM:146200
+3	0.7	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410
+4	0.6	Dent's Disease	OMIM:300009
+5	0.5	Hypoparathyroidism-Deafness-Renal Disease Syndrome	OMIM:146255

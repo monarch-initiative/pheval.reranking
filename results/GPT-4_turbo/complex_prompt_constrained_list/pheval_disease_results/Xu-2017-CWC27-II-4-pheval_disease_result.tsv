@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, Type I	OMIM:162200
+2	0.8	McCune-Albright Syndrome	OMIM:174800
+3	0.7	Cohen Syndrome	OMIM:216550
+4	0.6	Mowat-Wilson Syndrome	OMIM:235730
+5	0.5	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.4	Saethre-Chotzen Syndrome	OMIM:101400

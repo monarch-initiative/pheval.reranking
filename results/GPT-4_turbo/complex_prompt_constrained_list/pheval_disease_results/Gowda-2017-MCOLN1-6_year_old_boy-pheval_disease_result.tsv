@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia	OMIM:614739
+2	0.8	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:607250
+3	0.7	Autosomal recessive primary microcephaly	OMIM:251200
+4	0.6	Pontocerebellar hypoplasia	OMIM:602529
+5	0.5	Leber congenital amaurosis	OMIM:204000
+6	0.4	Joubert syndrome	OMIM:213300
+7	0.3	Cohen syndrome	OMIM:216550
+8	0.2	Zellweger syndrome	OMIM:214100
+9	0.1	Alexander disease	OMIM:203450

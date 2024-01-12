@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 28	OMIM:610246
+2	0.85	Spinocerebellar ataxia autosomal recessive 11	OMIM:614229
+3	0.8	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.75	Multiple system atrophy 1	OMIM:146500
+5	0.7	Episodic ataxia type 2	OMIM:108500
+6	0.65	Friedreich ataxia 1	OMIM:229300
+7	0.6	Spinocerebellar ataxia 17	OMIM:607136
+8	0.55	Episodic ataxia type 1	OMIM:160120
+9	0.5	Spinocerebellar ataxia 35	OMIM:613908
+10	0.45	Alexander disease	OMIM:203450

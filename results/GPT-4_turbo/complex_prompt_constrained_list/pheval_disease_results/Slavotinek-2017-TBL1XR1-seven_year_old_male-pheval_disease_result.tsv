@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pallister-Killian Syndrome	OMIM:601803
+2	0.8	Beckwith-Wiedemann Syndrome	OMIM:130650
+3	0.75	Coffin-Siris Syndrome	OMIM:135900
+4	0.7	Perlman Syndrome	OMIM:267000
+5	0.65	Baraitser-Winter Syndrome 1	OMIM:243310
+6	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.55	Mucopolysaccharidosis Type IIIA (Sanfilippo Syndrome A)	OMIM:252900
+8	0.5	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.45	Sotos Syndrome 1	OMIM:117550
+10	0.4	Cornelia De Lange Syndrome	OMIM:122470

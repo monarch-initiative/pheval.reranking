@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, progeroid type, 2	OMIM:615349
+2	0.9	Osteogenesis imperfecta, type I	OMIM:166200
+3	0.85	Marfan syndrome	OMIM:154700
+4	0.8	Cleidocranial dysplasia	OMIM:119600
+5	0.75	Stickler syndrome, type I	OMIM:108300
+6	0.7	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.65	Larsen syndrome	OMIM:150250
+8	0.6	Kniest dysplasia	OMIM:156550

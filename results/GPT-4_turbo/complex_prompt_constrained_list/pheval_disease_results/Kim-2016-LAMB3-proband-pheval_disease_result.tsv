@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Type IV	OMIM:104510
+2	0.8	Amelogenesis Imperfecta, Type IIA1	OMIM:204650
+3	0.7	Amelogenesis Imperfecta, Type III	OMIM:130900
+4	0.6	Amelogenesis Imperfecta, Type IIA3	OMIM:613211
+5	0.5	Amelogenesis Imperfecta, Type IA	OMIM:301200
+6	0.4	Amelogenesis Imperfecta, Type IIA2	OMIM:612529
+7	0.3	Amelogenesis Imperfecta, Type IB	OMIM:104530
+8	0.2	Dentinogenesis Imperfecta Shields Type 2	OMIM:125490
+9	0.1	Dentinogenesis Imperfecta Shields Type 3	OMIM:125500

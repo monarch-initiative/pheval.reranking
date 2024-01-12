@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis Congenita, Autosomal Recessive 5	OMIM:615190
+2	0.8	Dyskeratosis Congenita, Autosomal Dominant 3	OMIM:613990
+3	0.7	Dyskeratosis Congenita, Autosomal Recessive 1	OMIM:224230
+4	0.6	Dyskeratosis Congenita, X-Linked	OMIM:305000
+5	0.5	Poikiloderma With Neutropenia	OMIM:604173
+6	0.4	Kindler Syndrome	OMIM:173650
+7	0.3	Pachyonychia Congenita 1	OMIM:167200
+8	0.2	Anhidrotic Ectodermal Dysplasia With Immunodeficiency, Osteopetrosis, And Lymphedema	OMIM:300301
+9	0.1	RAB27A, Member RAS Oncogene Family; RAB27A	OMIM:603868

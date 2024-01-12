@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lowe Syndrome	OMIM:309000
+2	0.85	Dent Disease 1	OMIM:300009
+3	0.8	Cystinosis, Nephropathic	OMIM:219800
+4	0.75	Mucopolysaccharidosis Type I	OMIM:607014
+5	0.7	Fabry Disease	OMIM:301500
+6	0.65	Wilson Disease	OMIM:277900
+7	0.6	Alport Syndrome, X-Linked	OMIM:301050
+8	0.55	Bardet-Biedl Syndrome	OMIM:209900
+9	0.5	Galactosemia	OMIM:230400
+10	0.45	Nail-Patella Syndrome	OMIM:161200

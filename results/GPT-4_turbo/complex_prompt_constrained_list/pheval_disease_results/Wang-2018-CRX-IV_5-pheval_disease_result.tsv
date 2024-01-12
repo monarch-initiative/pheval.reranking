@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa 59	OMIM:613861
+2	0.8	Cone-Rod Dystrophy 3	OMIM:604116
+3	0.7	Night Blindness, Congenital Stationary, Type 1B	OMIM:257270
+4	0.6	Usher Syndrome, Type 3B	OMIM:614504
+4	0.6	Retinitis Pigmentosa 23	OMIM:608380
+6	0.5	Night Blindness, Congenital Stationary, Autosomal Dominant 2	OMIM:163500
+6	0.5	Retinitis Pigmentosa 25	OMIM:605667
+8	0.4	Night Blindness, Congenital Stationary, Autosomal Recessive 1	OMIM:257270
+8	0.4	Achromatopsia 3	OMIM:262300
+8	0.4	Retinitis Pigmentosa 26	OMIM:600901

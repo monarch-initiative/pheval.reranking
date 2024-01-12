@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.85	Loeys-Dietz syndrome 1	OMIM:609192
+3	0.75	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.65	Shprintzen-Goldberg syndrome	OMIM:182212
+5	0.55	Beals syndrome	OMIM:121050
+6	0.45	MASS phenotype	OMIM:604308
+7	0.35	Stickler syndrome	OMIM:108300
+8	0.25	Homocystinuria due to CBS deficiency	OMIM:236200

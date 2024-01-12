@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bartter syndrome, type 1	OMIM:601678
+2	0.85	Bartter syndrome, type 2	OMIM:241200
+3	0.8	Bartter syndrome, type 4a	OMIM:602522
+4	0.75	Bartter syndrome, type 4b	OMIM:613090
+5	0.7	Bartter syndrome, type 5	OMIM:300971
+6	0.65	Gitelman syndrome	OMIM:263800
+7	0.6	East syndrome	OMIM:612780
+8	0.55	Pseudohypoaldosteronism type 1, autosomal recessive	OMIM:264350
+9	0.5	Pseudohypoaldosteronism type 1, autosomal dominant	OMIM:177735

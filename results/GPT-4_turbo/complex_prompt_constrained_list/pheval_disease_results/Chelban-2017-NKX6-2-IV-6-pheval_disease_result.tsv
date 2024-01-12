@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypomyelination, hypogonadotropic hypogonadism, hypodontia	OMIM:614233
+2	0.8	Spastic paraplegia 50, autosomal recessive	OMIM:612936
+3	0.7	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+4	0.6	Spastic paraplegia 2, X-linked	OMIM:312920
+5	0.5	Dentatorubral-pallidoluysian atrophy	OMIM:125370
+6	0.4	Metachromatic leukodystrophy	OMIM:250100
+7	0.3	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+8	0.2	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+9	0.1	Leukoencephalopathy with vanishing white matter	OMIM:603896

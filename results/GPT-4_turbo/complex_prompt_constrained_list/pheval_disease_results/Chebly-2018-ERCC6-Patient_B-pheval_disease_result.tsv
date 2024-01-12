@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome	OMIM:216400
+2	0.8	Cerebrooculofacioskeletal Syndrome 4	OMIM:610758
+2	0.8	Xeroderma Pigmentosum, Group A	OMIM:278700
+4	0.7	Xeroderma Pigmentosum, Group C	OMIM:278720
+5	0.6	Xeroderma Pigmentosum, Group D	OMIM:278730
+5	0.6	Xeroderma Pigmentosum, Group E	OMIM:278740
+7	0.5	Xeroderma Pigmentosum, Group G	OMIM:278780
+7	0.5	Trichothiodystrophy Photosensitive	OMIM:601675
+9	0.4	Rothmund-Thomson Syndrome	OMIM:268400
+10	0.3	Werner Syndrome	OMIM:277700

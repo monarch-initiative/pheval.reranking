@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Type Iv	OMIM:104530
+2	0.85	Amelogenesis Imperfecta, Type Ic	OMIM:204650
+3	0.8	Amelogenesis Imperfecta, Type Ia	OMIM:301200
+4	0.75	Amelogenesis Imperfecta, Type Iii	OMIM:130900
+5	0.7	Amelogenesis Imperfecta, Type Ii	OMIM:204700
+6	0.65	Odontohypophosphatasia	OMIM:146300
+7	0.6	Dentinogenesis Imperfecta Shields Type Ii	OMIM:125490
+8	0.55	Dentin Dysplasia, Type I	OMIM:125400
+9	0.5	Dentin Dysplasia, Type Ii	OMIM:125420
+10	0.45	Jalili Syndrome	OMIM:217080

@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.7	Ehlers-Danlos Syndrome, Type VI	OMIM:225400
+3	0.6	MASS Phenotype	OMIM:604308
+3	0.6	Loeys-Dietz Syndrome 1	OMIM:609192
+5	0.5	Homocystinuria due to Cystathionine Beta-Synthase Deficiency	OMIM:236200
+6	0.4	Weill-Marchesani Syndrome 2, Autosomal Dominant	OMIM:608328
+7	0.3	Ectopia Lentis, Isolated, Autosomal Dominant	OMIM:129600
+8	0.2	Fibrillinopathy	OMIM:601550

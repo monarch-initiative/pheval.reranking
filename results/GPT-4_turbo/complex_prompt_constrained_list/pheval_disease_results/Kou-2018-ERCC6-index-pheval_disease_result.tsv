@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cohen Syndrome	OMIM:216550
+2	0.75	3-M Syndrome 1	OMIM:273750
+3	0.73	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+4	0.72	Mucopolysaccharidosis Type IIIA	OMIM:252900
+5	0.7	Meier-Gorlin Syndrome 1	OMIM:224690
+6	0.68	Seckel Syndrome 1	OMIM:210600
+7	0.65	Rubinstein-Taybi Syndrome 1	OMIM:180849
+8	0.63	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.6	Cornelia De Lange Syndrome 1	OMIM:122470
+10	0.58	Marshall-Smith Syndrome	OMIM:602535

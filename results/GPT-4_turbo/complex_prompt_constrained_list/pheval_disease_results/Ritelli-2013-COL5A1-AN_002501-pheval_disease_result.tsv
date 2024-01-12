@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, type III	OMIM:130020
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Loeys-Dietz syndrome	OMIM:609192
+4	0.75	Ehlers-Danlos syndrome, classic type	OMIM: Ehlers-Danlos syndrome, Classic type
+5	0.7	Ehlers-Danlos syndrome, kyphoscoliotic and deafness type	OMIM:614557
+6	0.65	Ehlers-Danlos syndrome, vascular type	OMIM: Ehlers-Danlos syndrome, Vascular type
+7	0.6	Ehlers-Danlos syndrome, arthrochalasia type	OMIM: Ehlers-Danlos syndrome, Arthrochalasia type
+8	0.55	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM: Ehlers-Danlos syndrome, Dermatosparaxis type
+9	0.5	Ehlers-Danlos syndrome, hypermobility type	OMIM: Ehlers-Danlos syndrome, Hypermobility type
+10	0.45	Ehlers-Danlos syndrome, spondylodysplastic type 3	OMIM: Ehlers-Danlos syndrome, Spondylodysplastic type 3

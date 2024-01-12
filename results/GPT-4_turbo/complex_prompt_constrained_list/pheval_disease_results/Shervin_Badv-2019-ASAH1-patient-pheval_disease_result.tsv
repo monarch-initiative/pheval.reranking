@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular Dystrophy-Dystroglycanopathy (Limb-Girdle), Type C, 5	OMIM:606612
+2	0.85	Becker Muscular Dystrophy	OMIM:300376
+2	0.85	Duchenne Muscular Dystrophy	OMIM:310200
+4	0.8	Myoclonus-Dystonia Syndrome	OMIM:159900
+5	0.75	Myoadenylate Deaminase Deficiency	OMIM:615511
+5	0.75	Glycogen Storage Disease VII	OMIM:232800
+7	0.7	Glycogen Storage Disease V	OMIM:232600
+8	0.65	Spinal Muscular Atrophy, Lower Extremity-Predominant	OMIM:615048
+8	0.65	Limb-Girdle Muscular Dystrophy	OMIM:253600
+10	0.6	Mitochondrial DNA Depletion Syndrome 12B (Cardiomyopathic Type)	OMIM:615418

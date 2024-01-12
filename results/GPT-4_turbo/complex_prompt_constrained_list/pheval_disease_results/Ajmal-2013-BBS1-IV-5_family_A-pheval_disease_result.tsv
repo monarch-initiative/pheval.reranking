@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alstrom syndrome	OMIM:203800
+2	0.72	Bardet-Biedl syndrome	OMIM:209900
+3	0.65	Leber congenital amaurosis	OMIM:204000
+4	0.63	Cohen syndrome	OMIM:216550
+5	0.6	Stargardt disease 1	OMIM:248200
+6	0.59	Usher syndrome	OMIM:276900
+7	0.55	Retinitis pigmentosa	OMIM:268000
+8	0.5	Stickler syndrome, type I, non-syndromic ocular	OMIM:609508
+9	0.45	Juvenile macular degeneration and hypotrichosis	OMIM:601553
+10	0.4	Conorenal syndrome	OMIM:266920

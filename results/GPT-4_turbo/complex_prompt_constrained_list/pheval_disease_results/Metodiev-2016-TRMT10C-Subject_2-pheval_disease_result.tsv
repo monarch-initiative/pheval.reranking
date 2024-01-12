@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Pyruvate dehydrogenase E3-binding protein deficiency	OMIM:614111
+3	0.8	Leigh syndrome	OMIM:256000
+4	0.75	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+5	0.7	Mitochondrial myopathy	OMIM:500001
+6	0.65	Mitochondrial DNA depletion syndrome	OMIM:251880
+7	0.6	Barth syndrome	OMIM:302060
+8	0.55	Cardiomyopathy, dilated, with ataxia	OMIM:610198
+9	0.5	Wolff-Parkinson-White syndrome	OMIM:194200

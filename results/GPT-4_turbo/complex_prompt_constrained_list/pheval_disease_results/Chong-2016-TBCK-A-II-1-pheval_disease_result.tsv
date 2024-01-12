@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebrooculofacioskeletal Syndrome 4	OMIM:610758
+2	0.8	Mucopolysaccharidosis, MPS-III-B	OMIM:252920
+3	0.7	Cockayne Syndrome B	OMIM:133540
+4	0.6	Leigh Syndrome	OMIM:256000
+5	0.5	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.4	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.3	Angelman Syndrome	OMIM:105830
+8	0.2	Rett Syndrome	OMIM:312750
+9	0.1	Cornelia de Lange Syndrome 1	OMIM:122470
+10	0.05	Coffin-Lowry Syndrome	OMIM:303600

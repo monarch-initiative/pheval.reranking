@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia, Shohat type	OMIM:603005
+2	0.8	Spondyloepimetaphyseal dysplasia with joint laxity	OMIM:603546
+3	0.7	Multiple epiphyseal dysplasia, Al-Gazali type	OMIM:607131
+4	0.6	Metatropic dysplasia	OMIM:156530
+5	0.5	Kniest dysplasia	OMIM:156550
+6	0.4	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.3	Multiple epiphyseal dysplasia, autosomal dominant	OMIM:132400
+8	0.2	Pseudoachondroplasia	OMIM:177170
+9	0.1	Diastrophic dysplasia	OMIM:222600

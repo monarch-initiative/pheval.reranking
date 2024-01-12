@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Campomelic Dysplasia	OMIM:114290
+2	0.8	Omodysplasia 1	OMIM:258315
+3	0.7	Ellis-van Creveld Syndrome	OMIM:225500
+4	0.6	Achondroplasia	OMIM:100800
+5	0.5	Hypochondroplasia	OMIM:146000
+6	0.4	Diastrophic Dysplasia	OMIM:222600

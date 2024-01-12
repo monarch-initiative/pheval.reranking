@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	Spinal Muscular Atrophy	OMIM:253300
+3	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+4	0.6	Becker Muscular Dystrophy	OMIM:300376
+5	0.5	Congenital Myasthenic Syndrome	OMIM:601462
+6	0.4	Charcot-Marie-Tooth Disease	OMIM:118220
+7	0.3	Rett Syndrome	OMIM:312750
+8	0.2	Fragile X Syndrome	OMIM:300624
+9	0.1	Angelman Syndrome	OMIM:105830
+10	0.05	Tay-Sachs Disease	OMIM:272800

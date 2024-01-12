@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne syndrome	OMIM:216400
+2	0.85	Seckel syndrome	OMIM:210600
+3	0.8	Hallermann-Streiff syndrome	OMIM:234100
+4	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400

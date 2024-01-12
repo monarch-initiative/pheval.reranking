@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia, type 1	OMIM:131100
+2	0.8	Pituitary adenoma, prolactin-secreting	OMIM:600634
+3	0.75	Familial isolated hyperparathyroidism	OMIM:145000
+4	0.7	Multiple endocrine neoplasia, type 4	OMIM:610755
+5	0.65	Carcinoid tumors, intestinal	OMIM:114900
+6	0.6	Hypoparathyroidism, sensorineural deafness, and renal disease	OMIM:146200
+7	0.55	MEN1 syndrome	OMIM:131100
+8	0.5	Parathyroid adenoma	OMIM:168461
+9	0.45	Pituitary adenoma 1, multiple types	OMIM:102200
+10	0.4	Thymoma	OMIM:188400

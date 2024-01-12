@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge syndrome	OMIM:188400
+2	0.8	Holt-Oram syndrome	OMIM:142900
+2	0.8	Ellis-van Creveld syndrome	OMIM:225500
+4	0.75	CHARGE syndrome	OMIM:214800
+5	0.7	Noonan syndrome	OMIM:163950
+5	0.7	Trisomy 18	OMIM:190685
+7	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.6	Pallister-Killian syndrome	OMIM:601803
+8	0.6	Alagille syndrome	OMIM:118450
+8	0.6	Cat eye syndrome	OMIM:117550

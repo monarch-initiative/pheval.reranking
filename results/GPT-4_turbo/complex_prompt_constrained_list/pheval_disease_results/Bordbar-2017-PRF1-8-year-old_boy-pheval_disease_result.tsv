@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Acute liver failure, transient, due to hepatic glutamine synthetase deficiency	OMIM:613832
+2	0.8	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+2	0.8	Wilson disease	OMIM:277900
+4	0.7	Menkes disease	OMIM:309400
+4	0.7	Hypermanganesemia with dystonia, polycythemia, and cirrhosis	OMIM:613280
+6	0.6	Mitochondrial DNA depletion syndrome 12B (cardiomyopathic type)	OMIM:615418
+6	0.6	Hemophagocytic lymphohistiocytosis, familial, 5	OMIM:613101
+8	0.5	Beta-hydroxyisobutyryl-CoA deacylase deficiency	OMIM:250620
+8	0.5	Multiple mitochondrial dysfunctions syndrome 1	OMIM:605711

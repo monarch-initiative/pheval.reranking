@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mowat-Wilson Syndrome	OMIM:235730
+2	0.8	Angelman Syndrome	OMIM:105830
+3	0.7	Rett Syndrome	OMIM:312750
+4	0.6	MECP2 Duplication Syndrome	OMIM:300260
+4	0.6	Pitt-Hopkins Syndrome	OMIM:610954
+4	0.6	Smith-Magenis Syndrome	OMIM:182290
+7	0.5	2q23.1 Microdeletion Syndrome	OMIM:156200
+7	0.5	Kleefstra Syndrome	OMIM:610253
+9	0.4	2p16.3 Microdeletion Syndrome	OMIM:614332
+9	0.4	15q13.3 Microdeletion Syndrome	OMIM:612001

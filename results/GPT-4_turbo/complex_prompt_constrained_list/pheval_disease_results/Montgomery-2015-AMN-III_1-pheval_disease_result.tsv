@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pernicious Anemia	OMIM:170900
+2	0.8	Cobalamin Deficiency	OMIM:259050
+3	0.7	Imerslund-Grasbeck Syndrome	OMIM:261100
+4	0.6	Thrombocytopenia 4	OMIM:612004
+5	0.5	Methylmalonic Acidemia with Homocystinuria	OMIM:277400

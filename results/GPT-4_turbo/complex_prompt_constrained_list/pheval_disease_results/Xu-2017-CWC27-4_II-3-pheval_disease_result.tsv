@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.85	Mainzer-Saldino syndrome	OMIM:266920
+3	0.8	Cranioectodermal dysplasia	OMIM:218330
+4	0.75	Coffin-Siris syndrome	OMIM:135900
+5	0.7	Gorlin-Chaudhry-Moss syndrome	OMIM:233500
+6	0.65	Ellis-van Creveld syndrome	OMIM:225500

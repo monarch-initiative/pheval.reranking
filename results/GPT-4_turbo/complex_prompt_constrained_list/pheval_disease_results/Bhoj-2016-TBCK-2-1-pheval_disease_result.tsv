@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+4	0.6	Angelman syndrome	OMIM:105830
+5	0.5	Periventricular leukomalacia	OMIM:603896
+6	0.4	Autism, susceptibility to, X-linked 3	OMIM:300496

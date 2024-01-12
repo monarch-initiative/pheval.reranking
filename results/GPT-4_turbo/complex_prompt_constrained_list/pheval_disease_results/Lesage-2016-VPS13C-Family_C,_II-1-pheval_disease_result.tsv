@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.8	Hereditary spastic paraplegia	OMIM:303350
+3	0.7	Multiple sclerosis	OMIM:126200
+4	0.6	Parkinson disease	OMIM:168600
+5	0.5	Huntington disease	OMIM:143100
+6	0.4	Spinocerebellar ataxia	OMIM:164400
+7	0.3	Progressive supranuclear palsy	OMIM:601104
+8	0.2	Wilson disease	OMIM:277900
+9	0.1	Alzheimer disease	OMIM:104300

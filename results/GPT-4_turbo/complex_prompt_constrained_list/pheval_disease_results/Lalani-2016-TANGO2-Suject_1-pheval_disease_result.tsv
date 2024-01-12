@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen Storage Disease Type Ia	OMIM:232200
+2	0.85	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+3	0.8	Mitochondrial DNA Depletion Syndrome 12B	OMIM:615075
+4	0.75	Barth Syndrome	OMIM:302060
+5	0.7	Myoadenylate Deaminase Deficiency	OMIM:615511
+6	0.65	Beckwith-Wiedemann Syndrome	OMIM:130650
+7	0.6	Pyruvate Carboxylase Deficiency	OMIM:266150
+8	0.55	Hyperinsulinism-Hyperammonemia Syndrome	OMIM:606762
+9	0.5	Citrullinemia Type I	OMIM:215700
+10	0.45	Pearson Marrow-Pancreas Syndrome	OMIM:557000
