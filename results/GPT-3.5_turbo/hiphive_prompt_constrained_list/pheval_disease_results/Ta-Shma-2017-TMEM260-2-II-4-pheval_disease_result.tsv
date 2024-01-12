@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	DiGeorge syndrome	OMIM:188400
+2	0.95	VACTERL association	OMIM:192350
+3	0.92	Hypoplastic left heart syndrome	OMIM:241550
+4	0.9	Tetralogy of Fallot	OMIM:187500
+5	0.88	Pulmonary atresia with ventricular septal defect	OMIM:606543
+6	0.85	Holt-Oram syndrome	OMIM:142900
+7	0.84	Alagille syndrome	OMIM:118450
+8	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.8	Williams-Beuren syndrome	OMIM:194050
+10	0.78	Noonan syndrome	OMIM:163950

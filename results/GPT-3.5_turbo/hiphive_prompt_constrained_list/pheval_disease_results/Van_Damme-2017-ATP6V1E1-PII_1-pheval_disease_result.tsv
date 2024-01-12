@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.92	Marfan syndrome	OMIM:154700
+3	0.88	Lujan-Fryns syndrome	OMIM:309520
+4	0.87	Loeys-Dietz syndrome	OMIM:609192
+5	0.86	Beckwith-Wiedemann syndrome	OMIM:130650
+6	0.85	Costello syndrome	OMIM:218040
+7	0.83	Achondroplasia	OMIM:100800
+8	0.82	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:615381
+9	0.81	Myhre syndrome	OMIM:139210
+10	0.8	Williams syndrome	OMIM:194050

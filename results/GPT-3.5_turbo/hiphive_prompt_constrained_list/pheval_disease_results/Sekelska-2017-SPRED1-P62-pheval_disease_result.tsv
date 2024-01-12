@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis-1	OMIM:162200
+1	0.9	Neurofibromatosis-2	OMIM:101200
+3	0.8	McCune-Albright syndrome	OMIM:174800
+3	0.8	Von Hippel-Lindau syndrome	OMIM:193300
+5	0.7	Epidermal nevus syndrome	OMIM:162900
+5	0.7	Costello syndrome	OMIM:218040
+5	0.7	Noonan syndrome	OMIM:163950
+5	0.7	Russell-Silver syndrome	OMIM:180860
+9	0.6	Fanconi anemia	OMIM:227650
+9	0.6	Tuberous sclerosis complex	OMIM:191100

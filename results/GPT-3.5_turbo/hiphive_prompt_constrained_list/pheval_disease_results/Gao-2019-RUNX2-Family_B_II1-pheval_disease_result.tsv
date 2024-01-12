@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Frontometaphyseal dysplasia	OMIM:305620
+3	0.7	Dentinogenesis imperfecta	OMIM:125490
+4	0.6	Robinow syndrome	OMIM:180700
+5	0.5	Coffin-Lowry syndrome	OMIM:303600
+6	0.4	Pyle disease	OMIM:265900
+6	0.4	Cranioectodermal dysplasia	OMIM:218330
+8	0.3	Osteogenesis imperfecta	OMIM:166200
+9	0.2	Osteopetrosis	OMIM:166600
+10	0.1	Cleidocranial dysostosis	OMIM:119600

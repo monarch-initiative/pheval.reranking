@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Familial hypercholesterolemia	OMIM:143890
+2	0.88	Long QT syndrome	OMIM:192500
+3	0.86	Brugada syndrome	OMIM:601144
+4	0.83	Arrhythmogenic right ventricular dysplasia	OMIM:107970
+5	0.82	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+5	0.82	Short QT syndrome	OMIM:609620
+7	0.81	Jervell and Lange-Nielsen syndrome	OMIM:220400
+8	0.76	Dilated cardiomyopathy	OMIM:115200
+9	0.75	Progressive familial heart block type II	OMIM:603554
+10	0.72	Wolff-Parkinson-White syndrome	OMIM:194200

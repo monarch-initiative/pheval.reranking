@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7840470676422119	Sotos syndrome	OMIM:117550
+2	0.7636522257329523	Beckwith-Wiedemann syndrome	OMIM:130650
+3	0.7616204026576094	Marshall-Smith syndrome	OMIM:602535
+4	0.7239126740525007	Weaver syndrome	OMIM:277590
+5	0.7168865590343146	Simpson-Golabi-Behmel syndrome type 2	OMIM:300209
+6	0.7099666194421919	Mulvihill-Smith syndrome	OMIM:151430
+7	0.7071486535156143	Floating-Harbor syndrome	OMIM:136140
+8	0.7052081918202077	FG syndrome 4	OMIM:300422
+9	0.6984414320024458	Saethre-Chotzen syndrome	OMIM:101400
+10	0.6864740105709793	Smith-Lemli-Opitz syndrome	OMIM:270400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spastic ataxia 2, autosomal recessive	OMIM:611302
+2	0.85	Gordon Holmes syndrome	OMIM:212840
+3	0.8	Spinocerebellar ataxia 29	OMIM:117360
+4	0.75	Pontocerebellar hypoplasia, type 7	OMIM:616081
+5	0.7	Dystonia 12	OMIM:128235
+6	0.65	Cerebellar ataxia, mental retardation, and dysequilibrium syndrome 2	OMIM:610185
+7	0.6	Autosomal recessive cerebellar ataxia	OMIM:616354
+8	0.55	Spinocerebellar ataxia, autosomal recessive	OMIM:607250
+9	0.5	Marinesco-Sjogren syndrome	OMIM:248800
+10	0.45	Late-onset cerebellar ataxia	OMIM:601345

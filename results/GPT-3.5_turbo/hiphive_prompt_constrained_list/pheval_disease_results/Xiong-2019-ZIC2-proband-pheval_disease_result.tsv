@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lobar holoprosencephaly	OMIM:206920
+2	0.85	Agenesis of the corpus callosum	OMIM:217990
+3	0.8	Macrocephaly	OMIM:602501
+4	0.75	Dandy-Walker syndrome	OMIM:220200
+5	0.7	Holoprosencephaly	OMIM:236100
+6	0.65	Microcephaly	OMIM:251200
+7	0.6	Meningocele	OMIM:309560
+8	0.55	Arnold-Chiari malformation	OMIM:207950
+9	0.5	Dilated cerebral ventricles	OMIM:213860
+10	0.4	Hydranencephaly	OMIM:609038

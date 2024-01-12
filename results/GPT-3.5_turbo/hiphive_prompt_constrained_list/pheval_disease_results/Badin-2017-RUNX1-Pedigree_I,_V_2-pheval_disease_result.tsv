@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Gray Platelet Syndrome	OMIM:139090
+2	0.96	Bernard-Soulier Syndrome, Type A1	OMIM:231200
+3	0.95	Bernard-Soulier Syndrome, Type A2	OMIM:153670
+4	0.94	Fechtner Syndrome	OMIM:153640
+5	0.93	Macrophagic myofasciitis	OMIM:614807
+6	0.92	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.91	May-Hegglin Anomaly	OMIM:155100
+8	0.9	Paris-Trousseau Thrombocytopenia	OMIM:188025
+9	0.89	Chediak-Higashi Syndrome	OMIM:214500
+10	0.88	Familial platelet disorder with associated myeloid malignancy	OMIM:601399

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Brachydactyly type A4	OMIM:615969
+2	0.65	Multiple epiphyseal dysplasia type 5	OMIM:607278
+3	0.6	Omodysplasia 1	OMIM:258315
+4	0.55	Brachydactyly type A1	OMIM:112500
+5	0.5	Stickler syndrome type 1	OMIM:108300
+6	0.45	Metaphyseal acroscyphodysplasia	OMIM:250215
+7	0.4	Acromicric dysplasia	OMIM:102370
+8	0.35	Spondyloepiphyseal dysplasia, Stanescu type	OMIM:616583
+9	0.3	Mild intellectual disability - obesity - macrocephaly syndrome	OMIM:614231
+10	0.25	Rubinstein-Taybi syndrome 1	OMIM:180849

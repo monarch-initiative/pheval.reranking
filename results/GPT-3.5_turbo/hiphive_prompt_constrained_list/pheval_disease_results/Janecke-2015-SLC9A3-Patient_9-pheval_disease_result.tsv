@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.46283328580856326	Hyperglycinuria	OMIM:138500
+2	0.4603806337804054	Nephrogenic diabetes insipidus	OMIM:125800
+3	0.45323411798477176	Bartter syndrome, type 2	OMIM:241200
+4	0.4488349571418762	Gitelman syndrome	OMIM:263800
+5	0.44224675384717677	Bartter syndrome, type 3	OMIM:607364
+5	0.44224675384717677	Bartter syndrome, type 4	OMIM:613090
+7	0.4419328637129494	Fucosidosis	OMIM:230000
+8	0.4390001986465811	Liddle syndrome	OMIM:177200
+9	0.4388053713837186	Bartter syndrome, type 1	OMIM:601678
+10	0.4307449252497711	Monosomy 9pter-p24.3	OMIM:158170

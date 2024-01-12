@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+2	0.92	Nonimmune hydrops fetalis	OMIM:236750
+3	0.89	Cleidocranial dysplasia	OMIM:119600
+4	0.88	Hypothyroidism, congenital, nongoitrous, 2	OMIM:218700
+5	0.87	Hypophosphatasia, adult	OMIM:146300
+6	0.86	Juvenile idiopathic arthritis	OMIM:604302
+7	0.85	Rubinstein-Taybi syndrome 2	OMIM:613684
+8	0.84	Osteogenesis imperfecta, type II	OMIM:166210
+9	0.83	Seckel syndrome 1	OMIM:210600
+10	0.82	Diastrophic dysplasia	OMIM:222600

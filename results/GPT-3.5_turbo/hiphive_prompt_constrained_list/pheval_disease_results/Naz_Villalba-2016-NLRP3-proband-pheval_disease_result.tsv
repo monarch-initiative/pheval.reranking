@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.8	Behcet syndrome	OMIM:109650
+3	0.7	Granulomatosis with polyangiitis	OMIM:608710
+4	0.6	Temporal arteritis	OMIM:187360
+5	0.5	Rheumatoid arthritis	OMIM:180300
+6	0.4	Systemic vasculitis	OMIM:300663
+7	0.3	Crohn's disease	OMIM:266600
+8	0.2	Takayasu arteritis	OMIM:207600
+9	0.1	Psoriasis	OMIM:177900
+10	0.05	Churg-Strauss syndrome	OMIM:607339

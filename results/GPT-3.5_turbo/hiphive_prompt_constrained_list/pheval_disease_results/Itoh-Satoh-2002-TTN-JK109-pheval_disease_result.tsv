@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dilated cardiomyopathy	OMIM:115150
+2	0.85	Congestive heart failure	OMIM:144200
+3	0.8	Atrial septal defect	OMIM:108800
+4	0.75	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604772
+5	0.7	Hypertrophic cardiomyopathy	OMIM:192600
+6	0.65	Long QT syndrome	OMIM:192500
+7	0.6	Cardiomyopathy, familial hypertrophic	OMIM:115195
+8	0.55	Cardiomyopathy, dilated, 1C	OMIM:601860
+9	0.5	Heart conduction disease	OMIM:603507
+10	0.45	Noncompaction of left ventricular myocardium	OMIM:604169

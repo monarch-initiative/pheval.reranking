@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spherocytosis	OMIM:182900
+2	0.91	Direct hyperbilirubinemia	OMIM:237800
+3	0.88	Congenital Hemolytic Anemia	OMIM:266120
+4	0.87	Pyruvate Kinase Deficiency of Red Cells	OMIM:266200
+5	0.85	Ras-associated autoimmune leukoproliferative disorder	OMIM:614470
+6	0.83	Sickle Cell Disease	OMIM:603903
+7	0.81	Glycogen Storage Disease III	OMIM:232400
+8	0.79	Erythrocytosis, Familial, 2	OMIM:263400
+9	0.76	Erythrocytosis, Familial, 1	OMIM:133100
+10	0.75	Glucose-6-Phosphate Dehydrogenase Deficiency	OMIM:305900

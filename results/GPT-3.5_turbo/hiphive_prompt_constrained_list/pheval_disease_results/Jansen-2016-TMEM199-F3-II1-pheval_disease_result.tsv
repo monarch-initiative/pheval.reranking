@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.89	Conradi-Hünermann Syndrome	OMIM:302950
+3	0.88	Alagille Syndrome	OMIM:118450
+4	0.87	Dyskeratosis Congenita	OMIM:127550
+5	0.85	Multiple Carboxylase Deficiency	OMIM:253270
+6	0.83	Smith-Magenis Syndrome	OMIM:182290
+7	0.82	Congenital Disorder of Glycosylation Type 1a	OMIM:212065
+8	0.81	Turner Syndrome	OMIM:313850
+9	0.8	Citrullinemia Type II	OMIM:603471
+10	0.79	Glycogen Storage Disease I	OMIM:232200

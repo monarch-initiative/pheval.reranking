@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta	OMIM:166200
+2	0.85	Diastrophic Dysplasia	OMIM:222600
+3	0.8	Short Stature, Brachydactyly, Intellectual Developmental Disability, and Seizure Syndrome	OMIM:616557
+4	0.75	Achondroplasia	OMIM:100800
+5	0.7	Severe Achondroplasia with Developmental Delay and Acanthosis Nigricans	OMIM:154800
+6	0.65	Multiple Epiphyseal Dysplasia	OMIM:132400
+7	0.6	Metaphyseal Anadysplasia	OMIM:602111
+8	0.55	Stickler Syndrome	OMIM:108300
+9	0.5	Desbuquois Dysplasia	OMIM:251450
+10	0.45	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900

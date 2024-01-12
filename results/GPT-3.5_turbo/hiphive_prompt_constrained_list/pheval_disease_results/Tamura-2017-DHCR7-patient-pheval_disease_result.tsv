@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Lissencephaly 1	OMIM:607432
+2	0.95	Short stature, congenital heart defects, and skeletal anomalies	OMIM:614980
+3	0.92	Noonan syndrome 1	OMIM:163950
+4	0.91	Orofaciodigital syndrome IX	OMIM:617333
+5	0.89	Bardet-Biedl syndrome 1	OMIM:209900
+6	0.88	Diastrophic dysplasia	OMIM:222600
+7	0.85	Spondylocostal dysostosis 4, autosomal recessive	OMIM:613686
+8	0.82	Hypothyroidism, congenital, nongoitrous, 1	OMIM:275200
+9	0.79	Williams-Beuren syndrome	OMIM:194050
+10	0.77	Sotos syndrome 2	OMIM:614753

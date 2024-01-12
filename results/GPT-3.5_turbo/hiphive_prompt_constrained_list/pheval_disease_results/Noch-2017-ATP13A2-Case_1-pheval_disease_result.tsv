@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Parkinson disease	OMIM:168600
+2	0.98	Ataxia	OMIM:208920
+3	0.97	Spinocerebellar ataxia	OMIM:164400
+4	0.96	Intellectual disability	OMIM:228600
+5	0.95	Autosomal dominant cerebellar ataxia	OMIM:607136
+6	0.94	Spastic paraplegia	OMIM:182600
+7	0.93	Friedreich ataxia	OMIM:229300
+8	0.92	Hereditary spastic paraplegia	OMIM:604187
+9	0.91	Cerebral palsy	OMIM:603513
+10	0.9	Dystonia	OMIM:128200

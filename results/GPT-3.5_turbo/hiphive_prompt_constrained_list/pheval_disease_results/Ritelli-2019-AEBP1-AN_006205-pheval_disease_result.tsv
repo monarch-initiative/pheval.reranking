@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos syndrome	OMIM:130000
+2	0.92	Marfan syndrome	OMIM:154700
+3	0.91	Osteogenesis imperfecta	OMIM:166200
+4	0.9	Joint hypermobility syndrome	OMIM:130400
+5	0.88	Stickler syndrome	OMIM:108300
+6	0.87	Larsen syndrome	OMIM:150250
+7	0.85	Williams syndrome	OMIM:194050
+8	0.84	Loeys-Dietz syndrome	OMIM:610168
+9	0.82	Cutis laxa	OMIM:123700
+10	0.8	Otopalatodigital syndrome	OMIM:311300

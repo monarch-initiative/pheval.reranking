@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9814	Cerebellar ataxia, nonprogressive, with CoQ10 deficiency	OMIM:617560
+2	0.9766	Spinocerebellar ataxia, autosomal recessive 20	OMIM:615190
+3	0.9552	Friedreich ataxia	OMIM:229300
+4	0.9544	Spinocerebellar ataxia, autosomal recessive 26	OMIM:617183
+5	0.9476	Gaze palsy, familial horizontal, with progressive scoliosis 1	OMIM:607313
+6	0.9437	Spinocerebellar ataxia, autosomal recessive 14	OMIM:615473
+7	0.9417	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies, type A, 6)	OMIM:615178
+8	0.9407	Mitochondrial DNA depletion syndrome 11	OMIM:615084
+9	0.9403	Mitochondrial DNA depletion syndrome 10 (encephalomyopathic with methylmalonic aciduria)	OMIM:615418
+10	0.937	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 5	OMIM:607155

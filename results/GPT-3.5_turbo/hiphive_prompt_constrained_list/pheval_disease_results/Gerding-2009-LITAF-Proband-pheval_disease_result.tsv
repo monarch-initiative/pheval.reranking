@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spinocerebellar ataxia	OMIM:164400
+2	0.91	Friedreich ataxia	OMIM:229300
+3	0.87	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.86	Hereditary sensory and autonomic neuropathy	OMIM:162400
+5	0.85	Refsum disease	OMIM:266500
+6	0.84	Spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+7	0.83	Perrault syndrome	OMIM:233400
+8	0.81	Dentatorubral-pallidoluysian atrophy	OMIM:125370
+9	0.8	Neuropathy, hereditary sensory, type IV	OMIM:256840
+10	0.79	Marinesco-Sjogren syndrome	OMIM:248800

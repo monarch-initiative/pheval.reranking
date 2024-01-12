@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polyposis syndrome, hereditary mixed epithelial/stromal 2	OMIM:116920
+2	0.8	Macrocephaly/autism syndrome	OMIM:605309
+3	0.7	PTEN hamartoma tumor syndrome	OMIM:158350
+4	0.6	Carpenter syndrome 1	OMIM:201000
+5	0.5	Cowden syndrome 1	OMIM:158350
+6	0.4	Cowden syndrome 2	OMIM:612359
+7	0.3	Cowden syndrome 3	OMIM:615106
+8	0.2	PTEN-related susceptibility to breast cancer	OMIM:114480
+9	0.1	PTEN-related susceptibility to endometrial cancer	OMIM:608089
+10	0.05	Glioma predisposition syndrome	OMIM:137800

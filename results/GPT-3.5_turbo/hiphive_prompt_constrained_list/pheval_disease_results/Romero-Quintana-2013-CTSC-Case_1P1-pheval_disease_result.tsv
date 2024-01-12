@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Periodontitis	OMIM:115150
+2	0.85	Papillon-Lefevre Syndrome	OMIM:245000
+3	0.8	Papillon-Lefevre-Like Syndrome	OMIM:617309
+4	0.75	Juvenile Periodontitis	OMIM:617053
+5	0.7	Hyper IgE Recurrent Infection Syndrome	OMIM:147060
+6	0.65	Keratosis Palmoplantaris Striata II	OMIM:612908
+7	0.6	Ectodermal Dysplasia Syndrome	OMIM:129490
+8	0.55	Rapp-Hodgkin Syndrome	OMIM:129400
+9	0.5	Polymerase Proofreading-Related Adenomatous Polyposis	OMIM:617100
+10	0.45	Ectodermal Dysplasia-Skin Fragility Syndrome	OMIM:601135

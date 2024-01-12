@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Idiopathic pulmonary fibrosis	OMIM:178500
+2	0.95	Dilated cardiomyopathy	OMIM:115200
+3	0.94	Hypertension	OMIM:145500
+4	0.93	Congestive heart failure	OMIM:617147
+5	0.91	Obstructive sleep apnea	OMIM:107250
+6	0.9	Obesity	OMIM:601665
+7	0.88	Chronic obstructive pulmonary disease	OMIM:606963
+8	0.87	Cleft palate	OMIM:119540
+9	0.86	Inflammatory bowel disease	OMIM:266600
+10	0.85	Abnormal facial shape	OMIM:612988

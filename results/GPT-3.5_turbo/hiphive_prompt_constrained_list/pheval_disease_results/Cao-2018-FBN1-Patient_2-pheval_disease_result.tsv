@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.94	Stickler syndrome	OMIM:108300
+3	0.93	Ehlers-Danlos syndrome	OMIM:130000
+4	0.92	Loeys-Dietz syndrome	OMIM:609192
+5	0.91	Noonan syndrome	OMIM:163950
+6	0.9	Hyper IgM syndrome	OMIM:308230
+7	0.89	Congenital contractural arachnodactyly	OMIM:121050
+8	0.88	Charcot-Marie-Tooth disease	OMIM:607734
+9	0.87	Larsen syndrome	OMIM:150250
+10	0.86	Ectopia lentis	OMIM:129600

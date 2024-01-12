@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.826	Pachyonychia congenita	OMIM:167200
+2	0.78	Alopecia universalis	OMIM:203655
+3	0.775	Ectodermal dysplasia	OMIM:305100
+4	0.77	Hidrotic ectodermal dysplasia	OMIM:129500
+5	0.764	Ectodermal dysplasia 10B	OMIM:617392
+6	0.759	Hypohidrotic ectodermal dysplasia	OMIM:305100
+7	0.757	Ectodermal dysplasia 10A, hypohidrotic/hair/tooth type	OMIM:129490
+8	0.754	Oculodentodigital dysplasia	OMIM:164200
+9	0.734	Trichodental syndrome	OMIM:190330
+10	0.73	Hypotrichosis 8	OMIM:278150

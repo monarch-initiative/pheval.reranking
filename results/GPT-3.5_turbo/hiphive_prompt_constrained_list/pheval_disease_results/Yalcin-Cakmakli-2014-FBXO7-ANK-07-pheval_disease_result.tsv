@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson Disease	OMIM:168600
+1	0.9	Parkinson Disease, Juvenile, Type 1	OMIM:168600
+3	0.8	Parkinson Disease, Late-Onset	OMIM:168600
+3	0.8	Parkinson Disease 2	OMIM:600116
+3	0.8	Parkinson Disease 15	OMIM:607688
+6	0.7	Dystonia 12	OMIM:128235
+6	0.7	Spasmodic Torticollis	OMIM:605204
+6	0.7	Parkinson Disease 3	OMIM:602404
+6	0.7	Parkinson Disease 4	OMIM:605543
+6	0.7	Parkinson Disease 20	OMIM:605242

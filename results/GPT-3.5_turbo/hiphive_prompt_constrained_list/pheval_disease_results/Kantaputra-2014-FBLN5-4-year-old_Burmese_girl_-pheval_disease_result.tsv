@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nasolacrimal duct obstruction	OMIM:600138
+2	0.8	Carious teeth	OMIM:601442
+3	0.7	Vesicoureteral reflux	OMIM:610878
+4	0.6	Bronchiectasis	OMIM:211400
+5	0.5	Inguinal hernia	OMIM:235400
+6	0.4	Hypertension	OMIM:145500
+7	0.3	Mitral regurgitation	OMIM:157700
+8	0.2	Flat sella turcica	OMIM:156580
+9	0.1	Aortic root aneurysm	OMIM:100050
+10	0.05	Epiphora	OMIM:617560

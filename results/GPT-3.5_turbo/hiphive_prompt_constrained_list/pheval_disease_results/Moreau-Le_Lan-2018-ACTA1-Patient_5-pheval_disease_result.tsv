@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Spinal muscular atrophy	OMIM:253300
+2	0.94	Muscular dystrophy	OMIM:310200
+3	0.92	Mitochondrial myopathy	OMIM:609560
+4	0.91	Congenital myasthenic syndrome	OMIM:608930
+5	0.89	Friedreich ataxia	OMIM:229300
+6	0.88	Charcot-Marie-Tooth disease	OMIM:118220
+7	0.87	Spinocerebellar ataxia	OMIM:164400
+8	0.85	Cerebellar atrophy	OMIM:257150
+9	0.84	Hereditary motor and sensory neuropathy	OMIM:607641
+10	0.82	Nemaline myopathy	OMIM:161800

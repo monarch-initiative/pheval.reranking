@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis 19	OMIM:615515
+2	0.85	Amyotrophic lateral sclerosis 2, juvenile	OMIM:205100
+3	0.8	Amyotrophic lateral sclerosis 4, juvenile	OMIM:602433
+4	0.75	Amyotrophic lateral sclerosis 5, juvenile	OMIM:602099
+5	0.7	Amyotrophic lateral sclerosis 3	OMIM:105400
+5	0.7	Amyotrophic lateral sclerosis 1	OMIM:105400
+7	0.65	Dejerine-Sottas syndrome	OMIM:145900
+8	0.6	Amyotrophic lateral sclerosis 20	OMIM:615426
+9	0.55	Charcot-Marie-Tooth disease, X-linked dominant	OMIM:302800
+10	0.5	Amyotrophic lateral sclerosis 8	OMIM:105600

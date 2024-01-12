@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Multiple congenital anomalies-hypotonia-seizures syndrome 1	OMIM:614080
+2	0.92	Tuberous sclerosis 2	OMIM:613254
+3	0.89	Chromosome 22q11.2 deletion syndrome	OMIM:188400
+4	0.86	Coffin-Siris syndrome 2	OMIM:614607
+5	0.82	Coloboma, ocular, and cleft lip/palate	OMIM:216800
+6	0.8	Congenital diaphragmatic hernia	OMIM:614392
+7	0.77	Diastrophic dysplasia	OMIM:222600
+8	0.74	Developmental delay with variable intellectual impairment and/or autism	OMIM:616081
+9	0.71	Spondyloepimetaphyseal dysplasia with joint laxity, type 2	OMIM:603546
+10	0.68	Preauricular pit and/or sinus, posterior	OMIM:612798

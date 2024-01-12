@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.848	Lujan-Fryns syndrome	OMIM:309520
+2	0.82	Thrombocytopenia-absent radius syndrome	OMIM:274000
+3	0.818	Noonan syndrome-like disorder with loose anagen hair 2	OMIM:617506
+4	0.79	Myhre syndrome	OMIM:139210
+5	0.787	Gray platelet syndrome	OMIM:139090
+6	0.785	Noonan syndrome-like disorder with loose anagen hair 1	OMIM:607721
+7	0.777	Stickler syndrome, type I	OMIM:108300
+8	0.764	Stickler syndrome, type II	OMIM:604841
+9	0.76	Branchiooculofacial syndrome	OMIM:113620
+10	0.755	Tetralogy of Fallot	OMIM:187500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.91	Klippel-Feil syndrome 1, autosomal dominant	OMIM:118450
+3	0.89	Alport syndrome, autosomal dominant	OMIM:104200
+4	0.88	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.87	Faciooculoskeletal syndrome 2	OMIM:227900
+6	0.86	CHARGE syndrome	OMIM:214800
+7	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.84	Fragile X syndrome	OMIM:300624
+9	0.83	Townes-Brocks syndrome 1	OMIM:107480
+9	0.83	Rubinstein-Taybi syndrome 2	OMIM:613684

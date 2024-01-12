@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.767	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.731	Cornelia de Lange syndrome	OMIM:122470
+2	0.731	Saethre-Chotzen syndrome	OMIM:101400
+4	0.727	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.727	Cockayne syndrome	OMIM:133540
+6	0.719	Williams-Beuren syndrome	OMIM:194050
+7	0.713	1p36 deletion syndrome	OMIM:607872
+8	0.711	FG syndrome	OMIM:300321
+9	0.708	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	OMIM:613684
+10	0.707	Sotos syndrome	OMIM:117550

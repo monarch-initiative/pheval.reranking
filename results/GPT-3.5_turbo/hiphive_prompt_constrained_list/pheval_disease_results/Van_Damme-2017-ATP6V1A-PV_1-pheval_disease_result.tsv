@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Marfan syndrome	OMIM:154700
+2	0.7	Ehlers-Danlos syndrome, classic type	OMIM:130000
+3	0.6	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.6	Loeys-Dietz syndrome	OMIM:609192
+3	0.6	Lujan-Fryns syndrome	OMIM:309520
+6	0.5	Keutel syndrome	OMIM:245150
+6	0.5	Cohen syndrome	OMIM:216550
+6	0.5	Weaver syndrome	OMIM:277590
+6	0.5	Neurofibromatosis, type 1	OMIM:162200
+6	0.5	Mowat-Wilson syndrome	OMIM:235730

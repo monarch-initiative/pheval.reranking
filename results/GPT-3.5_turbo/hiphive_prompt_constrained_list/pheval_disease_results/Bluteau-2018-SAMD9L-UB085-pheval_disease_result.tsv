@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.841	Coffin-Lowry syndrome	OMIM:303600
+2	0.831	Polycystic kidney disease	OMIM:173900
+3	0.826	Joubert syndrome	OMIM:213300
+3	0.826	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.82	Nephronophthisis	OMIM:256100
+6	0.819	Desmosterolosis	OMIM:602398
+7	0.808	Simpson-Golabi-Behmel syndrome	OMIM:312870
+8	0.8	Hypohidrotic ectodermal dysplasia	OMIM:305100
+9	0.798	Alpha-thalassemia/mental retardation syndrome	OMIM:301040
+9	0.798	Spinal muscular atrophy	OMIM:253300

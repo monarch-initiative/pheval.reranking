@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.81	Costello syndrome	OMIM:218040
+2	0.79	Noonan syndrome	OMIM:163950
+3	0.76	Cardiofaciocutaneous syndrome	OMIM:115150
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.74	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.72	Coffin-Siris syndrome	OMIM:135900
+7	0.71	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.7	Rett syndrome	OMIM:312750
+9	0.67	CHARGE syndrome	OMIM:214800
+10	0.66	Apert syndrome	OMIM:101200

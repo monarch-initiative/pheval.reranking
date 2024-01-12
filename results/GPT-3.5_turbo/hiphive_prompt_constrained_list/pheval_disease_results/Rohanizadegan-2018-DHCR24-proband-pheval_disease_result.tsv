@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.85	Seckel syndrome 1	OMIM:210600
+3	0.8	Osteopetrosis, autosomal recessive 1	OMIM:259700
+4	0.75	Syndromic intellectual disability due to DYRK1A point mutations	OMIM:614104
+5	0.7	Kabuki syndrome 1	OMIM:147920
+6	0.65	Hyper IgM syndrome, type 1	OMIM:308230
+7	0.6	Recessive dystrophic epidermolysis bullosa	OMIM:226600
+8	0.55	3-M syndrome 1	OMIM:273750
+9	0.5	Thrombocytopenia 1	OMIM:313900
+10	0.45	Familial adenomatous polyposis 1	OMIM:175100

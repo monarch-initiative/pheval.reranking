@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Marfan syndrome	OMIM:154700
+2	0.7	Ehlers-Danlos syndrome	OMIM:225400
+3	0.6	Stickler syndrome	OMIM:108300
+4	0.55	Leber hereditary optic neuropathy	OMIM:535000
+5	0.48	Alkaptonuria	OMIM:203500
+6	0.45	Hereditary spastic paraplegia	OMIM:604805
+7	0.43	Achondroplasia	OMIM:100800
+8	0.4	Charcot-Marie-Tooth disease	OMIM:118200
+9	0.36	Neurofibromatosis type 1	OMIM:162200
+10	0.33	Noonan syndrome	OMIM:163950

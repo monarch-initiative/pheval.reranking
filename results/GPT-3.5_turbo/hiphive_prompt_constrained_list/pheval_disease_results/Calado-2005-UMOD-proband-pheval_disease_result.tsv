@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polycystic kidney disease	OMIM:613254
+2	0.85	Autosomal dominant polycystic kidney disease	OMIM:613454
+3	0.8	Nephronophthisis	OMIM:256100
+4	0.75	Medullary cystic kidney disease	OMIM:603095
+5	0.7	Hyperuricemic nephropathy, familial juvenile 1	OMIM:162000
+6	0.65	Xanthinuria, type I	OMIM:278300
+7	0.6	Hypouricemia	OMIM:606142
+8	0.55	Uric acid nephrolithiasis	OMIM:605990
+9	0.5	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+10	0.45	Benign essential hypertension	OMIM:145500

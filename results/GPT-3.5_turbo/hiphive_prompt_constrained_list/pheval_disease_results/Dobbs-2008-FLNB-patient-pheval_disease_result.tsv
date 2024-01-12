@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9998000464448944	Cleft palate	OMIM:119540
+2	0.9881213930830123	Short metacarpal	OMIM:118100
+3	0.970165020286294	Hypertelorism	OMIM:145410
+4	0.9597218465236182	Breech presentation	OMIM:601543
+5	0.958498661994934	Hip dislocation	OMIM:142945
+6	0.955451707816176	Cervical kyphosis	OMIM:603932
+7	0.9310660208991427	Elbow flexion contracture	OMIM:177170
+8	0.9198835430145264	Knee dislocation	OMIM:264350
+9	0.9089252995344905	Scoliosis	OMIM:184000
+10	0.9027229543283832	High maternal serum alpha-fetoprotein	OMIM:601218

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Lethal congenital contracture syndrome type 5	OMIM:615368
+2	0.93	Carnitine palmitoyltransferase II deficiency, infantile	OMIM:600649
+3	0.92	Distal myopathy with vocal cord weakness	OMIM:614399
+4	0.91	Myopathy, myofibrillar, desmin-related	OMIM:601419
+5	0.89	Lebers congenital amaurosis 6	OMIM:613826
+6	0.88	Pontocerebellar hypoplasia, type 1B	OMIM:614678
+7	0.86	Leigh syndrome	OMIM:256000
+8	0.85	Peroxisome biogenesis disorder 2A	OMIM:214110
+9	0.84	2-aminoadipic 2-oxoadipic aciduria	OMIM:204750
+10	0.83	Phosphoserine aminotransferase deficiency	OMIM:610992

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.98	Congenital disorder of glycosylation, type Ia	OMIM:212065
+3	0.95	Aicardi-Goutières syndrome 1	OMIM:225750
+4	0.94	Cri-du-chat syndrome	OMIM:123450
+5	0.93	Rett syndrome	OMIM:312750
+6	0.92	Angelman syndrome	OMIM:105830
+7	0.91	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.89	Pitt-Hopkins syndrome	OMIM:610954
+9	0.88	Williams-Beuren syndrome	OMIM:194050
+10	0.86	Galloway-Mowat syndrome 5	OMIM:617729

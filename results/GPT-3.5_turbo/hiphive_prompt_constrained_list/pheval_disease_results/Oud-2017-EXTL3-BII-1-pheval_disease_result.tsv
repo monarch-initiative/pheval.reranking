@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly	OMIM:251200
+2	0.8	Spondyloepiphyseal dysplasia	OMIM:183900
+3	0.7	Severe global developmental delay	OMIM:612580
+4	0.6	Failure to thrive	OMIM:601445
+5	0.5	Global developmental delay	OMIM:614751
+6	0.4	Short stature	OMIM:604271
+7	0.3	Short neck	OMIM:263570
+7	0.3	Short 5th finger	OMIM:266600
+7	0.3	Clinodactyly of the 5th finger	OMIM:123000
+10	0.2	Short 5th toe	OMIM:263570

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.24748689293861467	Mental retardation, autosomal dominant 1	OMIM:156200
+2	0.22277131271362377	Smith-Magenis syndrome	OMIM:182290
+3	0.2134246313571343	Dandy-Walker malformation with mental retardation, macrocephaly, myopia, and brachytelephalangy	OMIM:612940
+4	0.20449232401591394	Koolen-De Vries syndrome	OMIM:610443
+5	0.1937173693650136	Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination	OMIM:618231
+6	0.19304349991777392	Chromosome 17q12 deletion syndrome	OMIM:614527
+7	0.18131049106979333	FANCB, XRCC2, BRCA2, and RAD51C Predisposition to Breast Cancer	OMIM:612591
+8	0.178890233407462	Mental retardation, autosomal dominant 15	OMIM:614669
+9	0.1765836854304684	Mental retardation, autosomal dominant 16	OMIM:614609
+10	0.17555434525964192	Autism, susceptibility to, 15	OMIM:612100

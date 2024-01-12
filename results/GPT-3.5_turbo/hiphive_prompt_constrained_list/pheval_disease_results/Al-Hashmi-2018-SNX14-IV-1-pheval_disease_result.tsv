@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Mucolipidosis II alpha/beta	OMIM:252500
+2	0.7	Mucolipidosis III alpha/beta	OMIM:252600
+3	0.65	Mucolipidosis IV	OMIM:252650
+4	0.6	Mucopolysaccharidosis type II	OMIM:309900
+5	0.55	Mucolipidosis I	OMIM:252650
+6	0.5	Mucolipidosis III gamma	OMIM:252605
+7	0.45	Mucolipidosis III delta	OMIM:252607
+8	0.4	Mucolipidosis III beta	OMIM:252605
+9	0.35	Mucolipidosis III alpha	OMIM:252600
+10	0.3	Mucolipidosis III gamma/delta	OMIM:252607

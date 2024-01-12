@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.944	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.904	Microcephalic Osteodysplastic Primordial Dwarfism, Type II	OMIM:210720
+3	0.884	X-Linked Intellectual Disability, Nascimento Type	OMIM:300860
+4	0.862	Muscular Dystrophy-Dystroglycanopathy (Congenital LMNA-Related)	OMIM:608423
+5	0.836	Microcephaly-Capillary Malformation Syndrome	OMIM:614261
+6	0.818	Muscular Dystrophy-Dystroglycanopathy (Congenital with Brain and Eye Anomalies), Type A, 5	OMIM:615419
+7	0.758	Leukodystrophy, Hypomyelinating, 7, with or without Oligodontia and/or Hypogonadotropic Hypogonadism	OMIM:607694
+8	0.756	Ichthyosis, Congenital, Autosomal Recessive 10	OMIM:615024
+9	0.75	Intestinal Pseudoobstruction, Neuropathy, and Deafness	OMIM:609629
+10	0.744	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	OMIM:611105

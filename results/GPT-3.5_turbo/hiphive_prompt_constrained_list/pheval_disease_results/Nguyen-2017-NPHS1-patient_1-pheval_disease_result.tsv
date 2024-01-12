@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Congenital nephrotic syndrome	OMIM:251100
+2	0.89	Nephrotic syndrome	OMIM:256300
+3	0.86	Familial chylomicronemia syndrome	OMIM:238600
+4	0.82	Hyperlipoproteinemia, type Ib	OMIM:615947
+4	0.82	Lecithin:cholesterol acyltransferase deficiency	OMIM:245900
+6	0.78	Hemolytic uremic syndrome	OMIM:235400
+7	0.77	Dysbetalipoproteinemia	OMIM:107600
+8	0.76	Lipodystrophy, familial partial, type 2	OMIM:151660
+9	0.75	Familial Hypercholesterolemia	OMIM:143890
+10	0.74	Hyperlipoproteinemia, type IV	OMIM:144600

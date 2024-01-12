@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis laxa	OMIM:219100
+2	0.85	Congestive heart failure	OMIM:114250
+3	0.8	Aortic aneurysm	OMIM:100070
+4	0.75	Cryptorchidism	OMIM:238320
+5	0.7	Kyphoscoliosis	OMIM:181440
+6	0.65	Abnormal heart morphology	OMIM:614080
+7	0.6	Abnormal subcutaneous fat tissue distribution	OMIM:275400
+8	0.55	Entropion	OMIM:125200
+9	0.5	Generalized hypotonia	OMIM:256350
+10	0.45	Flexion contracture	OMIM:158300

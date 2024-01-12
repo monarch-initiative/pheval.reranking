@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+2	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.82	Cornelia de Lange syndrome	OMIM:122470
+4	0.8	Rett syndrome	OMIM:312750
+5	0.78	Pitt-Hopkins syndrome	OMIM:610954
+6	0.76	Angelman syndrome	OMIM:105830
+7	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.73	Fragile X syndrome	OMIM:300624
+9	0.72	Phelan-McDermid syndrome	OMIM:606232
+10	0.7	Prader-Willi syndrome	OMIM:176270

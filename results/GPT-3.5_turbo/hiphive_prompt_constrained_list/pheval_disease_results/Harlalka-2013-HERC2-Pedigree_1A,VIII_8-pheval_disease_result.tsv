@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autism spectrum disorder	OMIM:209850
+2	0.93	Rett syndrome	OMIM:312750
+3	0.91	Angelman syndrome	OMIM:105830
+4	0.9	Phelan-McDermid syndrome	OMIM:606232
+5	0.89	Smith-Magenis syndrome	OMIM:182290
+6	0.87	Cri-du-chat syndrome	OMIM:123450
+7	0.85	Prader-Willi syndrome	OMIM:176270
+8	0.82	Floating-Harbor syndrome	OMIM:136140
+9	0.8	Angry facial expression	OMIM:614807

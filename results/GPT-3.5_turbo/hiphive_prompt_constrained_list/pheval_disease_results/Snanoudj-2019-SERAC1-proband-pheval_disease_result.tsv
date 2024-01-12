@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.8	Mitochondrial complex IV deficiency	OMIM:220110
+3	0.7	Dopa-responsive dystonia	OMIM:128230
+4	0.6	Epileptic encephalopathy, early infantile, 2	OMIM:615011
+5	0.5	Deficiency of beta-mannosidase	OMIM:248510
+6	0.4	Combined oxidative phosphorylation deficiency	OMIM:609060
+6	0.4	Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+8	0.3	Pontocerebellar hypoplasia	OMIM:610181
+8	0.3	MELAS syndrome	OMIM:540000
+8	0.3	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170

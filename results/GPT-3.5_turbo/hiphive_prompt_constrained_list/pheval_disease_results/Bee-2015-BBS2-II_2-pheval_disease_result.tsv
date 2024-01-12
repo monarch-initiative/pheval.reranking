@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Retinitis pigmentosa	OMIM:268000
+2	0.7	Bardet-Biedl syndrome	OMIM:209900
+3	0.6	Nephronophthisis	OMIM:256100
+3	0.6	Polycystic kidney disease	OMIM:173900
+5	0.5	Alport syndrome	OMIM:301050
+5	0.5	Polycystic liver disease	OMIM:174050
+7	0.4	Secondary hyperparathyroidism	OMIM:614498
+7	0.4	Ciliopathy	OMIM:614872
+7	0.4	Familial adenomatous polyposis	OMIM:175100
+10	0.3	Birt-Hogg-Dubé syndrome	OMIM:135150

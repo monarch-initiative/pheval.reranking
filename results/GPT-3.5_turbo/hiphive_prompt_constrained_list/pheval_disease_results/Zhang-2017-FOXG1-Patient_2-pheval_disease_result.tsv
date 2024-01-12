@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:209850
+2	0.85	PTEN hamartoma tumor syndrome	OMIM:158350
+3	0.8	Fragile X syndrome	OMIM:300624
+4	0.75	Rett syndrome	OMIM:312750
+5	0.7	Pitt-Hopkins syndrome	OMIM:610954
+6	0.65	Angelman syndrome	OMIM:105830
+7	0.6	Phelan-McDermid syndrome	OMIM:606232
+8	0.55	Kleefstra syndrome	OMIM:610253
+9	0.5	Cri-du-chat syndrome	OMIM:123450
+10	0.45	Rubinstein-Taybi syndrome	OMIM:180849

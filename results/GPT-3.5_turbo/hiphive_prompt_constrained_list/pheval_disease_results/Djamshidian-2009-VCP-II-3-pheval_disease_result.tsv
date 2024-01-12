@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular Dystrophy, Duchenne Type	OMIM:310200
+1	0.9	Muscular Dystrophy, Becker Type	OMIM:300376
+3	0.85	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+3	0.85	Spinal Muscular Atrophy, Type III	OMIM:253400
+5	0.8	Limb-Girdle Muscular Dystrophy, Type 2A	OMIM:253600
+5	0.8	Limb-Girdle Muscular Dystrophy, Type 2D	OMIM:601287
+7	0.75	Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain And Eye Anomalies), Type A, 5	OMIM:613153
+7	0.75	Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain And Eye Anomalies), Type A, 1	OMIM:236670
+9	0.7	Muscular Dystrophy-Dystroglycanopathy (Congenital With Mental Retardation), Type B, 2	OMIM:613156
+9	0.7	Charcot-Marie-Tooth Disease, Type 2A1	OMIM:118210

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Meconium ileus	OMIM:614665
+2	0.91	Congenital diaphragmatic hernia	OMIM:142340
+3	0.9	Oral cleft	OMIM:119540
+4	0.89	Duodenal atresia	OMIM:241100
+5	0.88	Tracheoesophageal fistula	OMIM:189960
+5	0.88	Multicystic kidney dysplasia	OMIM:292460
+7	0.87	Gastroesophageal reflux	OMIM:109350
+8	0.86	Intestinal malrotation	OMIM:610402
+9	0.85	Pulmonary hypoplasia	OMIM:265430
+10	0.84	Cloacal exstrophy	OMIM:217800

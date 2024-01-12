@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Proximal spinal muscular atrophy	OMIM:253300
+1	0.99	Spinal muscular atrophy	OMIM:253300
+3	0.74	Gastroesophageal reflux	OMIM:109350
+3	0.74	Otitis media	OMIM:166760
+5	0.68	Failure to thrive	OMIM:609069
+6	0.67	Global developmental delay	OMIM:614140
+7	0.66	Seizures	OMIM:600512
+7	0.66	Depressed nasal bridge	OMIM:600057
+9	0.65	Constipation	OMIM:211980
+10	0.62	Hypertelorism	OMIM:145410

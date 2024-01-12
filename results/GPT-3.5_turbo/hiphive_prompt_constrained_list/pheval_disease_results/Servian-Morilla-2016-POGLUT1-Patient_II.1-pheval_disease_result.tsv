@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Central core disease	OMIM:117000
+2	0.96	Myopathy, distal, 2	OMIM:616482
+3	0.95	Myopathy, distal, 4	OMIM:614065
+4	0.94	Myopathy, distal, 6	OMIM:616812
+5	0.93	Myopathy, distal, 10	OMIM:616165
+6	0.91	Myopathy, distal, 13	OMIM:614399
+7	0.9	Myopathy, distal, with anterior tibial onset	OMIM:616716
+8	0.88	Winged scapula	OMIM:184600
+9	0.87	Muscular dystrophy, limb-girdle, type 2K	OMIM:617193
+10	0.86	Muscular dystrophy, limb-girdle, type 2N	OMIM:617066

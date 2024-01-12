@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alzheimer disease	OMIM:104300
+2	0.85	Frontotemporal dementia and/or amyotrophic lateral sclerosis 1	OMIM:105550
+3	0.8	Autism, susceptibility to, 1	OMIM:209850
+4	0.75	Schizophrenia	OMIM:181500
+5	0.7	Parkinson disease 4, autosomal dominant	OMIM:605543
+6	0.65	Pick disease of the brain	OMIM:172700
+7	0.6	Huntington disease-like 2	OMIM:606438
+8	0.55	Frontotemporal dementia, chromosome 17-linked	OMIM:600274
+9	0.5	Frontotemporal dementia, ubiquitin-positive	OMIM:600274
+10	0.45	Bipolar disorder	OMIM:125480

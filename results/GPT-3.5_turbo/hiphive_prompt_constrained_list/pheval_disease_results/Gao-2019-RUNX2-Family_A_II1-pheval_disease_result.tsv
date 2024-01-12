@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cleidocranial dysplasia	OMIM:119600
+2	0.96	Osteogenesis imperfecta	OMIM:166200
+3	0.95	Pyle disease	OMIM:265900
+4	0.94	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+5	0.93	Metaphyseal dysplasia without hypotrichosis	OMIM:250460
+6	0.92	Oto-Palato-Digital Syndrome Type 2	OMIM:203337
+7	0.91	Diabetes Insipidus, Nephrogenic, X-Linked	OMIM:304800
+7	0.91	Osteochondrodysplasia, Complex Lethal	OMIM:616897
+9	0.9	Cystinosis, Nephropathic	OMIM:219800
+10	0.89	Mucopolysaccharidosis, Type Iiia	OMIM:252900

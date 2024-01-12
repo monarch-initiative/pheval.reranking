@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Atrial septal defect	OMIM:108800
+1	0.9	Hypertelorism	OMIM:145410
+1	0.9	Macroglossia	OMIM:153630
+1	0.9	Intellectual disability	OMIM:156200
+1	0.9	Myopia	OMIM:160700
+1	0.9	Micrognathia	OMIM:156560
+1	0.9	Cryptorchidism	OMIM:219050
+1	0.9	Depression	OMIM:608516
+1	0.9	Abnormal facial shape	OMIM:200100
+1	0.9	Hypospadias	OMIM:300633

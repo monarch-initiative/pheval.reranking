@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome 1	OMIM:135900
+2	0.85	Potocki-Shaffer syndrome	OMIM:601224
+3	0.8	CHARGE syndrome	OMIM:214800
+3	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.75	Pitt-Hopkins syndrome	OMIM:610954
+5	0.75	Severe intellectual disability and progressive postnatal microcephaly	OMIM:617447
+7	0.7	Pontocerebellar hypoplasia type 2A	OMIM:277470
+7	0.7	Chediak-Higashi syndrome	OMIM:214500
+9	0.65	Floating-Harbor syndrome	OMIM:136140
+10	0.6	Rubinstein-Taybi syndrome 1	OMIM:180849

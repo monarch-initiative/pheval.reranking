@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.871	Microcephaly	OMIM:251200
+2	0.858	Spastic tetraparesis	OMIM:613155
+3	0.852	Ventriculomegaly	OMIM:617649
+4	0.847	Delayed myelination	OMIM:605908
+5	0.845	Delayed gross motor development	OMIM:206100
+6	0.84	Cerebral cortical atrophy	OMIM:603317
+7	0.828	Dystonia	OMIM:128230
+8	0.822	Dysphagia	OMIM:602771
+9	0.815	Absent speech	OMIM:231670
+10	0.811	Hyperalaninemia	OMIM:203740

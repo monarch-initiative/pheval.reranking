@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia	OMIM:271640
+2	0.85	Hepatic cysts	OMIM:605282
+3	0.8	Strabismus	OMIM:185100
+4	0.75	Omphalocele	OMIM:115150
+5	0.7	Pectus excavatum	OMIM:169300
+6	0.65	Mitral regurgitation	OMIM:157700
+7	0.6	Muscular hypotonia	OMIM:603637
+8	0.55	Coarse facial features	OMIM:259100
+9	0.5	Kyphoscoliosis	OMIM:218040
+10	0.45	Cervical instability	OMIM:118420

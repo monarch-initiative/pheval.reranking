@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Intellectual disability-epilepsy-endocrinopathy-arthrogryposis syndrome	OMIM:614296
+2	0.7	Autosomal recessive spastic paraplegia type 55	OMIM:612233
+3	0.65	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	OMIM:612674
+3	0.65	Severe mental retardation, with spasticity and hyperkinetic movements	OMIM:614125
+3	0.65	Heimler syndrome 2	OMIM:616617
+3	0.65	Hypotonia, infantile, with psychomotor retardation and characteristic facies 2	OMIM:614549
+3	0.65	Congenital skeletal defect syndrome	OMIM:118600
+8	0.6	Coffin-Siris syndrome 2	OMIM:614607
+8	0.6	Intellectual developmental disorder with autism spectrum disorder and gait instability	OMIM:618077
+8	0.6	Infantile Parkinsonism-dystonia	OMIM:616643

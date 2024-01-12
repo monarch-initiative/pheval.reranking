@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalencephaly-Capillary Malformation-Polymicrogyria Syndrome	OMIM:613254
+2	0.85	Trisomy 21	OMIM:190685
+3	0.83	Floating-Harbor Syndrome	OMIM:136140
+4	0.82	Angelman Syndrome	OMIM:105830
+5	0.8	GAMT Deficiency	OMIM:612736
+6	0.78	3-Methylglutaconic Aciduria Type I	OMIM:250950
+7	0.76	Kabuki Syndrome	OMIM:147920
+8	0.73	Norrie Disease	OMIM:310600
+9	0.71	Cornelia de Lange Syndrome 1	OMIM:122470
+10	0.7	Rett Syndrome	OMIM:312750

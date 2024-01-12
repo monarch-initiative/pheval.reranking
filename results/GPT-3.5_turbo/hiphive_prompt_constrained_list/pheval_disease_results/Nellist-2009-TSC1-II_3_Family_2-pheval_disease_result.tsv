@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.945	Tuberous sclerosis 1	OMIM:191100
+2	0.941	Tuberous sclerosis 2	OMIM:613254
+3	0.932	Tuberous sclerosis 1 and 2	OMIM:605284
+4	0.928	Tuberous sclerosis 2 with nonspecific psychomotor delay	OMIM:613454
+5	0.924	Tuberous sclerosis 1 with infantile spasms	OMIM:613990
+6	0.882	Neurofibromatosis, type 1	OMIM:162200
+7	0.881	Neurofibromatosis, type 2	OMIM:101200
+8	0.876	Cowden syndrome 1	OMIM:158350
+9	0.874	Cowden syndrome 2	OMIM:612359
+10	0.87	Cowden syndrome 3	OMIM:615106

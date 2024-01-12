@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.872	Wilson disease	OMIM:277900
+2	0.857	Hereditary hemochromatosis	OMIM:235200
+3	0.844	Primary hyperoxaluria type 1	OMIM:259900
+4	0.838	Glycogen storage disease type II	OMIM:232300
+5	0.825	Primary biliary cirrhosis	OMIM:109720
+6	0.797	Glycogen storage disease type I	OMIM:232200
+7	0.787	Familial hypercholesterolemia	OMIM:143890
+8	0.779	Alagille syndrome	OMIM:118450
+9	0.768	Cholestasis	OMIM:214700
+10	0.741	Hypobetalipoproteinemia	OMIM:615558

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Short stature, microcephaly, and endocrine dysfunction	OMIM:613254
+2	0.95	Polydactyly, postaxial, type B	OMIM:174300
+3	0.92	Syndactyly, type IV	OMIM:186200
+4	0.9	Glaucoma 3, primary congenital, E	OMIM:617272
+5	0.89	Xeroderma pigmentosum, complementation group A	OMIM:278700
+6	0.87	Intellectual developmental disorder with macrocephaly, seizures, and speech delay	OMIM:616801
+7	0.84	Macrocephaly, macrosomia, facial dysmorphism syndrome	OMIM:614192
+8	0.81	Simply complexity	OMIM:300317
+9	0.78	Baraitser-Winter syndrome 1	OMIM:243310
+10	0.75	Phosphoserine aminotransferase deficiency	OMIM:610992

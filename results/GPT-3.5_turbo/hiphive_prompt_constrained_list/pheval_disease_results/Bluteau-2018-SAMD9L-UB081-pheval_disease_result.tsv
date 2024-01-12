@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Shwachman-Diamond syndrome	OMIM:260400
+2	0.87	Fanconi anemia	OMIM:227650
+3	0.83	Diamond-Blackfan anemia	OMIM:105650
+4	0.81	Severe congenital neutropenia	OMIM:202700
+5	0.79	Barth syndrome	OMIM:302060
+6	0.77	Congenital dyserythropoietic anemia	OMIM:224120
+7	0.75	Glycogen storage disease type Ia	OMIM:232200
+8	0.73	Fanconi-Bickel syndrome	OMIM:227810
+9	0.71	Wolman disease	OMIM:278000
+10	0.69	Pantothenate kinase-associated neurodegeneration	OMIM:234200

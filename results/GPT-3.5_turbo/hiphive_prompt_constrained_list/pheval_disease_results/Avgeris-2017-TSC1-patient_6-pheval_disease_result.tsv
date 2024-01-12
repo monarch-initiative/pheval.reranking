@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tuberous Sclerosis 1	OMIM:191100
+2	0.93	Tuberous Sclerosis 2	OMIM:613254
+3	0.92	Tuberous Sclerosis 3	OMIM:615981
+4	0.9	Tuberous Sclerosis 4	OMIM:615982
+5	0.89	Tuberous Sclerosis 5	OMIM:616079
+6	0.88	Tuberous Sclerosis 6	OMIM:616828
+7	0.87	Tuberous Sclerosis 7	OMIM:618089
+8	0.86	Tuberous Sclerosis 8	OMIM:618000
+9	0.85	Epilepsy, Tuberous Sclerosis Type 1	OMIM:191290
+10	0.84	Epilepsy, Tuberous Sclerosis Type 2	OMIM:613254

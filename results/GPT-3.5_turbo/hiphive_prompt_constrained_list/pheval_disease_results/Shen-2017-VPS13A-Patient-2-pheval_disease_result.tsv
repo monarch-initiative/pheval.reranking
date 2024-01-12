@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Chorea	OMIM:118450
+2	0.9	Huntington Disease	OMIM:143100
+3	0.88	Neuroacanthocytosis	OMIM:200150
+4	0.85	McLeod Neuroacanthocytosis Syndrome	OMIM:300842
+5	0.83	HDLS, Lichtenstein type	OMIM:607741
+6	0.8	HARP Syndrome	OMIM:607236
+7	0.78	PKAN	OMIM:234200
+7	0.78	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+9	0.76	Juvenile-Onset Huntington Disease	OMIM:143100
+10	0.74	Wilson Disease	OMIM:277900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary hyperoxaluria	OMIM:259900
+2	0.92	Renal tubular acidosis	OMIM:266200
+3	0.9	Familial juvenile hyperuricemic nephropathy	OMIM:162000
+4	0.88	Glomerulonephritis	OMIM:138780
+5	0.86	Fanconi syndrome	OMIM:134600
+6	0.84	Severe combined immunodeficiency	OMIM:602450
+7	0.82	Nephropathy, cystinosis, adult	OMIM:219800
+8	0.8	Infantile Bartter syndrome with sensorineural deafness	OMIM:241200
+9	0.78	Cystinuria	OMIM:220100
+10	0.76	Nephrolithiasis	OMIM:605750

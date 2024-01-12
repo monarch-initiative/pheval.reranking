@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 4	OMIM:613254
+2	0.8	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	OMIM:615193
+3	0.7	Autism 3	OMIM:608716
+4	0.6	Cerebral creatine deficiency syndrome 1	OMIM:300352
+5	0.5	Pitt-Hopkins syndrome	OMIM:610954
+6	0.4	Autism 10	OMIM:611016
+7	0.3	Autism, susceptibility to, 25	OMIM:615515
+8	0.2	Intellectual developmental disorder 30	OMIM:616761
+9	0.1	Developmental delay and autistic features with or without seizures and gait abnormalities	OMIM:617763
+10	0.0	Intellectual developmental disorder with persistent speech impairment	OMIM:618034

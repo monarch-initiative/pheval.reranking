@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.978	Spastic paraplegia 64, autosomal recessive	OMIM:613854
+1	0.978	Spastic paraplegia 76, autosomal recessive	OMIM:618914
+3	0.964	Spastic ataxia 1, autosomal dominant	OMIM:600350
+3	0.964	Spastic paraplegia 54, autosomal recessive	OMIM:615033
+5	0.953	Spastic paraplegia 24, autosomal dominant	OMIM:609541
+6	0.928	Friedreich ataxia	OMIM:229300
+7	0.919	Spastic paraplegia 43, autosomal dominant	OMIM:615043
+7	0.919	Spastic paraplegia 16, autosomal recessive	OMIM:613724
+9	0.911	Spastic paraplegia 23, autosomal recessive	OMIM:270750
+9	0.911	Spastic paraplegia 48, autosomal dominant	OMIM:612647

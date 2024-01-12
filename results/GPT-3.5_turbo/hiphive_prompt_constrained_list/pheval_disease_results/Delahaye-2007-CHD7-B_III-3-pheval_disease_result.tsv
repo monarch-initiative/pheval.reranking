@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Nance-Horan syndrome	OMIM:302350
+2	0.94	VACTERL association	OMIM:192350
+3	0.92	Mend syndrome	OMIM:300960
+4	0.89	Fanconi anemia complementation group D2	OMIM:227646
+5	0.88	Fanconi anemia complementation group A	OMIM:609642
+6	0.85	Cerebrooculofacioskeletal syndrome 1	OMIM:214150
+7	0.82	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.8	Townes-Brocks syndrome	OMIM:107480
+9	0.78	Branchiootorenal syndrome	OMIM:113650
+10	0.76	Congenital disorder of glycosylation type Ia	OMIM:212065

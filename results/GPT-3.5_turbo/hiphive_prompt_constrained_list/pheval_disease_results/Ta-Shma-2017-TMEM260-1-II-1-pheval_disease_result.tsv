@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tetralogy of Fallot with pulmonary atresia	OMIM:614959
+2	0.94	Tricuspid atresia	OMIM:604772
+3	0.93	Tetralogy of Fallot	OMIM:187500
+4	0.92	Transposition of the great arteries	OMIM:608808
+5	0.91	Double outlet right ventricle	OMIM:217095
+6	0.9	Ventricular septal defect	OMIM:614429
+7	0.89	Pulmonary atresia	OMIM:178800
+8	0.88	Hypoplastic left heart syndrome	OMIM:614196
+9	0.87	Atrial septal defect	OMIM:108800
+10	0.86	Atrioventricular septal defect	OMIM:614430

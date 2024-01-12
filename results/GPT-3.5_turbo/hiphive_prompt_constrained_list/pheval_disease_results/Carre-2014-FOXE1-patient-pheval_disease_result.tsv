@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	CHARGE Syndrome	OMIM:214800
+2	0.9	X-linked Intellectual Disability, Siderius Type	OMIM:300127
+3	0.85	Meckel Syndrome, Type 7	OMIM:267010
+4	0.8	Congenital Central Hypoventilation Syndrome	OMIM:209880
+4	0.8	Familial Central Hypoventilation Syndrome	OMIM:209880
+6	0.75	Peters-plus Syndrome	OMIM:261540
+7	0.7	CANVAS Syndrome	OMIM:619194
+8	0.65	Simpson-Golabi-Behmel Syndrome Type 1	OMIM:312870
+9	0.6	Coffin-Lowry Syndrome	OMIM:303600
+10	0.55	Severe Combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:602450

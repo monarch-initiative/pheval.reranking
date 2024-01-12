@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Pontocerebellar hypoplasia type 10	OMIM:617333
+2	0.94	Pontocerebellar hypoplasia type 7	OMIM:610168
+3	0.92	Congenital disorder of glycosylation type 1w	OMIM:612940
+4	0.89	Pontocerebellar hypoplasia type 2a	OMIM:277470
+5	0.87	Congenital disorder of glycosylation type 1aa	OMIM:613507
+6	0.84	Sjogren-Larsson Syndrome	OMIM:270200
+7	0.81	Nonketotic hyperglycinemia	OMIM:605899
+8	0.78	Pontocerebellar hypoplasia type 6	OMIM:610990
+9	0.75	Congenital disorder of glycosylation type 2a	OMIM:212066
+10	0.72	Congenital disorder of glycosylation type 1x	OMIM:300367

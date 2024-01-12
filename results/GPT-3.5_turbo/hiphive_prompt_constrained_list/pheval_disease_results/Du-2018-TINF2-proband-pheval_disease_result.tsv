@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cone-Rod Dystrophy 1	OMIM:613253
+2	0.87	Schimke immuno-osseous dysplasia	OMIM:242900
+3	0.86	Aplastic anemia	OMIM:609135
+4	0.85	Cutaneous telangiectasia and cancer syndrome, familial	OMIM:614564
+5	0.82	Hypogonadotropic hypogonadism 1 with or without anosmia	OMIM:308700
+5	0.82	Pulmonary fibrosis, idiopathic	OMIM:614107
+7	0.81	Waardenburg syndrome, type 1	OMIM:193500
+7	0.81	Pulmonary fibrosis, familial	OMIM:178500
+9	0.8	Fanconi anemia, complementation group F	OMIM:603467
+10	0.79	Primary ciliary dyskinesia20, with or without situs inversus	OMIM:617807

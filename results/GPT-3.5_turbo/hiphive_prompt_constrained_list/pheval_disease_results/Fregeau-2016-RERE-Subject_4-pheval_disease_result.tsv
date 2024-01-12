@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.77	Pitt-Hopkins-like syndrome 1	OMIM:613954
+2	0.75	Autism spectrum disorder	OMIM:209850
+3	0.74	Rubinstein-Taybi syndrome 2	OMIM:613684
+4	0.72	PTEN hamartoma tumor syndrome	OMIM:158350
+5	0.71	Fragile X syndrome	OMIM:300624
+6	0.7	Severe intellectual disability and progressive spastic paraplegia	OMIM:618279
+7	0.69	Angelman syndrome	OMIM:105830
+8	0.68	Rett syndrome	OMIM:312750
+9	0.67	Focal epilepsy-intellectual disability syndrome, childhood onset	OMIM:618623
+10	0.66	Kwashiorkor	OMIM:604152

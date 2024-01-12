@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8566805931924071	Growth delay	OMIM:617318
+2	0.7919869191830982	Neurodevelopmental delay	OMIM:614257
+3	0.7908967315674307	Intellectual disability	OMIM:614221
+4	0.7777076556133544	Microcephaly	OMIM:617318
+5	0.7648992682071615	Seizures	OMIM:613402
+6	0.7566244087677002	Attention deficit hyperactivity disorder	OMIM:143465
+7	0.7538106271032167	Developmental delay	OMIM:614257
+8	0.7493346879136699	Autism	OMIM:614562
+9	0.7468902387298908	Delayed speech and language development	OMIM:614562
+10	0.7248820029265476	Global developmental delay	OMIM:614257

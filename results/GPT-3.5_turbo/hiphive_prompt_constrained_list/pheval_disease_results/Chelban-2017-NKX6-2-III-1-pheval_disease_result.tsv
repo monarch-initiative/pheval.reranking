@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic ataxia	OMIM:613849
+2	0.9	Cerebellar atrophy	OMIM:607259
+3	0.85	Demyelinating peripheral neuropathy	OMIM:614104
+4	0.8	Motor delay	OMIM:601144
+5	0.75	Peripheral neuropathy	OMIM:607731
+6	0.7	Torticollis	OMIM:314575
+7	0.65	Dysarthria	OMIM:605231
+8	0.6	Nystagmus	OMIM:310700
+9	0.55	Hypometric saccades	OMIM:310700
+10	0.5	Dystonia	OMIM:128230

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.759	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.744	Williams-Beuren syndrome	OMIM:194050
+3	0.736	Cornelia de Lange syndrome	OMIM:122470
+4	0.725	Saethre-Chotzen syndrome	OMIM:101400
+5	0.718	Alagille syndrome 1	OMIM:118450
+6	0.716	Treacher Collins syndrome 1	OMIM:154500
+6	0.716	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.714	Robinow syndrome	OMIM:268310
+9	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.709	Orofaciodigital syndrome IV	OMIM:258860

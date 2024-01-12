@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia	OMIM:129490
+2	0.85	Palmoplantar keratoderma	OMIM:144200
+3	0.82	Dentinogenesis imperfecta	OMIM:125490
+4	0.8	Nail-patella syndrome	OMIM:161200
+5	0.78	Hypodontia	OMIM:180300
+6	0.75	Ehlers-Danlos syndrome	OMIM:130000
+7	0.73	Pachyonychia congenita	OMIM:167200
+8	0.7	Anonychia	OMIM:206800
+9	0.68	Trichoepithelioma familial multiple	OMIM:601606
+10	0.65	Cherubism	OMIM:118400

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CLOVES syndrome	OMIM:613254
+2	0.85	Costello syndrome	OMIM:218040
+3	0.83	Cardiofaciocutaneous syndrome	OMIM:115150
+4	0.81	Beckwith-Wiedemann syndrome	OMIM:130650
+5	0.8	Cowden syndrome	OMIM:158350
+6	0.79	Carney complex	OMIM:160980
+7	0.78	Sotos syndrome	OMIM:117550
+8	0.77	Noonan syndrome	OMIM:163950
+9	0.76	Legius syndrome	OMIM:611431
+10	0.75	Rubinstein-Taybi syndrome	OMIM:180849

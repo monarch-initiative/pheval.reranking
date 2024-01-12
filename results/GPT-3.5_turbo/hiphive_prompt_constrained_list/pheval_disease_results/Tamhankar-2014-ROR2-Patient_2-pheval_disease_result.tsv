@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.947	Silver-Russell syndrome	OMIM:180860
+2	0.944	Floating-Harbor syndrome	OMIM:136140
+3	0.927	Williams syndrome	OMIM:194050
+4	0.922	Turner syndrome	OMIM:314470
+5	0.92	Cri-du-chat syndrome	OMIM:123450
+6	0.918	Noonan syndrome	OMIM:163950
+7	0.914	Kniest dysplasia	OMIM:156550
+8	0.913	Cornelia de Lange syndrome	OMIM:122470
+9	0.911	Seckel syndrome	OMIM:210600
+10	0.907	Rubinstein-Taybi syndrome	OMIM:180849

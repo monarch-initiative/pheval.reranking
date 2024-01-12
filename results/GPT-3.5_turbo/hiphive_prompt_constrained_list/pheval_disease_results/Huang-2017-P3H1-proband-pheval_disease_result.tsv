@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.8	Ehlers-Danlos syndrome	OMIM:601776
+3	0.7	Metaphyseal dysplasia	OMIM:250400
+4	0.6	Short rib-polydactyly syndrome	OMIM:263520
+5	0.5	Short stature	OMIM:616842
+6	0.4	Short ulna syndrome	OMIM:191400
+7	0.3	Achondroplasia	OMIM:100800
+8	0.2	Brachydactyly	OMIM:113100
+9	0.1	Thoracic dystrophy	OMIM:273120
+10	0.05	Hypochondroplasia	OMIM:146000

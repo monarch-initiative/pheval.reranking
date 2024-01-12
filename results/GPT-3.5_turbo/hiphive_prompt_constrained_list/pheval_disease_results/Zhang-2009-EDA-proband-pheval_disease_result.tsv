@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectodermal dysplasia 10A, hypohidrotic/hair/tooth type, autosomal dominant	OMIM:614256
+2	0.88	Hypohidrotic ectodermal dysplasia with immunodeficiency	OMIM:300291
+3	0.85	Ectodermal dysplasia 1, hypohidrotic, X-linked	OMIM:305100
+4	0.83	Hypotrichosis 7	OMIM:604379
+5	0.82	Short stature, developmental delay, and congenital heart defects	OMIM:617405
+6	0.8	Osteogenesis imperfecta, type I	OMIM:166200
+7	0.78	Mandibulofacial dysostosis, Guion-Almeida type	OMIM:610536
+8	0.76	Erythrokeratodermia variabilis et progressiva	OMIM:133200
+9	0.74	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant	OMIM:612132
+10	0.72	Cyclic neutropenia	OMIM:162800

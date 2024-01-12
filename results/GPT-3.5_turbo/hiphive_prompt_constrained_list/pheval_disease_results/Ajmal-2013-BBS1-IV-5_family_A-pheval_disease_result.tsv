@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9880999	Obesity	OMIM:601665
+2	0.986587	Macular degeneration	OMIM:603075
+3	0.9749613	Retinitis pigmentosa	OMIM:268000
+4	0.9748906	Photophobia	OMIM:206100
+5	0.9724532	Refractive error	OMIM:613456
+6	0.9694816	Strabismus	OMIM:185100
+7	0.967925	Retinal dystrophy	OMIM:312600
+8	0.9646967	Hypertension	OMIM:145500
+9	0.9527846	Global developmental delay	OMIM:210150
+10	0.9507974	Intellectual disability	OMIM:614562

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	CHARGE Syndrome	OMIM:214800
+2	0.944	Saethre-Chotzen Syndrome	OMIM:101200
+3	0.889	Craniofrontonasal Syndrome	OMIM:304110
+4	0.833	Treacher Collins Syndrome 1	OMIM:154500
+5	0.778	Rubinstein-Taybi Syndrome 1	OMIM:180849
+6	0.722	Whelan Syndrome	OMIM:243310
+7	0.667	Kabuki Syndrome 1	OMIM:147920
+8	0.611	Bohring-Opitz Syndrome	OMIM:605039
+9	0.556	Floating-Harbor Syndrome	OMIM:136140
+10	0.5	1q21.1 Deletion Syndrome	OMIM:612474

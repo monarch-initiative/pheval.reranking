@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 2	OMIM:615673
+2	0.88	Severe intellectual disability-epilepsy-anal anomalies syndrome	OMIM:617118
+3	0.85	Epileptic encephalopathy, early infantile, 6	OMIM:615744
+4	0.84	Severe intellectual disability and progressive spastic paraplegia	OMIM:614625
+5	0.82	Epileptic encephalopathy, early infantile, 15	OMIM:615006
+6	0.8	Intellectual developmental disorder with motor impairment and hyperkinetic movement	OMIM:618091
+7	0.78	Intellectual developmental disorder with speech delay and dysmorphic facies	OMIM:618090
+8	0.76	Epileptic encephalopathy, childhood-onset	OMIM:616720
+9	0.75	Mental retardation, autosomal dominant 10	OMIM:614256
+10	0.74	Intellectual developmental disorder, autosomal recessive 37	OMIM:616772

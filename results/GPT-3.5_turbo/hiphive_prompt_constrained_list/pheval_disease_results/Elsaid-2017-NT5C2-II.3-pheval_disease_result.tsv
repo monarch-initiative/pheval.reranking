@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9396	Intellectual disability with or without neurologic deficits	OMIM:618090
+2	0.9385	Developmental delay due to intellectual disability	OMIM:618089
+3	0.9374	Intellectual disability, mild	OMIM:614104
+4	0.9326	Intellectual disability-developmental delay-contractures syndrome	OMIM:618000
+5	0.9262	Leigh syndrome	OMIM:256000
+6	0.9243	Optic atrophy 3	OMIM:165300
+7	0.9228	Congenital fibrosis of extraocular muscles	OMIM:135700
+8	0.9134	Intellectual developmental disorder, autosomal recessive 70	OMIM:618094
+9	0.9068	Mowat-Wilson syndrome	OMIM:235730
+10	0.9042	Pseudo-TORCH syndrome 2	OMIM:617397

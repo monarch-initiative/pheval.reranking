@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diffuse palmoplantar keratoderma	OMIM:144200
+1	0.9	Uncombable hair syndrome	OMIM:614222
+1	0.9	Pachyonychia congenita	OMIM:167200
+1	0.9	Monilethrix	OMIM:158000
+1	0.9	Palmoplantar keratoderma and congenital alopecia	OMIM:616099
+6	0.8	Trichodysplasia-xeroderma	OMIM:190400
+6	0.8	Palmoplantar keratoderma, nonepidermolytic	OMIM:177600
+6	0.8	Palmoplantar keratoderma and spastic paraplegia	OMIM:616409
+6	0.8	Netherton syndrome	OMIM:256500
+6	0.8	Ectodermal dysplasia/onychotrichodysplasia/hypohidrotic/osteosclerosis syndrome	OMIM:601375

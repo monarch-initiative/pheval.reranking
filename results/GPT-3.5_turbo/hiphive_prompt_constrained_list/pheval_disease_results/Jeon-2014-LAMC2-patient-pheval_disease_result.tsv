@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tooth enamel hypoplasia	OMIM:617054
+2	0.8	Ectodermal dysplasia	OMIM:305100
+3	0.7	Congenital ichthyosiform erythroderma	OMIM:242100
+4	0.6	Epidermolysis bullosa	OMIM:131750
+4	0.6	Poikiloderma with neutropenia	OMIM:604173
+4	0.6	Xeroderma pigmentosum	OMIM:278700
+4	0.6	Lethal acantholytic epidermolysis bullosa	OMIM:609638
+8	0.5	Erythrokeratodermia variabilis et progressiva	OMIM:133200
+8	0.5	Transient bullous dermolysis of the newborn	OMIM:131705
+8	0.5	Erythrokeratodermia with ataxia	OMIM:133225

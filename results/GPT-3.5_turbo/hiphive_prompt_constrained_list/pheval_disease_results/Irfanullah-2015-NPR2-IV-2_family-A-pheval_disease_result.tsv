@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:609053
+2	0.8	Craniofacial-deafness-hand syndrome	OMIM:122470
+2	0.8	Renal Fanconi syndrome	OMIM:134600
+4	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.7	Acrodysostosis 2	OMIM:614351
+4	0.7	Acrofacial dysostosis, Catania type	OMIM:229400
+4	0.7	Acrocephalosyndactyly type V	OMIM:201940
+8	0.6	Acrocephalopolysyndactyly type III	OMIM:101200
+8	0.6	Brachydactyly type D	OMIM:113200
+8	0.6	Short stature syndrome, Brussels type	OMIM:264600

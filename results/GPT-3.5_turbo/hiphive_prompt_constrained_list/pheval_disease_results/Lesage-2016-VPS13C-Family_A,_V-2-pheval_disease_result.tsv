@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Parkinson disease 4, autosomal dominant, Lewy body type	OMIM:607060
+2	0.981	Dementia, familial British	OMIM:176500
+3	0.962	Spastic paraplegia 7	OMIM:607259
+4	0.958	Parkinson disease 3, autosomal dominant Lewy body	OMIM:602404
+5	0.955	Parkinson disease 2, autosomal recessive juvenile	OMIM:600116
+6	0.938	Parkinson disease 12	OMIM:300557
+7	0.937	Parkinson disease 14, autosomal recessive	OMIM:612953
+8	0.932	Parkinson disease 1	OMIM:168601
+9	0.928	Parkinson disease 11, autosomal dominant	OMIM:606324
+10	0.927	Parkinson disease 10	OMIM:609309

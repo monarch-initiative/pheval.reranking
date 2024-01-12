@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Orbitopalpebral dysplasia	OMIM:229820
+2	0.76	Frontofacionasal dysplasia 1	OMIM:229400
+3	0.71	Mental retardation, autosomal dominant 19	OMIM:615075
+4	0.69	Cleft palate, isolated	OMIM:119540
+5	0.67	Pachyonychia congenita 1	OMIM:167200
+6	0.65	Split-hand/foot malformation 6	OMIM:225300
+7	0.64	Hypotrichosis 7	OMIM:614928
+8	0.63	Haim-Munk syndrome	OMIM:245010
+9	0.62	Palmoplantar keratoderma and woolly hair	OMIM:607655
+10	0.61	Epileptic encephalopathy, early infantile, 3	OMIM:609304

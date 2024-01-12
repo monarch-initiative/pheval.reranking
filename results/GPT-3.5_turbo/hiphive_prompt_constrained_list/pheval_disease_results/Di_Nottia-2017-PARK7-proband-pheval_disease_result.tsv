@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Parkinson Disease	OMIM:168600
+2	0.89	Hereditary Sensory and Autonomic Neuropathy Type 2	OMIM:201300
+3	0.86	Parkinsonism-Dystonia, Infantile	OMIM:613135
+4	0.85	Mitochondrial DNA Depletion Syndrome 6	OMIM:256810
+5	0.84	Cataract, Microcephaly, Failure to Thrive, Kyphoscoliosis Syndrome	OMIM:616728
+6	0.83	Parkinson Disease 10	OMIM:605543
+7	0.82	Familial Dysautonomia	OMIM:223900
+8	0.81	Parkinson Disease 14	OMIM:612953
+9	0.8	Autosomal Recessive Spastic Ataxia with Leukoencephalopathy	OMIM:270550
+10	0.79	Neurodevelopmental Disorder with Spastic Paraplegia, Seizures, and Brain Abnormalities	OMIM:614937

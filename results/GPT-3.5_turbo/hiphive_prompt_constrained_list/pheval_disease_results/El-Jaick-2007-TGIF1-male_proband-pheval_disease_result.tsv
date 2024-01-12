@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly	OMIM:236100
+2	0.86	Growth hormone deficiency	OMIM:139250
+3	0.82	Microcephaly	OMIM:251200
+4	0.78	Cleft lip	OMIM:119530
+5	0.74	Waardenburg syndrome	OMIM:277580
+6	0.7	Diabetes insipidus	OMIM:222000
+7	0.66	Congenital heart defects	OMIM:306955
+8	0.62	Down syndrome	OMIM:190685
+9	0.58	Anophthalmia	OMIM:206900
+10	0.54	Familial hypercholesterolemia	OMIM:143890

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiofaciocutaneous syndrome	OMIM:115150
+2	0.8	CHARGE syndrome	OMIM:214800
+3	0.7	Oculodentodigital dysplasia	OMIM:164200
+4	0.6	Cornelia de Lange syndrome	OMIM:122470
+5	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Fragile X syndrome	OMIM:309550
+8	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.1	Digeorge syndrome	OMIM:188400

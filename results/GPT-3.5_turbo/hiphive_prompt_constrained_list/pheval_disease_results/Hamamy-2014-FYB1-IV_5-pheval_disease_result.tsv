@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	May-Hegglin anomaly	OMIM:155100
+2	0.72	Thrombocythemia 1	OMIM:187950
+3	0.71	GATA1-related X-linked cytopenia	OMIM:305900
+4	0.7	Platelet-type bleeding disorder 11	OMIM:614201
+5	0.69	Platelet-type bleeding disorder 10	OMIM:614201
+6	0.68	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.67	Paris-Trousseau thrombocytopenia	OMIM:188025
+8	0.66	Macrothrombocytopenia and progressive sensorineural deafness	OMIM:600208
+9	0.65	Scott syndrome	OMIM:262890
+10	0.64	Platelet-type bleeding disorder 3	OMIM:614201

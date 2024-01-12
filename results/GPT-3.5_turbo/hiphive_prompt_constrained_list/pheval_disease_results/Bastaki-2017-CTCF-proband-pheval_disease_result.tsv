@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Sotos syndrome 1	OMIM:117550
+2	0.6	Noonan syndrome 1	OMIM:163950
+3	0.5	Cornelia de Lange syndrome 2	OMIM:300590
+4	0.4	Coffin-Lowry syndrome	OMIM:303600
+5	0.3	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.2	CHARGE syndrome	OMIM:214800
+6	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.2	Pitt-Hopkins syndrome	OMIM:610954
+9	0.1	Williams-Beuren syndrome	OMIM:194050
+9	0.1	Seckel syndrome 1	OMIM:210600

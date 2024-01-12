@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.924	Joubert syndrome	OMIM:213300
+2	0.88	COACH syndrome	OMIM:216360
+3	0.868	3-Methylglutaconic aciduria type 1	OMIM:250950
+3	0.868	Molybdenum cofactor deficiency	OMIM:252150
+5	0.864	Dandy-Walker syndrome	OMIM:220200
+6	0.856	Cerebrotendinous xanthomatosis	OMIM:213700
+7	0.854	Aromatic L-amino acid decarboxylase deficiency	OMIM:608643
+8	0.848	Leber congenital amaurosis	OMIM:204000
+9	0.844	Fumarase deficiency	OMIM:606812
+9	0.844	Tyrosinemia type II	OMIM:276600

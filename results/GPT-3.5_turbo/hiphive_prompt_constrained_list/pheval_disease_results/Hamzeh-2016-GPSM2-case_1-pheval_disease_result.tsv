@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.845	Ehlers-Danlos syndrome, autosomal recessive, cardiac valvular form	OMIM:225320
+2	0.832	Stickler syndrome, type I	OMIM:108300
+3	0.819	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+4	0.816	Marfan syndrome	OMIM:154700
+5	0.811	Collagenopathy, types II and XI	OMIM:120280
+6	0.805	Ehlers-Danlos syndrome, dermatosparaxis type	OMIM:225410
+7	0.8	Ehlers-Danlos syndrome, classic type, 2	OMIM:130010
+8	0.799	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+9	0.792	Osteogenesis imperfecta, type II	OMIM:166210
+10	0.788	Osteogenesis imperfecta, type I	OMIM:166200

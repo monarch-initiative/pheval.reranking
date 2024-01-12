@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.85	Alpha-1 antitrypsin deficiency	OMIM:613490
+3	0.8	Citrullinemia type II	OMIM:603471
+4	0.75	Dubin-Johnson syndrome	OMIM:237500
+5	0.7	Hyperlipoproteinemia type II	OMIM:144010
+6	0.65	Hyperlipoproteinemia type IV	OMIM:144600
+7	0.6	Alpha-methylacetoacetic aciduria	OMIM:203750
+8	0.55	Hyperlipoproteinemia type V	OMIM:144650
+9	0.5	Fructose intolerance	OMIM:229600
+10	0.45	Crigler-Najjar syndrome type I	OMIM:218800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+2	0.75	Charcot-Marie-Tooth disease type 2A	OMIM:118210
+3	0.7	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+4	0.6	Charcot-Marie-Tooth disease type 1B	OMIM:118200
+5	0.5	Distal hereditary motor neuropathy type 5	OMIM:600794
+6	0.4	Charcot-Marie-Tooth disease type 1C	OMIM:601098
+7	0.35	Charcot-Marie-Tooth disease type 2E	OMIM:607684
+8	0.3	Charcot-Marie-Tooth disease type 1E	OMIM:118300
+9	0.25	Charcot-Marie-Tooth disease type 1D	OMIM:607678
+10	0.2	Charcot-Marie-Tooth disease type 1F	OMIM:607734

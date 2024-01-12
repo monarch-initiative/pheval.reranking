@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.956	Corpus callosum, agenesis of, with mental retardation, ocular coloboma, and micrognathia	OMIM:300472
+1	0.956	Treacher Collins syndrome 1	OMIM:154500
+3	0.949	Optic atrophy 1	OMIM:165500
+4	0.946	Non-24-hour sleep-wake rhythm disorder	OMIM:614080
+5	0.941	Amyotrophic lateral sclerosis 1	OMIM:105400
+6	0.94	Senior-Loken syndrome 5	OMIM:609254
+7	0.939	Senior-Loken syndrome 3	OMIM:606995
+8	0.937	Cataract 3, multiple types	OMIM:601547
+8	0.937	Cataract 9, multiple types	OMIM:604219
+10	0.936	Senior-Loken syndrome 4	OMIM:606966

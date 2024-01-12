@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan syndrome	OMIM:154700
+2	0.92	Lujan-Fryns syndrome	OMIM:309520
+3	0.89	Weaver syndrome	OMIM:277590
+4	0.87	Saethre-Chotzen syndrome	OMIM:101400
+5	0.85	Blepharophimosis, ptosis, epicanthus inversus syndrome	OMIM:110100
+6	0.83	Multiple pterygium syndrome, lethal type	OMIM:253290
+7	0.81	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.78	Sotos syndrome 1	OMIM:117550
+9	0.75	Fragile X syndrome	OMIM:300624
+10	0.72	Angelman syndrome	OMIM:105830

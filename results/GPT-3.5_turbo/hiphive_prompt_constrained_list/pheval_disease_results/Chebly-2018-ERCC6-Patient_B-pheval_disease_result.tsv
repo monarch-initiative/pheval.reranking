@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rothmund-Thomson syndrome	OMIM:268400
+2	0.8	Cockayne syndrome	OMIM:133540
+2	0.8	Werner syndrome	OMIM:277700
+4	0.7	Fanconi anemia, complementation group G	OMIM:617406
+4	0.7	Ataxia-telangiectasia-like disorder 2	OMIM:615919
+4	0.7	Cataract 8, multiple types	OMIM:115450
+4	0.7	Cataract 9, multiple types	OMIM:604219
+4	0.7	Cataract 17, multiple types	OMIM:611544
+4	0.7	Microcephaly and chorioretinopathy, autosomal recessive, 2	OMIM:616171
+4	0.7	Primary microcephaly 17, with or without cortical malformations	OMIM:617090

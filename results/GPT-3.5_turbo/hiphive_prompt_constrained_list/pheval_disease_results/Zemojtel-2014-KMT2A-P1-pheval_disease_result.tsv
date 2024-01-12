@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.2	MED12 Related Disorders	OMIM:300188
+1	0.2	Wiedemann-Steiner Syndrome	OMIM:605130
+1	0.2	Floating-Harbor Syndrome	OMIM:136140
+4	0.1	Coffin-Siris Syndrome	OMIM:135900
+4	0.1	Floating-Harbor Syndrome 2	OMIM:619164
+4	0.1	Spondyloepiphyseal Dysplasia with Atlantoaxial Instability	OMIM:184252
+4	0.1	Holoprosencephaly	OMIM:236100
+4	0.1	Spondyloepiphyseal Dysplasia with Abnormal Dentition	OMIM:182080
+4	0.1	Mental Retardation, Autosomal Dominant 20	OMIM:612367
+4	0.1	SHORT STATURE, RHIZOMELIC, WITH MICROCEPHALY, MICROGNATHIA, AND DEVELOPMENTAL DELAY	OMIM:617661

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Immunodeficiency 50	OMIM:613454
+2	0.89	Primary Immunodeficiency Disease	OMIM:615206
+3	0.86	Combined Immunodeficiency	OMIM:600802
+4	0.84	Immunodeficiency 14B, Autosomal Recessive	OMIM:619281
+5	0.83	Immunodeficiency 14A, Autosomal Recessive	OMIM:617514
+6	0.82	Immunodeficiency 47	OMIM:300972
+7	0.8	Immunodeficiency 36A	OMIM:616005
+8	0.79	Immunodeficiency 17	OMIM:300615
+9	0.77	Immunodeficiency 52	OMIM:619306
+10	0.76	Immunodeficiency 33	OMIM:300636

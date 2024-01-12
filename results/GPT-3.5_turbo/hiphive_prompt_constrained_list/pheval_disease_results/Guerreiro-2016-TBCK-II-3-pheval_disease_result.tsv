@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.7	Tuberous sclerosis	OMIM:191100
+3	0.7	Dravet syndrome	OMIM:607208
+5	0.6	Lennox-Gastaut syndrome	OMIM:606369
+5	0.6	Fragile X syndrome	OMIM:300624
+7	0.5	Cockayne syndrome	OMIM:216400
+7	0.5	Prader-Willi syndrome	OMIM:176270
+9	0.4	Kabuki syndrome	OMIM:147920
+9	0.4	Fetal alcohol syndrome	OMIM:618505

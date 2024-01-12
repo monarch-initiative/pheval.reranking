@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.789	Marfan syndrome	OMIM:154700
+2	0.754	Ehlers-Danlos syndrome	OMIM:130000
+3	0.741	Loeys-Dietz syndrome	OMIM:609192
+4	0.731	Beals syndrome	OMIM:121050
+5	0.727	Thoracic aortic aneurysm	OMIM:132900
+6	0.721	Lujan-Fryns syndrome	OMIM:309520
+7	0.719	Ectopia lentis	OMIM:129600
+8	0.711	Weill-Marchesani syndrome	OMIM:608328
+9	0.709	Stickler syndrome	OMIM:{604841
+10	0.708	Congenital contractural arachnodactyly	OMIM:121050

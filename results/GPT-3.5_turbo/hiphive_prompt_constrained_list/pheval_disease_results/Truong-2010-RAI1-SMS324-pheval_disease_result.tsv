@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Asthma	OMIM:600370
+2	0.95	Gastroesophageal reflux	OMIM:109350
+3	0.87	Anxiety	OMIM:607834
+4	0.82	Failure to thrive	OMIM:601589
+5	0.81	Strabismus	OMIM:185100
+6	0.78	Intellectual disability	OMIM:614563
+7	0.76	Sleep disturbance	OMIM:138900
+8	0.71	Synophrys	OMIM:100600
+9	0.69	Clinodactyly of the 5th finger	OMIM:123000
+10	0.67	Pes planus	OMIM:180700

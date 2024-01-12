@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.89	Cockayne syndrome	OMIM:216400
+3	0.88	Cri-du-chat syndrome	OMIM:123450
+4	0.87	Celiac disease	OMIM:212750
+5	0.86	Mendelian susceptibility to mycobacterial diseases	OMIM:209950
+6	0.85	Wolfram syndrome	OMIM:222300
+7	0.84	Choroideremia	OMIM:303100
+8	0.83	Usher syndrome	OMIM:276900
+9	0.82	Seckel syndrome	OMIM:210600
+10	0.81	Down syndrome	OMIM:190685

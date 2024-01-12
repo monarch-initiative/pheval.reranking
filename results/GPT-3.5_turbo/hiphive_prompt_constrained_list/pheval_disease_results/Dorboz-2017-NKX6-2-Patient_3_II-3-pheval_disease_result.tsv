@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.87	Spinal muscular atrophy	OMIM:253300
+3	0.86	Friedreich ataxia	OMIM:229300
+4	0.85	Infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly	OMIM:616859
+5	0.83	Marfan syndrome	OMIM:154700
+6	0.81	Sotos syndrome	OMIM:117550
+7	0.8	Autosomal recessive spastic ataxia with leukoencephalopathy	OMIM:270550
+8	0.79	Hereditary spastic paraplegia	OMIM:182600
+9	0.76	Angelman syndrome	OMIM:105830
+10	0.75	Rett syndrome	OMIM:312750

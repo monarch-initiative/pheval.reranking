@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Redef	OMIM:617560
+2	0.990769231	Butyrylcholinesterase deficiency	OMIM:603690
+3	0.973846154	LAMB3-related generalized atrophic benign epidermolysis bullosa	OMIM:609638
+4	0.970769231	Severe T-cell immunodeficiency due to LCK deficiency	OMIM:601607
+5	0.960749901	ZAP70 deficiency	OMIM:176947
+6	0.959340385	T-cellminusB-cell severe combined immunodeficiency due to CD3delta/epsilon/eta deficiency	OMIM:615758
+7	0.956456135	Thrombocytopenia	OMIM:313900
+8	0.950769231	Myeloperoxidase deficiency	OMIM:254600
+8	0.950769231	Salla disease	OMIM:604369
+10	0.943888889	Ectrodactyly, Ectodermal dysplasia, and Cleft lip/palate syndrome 1	OMIM:129900

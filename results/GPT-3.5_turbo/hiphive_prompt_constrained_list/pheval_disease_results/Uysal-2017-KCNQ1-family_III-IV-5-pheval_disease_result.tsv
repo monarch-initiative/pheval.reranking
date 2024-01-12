@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Romano-Ward Syndrome	OMIM:192500
+2	0.85	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+3	0.82	Andersen-Tawil Syndrome	OMIM:170390
+4	0.81	Timothy Syndrome	OMIM:601005
+5	0.8	Short QT Syndrome	OMIM:609622
+6	0.78	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+7	0.77	Long QT Syndrome 5	OMIM:614416
+8	0.76	Brugada Syndrome 1	OMIM:601144
+9	0.75	Familial Atrial Fibrillation	OMIM:607554
+10	0.74	Long QT Syndrome 1	OMIM:192500

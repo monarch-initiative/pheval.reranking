@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.904	Craniosynostosis	OMIM:123100
+2	0.874	Cleft palate	OMIM:119540
+3	0.867	Abnormality of the teeth	OMIM:106600
+4	0.853	Hypertelorism	OMIM:145400
+5	0.851	Brachydactyly	OMIM:113100
+6	0.846	Syndactyly	OMIM:186500
+7	0.837	Microcephaly	OMIM:251200
+8	0.825	Down syndrome	OMIM:190685
+9	0.817	Micrognathia	OMIM:610056
+10	0.816	Hearing impairment	OMIM:607205

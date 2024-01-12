@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Frontonasal dysplasia 3	OMIM:613509
+2	0.85	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+3	0.8	Apert syndrome	OMIM:101200
+4	0.75	Pfeiffer syndrome	OMIM:101600
+5	0.7	Zimmerman-Laband syndrome	OMIM:135500
+6	0.65	Pfeiffer-Kauffman-Backel syndrome	OMIM:614080
+7	0.6	Treacher Collins syndrome	OMIM:154500
+8	0.55	Oculodentodigital dysplasia	OMIM:164200
+9	0.5	Stickler syndrome, type II	OMIM:604841
+10	0.45	Branchiooculofacial syndrome	OMIM:113620

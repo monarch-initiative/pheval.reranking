@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	ATR-X syndrome	OMIM:301040
+2	0.7	Phenylketonuria	OMIM:261600
+3	0.6	Muscular dystrophy, Duchenne type	OMIM:310200
+4	0.5	Spastic paraplegia 3A	OMIM:182600
+5	0.45	Lissencephaly 1	OMIM:607432
+6	0.4	Pelizaeus-Merzbacher disease	OMIM:312080
+7	0.35	Fragile X syndrome	OMIM:300624
+8	0.3	Rett syndrome	OMIM:312750
+9	0.25	Cerebral palsy	OMIM:603513
+10	0.2	Prader-Willi syndrome	OMIM:176270

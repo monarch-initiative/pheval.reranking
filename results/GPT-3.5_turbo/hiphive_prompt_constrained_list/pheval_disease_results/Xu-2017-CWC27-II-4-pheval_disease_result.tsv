@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Lowry syndrome	OMIM:303600
+1	0.9	Noonan syndrome	OMIM:163950
+1	0.9	Costello syndrome	OMIM:218040
+4	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.8	Charcot-Marie-Tooth disease	OMIM:118220
+4	0.8	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.8	Kabuki syndrome	OMIM:147920
+8	0.7	Branchiootorenal syndrome	OMIM:113650
+8	0.7	Schinzel-Giedion syndrome	OMIM:269150
+8	0.7	Crouzon syndrome	OMIM:123500

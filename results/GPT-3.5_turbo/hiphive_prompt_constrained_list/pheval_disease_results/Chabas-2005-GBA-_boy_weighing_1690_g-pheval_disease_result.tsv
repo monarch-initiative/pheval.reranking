@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher disease	OMIM:230800
+2	0.85	Hurler syndrome	OMIM:607014
+3	0.8	Niemann-Pick disease	OMIM:257200
+4	0.75	Wolman disease	OMIM:278000
+5	0.7	I-cell disease	OMIM:252500
+6	0.65	Congenital disorder of glycosylation	OMIM:607095
+7	0.6	Mucolipidosis II	OMIM:252500
+8	0.55	Sanfilippo syndrome	OMIM:252900
+9	0.5	Fucosidosis	OMIM:230000
+10	0.45	Aspartylglucosaminuria	OMIM:208400

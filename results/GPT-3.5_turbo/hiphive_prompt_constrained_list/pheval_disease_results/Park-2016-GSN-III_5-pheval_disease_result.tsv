@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos Syndrome	OMIM:130000
+2	0.9	Hereditary Sensory and Autonomic Neuropathy	OMIM:613115
+3	0.85	Autosomal Recessive Cutis Laxa	OMIM:219100
+4	0.8	Congenital Hypomyelinating Neuropathy	OMIM:605253
+5	0.75	Congenital Muscular Dystrophy	OMIM:607855
+6	0.7	Axonal Sensory Motor Neuropathy	OMIM:600361
+7	0.65	Autosomal Dominant Sensory Ataxia	OMIM:609307
+8	0.6	Autosomal Dominant Pharyngoskeletal Myopathy	OMIM:602733
+9	0.55	Neuromuscular Disease	OMIM:614279
+10	0.5	Congenital Universal Alopecia	OMIM:617281

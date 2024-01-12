@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9503999999999999	Sotos syndrome 1	OMIM:117550
+2	0.9428	Floating-Harbor syndrome	OMIM:136140
+3	0.9295999999999999	Seckel syndrome 1	OMIM:210600
+4	0.9088	Coffin-Lowry syndrome	OMIM:303600
+5	0.9024	Fragile X syndrome	OMIM:300624
+5	0.9024	Rubinstein-Taybi syndrome 2	OMIM:613684
+7	0.8896	Prader-Willi syndrome	OMIM:176270
+8	0.8848000000000001	Simpson-Golabi-Behmel syndrome 1	OMIM:312870
+8	0.8848000000000001	Marshall-Smith syndrome	OMIM:602535
+10	0.8776	Weaver syndrome	OMIM:277590

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Coffin-Siris syndrome 2	OMIM:614609
+2	0.978	Intellectual developmental disorder with dysmorphic facies and ptosis	OMIM:617286
+3	0.968	Autism 15	OMIM:618021
+4	0.963	Mental retardation, autosomal dominant 25	OMIM:614346
+5	0.955	Intellectual developmental disorder with dysmorphic facies and ptosis	OMIM:617286
+6	0.95	Floaters, flashes, and retinal tears	OMIM:614560
+7	0.945	Brachydactyly, type D	OMIM:608093
+8	0.943	Microcephaly 15, primary, autosomal recessive	OMIM:616486
+9	0.938	Mucolipidosis IV	OMIM:252650
+10	0.935	Intellectual developmental disorder with behavioral abnormalities, and craniofacial dysmorphisms	OMIM:617127

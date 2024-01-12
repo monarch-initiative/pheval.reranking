@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Autoimmune lymphoproliferative syndrome	OMIM:609628
+2	0.8	Systemic lupus erythematosus	OMIM:152700
+3	0.75	Chronic lymphocytic leukemia	OMIM:151400
+4	0.7	Familial Mediterranean fever	OMIM:249100
+5	0.65	Severe combined immunodeficiency	OMIM:601457
+6	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.55	Hyper IgM syndrome	OMIM:308230
+8	0.5	Common variable immunodeficiency	OMIM:607594
+9	0.45	Hemophagocytic lymphohistiocytosis	OMIM:603553
+10	0.4	X-linked agammaglobulinemia	OMIM:300755

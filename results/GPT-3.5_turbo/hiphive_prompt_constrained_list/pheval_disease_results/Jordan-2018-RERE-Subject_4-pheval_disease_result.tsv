@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.927	4H leukodystrophy	OMIM:612690
+2	0.924	Jacobsen syndrome	OMIM:147791
+3	0.923	Lissencephaly 1	OMIM:607432
+4	0.921	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.916	Miller-Dieker syndrome	OMIM:247200
+6	0.915	Pitt-Hopkins syndrome	OMIM:610954
+7	0.913	CHARGE syndrome	OMIM:214800
+8	0.912	Branchiootic syndrome	OMIM:608389
+9	0.91	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.907	Congenital disorder of glycosylation type IIc	OMIM:266265

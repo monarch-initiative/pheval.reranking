@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.85	Seckel syndrome	OMIM:210600
+3	0.82	Diamond-Blackfan anemia	OMIM:105650
+4	0.8	Dyskeratosis congenita	OMIM:127550
+5	0.77	Vici syndrome	OMIM:242840
+6	0.75	Immunodeficiency-centromeric instability-facial anomalies syndrome	OMIM:242860
+7	0.72	Thrombocytopenia	OMIM:313900
+8	0.7	Shwachman-Diamond syndrome	OMIM:260400
+9	0.68	Dyskeratosis congenita, autosomal recessive, 2	OMIM:613989
+10	0.65	Immunodeficiency, common variable, 6	OMIM:613496

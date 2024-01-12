@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.6206	Acromesomelic dysplasia	OMIM:609441
+2	0.6093	Russell-Silver syndrome	OMIM:180860
+3	0.6078	Potocki-Shaffer syndrome	OMIM:601224
+4	0.6034	Leri-Weill dyschondrosteosis	OMIM:127300
+5	0.5963	Robinow syndrome, autosomal recessive	OMIM:268310
+6	0.5923	Hutchinson-Gilford progeria syndrome	OMIM:176670
+7	0.5864	Metaphyseal dysplasia with maxillary hypoplasia with or without brachydactyly	OMIM:156510
+8	0.584	Seckel syndrome 1	OMIM:210600
+9	0.5794	Hypochondroplasia	OMIM:146000
+10	0.579	Coffin-Siris syndrome 1	OMIM:135900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hereditary motor and sensory neuropathy, type VIA	OMIM:607731
+1	1.0	Autosomal dominant Charcot-Marie-Tooth disease type 2E	OMIM:607684
+3	0.98	Spinal muscular atrophy, lower extremity-predominant 2, autosomal dominant	OMIM:615025
+4	0.97	Charcot-Marie-Tooth disease, recessive intermediate E	OMIM:616625
+5	0.94	Infantile hereditary neuropathy with or without arthrogryposis	OMIM:610968
+6	0.93	Spinal muscular atrophy, lower extremity-predominant 1, autosomal dominant	OMIM:158600
+6	0.93	Autosomal dominant primary lateral sclerosis	OMIM:611637
+8	0.91	Intermediate Charcot-Marie-Tooth neuropathy	OMIM: 607791
+9	0.9	Charcot-Marie-Tooth disease, type 2P	OMIM:614436
+9	0.9	Spinal muscular atrophy, lower extremity-predominant 3, autosomal dominant	OMIM:616973

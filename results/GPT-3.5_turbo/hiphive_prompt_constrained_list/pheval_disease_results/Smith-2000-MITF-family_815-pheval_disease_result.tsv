@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg syndrome, type 2A	OMIM:193510
+2	0.8	Aleukemic mast cell leukemia	OMIM:600816
+2	0.8	Enlarged vestibular aqueduct	OMIM:600791
+2	0.8	Waardenburg syndrome, type 4A	OMIM:277580
+2	0.8	Waardenburg syndrome, type 1	OMIM:193500
+6	0.7	Kallmann syndrome, type 2	OMIM:148840
+6	0.7	Hermansky-Pudlak syndrome type 1	OMIM:203300
+6	0.7	Albinism, oculocutaneous, type IA	OMIM:203100
+6	0.7	Marfan lipodystrophy syndrome	OMIM:616914
+10	0.6	Craniofacial-deafness-hand syndrome	OMIM:122880

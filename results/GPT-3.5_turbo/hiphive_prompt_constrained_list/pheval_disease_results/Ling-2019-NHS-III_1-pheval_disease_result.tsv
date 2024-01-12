@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.6875	Coffin-Siris syndrome 7	OMIM:618808
+2	0.65625	Mental retardation, autosomal dominant 23	OMIM:615761
+3	0.625	Coffin-Siris syndrome 4	OMIM:614609
+4	0.59375	Wiedemann-Steiner syndrome	OMIM:605130
+4	0.59375	Mental retardation, autosomal dominant 35	OMIM:616977
+6	0.5625	Coffin-Siris syndrome 5	OMIM:616938
+7	0.53125	Mental retardation, autosomal dominant 38	OMIM:616809
+7	0.53125	Coffin-Siris syndrome 3	OMIM:614608
+7	0.53125	Mental retardation, autosomal dominant 41	OMIM:617104
+10	0.5	Orofaciodigital syndrome X	OMIM:617406

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Diabetes mellitus type 1	OMIM:613949
+2	0.96	Congenital hypothalamic hypogonadism	OMIM:614837
+3	0.93	Bardet-Biedl syndrome	OMIM:209900
+3	0.93	Tall stature-intellectual disability-recurrent infections-sensorineural hearing loss syndrome	OMIM:618599
+5	0.91	Autosomal dominant nonsyndromic sensorineural deafness type DFNA	OMIM:601544
+5	0.91	Diabetes mellitus type 2	OMIM:125853
+7	0.89	Microphthalmia with coloboma	OMIM:120430
+8	0.88	Craniofrontonasal syndrome	OMIM:304110
+8	0.88	Waardenburg syndrome, type 2C	OMIM:606579
+10	0.86	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604772

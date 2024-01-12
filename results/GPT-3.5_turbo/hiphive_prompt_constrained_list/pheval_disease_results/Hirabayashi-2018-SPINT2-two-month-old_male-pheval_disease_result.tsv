@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Diabetes mellitus	OMIM: 606176
+2	0.85	Glycogen storage disease type 1A	OMIM: 232200
+3	0.82	Barth syndrome	OMIM: 302060
+4	0.81	Tuberous sclerosis	OMIM: 191100
+5	0.8	Fanconi anemia	OMIM: 227650
+6	0.79	4H leukodystrophy	OMIM: 612233
+7	0.78	Joubert syndrome	OMIM: 213300
+8	0.77	Pantothenate kinase-associated neurodegeneration	OMIM: 234200
+9	0.76	Congenital muscular dystrophy due to laminin alpha-2 deficiency	OMIM: 607855
+10	0.75	Marfan syndrome	OMIM: 154700

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Neurodevelopmental Disorder with Seizures and Delayed Walking	OMIM:618089
+2	0.75	Global Developmental Delay with Seizures and Hypotonia	OMIM:617622
+3	0.7	Intellectual Developmental Disorder with Hypotonia and Behavioral Abnormalities	OMIM:617560
+4	0.65	Developmental Delay with Ventriculomegaly and Dandy-Walker Malformation	OMIM:617516
+5	0.6	Intellectual Developmental Disorder with Macrocephaly, Seizures, and Speech Delay	OMIM:617730
+6	0.55	Intellectual Developmental Disorder with Behavioral Abnormalities and Seizures	OMIM:617402
+7	0.5	Intellectual Developmental Disorder with Macrocephaly, Seizures, and Speech Delay	OMIM:617527
+8	0.45	Intellectual Developmental Disorder with Macrocephaly, Seizures, and Speech Delay	OMIM:617478
+9	0.4	Intellectual Developmental Disorder with Behavioral Abnormalities and Seizures	OMIM:617180
+10	0.35	Intellectual Developmental Disorder with Macrocephaly, Seizures, and Speech Delay	OMIM:617616

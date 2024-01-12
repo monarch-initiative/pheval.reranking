@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly and Chorioretinopathy, Autosomal Recessive, 3	OMIM:617516
+2	0.92	Spastic Paraplegia 39, Autosomal Recessive	OMIM:615954
+3	0.91	Microcephaly, Growth Restriction, and Increased Sister Chromatid Exchange 2	OMIM:616835
+4	0.9	Severe Intellectual Disability and Progressive Spastic Paraplegia	OMIM:614607
+5	0.89	Spastic Paraplegia 11, Autosomal Recessive	OMIM:604360
+6	0.88	Intestinal Pseudoobstruction, Neuronal, Chronic Idiopathic, X-Linked	OMIM:300048
+7	0.86	Carey-Fineman-Ziter Syndrome	OMIM:254940
+8	0.85	Cataract 38	OMIM:614691
+9	0.84	Spastic Paraplegia 73, Autosomal Dominant	OMIM:616570
+10	0.82	Spastic Paraplegia 53, Autosomal Recessive	OMIM:614898

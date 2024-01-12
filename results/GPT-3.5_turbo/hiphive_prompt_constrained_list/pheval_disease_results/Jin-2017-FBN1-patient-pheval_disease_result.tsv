@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Donohue syndrome	OMIM:246200
+2	0.92	Severe achondroplasia with developmental delay and acanthosis nigricans	OMIM:609441
+3	0.91	Coffin-Lowry syndrome	OMIM:303600
+3	0.91	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.9	Sotos syndrome 1	OMIM:117550
+6	0.89	Costello syndrome	OMIM:218040
+7	0.88	Weaver syndrome	OMIM:277590
+8	0.87	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.86	Rett syndrome	OMIM:312750
+9	0.86	Floating-Harbor syndrome	OMIM:136140

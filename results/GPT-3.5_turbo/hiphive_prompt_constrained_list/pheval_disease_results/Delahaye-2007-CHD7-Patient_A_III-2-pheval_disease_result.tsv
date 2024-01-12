@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	COL11A1-Related Disorders	OMIM:120280
+2	0.8	CHARGE Syndrome	OMIM:214800
+3	0.7	Pendred Syndrome	OMIM:274600
+4	0.6	Treacher Collins Syndrome	OMIM:154500
+5	0.5	Jervell and Lange-Nielsen Syndrome	OMIM:220400
+6	0.4	DiGeorge Syndrome	OMIM:188400
+6	0.4	Lowe Syndrome	OMIM:309000
+8	0.3	Branchio-Oto-Renal Syndrome	OMIM:113650
+9	0.2	Kabuki Syndrome 1	OMIM:147920
+10	0.1	CHD7-Related Disorders	OMIM:610528

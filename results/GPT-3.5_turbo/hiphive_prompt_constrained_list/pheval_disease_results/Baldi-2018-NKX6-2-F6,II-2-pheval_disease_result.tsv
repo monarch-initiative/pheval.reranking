@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukodystrophy	OMIM:603896
+2	0.85	Hypomyelinating leukodystrophy	OMIM:608804
+3	0.83	Polymicrogyria	OMIM:606854
+4	0.78	Pelizaeus-Merzbacher disease	OMIM:312080
+5	0.77	Charcot-Marie-Tooth disease	OMIM:118220
+6	0.75	Ataxia	OMIM:208920
+7	0.73	Hypoplasia of the corpus callosum	OMIM:217990
+8	0.72	Peripheral neuropathy	OMIM:162500
+8	0.72	Spastic paraplegia	OMIM:604277
+10	0.7	Intellectual disability	OMIM: phenotypic_series

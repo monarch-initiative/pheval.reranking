@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis 1	OMIM:105400
+2	0.85	Spastic paraplegia 4	OMIM:182301
+3	0.8	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+4	0.75	Hereditary spastic paraplegia 31	OMIM:610250
+5	0.7	Spasticity, childhood-onset, with hyperglycinemia	OMIM:616859
+6	0.65	Coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness	OMIM:617306
+7	0.6	Autosomal recessive spastic paraplegia type 70	OMIM:618081
+8	0.55	Bangstad syndrome	OMIM:603732
+9	0.5	Spasticity, childhood-onset, with hyperglycinemia and early lethality	OMIM:617730
+10	0.45	Lethal congenital contracture syndrome 9	OMIM:616503

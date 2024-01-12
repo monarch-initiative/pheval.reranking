@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency	OMIM:601457
+2	0.85	Hyper IgM syndrome	OMIM:605018
+3	0.8	Immunodeficiency 27B	OMIM:615978
+4	0.75	Immunodeficiency, common variable, 1	OMIM:607594
+5	0.7	Immunodeficiency 27A	OMIM:209950
+6	0.65	Immunodeficiency 31C	OMIM:614162
+7	0.6	X-linked severe combined immunodeficiency	OMIM:300400
+8	0.55	Complement component 2 deficiency	OMIM:217000
+9	0.5	Immunodeficiency 58	OMIM:618204
+10	0.45	Recurrent infection due to specific granule deficiency	OMIM:245480

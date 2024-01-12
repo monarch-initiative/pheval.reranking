@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neutropenia	OMIM:162800
+2	0.8	Chronic Granulomatous Disease	OMIM:306400
+3	0.7	Neonatal Onset Multisystem Inflammatory Disease	OMIM:607115
+3	0.7	Osteopetrosis	OMIM:166600
+5	0.6	Congenital Neutropenia	OMIM:202700
+5	0.6	Severe Combined Immunodeficiency	OMIM:202370
+7	0.5	Autoinflammatory Syndrome	OMIM:605725
+7	0.5	Epidermolysis Bullosa	OMIM:131750
+7	0.5	Hyper-IgE Syndrome	OMIM:147060
+7	0.5	Omenn Syndrome	OMIM:603554

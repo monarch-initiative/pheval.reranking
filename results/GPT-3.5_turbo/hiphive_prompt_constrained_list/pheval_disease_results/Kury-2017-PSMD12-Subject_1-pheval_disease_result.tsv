@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Nonsyndromic hearing loss and deafness, DFNB1	OMIM:220290
+2	0.76	Pendred syndrome	OMIM:274600
+3	0.74	Usher syndrome, type 1B	OMIM:276900
+4	0.73	Waardenburg syndrome, type 2A	OMIM:193510
+5	0.72	THC7-related generalized dystonia	OMIM:601042
+6	0.71	Brachydactyly, type A1	OMIM:112500
+7	0.69	Cohen syndrome	OMIM:216550
+8	0.67	Baraitser-Winter syndrome 1	OMIM:243310
+9	0.66	CHARGE syndrome	OMIM:214800
+10	0.64	Intellectual developmental disorder with speech delay and characteristic facies	OMIM:616557

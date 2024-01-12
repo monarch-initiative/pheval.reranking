@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.844	FGFR1 disorders	OMIM:136350
+2	0.829	Crouzon syndrome	OMIM:123500
+3	0.825	Baller-Gerold syndrome	OMIM:218600
+4	0.823	Apert syndrome	OMIM:101200
+5	0.82	Robinow syndrome	OMIM:268310
+6	0.815	Muenke syndrome	OMIM:602849
+7	0.811	Cleft lip/palate-ectodermal dysplasia syndrome	OMIM:225060
+8	0.808	Syndromic craniosynostosis 1	OMIM:600593
+9	0.806	Saethre-Chotzen syndrome	OMIM:101400
+10	0.804	FGFR2 disorders	OMIM:123790

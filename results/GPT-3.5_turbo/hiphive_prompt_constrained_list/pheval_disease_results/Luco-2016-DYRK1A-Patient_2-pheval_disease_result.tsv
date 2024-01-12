@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Kabuki syndrome	OMIM:147920
+2	0.92	Coffin-Siris syndrome	OMIM:135900
+3	0.89	Angelman syndrome	OMIM:105830
+4	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.87	Fragile X syndrome	OMIM:300624
+6	0.86	Cornelia de Lange syndrome	OMIM:122470
+7	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.85	Rett syndrome	OMIM:312750
+9	0.83	Smith-Magenis syndrome	OMIM:182290
+10	0.82	Prader-Willi syndrome	OMIM:176270

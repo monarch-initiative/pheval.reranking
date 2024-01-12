@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Hyperkalemia	OMIM:614104
+2	0.96	Gingival overgrowth	OMIM:614104
+3	0.95	Acidosis	OMIM:608716
+4	0.93	Hypoalbuminemia	OMIM:612940
+5	0.92	Malnutrition	OMIM:605282
+6	0.91	Protein-losing enteropathy	OMIM:612940
+7	0.89	Cutaneous sclerotic plaque	OMIM:606693
+8	0.87	Weight loss	OMIM:610759
+9	0.86	Flexion contracture	OMIM:616840
+10	0.85	Pain	OMIM:102500

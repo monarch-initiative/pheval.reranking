@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia tarda	OMIM:313400
+2	0.8	Stickler syndrome, type I	OMIM:108300
+3	0.7	Osteogenesis imperfecta, type II	OMIM:166210
+4	0.6	Marfan syndrome	OMIM:154700
+5	0.5	Ehlers-Danlos syndrome, classic type	OMIM:130000
+6	0.4	Cleft palate, isolated	OMIM:119540
+7	0.3	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+8	0.2	Osteogenesis imperfecta, type III	OMIM:259420
+9	0.1	Joint hypermobility syndrome	OMIM:147770
+10	0.05	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020

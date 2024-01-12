@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bernard-Soulier syndrome type A1	OMIM:231200
+2	0.87	MYH9-related disorder	OMIM:160775
+3	0.84	Glanzmann thrombasthenia	OMIM:273800
+4	0.8	Paris-Trousseau thrombocytopenia	OMIM:188025
+5	0.79	Essential thrombocythemia	OMIM:187950
+6	0.78	Thrombocytopenia 2	OMIM:188000
+7	0.77	May-Hegglin anomaly	OMIM:155100
+8	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+9	0.74	Autoimmune lymphoproliferative syndrome	OMIM:601859
+10	0.73	Neutrophil-specific granule deficiency	OMIM:162800

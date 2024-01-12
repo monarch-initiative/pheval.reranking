@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Sotos syndrome 1	OMIM:117550
+2	0.78	Marshall-Smith syndrome	OMIM:602535
+3	0.77	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.76	Angelman syndrome	OMIM:105830
+5	0.75	Kabuki syndrome	OMIM:147920
+5	0.75	Chromosome Xq28 duplication syndrome	OMIM:300815
+7	0.74	Smith-Magenis syndrome	OMIM:182290
+8	0.73	Cohen syndrome	OMIM:216550
+9	0.72	Floating-Harbor syndrome	OMIM:136140
+9	0.72	Rett syndrome	OMIM:312750

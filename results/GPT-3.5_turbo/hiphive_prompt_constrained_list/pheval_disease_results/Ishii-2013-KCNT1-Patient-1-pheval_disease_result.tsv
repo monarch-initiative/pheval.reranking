@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Severe intellectual disability and progressive spastic paraplegia	OMIM:613254
+2	0.935	Galloway-Mowat syndrome	OMIM:617560
+3	0.934	Intellectual disability-developmental delay-contractures syndrome	OMIM:613990
+4	0.929	Epileptic encephalopathy, early infantile, 26	OMIM:604248
+5	0.927	Epileptic encephalopathy, early infantile, 3	OMIM:609304
+6	0.926	Epilepsy, childhood absence 5	OMIM:612269
+7	0.925	Spastic paraplegia 76, autosomal recessive	OMIM:617516
+7	0.925	Epileptic encephalopathy, early infantile, 37	OMIM:617540
+9	0.921	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 10	OMIM:615041
+10	0.918	Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A, 15	OMIM:615286

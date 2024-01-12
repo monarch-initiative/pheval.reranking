@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome 3	OMIM:603830
+2	0.85	Long QT syndrome 1	OMIM:192500
+3	0.8	Short QT syndrome 1	OMIM:609620
+4	0.75	Brugada syndrome 3	OMIM:611875
+5	0.7	Brugada syndrome 1	OMIM:601144
+6	0.65	Short QT syndrome 3	OMIM:609622
+7	0.6	Long QT syndrome 5	OMIM:613695
+8	0.55	Long QT syndrome 8	OMIM:618254
+9	0.5	Long QT syndrome 2	OMIM:613688
+10	0.45	Romano-Ward syndrome	OMIM:192500

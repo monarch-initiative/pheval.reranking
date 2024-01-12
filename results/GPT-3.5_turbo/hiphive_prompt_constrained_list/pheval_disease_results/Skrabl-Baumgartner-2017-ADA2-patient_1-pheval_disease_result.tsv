@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+2	0.85	Giant cell arteritis	OMIM:187360
+3	0.8	Rheumatoid arthritis	OMIM:180300
+4	0.75	Behcet disease	OMIM:109650
+5	0.7	Cogan syndrome	OMIM:300830
+6	0.65	Anti-phospholipid syndrome	OMIM:107320
+7	0.6	Systemic sclerosis	OMIM:181750
+8	0.55	Polyarteritis nodosa	OMIM:600376
+9	0.5	Multiple sclerosis	OMIM:126200
+10	0.45	Temporal arteritis	OMIM:187360

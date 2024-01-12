@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Vitamin B12 deficiency	OMIM:277400
+2	0.8	Megaloblastic anemia 1	OMIM:261100
+3	0.7	Megaloblastic anemia due to dihydrofolate reductase deficiency	OMIM:613839
+4	0.6	Combined oxidative phosphorylation deficiency 7	OMIM:257310
+5	0.5	Methylmalonic aciduria due to methylmalonyl-CoA epimerase deficiency	OMIM:600522
+6	0.4	Methylmalonic aciduria and homocystinuria, cblC type	OMIM:277400
+7	0.3	Imerslund-Gräsbeck syndrome, selective vitamin B12 malabsorption with proteinuria	OMIM:261100
+8	0.2	Vitamin B12-unresponsive methylmalonic acidemia type mut-	OMIM:251000
+9	0.1	Cobalamin F, type I	OMIM:277380
+9	0.1	Cobalamin F, type II	OMIM:277380

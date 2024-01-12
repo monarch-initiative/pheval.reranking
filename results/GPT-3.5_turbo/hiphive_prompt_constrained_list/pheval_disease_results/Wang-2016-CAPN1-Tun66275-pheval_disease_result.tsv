@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.769	Ataxia, autosomal recessive, with peripheral neuropathy	OMIM:607250
+2	0.745	Ataxia, sensory, 1, autosomal dominant	OMIM:608984
+3	0.742	Amyotrophic lateral sclerosis 1	OMIM:105400
+4	0.737	Spinocerebellar ataxia 25	OMIM:609615
+5	0.726	Charcot-Marie-Tooth disease, dominant intermediate F	OMIM:607706
+6	0.722	Ataxia-telangiectasia	OMIM:208900
+7	0.721	Ataxia-telangiectasia-like disorder 1	OMIM:604391
+8	0.72	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	OMIM:616192
+9	0.717	Polyglucosan body myopathy 1, with or without immunodeficiency	OMIM:615895
+10	0.715	Neuropathy, hereditary sensory and autonomic, 1D	OMIM:613708

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies	OMIM:613254
+2	0.85	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5	OMIM:609284
+3	0.8	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 2	OMIM:613990
+4	0.75	Muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type A, 6	OMIM:617516
+5	0.7	Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 1	OMIM:613454
+6	0.65	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 13	OMIM:617560
+7	0.6	Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 3	OMIM:615193
+8	0.55	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:253280
+9	0.5	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 12	OMIM:615249
+10	0.45	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 7A	OMIM:614643

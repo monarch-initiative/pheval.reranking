@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arrhythmogenic right ventricular cardiomyopathy	OMIM:604772
+2	0.85	Long QT syndrome	OMIM:192500
+3	0.8	Dilated cardiomyopathy	OMIM:115200
+4	0.75	Hypertrophic cardiomyopathy	OMIM:192600
+5	0.7	Brugada syndrome	OMIM:601144
+6	0.6	Cardiac conduction defect	OMIM:115200
+7	0.5	Conotruncal heart malformations	OMIM:217095
+8	0.4	Holt-Oram syndrome	OMIM:142900
+9	0.3	Atrial septal defect 1	OMIM:108800
+10	0.2	Ventricular septal defect	OMIM:614429

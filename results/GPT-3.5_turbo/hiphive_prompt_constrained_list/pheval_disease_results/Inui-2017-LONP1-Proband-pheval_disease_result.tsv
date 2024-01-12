@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Molybdenum cofactor deficiency, complementation group A	OMIM:252150
+2	0.82	Mosaic trisomy 8	OMIM:158170
+3	0.8	Rhizomelic chondrodysplasia punctata, type 1	OMIM:215100
+4	0.79	Epidermolysis bullosa dystrophica, AD	OMIM:131750
+5	0.78	Pyruvate dehydrogenase E2 deficiency	OMIM:245348
+6	0.77	Glutaric aciduria, type 1	OMIM:231670
+7	0.76	Nonketotic hyperglycinemia	OMIM:605899
+8	0.75	Hypochondroplasia	OMIM:146000
+9	0.74	Epilepsy, progressive myoclonic 2	OMIM:254780
+10	0.73	3-methylglutaconic aciduria, type X	OMIM:300888

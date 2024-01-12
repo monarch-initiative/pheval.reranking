@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Stickler syndrome	OMIM:108300
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.82	Marfan syndrome	OMIM:154700
+4	0.79	Larsen syndrome	OMIM:150250
+5	0.78	Pseudoachondroplasia	OMIM:177170
+6	0.77	Osteogenesis imperfecta	OMIM:259440
+7	0.76	Kniest dysplasia	OMIM:156550
+8	0.75	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+8	0.75	Weill-Marchesani syndrome	OMIM:277600
+10	0.74	Congenital contractural arachnodactyly	OMIM:121050

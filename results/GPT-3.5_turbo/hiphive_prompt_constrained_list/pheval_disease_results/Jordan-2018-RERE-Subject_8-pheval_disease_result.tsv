@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris syndrome 2	OMIM:614608
+2	0.92	Arthrogryposis, distal, type 1	OMIM:108120
+3	0.89	Arthrogryposis, distal, type 3	OMIM:114300
+4	0.88	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.87	Congenital contractural arachnodactyly	OMIM:121050
+6	0.85	Arthrogryposis multiplex congenita, distal, type 2B	OMIM:601680
+7	0.84	Craniofacial-deafness-hand syndrome	OMIM:122880
+8	0.82	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:236670
+9	0.81	Arthrogryposis, distal, type 2A	OMIM:193700
+10	0.8	Arthrogryposis, distal, type 2B	OMIM:601680

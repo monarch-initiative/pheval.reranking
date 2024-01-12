@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Spondylothoracic dysostosis	OMIM:184252
+2	0.85	Robinow syndrome, autosomal dominant 2	OMIM:616331
+3	0.83	Laryngotracheoesophageal cleft	OMIM:109350
+4	0.82	Spondylocostal dysostosis 3, autosomal recessive	OMIM:609813
+4	0.82	Spondylocostal dysostosis 4, autosomal recessive	OMIM:613686
+6	0.81	Roberts syndrome	OMIM:268300
+6	0.81	Carney complex variant	OMIM:608983
+8	0.79	Diastrophic dysplasia	OMIM:222600
+9	0.78	Brachydactyly	OMIM:113100
+10	0.77	Chromosome 8q21.13 duplication syndrome	OMIM:609757

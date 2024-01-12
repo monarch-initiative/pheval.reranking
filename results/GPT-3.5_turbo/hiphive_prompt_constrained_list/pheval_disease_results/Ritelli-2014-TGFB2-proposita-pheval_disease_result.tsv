@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Marfan syndrome	OMIM:154700
+2	0.97	Ehlers-Danlos syndrome	OMIM:130000
+3	0.95	Osteogenesis imperfecta	OMIM:166200
+4	0.94	Loeys-Dietz syndrome	OMIM:609192
+5	0.92	Stickler syndrome	OMIM:108300
+6	0.9	Larsen syndrome	OMIM:150250
+7	0.89	Loeys-Dietz syndrome type 4	OMIM:614816
+8	0.88	Ehlers-Danlos syndrome, classical type	OMIM:130050
+9	0.87	Stickler syndrome type 1	OMIM:604841
+10	0.86	Ehlers-Danlos syndrome, vascular type	OMIM:130050

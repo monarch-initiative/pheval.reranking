@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.78	Cornelia de Lange syndrome	OMIM:122470
+2	0.76	Potocki-Shaffer syndrome	OMIM:601224
+3	0.75	Lethal congenital contracture syndrome	OMIM:253310
+4	0.73	Klippel-Feil syndrome	OMIM:118100
+5	0.71	Meier-Gorlin syndrome	OMIM:224690
+6	0.69	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.68	Oto-Palato-Digital syndrome	OMIM:311300
+8	0.66	Branchiootorenal syndrome	OMIM:113650
+9	0.64	Kabuki syndrome	OMIM:147920
+10	0.62	Coffin-Lowry syndrome	OMIM:303600

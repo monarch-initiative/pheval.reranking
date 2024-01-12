@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Transposition of the Great Arteries	OMIM:187500
+2	0.85	Ventricular Septal Defect 1	OMIM:614429
+3	0.8	Tetralogy of Fallot	OMIM:187500
+4	0.75	Pulmonary Artery Atresia	OMIM:178300
+5	0.7	Heterotaxy Syndrome 1	OMIM:306955
+6	0.65	Double Outlet Right Ventricle	OMIM:217095
+7	0.6	Persistent Truncus Arteriosus	OMIM:217095
+8	0.55	Atrioventricular Septal Defect 1	OMIM:600309
+9	0.5	Absent Right Pulmonary Artery	OMIM:217050
+10	0.45	Heterotaxy Syndrome 2	OMIM:605376

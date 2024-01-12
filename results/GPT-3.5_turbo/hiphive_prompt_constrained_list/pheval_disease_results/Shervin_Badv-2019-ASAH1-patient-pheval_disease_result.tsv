@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Lactate Dehydrogenase Deficiency	OMIM:150250
+2	0.82	Myopathy with Lactic Acidosis, Hereditary	OMIM:255125
+3	0.79	Myositis	OMIM:160750
+4	0.78	Muscular Dystrophy, Duchenne Type	OMIM:310200
+5	0.76	Leigh Syndrome, X-Linked	OMIM:300878
+6	0.75	Rhabdomyolysis	OMIM:268210
+7	0.73	Muscular Dystrophy, Limb-Girdle, Type 2A	OMIM:253600
+8	0.71	Mitochondrial Myopathy, Lactic Acidosis, and Sideroblastic Anemia 1	OMIM:600462
+9	0.69	Muscular Dystrophy, Limb-Girdle, Type 2C	OMIM:253700
+10	0.67	Muscular Dystrophy, Limb-Girdle, Type 2B	OMIM:253601

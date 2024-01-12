@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.6	Cat eye syndrome	OMIM:115470
+2	0.5	Potocki-Shaffer syndrome	OMIM:601224
+3	0.45	Fragile X syndrome	OMIM:300624
+4	0.43	Williams-Beuren syndrome	OMIM:194050
+5	0.42	Smith-Magenis syndrome	OMIM:182290
+6	0.38	Cri-du-chat syndrome	OMIM:123450
+7	0.35	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.33	Angelman syndrome	OMIM:105830
+9	0.3	Rett syndrome	OMIM:312750
+10	0.28	Down syndrome	OMIM:190685

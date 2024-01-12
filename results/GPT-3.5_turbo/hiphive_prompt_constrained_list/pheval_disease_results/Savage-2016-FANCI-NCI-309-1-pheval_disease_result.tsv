@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.5303	CHARGE Syndrome	OMIM:214800
+2	0.5044	Hemochromatosis	OMIM:235200
+3	0.5036	Dilated Cardiomyopathy	OMIM:115150
+4	0.5026	Acute Myeloid Leukemia	OMIM:601626
+5	0.4999	Kleefstra Syndrome	OMIM:610253
+6	0.4996	Short Rib-Polydactyly Syndrome	OMIM:263520
+6	0.4996	Waardenburg Syndrome Type 2A	OMIM:193510
+6	0.4996	Ventricular Septal Defect 2	OMIM:614431
+9	0.4988	Jacobsen Syndrome	OMIM:147791
+10	0.4984	ATR-16 Syndrome	OMIM:613646

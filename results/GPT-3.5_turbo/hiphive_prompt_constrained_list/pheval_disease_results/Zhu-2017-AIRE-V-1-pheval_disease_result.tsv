@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autoimmune polyendocrine syndrome type 1	OMIM:240300
+2	0.8	Familial hypocalciuric hypercalcemia	OMIM:145980
+3	0.7	Hypoparathyroidism, sensorineural deafness, and renal dysplasia	OMIM:146255
+4	0.6	Tuberous sclerosis-1	OMIM:191100
+5	0.5	Jervell and Lange-Nielsen syndrome	OMIM:220400
+6	0.4	Familial isolated primary hyperparathyroidism	OMIM:145000
+7	0.3	Johanson-Blizzard syndrome	OMIM:243800
+8	0.2	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+9	0.1	Hypomagnesemia 4, renal	OMIM:611718
+10	0.0	DiGeorge syndrome	OMIM:188400

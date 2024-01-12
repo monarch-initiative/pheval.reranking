@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurofibromatosis, Type II	OMIM:101200
+2	0.92	Neurofibromatosis, Type I	OMIM:162200
+3	0.9	Neurofibromatosis, Type IIA	OMIM:101000
+4	0.89	Neurofibromatosis, Type IIB	OMIM:101800
+5	0.88	Neurofibromatosis-Noonan Syndrome	OMIM:162260
+6	0.87	Neurofibromatosis-Noonan Syndrome-Legius Syndrome	OMIM:162260
+7	0.85	Legius Syndrome	OMIM:611431
+8	0.83	Benign Neoplasm of the Central Nervous System	OMIM:136600
+9	0.82	Neurofibromatosis-Noonan Syndrome-Like Phenotype	OMIM: 613675
+10	0.81	Neurocutaneous Melanosis	OMIM:249400

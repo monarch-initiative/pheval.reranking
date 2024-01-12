@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Simpson-Golabi-Behmel syndrome	OMIM:312870
+2	0.86	Meckel syndrome 1	OMIM:249000
+3	0.85	Angelman syndrome	OMIM:105830
+4	0.84	Peroxisome biogenesis disorder 1A (Zellweger)	OMIM:214100
+5	0.83	Pterygium syndrome	OMIM:265000
+6	0.82	Coffin-Lowry syndrome	OMIM:303600
+6	0.82	Albanism, oculocutaneous, type II	OMIM:203200
+8	0.81	Albanism, oculocutaneous, type I	OMIM:203100
+9	0.8	Fibrodysplasia ossificans progressiva	OMIM:135100
+9	0.8	Jervell and Lange-Nielsen syndrome	OMIM:220400

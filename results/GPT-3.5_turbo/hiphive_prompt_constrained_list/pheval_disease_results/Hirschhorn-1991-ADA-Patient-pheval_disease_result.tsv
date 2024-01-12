@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Immunodeficiency 48	OMIM:616126
+2	0.75	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, Nk Cell-Negative	OMIM:608971
+3	0.72	Severe Combined Immunodeficiency, X-Linked	OMIM:300400
+4	0.68	Leukemia, Chronic Lymphocytic	OMIM:151400
+5	0.65	Immunodeficiency 20	OMIM:615707
+6	0.62	Beta Thalassemia	OMIM:613985
+7	0.6	Schimke Immuno-Osseous Dysplasia	OMIM:242900
+8	0.58	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.55	Leukemia, Acute Lymphoblastic	OMIM:613065
+10	0.53	Anemia, Hemolytic	OMIM:205950

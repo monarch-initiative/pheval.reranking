@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513
+2	0.8	Cerebral palsy, spastic quadriplegic, 2	OMIM:612900
+3	0.75	Pontocerebellar hypoplasia, type 2C	OMIM:612390
+4	0.7	Intellectual developmental disorder with cardiac arrhythmia	OMIM:617173
+5	0.65	Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies	OMIM:617527
+6	0.6	Cerebral palsy, spastic diplegic, 1	OMIM:601162
+7	0.55	Pontocerebellar hypoplasia, type 2A	OMIM:277470
+8	0.5	X-linked intellectual disability, Cantagrel type	OMIM:614562
+9	0.45	Schizencephaly	OMIM:269160
+10	0.4	Cardiomyopathy, dilated, with woolly hair and keratoderma	OMIM:605676

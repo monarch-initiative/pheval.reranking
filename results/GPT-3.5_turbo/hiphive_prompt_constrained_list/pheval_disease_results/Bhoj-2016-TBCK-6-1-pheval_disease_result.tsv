@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.928	Severe developmental delay with speech impairment and behavioral abnormalities	OMIM:617622
+2	0.924	Developmental delay with or without dysmorphic facies and autism spectrum disorder	OMIM:618089
+3	0.919	Fragile x syndrome	OMIM:300624
+4	0.916	Mucopolysaccharidosis type II	OMIM:309900
+5	0.913	Kleefstra syndrome	OMIM:610253
+6	0.911	Angelman syndrome due to a point mutation	OMIM:105830
+7	0.91	Pitt-Hopkins-like syndrome 1	OMIM:610042
+8	0.909	Syndromic X-linked intellectual disability due to JARID1C mutation	OMIM:300534
+9	0.908	X-linked intellectual disability, Stocco Dos Santos type	OMIM:300434
+10	0.907	10q22.3q23.3 microdeletion syndrome	OMIM:615877

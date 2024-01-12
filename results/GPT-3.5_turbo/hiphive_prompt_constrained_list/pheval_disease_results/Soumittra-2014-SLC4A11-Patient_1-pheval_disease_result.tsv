@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.991	Fuchs endothelial corneal dystrophy	OMIM:136800
+2	0.945	Posterior polymorphous corneal dystrophy	OMIM:122000
+3	0.903	Keratoconus	OMIM:148300
+4	0.889	Corneal dystrophy	OMIM:121800
+5	0.854	Corneal opacity	OMIM:123600
+6	0.835	Corneal edema	OMIM:217700
+7	0.828	Keratoglobus	OMIM:148220
+8	0.81	Keratitis	OMIM:148190
+9	0.809	Arcus senilis	OMIM:107400
+10	0.808	Phakomatosis pigmentovascularis	OMIM:303000

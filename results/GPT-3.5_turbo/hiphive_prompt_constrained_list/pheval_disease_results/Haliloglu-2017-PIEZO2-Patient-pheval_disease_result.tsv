@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.956	Collagen VI-related myopathy	OMIM:606721
+2	0.945	Bethlem myopathy	OMIM:158810
+3	0.902	Muscular dystrophy, limb-girdle, type 2D	OMIM:608099
+4	0.898	Muscular dystrophy, limb-girdle, type 2E	OMIM:210600
+5	0.883	Centronuclear myopathy	OMIM:160150
+6	0.87	Congenital muscular dystrophy, Ullrich type	OMIM:254090
+7	0.866	Nemaline myopathy 1	OMIM:609286
+8	0.857	Autosomal recessive centronuclear myopathy	OMIM:255200
+9	0.855	Spinal muscular atrophy	OMIM:253300
+10	0.854	Muscular dystrophy, limb-girdle, type 2L	OMIM:611307

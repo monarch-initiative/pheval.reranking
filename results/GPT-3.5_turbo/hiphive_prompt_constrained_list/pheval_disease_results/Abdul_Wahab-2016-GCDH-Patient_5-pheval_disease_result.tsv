@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Megalencephaly	OMIM:155170
+2	0.88	Dystonia	OMIM:128230
+3	0.81	Glutaric Aciduria	OMIM:231670
+4	0.76	Subdural Hematoma	OMIM:614355
+4	0.76	Hydrocephalus	OMIM:236600
+6	0.72	Cerebral Atrophy	OMIM:183090
+7	0.68	Muscle Rigidity	OMIM:188400
+8	0.65	Ataxia	OMIM:208920
+8	0.65	Intracranial Hemorrhage	OMIM:147900
+10	0.61	Torticollis	OMIM:189600

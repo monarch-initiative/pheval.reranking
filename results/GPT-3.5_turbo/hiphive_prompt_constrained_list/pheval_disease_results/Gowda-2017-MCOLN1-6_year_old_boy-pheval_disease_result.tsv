@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7826	Microcephaly, Epilepsy, And Diabetes Syndrome	OMIM:617466
+2	0.7619	Pontocerebellar Hypoplasia, Type 2D	OMIM:615851
+3	0.7391	3-Methylglutaconic Aciduria, Type I	OMIM:250950
+3	0.7391	Mental Retardation, Autosomal Recessive 32	OMIM:617182
+3	0.7391	Pontocerebellar Hypoplasia, Type 1B	OMIM:614678
+3	0.7391	Mental Retardation, X-Linked 32	OMIM:300886
+3	0.7391	Galloway-Mowat Syndrome 2	OMIM:617729
+3	0.7391	Peroxisome Biogenesis Disorder 13A	OMIM:614859
+3	0.7391	Microcephaly 1, Primary, Autosomal Recessive	OMIM:251200
+3	0.7391	Mental Retardation, Autosomal Recessive 41	OMIM:615502

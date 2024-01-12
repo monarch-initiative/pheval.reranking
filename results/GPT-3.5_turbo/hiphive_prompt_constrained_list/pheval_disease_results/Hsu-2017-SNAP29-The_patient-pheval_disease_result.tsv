@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.975656569124768	Netherton syndrome	OMIM:256500
+2	0.9741743814773564	Ichthyosis vulgaris	OMIM:146700
+3	0.9707013205604553	Anonychia congenita	OMIM:206800
+4	0.969064608095262	Cardiofaciocutaneous syndrome	OMIM:115150
+5	0.9681294370089323	Trichothiodystrophy 2, photosensitive	OMIM:616390
+6	0.964092010557132	Williams-Beuren syndrome	OMIM:194050
+7	0.9619917276223913	Fetal alcohol syndrome	OMIM:134630
+8	0.9619532746735244	Ehlers-Danlos syndrome, classic type	OMIM:130000
+9	0.9617870987181996	Comel-Netherton syndrome	OMIM:617482
+10	0.9615407366991008	Fanconi anemia, complementation group A	OMIM:227650

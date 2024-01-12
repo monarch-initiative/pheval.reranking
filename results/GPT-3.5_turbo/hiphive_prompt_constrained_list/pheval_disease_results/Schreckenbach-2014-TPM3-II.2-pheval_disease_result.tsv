@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, early-onset, with malignant hyperthermia	OMIM:605622
+2	0.85	Congenital disorder of glycosylation, type Ia	OMIM:212065
+3	0.8	Intellectual disability, progressive spastic diplegia	OMIM:300920
+4	0.75	Centronuclear myopathy 1	OMIM:160150
+5	0.7	Myopathy, congenital, with fiber-type disproportion	OMIM:255310
+6	0.65	Muscular dystrophy, congenital, LMNA-related	OMIM:613205
+7	0.6	Distal myopathy with vocal cord weakness	OMIM:614320
+8	0.55	Congenital disorder of glycosylation, type Ie	OMIM:608799
+9	0.5	Myopathy, congenital, Swedish	OMIM:610698
+10	0.45	Muscular dystrophy, congenital, megaconial type	OMIM:602541

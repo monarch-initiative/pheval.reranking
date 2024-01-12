@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.852	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.848	Fragile X syndrome	OMIM:300624
+3	0.844	Wolf-Hirschhorn syndrome	OMIM:194190
+4	0.842	Treacher Collins syndrome 2	OMIM:613717
+5	0.838	Hyper IgM syndrome	OMIM:308230
+6	0.836	Syndromic X-linked intellectual disability	OMIM:300233
+7	0.834	Interstitial lung disease	OMIM:615431
+8	0.832	Craniofacial-deafness-hand syndrome	OMIM:122880
+9	0.83	Beta-thalassemia	OMIM:613985
+10	0.828	Leukodystrophy, hypomyelinating, 1	OMIM:312080

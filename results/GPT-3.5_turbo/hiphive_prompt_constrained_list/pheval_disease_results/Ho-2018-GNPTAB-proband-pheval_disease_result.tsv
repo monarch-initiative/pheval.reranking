@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.72	Coffin-Siris syndrome 2	OMIM:613254
+2	0.68	Coffin-Siris syndrome 3	OMIM:613454
+3	0.66	Orbital fibroblastic myofibroblastic tumor	OMIM:617560
+4	0.64	Severe intellectual disability and progressive spastic paraparesis	OMIM:613990
+5	0.62	Intellectual disability and autistic features with or without seizures and macrocephaly	OMIM:115150
+6	0.6	Split-hand/foot malformation 1 with sensorineural hearing loss	OMIM:144200
+7	0.58	Fragile X syndrome	OMIM:609284
+8	0.56	CHARGE syndrome	OMIM:617516
+9	0.54	Cornelia de Lange syndrome 1	OMIM:600974
+10	0.52	Meacham syndrome	OMIM:604187

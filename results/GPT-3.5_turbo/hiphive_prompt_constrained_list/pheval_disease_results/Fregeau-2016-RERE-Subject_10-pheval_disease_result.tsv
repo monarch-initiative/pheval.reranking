@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:209850
+2	0.85	Intellectual disability	OMIM:613192
+3	0.8	Speech-language disorder	OMIM:613195
+4	0.75	Language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia	OMIM:617182
+5	0.7	Developmental speech disorder with or without orofacial anomalies	OMIM:601519
+6	0.65	Developmental delay and autism spectrum disorder with or without seizures	OMIM:615419
+7	0.6	Attention deficit-hyperactivity disorder	OMIM:143465
+8	0.55	Regressive autism	OMIM:609013
+9	0.5	Global developmental delay, absent or hypotonic facial expression, microcephaly, progressive neurodegeneration, and bladder dysfunction	OMIM:617527
+10	0.45	Developmental delay due to 2p16.1-p15 duplication	OMIM:613573

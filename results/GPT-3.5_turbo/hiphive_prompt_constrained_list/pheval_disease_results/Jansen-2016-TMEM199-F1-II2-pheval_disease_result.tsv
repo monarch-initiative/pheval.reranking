@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Wilson disease	OMIM:277900
+2	0.94	Hypercholesterolemia, familial	OMIM:143890
+3	0.92	Abetalipoproteinemia	OMIM:200100
+4	0.91	Hyperlipidemia, familial combined	OMIM:144250
+5	0.9	Hemochromatosis, type 1	OMIM:235200
+6	0.89	Alagille syndrome 1	OMIM:118450
+7	0.88	Familial hypercholesterolemia	OMIM:143890
+8	0.87	Sitosterolemia	OMIM:210250
+9	0.86	Cystic fibrosis	OMIM:219700
+10	0.85	Phosphoenolpyruvate carboxykinase deficiency, mitochondrial	OMIM:261680

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Growth hormone deficiency	OMIM:615681
+2	0.82	Diamond-Blackfan anemia	OMIM:105650
+3	0.8	Fanconi anemia	OMIM:227650
+4	0.79	Severe combined immunodeficiency	OMIM:102700
+5	0.77	Congenital heart defects, multiple types	OMIM:614980
+6	0.75	Microcephaly	OMIM:251200
+7	0.73	Thrombocytopenia	OMIM:273900
+8	0.72	Thrombocytopenia absent radius	OMIM:274000
+9	0.7	Dilatative cardiomyopathy	OMIM:115200
+10	0.69	Aplastic anemia	OMIM:609135

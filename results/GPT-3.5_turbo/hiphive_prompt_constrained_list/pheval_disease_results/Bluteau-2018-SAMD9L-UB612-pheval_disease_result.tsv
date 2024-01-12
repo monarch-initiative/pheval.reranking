@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diamond-Blackfan anemia 1	OMIM:105650
+2	0.85	Severe congenital neutropenia 3	OMIM:610738
+3	0.82	Fanconi anemia, complementation group A	OMIM:227650
+4	0.8	Diamond-Blackfan anemia 3	OMIM:611062
+5	0.78	Shwachman-Diamond syndrome 1	OMIM:260400
+6	0.75	Severe congenital neutropenia 1	OMIM:202700
+7	0.72	Aplastic anemia	OMIM:609135
+8	0.7	Shwachman-Diamond syndrome 2	OMIM:613101
+9	0.68	Fanconi anemia, complementation group L	OMIM:614083
+9	0.68	Aplastic anemia, partial	OMIM:609135

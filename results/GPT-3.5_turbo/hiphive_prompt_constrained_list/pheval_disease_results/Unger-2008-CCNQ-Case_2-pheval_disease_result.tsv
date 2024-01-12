@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Craniosynostosis, Sagittal, 613154	OMIM:613154
+2	0.89	Uterus Bicornis Bicollis with Partial Vaginal Septum and Renal Abnormalities, 613402	OMIM:613402
+3	0.85	Aortic Valve Disease 1, 109730	OMIM:109730
+4	0.84	Craniosynostosis 2, 604757	OMIM:604757
+5	0.82	Craniosynostosis, Boston-Type, 604757	OMIM:604757
+6	0.81	Craniosynostosis Type 1, 123100	OMIM:123100
+7	0.8	Craniometaphyseal Dysplasia, 123100	OMIM:123100
+8	0.78	Trachoma, Inclusion Conjunctivitis, and Keratitis, 614716	OMIM:614716
+9	0.77	Microphthalmia, Isolated 3, 611038	OMIM:611038
+10	0.76	Orofaciodigital Syndrome IX, 617926	OMIM:617926

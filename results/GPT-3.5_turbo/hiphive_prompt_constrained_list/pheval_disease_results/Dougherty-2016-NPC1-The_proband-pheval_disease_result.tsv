@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alzheimer disease 1	OMIM:104300
+2	0.9	Alzheimer disease 3	OMIM:607822
+3	0.88	Huntington disease	OMIM:143100
+4	0.86	Parkinson disease 4	OMIM:605543
+5	0.82	Ataxia-pancytopenia	OMIM:159550
+6	0.8	Ataxia-telangiectasia	OMIM:208900
+7	0.78	Ataxia, spastic, 1	OMIM:108600
+8	0.76	Spinocerebellar ataxia 13	OMIM:605259
+9	0.74	Spinocerebellar ataxia 19	OMIM:607346
+10	0.72	Spinocerebellar ataxia 1	OMIM:164400

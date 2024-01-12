@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome	OMIM:613254
+2	0.92	Hypokalemic Periodic Paralysis	OMIM:170500
+3	0.89	McArdle Disease	OMIM: #609560
+4	0.87	Myotonic Dystrophy	OMIM: #160900
+5	0.85	Glycogen Storage Disease Type II	OMIM: #232300
+6	0.83	Familial Hypertrophic Cardiomyopathy	OMIM: #192600
+7	0.81	MELAS Syndrome	OMIM: #540000
+8	0.79	Limb-Girdle Muscular Dystrophy Type 2B	OMIM: #253601
+9	0.77	McLeod Neuroacanthocytosis Syndrome	OMIM: #300850
+10	0.75	Primary Carnitine Deficiency	OMIM: #212140

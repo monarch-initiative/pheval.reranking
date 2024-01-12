@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Morbid obesity	OMIM:615981
+2	0.86	Obesity	OMIM:601665
+3	0.84	Intellectual disability	OMIM:614231
+4	0.82	Congenital diaphragmatic hernia	OMIM:222400
+5	0.78	Prader-Willi syndrome	OMIM:176270
+6	0.76	Cognitive impairment	OMIM:614268
+7	0.74	Microcephaly	OMIM:251200
+8	0.7	Obesity syndrome	OMIM:601665
+9	0.68	Childhood-onset obesity	OMIM:600913
+9	0.68	Coffin-Lowry syndrome	OMIM:303600

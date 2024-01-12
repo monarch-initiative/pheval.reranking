@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Microcephaly	OMIM:251200
+2	0.9	Intellectual disability	OMIM:614562
+3	0.87	Coloboma	OMIM:120315
+4	0.85	Dental crowding	OMIM:125450
+5	0.84	Delayed speech and language development	OMIM:608706
+6	0.83	Scoliosis	OMIM:181800
+7	0.82	Narrow palate	OMIM:612827
+8	0.81	Intellectual disability, moderate	OMIM:614562
+9	0.8	Broad thumb	OMIM:275350
+10	0.79	Hirsutism	OMIM:151400

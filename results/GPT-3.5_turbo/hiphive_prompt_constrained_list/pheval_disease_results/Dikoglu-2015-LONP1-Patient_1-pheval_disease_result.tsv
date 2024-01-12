@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Achondrogenesis, Type II or Hypochondrogenesis	OMIM:200610
+2	0.6707993173599243	Aicardi-Goutieres Syndrome 1	OMIM:225750
+3	0.6597313718794888	Acrocapitofemoral Dysplasia	OMIM:607778
+4	0.6587436330313603	Aicardi Syndrome	OMIM:304050
+5	0.6454908545073307	Aicardi-Goutieres Syndrome 2	OMIM:610181
+6	0.6454076091054448	Aleukemic Leukemia Cutis	OMIM:618148
+7	0.6332040252883241	Alkaptonuria	OMIM:203500
+8	0.6119376426334254	Aicardi-Goutieres Syndrome 3	OMIM:610329
+9	0.6022103564178805	Acyl-CoA Dehydrogenase, Very Long-Chain, Deficiency of	OMIM:201475
+10	0.6005432697269083	AMELX	OMIM:301200

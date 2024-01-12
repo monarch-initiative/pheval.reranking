@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Long QT syndrome	OMIM:613254
+2	0.85	Brugada syndrome	OMIM:601144
+3	0.8	Short QT syndrome	OMIM:609623
+4	0.75	Timothy syndrome	OMIM:601005
+5	0.7	Cardiac conduction defect, nonspecific	OMIM:601144
+6	0.65	Progressive familial heart block type IB	OMIM:604559
+7	0.6	Progressive familial heart block type I	OMIM:604559
+8	0.55	Cardiac conduction defect, congenital	OMIM:604559
+9	0.5	Cardiomyopathy, familial hypertrophic	OMIM:192600

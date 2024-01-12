@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Birt-Hogg-Dubé syndrome	OMIM:135150
+2	0.95	Primary spontaneous pneumothorax	OMIM:173600
+3	0.89	Hereditary leiomyomatosis and renal cell cancer syndrome	OMIM:150800
+4	0.87	Papillary renal cell carcinoma	OMIM:605074
+5	0.86	Cowden syndrome 1	OMIM:158350
+6	0.84	Familial spontaneous pneumothorax	OMIM:601282
+7	0.81	Colorectal cancer with chromosomal instability	OMIM:114500
+8	0.78	Mucinous tubular and spindle cell renal cell carcinoma	OMIM:616604
+9	0.76	Renal cell carcinoma	OMIM:144700
+10	0.75	Renal cell carcinoma, nonpapillary	OMIM:605074

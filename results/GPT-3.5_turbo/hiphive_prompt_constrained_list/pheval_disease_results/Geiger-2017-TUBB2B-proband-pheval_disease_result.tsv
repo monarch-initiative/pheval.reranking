@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cerebellar Dysplasia	OMIM:613717
+2	0.8	Attention Deficit Hyperactivity Disorder	OMIM:143465
+3	0.7	Cerebral Palsy	OMIM:603513
+4	0.6	Lissencephaly	OMIM:607432
+5	0.5	Cognitive Impairment	OMIM:620552
+6	0.45	Genu Valgum	OMIM:619144
+7	0.4	Hip Dysplasia	OMIM:138898
+8	0.35	Hyperlordosis	OMIM:139100
+9	0.3	Dilation of Lateral Ventricles	OMIM:167770
+10	0.25	Myoclonus	OMIM:123000

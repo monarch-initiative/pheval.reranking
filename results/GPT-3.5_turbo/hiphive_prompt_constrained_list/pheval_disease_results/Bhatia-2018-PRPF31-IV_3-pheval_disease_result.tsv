@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa	OMIM:268000
+2	0.92	Leber congenital amaurosis	OMIM:204000
+3	0.9	Cone-rod dystrophy	OMIM:604116
+4	0.85	Night blindness, congenital stationary	OMIM:310500
+5	0.8	Corneal dystrophy, Fuchs endothelial, 1	OMIM:136800
+6	0.75	Optic atrophy 1	OMIM:165500
+7	0.7	Retinal dystrophy, early-onset severe	OMIM:611755
+8	0.65	Retinoschisis, X-linked	OMIM:312700
+9	0.6	Optic nerve hypoplasia, bilateral	OMIM:165550
+10	0.55	Corneal dystrophy, posterior polymorphous, 1	OMIM:122000

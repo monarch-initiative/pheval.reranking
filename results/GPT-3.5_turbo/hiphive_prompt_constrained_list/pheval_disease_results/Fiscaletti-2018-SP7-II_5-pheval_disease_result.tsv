@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Ehlers-Danlos syndrome, type III	OMIM:130000
+2	0.9	Stickler syndrome, type I	OMIM:108300
+3	0.89	Stickler syndrome, type II	OMIM:604841
+4	0.86	Stickler syndrome, type III	OMIM:184840
+5	0.82	Osteogenesis imperfecta, type III	OMIM:259420
+6	0.81	Osteogenesis imperfecta, type IV	OMIM:166200
+7	0.8	Osteogenesis imperfecta, type II	OMIM:166210
+8	0.78	Hyperparathyroidism, neonatal severe	OMIM:239200
+9	0.76	Cole-Carpenter syndrome, type I	OMIM:112240
+10	0.75	Nathalie syndrome	OMIM:261530

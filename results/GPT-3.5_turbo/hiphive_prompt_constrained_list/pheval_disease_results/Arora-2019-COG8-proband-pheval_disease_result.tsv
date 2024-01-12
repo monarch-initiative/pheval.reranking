@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Wolf-Hirschhorn Syndrome	OMIM:194190
+2	0.86	21-Hydroxylase Deficiency	OMIM:201910
+3	0.84	Mowat-Wilson Syndrome	OMIM:235730
+4	0.83	Simpson-Golabi-Behmel Syndrome	OMIM:312870
+5	0.81	Rubinstein-Taybi Syndrome	OMIM:180849
+6	0.78	Pallister-Hall Syndrome	OMIM:146510
+7	0.77	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.76	Treacher Collins Syndrome	OMIM:154500
+9	0.75	Williams Syndrome	OMIM:194050
+10	0.74	Holt-Oram Syndrome	OMIM:142900

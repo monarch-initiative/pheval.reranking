@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.625	Combined oxidative phosphorylation deficiency	OMIM:609060
+2	0.583	Mitochondrial complex I deficiency	OMIM:252010
+3	0.542	Leber hereditary optic neuropathy	OMIM:535000
+4	0.533	Isolated mitochondrial respiratory chain complex deficiency	OMIM:252010
+5	0.5	Williams-Beuren syndrome	OMIM:194050
+5	0.5	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+5	0.5	Cockayne syndrome type II	OMIM:133540
+5	0.5	X-linked apportioned optic atrophy	OMIM:311400
+5	0.5	Hypotonia-cystinuria syndrome	OMIM:606407
+5	0.5	X-linked Kallmann syndrome	OMIM:300836

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Meckel syndrome	OMIM:611134
+2	0.87	Retinitis pigmentosa	OMIM:268000
+3	0.85	Leber congenital amaurosis	OMIM:204000
+4	0.83	Primary congenital glaucoma	OMIM:231300
+5	0.82	Microphthalmia	OMIM:309800
+6	0.8	Congenital cataract	OMIM:601286
+7	0.79	Oculocutaneous albinism	OMIM:203100
+7	0.79	Optic atrophy	OMIM:165500
+9	0.78	Microcornea	OMIM:156900
+9	0.78	Congenital glaucoma	OMIM:231300

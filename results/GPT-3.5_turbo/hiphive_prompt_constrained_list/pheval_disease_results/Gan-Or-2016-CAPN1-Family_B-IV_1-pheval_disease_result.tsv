@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Spastic paraplegia 7	OMIM:607259
+2	0.7	Hereditary spastic paraplegia	OMIM:604187
+3	0.6	Charcot-Marie-Tooth disease, type 4B3	OMIM:615284
+3	0.6	Distal hereditary motor neuronopathy type 5	OMIM:614751
+5	0.5	Amyotrophic lateral sclerosis 4, juvenile	OMIM:602433
+5	0.5	Spastic ataxia 1, autosomal dominant	OMIM:108600
+5	0.5	Spastic paraplegia 46, autosomal recessive	OMIM:614409
+8	0.4	Spastic ataxia	OMIM:600758
+8	0.4	Peroneal muscular atrophy	OMIM:115150
+8	0.4	Spastic ataxia 3	OMIM:611390

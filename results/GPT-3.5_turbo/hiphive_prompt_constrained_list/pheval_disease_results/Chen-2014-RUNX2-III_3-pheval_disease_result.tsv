@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.604	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+2	0.568	Cleidocranial dysplasia	OMIM:119600
+3	0.563	Hyperparathyroidism-jaw tumor syndrome	OMIM:145001
+4	0.558	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+5	0.548	Basan syndrome	OMIM:133600
+6	0.543	Crouzon syndrome	OMIM:123500
+7	0.541	Kleefstra syndrome	OMIM:610253
+8	0.526	Temporomandibular joint anomalies	OMIM:614821
+9	0.522	Craniofrontonasal syndrome	OMIM:304110
+10	0.518	Rubinstein-Taybi syndrome	OMIM:180849

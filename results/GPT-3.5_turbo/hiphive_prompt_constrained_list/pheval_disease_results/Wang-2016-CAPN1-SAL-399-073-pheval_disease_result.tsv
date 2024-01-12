@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar Ataxia 3	OMIM:109150
+2	0.9	Spinocerebellar Ataxia 29	OMIM:117360
+3	0.88	Spinocerebellar Ataxia 6	OMIM:183086
+4	0.86	Fragile X Syndrome	OMIM:300624
+5	0.85	Spinocerebellar Ataxia 30	OMIM:613909
+6	0.83	Myoclonic Dystonia	OMIM:159900
+7	0.82	Spinocerebellar Ataxia 7	OMIM:164500
+8	0.81	Hereditary Spastic Paraplegia	OMIM:604804
+9	0.8	Charcot-Marie-Tooth Disease Type 1A	OMIM:118220
+10	0.79	Spinocerebellar Ataxia 27	OMIM:609307

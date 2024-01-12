@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.8	Alagille syndrome	OMIM:118450
+3	0.7	Hemochromatosis	OMIM:235200
+4	0.6	Alpha-1 antitrypsin deficiency	OMIM:613490
+5	0.5	Dubin-Johnson syndrome	OMIM:237500
+6	0.4	Crigler-Najjar syndrome type 1	OMIM:218800
+7	0.3	Familial hypercholesterolemia	OMIM:143890
+8	0.2	Porphyria cutanea tarda	OMIM:176100
+9	0.1	Gilbert syndrome	OMIM:143500
+10	0.0	Familial Mediterranean fever	OMIM:249100

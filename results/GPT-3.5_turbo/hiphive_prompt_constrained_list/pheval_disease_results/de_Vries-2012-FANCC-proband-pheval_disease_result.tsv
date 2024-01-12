@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiomyopathy, dilated, 1T	OMIM:613254
+2	0.86	Atrial septal defect 5	OMIM:614604
+3	0.81	Microcephaly, short stature, and limb abnormalities	OMIM:617561
+4	0.76	Short stature, idiopathic, autosomal	OMIM:604271
+5	0.72	Ectodermal dysplasia, hidrotic	OMIM:129500
+6	0.68	Skin fragility-woolly hair syndrome	OMIM:607655
+7	0.64	Bazex-Dupré-Christol syndrome	OMIM:301845
+8	0.6	Neurodevelopmental disorder with microcephaly, epilepsy, and brain atrophy	OMIM:617732
+9	0.56	Mandibuloacral dysplasia with type B lipodystrophy	OMIM:609448
+10	0.52	Nemaline myopathy 2	OMIM:256030

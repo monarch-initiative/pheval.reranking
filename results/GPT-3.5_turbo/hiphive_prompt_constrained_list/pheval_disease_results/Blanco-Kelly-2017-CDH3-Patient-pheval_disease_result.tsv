@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency	OMIM:300291
+2	0.92	Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques	OMIM:617680
+3	0.91	Poikiloderma, hereditary fibrosing, with tendon contractures, myopathy, and pulmonary fibrosis	OMIM:615704
+4	0.89	Hyper IgM syndrome, type 2	OMIM:605258
+4	0.89	Ehlers-Danlos syndrome, type VIII	OMIM:130060
+6	0.88	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 12	OMIM:615249
+6	0.88	Macrocephaly with or without cutis marmorata telangiectatica congenita	OMIM:614042
+6	0.88	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+6	0.88	Pectus excavatum, macrocephaly, short stature, dysplastic nails	OMIM:169170
+6	0.88	Ichthyosis, congenital, autosomal recessive 10	OMIM:615024

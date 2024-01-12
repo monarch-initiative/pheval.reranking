@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Griscelli syndrome type 2	OMIM:603552
+2	0.94	Griscelli syndrome type 1	OMIM:214450
+3	0.93	Hermansky-Pudlak syndrome 2	OMIM:609528
+4	0.92	Albinism, oculocutaneous, type VI	OMIM:113750
+5	0.91	Albinism, oculocutaneous, type II	OMIM:203200
+6	0.9	Chériot-Goutières syndrome 2	OMIM:605033
+7	0.89	Oculocutaneous albinism type III	OMIM:203290
+8	0.88	Tietz syndrome	OMIM:103500
+9	0.87	Oculocutaneous albinism type IV	OMIM:606574
+10	0.86	Alder-Reilly anomaly	OMIM:601757

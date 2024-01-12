@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Robinow syndrome, autosomal recessive	OMIM:268310
+2	0.94	Robinow syndrome, autosomal dominant 1	OMIM:616331
+3	0.93	Acromesomelic dysplasia, Hunter-Thompson type	OMIM:201250
+4	0.92	Mesomelic dysplasia, Kantaputra type	OMIM:156232
+5	0.91	Jackson-Weiss syndrome	OMIM:123150
+6	0.9	Acromesomelic dysplasia, Demirhan type	OMIM:609441
+7	0.89	Cleidocranial dysplasia	OMIM:119600
+8	0.88	Diastrophic dysplasia	OMIM:222600
+9	0.87	Spondyloepiphyseal dysplasia, Stanescu type	OMIM:616583
+10	0.86	Spondyloepiphyseal dysplasia, Kimberley type	OMIM:221560

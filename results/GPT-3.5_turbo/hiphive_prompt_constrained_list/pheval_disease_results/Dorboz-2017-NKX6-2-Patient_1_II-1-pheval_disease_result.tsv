@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Intellectual disability	OMIM:614104
+2	0.89	Cerebral palsy	OMIM:603513
+3	0.86	Spastic paraplegia	OMIM:604805
+4	0.84	Seizures	OMIM:270400
+5	0.83	Ataxia	OMIM:609307
+6	0.81	Muscular dystrophy	OMIM:310200
+7	0.79	Autism	OMIM:209850
+8	0.78	Microphthalmia	OMIM:251600
+9	0.77	Infantile encephalopathy	OMIM:617113
+10	0.76	Hypotonia	OMIM:612528

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Ataxia	OMIM:601759
+1	0.86	Cerebellar ataxia	OMIM:614728
+3	0.85	Amyotrophic lateral sclerosis	OMIM:105400
+4	0.82	Parkinson's disease	OMIM:168600
+4	0.82	Spinocerebellar ataxia	OMIM:607454
+6	0.77	Huntington disease	OMIM:143100
+6	0.77	Multiple system atrophy	OMIM:146500
+8	0.75	Hereditary spastic paraplegia	OMIM:604360
+9	0.73	Frontotemporal lobar degeneration	OMIM:600274
+10	0.72	Focal epilepsy	OMIM:613725

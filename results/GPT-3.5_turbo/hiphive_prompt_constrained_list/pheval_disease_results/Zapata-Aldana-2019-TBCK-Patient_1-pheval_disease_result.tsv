@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Demyelinating disease	OMIM:617560
+2	0.9	Epileptic encephalopathy	OMIM:613454
+3	0.85	Peripheral neuropathy	OMIM:609284
+4	0.8	Leukoencephalopathy	OMIM:604004
+5	0.75	Spastic ataxia	OMIM:604432
+6	0.7	Infantile spasms	OMIM:308350
+7	0.65	Spastic paraparesis	OMIM:182601
+8	0.6	Juvenile myoclonic epilepsy	OMIM:254770
+9	0.55	Pelizaeus-Merzbacher-like disease	OMIM:260600
+10	0.5	Intractable diarrhea	OMIM:613217

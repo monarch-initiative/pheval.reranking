@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.63	Cytochrome C oxidase deficiency	OMIM:220110
+2	0.61	Lactic acidosis	OMIM:245349
+3	0.6	Alpers-Huttenlocher syndrome	OMIM:203700
+3	0.6	Combined oxidative phosphorylation deficiency	OMIM:609060
+3	0.6	Leigh syndrome	OMIM:256000
+6	0.59	Mitochondrial encephalomyopathy	OMIM:540000
+6	0.59	Mitochondrial respiratory chain complex assembly defect	OMIM:220110
+8	0.58	Cytochrome C oxidase deficiency	OMIM:220110
+8	0.58	MELAS syndrome	OMIM:540000
+10	0.57	Mitochondrial myopathy	OMIM:540000

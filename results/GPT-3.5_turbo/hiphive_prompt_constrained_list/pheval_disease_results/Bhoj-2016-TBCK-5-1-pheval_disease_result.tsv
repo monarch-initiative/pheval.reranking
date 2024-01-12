@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Beckwith-Wiedemann syndrome	OMIM:130650
+2	0.91	Sotos syndrome	OMIM:117550
+3	0.89	Coffin-Lowry syndrome	OMIM:303600
+4	0.86	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.85	Smith-Magenis syndrome	OMIM:182290
+5	0.85	Williams syndrome	OMIM:194050
+7	0.84	Noonan syndrome	OMIM:163950
+8	0.82	PTEN hamartoma tumor syndrome	OMIM:158350
+9	0.81	Gorlin syndrome	OMIM:109400
+10	0.8	Cantu syndrome	OMIM:239850

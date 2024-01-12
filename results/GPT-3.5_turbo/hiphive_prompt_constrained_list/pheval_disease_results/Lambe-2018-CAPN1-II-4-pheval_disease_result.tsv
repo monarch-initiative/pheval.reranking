@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia	OMIM:100800
+2	0.92	Amyotrophic lateral sclerosis 1	OMIM:105400
+3	0.91	Multiple sclerosis	OMIM:126200
+4	0.9	Cerebral palsy	OMIM:603513
+5	0.88	Dopa-responsive dystonia	OMIM:128230
+6	0.87	Spinal muscular atrophy	OMIM:253300
+7	0.86	Friedreich ataxia	OMIM:229300
+8	0.84	Ataxia-telangiectasia	OMIM:208900
+9	0.82	Leukoencephalopathy with vanishing white matter	OMIM:603896
+10	0.81	Idiopathic generalized epilepsy	OMIM:600669

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Oculocutaneous albinism	OMIM:203100
+2	0.92	Albinism, isolated	OMIM:203100
+3	0.9	Hermansky-Pudlak syndrome	OMIM:203300
+4	0.87	Griscelli syndrome	OMIM:214450
+5	0.85	Bietti crystalline dystrophy	OMIM:210370
+6	0.82	Hypopigmentation, organomegaly, and delayed myelination	OMIM:617108
+7	0.8	Chediak-Higashi syndrome	OMIM:214500
+8	0.78	Ocular albinism	OMIM:300500
+9	0.75	Pili torti-deafness syndrome	OMIM:304700
+10	0.72	Piebaldism	OMIM:172800

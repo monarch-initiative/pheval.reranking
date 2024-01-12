@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9204	Congenital disorder of glycosylation, type In	OMIM:613254
+2	0.9172	Congenital disorder of glycosylation, type Ip	OMIM:613454
+3	0.9051	Combined immunodeficiency, X-linked, moderate	OMIM:617560
+4	0.8901	Phenylketonuria	OMIM:613990
+5	0.8774	Reticular dysgenesis	OMIM:267500
+6	0.8746	Spondyloepimetaphyseal dysplasia, aggrecan type	OMIM:610330
+7	0.869	Simpson-Golabi-Behmel syndrome, type 1	OMIM:312870
+8	0.8663	Trichothiodystrophy 1, photosensitive	OMIM:601675
+9	0.8638	Immunodeficiency 14: Omenn syndrome	OMIM:603554
+10	0.8601	Ehlers-Danlos syndrome, classic type	OMIM:130000

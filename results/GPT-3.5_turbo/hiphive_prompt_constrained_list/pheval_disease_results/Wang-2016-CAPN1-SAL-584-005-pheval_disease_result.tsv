@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 29	OMIM:609283
+2	0.8	Cerebellar ataxia	OMIM:607861
+3	0.75	Hereditary spastic paraplegia	OMIM:603563
+4	0.7	Spinocerebellar ataxia 13	OMIM:605259
+5	0.65	Hereditary spastic paraplegia 76	OMIM:618161
+6	0.6	Spinocerebellar ataxia 31	OMIM:117210
+7	0.55	Hereditary spastic paraplegia 23	OMIM:270685
+8	0.5	Spinocerebellar ataxia 37	OMIM:614153
+9	0.45	Hereditary spastic paraplegia 24	OMIM:607584
+10	0.4	Spinocerebellar ataxia 20	OMIM:608768

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.8	Generalized Epilepsy with Febrile Seizures Plus, Type 1	OMIM:604233
+2	0.8	Epileptic Encephalopathy, Lennox-Gastaut Type	OMIM:606369
+2	0.8	Epileptic Encephalopathy, Early Infantile, 2	OMIM:300672
+2	0.8	Hypogonadotropic Hypogonadism 1 with or without Anosmia	OMIM:308700
+2	0.8	Alzheimer Disease	OMIM:104300
+2	0.8	Progressive Myoclonus Epilepsy, Lafora Type	OMIM:254780
+2	0.8	Seizures, Benign Familial Neonatal, 1	OMIM:121200
+2	0.8	Seizures, Benign Familial Neonatal, 2	OMIM:121201
+2	0.8	Epilepsy, Juvenile Myoclonic 1	OMIM:254770

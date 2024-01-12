@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8793059583674697	Methylmalonic Acidemia	OMIM:251100
+2	0.8643788866805432	Cortical Ribboning and Basal Ganglia Abnormalities	OMIM:618005
+3	0.8542837205172074	Adult-Onset Autosomal Recessive Cerebellar Ataxia	OMIM:223200
+4	0.8516145016078304	Shoulder and Thoracic Hypoplasia, Aplasia, and Absence of Radius	OMIM:611925
+5	0.849417727482761	Microcephaly, Lymphedema, and Chorioretinopathy Syndrome	OMIM:152950
+6	0.8464937318581596	Pulmonary Hypoplasia, Primary	OMIM:265430
+7	0.8459561230138671	Amyotrophic Lateral Sclerosis/Parkinsonism Dementia Complex 1	OMIM:105500
+8	0.8451055723232282	Neurodevelopmental Disorder with Dysmorphic Facies, Hypotonia, and Structural Brain Anomalies	OMIM:618092
+9	0.8436581205682991	Microcephaly Syndrome	OMIM:251200
+10	0.837323688122726	Glycogen Storage Disease XV	OMIM:613507

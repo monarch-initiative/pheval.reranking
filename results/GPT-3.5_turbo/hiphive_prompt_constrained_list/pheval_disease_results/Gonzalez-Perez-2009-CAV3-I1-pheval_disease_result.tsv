@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.84	Muscle hypertrophy	OMIM:609307
+2	0.81	Myopathy, mitochondrial, associated with atypical multiorgan involvement	OMIM:251880
+3	0.77	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies)	OMIM:613155
+4	0.76	Spastic paraplegia 7	OMIM:607259
+4	0.76	Muscular dystrophy, congenital, Davignon-Chauveau type	OMIM:612540
+6	0.74	Episodic ataxia, type 2	OMIM:108500
+7	0.73	Congenital muscular dystrophy-dystroglycanopathy (with or without mental retardation)	OMIM:613153
+7	0.73	Succinic semialdehyde dehydrogenase deficiency	OMIM:271980
+7	0.73	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+7	0.73	Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)	OMIM:251880

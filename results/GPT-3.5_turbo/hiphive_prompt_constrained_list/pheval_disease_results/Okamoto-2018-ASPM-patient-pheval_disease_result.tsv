@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly	OMIM:251200
+2	0.94	Intellectual disability	OMIM:614562
+3	0.93	Micrognathia	OMIM:610536
+4	0.92	Motor delay	OMIM:613529
+5	0.91	Dilation of lateral ventricles	OMIM:613654
+6	0.9	High palate	OMIM:616927
+7	0.89	Epicanthus	OMIM:609444
+8	0.88	Hypertonia	OMIM:613323
+9	0.87	Sleep disturbance	OMIM:614237
+10	0.86	Simplified gyral pattern	OMIM:614752

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Hypertrichosis	OMIM:613990
+2	0.7	Seizures	OMIM:613254
+3	0.5	Sleep disturbance	OMIM:614104
+3	0.5	Recurrent infections	OMIM:614739
+3	0.5	Strabismus	OMIM:604772
+6	0.4	Poor eye contact	OMIM:611182
+6	0.4	Impaired social interactions	OMIM:605282
+6	0.4	No social interaction	OMIM:609259
+6	0.4	Hypertelorism	OMIM:600374
+6	0.4	Autistic behavior	OMIM:614516

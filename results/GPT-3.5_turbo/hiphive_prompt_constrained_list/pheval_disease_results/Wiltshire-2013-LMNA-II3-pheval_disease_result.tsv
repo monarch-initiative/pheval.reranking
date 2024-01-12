@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progeria	OMIM:176670
+2	0.85	Familial Hypercholesterolemia	OMIM:143890
+3	0.8	Charcot-Marie-Tooth Disease	OMIM:118220
+4	0.75	Duchenne Muscular Dystrophy	OMIM:310200
+5	0.7	Stickler Syndrome	OMIM:108300
+6	0.65	Congenital Myasthenic Syndrome	OMIM:601462
+7	0.6	Marfan Syndrome	OMIM:154700
+8	0.55	Myotonic Dystrophy	OMIM:160900
+9	0.5	Familial Adenomatous Polyposis	OMIM:175100
+10	0.45	Klinefelter Syndrome	OMIM:148190

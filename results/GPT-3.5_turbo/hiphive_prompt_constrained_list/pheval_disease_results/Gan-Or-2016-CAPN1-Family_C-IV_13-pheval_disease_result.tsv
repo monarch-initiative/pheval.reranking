@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary spastic paraplegia 32	OMIM:609280
+2	0.94	Spastic paraplegia 10	OMIM:604187
+3	0.93	Spastic paraplegia 7	OMIM:607259
+4	0.92	Spastic paraplegia 6, autosomal dominant	OMIM:607584
+5	0.9	Spastic paraplegia 35, autosomal recessive	OMIM:612319
+6	0.89	Spastic paraplegia 18, autosomal recessive	OMIM:611225
+7	0.88	Spastic paraplegia 20, autosomal dominant	OMIM:275900
+8	0.85	Spastic paraplegia 44, autosomal recessive	OMIM:613206
+9	0.83	Spastic paraplegia 9B, autosomal recessive	OMIM:616586
+10	0.81	Spastic paraplegia, autosomal dominant	OMIM:182600

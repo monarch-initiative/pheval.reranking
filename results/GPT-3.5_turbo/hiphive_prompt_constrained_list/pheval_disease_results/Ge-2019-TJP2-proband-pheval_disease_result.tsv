@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Alagille syndrome	OMIM:118450
+2	0.97	Dubin-Johnson syndrome	OMIM:237500
+3	0.96	Crigler-Najjar syndrome, type I	OMIM:218800
+4	0.95	Crigler-Najjar syndrome, type II	OMIM:606785
+5	0.93	Progressive familial intrahepatic cholestasis	OMIM:147480
+6	0.92	Familial hypercholanemia	OMIM:607748
+7	0.89	Bile acid synthesis defect, congenital, 1	OMIM:607765
+8	0.87	Familial hypercholanaemia, syndrome, congenital, 2	OMIM:616481
+9	0.86	Cholestasis, progressive familial intrahepatic, 2	OMIM:601847
+10	0.82	Cryptogenic obstructive jaundice	OMIM:215600

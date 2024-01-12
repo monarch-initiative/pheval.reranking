@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.81	Spinocerebellar ataxia 13	OMIM:605280
+2	0.78	Amyotrophic lateral sclerosis 1	OMIM:105400
+3	0.77	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+4	0.76	Friedreich ataxia	OMIM:229300
+5	0.75	Spinocerebellar ataxia type 17	OMIM:607136
+6	0.74	Charcot-Marie-Tooth disease, type 1E	OMIM:118300
+7	0.73	Amyotrophic lateral sclerosis 16	OMIM:614373
+8	0.72	Spinocerebellar ataxia 27	OMIM:609307
+9	0.71	Amyotrophic lateral sclerosis 4	OMIM:602433
+10	0.7	Spinocerebellar ataxia 2	OMIM:183090

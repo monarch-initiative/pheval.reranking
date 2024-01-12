@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alzheimer disease	OMIM:104300
+2	0.9	Autism spectrum disorder	OMIM:209850
+3	0.85	Retinitis pigmentosa	OMIM:268000
+4	0.8	Leber hereditary optic neuropathy	OMIM:535000
+5	0.75	Bardet-Biedl syndrome	OMIM:209900
+6	0.7	Cataract	OMIM:116800
+7	0.65	Usher syndrome	OMIM:276900
+8	0.6	Li-Fraumeni syndrome	OMIM:151623
+9	0.55	Congenital heart defects and skeletal malformations syndrome	OMIM:617770
+10	0.5	Cockayne syndrome	OMIM:133540

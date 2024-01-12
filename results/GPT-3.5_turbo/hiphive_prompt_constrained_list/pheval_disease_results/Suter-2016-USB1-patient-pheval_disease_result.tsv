@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dyskeratosis congenita	OMIM:127550
+2	0.92	Idiopathic pulmonary fibrosis	OMIM:178500
+3	0.91	Severe congenital neutropenia	OMIM:202700
+4	0.9	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.87	Fanconi anemia	OMIM:227650
+6	0.85	Retinitis pigmentosa	OMIM:268000
+7	0.83	Xeroderma pigmentosum	OMIM:278700
+8	0.82	Cockayne syndrome	OMIM:133540
+9	0.81	Bloom syndrome	OMIM:210900
+10	0.8	Nijmegen breakage syndrome	OMIM:251260

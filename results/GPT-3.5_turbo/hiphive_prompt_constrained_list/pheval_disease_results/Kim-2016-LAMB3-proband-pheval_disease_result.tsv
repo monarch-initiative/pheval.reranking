@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis Imperfecta, Hypomaturation Type, Iia1, Autosomal Dominant	OMIM:614832
+2	0.88	Amelogenesis Imperfecta, Hypomaturation Type, Iia2, Autosomal Dominant	OMIM:614834
+3	0.87	Amelogenesis Imperfecta, Hypomaturation Type, Iib	OMIM:614832
+4	0.82	Dentinogenesis Imperfecta, Shields Type Ii	OMIM:125490
+5	0.8	Amelogenesis Imperfecta, Hypomaturation-Hypoplastic Type, With Or Without Gingival Hyperplasia	OMIM:301200
+6	0.78	Enamel Hypoplasia, Cataracts, And Aqueductal Stenosis	OMIM:609734
+7	0.75	Amelogenesis Imperfecta, Type Iv	OMIM:104510
+8	0.73	Amelogenesis Imperfecta, Hypoplastic Type, Ig	OMIM:614253
+9	0.7	Amelogenesis Imperfecta, Type Ib	OMIM:104500
+10	0.68	Amelogenesis Imperfecta, Type Im	OMIM:104570

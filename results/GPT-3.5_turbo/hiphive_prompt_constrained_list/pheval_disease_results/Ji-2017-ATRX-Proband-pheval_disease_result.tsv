@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Cornelia de Lange syndrome 2	OMIM:614759
+1	0.93	Rubinstein-Taybi syndrome 2	OMIM:613684
+1	0.93	Syndromic microphthalmia 2	OMIM:610093
+1	0.93	Mental retardation, autosomal dominant 19	OMIM:615075
+5	0.92	Smith-Magenis syndrome	OMIM:182290
+5	0.92	Hydrolethalus syndrome 3	OMIM:614120
+5	0.92	Mowat-Wilson syndrome	OMIM:235730
+5	0.92	Coffin-Siris syndrome 1	OMIM:135900
+5	0.92	Williams-Beuren syndrome	OMIM:194050
+5	0.92	Emanuel syndrome	OMIM:609029

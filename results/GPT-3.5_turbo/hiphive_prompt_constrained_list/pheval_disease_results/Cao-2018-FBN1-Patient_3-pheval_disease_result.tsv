@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.87	Ectopia lentis	OMIM:129600
+3	0.85	Homocystinuria	OMIM:236200
+4	0.8	Stickler syndrome	OMIM:108300
+5	0.79	Lowe syndrome	OMIM:309000
+6	0.78	Weill-Marchesani syndrome	OMIM:277600
+7	0.77	Acromegaly	OMIM:102370
+8	0.76	Ectopia pupillae	OMIM:310550
+9	0.74	Beals syndrome	OMIM:121050
+10	0.72	Weill-Marchesani-like syndrome	OMIM:613195

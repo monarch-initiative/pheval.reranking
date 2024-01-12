@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8571428571428571	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+2	0.8333333333333334	X-linked spasticity-intellectual disability-epilepsy syndrome	OMIM:300432
+3	0.8108108108108109	Anemia, hypochromic microcytic, with iron overload 2	OMIM:615234
+3	0.8108108108108109	Epilepsy, progressive myoclonic, 10	OMIM:617402
+5	0.8035714285714286	Martsolf syndrome	OMIM:212720
+6	0.7872340425531915	Leigh syndrome	OMIM:256000
+7	0.7777777777777778	Progressive myoclonic epilepsy with dystonia	OMIM:616540
+8	0.7631578947368421	Severe combined immunodeficiency, Athabascan type	OMIM:608971
+9	0.7586206896551724	Combined oxidative phosphorylation deficiency 18	OMIM:615578
+10	0.7518796992481203	Pachyonychia congenita 3	OMIM:615726

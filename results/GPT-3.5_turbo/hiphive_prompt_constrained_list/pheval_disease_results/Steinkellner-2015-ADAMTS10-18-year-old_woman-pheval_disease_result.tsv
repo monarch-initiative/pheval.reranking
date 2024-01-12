@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome	OMIM:108300
+2	0.85	Marfan syndrome	OMIM:154700
+3	0.8	Lowe syndrome	OMIM:309000
+4	0.75	Weill-Marchesani syndrome	OMIM:277600
+5	0.7	Antley-Bixler syndrome	OMIM:207410
+6	0.65	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.6	Alagille syndrome	OMIM:118450
+8	0.55	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.5	Noonan syndrome	OMIM:163950
+10	0.45	Treacher Collins syndrome	OMIM:154500

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.8	Hereditary sensory and autonomic neuropathy	OMIM:162400
+3	0.7	Spinal muscular atrophy	OMIM:253300
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.5	Dejerine-Sottas syndrome	OMIM:145900
+6	0.4	Autosomal dominant Charcot-Marie-Tooth disease	OMIM:118220
+7	0.3	Diabetic neuropathy	OMIM:603934
+8	0.2	Autosomal recessive Charcot-Marie-Tooth disease	OMIM:613641
+9	0.1	Neuropathy, hereditary sensory, type IC	OMIM:613640
+9	0.1	Peripheral neuropathy	OMIM:162500

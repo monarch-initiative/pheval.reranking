@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiomyopathy, Dilated, 1GG	OMIM:613254
+2	0.85	Glycogen storage disease type III	OMIM:261100
+3	0.8	Knobloch syndrome 1	OMIM:267750
+4	0.75	Multiple epiphyseal dysplasia 4	OMIM:226900
+5	0.7	FG syndrome 1	OMIM:305450
+6	0.65	Multiple acyl-CoA dehydrogenase deficiency	OMIM:231680
+7	0.6	Pheochromocytoma	OMIM:171300
+8	0.55	Microcephaly-capillary malformation syndrome	OMIM:614261
+9	0.5	Charcot-Marie-Tooth disease, type 2	OMIM:601097
+10	0.45	Faciothoracogenic dystrophy	OMIM:614950

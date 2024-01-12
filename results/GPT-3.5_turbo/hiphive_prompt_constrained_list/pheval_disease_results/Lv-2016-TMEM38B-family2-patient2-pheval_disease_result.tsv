@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:259420
+2	0.8	Hyperphosphatasia with mental retardation syndrome	OMIM:239300
+2	0.8	Osteoporosis-pseudoglioma syndrome	OMIM:259770
+4	0.7	Cole-Carpenter syndrome	OMIM:112240
+4	0.7	Van Buchem disease	OMIM:239100
+4	0.7	Endosteal hyperostosis, Worth type	OMIM:144750
+4	0.7	Pycnodysostosis	OMIM:265800
+8	0.6	Autosomal recessive osteopetrosis type 2	OMIM:259710
+8	0.6	Caffey disease	OMIM:114000
+8	0.6	Juvenile Paget disease	OMIM:239000

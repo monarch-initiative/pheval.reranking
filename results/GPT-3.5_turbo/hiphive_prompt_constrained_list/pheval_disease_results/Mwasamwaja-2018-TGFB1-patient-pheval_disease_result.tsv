@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Craniofacial-deafness-hand syndrome	OMIM:122470
+2	0.86	Alacrima, achalasia, and mental retardation syndrome	OMIM:609032
+3	0.83	Glycogen storage disease 2B	OMIM:232600
+4	0.82	Nephronophthisis 1	OMIM:256100
+5	0.8	Kabuki syndrome 1	OMIM:147920
+6	0.78	Osteogenesis imperfecta type III	OMIM:259420
+7	0.76	Hennekam lymphangiectasia-lymphedema syndrome 1	OMIM:235510
+8	0.75	Charcot-Marie-Tooth disease type 4B1	OMIM:601382
+9	0.73	Cholestasis, progressive familial intrahepatic 1	OMIM:211600
+10	0.71	Meckel syndrome type 2	OMIM:603194

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.72	Congenital Myasthenic Syndrome	OMIM:616900
+2	0.68	Autosomal Recessive Limb-Girdle Muscular Dystrophy Type 2B	OMIM:253601
+3	0.62	Congenital Myasthenic Syndrome with Episodic Apnea	OMIM:254300
+4	0.59	Autosomal Dominant Episodic Ataxia Type 1	OMIM:160120
+5	0.56	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.54	Congenital Myopathy with Excess of Thin Filaments	OMIM:161800
+7	0.51	Congenital Myasthenic Syndrome with AChR Deficiency	OMIM:608931
+8	0.48	Autosomal Recessive Spastic Paraplegia Type 11	OMIM:604360
+9	0.45	Autosomal Dominant Emery-Dreifuss Muscular Dystrophy	OMIM:181350
+10	0.42	Limb-Girdle Muscular Dystrophy Type 2G	OMIM:613426

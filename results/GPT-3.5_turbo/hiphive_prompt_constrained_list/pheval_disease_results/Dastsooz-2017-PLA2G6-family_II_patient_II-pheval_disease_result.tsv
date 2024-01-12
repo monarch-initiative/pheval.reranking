@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Pyruvate kinase deficiency of red cells	OMIM:266200
+2	0.93	Lactic acidosis	OMIM:236746
+3	0.89	Glycogen storage disease due to liver phosphorylase kinase deficiency	OMIM:308000
+4	0.88	Myopathy, early-onset, with fatal cardiomyopathy	OMIM:611407
+5	0.87	Congenital myasthenic syndrome, slow-channel	OMIM:601462
+6	0.86	Adenosine deaminase deficiency	OMIM:102700
+7	0.85	Sclerosing cholangitis, neonatal	OMIM:617394
+8	0.84	Keratosis follicularis spinulosa decalvans, X-linked	OMIM:308800
+9	0.83	Congenital disorder of glycosylation, type IIh	OMIM:611182
+10	0.82	Prader-Willi syndrome	OMIM:176270

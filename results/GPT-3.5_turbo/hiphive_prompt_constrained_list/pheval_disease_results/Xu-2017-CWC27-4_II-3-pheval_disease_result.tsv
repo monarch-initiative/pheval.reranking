@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.808	Roberts syndrome	OMIM:268300
+2	0.801	Coffin-Lowry syndrome	OMIM:303600
+3	0.784	Aarskog-Scott syndrome	OMIM:305400
+4	0.781	Crouzon syndrome	OMIM:123500
+5	0.777	Saethre-Chotzen syndrome	OMIM:101400
+6	0.775	Treacher Collins syndrome	OMIM:154500
+7	0.771	Marshall-Smith syndrome	OMIM:602535
+8	0.77	FKBP10-related osteogenesis imperfecta	OMIM:610968
+9	0.767	Cranioectodermal dysplasia	OMIM:218330
+10	0.764	LEOPARD syndrome	OMIM:151100

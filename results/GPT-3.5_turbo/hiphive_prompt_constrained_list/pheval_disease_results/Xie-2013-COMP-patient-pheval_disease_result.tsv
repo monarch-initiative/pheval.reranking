@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.824	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+2	0.812	Metaphyseal acroscyphodysplasia	OMIM:250215
+3	0.801	Metaphyseal anadysplasia 1	OMIM:602111
+4	0.792	Osteogenesis imperfecta, type IV	OMIM:166220
+5	0.779	Schwartz-Jampel syndrome, type 1	OMIM:255800
+6	0.773	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.763	Diastrophic dysplasia	OMIM:222600
+8	0.762	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:609162
+9	0.753	Greenberg skeletal dysplasia	OMIM:215140
+10	0.749	Spondyloepiphyseal dysplasia tarda	OMIM:313400

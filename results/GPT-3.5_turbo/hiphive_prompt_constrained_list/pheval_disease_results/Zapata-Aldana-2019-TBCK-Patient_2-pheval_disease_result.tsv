@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.92	Angelman syndrome	OMIM:105830
+3	0.89	Prader-Willi syndrome	OMIM:176270
+4	0.86	Cri-du-chat syndrome	OMIM:123450
+5	0.83	Williams-Beuren syndrome	OMIM:194050
+6	0.81	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.78	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.76	Fragile X syndrome	OMIM:300624
+9	0.74	Angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps	OMIM:611773
+10	0.72	Sotos syndrome 1	OMIM:117550

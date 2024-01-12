@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.84	Coffin-Lowry syndrome	OMIM:303600
+2	0.82	Noonan syndrome	OMIM:163950
+3	0.81	Marfan syndrome	OMIM:154700
+4	0.8	Syndactyly type 1	OMIM:185900
+5	0.79	Char syndrome	OMIM:169100
+6	0.78	Cornelia de Lange syndrome	OMIM:122470
+7	0.77	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.76	Cohen syndrome	OMIM:216550
+9	0.74	X-linked intellectual disability	OMIM:300359
+10	0.73	Holt-Oram syndrome	OMIM:142900

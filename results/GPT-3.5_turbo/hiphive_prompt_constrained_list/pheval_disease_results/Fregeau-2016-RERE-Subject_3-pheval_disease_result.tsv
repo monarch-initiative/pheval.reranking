@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.76	ADHD, autosomal recessive 2	OMIM:614416
+2	0.73	Split-foot malformation autosomal dominant	OMIM:183600
+3	0.71	CHARGE syndrome	OMIM:214800
+4	0.7	Bardet-Biedl syndrome 20	OMIM:615992
+5	0.69	Saethre-Chotzen syndrome	OMIM:101400
+6	0.68	Meckel syndrome 1	OMIM:249000
+7	0.67	Holoprosencephaly 11	OMIM:614226
+7	0.67	Branchiootic syndrome 2	OMIM:610896
+9	0.66	Rett syndrome	OMIM:312750
+9	0.66	Pfeiffer syndrome	OMIM:101600

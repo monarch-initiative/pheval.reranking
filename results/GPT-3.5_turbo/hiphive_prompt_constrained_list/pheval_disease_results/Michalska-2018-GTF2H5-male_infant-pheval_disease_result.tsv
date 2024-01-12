@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microphthalmia	OMIM:251700
+2	0.8	Premature rupture of membranes	OMIM:618543
+3	0.7	Ectropion	OMIM:609507
+4	0.6	Pes planus	OMIM:611473
+5	0.5	Hypotelorism	OMIM:145400
+6	0.4	Natal tooth	OMIM:259300
+7	0.3	Intrauterine growth retardation	OMIM:263500
+8	0.2	Renal insufficiency	OMIM:603196
+9	0.1	Low-set ears	OMIM:100100
+9	0.1	Pneumonia	OMIM:610168

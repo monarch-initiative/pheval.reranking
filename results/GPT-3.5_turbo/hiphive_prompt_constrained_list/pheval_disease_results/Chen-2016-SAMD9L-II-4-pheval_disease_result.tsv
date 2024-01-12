@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.8	Ataxia-telangiectasia	OMIM:208900
+4	0.75	Ataxia with oculomotor apraxia type 2	OMIM:606002
+5	0.7	Ataxia with oculomotor apraxia type 1	OMIM:208920
+6	0.65	Ataxia-telangiectasia-like disorder	OMIM:604391
+7	0.6	Autosomal dominant cerebellar ataxia	OMIM:164400
+8	0.55	Mitochondrial DNA depletion syndrome 2	OMIM:609560
+9	0.5	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+10	0.45	Spinocerebellar ataxia type 15/16	OMIM:602229, OMIM:613768

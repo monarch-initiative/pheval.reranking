@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Coffin-Siris syndrome	OMIM:135900
+2	0.86	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.84	Cohen syndrome	OMIM:216550
+4	0.82	Cornelia de Lange syndrome	OMIM:122470
+5	0.8	Mowat-Wilson syndrome	OMIM:235730
+6	0.78	Charcot-Marie-Tooth disease	OMIM:118220
+7	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.74	Simpson-Golabi-Behmel syndrome	OMIM:312870
+9	0.72	Cockayne syndrome	OMIM:133540
+10	0.7	Schinzel-Giedion syndrome	OMIM:269150

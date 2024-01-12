@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Maturity-onset diabetes of the young	OMIM:612940
+2	0.7	Hyperglycemia	OMIM:601759
+3	0.6	Abnormal pancreas morphology	OMIM:600920
+4	0.5	OMIM:605282	OMIM:605282
+4	0.5	OMIM:609192	OMIM:609192
+6	0.4	Multiple renal cysts	OMIM:600929
+6	0.4	Anti-glutamic acid decarboxylase antibody positivity	OMIM:601645
+8	0.3	OMIM:605130	OMIM:605130
+8	0.3	OMIM:617180	OMIM:617180
+8	0.3	Elevated hemoglobin A1c	OMIM:114240

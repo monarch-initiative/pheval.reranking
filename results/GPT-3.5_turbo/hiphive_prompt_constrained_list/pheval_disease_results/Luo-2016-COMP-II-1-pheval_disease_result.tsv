@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.992	Stickler syndrome	OMIM:108300
+2	0.988	Multiple epiphyseal dysplasia, Al-Gazali type	OMIM:609985
+3	0.987	Achondrogenesis, type II or hypochondrogenesis	OMIM:200610
+4	0.986	Short stature, hearing loss, retinitis pigmentosa, and distinctive facies	OMIM:617236
+5	0.982	Epiphyseal dysplasia, multiple, 1	OMIM:132400
+6	0.981	Epiphyseal dysplasia, multiple, 4	OMIM:226900
+7	0.98	Epiphyseal dysplasia, multiple, 2	OMIM:600204
+7	0.98	Dyssegmental dysplasia, Silverman-Handmaker type	OMIM:224410
+7	0.98	Multiple epiphyseal dysplasia, Dominant	OMIM:132400
+10	0.978	Metaphyseal dysplasia without hypotrichosis	OMIM:250460

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arthrogryposis, distal, type 1B	OMIM: distal arthrogryposis type 1B
+2	0.85	Nemaline myopathy 2	OMIM: nemaline myopathy 2
+3	0.8	Nemaline myopathy 1	OMIM: nemaline myopathy 1
+4	0.75	Arthrogryposis, distal, type 3	OMIM: distal arthrogryposis type 3
+5	0.7	Arthrogryposis, distal, type 2B	OMIM: distal arthrogryposis type 2B
+6	0.65	Arthrogryposis, distal, type 10	OMIM: distal arthrogryposis type 10
+7	0.6	Arthrogryposis, distal, type 2A	OMIM: distal arthrogryposis type 2A
+8	0.55	Arthrogryposis, distal, type 5	OMIM: distal arthrogryposis type 5
+9	0.5	Nemaline myopathy 5	OMIM: nemaline myopathy 5
+10	0.45	Arthrogryposis, distal, type 7	OMIM: distal arthrogryposis type 7

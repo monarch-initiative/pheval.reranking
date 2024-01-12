@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Saethre-Chotzen syndrome	OMIM:101400
+1	1.0	FGFR1-related craniosynostosis syndrome	OMIM:617560
+3	0.9	Muenke syndrome	OMIM:602849
+3	0.9	Pfeiffer syndrome	OMIM:101600
+5	0.8	Crouzon syndrome	OMIM:123500
+5	0.8	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+5	0.8	Apert syndrome	OMIM:101200
+8	0.7	Treacher Collins syndrome	OMIM:154500
+9	0.6	CHARGE syndrome	OMIM:214800
+9	0.6	Miller-Dieker syndrome	OMIM:247200

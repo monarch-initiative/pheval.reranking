@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227650
+2	0.8	Diamond-Blackfan anemia	OMIM:105650
+3	0.7	Glycogen storage disease Type II	OMIM:232300
+4	0.6	Aplastic anemia	OMIM:609135
+5	0.5	Severe congenital neutropenia	OMIM:202700
+5	0.5	Myelodysplastic syndrome	OMIM:614286
+7	0.4	Thrombocytopenia-absent radius syndrome	OMIM:274000
+8	0.3	Congenital dyserythropoietic anemia	OMIM:224120
+9	0.2	Erythroid aplasia	OMIM:133100
+10	0.1	Familial aplastic anemia	OMIM:609135

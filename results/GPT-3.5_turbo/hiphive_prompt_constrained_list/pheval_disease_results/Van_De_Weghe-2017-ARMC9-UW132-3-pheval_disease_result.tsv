@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert syndrome	OMIM:213300
+2	0.8	Pontocerebellar hypoplasia type 2D	OMIM:613811
+3	0.7	Microphthalmia with linear skin defects syndrome	OMIM:309801
+3	0.7	30%-79% of people have these symptoms	OMIM:NA
+5	0.6	HSD10 disease, X-linked	OMIM:300438
+5	0.6	Meckel syndrome, type 1	OMIM:249000
+7	0.5	Temtamy syndrome	OMIM:218340
+7	0.5	Oliver-McFarlane syndrome	OMIM:275400
+9	0.4	Alpha-N-acetylgalactosaminidase deficiency	OMIM:609242
+9	0.4	Intellectual developmental disorder with cerebellar atrophy	OMIM:618055

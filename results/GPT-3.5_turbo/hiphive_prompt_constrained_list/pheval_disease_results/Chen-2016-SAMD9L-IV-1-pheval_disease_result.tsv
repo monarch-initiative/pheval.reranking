@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 25	OMIM:613454
+2	0.8	Spinocerebellar ataxia 6	OMIM:183086
+3	0.7	Spinocerebellar ataxia 14	OMIM:605361
+4	0.6	Spinocerebellar ataxia 42	OMIM:616795
+5	0.5	Spinocerebellar ataxia 21	OMIM:607454
+6	0.4	Spinocerebellar ataxia 23	OMIM:610245
+7	0.3	Spinocerebellar ataxia 10	OMIM:603516
+8	0.2	Spinocerebellar ataxia 36	OMIM:614153
+9	0.1	Spinocerebellar ataxia 11	OMIM:604432
+9	0.1	Spinocerebellar ataxia 40	OMIM:616053

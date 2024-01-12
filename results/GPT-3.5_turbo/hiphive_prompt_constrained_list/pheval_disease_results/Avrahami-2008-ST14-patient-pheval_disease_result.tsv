@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ichthyosis vulgaris	OMIM:146700
+2	0.85	Trichothiodystrophy 1, photosensitive	OMIM:601675
+3	0.8	Keratosis pilaris	OMIM:604093
+4	0.75	Anhidrotic ectodermal dysplasia with immune deficiency	OMIM:300291
+5	0.7	Congenital ichthyosiform erythroderma	OMIM:242100
+6	0.65	Netherton syndrome	OMIM:256500
+7	0.6	Ectodermal dysplasia 1, hypohidrotic, X-linked	OMIM:305100
+8	0.55	Follicular atrophoderma-basal cell carcinoma-cystic fibrosis	OMIM:601552
+9	0.5	Trichothiodystrophy 2, photosensitive	OMIM:613307
+10	0.45	Dyskeratosis congenita	OMIM:305000

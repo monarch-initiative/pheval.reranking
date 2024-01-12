@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Reticulocytosis	OMIM:609284
+2	0.7	Anemia	OMIM:206050
+3	0.6	Hepatomegaly	OMIM:141390
+3	0.6	Splenomegaly	OMIM:271550
+5	0.5	Jaundice	OMIM:107650
+5	0.5	Coombs-positive hemolytic anemia	OMIM:114530
+7	0.4	Conjunctival icterus	OMIM:251100
+7	0.4	Elliptocytosis	OMIM:611804
+7	0.4	Imbalanced hemoglobin synthesis	OMIM:603903
+10	0.3	Abnormal glucose-6-phosphate dehydrogenase level in blood	OMIM:305900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Griscelli syndrome type 2	OMIM:607624
+2	0.92	Griscelli syndrome type 1	OMIM:214450
+3	0.9	Chédiak-Higashi syndrome	OMIM:214500
+4	0.85	Crohn disease 16	OMIM:618254
+5	0.84	Crohn disease 14	OMIM:618087
+6	0.83	Familial hyperinsulinism	OMIM:256450
+7	0.82	Microtia	OMIM:251300
+8	0.8	Maturity-onset diabetes of the young	OMIM:606391
+9	0.78	Rheumatoid arthritis	OMIM:180300
+10	0.77	Swyer syndrome	OMIM:306100

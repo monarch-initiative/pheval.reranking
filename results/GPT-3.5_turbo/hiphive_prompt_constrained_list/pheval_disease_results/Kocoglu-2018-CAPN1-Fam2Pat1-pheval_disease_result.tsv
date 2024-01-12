@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar ataxia type 1	OMIM:164400
+2	0.93	Spinocerebellar ataxia type 3	OMIM:109150
+3	0.91	Spinocerebellar ataxia type 2	OMIM:183090
+4	0.9	Friedreich ataxia	OMIM:229300
+5	0.87	Spinocerebellar ataxia type 6	OMIM:183086
+6	0.84	Spinocerebellar ataxia type 7	OMIM:164500
+7	0.82	Spastic paraplegia type 7	OMIM:607259
+8	0.8	Spinocerebellar ataxia type 5	OMIM:600224
+9	0.78	Spinocerebellar ataxia type 8	OMIM:609307
+10	0.77	Spastic paraplegia type 8	OMIM:603563

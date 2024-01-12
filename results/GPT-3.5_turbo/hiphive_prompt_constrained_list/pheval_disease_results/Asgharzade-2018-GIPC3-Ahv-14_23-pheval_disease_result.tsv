@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DFNB43  Deafness, Autosomal Recessive 43	OMIM:613254
+2	0.8	DFNB59  Deafness, Autosomal Recessive 59	OMIM:613990
+2	0.8	DFNB79  Deafness, Autosomal Recessive 79	OMIM:617516
+4	0.7	DFNB85  Deafness, Autosomal Recessive 85	OMIM:617560
+4	0.7	DFNB86  Deafness, Autosomal Recessive 86	OMIM:617333
+4	0.7	DFNB89  Deafness, Autosomal Recessive 89	OMIM:617730
+4	0.7	DFNB87  Deafness, Autosomal Recessive 87	OMIM:617622
+4	0.7	DFNB88  Deafness, Autosomal Recessive 88	OMIM:617478
+9	0.6	SYNDROME ATHEROSCLEROTIC	OMIM:614833
+9	0.6	DFNB81  Deafness, Autosomal Recessive 81	OMIM:616974

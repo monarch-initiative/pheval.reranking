@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Noonan syndrome	OMIM:163950
+2	0.95	Costello syndrome	OMIM:218040
+3	0.94	Cardiofaciocutaneous syndrome	OMIM:115150
+4	0.92	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.91	Sotos syndrome	OMIM:117550
+6	0.89	Floating-Harbor syndrome	OMIM:136140
+7	0.88	Leri-Weill dyschondrosteosis	OMIM:127300
+8	0.87	Metatropic dysplasia	OMIM:156530
+9	0.86	Progeroid syndrome, Petty type	OMIM:176670
+10	0.85	Coffin-Siris syndrome	OMIM:135900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Spinal muscular atrophy	OMIM:253300
+2	0.89	Muscular dystrophy	OMIM:310200
+3	0.87	Congenital muscular dystrophy	OMIM:603689
+4	0.85	Central core disease	OMIM:117000
+5	0.83	Myopathy, centronuclear	OMIM:160150
+6	0.82	Congenital fiber-type disproportion	OMIM:255310
+7	0.81	Spinal muscular atrophy with respiratory distress type 1	OMIM:613577
+8	0.8	Charcot-Marie-Tooth disease, type 2B	OMIM:601162
+9	0.78	Mya2	OMIM:603776
+10	0.77	Congenital myasthenic syndrome	OMIM:601462

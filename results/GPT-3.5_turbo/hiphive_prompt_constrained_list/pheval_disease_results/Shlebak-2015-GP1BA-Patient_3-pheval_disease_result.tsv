@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gray platelet syndrome	OMIM:139090
+2	0.8	Fanconi anemia, complementation group B	OMIM:613390
+3	0.7	Factor VIII deficiency	OMIM:300841
+4	0.6	Bernard-Soulier syndrome, type B	OMIM:231200
+5	0.5	Glanzmann thrombasthenia	OMIM:273800
+6	0.4	Platelet storage pool deficiency	OMIM:185050
+7	0.3	Scott syndrome	OMIM:262890
+8	0.2	Hyperaldosteronism, familial, type III	OMIM:613677
+9	0.1	Niemann-Pick disease, type B	OMIM:607616
+10	0.05	Factor XII deficiency	OMIM:234000

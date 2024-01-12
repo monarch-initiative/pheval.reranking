@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy, Duchenne type	OMIM:310200
+2	0.8	Limb-girdle muscular dystrophy type 2B	OMIM:253601
+2	0.8	Myotonic dystrophy type 1	OMIM:160900
+4	0.7	Congenital myasthenic syndrome	OMIM:608930
+4	0.7	Myofibrillar myopathy	OMIM:604484
+4	0.7	Centronuclear myopathy	OMIM:160150
+4	0.7	Nemaline myopathy	OMIM:161800
+8	0.6	Muscular dystrophy, Becker type	OMIM:300376
+8	0.6	Congenital muscular dystrophy	OMIM:607224
+8	0.6	Sarcoglycanopathies	OMIM:604286

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Short-rib thoracic dysplasia 5 with or without polydactyly	OMIM:614376
+1	0.85	Spondyloepiphyseal dysplasia, Stanescu type	OMIM:617214
+3	0.8	Spondyloepiphyseal dysplasia, Myopia, and Sensorineural Deafness	OMIM:617507
+4	0.75	Hydrocephalus, Congenital, 2, with or without Brain or Eye Anomalies	OMIM:615219
+5	0.7	Macrocephaly, Macrosomia, Facial Dysmorphism Syndrome	OMIM:617205
+5	0.7	Acrofacial Dysostosis, Cincinnati Type	OMIM:616462
+7	0.65	Developmental Delay with Microcephaly, Facial Dysmorphism, and Renal Anomalies	OMIM:300990
+8	0.6	Spondylocostal Dysostosis 5, Autosomal Recessive	OMIM:614557
+8	0.6	Cerebrofaciothoracic Dysplasia	OMIM:213980
+10	0.55	Microphthalmia, Syndromic 6	OMIM:607932

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tuberous sclerosis 1	OMIM:191100
+2	0.85	Griscelli syndrome, type 2	OMIM:607624
+3	0.8	Oculocutaneous albinism, type IA, in the Hermansky-Pudlak syndrome	OMIM:203100
+4	0.75	Von Hippel-Lindau syndrome	OMIM:193300
+5	0.7	Birt-Hogg-Dube syndrome	OMIM:135150
+6	0.65	Tuberous sclerosis 2	OMIM:613254
+7	0.6	Gorlin syndrome	OMIM:109400
+8	0.55	Multiple endocrine neoplasia, type 1	OMIM:131100
+9	0.5	Albinism, oculocutaneous, type II	OMIM:203200
+10	0.45	Peutz-Jeghers syndrome	OMIM:175200

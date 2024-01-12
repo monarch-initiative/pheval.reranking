@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.907	Cardiofaciocutaneous Syndrome	OMIM:115150
+2	0.904	Noonan Syndrome 1	OMIM:163950
+3	0.899	Costello Syndrome	OMIM:218040
+4	0.882	Cantu Syndrome	OMIM:239850
+5	0.879	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.866	Rett Syndrome	OMIM:312750
+7	0.863	Rubinstein-Taybi Syndrome	OMIM:180849
+8	0.861	Angelman Syndrome	OMIM:105830
+9	0.857	Pallister-Killian Syndrome	OMIM:601803
+10	0.853	Syndromic Intellectual Disability due to Maternally Imprinted Microdeletion 15q11q13	OMIM:615656

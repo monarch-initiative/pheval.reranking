@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	SYNGAP1-related intellectual disability	OMIM:612621
+2	0.89	Mental retardation, autosomal dominant 13	OMIM:614563
+3	0.88	Aarskog-Scott syndrome	OMIM:305400
+3	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.87	Congenital central hypoventilation syndrome	OMIM:209880
+5	0.87	Angelman syndrome	OMIM:105830
+5	0.87	B3GALT6-related skeletal dysplasia	OMIM:615638
+8	0.86	Idiopathic generalized epilepsy	OMIM:600669
+8	0.86	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.85	CODAS syndrome	OMIM:300749

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Immunodeficiency 14; IMD14	OMIM:617514
+2	0.93	Reticular dysgenesis	OMIM:267500
+3	0.92	Immunodeficiency 44; IMD44	OMIM:616961
+3	0.92	Immunoglobulin M deficiency 2	OMIM:613500
+5	0.9	Immunodeficiency 24; IMD24	OMIM:615897
+6	0.89	Immunodeficiency 11A, autosomal dominant	OMIM:615206
+6	0.89	Immunodeficiency 21; IMD21	OMIM:614172
+8	0.88	Immunodeficiency 32A, autosomal dominant	OMIM:614893
+9	0.87	Tetrasomy 18p	OMIM:614290
+10	0.86	Nail-patella syndrome	OMIM:161200

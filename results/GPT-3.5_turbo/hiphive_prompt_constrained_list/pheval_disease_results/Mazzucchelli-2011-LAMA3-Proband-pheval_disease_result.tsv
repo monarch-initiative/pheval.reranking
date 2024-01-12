@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa	OMIM:131800
+1	0.9	Kindler syndrome	OMIM:173650
+3	0.85	Junctional epidermolysis bullosa	OMIM:226700
+3	0.85	Junctional epidermolysis bullosa with pyloric atresia	OMIM:226730
+5	0.8	Dystrophic epidermolysis bullosa	OMIM:226600
+6	0.7	Diffuse palmoplantar keratoderma and congenital alopecia	OMIM:613091
+6	0.7	Hereditary mucoepithelial dysplasia	OMIM:158310
+8	0.6	Epidermolysis bullosa, junctional, with congenital localis	OMIM:226650
+8	0.6	Epidermolysis bullosa simplex, localized variant	OMIM:131760
+8	0.6	Epidermolysis bullosa pretibial	OMIM:131850

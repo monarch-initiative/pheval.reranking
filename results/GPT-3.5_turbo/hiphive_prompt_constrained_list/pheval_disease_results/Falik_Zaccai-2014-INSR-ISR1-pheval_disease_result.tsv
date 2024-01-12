@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8438823779936167	RASopathies	OMIM:609735
+2	0.8372892656738142	Glycogen storage disease type II	OMIM:232300
+3	0.8139491075668335	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.8107110180854797	Coffin-Lowry syndrome	OMIM:303600
+5	0.8096336910858154	Sotos syndrome	OMIM:117550
+6	0.809027421934711	Sotos syndrome 2	OMIM:614753
+7	0.8089515308319793	Donohue syndrome	OMIM:246200
+8	0.8065970643577589	Transient neonatal diabetes mellitus type 3	OMIM:610374
+9	0.8054171339652483	Bardet-Biedl syndrome	OMIM:209900
+10	0.8044153789294236	Dynein axonemal heavy chain 17-related disorders	OMIM:617562

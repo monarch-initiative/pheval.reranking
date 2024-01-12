@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spastic paraplegia	OMIM:182600
+1	1.0	Spastic gait	OMIM:614104
+3	0.99	Babinski sign	OMIM:310840
+4	0.97	Dysarthria	OMIM:105450
+4	0.97	Brisk reflexes	OMIM:223600
+4	0.97	Urinary incontinence	OMIM:242040
+7	0.96	Pes valgus	OMIM:615222
+8	0.95	Difficulty walking	OMIM:257980
+9	0.5	OMIM:613454	OMIM:613454
+9	0.5	OMIM:617560	OMIM:617560

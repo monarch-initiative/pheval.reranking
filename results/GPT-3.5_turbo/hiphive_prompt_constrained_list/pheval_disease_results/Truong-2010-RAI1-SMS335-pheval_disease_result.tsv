@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Intellectual disability	OMIM:614104
+2	0.8	Global developmental delay	OMIM:615193
+3	0.7	Hearing impairment	OMIM:220400
+4	0.6	Delayed speech and language development	OMIM:602081
+5	0.5	Scoliosis	OMIM:181800
+6	0.4	Strabismus	OMIM:185100
+7	0.3	Short stature	OMIM:616406
+8	0.2	Sleep disturbance	OMIM:139100
+9	0.1	Motor delay	OMIM:158900
+10	0.05	Recurrent otitis media	OMIM:166760

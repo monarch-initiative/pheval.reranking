@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Intellectual disability	OMIM:614104
+2	0.88	Autistic behavior	OMIM:209900
+3	0.85	Global developmental delay	OMIM:617622
+4	0.83	Myopia	OMIM:160700
+5	0.81	Exotropia	OMIM:602078
+6	0.75	Clinodactyly of the 5th finger	OMIM:115430
+7	0.72	Clinodactyly of the 2nd toe	OMIM:136800
+7	0.72	Bilateral sensorineural hearing impairment	OMIM:600316
+9	0.71	Prominent ear helix	OMIM:114300
+10	0.68	Cerebral palsy	OMIM:603513

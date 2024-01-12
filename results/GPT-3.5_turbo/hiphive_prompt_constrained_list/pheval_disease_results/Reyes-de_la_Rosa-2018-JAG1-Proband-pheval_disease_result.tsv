@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis	OMIM:252500
+2	0.88	Cockayne syndrome	OMIM:133540
+3	0.86	Alagille syndrome	OMIM:118450
+4	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.84	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.83	Lujan-Fryns syndrome	OMIM:309520
+7	0.82	Williams syndrome	OMIM:194050
+8	0.8	Holoprosencephaly	OMIM:236100
+9	0.79	Progeria	OMIM:176670
+10	0.77	CHARGE syndrome	OMIM:214800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.862	Marfan syndrome	OMIM:154700
+2	0.822	Ehlers-Danlos syndrome	OMIM:130050
+3	0.81	Loeys-Dietz syndrome	OMIM:609192
+3	0.81	Loeys-Dietz syndrome	OMIM:610168
+5	0.804	Ehlers-Danlos syndrome	OMIM:225310
+6	0.803	Marfanoid habitus with microcephaly and glomerulonephritis	OMIM:614976
+6	0.803	Marfanoid habitus, intellectual disability, and behavioral anomalies	OMIM:615731
+8	0.795	Thoracic aortic aneurysm and aortic dissection	OMIM:132900
+9	0.794	Ehlers-Danlos syndrome	OMIM:130020
+10	0.792	Aortic aneurysm, familial thoracic	OMIM:132800

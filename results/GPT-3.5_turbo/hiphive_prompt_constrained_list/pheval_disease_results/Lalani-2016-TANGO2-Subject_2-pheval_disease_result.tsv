@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myopathy	OMIM:160150
+2	0.85	Metabolic Acidosis	OMIM:612653
+3	0.8	Rhabdomyolysis	OMIM:268310
+4	0.75	Hyperammonemia	OMIM:237400
+5	0.7	Lactic Acidosis	OMIM:245000
+6	0.65	Elevated Hepatic Transaminase	OMIM:219700
+7	0.55	Elevated Aldolase Level	OMIM:605286
+8	0.5	Dilation of Lateral Ventricles	OMIM:304090
+9	0.45	Hypoglycemia	OMIM:240800
+10	0.4	Tachycardia	OMIM:192600

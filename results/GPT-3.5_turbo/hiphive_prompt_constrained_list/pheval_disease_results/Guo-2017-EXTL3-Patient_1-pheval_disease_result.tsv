@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7375	Neonatal hemochromatosis	OMIM:231100
+2	0.6938	Hereditary fructose intolerance	OMIM:229600
+3	0.6813	Hyper IgM syndrome	OMIM:308230
+4	0.6688	Cornelia de Lange syndrome	OMIM:122470
+5	0.6563	Williams-Beuren syndrome	OMIM:194050
+6	0.6188	Alkaptonuria	OMIM:203500
+7	0.5688	Coffin-Lowry syndrome	OMIM:303600
+8	0.5375	3-Methylglutaconic aciduria type 1	OMIM:250950
+9	0.5125	Noonan syndrome	OMIM:163950
+10	0.4875	Cohen syndrome	OMIM:216550

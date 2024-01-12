@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Knobloch syndrome	OMIM:267750
+1	0.9	Peters anomaly	OMIM:604229
+3	0.8	Nail-patella syndrome	OMIM:161200
+3	0.8	Warburg micro syndrome	OMIM:600118
+5	0.7	Fraser syndrome	OMIM:219000
+5	0.7	Knobloch syndrome type 2	OMIM:608454
+7	0.6	Choroidermia	OMIM:303100
+7	0.6	Microphthalmia, isolated, with cataract 1	OMIM:156850
+7	0.6	Coloboma of optic nerve	OMIM:120430
+10	0.5	Anodontia	OMIM:104560

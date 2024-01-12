@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Microcephaly	OMIM:600913
+2	0.95	Intellectual disability, moderate	OMIM:614607
+3	0.92	Autistic behavior	OMIM:613410
+4	0.9	Global developmental delay	OMIM:614163
+5	0.87	Feeding difficulties in infancy	OMIM:618426
+6	0.85	Delayed skeletal maturation	OMIM:126550
+7	0.82	Delayed speech and language development	OMIM:602081
+8	0.81	Strabismus	OMIM:185100
+9	0.78	Scoliosis	OMIM:181800
+10	0.75	Coloboma	OMIM:120200

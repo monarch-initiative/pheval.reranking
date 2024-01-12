@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Muscular dystrophy	OMIM:160150
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Noonan syndrome	OMIM:163950
+4	0.6	Cardiac conduction defect	OMIM:115150
+5	0.5	Zellweger syndrome	OMIM:214100
+6	0.4	Williams syndrome	OMIM:194050
+7	0.3	Barth syndrome	OMIM:302060
+8	0.2	Congenital disorder of glycosylation type Ia	OMIM:212065
+9	0.1	Mitochondrial complex IV deficiency	OMIM:220110
+10	0.0	Brugada syndrome	OMIM:601144

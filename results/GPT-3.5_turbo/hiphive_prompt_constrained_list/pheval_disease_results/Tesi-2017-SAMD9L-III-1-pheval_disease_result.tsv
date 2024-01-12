@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency due to adenosine deaminase deficiency	OMIM:102700
+2	0.89	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.87	Griscelli syndrome type 2	OMIM:607624
+4	0.86	Immunodeficiency 31c, autosomal dominant	OMIM:614162
+5	0.85	Immunodeficiency 24	OMIM:615897
+6	0.83	Combined immunodeficiency due to LRBA deficiency	OMIM:614700
+7	0.8	Shwachman-Diamond syndrome 1	OMIM:260400
+8	0.79	Cartilage-hair hypoplasia	OMIM:250250
+9	0.78	Immunodeficiency 36	OMIM:616005
+10	0.77	Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay	OMIM:616084

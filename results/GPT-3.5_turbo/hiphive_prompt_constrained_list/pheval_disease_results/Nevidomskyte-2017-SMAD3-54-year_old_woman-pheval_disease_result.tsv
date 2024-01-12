@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Loeys-Dietz syndrome	OMIM:610168
+2	0.8	Marfan syndrome	OMIM:154700
+2	0.8	TAAD1-related thoracic aortic aneurysm	OMIM:607086
+4	0.7	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+4	0.7	Aneurysm-osteoarthritis syndrome	OMIM:613795
+4	0.7	Familial thoracic aortic aneurysm and dissection	OMIM:132900
+4	0.7	Aortic aneurysm, familial thoracic 1	OMIM:607086
+4	0.7	Vascular Ehlers-Danlos syndrome type IV	OMIM:130050
+4	0.7	Aortic aneurysm, familial thoracic 3	OMIM:614447
+4	0.7	Aortic aneurysm, familial thoracic 2	OMIM:615436

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.904	Leigh syndrome	OMIM:256000
+2	0.892	Infantile cerebral and cerebellar atrophy syndrome	OMIM:213030
+3	0.879	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+4	0.877	Pontocerebellar hypoplasia type 1A	OMIM:607596
+5	0.865	Leukoencephalopathy, diffuse hereditary, with spheroids	OMIM:221820
+6	0.854	Mitochondrial complex III deficiency, nuclear type 1	OMIM:124000
+7	0.85	Spastic paraplegia 7	OMIM:607259
+7	0.85	Leigh-like mitochondrial disease due to PQBP1 mutation	OMIM:615111
+9	0.849	Mitochondrial DNA depletion syndrome 12B (cardiomyopathic type), autosomal recessive	OMIM:615418
+10	0.842	Spastic paraplegia type 26	OMIM:609195

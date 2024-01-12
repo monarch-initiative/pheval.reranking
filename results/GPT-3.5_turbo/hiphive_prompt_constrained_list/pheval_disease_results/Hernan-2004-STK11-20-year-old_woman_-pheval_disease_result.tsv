@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.867	Neurofibromatosis type 1	OMIM:162200
+2	0.795	Peutz-Jeghers syndrome	OMIM:175200
+3	0.769	Cronkhite-Canada syndrome	OMIM:175500
+4	0.76	Carney complex	OMIM:160980
+5	0.754	Polyposis, skin pigmentation, alopecia, and fingernail changes	OMIM:175500
+6	0.73	Peutz-Jeghers syndrome 2	OMIM:175200
+7	0.728	Carney triad	OMIM:306990
+8	0.723	Peutz-Jeghers syndrome 3	OMIM:617169
+9	0.714	Peutz-Jeghers syndrome 1	OMIM:175200
+9	0.714	Peutz-Jeghers syndrome 4	OMIM:617169

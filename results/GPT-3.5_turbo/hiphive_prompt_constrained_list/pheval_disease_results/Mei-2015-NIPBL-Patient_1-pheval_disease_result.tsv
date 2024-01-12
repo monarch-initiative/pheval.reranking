@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 2	OMIM:615291
+1	0.9	Cornelia de Lange syndrome 3	OMIM:616652
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.8	Angelman syndrome	OMIM:105830
+4	0.8	Chromosome 15q11-q13 deletion syndrome	OMIM:608636
+4	0.8	Jervell and Lange-Nielsen syndrome	OMIM:220400
+4	0.8	Potocki-Lupski syndrome	OMIM:610883
+8	0.7	Bloom syndrome	OMIM:210900
+8	0.7	Crib death	OMIM:605037
+8	0.7	Holt-Oram syndrome	OMIM:142900

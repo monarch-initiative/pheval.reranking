@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+2	0.85	Ehlers-Danlos syndrome	OMIM:130020
+3	0.82	Marfan syndrome	OMIM:154700
+4	0.81	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.78	Achondroplasia	OMIM:100800
+6	0.77	Ehlers-Danlos syndrome, classical type	OMIM:130000
+7	0.76	Alkaptonuria	OMIM:203500
+8	0.75	Pycnodysostosis	OMIM:265800
+9	0.74	Choroideremia	OMIM:303100
+10	0.73	Pendred syndrome	OMIM:274600

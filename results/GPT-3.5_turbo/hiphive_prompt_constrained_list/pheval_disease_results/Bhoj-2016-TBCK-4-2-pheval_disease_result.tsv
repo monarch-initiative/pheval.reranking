@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:156200
+2	0.85	Syndromic X-linked intellectual disability type 17	OMIM:300705
+3	0.82	Fragile X syndrome	OMIM:300624
+4	0.81	Non-syndromic X-linked intellectual disability	OMIM:300486
+4	0.81	Mental retardation, autosomal dominant 20	OMIM:613443
+6	0.8	Mental retardation, X-linked 72	OMIM:300271
+7	0.79	Mental retardation, X-linked syndromic 13	OMIM:300055
+7	0.79	Mental retardation, syndromic 3	OMIM:612917
+9	0.78	Autism, susceptibility to, 4	OMIM:608636
+10	0.77	Mental retardation, autosomal recessive 45	OMIM:617600

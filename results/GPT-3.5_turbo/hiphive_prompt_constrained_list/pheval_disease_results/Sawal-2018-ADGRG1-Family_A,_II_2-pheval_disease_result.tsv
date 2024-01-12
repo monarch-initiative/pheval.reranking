@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Polymicrogyria, bilateral frontoparietal	OMIM:603615
+2	0.8	Polymicrogyria, symmetric bilateral	OMIM:610031
+2	0.8	Global developmental delay	OMIM:615762
+4	0.7	Language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia	OMIM:617182
+5	0.6	Generalized epilepsy with febrile seizures plus, type 2	OMIM:604403
+5	0.6	Generalized epilepsy with febrile seizures plus, type 3	OMIM:604403
+5	0.6	Generalized epilepsy with febrile seizures plus, type 4	OMIM:604403
+5	0.6	Generalized epilepsy with febrile seizures plus, type 5	OMIM:604403
+5	0.6	Spastic quadriplegic cerebral palsy	OMIM:603513
+5	0.6	Global developmental delay, absent or hypotonic muscles, and absent or hypoplastic corpus callosum	OMIM:617181

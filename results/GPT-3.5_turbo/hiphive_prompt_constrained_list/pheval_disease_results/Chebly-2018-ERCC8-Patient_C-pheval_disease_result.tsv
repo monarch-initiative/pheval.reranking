@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Microcephaly, primary autosomal recessive, 1	OMIM:251200
+2	0.94	Fanconi anemia, complementation group B	OMIM:227650
+3	0.93	Omphalocele, diaphragmatic hernia, and radial ray defect	OMIM:164900
+4	0.91	Holoprosencephaly 3	OMIM:142945
+5	0.88	Otopalatodigital syndrome, type II	OMIM:304120
+6	0.87	Microcephaly, primary autosomal recessive, 6	OMIM:612541
+7	0.85	Hay-Wells syndrome, also known as AEC syndrome	OMIM:106260
+7	0.85	Microcephaly, hereditary, with normal intelligence and immunodeficiency	OMIM:607196
+9	0.84	Treacher Collins syndrome 1	OMIM:154500
+10	0.81	Cardiofaciocutaneous syndrome	OMIM:115150

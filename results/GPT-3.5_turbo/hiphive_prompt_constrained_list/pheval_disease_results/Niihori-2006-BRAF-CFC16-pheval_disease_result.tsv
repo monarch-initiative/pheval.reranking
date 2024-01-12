@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cornelia de Lange syndrome	OMIM:122470
+2	0.89	Schinzel-Giedion syndrome	OMIM:269150
+3	0.88	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.84	Waardenburg syndrome type 2A	OMIM:193510
+5	0.81	Neurofibromatosis type 1	OMIM:162200
+6	0.77	CHARGE syndrome	OMIM:214800
+7	0.76	Gorlin syndrome	OMIM:109400
+8	0.75	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.72	Smith-Magenis syndrome	OMIM:182290
+10	0.71	Holoprosencephaly	OMIM:236100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cole-Carpenter syndrome 1	OMIM:112240
+2	0.92	Coffin-Siris syndrome 1	OMIM:135900
+3	0.91	Cole-Carpenter syndrome 2	OMIM:616294
+4	0.9	Schwartz-Jampel syndrome 1	OMIM:255800
+5	0.89	Wilms tumor 1	OMIM:194070
+6	0.88	Distal arthrogryposis type 2A	OMIM:193700
+7	0.85	Distal arthrogryposis type 1	OMIM:108120
+8	0.83	Gray platelet syndrome	OMIM:139090
+9	0.82	Schwartz-Jampel syndrome 2	OMIM:601102
+10	0.8	Distal arthrogryposis type 5	OMIM:108145

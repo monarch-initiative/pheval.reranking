@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Intellectual disability	OMIM:614104
+2	0.9	Postnatal growth retardation	OMIM:127350
+3	0.85	Microcephaly	OMIM:251200
+4	0.7	Microphthalmia	OMIM:610125
+5	0.65	Cerebellar hypoplasia	OMIM:614653
+6	0.6	Sensorineural hearing impairment	OMIM:220290
+7	0.55	Kyphosis	OMIM:181450
+8	0.5	Scoliosis	OMIM:181800
+9	0.45	Deeply set eye	OMIM:123200
+10	0.4	Macrotia	OMIM:601076

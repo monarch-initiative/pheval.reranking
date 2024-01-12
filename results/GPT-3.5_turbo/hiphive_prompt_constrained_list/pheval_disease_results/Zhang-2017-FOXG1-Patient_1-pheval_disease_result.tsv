@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614607
+2	0.9	Microcephaly	OMIM:251200
+3	0.85	Autism	OMIM:209850
+4	0.8	Epilepsy	OMIM:600512
+5	0.75	Cortical dysplasia	OMIM:614039
+6	0.7	West syndrome	OMIM:308350
+7	0.65	Developmental delay	OMIM:616557
+8	0.6	Muscular dystrophy	OMIM:310200
+9	0.55	Rett syndrome	OMIM:312750
+10	0.5	Neurodevelopmental disorder	OMIM:618136

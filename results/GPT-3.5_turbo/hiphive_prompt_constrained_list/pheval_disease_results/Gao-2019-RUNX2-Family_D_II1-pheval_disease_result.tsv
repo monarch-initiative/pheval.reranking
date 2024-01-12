@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Cleidocranial dysplasia	OMIM:119600
+1	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+1	0.8	Langer-Giedion syndrome	OMIM:150230
+4	0.7	Aarskog-Scott syndrome	OMIM:305400
+4	0.7	Coffin-Lowry syndrome	OMIM:303600
+4	0.7	Noonan syndrome	OMIM:163950
+4	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.7	Crouzon syndrome	OMIM:123500
+9	0.6	Osteogenesis imperfecta	OMIM:166200
+9	0.6	Chediak-Higashi syndrome	OMIM:214500

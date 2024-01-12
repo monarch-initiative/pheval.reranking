@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Attention deficit hyperactivity disorder	OMIM:143465
+2	0.8	Dysmetria	OMIM:164500
+3	0.7	Hyperactivity	OMIM:143465
+4	0.6	Nystagmus	OMIM:310700
+5	0.5	Thrombocytopenia	OMIM:273900
+6	0.4	Bronchiolitis	OMIM:222400
+7	0.3	Immunodeficiency	OMIM:300310
+8	0.2	Myelodysplasia	OMIM:614286
+9	0.1	Joint stiffness	OMIM:184600
+10	0.05	Gait imbalance	OMIM:613632

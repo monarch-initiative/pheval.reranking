@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis	OMIM:252500
+2	0.91	Niemann-Pick disease	OMIM:257220
+3	0.88	Fabry disease	OMIM:301500
+4	0.87	Aspartylglycosaminuria	OMIM:208400
+5	0.86	Chediak-Higashi syndrome	OMIM:214500
+6	0.84	Coffin-Lowry syndrome	OMIM:303600
+7	0.81	Cystinosis	OMIM:219800
+8	0.8	Mucolipidosis	OMIM:252650
+9	0.79	Krabbe disease	OMIM:245200
+10	0.78	Sanfilippo syndrome	OMIM:252500

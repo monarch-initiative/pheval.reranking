@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.96	Marfan syndrome	OMIM:154700
+3	0.93	Stickler syndrome, type 1	OMIM:108300
+4	0.92	Rubinstein-Taybi syndrome 2	OMIM:613684
+5	0.89	Cri-du-chat syndrome	OMIM:123450
+6	0.88	Oculodentodigital dysplasia	OMIM:164200
+7	0.87	Williams-Beuren syndrome	OMIM:194050
+8	0.85	Limb-girdle muscular dystrophy type 2A	OMIM:253600
+9	0.84	Smith-Magenis syndrome	OMIM:182290
+10	0.83	Sotos syndrome 1	OMIM:117550

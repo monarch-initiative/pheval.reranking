@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Sotos syndrome 1	OMIM:117550
+2	0.9	Marshall-Smith syndrome	OMIM:602535
+2	0.9	Weaver syndrome	OMIM:277590
+4	0.85	Beckwith-Wiedemann syndrome	OMIM:130650
+4	0.85	Costello syndrome	OMIM:218040
+6	0.8	Cohen syndrome	OMIM:216550
+6	0.8	Smith-Magenis syndrome	OMIM:182290
+8	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.75	Pitt-Hopkins syndrome	OMIM:610954
+10	0.7	Noonan syndrome 1	OMIM:163950

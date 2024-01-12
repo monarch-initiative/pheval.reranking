@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Saethre-Chotzen syndrome	OMIM:101400
+3	0.7	Smith-Magenis syndrome	OMIM:182290
+4	0.6	Fragile X syndrome	OMIM:300624
+5	0.5	Noonan syndrome	OMIM:163950
+6	0.4	Prader-Willi syndrome	OMIM:176270
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Cockayne syndrome	OMIM:133540
+9	0.1	Cri-du-chat syndrome	OMIM:123450
+10	0.09	CHARGE syndrome	OMIM:214800

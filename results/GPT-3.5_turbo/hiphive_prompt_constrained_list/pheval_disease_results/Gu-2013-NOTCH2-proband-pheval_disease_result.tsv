@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Osteogenesis imperfecta	OMIM:166200
+2	0.94	Kniest dysplasia	OMIM:156550
+3	0.93	Shprintzen-Goldberg syndrome	OMIM:182212
+4	0.92	Coffin-Lowry syndrome	OMIM:303600
+5	0.91	Mandibulofacial dystostosis, Guion-Almeida type	OMIM:610536
+6	0.89	Nance-Horan syndrome	OMIM:302350
+7	0.88	Osteoporosis-pseudoglioma syndrome	OMIM:259770
+8	0.87	Cole-Carpenter syndrome	OMIM:112240
+9	0.86	Matrix metalloproteinase-2 deficiency	OMIM:228600
+10	0.85	Sillence syndrome	OMIM:187600

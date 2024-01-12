@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler Syndrome	OMIM:614134
+2	0.8	Roberts Syndrome	OMIM:268300
+3	0.7	Arthrogryposis, Distal, Type 2B	OMIM:601680
+4	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.5	Microcephaly, Seizures, and Developmental Delay	OMIM:616817
+6	0.4	Roberts-SC Phocomelia Syndrome	OMIM:268310
+7	0.3	Microcephaly, Short Stature, and Impaired Glucose Metabolism 1	OMIM:614609
+8	0.2	Microcephalic Primordial Dwarfism, Toriello Type	OMIM:251190
+9	0.1	Polydactyly, Postaxial, Type A9	OMIM:617775
+10	0.0	Intellectual Developmental Disorder with or without Dysmorphic Facies and Autism Spectrum Disorder	OMIM:615873

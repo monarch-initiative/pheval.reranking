@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Sotos syndrome	OMIM:117550
+2	0.7	Kabuki syndrome	OMIM:147920
+3	0.6	Peroxisome biogenesis disorder	OMIM:202370
+3	0.6	Branchiootorenal syndrome	OMIM:113650
+3	0.6	Charcot-Marie-Tooth disease	OMIM:118220
+6	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.5	Niemann-Pick disease	OMIM:257200
+6	0.5	Mowat-Wilson syndrome	OMIM:235730
+6	0.5	Gorlin syndrome	OMIM:109400
+6	0.5	Pierpont syndrome	OMIM:602342

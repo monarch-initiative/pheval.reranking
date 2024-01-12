@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential thrombocythemia	OMIM:187950
+2	0.85	Thrombocythemia 1	OMIM:187950
+3	0.8	Thrombocytosis	OMIM:188020
+3	0.8	Essential thrombocytosis	OMIM:601977

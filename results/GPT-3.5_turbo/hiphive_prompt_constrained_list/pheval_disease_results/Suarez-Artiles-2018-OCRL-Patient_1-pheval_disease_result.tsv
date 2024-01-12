@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Nephropathy with pretibial epidermolysis bullosa and deafness	OMIM:609284
+2	0.83	Multiple epiphyseal dysplasia with miniepiphyses	OMIM:615516
+3	0.78	Renal dysplasia-limb defect syndrome	OMIM:266265
+4	0.76	Glutaric aciduria IIB	OMIM:231670
+5	0.73	Rapid-onset dystonia parkinsonism	OMIM:128235
+6	0.71	Idiopathic generalized epilepsy	OMIM:609750
+7	0.69	Lethal multiple pterygium syndrome	OMIM:253290
+8	0.67	Pfeiffer syndrome	OMIM:101600
+9	0.63	Ceroid lipofuscinosis, neuronal, 7	OMIM:610951
+10	0.61	Malignant melanoma of soft parts	OMIM:600455

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96875	Hypogonadotropic hypogonadism 4 with or without anosmia	OMIM:610628
+1	0.96875	Hypogonadotropic hypogonadism 5 with or without anosmia	OMIM:614836
+1	0.96875	Hypogonadotropic hypogonadism 7 with or without anosmia	OMIM:146110
+1	0.96875	Hypogonadotropic hypogonadism 6 with or without anosmia	OMIM:612702
+1	0.96875	Hypogonadotropic hypogonadism 12 with or without anosmia	OMIM:614841
+1	0.96875	Hypogonadotropic hypogonadism 8 with or without anosmia	OMIM:614837
+7	0.953125	Wiedemann-Steiner syndrome	OMIM:605130
+7	0.953125	Cars2-related Pontocerebellar hypoplasia	OMIM:614969
+7	0.953125	Hypogonadotropic hypogonadism 1 with or without anosmia	OMIM:308700
+7	0.953125	Pontocerebellar hypoplasia, type 2B	OMIM:612389

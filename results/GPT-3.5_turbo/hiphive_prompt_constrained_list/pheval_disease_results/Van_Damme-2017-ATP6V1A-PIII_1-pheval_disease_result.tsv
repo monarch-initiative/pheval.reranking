@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.862273	Ehlers-Danlos syndrome, Autosomal Dominant, Type I	OMIM:130000
+2	0.836442	Ehlers-Danlos syndrome, autosomal dominant, type III	OMIM:130020
+3	0.809312	Marfan syndrome	OMIM:154700
+4	0.802221	Loeys-Dietz syndrome	OMIM:609192
+5	0.772663	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+6	0.766557	Generalized arterial calcification of infancy	OMIM:208000
+7	0.758825	Cutis laxa, autosomal dominant	OMIM:123700
+8	0.75284	Hyperlysinemia, isolated	OMIM:238700
+9	0.745909	Cutis laxa, autosomal dominant, type II (Wrinkly skin syndrome)	OMIM:614434
+10	0.744809	Cutis laxa, autosomal dominant, type IIIA	OMIM:123700

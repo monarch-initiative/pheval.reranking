@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autosomal recessive congenital ichthyosis	OMIM:601277
+2	0.94	Microcephaly-capillary malformation syndrome	OMIM:614261
+3	0.93	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome	OMIM:208250
+4	0.92	Microcephaly and chorioretinopathy, autosomal recessive, 1	OMIM:251270
+5	0.91	Orofacial cleft 11	OMIM:600625
+6	0.9	Renal-hepatic-pancreatic dysplasia 2	OMIM:615415
+7	0.89	Marfanoid syndrome, Boeck type	OMIM:309930
+8	0.88	Smith-Magenis syndrome	OMIM:182290
+9	0.87	Fanconi anemia, complementation group S	OMIM:617883
+10	0.86	Mental retardation, autosomal recessive 13	OMIM:614081

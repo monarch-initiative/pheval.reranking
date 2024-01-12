@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.806	PTEN hamartoma tumor syndrome	OMIM:158350
+2	0.794	Noonan syndrome	OMIM:163950
+3	0.785	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+4	0.781	22q11.2 deletion syndrome	OMIM:188400
+5	0.774	Char syndrome	OMIM:169100
+6	0.773	Cornelia de Lange syndrome	OMIM:122470
+7	0.771	Coffin-Lowry syndrome	OMIM:303600
+8	0.769	Alagille syndrome	OMIM:118450
+9	0.764	Angelman syndrome	OMIM:105830
+10	0.759	Rubinstein-Taybi syndrome	OMIM:180849

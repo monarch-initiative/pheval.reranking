@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.85	Neurodegeneration with brain iron accumulation	OMIM:234200
+3	0.8	Spinocerebellar ataxia	OMIM:164400
+4	0.75	Multiple system atrophy	OMIM:146500
+5	0.7	Epilepsy	OMIM:613411
+6	0.65	Autosomal dominant cerebellar ataxia	OMIM:607454
+7	0.6	Dystonia	OMIM:128230
+8	0.55	Huntington disease	OMIM:143100
+9	0.5	Friedreich ataxia	OMIM:229300
+10	0.45	Autosomal recessive spastic paraplegia	OMIM:609007

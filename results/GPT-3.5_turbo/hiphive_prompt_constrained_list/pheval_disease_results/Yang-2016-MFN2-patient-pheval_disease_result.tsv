@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Charcot-Marie-Tooth disease	OMIM:118220
+2	0.89	Congenital fibrosis of the extraocular muscles	OMIM:135700
+3	0.87	Spinal muscular atrophy	OMIM:253300
+4	0.83	Peripheral neuropathy	OMIM:162500
+5	0.81	Distal hereditary motor neuronopathy	OMIM:605726
+6	0.8	Hereditary motor-sensory neuropathy	OMIM:600175
+7	0.79	Hereditary neuropathy with liability to pressure palsies	OMIM:162500
+8	0.78	Amyotrophic lateral sclerosis	OMIM:105400
+9	0.77	Hereditary motor neuropathy	OMIM:600794
+10	0.76	Peripheral demyelinating neuropathy	OMIM:145900

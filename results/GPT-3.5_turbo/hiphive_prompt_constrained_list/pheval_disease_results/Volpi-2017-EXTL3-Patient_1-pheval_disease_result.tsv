@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Multiple Hereditary Osteochondromatosis	OMIM:133700
+2	0.86	Short Rib-Polydactyly Syndrome	OMIM:263520
+3	0.85	Coffin-Siris Syndrome	OMIM:614608
+4	0.83	Primary Ciliary Dyskinesia	OMIM:244400
+5	0.82	Chondrodysplasia Punctata 1, X-Linked Dominant	OMIM:302950
+6	0.8	Nijmegen Breakage Syndrome	OMIM:251260
+7	0.79	Rhabdomyosarcoma	OMIM:268210
+8	0.76	Kazuistikoosteodysplasia	OMIM:230650
+9	0.74	Schinzel-Giedion Midface Retraction Syndrome	OMIM:269150
+10	0.71	Mandibulofacial Dysostosis With Alopecia	OMIM:616367

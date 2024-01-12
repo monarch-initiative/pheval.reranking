@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.75	Joint laxity, short stature, and myopia	OMIM:614529
+3	0.7	Osteogenesis imperfecta, type VII	OMIM:610682
+4	0.65	Mitochondrial DNA depletion syndrome 12A (cardiomyopathic type)	OMIM:615418
+5	0.6	Dyssegmental dysplasia, Rolland-Desbuquois type	OMIM:224400
+6	0.55	Cardiomyopathy, dilated, 1X	OMIM:611615
+7	0.5	Marfan syndrome	OMIM:154700
+8	0.45	Cutis laxa, autosomal dominant 1	OMIM:123700
+9	0.4	Epileptic encephalopathy, early infantile, 35	OMIM:616647
+10	0.35	Dentinogenesis imperfecta, Shields type II; DSPPD	OMIM:125490

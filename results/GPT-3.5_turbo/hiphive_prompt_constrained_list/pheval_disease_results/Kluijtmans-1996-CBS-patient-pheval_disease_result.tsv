@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos syndrome, type I	OMIM:130000
+3	0.7	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+3	0.7	Homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cblG complementation type	OMIM:250410
+5	0.6	Lowe syndrome	OMIM:309000
+5	0.6	Ehlers-Danlos syndrome, classic type	OMIM:130060
+5	0.6	Ehlers-Danlos syndrome, type IV	OMIM:130050
+5	0.6	Kabuki syndrome 1	OMIM:147920
+5	0.6	Cutis laxa, autosomal recessive, type IIIB	OMIM:614438
+5	0.6	Aortic aneurysm, familial thoracic 4	OMIM:132900

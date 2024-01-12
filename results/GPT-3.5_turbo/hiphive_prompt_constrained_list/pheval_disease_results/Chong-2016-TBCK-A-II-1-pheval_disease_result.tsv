@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9208	Pitt-Hopkins-like syndrome 2	OMIM:613854
+2	0.9184	Intellectual developmental disorder, X-linked 104	OMIM:300983
+3	0.915	Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion 1	OMIM:224050
+4	0.9129	Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination	OMIM:618089
+5	0.9114	Epileptic encephalopathy, early infantile, 79	OMIM:618040
+6	0.9098	Severe developmental delay and dysmorphic features due to SPATA5L1 pathogenic variant	OMIM:618000
+7	0.9076	Arthrogryposis, epileptic seizures, and migrational brain disorder	OMIM:618935
+8	0.9059	Congenital disorder of glycosylation, type Ije	OMIM:618007
+9	0.9054	Corpus callosum, partial agenesis of, X-linked	OMIM:304100
+10	0.9045	Developmental delay, intellectual disability, seizures, and/or autism spectrum disorder	OMIM:618155

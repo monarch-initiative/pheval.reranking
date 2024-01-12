@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epileptic encephalopathy, early infantile, 16	OMIM:613254
+2	0.85	Axenfeld-Rieger syndrome, type 3	OMIM:180500
+3	0.8	Developmental delay and microcephaly, SLC1A4 related	OMIM:617560
+4	0.75	Autosomal recessive primary microcephaly 10	OMIM:615085
+5	0.7	Intellectual developmental disorder with persistence of fetal hemoglobin	OMIM:613985
+6	0.65	Severe neonatal-onset encephalopathy with microcephaly	OMIM:617517
+7	0.6	Epileptic encephalopathy, early infantile, 28	OMIM:616211
+8	0.55	Pitt-Hopkins-like syndrome 2	OMIM:617232
+9	0.5	MAGEL2-related disorders	OMIM:605283
+10	0.45	NDE1-related disorders	OMIM:614432

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa 4	OMIM:613254
+2	0.86	Retinitis pigmentosa 1	OMIM:180380
+3	0.85	Leber congenital amaurosis 2	OMIM:204100
+3	0.85	Fundus albipunctatus	OMIM:136880
+5	0.84	Retinitis pigmentosa 3	OMIM:600105
+6	0.83	Retinitis pigmentosa 11	OMIM:600138
+7	0.82	Wolfram syndrome 1	OMIM:222300
+8	0.81	Autoimmune retinopathy	OMIM:604370
+9	0.8	Retinitis pigmentosa 18	OMIM:601414
+9	0.8	Retinitis pigmentosa 13	OMIM:600059
