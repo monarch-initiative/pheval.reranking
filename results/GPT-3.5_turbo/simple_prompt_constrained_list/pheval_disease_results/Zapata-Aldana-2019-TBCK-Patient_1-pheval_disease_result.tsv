@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cerebellar atrophy	OMIM:213200
+1	1.0	Severe global developmental delay	OMIM:614463
+3	0.9	Generalized tonic-clonic seizures	OMIM:613847
+3	0.9	Status epilepticus	OMIM:254210
+5	0.8	Hypoplasia of the corpus callosum	OMIM:217990
+5	0.8	Ventriculomegaly	OMIM:236600
+5	0.8	Absent septum pellucidum	OMIM:236600
+5	0.8	Enlarged cisterna magna	OMIM:213200
+5	0.8	EMG: myokymic discharges	OMIM:108450
+10	0.7	Areflexia	OMIM:145900
+10	0.7	CNS demyelination	OMIM:127000
+12	0.6	Lipoma	OMIM:151900
+12	0.6	Os odontoideum	OMIM:165720
+12	0.6	Microcytic anemia	OMIM:206100
+12	0.6	Open mouth	OMIM:116550

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Ehlers-Danlos Syndrome	OMIM:130000
+3	0.7	Stickler Syndrome	OMIM:108300
+4	0.6	Lowe Syndrome	OMIM:309000
+5	0.5	Homocystinuria	OMIM:236200
+6	0.4	Loeys-Dietz Syndrome	OMIM:609192
+6	0.4	Weill-Marchesani Syndrome	OMIM:277600
+8	0.3	Alkaptonuria	OMIM:203500
+8	0.3	Costello Syndrome	OMIM:218040
+8	0.3	Hypermobility Syndrome	OMIM:147100
+11	0.2	Osteogenesis Imperfecta	OMIM:166200
+11	0.2	Larsen Syndrome	OMIM:150250
+13	0.1	Coffin-Lowry Syndrome	OMIM:303600
+13	0.1	Elhers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+13	0.1	Beals Syndrome	OMIM:121050
+13	0.1	Cutis Laxa	OMIM:123700

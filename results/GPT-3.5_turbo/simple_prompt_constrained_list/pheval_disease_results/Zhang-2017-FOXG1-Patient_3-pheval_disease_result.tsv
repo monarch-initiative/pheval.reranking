@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.8	Angelman syndrome	OMIM:105830
+2	0.8	Rett syndrome	OMIM:312750
+2	0.8	Kleefstra syndrome	OMIM:610253
+5	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.7	1q21.1 microdeletion syndrome	OMIM:612475
+7	0.6	22q11.2 deletion syndrome	OMIM:192430
+7	0.6	Prader-Willi syndrome	OMIM:176270
+7	0.6	Cri-du-chat syndrome	OMIM:123450
+7	0.6	Smith-Magenis syndrome	OMIM:182290
+11	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+11	0.5	Coffin-Siris syndrome	OMIM:135900
+11	0.5	Fragile X syndrome	OMIM:300624
+11	0.5	MECP2 duplication syndrome	OMIM:300260
+15	0.4	Gomez-Lopez-Hernandez syndrome	OMIM:601853
+15	0.4	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	OMIM:180849

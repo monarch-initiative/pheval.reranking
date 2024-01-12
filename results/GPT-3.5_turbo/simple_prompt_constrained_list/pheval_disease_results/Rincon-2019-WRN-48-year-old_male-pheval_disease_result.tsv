@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteoporosis	OMIM:166710
+1	0.9	Pes planus	OMIM:261350
+1	0.9	Reduced subcutaneous adipose tissue	OMIM:615238
+1	0.9	Corneal ulceration	OMIM:217700
+1	0.9	Truncal obesity	OMIM:278740
+1	0.9	Cataract	OMIM:116800
+1	0.9	Hyperkeratosis	OMIM:146400
+1	0.9	Hypertension	OMIM:145500
+1	0.9	Premature graying of hair	OMIM:211480
+1	0.9	Hypertriglyceridemia	OMIM:615947
+1	0.9	High pitched voice	OMIM:300290
+1	0.9	Type II diabetes mellitus	OMIM:125853
+1	0.9	Bird-like facies	OMIM:618363
+1	0.9	Diabetes mellitus	OMIM:125853
+1	0.9	Short stature	OMIM:604271
+1	0.9	Hypothyroidism	OMIM:223600

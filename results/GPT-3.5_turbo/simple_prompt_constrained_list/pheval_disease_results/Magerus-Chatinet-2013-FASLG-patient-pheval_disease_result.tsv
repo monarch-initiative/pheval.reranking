@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	X-linked lymphoproliferative syndrome	OMIM:308240
+2	0.9	Hyper IgM syndrome	OMIM:613960
+3	0.85	Precursor T-cell acute lymphoblastic leukemia	OMIM:613065
+4	0.8	Common variable immunodeficiency	OMIM:607594
+5	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.7	Severe combined immunodeficiency, X-linked	OMIM:300400
+7	0.65	Chediak-Higashi syndrome	OMIM:214500
+8	0.6	Griscelli syndrome	OMIM:214450
+9	0.55	Familial hemophagocytic lymphohistiocytosis	OMIM:267700
+10	0.5	Ataxia-telangiectasia	OMIM:208900
+11	0.45	Bloom syndrome	OMIM:210900
+12	0.4	Immunodeficiency 4	OMIM:242860
+13	0.35	Hereditary neutrophilia	OMIM:162830
+14	0.3	Hyper IgE recurrent infection syndrome	OMIM:147060
+15	0.25	Systemic lupus erythematosus	OMIM:152700

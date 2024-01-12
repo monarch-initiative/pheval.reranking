@@ -1,0 +1,18 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Kyphosis	OMIM:236200
+1	1.0	Pectus carinatum	OMIM:115150
+1	1.0	Rocker bottom foot	OMIM:119600
+1	1.0	Flexion contracture	OMIM:147060
+1	1.0	Babinski sign	OMIM:114500
+6	0.9	Hypertrichosis	OMIM:135150
+6	0.9	Seizures	OMIM:113620
+6	0.9	Brain atrophy	OMIM:605168
+6	0.9	Abnormal activity of mitochondrial respiratory chain	OMIM:609283
+10	0.8	Delayed myelination	OMIM:604004
+10	0.8	Abnormality of somatosensory evoked potentials	OMIM:259500
+10	0.8	Palmoplantar hyperhidrosis	OMIM:231200
+10	0.8	Increased muscle glycogen content	OMIM:232700
+14	0.7	Failure to thrive	OMIM:125000
+14	0.7	Joint hyperflexibility	OMIM:614091
+16	0.6	Progressive microcephaly	OMIM:613402
+16	0.6	Moderate hearing impairment	OMIM:146255

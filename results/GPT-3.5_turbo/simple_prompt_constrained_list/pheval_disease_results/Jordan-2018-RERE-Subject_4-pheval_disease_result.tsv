@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+1	0.9	CHARGE syndrome	OMIM:214800
+1	0.9	Rubinstein-Taybi syndrome	OMIM:180849
+1	0.9	Rett syndrome	OMIM:312750
+1	0.9	Cohen syndrome	OMIM:216550
+1	0.9	Oculoauricular syndrome	OMIM:612109
+7	0.8	Alport syndrome	OMIM:301050
+7	0.8	Joubert syndrome	OMIM:213300
+7	0.8	Angelman syndrome	OMIM:105830
+7	0.8	Fragile X syndrome	OMIM:300624
+7	0.8	Cockayne syndrome	OMIM:216400
+7	0.8	Perry syndrome	OMIM:168605
+7	0.8	Schinzel-Giedion syndrome	OMIM:269150
+7	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+7	0.8	Focal dermal hypoplasia	OMIM:305600

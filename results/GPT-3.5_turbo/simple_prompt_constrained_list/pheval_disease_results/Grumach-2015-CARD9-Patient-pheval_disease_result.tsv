@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Primary autosomal recessive microcephaly 1	OMIM:251200
+2	0.7	COMBINED IMMUNODEFICIENCY, X-LINKED	OMIM:312863
+3	0.65	SCHIMMELPENNING-FEUERSTEIN-MIMS SYNDROME	OMIM:163200
+4	0.6	IMMUNODEFICIENCY, COMMON VARIABLE, 1	OMIM:607594
+5	0.55	IMMUNODEFICIENCY 29	OMIM:615617
+6	0.5	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	OMIM:304790
+7	0.45	ataxia telangiectasia	OMIM:208900
+8	0.4	WISKOTT-ALDRICH SYNDROME 2	OMIM:614493
+9	0.35	ATAXIA-TELANGIECTASIA-LIKE DISORDER 1	OMIM:604391
+10	0.3	antibody deficiency due to IKAROS deficiency	OMIM:613006
+11	0.25	IMMUNODEFICIENCY 11B WITH ATOPY	OMIM:617718
+12	0.2	Nail disorder, nonsyndromic congenital, 3	OMIM:617332
+13	0.15	Nail disorder, nonsyndromic congenital, 5	OMIM:617333
+14	0.1	agammaglobulinemia 1, autosomal recessive	OMIM:601495
+15	0.05	immunodeficiency 23	OMIM:615816

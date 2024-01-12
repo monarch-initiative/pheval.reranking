@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Down syndrome	OMIM:190685
+2	0.9	Autism spectrum disorder	OMIM:209850
+3	0.85	Cleft lip	OMIM:119530
+4	0.8	Attention deficit hyperactivity disorder	OMIM:143465
+5	0.75	Peters anomaly	OMIM:604229
+6	0.7	Gastroesophageal reflux	OMIM:109350
+7	0.65	Clinodactyly	OMIM:123456
+8	0.6	Global developmental delay	OMIM:614608
+9	0.55	Microcephaly	OMIM:156200
+10	0.5	Scoliosis	OMIM:181800
+11	0.45	Syndactyly	OMIM:185000
+12	0.4	Hypoplastic nipples	
+13	0.35	Cryptorchidism	OMIM:400000
+14	0.3	Hypospadias	OMIM:607402
+15	0.25	Hypertelorism	OMIM:145400
+16	0.2	Cleft lip and palate	OMIM:119540

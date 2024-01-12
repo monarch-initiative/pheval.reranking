@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cornelia de Lange Syndrome	OMIM:122470
+2	0.8	Seckel Syndrome 1	OMIM:210600
+3	0.7	Cockayne Syndrome B	OMIM:133540
+4	0.6	Cockayne Syndrome A	OMIM:216400
+5	0.5	Femoral-Facial Syndrome	OMIM:134780
+6	0.4	Holoprosencephaly 9	OMIM:610829
+7	0.3	Fanconi Anemia, Complementation Group D1	OMIM:605724
+8	0.2	Mitochondrial Complex III Deficiency, Nuclear Type 2	OMIM:615157
+9	0.1	Johnson Neuroectodermal Syndrome	OMIM:267900
+10	0.0	Rhizomelic Chondrodysplasia Punctata, Type 3	OMIM:600121

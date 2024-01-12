@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary hyperoxaluria	OMIM:259900
+2	0.8	Pyelonephritis	OMIM:173910
+3	0.7	Chronic kidney disease	OMIM:614900
+4	0.6	Fanconi syndrome	OMIM:134600
+5	0.5	Hemoglobinuria	OMIM:614401
+6	0.4	Hip dysplasia	OMIM:142700
+7	0.3	Acute pyelonephritis	OMIM:173900
+8	0.2	Metabolic acidosis	OMIM:250500
+9	0.1	Polycystic kidney disease	OMIM:173900
+9	0.1	Renal cell carcinoma	OMIM:144700
+9	0.1	Nephrotic syndrome	OMIM:256300
+9	0.1	Alkaptonuria	OMIM:203500
+9	0.1	Gout	OMIM:138900
+9	0.1	Aplastic anemia	OMIM:609135
+9	0.1	Iron deficiency anemia	OMIM:206200
+9	0.1	Hemolytic anemia	OMIM:266300

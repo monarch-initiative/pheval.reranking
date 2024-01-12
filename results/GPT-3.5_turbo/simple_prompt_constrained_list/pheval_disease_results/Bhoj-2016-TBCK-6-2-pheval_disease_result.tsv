@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.7	Williams-Beuren syndrome	OMIM:194050
+4	0.6	CHARGE syndrome	OMIM:214800
+4	0.6	Floating-Harbor syndrome	OMIM:136140
+6	0.5	Coffin-Siris syndrome	OMIM:135900
+6	0.5	Angelman syndrome	OMIM:105830
+8	0.4	Kabuki syndrome	OMIM:147920
+8	0.4	Pitt-Hopkins syndrome	OMIM:610954
+8	0.4	Cornelia de Lange syndrome	OMIM:122470
+11	0.3	Mowat-Wilson syndrome	OMIM:235730
+11	0.3	Fragile X syndrome	OMIM:300624
+13	0.2	Phelan-McDermid syndrome	OMIM:606232
+13	0.2	Galloway-Mowat syndrome	OMIM:251300
+15	0.1	Rett syndrome	OMIM:312750

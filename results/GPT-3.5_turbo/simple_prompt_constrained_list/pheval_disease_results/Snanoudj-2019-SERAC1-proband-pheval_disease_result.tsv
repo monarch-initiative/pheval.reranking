@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Leigh syndrome	OMIM:165500
+2	0.94	Mitochondrial DNA depletion syndrome	OMIM:251880
+3	0.89	Mitochondrial complex I deficiency	OMIM:252010
+4	0.88	Mitochondrial complex IV deficiency	OMIM:220110
+5	0.87	Cytochrome C oxidase deficiency	OMIM:220110
+6	0.85	Severe infantile encephalopathy	OMIM:616229
+7	0.8	Combined oxidative phosphorylation deficiency	OMIM:609060
+8	0.75	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+9	0.72	Coenzyme Q10 deficiency	OMIM:607426
+10	0.7	Mitochondrial complex V deficiency	OMIM:604273
+11	0.68	Mitochondrial encephalomyopathy	OMIM:540000
+12	0.65	Pontocerebellar hypoplasia type 6	OMIM:611523
+13	0.63	Leigh-like mitochondrial disease	OMIM:256000
+14	0.6	Pontocerebellar hypoplasia type 2	OMIM:612389
+15	0.57	3-methylglutaconyl-CoA hydratase deficiency	OMIM:250950
+16	0.54	Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria	OMIM:603178

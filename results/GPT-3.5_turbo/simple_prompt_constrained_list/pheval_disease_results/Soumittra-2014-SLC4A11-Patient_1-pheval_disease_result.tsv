@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuchs endothelial corneal dystrophy	OMIM:136800
+2	0.8	Cornea guttata with anterior segment abnormalities	OMIM:617566
+3	0.7	Corneal dystrophy, posterior polymorphous, 1	OMIM:122000
+4	0.6	Corneal dystrophy, Fuchs endothelial, 6	OMIM:613270
+5	0.5	Edict syndrome	OMIM:308150
+6	0.4	Keratoconus	OMIM:148300
+7	0.3	Corneal dystrophy, Fuchs endothelial, 1	OMIM:136800
+8	0.2	Corneal dystrophy, Fuchs endothelial, 4	OMIM:613268
+9	0.1	Cornea plana 2	OMIM:217300
+9	0.1	Corneal dystrophy, Fuchs endothelial, 3	OMIM:613267

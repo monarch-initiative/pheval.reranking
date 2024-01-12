@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Herlitz junctional epidermolysis bullosa	OMIM:226700
+2	0.8	Epidermolysis bullosa simplex	OMIM:131900
+3	0.7	Epidermolysis bullosa dystrophica	OMIM:131750
+4	0.6	Pyloric atresia with epidermolysis bullosa	OMIM:265000
+5	0.5	Epidermolysis bullosa acquisita	OMIM:609329
+6	0.4	Laryngeal papillomatosis	OMIM:151400
+7	0.3	Amyotrophic lateral sclerosis 16	OMIM:614373
+8	0.2	Lichen planus	OMIM:152950
+9	0.1	Papillon-Lefèvre syndrome	OMIM:245000

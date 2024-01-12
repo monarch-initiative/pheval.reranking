@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Essential Thrombocythemia	OMIM:187950
+2	0.9	Bernard-Soulier syndrome	OMIM:231200
+2	0.9	May-Hegglin anomaly	OMIM:155100
+2	0.9	Familial platelet disorder with associated myeloid malignancy	OMIM:601399
+5	0.8	Griscelli syndrome, type 2	OMIM:607624
+5	0.8	Sebastian syndrome	OMIM:605249
+5	0.8	Gray platelet syndrome	OMIM:139090
+5	0.8	Thrombocythemia 1	OMIM:187950
+5	0.8	Absent radius, thrombocytopenia, and abnormal digits	OMIM:274000
+5	0.8	Thrombocytopenia with beta-thalassemia	OMIM:613978
+5	0.8	Paris-Trousseau thrombocytopenia	OMIM:188025
+5	0.8	Glanzmann thrombasthenia	OMIM:273800
+5	0.8	Fechtner syndrome	OMIM:153640
+5	0.8	Platelet-type bleeding disorder 20	OMIM:113170
+15	0.7	Amegakaryocytic thrombocytopenia 2	OMIM:617443

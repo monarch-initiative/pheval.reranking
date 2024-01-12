@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.955482244	Spinocerebellar ataxia 2	OMIM:183090
+2	0.935171242	Friedreich ataxia	OMIM:229300
+3	0.912815928	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+4	0.890460611	Charcot-Marie-Tooth disease type 4E	OMIM:614297
+5	0.868105293	Charcot-Marie-Tooth disease type 1B	OMIM:118200
+6	0.845749978	Charcot-Marie-Tooth disease type 2A	OMIM:118210
+7	0.82339466	Spinocerebellar ataxia 6	OMIM:183086
+8	0.801039343	Charcot-Marie-Tooth disease type 1E	OMIM:118300
+9	0.778684027	Charcot-Marie-Tooth disease type 4D	OMIM:601455
+10	0.75632871	Charcot-Marie-Tooth disease type 4C	OMIM:601596
+11	0.733973393	Charcot-Marie-Tooth disease type 1C	OMIM:601098
+12	0.711618077	Sjogren-Larsson syndrome	OMIM:270200
+13	0.68926276	Spinocerebellar ataxia 1	OMIM:164400
+14	0.666907443	Hereditary motor and sensory neuropathy VI	OMIM:601152
+15	0.644552127	Paget disease of bone 3	OMIM:167250

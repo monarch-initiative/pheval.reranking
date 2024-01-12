@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Stickler syndrome	OMIM:108300
+2	0.7	Ehlers-Danlos syndrome, classical type	OMIM:130000
+2	0.7	Marfan syndrome	OMIM:154700
+2	0.7	Osteogenesis imperfecta type 2	OMIM:166210
+5	0.6	Cleft palate, cardiac defects, and intellectual developmental disorder	OMIM:616973
+5	0.6	Larsen syndrome	OMIM:150250
+5	0.6	Lujan-Fryns syndrome	OMIM:309520
+5	0.6	Osteochondrodysplasia, complex lethal, Symoens-Barnes-Gistelinck type	OMIM:616897
+5	0.6	Reunion island Larsen-like syndrome	OMIM:616501
+10	0.5	Bowed tibia, inclinations of distal ends, joint laxity	OMIM:616974
+10	0.5	C syndrome	OMIM:211750
+10	0.5	Cole-Carpenter syndrome 2	OMIM:616294
+10	0.5	Cranioectodermal dysplasia 1	OMIM:218330
+10	0.5	Craniosynostosis, calcification of basal ganglia, and facial dysmorphism	OMIM:617403
+10	0.5	Dense bone dysplasia	OMIM:614193

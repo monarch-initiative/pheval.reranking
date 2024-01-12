@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Parkinson disease 19	OMIM:615528
+2	0.92	Dystonia 12	OMIM:128235
+3	0.91	Parkinson disease 3	OMIM:602404
+4	0.89	Parkinson disease 4	OMIM:605543
+5	0.82	Spinocerebellar ataxia 14	OMIM:605361
+6	0.81	Parkinson disease 13	OMIM:608716
+7	0.8	Parkinson disease 1	OMIM:168601
+8	0.77	Spinocerebellar ataxia 1	OMIM:164400
+9	0.76	Parkinson disease 15	OMIM:260300
+10	0.75	Spinocerebellar ataxia 23	OMIM:610245
+11	0.74	Spinocerebellar ataxia 15	OMIM:606658
+12	0.71	Parkinson disease 20	OMIM:617061
+13	0.7	Spinocerebellar ataxia 16	OMIM:183090
+14	0.68	Parkinson disease 2	OMIM:600116
+15	0.66	Dystonia 3	OMIM:314250

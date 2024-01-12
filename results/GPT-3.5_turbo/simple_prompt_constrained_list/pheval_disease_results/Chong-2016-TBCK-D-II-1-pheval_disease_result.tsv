@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe intellectual disability with progressive decline and microcephaly	OMIM:617560
+2	0.9	Wolf-Hirschhorn syndrome	OMIM:194190
+2	0.9	Phelan-McDermid syndrome	OMIM:606232
+4	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.85	Rett syndrome	OMIM:312750
+6	0.8	Angelman syndrome	OMIM:105830
+6	0.8	Pitt-Hopkins syndrome	OMIM:610954
+8	0.75	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.75	Kabuki syndrome 1	OMIM:147920
+10	0.7	22q11.2 deletion syndrome	OMIM:192430
+10	0.7	Prader-Willi syndrome	OMIM:176270
+12	0.65	Fragile X syndrome	OMIM:309550
+12	0.65	Sotos syndrome 1	OMIM:117550
+14	0.6	Bohring-Opitz syndrome	OMIM:605039
+14	0.6	Cri-du-chat syndrome	OMIM:123450

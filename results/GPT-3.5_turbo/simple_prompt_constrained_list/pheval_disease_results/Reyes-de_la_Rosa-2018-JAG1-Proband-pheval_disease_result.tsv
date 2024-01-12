@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille Syndrome	OMIM:118450
+1	0.9	Achondrogenesis Type 1B	OMIM:600972
+1	0.9	Aarskog Syndrome	OMIM:305400
+1	0.9	Autosomal Recessive Polycystic Kidney Disease	OMIM:263200
+1	0.9	Zellweger Syndrome	OMIM:214100
+6	0.8	Alkaptonuria	OMIM:203500
+6	0.8	Aicardi Syndrome	OMIM:304050
+6	0.8	Aicardi-Goutieres Syndrome 4	OMIM:610333
+6	0.8	Aicardi-Goutieres Syndrome 5	OMIM:616126
+6	0.8	Alacrima, Achalasia, and Mental Retardation Syndrome	OMIM:615510
+6	0.8	Alkaptonuria, Domal	OMIM:203500
+6	0.8	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+6	0.8	Alpha-1-Antitrypsin Deficiency, Panniculitis-Induced	OMIM:265600
+6	0.8	Alpha-Thalassemia/Mental Retardation Syndrome	OMIM:141750
+6	0.8	Amaurosis Congenita, Cone-Rod Type, with Congenital Hypertrichosis	OMIM:204110

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis type IIIC	OMIM:252930
+2	0.8	Mucopolysaccharidosis type IVA	OMIM:253000
+3	0.7	Gaucher disease type 3C	OMIM:231005
+4	0.6	Mucopolysaccharidosis type VII	OMIM:253220
+5	0.5	Hurler syndrome	OMIM:607014
+6	0.4	Alpha-mannosidosis	OMIM:248500
+7	0.3	Bardet-Biedl syndrome 2	OMIM:615981
+8	0.2	Wilson-Turner syndrome	OMIM:309590
+9	0.1	Maple syrup urine disease, type II	OMIM:248600

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wiskott-Aldrich syndrome	OMIM:301000
+2	0.85	Gray platelet syndrome	OMIM:139090
+3	0.8	MYH9-related disorders	OMIM:160775
+4	0.75	Bernard-Soulier syndrome	OMIM:231200
+5	0.7	Glanzmann thrombasthenia	OMIM:273800
+5	0.7	Platelet-type bleeding disorder 19	OMIM:616176
+7	0.65	Alport syndrome	OMIM:301050
+8	0.6	Paris-Trousseau thrombocytopenia	OMIM:188025
+9	0.55	Scott syndrome	OMIM:262890
+10	0.5	Stickler syndrome	OMIM:108300
+11	0.45	Systemic lupus erythematosus	OMIM:152700
+12	0.4	Hereditary platelet disorders with nephritis	OMIM:609036
+13	0.35	Gardner-Diamond syndrome	OMIM:137000
+14	0.3	Fanconi anemia	OMIM:227650
+15	0.25	Congenital amegakaryocytic thrombocytopenia	OMIM:604498

@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Long QT syndrome 3	OMIM:603830
+2	0.8	Long QT syndrome 5	OMIM:613695
+3	0.7	Progressive familial heart block type Ib	OMIM:607554
+4	0.6	Left ventricular noncompaction 1	OMIM:604169

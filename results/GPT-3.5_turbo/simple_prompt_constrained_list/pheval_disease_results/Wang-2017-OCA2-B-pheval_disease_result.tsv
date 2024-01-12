@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Oculocutaneous Albinism, Type I	OMIM:203100
+2	0.8	Hermansky-Pudlak Syndrome 1	OMIM:203300
+3	0.7	Oculocutaneous Albinism, Type IV	OMIM:606574
+4	0.6	Oculocutaneous Albinism, Type II	OMIM:203200
+4	0.6	Oculocutaneous Albinism, Type III	OMIM:203290
+6	0.5	Hypopigmentation, Organomegaly, and Delayed Myelination and Development	OMIM:617510
+7	0.4	Silent Thyroiditis	OMIM:603499
+8	0.3	Amelogenesis Imperfecta, Hypomaturation Type, IIA7	OMIM:615887
+8	0.3	Chromosome 15q25 Deletion Syndrome	OMIM:616670
+10	0.2	Thyroid Cancer, Nonmedullary, 1	OMIM:188550
+10	0.2	Amelogenesis Imperfecta, Hypomaturation Type, IIA5	OMIM:614828
+12	0.1	Thyroid Carcinoma, Familial Medullary	OMIM:155240
+12	0.1	Van der Woude Syndrome 1	OMIM:119300
+14	0.0	Silver Syndrome	OMIM:125900
+14	0.0	Thyroid Neoplasm	OMIM:614266

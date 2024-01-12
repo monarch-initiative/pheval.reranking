@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Progeria	OMIM:176670
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Lipodystrophy, congenital generalized, type 1	OMIM:608594
+4	0.6	Friedreich ataxia	OMIM:229300
+5	0.54	Myotonic dystrophy type 1	OMIM:160900
+6	0.52	Myotonic dystrophy type 2	OMIM:602668
+7	0.5	ZMPSTE24 deficiency	OMIM:606480
+8	0.48	Nemaline myopathy 1	OMIM:161800
+9	0.46	Progeroid syndrome, neonatal	OMIM:264090
+10	0.44	Duchenne muscular dystrophy	OMIM:310200
+11	0.42	Becker muscular dystrophy	OMIM:300376
+12	0.4	Lipodystrophy, partial, acquired	OMIM:608709
+13	0.38	Myotonic dystrophy type 3	OMIM:606721
+14	0.36	Bruck syndrome 2	OMIM:609220
+15	0.34	Charcot-Marie-Tooth disease, type 2S	OMIM:616155

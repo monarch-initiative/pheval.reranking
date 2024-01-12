@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:613254
+2	0.8	Leber congenital amaurosis	OMIM:613454
+3	0.7	Retinitis pigmentosa 4	OMIM:267000
+4	0.6	Retinitis pigmentosa 27	OMIM:613750
+5	0.5	Retinitis pigmentosa 44	OMIM:616516
+6	0.4	Retinitis pigmentosa 61	OMIM:617527
+7	0.3	Retinitis pigmentosa 63	OMIM:617668
+8	0.2	Retinitis pigmentosa 72	OMIM:618089
+9	0.1	Retinitis pigmentosa 77	OMIM:618000

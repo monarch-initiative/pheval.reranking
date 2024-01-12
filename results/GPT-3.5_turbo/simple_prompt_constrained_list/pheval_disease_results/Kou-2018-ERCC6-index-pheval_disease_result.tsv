@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Intellectual disability	OMIM:615982
+2	0.93	Postnatal growth retardation	OMIM:608716
+3	0.9	Microcephaly	OMIM:613952
+4	0.88	Cerebellar hypoplasia	OMIM:616636
+5	0.85	Scoliosis	OMIM:181800
+6	0.82	High palate	OMIM:304120
+7	0.8	Sensorineural hearing impairment	OMIM:220200
+8	0.78	Microphthalmia	OMIM:309801
+9	0.75	Short stature	OMIM:260250
+10	0.73	Kyphosis	OMIM:148800
+11	0.7	Thickened calvaria	OMIM:156820
+12	0.68	Deeply set eye	OMIM:168400
+13	0.65	Convex nasal ridge	OMIM:101400
+14	0.6	Limb joint contracture	OMIM:108120
+15	0.58	Macrotia	OMIM:160780
+16	0.55	Large hands	OMIM:614954

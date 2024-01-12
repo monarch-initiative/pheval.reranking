@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis Imperfecta, Type II	OMIM:166210
+2	0.8	Osteogenesis Imperfecta, Type III	OMIM:259420
+3	0.7	Osteogenesis Imperfecta, Type IV	OMIM:166220
+4	0.6	Osteogenesis Imperfecta, Type I	OMIM:166200
+5	0.5	Osteogenesis Imperfecta, Type VI	OMIM:613982
+6	0.4	Osteogenesis Imperfecta, Type V	OMIM:610967
+7	0.3	Osteogenesis Imperfecta, Type VII	OMIM:610682
+8	0.2	Osteogenesis Imperfecta, Type VIII	OMIM:610915
+9	0.1	Osteogenesis Imperfecta, Type X	OMIM:613848
+10	0.05	Osteogenesis Imperfecta, Type IX	OMIM:259440

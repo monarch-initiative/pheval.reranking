@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.8	CHARGE Syndrome	OMIM:613254
+2	0.75	Coffin-Siris Syndrome	OMIM:614609
+3	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.65	Fragile X Syndrome	OMIM:300624
+5	0.6	Kleefstra Syndrome	OMIM:610253
+6	0.55	Chromosomal triplication	OMIM:614317
+7	0.5	Smith-Magenis Syndrome	OMIM:182290
+8	0.45	Cornelia de Lange Syndrome	OMIM:122470
+9	0.4	Wolfram Syndrome	OMIM:222300
+10	0.35	Niemann-Pick Disease Type C	OMIM:607625
+11	0.3	Kabuki Syndrome	OMIM:147920
+12	0.25	Angelman Syndrome	OMIM:105830
+13	0.2	Williams Syndrome	OMIM:194050
+14	0.15	Pitt-Hopkins Syndrome	OMIM:610954
+15	0.1	Prader-Willi Syndrome	OMIM:176270
+16	0.05	RENT Syndrome	OMIM:613698

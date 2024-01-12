@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.035	Gitelman syndrome	OMIM:263800
+2	0.03	Bartter syndrome	OMIM:607364
+2	0.03	Nephrogenic diabetes insipidus	OMIM:304800
+2	0.03	Hypercalcemia	OMIM:143880
+2	0.03	Hypocalcemia	OMIM:147800
+6	0.02	Gitelman-like syndrome	OMIM:617160
+6	0.02	Familial hyperkalemic hypertension	OMIM:145800
+6	0.02	Mineralocorticoid deficiency	OMIM:203400
+6	0.02	Rickets	OMIM:600081
+10	0.015	Bartter syndrome, type 4A	OMIM:602522
+11	0.01	Bartter syndrome, type 3	OMIM:607364
+11	0.01	Hypomagnesemia	OMIM:154020
+13	0.005	Cholestasis, benign recurrent intrahepatic	OMIM:243300
+14	0.004	Nephropathy with pretibial epidermolysis bullosa and deafness	OMIM:609057
+14	0.004	Pseudohypoaldosteronism, type IIE	OMIM:614491

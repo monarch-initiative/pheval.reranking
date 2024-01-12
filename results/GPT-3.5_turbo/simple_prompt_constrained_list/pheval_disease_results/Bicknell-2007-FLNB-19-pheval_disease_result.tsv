@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Multiple synostoses syndrome 1	OMIM: 613254
+2	0.65	Spondylocarpotarsal synostosis syndrome	OMIM: 441500
+3	0.6	Tibia, absent	OMIM: 275220
+4	0.55	Rothmund-Thomson syndrome type 1	OMIM: 268400
+5	0.5	Stickler syndrome type 1	OMIM: 108300
+6	0.45	Syndactyly type 3	OMIM: 186100
+7	0.4	Stickler syndrome type 2	OMIM: 604841
+8	0.35	Vertebral, cardiac, renal, and limb defects syndrome 1	OMIM: 617660
+9	0.3	Multiple synostoses syndrome 3	OMIM: 617560
+10	0.25	Acromesomelic dysplasia, Grebe type	OMIM: 200700
+11	0.2	Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome	OMIM: 617319
+12	0.15	Lethal restrictive dermopathy	OMIM: 275210
+13	0.1	Microphthalmia, syndromic 6	OMIM: 607932
+14	0.05	CAMFAK syndrome	OMIM: 607131
+15	0.0	Pulmonary hypertension, primary, 1	OMIM: 178600

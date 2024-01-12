@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Vitamin B12 Deficiency	OMIM:261100
+2	0.9	Anemia	OMIM:614141
+3	0.8	Proteinuria	OMIM:173600
+4	0.7	Anemia and Thrombocytopenia	OMIM:206100
+5	0.6	Macrocytic Anemia, Pernicious Anemia, and Diaphragmatic Hernia	OMIM:614741
+6	0.5	Anemia, X-Linked, with or without Neutropenia and/or Platelet Abnormalities	OMIM:300835
+7	0.4	Microcytic Anemia, Sideroblastic, 1	OMIM:206000
+8	0.3	Megaloblastic Anemia 1	OMIM:261100
+9	0.2	Microcytic Anemia	OMIM:155240
+10	0.1	Anemia, Sideroblastic, 3	OMIM:616860

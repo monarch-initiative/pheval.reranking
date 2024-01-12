@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spinocerebellar Ataxia	OMIM:613254
+2	0.91	Friedreich Ataxia	OMIM:229300
+3	0.9	Cerebellar Ataxia	OMIM:614466
+4	0.82	Autosomal Recessive Cerebellar Ataxia	OMIM:212700
+5	0.8	Autosomal Dominant Cerebellar Ataxia	OMIM:607136
+6	0.75	Cerebellar Atrophy	OMIM:212050
+7	0.74	Ataxia, Sensory, Autosomal Dominant	OMIM:609304
+8	0.72	Ataxia-Telangiectasia	OMIM:208900
+9	0.68	Hereditary Ataxia	OMIM:302400
+10	0.65	Ataxia-Oculomotor Apraxia 1	OMIM:208920
+11	0.63	Hereditary Cerebellar Ataxia	OMIM:607250
+12	0.6	Late-Onset Friedreich Ataxia	OMIM:613629
+13	0.58	Spastic Ataxia-Neuropathy Syndrome	OMIM:614399
+14	0.56	Familial Spastic Paraplegia	OMIM:182350
+15	0.53	White-Sutton Syndrome	OMIM:616364
+16	0.51	Cutis Laxa with Severe Pulmonary, Gastrointestinal, and Urinary Anomalies	OMIM:616603

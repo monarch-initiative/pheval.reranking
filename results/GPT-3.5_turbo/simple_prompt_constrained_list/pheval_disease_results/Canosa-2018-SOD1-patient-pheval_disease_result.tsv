@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:607459
+2	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+3	0.7	Familial dysautonomia	OMIM:223900
+4	0.6	Spinal muscular atrophy with respiratory distress type 1	OMIM:604320
+5	0.5	Spinal muscular atrophy with respiratory distress type 2	OMIM:611423
+6	0.4	Spinal muscular atrophy with respiratory distress type 3	OMIM:613616
+7	0.3	Spinal muscular atrophy with congenital bone fractures type 1	OMIM:616866
+8	0.2	Spinal muscular atrophy with congenital bone fractures type 2	OMIM:616867
+9	0.1	Spinal muscular atrophy with congenital bone fractures type 3	OMIM:616868
+9	0.1	Progressive bulbar palsy	OMIM:602099

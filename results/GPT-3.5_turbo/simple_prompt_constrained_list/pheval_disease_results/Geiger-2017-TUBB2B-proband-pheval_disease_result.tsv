@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Lissencephaly	OMIM:607432
+1	1.0	Cerebral Palsy	OMIM:603513
+1	1.0	Cognitve Impairment	OMIM:614753
+1	1.0	Cerebellar Dysplasia	OMIM:613384
+1	1.0	Cerebellar Hypoplasia	OMIM:607051
+1	1.0	Cerebral Cortical Atrophy	OMIM:610038
+1	1.0	Posterior Rett Syndrome	OMIM:312750
+1	1.0	Myoclonus	OMIM:607643
+1	1.0	Torticollis	OMIM:188900
+1	1.0	Pachygyria	OMIM:603030
+1	1.0	Generalized Tonic-Clonic Seizures	OMIM:613950
+1	1.0	Motor Delay	OMIM:600596
+1	1.0	Hyperreflexia	OMIM:614643
+1	1.0	Attention Deficit/Hyperactivity Disorder	OMIM:143465
+1	1.0	Genu Valgum	OMIM:137000
+16	0.9	Cerebellar Vermis Atrophy	OMIM:251200

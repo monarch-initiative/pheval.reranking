@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8333333333333334	Craniofacial-deafness-hand syndrome	OMIM:122472
+1	0.8333333333333334	Congenital muscular dystrophy with cerebellar involvement	OMIM:617518
+1	0.8333333333333334	Cole-Carpenter syndrome	OMIM:112240
+1	0.8333333333333334	Brachydactyly type A4	OMIM:112100
+5	0.8	Achondrogenesis type 1B	OMIM:600972
+5	0.8	Hypophosphatasia	OMIM:241500
+5	0.8	Osteogenesis imperfecta type II	OMIM:166210
+5	0.8	Mucopolysaccharidosis type IIIB	OMIM:252920
+5	0.8	Limb-girdle muscular dystrophy, type 2M	OMIM:608423
+5	0.8	Lissencephaly 1	OMIM:607432
+5	0.8	Johanson-Blizzard syndrome	OMIM:243800
+5	0.8	Focal facial dermal dysplasia type III	OMIM:227260
+5	0.8	Free sialic acid storage disorders	OMIM:604369
+5	0.8	Ehlers-Danlos syndrome, autosomal recessive, cardiac valvular form	OMIM:225320
+5	0.8	Ehlers-Danlos syndrome, autosomal recessive, dermatosparaxis type	OMIM:225410

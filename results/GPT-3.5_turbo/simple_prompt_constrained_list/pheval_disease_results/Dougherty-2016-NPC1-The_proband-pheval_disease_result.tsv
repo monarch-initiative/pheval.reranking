@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.96875	Creutzfeldt-Jakob Disease	OMIM:123400
+1	0.96875	Alzheimer Disease	OMIM:104300
+1	0.96875	Pick Disease of the Brain	OMIM:172700
+1	0.96875	Huntington Disease	OMIM:143100
+1	0.96875	Creutzfeldt-Jakob Disease, Genetic Prion Disease	OMIM:137440
+1	0.96875	Familial Alzheimer Disease	OMIM:104311
+1	0.96875	Gerstmann-Straussler Disease	OMIM:137440
+1	0.96875	Huntington Disease-Like Syndrome	OMIM:603218
+9	0.796875	Familial British Dementia	OMIM:176500
+9	0.796875	Prion Disease	OMIM:603218
+9	0.796875	Frontotemporal Dementia and/or Amyotrophic Lateral Sclerosis 1	OMIM:105550
+12	0.75	Machado-Joseph Disease	OMIM:109150
+12	0.75	Dementia, Familial British	OMIM:176500
+12	0.75	Familial British and Danish Cerebral Amyloid Angiopathy	OMIM:105150
+12	0.75	Dementia, Familial Danish	OMIM:125400

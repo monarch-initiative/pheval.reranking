@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Obesity	OMIM:601665
+2	0.75	Strabismus	OMIM:185100
+3	0.6	Hypogonadism	OMIM:307080
+4	0.4	Optic disc pallor	OMIM:165500
+5	0.3	Nyctalopia	OMIM:310500
+6	0.2	Reduced visual acuity	OMIM:611286

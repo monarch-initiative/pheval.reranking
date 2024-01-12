@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypospadias	OMIM:300633
+2	0.9	2-3 toe syndactyly	OMIM:186100
+3	0.8	Micropenis	OMIM:300962
+4	0.7	Ambiguous genitalia	OMIM:617473
+5	0.6	Bifid scrotum	OMIM:618028
+6	0.5	Short nose	OMIM:163200
+7	0.4	Low-set ears	OMIM:614800
+8	0.3	Atopic dermatitis	OMIM:603165
+9	0.2	Elevated 8-dehydrocholesterol	OMIM:270400
+9	0.2	Elevated 7-dehydrocholesterol	OMIM:270400
+11	0.1	Hypocholesterolemia	OMIM:603813
+11	0.1	Abnormal serum testosterone level	OMIM:300993
+11	0.1	Decreased testicular size	OMIM:241100

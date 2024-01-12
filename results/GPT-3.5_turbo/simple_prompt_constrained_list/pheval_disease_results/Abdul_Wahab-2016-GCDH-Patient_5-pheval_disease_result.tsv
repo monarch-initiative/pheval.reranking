@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Dystonia	OMIM:128100
+2	0.91	Cerebral Palsy	OMIM:603513
+3	0.9	Macrocephaly	OMIM:614156
+4	0.89	Subdural Hematoma	OMIM:617381
+5	0.86	Glutaric Acidemia Type I	OMIM:231670
+6	0.85	Glutaric Acidemia Type II	OMIM:231680
+7	0.84	Glutaric Acidemia Type III	OMIM:231690
+8	0.83	Glutaric Acidemia Type IV	OMIM:231710
+9	0.82	Glutaric Acidemia Type V	OMIM:231730
+10	0.81	Glutaric Acidemia Type VI	OMIM:231740
+11	0.8	Glutaric Acidemia Type VII	OMIM:231780
+12	0.79	Glutaric Acidemia Type VIII	OMIM:231800
+13	0.78	Glutaric Acidemia Type IX	OMIM:231900
+14	0.77	Glutaric Acidemia Type X	OMIM:232100
+15	0.76	Glutaric Acidemia Type XI	OMIM:232200
+16	0.75	Glutaric Acidemia Type XII	OMIM:232300

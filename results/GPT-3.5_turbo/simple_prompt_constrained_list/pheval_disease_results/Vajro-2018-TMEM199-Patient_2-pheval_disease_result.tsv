@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Wilson disease	OMIM:277900
+2	0.9	Familial hypercholesterolemia	OMIM:143890
+3	0.8	Cirrhosis	OMIM:215600
+4	0.7	Alpha-1-antitrypsin deficiency	OMIM:613490
+5	0.6	Alagille syndrome	OMIM:118450
+6	0.5	Congenital disorder of glycosylation, type Ia	OMIM:212065
+7	0.4	Alcoholic liver disease	OMIM:103730
+8	0.3	Abetalipoproteinemia	OMIM:200100
+9	0.2	Gaucher disease	OMIM:230800
+10	0.1	Nonalcoholic fatty liver disease	OMIM:610130

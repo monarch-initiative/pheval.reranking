@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolytic hyperkeratosis	OMIM:144200
+2	0.8	Palmoplantar keratoderma	OMIM:148600
+3	0.7	Epidermolytic palmoplantar keratoderma	OMIM:607259
+4	0.6	Vohwinkel syndrome	OMIM:124500
+5	0.5	Congenital stenosis of cervical medullary canal	OMIM:145640
+6	0.4	Keratosis, palmoplantar	OMIM:148600
+7	0.3	Congenital vertical talus	OMIM:192950
+8	0.2	Palmoplantar keratoderma, nonepidermolytic	OMIM:245200
+9	0.1	Diffuse palmoplantar keratoderma	OMIM:148600

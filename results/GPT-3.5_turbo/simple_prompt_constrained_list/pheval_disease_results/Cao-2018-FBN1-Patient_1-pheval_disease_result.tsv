@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan syndrome	OMIM:154700
+2	0.82	Loeys-Dietz syndrome	OMIM:609192
+3	0.75	Ehlers-Danlos syndrome	OMIM:130000
+4	0.7	Stickler syndrome	OMIM:108300
+5	0.65	Homocystinuria	OMIM:236200
+6	0.63	Beals syndrome	OMIM:121050
+6	0.63	Congenital contractural arachnodactyly	OMIM:121050
+8	0.6	Autosomal dominant non-syndromic intellectual disability	OMIM:614104
+9	0.58	Weill-Marchesani syndrome	OMIM:608328
+10	0.55	Lujan-Fryns syndrome	OMIM:309520
+11	0.53	Acromicric dysplasia	OMIM:102370
+12	0.52	Stickler syndrome type 1	OMIM:108300
+13	0.5	Arthrogryposis, distal, type 2B	OMIM:601680
+14	0.47	East syndrome	OMIM:617186
+15	0.45	Fragile X syndrome	OMIM:300624
+16	0.43	Cole-Carpenter syndrome	OMIM:112240

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+2	0.85	Kabuki syndrome	OMIM:147920
+3	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.75	Neurofibromatosis type 1	OMIM:162200
+5	0.7	Neurofibromatosis type 2	OMIM:101000
+6	0.65	CHARGE syndrome	OMIM:214800
+7	0.6	Cornelia de Lange syndrome	OMIM:122470
+8	0.55	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.5	Sotos syndrome	OMIM:117550
+10	0.45	Lujan-Fryns syndrome	OMIM:309520
+11	0.4	Alagille syndrome	OMIM:118450
+12	0.35	Coffin-Siris syndrome	OMIM:135900
+13	0.3	Costello syndrome	OMIM:218040
+14	0.25	Fanconi anemia	OMIM:227650
+15	0.2	PTEN hamartoma tumor syndrome	OMIM:158350
+16	0.15	Familial adenomatous polyposis	OMIM:175100

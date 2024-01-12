@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Amelogenesis imperfecta	OMIM:104510
+2	0.975	Microdontia	OMIM:109300
+3	0.925	Tooth agenesis	OMIM:189500
+4	0.875	Dentinogenesis imperfecta	OMIM:125490
+5	0.85	Root resorption	OMIM:180620
+6	0.825	Enamel hypoplasia	OMIM:217080
+7	0.8	Tartaric aciduria	OMIM:249750
+8	0.775	Odontoma	OMIM:259300
+9	0.75	Hyperplasia of mandibular coronoid process	OMIM:300668
+10	0.725	Non-syndromic orofacial cleft	OMIM:600625
+11	0.7	Hypoglycemia	OMIM:240800
+12	0.675	Macrocephaly	OMIM:605309
+13	0.65	Oral cleft	OMIM:119530
+14	0.625	Dysostosis	OMIM:114300
+15	0.6	Short stature	OMIM:100000

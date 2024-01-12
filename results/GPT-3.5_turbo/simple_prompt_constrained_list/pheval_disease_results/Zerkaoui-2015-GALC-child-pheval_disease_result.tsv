@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sepsis	OMIM:613254
+2	0.85	Infection	OMIM:613990
+3	0.8	Meningitis	OMIM:144200
+4	0.75	Encephalopathy	OMIM:605282
+5	0.7	Hypotonia	OMIM:614104
+6	0.65	Viral Infection	OMIM:616840
+7	0.6	Pneumonia	OMIM:601553
+8	0.55	Acute Respiratory Distress Syndrome	OMIM:617232
+9	0.5	Neurological Disorder	OMIM:230740
+10	0.45	Cerebral Palsy	OMIM:616516
+11	0.4	Bronchiolitis	OMIM:609053
+12	0.35	Viral Gastroenteritis	OMIM:614833
+13	0.3	Encephalitis	OMIM:300867
+14	0.25	Viral Meningitis	OMIM:616868
+15	0.2	West Nile Fever	OMIM:242840
+16	0.15	Influenza	OMIM:605130

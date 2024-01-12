@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Seizures	OMIM:613254
+2	0.987	Recurrent infections	OMIM:613990
+3	0.972	Generalized hypotonia	OMIM:609284
+4	0.965	No social interaction	OMIM:604187
+5	0.958	Poor eye contact	OMIM:600974
+6	0.952	Autistic behavior	OMIM:605282
+7	0.939	Hypertelorism	OMIM:306955
+8	0.934	Elbow hypertrichosis	OMIM:252500
+9	0.93	Triangular face	OMIM:609053
+10	0.924	Strabismus	OMIM:270400
+11	0.92	Macrodontia	OMIM:166000
+12	0.916	Cleft palate	OMIM:119530
+13	0.912	Sleep disturbance	OMIM:612952
+14	0.909	Muscular hypotonia	OMIM:311200
+15	0.906	Joint laxity	OMIM:208900
+16	0.903	Long eyelashes	OMIM:601756

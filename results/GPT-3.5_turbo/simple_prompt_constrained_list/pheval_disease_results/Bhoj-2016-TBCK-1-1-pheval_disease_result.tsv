@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Bardet-Biedl Syndrome	OMIM:209900
+2	0.7	Mainzer-Saldino Syndrome	OMIM:266920
+2	0.7	Meckel Syndrome	OMIM:249000
+4	0.6	Senior-Loken Syndrome	OMIM:266900
+4	0.6	Snijders Blok-Campeau Syndrome	OMIM:618090
+4	0.6	Joubert Syndrome	OMIM:213300
+4	0.6	Short-Rib Thoracic Dysplasia	OMIM:613091
+8	0.5	Mowat-Wilson Syndrome	OMIM:235730
+8	0.5	Coffin-Siris Syndrome	OMIM:135900
+8	0.5	Baraitser-Winter Syndrome	OMIM:243310
+8	0.5	CHARGE Syndrome	OMIM:214800
+8	0.5	Linear Nevus Sebaceous Syndrome	OMIM:304600
+8	0.5	Galloway-Mowat Syndrome	OMIM:251300
+8	0.5	Cerebrorenodigital Syndrome	OMIM:605309
+8	0.5	Nephronophthisis 1	OMIM:256100
+8	0.5	Trafanebola	OMIM:243310

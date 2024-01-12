@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Hypochondroplasia	OMIM:146000
+2	0.92	Cockayne syndrome A	OMIM:216400
+3	0.91	Van der Woude syndrome 1	OMIM:119300
+4	0.88	Short stature, idiopathic, autosomal	OMIM:601666
+5	0.87	Mirage syndrome	OMIM:617053
+6	0.86	Adrenoleukodystrophy	OMIM:300100
+7	0.85	Progressive myoclonus epilepsy 1A	OMIM:254800
+8	0.84	Acrofrontofacionasal dysostosis type 1	OMIM:201180
+9	0.83	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	OMIM:258860
+10	0.81	Craniofacial dumbbell tumors	OMIM:611559
+11	0.78	Dyskinesia, familial, with facial myokymia	OMIM:606703
+12	0.77	Congenital disorder of glycosylation type 1B	OMIM:607143
+13	0.76	Fanconi renotubular syndrome 3	OMIM:617709
+14	0.74	Mental retardation, autosomal dominant 11	OMIM:614257
+15	0.73	Intellectual developmental disorder with short stature and variable skeletal anomalies	OMIM:618540

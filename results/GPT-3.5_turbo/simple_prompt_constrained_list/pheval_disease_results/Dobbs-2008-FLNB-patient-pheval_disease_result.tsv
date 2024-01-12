@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Pierre Robin Sequence	OMIM:261100
+2	0.6	Stickler Syndrome	OMIM:108300
+3	0.5	Arthrogryposis Multiplex Congenita	OMIM:108120
+4	0.4	Mowat-Wilson Syndrome	OMIM:235730
+4	0.4	Cri-du-chat Syndrome	OMIM:123450
+6	0.3	Craniofacial-deafness-hand Syndrome	OMIM:122880
+6	0.3	Townes-Brocks Syndrome	OMIM:107480
+8	0.2	Cornelia de Lange Syndrome	OMIM:122470
+8	0.2	Roberts Syndrome	OMIM:268300
+10	0.1	Seckel Syndrome	OMIM:210600
+10	0.1	Fanconi Anemia	OMIM:227650
+10	0.1	Russell-Silver Syndrome	OMIM:180860
+10	0.1	Atelosteogenesis Type II	OMIM:256050

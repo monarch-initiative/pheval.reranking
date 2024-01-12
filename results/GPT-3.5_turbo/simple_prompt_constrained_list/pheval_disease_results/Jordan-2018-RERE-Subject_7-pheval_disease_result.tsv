@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Gray matter heterotopia	OMIM:601583
+2	0.98	Wide intermamillary distance	OMIM:314900
+3	0.96	Coloboma	OMIM:120200
+4	0.94	Iris coloboma	OMIM:147600
+5	0.92	Microtia	OMIM:164210
+6	0.9	Ventricular septal defect	OMIM:115200
+7	0.88	Infantile axial hypotonia	OMIM:618468
+8	0.86	Low-set ears	OMIM:610759
+9	0.84	Optic nerve hypoplasia	OMIM:165550
+10	0.82	Cyanosis	OMIM:613038
+11	0.8	Atrial septal defect	OMIM:607941
+12	0.78	Ptosis	OMIM:100050
+13	0.76	Hypospadias	OMIM:300633
+14	0.74	Congestive heart failure	OMIM:603547
+15	0.72	Pulmonary edema	OMIM:600286
+16	0.7	Patent foramen ovale	OMIM:617033

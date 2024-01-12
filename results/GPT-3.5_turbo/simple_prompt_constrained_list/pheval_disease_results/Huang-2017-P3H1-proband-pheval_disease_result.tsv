@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Metaphyseal chondrodysplasia, Jansen type	OMIM:156400
+2	0.75	Osteoglophonic dysplasia	OMIM:166250
+3	0.7	Polydactyly, postaxial, types A1 and B	OMIM:174200
+3	0.7	Citrullinemia, type II	OMIM:605814
+5	0.65	Isobutyryl-CoA dehydrogenase deficiency	OMIM:611283
+6	0.6	Alkaptonuria	OMIM:203500
+6	0.6	Campomelic dysplasia	OMIM:114290
+8	0.55	Diastrophic dysplasia	OMIM:222600
+9	0.5	Robertsonian translocation	OMIM:180700
+9	0.5	Hanhart syndrome	OMIM:144300
+11	0.45	Smith-Magenis syndrome	OMIM:182290
+12	0.4	Hypothyroidism, congenital, Nongoitrous, 7	OMIM:618421
+12	0.4	Stickler syndrome	OMIM:609508
+14	0.35	Mowat-Wilson syndrome	OMIM:235730
+14	0.35	Mental retardation, autosomal dominant 19	OMIM:615075

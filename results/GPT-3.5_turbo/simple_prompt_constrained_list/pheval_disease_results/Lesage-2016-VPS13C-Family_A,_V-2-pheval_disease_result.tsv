@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease	OMIM:168600
+2	0.8	Alzheimer disease	OMIM:104300
+3	0.7	Frontotemporal dementia	OMIM:600274
+4	0.6	Multiple system atrophy	OMIM:146500
+5	0.5	Progressive supranuclear palsy	OMIM:601104
+6	0.4	Lewy body dementia	OMIM:127750
+7	0.3	Huntington disease	OMIM:143100
+7	0.3	Corticobasal degeneration	OMIM:601104
+9	0.2	Creutzfeldt-Jakob disease	OMIM:123400
+10	0.1	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.1	Pick disease	OMIM:172700
+10	0.1	Neuroacanthocytosis	OMIM:257400
+10	0.1	Prion disease	OMIM:176640
+10	0.1	Kufor-Rakeb syndrome	OMIM:606693
+10	0.1	Hallervorden-Spatz disease	OMIM:234200

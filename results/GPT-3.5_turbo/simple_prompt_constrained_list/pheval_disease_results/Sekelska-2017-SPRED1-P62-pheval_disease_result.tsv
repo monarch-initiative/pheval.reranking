@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Neurofibromatosis, type II	OMIM:101200
+1	1.0	Neurofibromatosis, type I	OMIM:162200
+3	0.95	RAS-associated autoimmune leukoproliferative disorder	OMIM:614470
+3	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.95	Noonan syndrome with multiple lentigines	OMIM:151100
+3	0.95	RASopathy	OMIM:266030
+3	0.95	Neurofibromatosis	OMIM:162200
+3	0.95	Neurofibromatosis-Noonan syndrome	OMIM:601321
+3	0.95	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.95	Neurofibromatosis-Noonan syndrome-like	OMIM:601321
+11	0.9	PTEN Hamartoma Tumor Syndrome	OMIM:153480
+11	0.9	Neurofibromatosis, Type 1 Like Syndrome	OMIM:613675
+11	0.9	Macrocephaly-autism syndrome	OMIM:605309
+11	0.9	Coffin-Siris syndrome 1	OMIM:135900
+11	0.9	Costello syndrome	OMIM:218040
+11	0.9	Pediatric autoimmune neuropsychiatric disorders associated with Streptococcus infections	OMIM:258860

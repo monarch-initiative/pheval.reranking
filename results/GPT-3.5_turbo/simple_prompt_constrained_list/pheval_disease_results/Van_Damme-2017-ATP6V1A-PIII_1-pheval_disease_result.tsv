@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome type 4	OMIM:130050
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Familial thoracic aortic aneurysm and dissection	OMIM:607086
+4	0.6	Autosomal recessive cutis laxa type IIA	OMIM:219200
+5	0.5	Loeys-Dietz syndrome type 1B	OMIM:610168
+6	0.4	Autosomal dominant cutis laxa	OMIM:123700
+7	0.3	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.2	Cardiofaciocutaneous syndrome	OMIM:115150
+9	0.1	Ehlers-Danlos syndrome, classic type	OMIM:130000

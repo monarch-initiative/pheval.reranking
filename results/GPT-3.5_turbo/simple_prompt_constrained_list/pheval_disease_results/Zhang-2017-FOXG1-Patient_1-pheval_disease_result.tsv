@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.92	Angelman syndrome	OMIM:105830
+3	0.91	Pitt-Hopkins syndrome	OMIM:610954
+4	0.89	Phelan-McDermid syndrome	OMIM:606232
+5	0.88	Smith-Magenis syndrome	OMIM:182290
+6	0.87	FOXG1 syndrome	OMIM:613454
+7	0.85	Kleefstra syndrome	OMIM:610253
+8	0.84	Pallister-Killian syndrome	OMIM:601803
+9	0.82	Epilepsy, Infantile spasms	OMIM:308350
+10	0.8	Phosphoglycerate dehydrogenase deficiency	OMIM:601815
+11	0.78	1p36 deletion syndrome	OMIM:607872
+12	0.75	GLUT1 deficiency syndrome	OMIM:606777
+13	0.73	DEE with migrating focal seizures	OMIM:617106
+14	0.72	Schinzel-Giedion syndrome	OMIM:269150
+15	0.7	Mowat-Wilson syndrome	OMIM:235730

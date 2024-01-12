@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	17q21.31 microdeletion syndrome	OMIM:613254
+2	0.92	Noonan syndrome	OMIM:163950
+3	0.89	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.85	Dandy-Walker malformation with intellectual disability, basal ganglia disease, and seizures	OMIM:617552
+5	0.82	Metatropic dysplasia	OMIM:156530
+6	0.8	Pfeiffer syndrome	OMIM:101600
+7	0.78	Gorlin syndrome	OMIM:109400
+8	0.75	Trisomy 15q26-qter	OMIM:613308
+9	0.73	Saethre-Chotzen syndrome 1	OMIM:101400
+10	0.7	Adams-Oliver syndrome 1	OMIM:100300
+11	0.68	RASopathies	OMIM:164758
+12	0.65	Floating-Harbor syndrome	OMIM:136140
+13	0.62	Orofaciodigital syndrome	OMIM:258860
+14	0.6	Galloway-Mowat syndrome	OMIM:251300
+15	0.58	Rubinstein-Taybi syndrome 1	OMIM:180849

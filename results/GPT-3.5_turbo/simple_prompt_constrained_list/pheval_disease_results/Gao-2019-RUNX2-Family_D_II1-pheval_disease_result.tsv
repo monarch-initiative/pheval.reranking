@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Osteoporosis-pseudoglioma syndrome	OMIM:259770
+2	0.947	Cleidocranial dysplasia	OMIM:119600
+3	0.931	Aarskog-Scott syndrome	OMIM:305400
+4	0.922	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+5	0.915	Osteogenesis imperfecta type IV	OMIM:166220
+6	0.909	Fibrochondrogenesis 1	OMIM:228520
+7	0.862	Coffin-Siris syndrome	OMIM:135900
+8	0.845	Hajdu-Cheney syndrome	OMIM:102500
+9	0.816	3M syndrome 1	OMIM:273750
+10	0.812	Achondroplasia	OMIM:100800
+11	0.789	Morquio syndrome	OMIM:253000
+12	0.784	Hypophosphatasia	OMIM:241500
+13	0.765	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+14	0.741	Hajdu-Cheney syndrome	OMIM:102500
+15	0.736	Osteogenesis imperfecta type III	OMIM:259420

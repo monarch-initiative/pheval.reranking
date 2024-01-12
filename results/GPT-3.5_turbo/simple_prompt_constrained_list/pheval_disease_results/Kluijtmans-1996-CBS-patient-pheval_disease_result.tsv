@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan syndrome	OMIM:154700
+1	1.0	Weill-Marchesani syndrome	OMIM:277600
+1	1.0	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+4	0.9	Acromicric dysplasia	OMIM:102370
+4	0.9	FBN1-related disorders	OMIM:134797
+4	0.9	Weill-Marchesani-like syndrome	OMIM:613195
+4	0.9	Geleophysic dysplasia	OMIM:231050
+4	0.9	Loeys-Dietz syndrome	OMIM:609192
+4	0.9	Congenital contractural arachnodactyly	OMIM:121050
+4	0.9	Ehlers-Danlos syndrome, type IX	OMIM:601776
+4	0.9	Weill-Marchesani syndrome 2	OMIM:608328
+4	0.9	Acromicric dysplasia, type 1	OMIM:102370
+13	0.8	Ectopia lentis et pupillae	OMIM:225200
+13	0.8	Marfanoid habitus with development delay, macrocephaly, and ectopia lentis	OMIM:618065
+13	0.8	Acromicric dysplasia, type 2	OMIM:614832

@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galactosemia	OMIM:230400
+2	0.8	Jaundice	OMIM:237500
+3	0.7	Developmental Delay	OMIM:612248
+4	0.6	Feeding Difficulties	OMIM:614736
+5	0.5	Generalized Epilepsy	OMIM:125640
+6	0.4	Vomiting	OMIM:152750
+7	0.3	Hypotonia	OMIM:209900

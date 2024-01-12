@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Otitis media	OMIM:166760
+2	0.8	Pneumonia	OMIM:611759
+3	0.7	Recurrent infections	OMIM:614069
+4	0.6	Left ventricular hypertrophy	OMIM:160300
+5	0.5	Enlarged kidney	OMIM:613095
+6	0.4	Rectal prolapse	OMIM:266600
+7	0.3	Global developmental delay	OMIM:616081
+8	0.2	Hypoglycemia	OMIM:240750
+9	0.1	Hyperinsulinemia	OMIM:114850
+10	0.0	Abdominal distention	OMIM:300973

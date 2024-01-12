@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Leigh syndrome with nephrotic syndrome	OMIM:613454
+2	0.9	Pontocerebellar hypoplasia type 6	OMIM:617560
+2	0.9	Seckel syndrome 1	OMIM:607286
+4	0.8	Microcephaly 1 primary autosomal recessive	OMIM:251200
+4	0.8	COACH syndrome	OMIM:216360
+4	0.8	Cerebrofaciothoracic dysplasia	OMIM:616912
+7	0.7	Epileptic encephalopathy, early infantile, 6	OMIM:607208
+7	0.7	Joubert syndrome 2	OMIM:608091
+7	0.7	Microcephaly, epilepsy, and diabetes syndrome	OMIM:614231
+7	0.7	Angelman syndrome	OMIM:105830
+7	0.7	Cerebrooculofacioskeletal syndrome 1	OMIM:214150
+12	0.6	Leukodystrophy, hypomyelinating, 12	OMIM:616683
+12	0.6	GLUT1 deficiency syndrome 1	OMIM:606777
+12	0.6	Rett syndrome	OMIM:312750
+12	0.6	Pierre Robin sequence with pectus excavatum and rib and scapular anomalies	OMIM:617433

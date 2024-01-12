@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson Disease 4, Autosomal Dominant	OMIM:605282
+2	0.8	Dystonia 5, Dopa-Responsive Type	OMIM:612164
+3	0.7	Hirschsprung Disease 1	OMIM:142623
+4	0.6	Wilson Disease	OMIM:277900
+5	0.5	Spinal Bulbar Muscular Atrophy, X-Linked 1	OMIM:313200
+6	0.4	Huntington Disease	OMIM:143100
+7	0.3	Spinocerebellar Ataxia 2	OMIM:183090
+8	0.2	Spinocerebellar Ataxia 1	OMIM:164400
+9	0.1	Pontocerebellar Hypoplasia, Type 2A	OMIM:277470

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Albinism, oculocutaneous, type IV	OMIM:606574
+2	0.9	Alopecia	OMIM:301040
+2	0.9	Cocoon syndrome	OMIM:609238
+4	0.8	Breast cancer	OMIM:114480
+4	0.8	Lung cancer	OMIM:211980
+6	0.7	Immunodeficiency, common variable, 5	OMIM:613495
+6	0.7	Laryngeal dystonia	OMIM:608628
+8	0.6	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+8	0.6	Familial colorectal cancer with osteomalacia	OMIM:612242
+8	0.6	Gorlin syndrome	OMIM:109400
+8	0.6	Hematologic cancer	OMIM:614286
+8	0.6	Interferon, alpha, receptor 2 deficiency	OMIM:614899
+13	0.5	Erythrokeratodermia variabilis et progressiva 3	OMIM:617527
+13	0.5	Segmental outgrowth-lipomatosis-arteriovenous malformation-epidermal nevus syndrome	OMIM:163200
+15	0.4	Crouzon syndrome with acanthosis nigricans	OMIM:612247

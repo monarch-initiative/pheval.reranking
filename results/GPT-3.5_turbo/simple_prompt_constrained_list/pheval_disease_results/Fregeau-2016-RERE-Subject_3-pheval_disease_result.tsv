@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Coffin-Siris Syndrome	OMIM:135900
+2	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.78	Kabuki Syndrome 1	OMIM:147920
+4	0.76	Sotos Syndrome 1	OMIM:117550
+5	0.75	Trichorhinophalangeal Syndrome Type I	OMIM:190350
+6	0.74	Simpson-Golabi-Behmel Syndrome, Type 1	OMIM:312870
+7	0.73	Craniofrontonasal Dysplasia	OMIM:304110
+8	0.72	Marfan Syndrome	OMIM:154700
+9	0.71	Floating-Harbor Syndrome	OMIM:136140
+10	0.7	Kleefstra Syndrome 1	OMIM:610253
+11	0.69	Cornelia De Lange Syndrome 1	OMIM:122470
+12	0.68	Weaver Syndrome	OMIM:277590
+13	0.67	Kabuki Syndrome 2	OMIM:300867
+14	0.66	Smith-Magenis Syndrome	OMIM:182290
+15	0.65	Cornelia De Lange Syndrome 2	OMIM:300590

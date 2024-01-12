@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.98	Mitochondrial Complex IV Deficiency	OMIM:220110
+3	0.97	Pyruvate Metabolism Disorder	OMIM:266150
+4	0.96	Mitochondrial DNA Depletion Syndrome	OMIM:603041
+5	0.95	Cytochrome C Oxidase Deficiency	OMIM:220110
+6	0.94	Mitochondrial Encephalomyopathy with Lactic Acidosis and Stroke-like Episodes	OMIM:540000
+7	0.89	Lactic Acidosis	OMIM:245349
+8	0.87	Mitochondrial Complex V Deficiency	OMIM:604273
+9	0.86	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+10	0.85	Ethylmalonic Encephalopathy	OMIM:602473
+11	0.84	Congenital Lactic Acidosis	OMIM:614462
+12	0.81	Propionic Acidemia	OMIM:606054
+13	0.8	Lactic Acidemia Due to Pyruvate Carboxylase Deficiency	OMIM:266150
+14	0.78	Glycogen Storage Disease Due to Phosphoglycerate Mutase Deficiency	OMIM:263550
+15	0.76	L-2-Hydroxyglutaric Aciduria	OMIM:236792

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hemochromatosis	OMIM:235200
+2	0.9	Wilson disease	OMIM:277900
+3	0.8	Mitochondrial membrane protein-associated neurodegeneration	OMIM:618473
+4	0.7	Cerebrotendinous xanthomatosis	OMIM:213700
+5	0.6	Hyperferritinemia with or without cataract	OMIM:600886
+6	0.5	Familial hemophagocytic lymphohistiocytosis	OMIM:267700
+7	0.4	Porphyria cutanea tarda	OMIM:176100
+8	0.3	Familial hyperlipoproteinemia	OMIM:144250
+9	0.2	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+10	0.1	Amyotrophic lateral sclerosis type 4	OMIM:614808

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	4.0	Anemia, macrocytic, and choroidoretinopathy	OMIM:617560
+2	2.0	Neutropenia, severe congenital 1, autosomal recessive	OMIM:202700
+2	2.0	Platelet disorder, familial, with associated myeloid malignancy	OMIM:617441
+4	1.0	Microcephaly, cortical malformation, and intellectual disability	OMIM:617792
+4	1.0	Leukocyte adhesion deficiency, type I	OMIM:116920
+4	1.0	Charcot-Marie-Tooth disease, axonal, type 2I	OMIM:607677
+4	1.0	Oculocutaneous albinism, type IA	OMIM:203100
+4	1.0	Paroxysmal nocturnal hemoglobinuria 3	OMIM:614959
+4	1.0	Leukemia, acute lymphoblastic 3	OMIM:618242
+4	1.0	Hemochromatosis, type 2A	OMIM:602390
+4	1.0	Fanconi anemia, complementation group F	OMIM:603467
+4	1.0	Schwannomatosis 2	OMIM:615670
+4	1.0	Severe combined immunodeficiency, X-linked	OMIM:300400
+4	1.0	Intellectual developmental disorder with cardiac arrhythmia	OMIM:617173
+4	1.0	Mietens syndrome	OMIM:275000

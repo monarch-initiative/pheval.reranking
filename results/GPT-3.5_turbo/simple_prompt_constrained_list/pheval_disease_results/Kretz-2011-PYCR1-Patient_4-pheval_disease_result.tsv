@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cutis Laxa	OMIM:219100
+1	1.0	Ehlers-Danlos Syndrome	OMIM:130000
+1	1.0	Marfan Syndrome	OMIM:154700
+4	0.95	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.95	Loeys-Dietz Syndrome	OMIM:609192
+4	0.95	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.95	Bruck Syndrome	OMIM:609220
+8	0.9	Osteogenesis Imperfecta Type 1	OMIM:166200
+8	0.9	Weill-Marchesani Syndrome	OMIM:277600
+8	0.9	Osteoporosis-Pseudoglioma Syndrome	OMIM:259770
+8	0.9	Floating-Harbor Syndrome	OMIM:136140
+8	0.9	Bardet-Biedl Syndrome	OMIM:209900
+8	0.9	Coffin-Lowry Syndrome	OMIM:303600
+8	0.9	Hypermobility Syndrome	OMIM:130600
+15	0.85	Poland Syndrome	OMIM:173800

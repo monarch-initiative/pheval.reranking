@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hypogonadotropic hypogonadism	OMIM:146000
+2	0.8	Cerebellar atrophy	OMIM:607629
+3	0.7	Retinal pigment epithelial atrophy	OMIM:617304
+4	0.6	Decreased serum testosterone level	OMIM:614279
+5	0.5	Decreased circulating luteinizing hormone level	OMIM:614840
+6	0.4	Decreased circulating follicle stimulating hormone level	OMIM:152010
+7	0.3	Hyporeflexia	OMIM:243310
+8	0.2	Dysdiadochokinesis	OMIM:215470

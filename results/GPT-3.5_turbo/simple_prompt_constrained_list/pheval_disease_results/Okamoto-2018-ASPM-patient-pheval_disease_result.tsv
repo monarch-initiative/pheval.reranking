@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.8	Jacobsen syndrome	OMIM:147791
+3	0.7	Pitt-Hopkins syndrome	OMIM:610954
+3	0.7	Kleefstra syndrome	OMIM:610253
+5	0.6	Rett syndrome	OMIM:312750
+5	0.6	Angelman syndrome	OMIM:105830
+7	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.5	Cri-du-chat syndrome	OMIM:123450
+9	0.4	Williams syndrome	OMIM:194050
+9	0.4	Phelan-McDermid syndrome	OMIM:606232
+9	0.4	Fragile X syndrome	OMIM:300624
+12	0.3	Prader-Willi syndrome	OMIM:176270
+12	0.3	Trisomy 18	OMIM:190685
+14	0.2	Fanconi anemia	OMIM:227650
+14	0.2	Seckel syndrome	OMIM:606744
+16	0.1	Patel syndrome	OMIM:184956

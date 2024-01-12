@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital scalp defects	OMIM:613254
+2	0.8	Congenital dislocation of hips	OMIM:144200
+3	0.7	Cutis marmorata telangiectatica congenita	OMIM:218100
+4	0.6	Wide-set eyes	OMIM:107550
+5	0.5	Seizure disorder	OMIM:600669
+6	0.4	Thumb anomalies	OMIM:188890
+7	0.35	Fetal hypoactivity	OMIM:261550
+8	0.3	Global developmental delay	OMIM:614563
+9	0.25	Depressed nasal bridge	OMIM:601758
+10	0.2	Wide mouth	OMIM:601744
+11	0.15	Frontal bossing	OMIM:177750
+12	0.1	Muscular hypotonia	OMIM:158900
+13	0.08	Hypertelorism	OMIM:600375
+14	0.07	Heart valve regurgitation	OMIM:600001
+15	0.06	Epileptic encephalopathy	OMIM:613722
+16	0.05	Low-set ears	OMIM:601457

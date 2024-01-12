@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.77	Pachyonychia congenita	OMIM:167200
+2	0.71	Ectodermal dysplasia 5, Hair/nail type	OMIM:604292
+3	0.68	Hypotrichosis 7	OMIM:604379
+4	0.67	Hahnemannian camptodactyly	OMIM:613101
+4	0.67	White sponge nevus 1	OMIM:193900
+4	0.67	White sponge nevus 2	OMIM:615785
+4	0.67	White sponge nevus 3	OMIM:615786
+8	0.58	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+8	0.58	Ectodermal dysplasia 4, Hair/nail type	OMIM:602032
+10	0.56	Ectodermal dysplasia 2, Clouston type	OMIM:129500
+10	0.56	Ectodermal dysplasia 1, Anhidrotic	OMIM:305100
+12	0.54	Monilethrix	OMIM:158000
+13	0.48	Hypotrichosis 6	OMIM:607903
+14	0.45	Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	OMIM:607823
+15	0.44	Hypotrichosis 8	OMIM:614388

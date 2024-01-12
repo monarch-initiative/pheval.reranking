@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cerebral visual impairment	OMIM:609284
+1	1.0	Muscular hypotonia	OMIM:614104
+1	1.0	Visual impairment	OMIM:614749
+4	0.9	Central hypoventilation	OMIM:209880
+4	0.9	Hypoventilation	OMIM:209880
+6	0.6	Global developmental delay	OMIM:1
+7	0.5	Atrial septal defect	OMIM:108800
+7	0.5	Short stature	OMIM:200600
+7	0.5	Strabismus	OMIM:185100
+7	0.5	Abnormality of the eye	OMIM:106100
+7	0.5	Scoliosis	OMIM:616439
+7	0.5	Macrotia	OMIM:614890
+13	0.4	Delayed speech and language development	OMIM:602081
+13	0.4	Obesity	OMIM:601665
+13	0.4	Tracheomalacia	OMIM:189960

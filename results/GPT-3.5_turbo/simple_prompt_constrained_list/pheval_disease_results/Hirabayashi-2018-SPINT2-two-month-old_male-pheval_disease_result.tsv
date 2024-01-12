@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Malrotation of the intestine	OMIM:194300
+2	0.97	Malabsorption of Vitamin B12	OMIM:277400
+3	0.92	Congenital Diaphragmatic Hernia	OMIM:142340
+4	0.9	4q Deletion Syndrome	OMIM:614726
+5	0.89	Marfan Syndrome	OMIM:154700
+6	0.88	Hyperparathyroidism-Jaw Tumor Syndrome	OMIM:145001
+7	0.87	Congestive Heart Failure	OMIM:208500
+8	0.86	22q11.2 Deletion Syndrome	OMIM:188400
+9	0.85	Joubert Syndrome	OMIM:213300
+10	0.84	Alagille Syndrome	OMIM:118450
+11	0.83	Russell-Silver Syndrome	OMIM:180860
+12	0.82	Meckel Syndrome	OMIM:249000
+13	0.81	Cerebellar Hypoplasia	OMIM:213000
+14	0.8	Klippel-Feil Syndrome	OMIM:118100
+15	0.79	Treacher Collins Syndrome	OMIM:154500

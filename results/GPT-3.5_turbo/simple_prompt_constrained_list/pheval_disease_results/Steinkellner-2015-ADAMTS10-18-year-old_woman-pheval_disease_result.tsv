@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Stickler syndrome, type I	OMIM:108300
+2	0.85	Marfan syndrome, type II	OMIM:154700
+3	0.8	Marfan syndrome, type I	OMIM:154700
+4	0.75	Lauwers syndrome 1	OMIM:616901
+5	0.7	Stickler syndrome, type II	OMIM:604841
+6	0.65	Pseudoxanthoma elasticum	OMIM:264800
+7	0.6	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+8	0.55	Alport syndrome	OMIM:301050
+9	0.5	Aicardi syndrome	OMIM:304050
+10	0.45	Hutchinson-Gilford progeria syndrome	OMIM:176670
+11	0.4	Seckel syndrome 1	OMIM:210600
+12	0.35	Seckel syndrome 2	OMIM:606744
+13	0.3	Seckel syndrome 3	OMIM:612658
+14	0.25	Seckel syndrome 4	OMIM:613676
+15	0.2	Seckel syndrome 5	OMIM:615807
+16	0.15	Dentinogenesis imperfecta	OMIM:125490

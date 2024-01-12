@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spondyloepimetaphyseal dysplasia	OMIM:271640
+2	0.89	Coxa valga	OMIM:118450
+3	0.88	Severe platyspondyly	OMIM:614129
+4	0.86	Hypoplasia of the capital femoral epiphysis	OMIM:228930
+5	0.84	Motor delay	OMIM:616489
+6	0.83	Neonatal hyperbilirubinemia	OMIM:237900
+7	0.82	Redundant skin	OMIM:208250
+8	0.8	Abnormal facial shape	OMIM:615418
+9	0.78	Abnormal pelvis bone morphology	OMIM:303600
+10	0.76	Kyphoscoliosis	OMIM:181650
+11	0.74	Abnormality of the cervical spine	OMIM:117650
+12	0.72	Cervical instability	OMIM:615647
+13	0.71	Pectus excavatum	OMIM:169400
+14	0.69	Coarse facial features	OMIM:219500
+15	0.67	Short stature	OMIM:613195

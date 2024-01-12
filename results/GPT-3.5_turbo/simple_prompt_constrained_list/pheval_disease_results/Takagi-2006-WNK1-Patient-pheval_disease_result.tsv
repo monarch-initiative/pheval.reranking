@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hereditary Motor and Sensory Neuropathy, Type II	OMIM:613254
+2	0.6666666666666666	Charcot-Marie-Tooth Disease, Type 1F	OMIM:605557
+3	0.6153846153846154	Familial Dysautonomia	OMIM:223900
+3	0.6153846153846154	Hereditary Motor and Sensory Neuropathy, Type III	OMIM:162300
+5	0.6	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+6	0.5714285714285714	Charcot-Marie-Tooth Disease, Type 1E	OMIM:118300
+6	0.5714285714285714	Charcot-Marie-Tooth Disease, Type 4C	OMIM:601596
+6	0.5714285714285714	Hereditary Sensory and Autonomic Neuropathy, Type IV	OMIM:613640
+9	0.5555555555555556	Congenital Myopathy with Excess of Thin Filaments	OMIM:255320
+9	0.5555555555555556	Primary Lateral Sclerosis	OMIM:606353
+9	0.5555555555555556	Amyotrophic Lateral Sclerosis 2, Juvenile	OMIM:205100
+9	0.5555555555555556	Hereditary Sensory and Autonomic Neuropathy, Type V	OMIM:608654
+13	0.5454545454545454	Charcot-Marie-Tooth Disease, Type 2G	OMIM:607677
+13	0.5454545454545454	Amyotrophic Lateral Sclerosis 4, Juvenile	OMIM:602433
+13	0.5454545454545454	Dejerine-Sottas Disease	OMIM:145900

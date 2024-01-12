@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Alagille syndrome	OMIM:118450
+2	0.9375	Dubin-Johnson syndrome	OMIM:237500
+3	0.875	Cholestasis of pregnancy	OMIM:614435
+4	0.8125	Biliary atresia	OMIM:210500
+5	0.75	Crigler-Najjar syndrome	OMIM:218800
+6	0.6875	Focal nodular hyperplasia	OMIM:606042
+7	0.625	Progressive familial intrahepatic cholestasis	OMIM:601847
+8	0.5625	Mendelian susceptibility to mycobacterial diseases	OMIM:209950
+9	0.5	Wilson disease	OMIM:277900
+10	0.4375	Gilbert syndrome	OMIM:143500
+11	0.375	Polycystic liver disease	OMIM:174050
+12	0.3125	Hereditary fructose intolerance	OMIM:229600
+13	0.25	Alpha-1-antitrypsin deficiency	OMIM:613490
+14	0.1875	Glycogen storage disease	OMIM:232200
+15	0.125	Hepatic venoocclusive disease with immunodeficiency	OMIM:235550
+16	0.0625	Hyperbilirubinemia	OMIM:237500

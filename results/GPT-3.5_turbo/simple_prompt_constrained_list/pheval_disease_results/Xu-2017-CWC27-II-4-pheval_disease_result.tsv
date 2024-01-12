@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:118450
+2	0.85	Cafe-au-lait spot	OMIM:114450
+3	0.8	Pes planus	OMIM:176100
+4	0.75	Delayed gross motor development	OMIM:615067
+5	0.7	Brachydactyly	OMIM:113000
+6	0.65	Multiple cafe-au-lait spots	OMIM:162200
+7	0.6	Rod-cone dystrophy	OMIM:180380
+8	0.55	Absent speech	OMIM:502490
+9	0.5	Short stature	OMIM:604271
+10	0.45	Hallux valgus	OMIM:117840
+11	0.4	Delayed speech and language development	OMIM:600642

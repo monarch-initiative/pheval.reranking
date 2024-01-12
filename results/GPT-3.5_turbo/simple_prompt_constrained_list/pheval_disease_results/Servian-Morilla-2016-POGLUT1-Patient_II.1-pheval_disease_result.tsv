@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.907	Bethlem myopathy	OMIM:158810
+2	0.901	Centronuclear myopathy	OMIM:605282
+3	0.898	Emery-Dreifuss muscular dystrophy	OMIM:181350
+4	0.897	Limb-girdle muscular dystrophy	OMIM:253600
+5	0.895	Distal myopathy	OMIM:160500
+6	0.893	Duchenne muscular dystrophy	OMIM:310200
+7	0.889	Facioscapulohumeral muscular dystrophy	OMIM:158900
+8	0.884	Limb-girdle muscular dystrophy type 2A	OMIM:253600
+9	0.882	Myotonic dystrophy type 1	OMIM:160900
+10	0.878	Facioscapulohumeral muscular dystrophy 2	OMIM:158901
+11	0.873	Dermatomyositis	OMIM:601111
+12	0.871	Nemaline myopathy 2	OMIM:615284
+13	0.869	Muscular dystrophy-dystroglycanopathy limb-girdle C8	OMIM:613609
+14	0.865	Neuronal ceroid lipofuscinosis CLN2	OMIM:204500
+15	0.862	Eaton-Lambert syndrome	OMIM:255600

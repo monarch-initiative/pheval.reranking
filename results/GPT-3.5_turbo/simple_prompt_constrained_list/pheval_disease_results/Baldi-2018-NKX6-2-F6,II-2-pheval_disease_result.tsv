@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukodystrophy	OMIM:603896
+2	0.92	Global developmental delay	OMIM:618134
+3	0.91	CNS hypomyelination	OMIM:604804
+4	0.89	Dental crowding	OMIM:601755
+5	0.88	Strabismus	OMIM:185100
+6	0.85	Hearing impairment	OMIM:310700
+7	0.81	Spastic tetraparesis	OMIM:609340
+8	0.78	Scoliosis	OMIM:181800
+9	0.76	Long face	OMIM:157170
+10	0.73	Hyperreflexia	OMIM:603454
+11	0.71	Gingival overgrowth	OMIM:137440
+12	0.69	Cerebellar hypoplasia	OMIM:213000
+13	0.66	Abnormality of the cerebral white matter	OMIM:208710
+14	0.63	Horizontal nystagmus	OMIM:310700
+15	0.61	Brain atrophy	OMIM:600125
+16	0.58	High palate	OMIM:138500

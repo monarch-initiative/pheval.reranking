@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 7	OMIM:164500
+2	0.85	Friedreich ataxia	OMIM:229300
+3	0.8	Cerebellar ataxia, mental retardation, and disequilibrium syndrome 2	OMIM:610185
+4	0.75	Ataxia-telangiectasia	OMIM:208900
+5	0.7	Autosomal recessive spastic ataxia of Charlevoix-Saguenay	OMIM:270550
+6	0.65	X-linked cerebellar ataxia and mental retardation	OMIM:302500
+7	0.6	Multiple sclerosis	OMIM:126200
+8	0.55	Fragile X-associated tremor/ataxia syndrome	OMIM:300623
+9	0.5	Autosomal recessive ataxia due to PNKP deficiency	OMIM:613402
+10	0.45	Spinocerebellar ataxia 1	OMIM:164400
+11	0.4	Hereditary spastic paraplegia	OMIM:182600
+12	0.35	Early onset cerebellar ataxia with retained tendon reflexes	OMIM:212700
+13	0.3	Pelizaeus-Merzbacher-like syndrome 1	OMIM:312080
+14	0.25	Familial episodic ataxia	OMIM:108500
+15	0.2	Early-onset cerebellar ataxia	OMIM:607643

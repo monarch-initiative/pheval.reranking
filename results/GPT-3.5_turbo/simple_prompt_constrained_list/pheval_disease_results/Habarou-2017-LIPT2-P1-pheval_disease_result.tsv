@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukodystrophy with vanishing white matter	OMIM:603896
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+1	0.9	D-2-hydroxyglutaric aciduria	OMIM:600721
+1	0.9	Galloway-Mowat syndrome	OMIM:251300
+5	0.8	X-linked intellectual disability, X-linked 78	OMIM:300898
+5	0.8	3-Methylglutaconic aciduria type 1	OMIM:250950
+5	0.8	Alexander disease	OMIM:203450
+5	0.8	Lissencephaly 1	OMIM:607432
+5	0.8	Congenital disorder of glycosylation, type Ij	OMIM:608093
+10	0.7	Propionic acidemia	OMIM:606054
+10	0.7	Pyridoxine-dependent epilepsy	OMIM:266100
+10	0.7	Phosphoglycerate kinase 1 deficiency	OMIM:311800
+10	0.7	Microcephaly 1	OMIM:251200
+10	0.7	Seizures, benign familial neonatal 1	OMIM:121200
+10	0.7	Infantile-onset epileptic encephalopathy	OMIM:617090
+16	0.6	Methylmalonic aciduria, mut(0) type	OMIM:251000

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Osteogenesis imperfecta	OMIM:259440
+2	0.93	Pierre Robin sequence	OMIM:261100
+3	0.91	Waardenburg syndrome	OMIM:277580
+4	0.88	Silver-Russell syndrome	OMIM:180860
+5	0.87	Coffin-Siris syndrome	OMIM:135900
+6	0.86	Rett syndrome	OMIM:312750
+7	0.85	Floating-Harbor syndrome	OMIM:136140
+8	0.84	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.83	Sotos syndrome	OMIM:117550
+10	0.82	Down syndrome	OMIM:190685
+11	0.81	Noonan syndrome	OMIM:601375
+12	0.8	Cornelia de Lange syndrome	OMIM:122470
+13	0.78	Kabuki syndrome	OMIM:147920
+14	0.77	Beckwith-Wiedemann syndrome	OMIM:130650
+15	0.76	Prader-Willi syndrome	OMIM:176270

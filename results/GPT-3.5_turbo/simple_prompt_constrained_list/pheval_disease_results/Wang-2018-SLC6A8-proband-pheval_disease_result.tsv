@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Seizures	OMIM:164800
+2	0.8	Delayed speech and language development	OMIM:608443
+3	0.7	Constipation	OMIM:606574
+4	0.6	Reduced brain creatine level by MRS	OMIM:300036
+5	0.5	Global developmental delay	OMIM:614562
+6	0.4	Nausea	OMIM:613106
+7	0.3	Autistic behavior	OMIM:209850

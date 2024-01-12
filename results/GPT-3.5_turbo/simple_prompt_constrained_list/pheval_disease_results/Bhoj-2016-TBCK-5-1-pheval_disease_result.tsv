@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schinzel-Giedion syndrome	OMIM:269150
+2	0.8	Pitt-Hopkins syndrome	OMIM:610954
+3	0.7	Leukodystrophy	OMIM:121050
+4	0.6	Cohen syndrome	OMIM:216550
+5	0.5	Aarskog-Scott syndrome	OMIM:305400
+6	0.4	3-methylglutaconic aciduria type 3	OMIM:258501
+7	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.2	Bardet-Biedl syndrome	OMIM:209900
+9	0.1	Glycogen storage disease III	OMIM:232400
+9	0.1	Neurodevelopmental disorder with hypotonia and areflexia	OMIM:618258
+9	0.1	Achondroplasia	OMIM:100800
+9	0.1	Mitochondrial complex IV deficiency	OMIM:220110
+9	0.1	Cri-du-chat syndrome	OMIM:123450
+9	0.1	Sotos syndrome 1	OMIM:117550
+9	0.1	Rubinstein-Taybi syndrome 2	OMIM:613684
+9	0.1	Stiff person syndrome	OMIM:184850

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.8	Rothmund-Thomson Syndrome	OMIM:268400
+3	0.7	Cartilage-Hair Hypoplasia with Immunodeficiency	OMIM:613981
+4	0.6	Kabuki Syndrome 1	OMIM:147920
+5	0.5	Fanconi Anemia, Complementation Group A	OMIM:227650
+6	0.4	Cushing Syndrome	OMIM:219080
+7	0.3	CONE-ROD DYSTROPHY 4	OMIM:613093
+8	0.2	Craniofacial Dyssynostosis	OMIM:614530
+9	0.1	Hypothalamic Hamartomas	OMIM:241800

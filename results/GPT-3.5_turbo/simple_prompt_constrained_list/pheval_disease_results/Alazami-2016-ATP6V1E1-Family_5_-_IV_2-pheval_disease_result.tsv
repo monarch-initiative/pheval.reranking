@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.25	Ectodermal Dysplasia, Anhidrotic	OMIM:305100
+2	0.17	Brachydactyly-Syndactyly Syndrome	OMIM:609528
+3	0.14	Cardiomyopathy, Familial Hypertrophic	OMIM:115150
+4	0.12	Hypophosphatemic Rickets	OMIM:193700
+5	0.11	Coffin-Siris Syndrome	OMIM:135900
+6	0.09	Osteoporosis-Pseudoglioma Syndrome	OMIM:259770
+7	0.08	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+8	0.07	Short Stature, Rhizomelic, With Microcephaly, Micrognathia, And Developmental Delay	OMIM:611610
+9	0.06	Nephropathy With Pretibial Epidermolysis Bullosa And Deafness	OMIM:609057
+10	0.05	New Daily Persistent Headache	OMIM:607182
+11	0.04	Dandy-Walker Malformation With Intellectual Disability, Basal Ganglia Disease, and Seizures	OMIM:617699
+12	0.03	Nettleship-Falls Syndrome	OMIM:310460
+13	0.02	Branchiootic Syndrome	OMIM:113500
+14	0.01	Microcephaly, Congenital Heart Disease, Unilateral Renal Agenesis, And Hyposegmented Lungs	OMIM:614244
+15	0.0	Urban-Rogers-Meyer Syndrome	OMIM:240100

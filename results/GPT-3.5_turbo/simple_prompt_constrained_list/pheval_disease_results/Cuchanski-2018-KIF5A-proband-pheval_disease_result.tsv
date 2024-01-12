@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:613254
+2	0.8	Amyotrophic lateral sclerosis	OMIM:613454
+3	0.7	Charcot-Marie-Tooth disease	OMIM:617560
+3	0.7	Spinocerebellar ataxia	OMIM:613990
+5	0.6	Multiple sclerosis	OMIM:115150
+5	0.6	Friedreich ataxia	OMIM:144200
+5	0.6	Spinal muscular atrophy	OMIM:609284
+5	0.6	Cerebral palsy	OMIM:617516
+9	0.5	Hypomyelinating leukodystrophy	OMIM:600974
+9	0.5	Familial dysautonomia	OMIM:604187
+9	0.5	Lyme disease	OMIM:604841
+12	0.4	Spinal cord injury	OMIM:230740
+12	0.4	Peripheral neuropathy	OMIM:614833
+12	0.4	Huntington disease	OMIM:143100
+12	0.4	Epilepsy	OMIM:651067
+16	0.3	Machado-Joseph disease	OMIM:109150

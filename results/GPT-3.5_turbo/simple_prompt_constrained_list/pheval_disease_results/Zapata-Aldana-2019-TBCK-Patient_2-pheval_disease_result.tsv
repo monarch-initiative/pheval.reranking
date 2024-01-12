@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+1	0.9	Rett syndrome	OMIM:312750
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+1	0.9	Phelan-McDermid syndrome	OMIM:606232
+5	0.8	Kleine-Levin syndrome	OMIM:148840
+5	0.8	Kabuki syndrome 1	OMIM:147920
+5	0.8	Cri-du-chat syndrome	OMIM:123450
+5	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.8	Autism spectrum disorder	OMIM:209850
+5	0.8	Lujan-Fryns syndrome	OMIM:309520
+5	0.8	Floating-Harbor syndrome	OMIM:136140
+5	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.8	Fragile X syndrome	OMIM:300624
+14	0.7	CHARGE syndrome	OMIM:214800
+14	0.7	Williams syndrome	OMIM:194050
+14	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849

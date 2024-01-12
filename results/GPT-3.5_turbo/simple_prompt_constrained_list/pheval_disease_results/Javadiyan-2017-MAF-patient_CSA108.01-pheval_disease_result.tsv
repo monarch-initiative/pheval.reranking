@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microtia	OMIM:163800
+2	0.85	Stahl Ear	OMIM:601653
+3	0.8	Treacher Collins syndrome	OMIM:154500
+4	0.75	Blepharophimosis, Ptosis, and Epicanthus Inversus	OMIM:110100
+5	0.7	Cornelia de Lange syndrome	OMIM:122470
+6	0.65	Oculo-Auriculo-Vertebral spectrum	OMIM:164210
+7	0.6	Goldenhar syndrome	OMIM:164210
+8	0.55	Townes-Brocks syndrome	OMIM:107480
+9	0.5	Kabuki syndrome	OMIM:147920
+10	0.45	Branchio-Oto-Renal syndrome	OMIM:113650
+11	0.4	Severe Congenital Neutropenia	OMIM:202700
+12	0.35	Stickler syndrome type 1	OMIM:108300
+13	0.3	Tricho-hepato-enteric syndrome	OMIM:614602
+14	0.25	Rubinstein-Taybi syndrome	OMIM:180849
+15	0.2	DiGeorge syndrome	OMIM:188400

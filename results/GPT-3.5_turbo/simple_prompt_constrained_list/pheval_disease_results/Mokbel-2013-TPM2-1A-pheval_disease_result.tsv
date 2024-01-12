@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Centronuclear myopathy 2	OMIM:260300
+2	0.9	Congenital fiber-type disproportion	OMIM:255310
+2	0.9	Myotonic dystrophy 1	OMIM:160900
+2	0.9	Myotonic dystrophy 2	OMIM:602668
+5	0.8	Myositis	OMIM:160750
+5	0.8	Muscular dystrophy, Duchenne type	OMIM:310200
+5	0.8	Spinal muscular atrophy, proximal, autosomal recessive, 1	OMIM:253300
+8	0.7	Congenital muscular dystrophy, Ullrich type	OMIM:254090
+8	0.7	Congenital muscular dystrophy, MDC1A	OMIM:607855
+8	0.7	Glycogen storage disease X	OMIM:261670
+8	0.7	Hereditary inclusion body myopathy, autosomal recessive	OMIM:600737
+8	0.7	Limb-girdle muscular dystrophy, autosomal recessive 1	OMIM:253600
+8	0.7	Limb-girdle muscular dystrophy, autosomal recessive 2	OMIM:253601
+8	0.7	Limb-girdle muscular dystrophy, autosomal recessive 3	OMIM:253602
+8	0.7	Limb-girdle muscular dystrophy, autosomal recessive 4	OMIM:611808

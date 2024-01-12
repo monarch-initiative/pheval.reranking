@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614104
+2	0.9	Global developmental delay	OMIM:613464
+3	0.8	Microcephaly	OMIM:251200
+4	0.7	Muscular hypotonia	OMIM:158810
+5	0.6	Delayed speech and language development	OMIM:607872
+6	0.5	Spasticity	OMIM:182830
+7	0.4	Difficulty walking	OMIM:614297

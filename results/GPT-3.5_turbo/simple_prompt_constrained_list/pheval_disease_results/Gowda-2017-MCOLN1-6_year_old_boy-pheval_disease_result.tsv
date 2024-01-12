@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Peroxisomal biogenesis disorder	OMIM:260300
+2	0.998	Neuhauser syndrome	OMIM:236200
+3	0.996	Seckel syndrome 1	OMIM:210600
+4	0.995	Cockayne syndrome type 1	OMIM:216400
+5	0.993	Pontocerebellar hypoplasia type 2A	OMIM:277470
+6	0.992	Mental retardation, autosomal dominant 45	OMIM:617600
+7	0.99	Pontocerebellar hypoplasia type 2E	OMIM:614678
+8	0.988	Microcephaly 6, primary, autosomal recessive	OMIM:614726
+9	0.987	Microcephaly 11, primary, autosomal recessive	OMIM:615414
+10	0.985	Microcephaly, short stature, and limb abnormalities	OMIM:617594
+11	0.983	Microcephaly, short stature, and impaired glucose metabolism 1	OMIM:614833
+12	0.981	Cockayne syndrome	OMIM:133540
+13	0.979	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart	OMIM:616975
+14	0.977	Spinocerebellar ataxia 17	OMIM:607136
+15	0.975	Microcephaly 5, primary, autosomal recessive	OMIM:616629

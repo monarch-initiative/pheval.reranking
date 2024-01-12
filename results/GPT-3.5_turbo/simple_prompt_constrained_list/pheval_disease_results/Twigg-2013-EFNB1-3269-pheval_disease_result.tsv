@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Coronal craniosynostosis	OMIM:600774
+2	0.8888888888888888	Craniosynostosis	OMIM:123100
+3	0.875	Thick hair	OMIM:607903
+4	0.8571428571428571	Hypertelorism	OMIM:145450
+5	0.8421052631578947	Agenesis of corpus callosum	OMIM:217990
+6	0.8333333333333334	Ptosis	OMIM:178300
+7	0.8235294117647058	Low-set ears	OMIM:610913
+8	0.8125	Clinodactyly of the 5th finger	OMIM:114290
+9	0.803921568627451	Abnormality of the dentition	OMIM:601216
+10	0.7954545454545454	2-3 finger syndactyly	OMIM:186100
+11	0.7875	Brachydactyly	OMIM:113100
+12	0.7804878048780488	Downslanted palpebral fissures	OMIM:601200
+13	0.7735849056603774	Bifid nasal tip	OMIM:603738
+14	0.7666666666666667	Sprengel anomaly	OMIM:184400
+15	0.7608695652173914	Unilateral cryptorchidism	OMIM:300933
+16	0.7555555555555555	Ridged nail	OMIM:180849

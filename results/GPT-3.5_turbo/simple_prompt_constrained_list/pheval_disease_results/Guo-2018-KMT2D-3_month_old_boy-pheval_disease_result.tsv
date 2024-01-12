@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Treacher Collins syndrome	OMIM:154500
+2	0.8	Hypothyroidism	OMIM:275200
+3	0.75	Congenital hypothyroidism	OMIM:275000
+4	0.7	Congenital heart defects	OMIM:614980
+5	0.65	Autosomal recessive polycystic kidney disease	OMIM:263200
+6	0.6	Meckel syndrome	OMIM:611561
+7	0.55	Congenital cataracts, hearing loss, and neurodegeneration	OMIM:614482
+8	0.5	Microphthalmia with linear skin defects syndrome	OMIM:309801
+9	0.45	Smith-Magenis syndrome	OMIM:182290
+10	0.4	Townes-Brocks syndrome	OMIM:107480
+11	0.35	Joubert syndrome	OMIM:213300
+12	0.3	Syndromic X-linked intellectual disability Abidi type	OMIM:300845
+13	0.25	Achondrogenesis type 2	OMIM:200610
+14	0.2	Schinzel-Giedion syndrome	OMIM:269150
+15	0.15	CHARGE syndrome	OMIM:214800
+16	0.1	Polymicrogyria, bilateral frontoparietal	OMIM:606854

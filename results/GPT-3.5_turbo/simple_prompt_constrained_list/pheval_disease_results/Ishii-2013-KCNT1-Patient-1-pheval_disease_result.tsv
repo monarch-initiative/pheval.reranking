@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Epileptic encephalopathy, early infantile, 4	OMIM:617167
+2	0.9	Epileptic encephalopathy, early infantile, 2	OMIM:615011
+2	0.9	Epileptic encephalopathy, early infantile, 3	OMIM:613477
+4	0.8	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+5	0.7	Infantile spasms	OMIM:308350
+5	0.7	West Syndrome	OMIM:308350
+7	0.6	Intellectual disability	OMIM:615005
+8	0.5	Developmental delay and characteristic facial features	OMIM:608864
+9	0.4	Rett syndrome	OMIM:312750
+9	0.4	Angelman syndrome	OMIM:105830
+11	0.3	Prader-Willi syndrome	OMIM:176270
+12	0.2	Miller-Dieker syndrome	OMIM:247200
+13	0.1	Floating-Harbor syndrome	OMIM:136140
+13	0.1	Pitt-Hopkins-like syndrome	OMIM:618193
+13	0.1	Costello syndrome	OMIM:218040

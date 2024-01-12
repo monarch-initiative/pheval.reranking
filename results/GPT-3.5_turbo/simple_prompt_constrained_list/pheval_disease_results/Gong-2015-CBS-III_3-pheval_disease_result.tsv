@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+1	0.9	Loeys-Dietz syndrome	OMIM:609192
+1	0.9	Weill-Marchesani syndrome	OMIM:277600
+4	0.8	Ehlers-Danlos syndrome	OMIM:130000
+4	0.8	Hurler-Scheie syndrome	OMIM:607014
+4	0.8	Homocystinuria	OMIM:236200
+4	0.8	Neurofibromatosis type 1	OMIM:162200
+4	0.8	Tuberculosis, susceptibility to	OMIM:607948
+4	0.8	Noonan syndrome	OMIM:163950
+10	0.7	Familial hypercholesterolemia	OMIM:143890
+10	0.7	Homocystinuria due to cystathionine beta-synthase deficiency	OMIM:236200
+10	0.7	Combined lipase deficiency	OMIM:246650
+10	0.7	Gorlin syndrome	OMIM:109400
+10	0.7	Lathosterolosis	OMIM:607330
+10	0.7	Hyperlysinemia	OMIM:238700
+10	0.7	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies)	OMIM:615181

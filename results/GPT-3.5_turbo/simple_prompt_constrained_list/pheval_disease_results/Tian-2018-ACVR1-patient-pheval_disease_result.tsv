@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ossification of the posterior longitudinal ligament	OMIM:602475
+2	0.9	Familial Hyperphosphatemic Tumoral Calcinosis	OMIM:211900
+3	0.88	Hyperphosphatemia, Polyuria, And Seizures	OMIM:269250
+4	0.87	Achondrogenesis, Type IA	OMIM:200600
+5	0.85	Fibrochondrogenesis 2	OMIM:614524
+6	0.83	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+7	0.82	Proteus-Like Syndrome	OMIM:601098
+8	0.8	Dislocation Of Hip, Congenital, With Reduced Femoral Head Size	OMIM:617002
+9	0.78	Hyperphosphatasia With Mental Retardation Syndrome 2	OMIM:614749
+10	0.75	Tumoral Calcinosis, Hyperphosphatemic, Familial, 1	OMIM:211900
+11	0.72	Atypical Progeroid Syndrome	OMIM:108330
+12	0.7	Paramyotonia Congenita Of Von Eulenburg	OMIM:168300
+13	0.68	Kinyoun Stain, Blood	OMIM:614791
+14	0.65	Lowry-Wood Syndrome	OMIM:269250
+15	0.6	Seaver Cassidy Syndrome	OMIM:605676

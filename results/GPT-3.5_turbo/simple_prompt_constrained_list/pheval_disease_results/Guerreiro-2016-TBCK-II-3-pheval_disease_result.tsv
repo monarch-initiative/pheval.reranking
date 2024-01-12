@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+3	0.7	Prader-Willi syndrome	OMIM:176270
+4	0.65	Angelman syndrome	OMIM:105830
+5	0.6	Cri-du-chat syndrome	OMIM:123450
+6	0.55	PTEN hamartoma tumor syndrome	OMIM:158350
+7	0.5	Fragile X syndrome	OMIM:300624
+8	0.45	Kabuki syndrome	OMIM:147920
+9	0.4	Williams-Beuren syndrome	OMIM:194050
+10	0.35	Smith-Magenis syndrome	OMIM:182290
+11	0.3	Saethre-Chotzen syndrome	OMIM:101400
+12	0.25	Noonan syndrome	OMIM:163950
+13	0.2	Autism spectrum disorder	OMIM:209850
+14	0.15	Duchenne muscular dystrophy	OMIM:310200
+15	0.1	Craniofacial-deafness-hand syndrome	OMIM:122880
+16	0.05	Coffin-Siris syndrome	OMIM:135900

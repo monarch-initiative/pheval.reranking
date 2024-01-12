@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Retinitis pigmentosa	OMIM:268000
+2	0.75	Leber congenital amaurosis	OMIM:204000
+3	0.7	Retinal dystrophy	OMIM:613194
+4	0.65	Retinal degeneration	OMIM:613794
+5	0.6	Macular degeneration	OMIM:603075
+6	0.55	Cone-rod dystrophy	OMIM:604116
+7	0.5	Bestrophinopathy	OMIM:607854
+8	0.45	Retinoschisis	OMIM:267010
+9	0.4	Cone dystrophy	OMIM:610356
+10	0.35	Congenital stationary night blindness	OMIM:310500
+11	0.3	Achromatopsia	OMIM:216900
+12	0.25	Ocular albinism	OMIM:300500
+13	0.2	Optic atrophy	OMIM:165500
+14	0.15	Optic nerve hypoplasia	OMIM:165550
+15	0.1	Glaucoma	OMIM:137760
+16	0.05	Optic disc drusen	OMIM:190390

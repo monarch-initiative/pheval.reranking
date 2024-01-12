@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hereditary spherocytosis	OMIM:182900
+1	1.0	Glycogen storage disease type I	OMIM:232200
+1	1.0	Wilson disease	OMIM:277900
+1	1.0	Congenital dyserythropoietic anemia type II	OMIM:224100
+1	1.0	Pyruvate kinase deficiency of red cells	OMIM:266200
+1	1.0	Gilbert syndrome	OMIM:143500
+1	1.0	Glycogen storage disease type V	OMIM:232600
+1	1.0	Congenital dyserythropoietic anemia type I	OMIM:224120
+1	1.0	Pyropoikilocytosis	OMIM:266140
+1	1.0	Pyruvate kinase deficiency with hemolytic anemia	OMIM:266100
+1	1.0	Hereditary stomatocytosis	OMIM:194380
+1	1.0	Alpha thalassemia-X-linked intellectual disability syndrome	OMIM:301040
+1	1.0	Glycogen storage disease type II	OMIM:232300
+14	0.9	Glucosephosphate dehydrogenase deficiency	OMIM:305900
+14	0.9	Congenital dyserythropoietic anemia type III	OMIM:105600

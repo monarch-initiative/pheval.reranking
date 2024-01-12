@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypoparathyroidism	OMIM:146200
+1	1.0	Hypocalcemia	OMIM:601198
+1	1.0	Hypoplasia of dental enamel	OMIM:604009
+1	1.0	Malabsorption	OMIM:609314
+1	1.0	Tetany	OMIM:187850
+6	0.9	Hematuria	OMIM:614196
+6	0.9	Cataract	OMIM:116200
+8	0.8	Vertigo	OMIM:193000
+9	0.7	Primary adrenal insufficiency	OMIM:240200
+9	0.7	Chronic mucocutaneous candidiasis	OMIM:614048

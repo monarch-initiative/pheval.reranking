@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arnold-Chiari malformation	OMIM:118450
+2	0.8	Microdontia	OMIM:166130
+3	0.7	Clinodactyly	OMIM:122480
+4	0.6	Global developmental delay	OMIM:614209
+5	0.5	Micrognathia	OMIM:156250
+6	0.4	Short nose	OMIM:270980
+7	0.3	Kyphoscoliosis	OMIM:184400
+8	0.2	Short hallux	OMIM:186950
+9	0.1	Pectus excavatum	OMIM:169300
+10	0.0	Hitchhiker thumb	OMIM:201400
+10	0.0	Duplication of metatarsal bones	OMIM:186250
+10	0.0	Low-set ears	OMIM:166750
+10	0.0	Cutaneous syndactyly	OMIM:186200
+10	0.0	Oligodontia	OMIM:127550
+10	0.0	Hypertelorism	OMIM:145400
+10	0.0	Talon cusp	OMIM:610375

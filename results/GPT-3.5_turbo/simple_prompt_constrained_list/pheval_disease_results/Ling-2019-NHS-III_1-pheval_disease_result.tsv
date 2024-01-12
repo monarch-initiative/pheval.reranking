@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Alagille syndrome	OMIM:118450
+2	0.9	Treacher Collins syndrome	OMIM:154500
+2	0.9	Cleft palate, CPXV	OMIM:119540
+2	0.9	Berardinelli-Seip congenital lipodystrophy	OMIM:269700
+2	0.9	Mental retardation, X-linked, syndromic, 9	OMIM:309549
+2	0.9	Acrocallosal syndrome	OMIM:200990
+7	0.8	Mandibulofacial dysostosis, Guion-Almeida type	OMIM:610536
+7	0.8	Noonan syndrome	OMIM:163950
+7	0.8	Costello syndrome	OMIM:218040
+7	0.8	Oculodentodigital dysplasia	OMIM:164200
+7	0.8	Goldberg-Shprintzen megacolon syndrome	OMIM:609460
+7	0.8	Mu-coast syndrome	OMIM:610476
+7	0.8	Brachydactyly mental retardation syndrome	OMIM:600430
+14	0.7	Holoprosencephaly 10	OMIM:617024
+14	0.7	Char syndrome	OMIM:169100
+14	0.7	Rubinstein-Taybi syndrome	OMIM:180849

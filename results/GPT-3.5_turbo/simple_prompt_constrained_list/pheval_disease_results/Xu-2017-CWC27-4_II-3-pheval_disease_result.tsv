@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:114100
+1	0.9	Feeding difficulties	OMIM:616045
+1	0.9	Renal cyst	OMIM:613824
+1	0.9	Brachydactyly	OMIM:113100
+1	0.9	Rod-cone dystrophy	OMIM:268000
+1	0.9	Severe global developmental delay	OMIM:614609
+1	0.9	Alopecia	OMIM:203500
+1	0.9	Short stature	OMIM:604271
+1	0.9	Absent eyebrow	OMIM:112510
+1	0.9	Intellectual disability	OMIM:610543
+1	0.9	Abnormal electroretinogram	OMIM:180298
+1	0.9	Abnormality of visual evoked potentials	OMIM:228970
+1	0.9	Absent eyelashes	OMIM:221400
+1	0.9	Ichthyosis	OMIM:146700
+15	0.8	<Disease1>	OMIM:<Disease1_OMIM_ID>
+15	0.8	<Disease2>	OMIM:<Disease2_OMIM_ID>

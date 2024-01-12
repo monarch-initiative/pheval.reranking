@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Tuberous sclerosis 1	OMIM:191100
+2	0.8	Autism spectrum disorder	OMIM:209850
+2	0.8	Tuberous sclerosis 2	OMIM:613254
+2	0.8	Tuberous sclerosis 3	OMIM:613454
+2	0.8	Tuberous sclerosis 4	OMIM:617560
+6	0.7	Neurofibromatosis type 1	OMIM:162200
+6	0.7	RASopathies	OMIM:164757
+6	0.7	Phelan-McDermid syndrome	OMIM:606232
+6	0.7	Smith-Magenis syndrome	OMIM:182290
+10	0.6	Fragile X syndrome	OMIM:300624
+10	0.6	Duchenne muscular dystrophy	OMIM:310200
+10	0.6	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.6	Prader-Willi syndrome	OMIM:176270
+10	0.6	Angelman syndrome	OMIM:105830
+10	0.6	Tuberous sclerosis-1	OMIM:191100

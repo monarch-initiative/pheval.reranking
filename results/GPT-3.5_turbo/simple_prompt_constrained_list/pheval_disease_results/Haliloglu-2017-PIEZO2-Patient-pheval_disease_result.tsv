@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Congenital muscular dystrophy	OMIM:613254
+2	0.98	Centronuclear myopathy	OMIM:617560
+3	0.95	Vici syndrome	OMIM:242840
+4	0.94	Spinal muscular atrophy with respiratory distress type 1	OMIM:604320
+5	0.93	Spinal muscular atrophy with lower extremity predominance 2	OMIM:615247
+6	0.92	Autosomal dominant inheritance	OMIM:616140
+7	0.91	Spinal muscular atrophy with congenital bone fractures 1	OMIM:618420
+8	0.9	Autosomal recessive limb-girdle muscular dystrophy type 2F	OMIM:601287
+9	0.89	Arthrogryposis multiplex congenita	OMIM:108120
+10	0.88	X-linked Charcot-Marie-Tooth disease	OMIM:302800
+11	0.87	Congenital contracture of thenar muscle	OMIM:618951
+12	0.86	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 6	OMIM:235980
+13	0.85	Rigid spine muscular dystrophy	OMIM:602771
+14	0.84	Geschwind syndrome	OMIM:610708
+15	0.83	Myofibrillar myopathy 1	OMIM:601419
+16	0.82	Distal myopathy with anterior tibial onset	OMIM:614931

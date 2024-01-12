@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert syndrome	OMIM:213300
+2	0.9	Cortical visual impairment	OMIM:204100
+3	0.85	Phelan-McDermid syndrome	OMIM:606232
+4	0.8	Angelman syndrome	OMIM:105830
+5	0.75	Fragile X syndrome	OMIM:300624
+6	0.7	Sotos syndrome	OMIM:117550
+7	0.65	Pontocerebellar hypoplasia type 2C	OMIM:612390
+8	0.6	Pontocerebellar hypoplasia type 2E	OMIM:615851
+9	0.55	Pontocerebellar hypoplasia type 7	OMIM:614969
+10	0.5	Cornelia de Lange syndrome	OMIM:122470
+11	0.45	Lissencephaly	OMIM:607432
+12	0.4	Galloway-Mowat syndrome	OMIM:251300
+13	0.35	Aicardi syndrome	OMIM:304050
+14	0.3	Microcephaly	OMIM:251200
+15	0.25	Mowat-Wilson syndrome	OMIM:235730
+16	0.2	Rett syndrome	OMIM:312750

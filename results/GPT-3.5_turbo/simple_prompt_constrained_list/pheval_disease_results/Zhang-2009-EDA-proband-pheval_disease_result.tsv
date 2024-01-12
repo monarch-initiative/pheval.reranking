@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Hypohidrotic Ectodermal Dysplasia	OMIM:305100
+2	0.85	Robinow Syndrome	OMIM:616331
+3	0.82	Familial Cold Autoinflammatory Syndrome	OMIM:120100
+4	0.8	Baller-Gerold Syndrome	OMIM:218600
+5	0.77	Saethre-Chotzen Syndrome	OMIM:101400
+6	0.75	Treacher Collins Syndrome	OMIM:154500
+7	0.73	Holoprosencephaly	OMIM:236100
+8	0.7	Ectodermal Dysplasia, Hidrotic	OMIM:601375
+9	0.68	Johanson-Blizzard Syndrome	OMIM:243800
+10	0.65	Hypohidrotic Ectodermal Dysplasia with Immune Deficiency	OMIM:300291
+11	0.6	Thermosensitive Erythrocyte Lipid A Sensitivity Disease	OMIM:256040
+12	0.58	Werner Syndrome	OMIM:277700
+13	0.55	Alagille Syndrome 1	OMIM:118450
+14	0.52	Facial Dysmorphism, Hypertrichosis, Epilepsy, Intellectual/Developmental Delay, and Gingival Overgrowth Syndrome	OMIM:617763
+15	0.5	Hypothyroidism, Central, and Testicular Enlargement	OMIM:300888

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Bernard-Soulier syndrome	OMIM:231200
+2	0.9	Glanzmann thrombasthenia	OMIM:273800
+2	0.9	Scott syndrome	OMIM:262890
+4	0.8	Gray platelet syndrome	OMIM:139090
+4	0.8	Afibrinogenemia, congenital	OMIM:202400
+6	0.7	Hemophilia A	OMIM:306700
+6	0.7	Factor X deficiency	OMIM:227600
+8	0.6	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.6	Thrombocytopenia 4	OMIM:612004
+10	0.5	Myeloproliferative disorder with eosinophilia	OMIM:131440
+10	0.5	Hereditary hemorrhagic telangiectasia	OMIM:187300
+12	0.4	Immune thrombocytopenic purpura	OMIM:188030
+13	0.3	Disseminated intravascular coagulation	OMIM:223050
+13	0.3	Fanconi anemia, complementation group C	OMIM:227645
+15	0.2	Dubin-Johnson syndrome	OMIM:237500

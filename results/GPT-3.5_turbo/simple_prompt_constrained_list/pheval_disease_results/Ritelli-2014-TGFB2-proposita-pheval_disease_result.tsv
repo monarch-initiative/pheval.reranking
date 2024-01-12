@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.95	Loeys-Dietz syndrome	OMIM:609192
+3	0.93	Hernia, hiatus	OMIM:614104
+4	0.92	Marfan syndrome	OMIM:154700
+5	0.9	Ehlers-Danlos syndrome, hypermobility type	OMIM:130080
+6	0.89	Lujan-Fryns syndrome	OMIM:309520
+7	0.87	Kohlschütter-Tönz syndrome	OMIM:226750
+8	0.85	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+9	0.82	Weill-Marchesani syndrome	OMIM:608328
+10	0.8	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+11	0.79	Stickler syndrome, type I	OMIM:108300
+12	0.78	Chondrodysplasia, Grebe type	OMIM:200700
+13	0.77	Ehlers-Danlos syndrome, musculocontractural type	OMIM:601776
+14	0.75	Achondrogenesis type 2	OMIM:200610
+15	0.74	Osteogenesis imperfecta, type VI	OMIM:613982

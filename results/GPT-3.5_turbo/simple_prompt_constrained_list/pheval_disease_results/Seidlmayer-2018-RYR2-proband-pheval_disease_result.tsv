@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cardiomyopathy	OMIM:615220
+2	0.9	Myocarditis	OMIM:604772
+3	0.8	Ventricular fibrillation	OMIM:603553
+4	0.7	Right bundle branch block	OMIM:115150
+5	0.6	Syncope	OMIM:607259
+6	0.5	Cardiac arrest	OMIM:617452

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hyperammonemia due to NOS deficiency	OMIM:614104
+2	0.94	Ketotic hypoglycemia due to HNF4A deficiency	OMIM:600281
+3	0.9	3-methylglutaconic aciduria type III	OMIM:258501
+4	0.87	Dicarboxylic aciduria	OMIM:236150
+5	0.82	Hyperinsulinemic hypoglycemia - pancreatic benign	OMIM:221750
+6	0.78	Hyperlysinemia, type I	OMIM:238700
+7	0.74	Propionic acidemia due to PCCA deficiency	OMIM:232000
+8	0.7	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+9	0.66	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+10	0.62	3-Methylcrotonyl-CoA carboxylase 1 deficiency	OMIM:210200
+11	0.58	Medium chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+12	0.54	Short chain acyl-CoA dehydrogenase deficiency	OMIM:201470
+13	0.5	Alpers syndrome	OMIM:203700
+14	0.46	Hyperinsulinemic hypoglycemia due to HNF1A deficiency	OMIM:601082
+15	0.42	Inborn error of branched chain amino acids metabolism	OMIM:248600

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microcephaly	OMIM:617560
+2	0.9	Muscular hypotonia	OMIM:614104
+3	0.85	Global developmental delay	OMIM:616331
+4	0.8	Strabismus	OMIM:611739
+5	0.75	Renal cyst	OMIM:617343
+6	0.7	Jaundice	OMIM:237400
+7	0.65	Oral aversion	OMIM:613095
+8	0.6	Bell-shaped thorax	OMIM:601949
+9	0.55	Chronic constipation	OMIM:243060
+10	0.5	Bronchogenic cyst	OMIM:108801
+11	0.45	Hydronephrosis	OMIM:137730
+12	0.4	Submucous cleft soft palate	OMIM:119540
+13	0.35	Arnold-Chiari type I malformation	OMIM:118450
+14	0.3	Renal cyst	OMIM:618117
+15	0.25	Upslanted palpebral fissure	OMIM:618190
+16	0.2	Thoracolumbar scoliosis	OMIM:618293

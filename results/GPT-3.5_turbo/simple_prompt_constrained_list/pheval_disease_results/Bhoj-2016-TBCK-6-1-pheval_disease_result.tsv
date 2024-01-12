@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kabuki syndrome 1	OMIM:147920
+2	0.85	Coffin-Siris syndrome 1	OMIM:135900
+3	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.75	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.7	Angelman syndrome	OMIM:105830
+6	0.65	Prader-Willi syndrome	OMIM:176270
+7	0.6	Fragile X syndrome	OMIM:300624
+8	0.55	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.5	Alacrima, achalasia, and mental retardation syndrome	OMIM:614438
+10	0.45	Rett syndrome	OMIM:312750
+11	0.4	Sotos syndrome 1	OMIM:117550
+12	0.35	Smith-Magenis syndrome	OMIM:182290
+13	0.3	Trichothiodystrophy 1, photosensitive	OMIM:601675
+14	0.25	Phelan-McDermid syndrome	OMIM:606232
+15	0.2	Autism spectrum disorder, chromosome X-linked, syndromic, 4	OMIM:300830

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Waardenburg Syndrome, Type 1	OMIM:193500
+2	0.87	Usher Syndrome, Type 1G	OMIM:606943
+3	0.85	Usher Syndrome, Type 1C	OMIM:276904
+4	0.83	Waardenburg Syndrome, Type 2A	OMIM:193510
+5	0.8	Usher Syndrome, Type 1B	OMIM:276901
+6	0.78	Usher Syndrome, Type 3	OMIM:276902
+7	0.76	Branchiootic Syndrome 1	OMIM:602588
+8	0.74	Branchiootic Syndrome 2	OMIM:615527
+9	0.71	Jervell and Lange-Nielsen Syndrome 1	OMIM:220400
+10	0.69	Spinocerebellar Ataxia, Autosomal Recessive 4	OMIM:607317
+11	0.67	Jervell and Lange-Nielsen Syndrome 2	OMIM:612347
+12	0.64	Autosomal Dominant Deafness 9	OMIM:601369
+13	0.62	Deafness, Autosomal Recessive 36	OMIM:609006
+14	0.6	Stickler Syndrome, Type I	OMIM:108300
+15	0.57	Usher Syndrome, Type IG	OMIM:606943
+16	0.55	CAV1-Related Distal Hereditary Motor Neuropathy Type IC	OMIM:607641

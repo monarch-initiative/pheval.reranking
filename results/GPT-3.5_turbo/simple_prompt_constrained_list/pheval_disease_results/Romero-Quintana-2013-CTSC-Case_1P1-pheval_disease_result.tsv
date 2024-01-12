@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Papillon-Lefevre syndrome	OMIM:245000
+1	1.0	Haim-Munk syndrome	OMIM:245010
+1	1.0	Papillon-Leage and Psaume syndrome	OMIM:270400
+4	0.8333333333333334	Leukocyte adhesion deficiency, type I	OMIM:116920
+4	0.8333333333333334	Keratosis palmoplantaris transgrediens et progessiva	OMIM:148600
+6	0.8	Palmoplantar keratoderma, Gamborg Nielson type	OMIM:245200
+6	0.8	Pemphigus vulgaris, familial	OMIM:169610
+6	0.8	Subcorneal pustular dermatosis	OMIM:604173
+6	0.8	Lipoid proteinosis of Urbach and Wiethe	OMIM:247100
+6	0.8	Keratosis palmoplantaris diffusa cum cardiomioa	OMIM:604593

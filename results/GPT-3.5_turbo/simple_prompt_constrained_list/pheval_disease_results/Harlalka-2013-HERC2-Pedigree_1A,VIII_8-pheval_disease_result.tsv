@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614104
+1	1.0	Muscular hypotonia	OMIM:609285
+1	1.0	Delayed speech and language development	OMIM:608716
+4	0.95	Mitral valve prolapse	OMIM:157700
+5	0.9	Stereotypy	OMIM:313100
+5	0.9	Syndactyly	OMIM:185900
+7	0.85	Unsteady gait	OMIM:616249
+7	0.85	Delayed ability to walk	OMIM:615502
+9	0.8	Short foot	OMIM:602522
+9	0.8	OMIM:613254	OMIM:613254
+9	0.8	OMIM:613454	OMIM:613454
+9	0.8	OMIM:617560	OMIM:617560
+9	0.8	OMIM:613990	OMIM:613990
+9	0.8	OMIM:115150	OMIM:115150
+9	0.8	OMIM:144200	OMIM:144200

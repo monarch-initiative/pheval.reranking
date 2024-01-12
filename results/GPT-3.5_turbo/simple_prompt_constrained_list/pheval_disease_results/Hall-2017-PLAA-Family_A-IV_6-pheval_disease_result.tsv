@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Congenital disorder of glycosylation type Ia	OMIM:212065
+2	0.97	Acrofrontofacionasal dysostosis type 1	OMIM:233400
+3	0.95	Seckel syndrome 1	OMIM:210600
+3	0.95	Cortical dysplasia, complex, with other brain malformations 1	OMIM:614039
+5	0.91	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.9	VACTERL association, X-linked	OMIM:314390
+6	0.9	Cranioectodermal dysplasia 1	OMIM:218330
+8	0.89	Complex cortical dysplasia with other brain malformations type 1	OMIM:838743
+9	0.88	Opitz GBBB syndrome type 1	OMIM:300000
+10	0.87	Walker-Warburg syndrome	OMIM:236670
+11	0.86	Simpson-Golabi-Behmel syndrome type 1	OMIM:312870
+11	0.86	Hemolytic uremic syndrome, atypical	OMIM:235400
+13	0.85	Omodysplasia type 1	OMIM:258315
+14	0.84	Dubowitz syndrome	OMIM:223370
+15	0.83	Fanconi anemia, complementation group A	OMIM:227650

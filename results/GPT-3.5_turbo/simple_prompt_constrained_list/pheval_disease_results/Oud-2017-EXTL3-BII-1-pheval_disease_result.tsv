@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Spondyloepiphyseal dysplasia	OMIM:184252
+2	0.86	Microcephaly	OMIM:251200
+3	0.85	Short stature	OMIM:613080
+4	0.84	Global developmental delay	OMIM:614188
+5	0.83	Failure to thrive	OMIM:274300
+6	0.82	Short neck	OMIM:613702
+7	0.8	Abnormal facial shape	OMIM:248300
+8	0.77	Clinodactyly of the 5th finger	OMIM:123200
+9	0.76	Abnormal bone ossification	OMIM:166220
+10	0.75	Decreased proportion of CD4-positive T cells	OMIM:614701
+11	0.74	Hypertonia	OMIM:614168
+12	0.73	Epileptic spasms	OMIM:308350
+13	0.72	Marked delay in bone age	OMIM:109420
+14	0.7	Overweight	OMIM:617126
+15	0.68	Recurrent upper respiratory tract infections	OMIM:616126

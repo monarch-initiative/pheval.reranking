@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.85	Stickler syndrome, type II	OMIM:604841
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.75	Bartter syndrome, type 4B, digenic	OMIM:613090
+5	0.7	Brittle cornea syndrome 1	OMIM:229200
+6	0.65	Early-onset glaucoma	OMIM:609887
+7	0.6	Weill-Marchesani syndrome 1	OMIM:277600
+8	0.55	Keloids, multiple susceptibility	OMIM:148100
+9	0.5	Mucolipidosis type IV	OMIM:252650
+10	0.45	Osteogenesis imperfecta type VI	OMIM:610967
+11	0.4	Myopia 1	OMIM:160700
+12	0.35	Lowe syndrome	OMIM:309000
+13	0.3	Aniridia 1	OMIM:106210
+14	0.25	Mucopolysaccharidosis type IVB	OMIM:253010
+15	0.2	Familial juvenile hyperuricemic nephropathy type 1	OMIM:162000
+16	0.15	Polyarticular juvenile idiopathic arthritis	OMIM:604302

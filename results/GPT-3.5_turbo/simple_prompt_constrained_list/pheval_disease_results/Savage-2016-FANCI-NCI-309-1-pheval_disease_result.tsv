@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Arnold-Chiari malformation	OMIM:213300
+2	0.8	Atrial septal defect	OMIM:108800
+3	0.7	Chromosome breakage	OMIM:118900
+4	0.6	Ventricular septal defect	OMIM:614431
+5	0.5	Patent ductus arteriosus	OMIM:607411
+6	0.4	Small pituitary gland	OMIM:600577
+7	0.3	Short thumb	OMIM:185050
+8	0.2	Neutropenia	OMIM:607847
+9	0.1	Triangular face	OMIM:190250

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Autism	OMIM:209850
+2	0.8	Widow's peak	OMIM:246300
+3	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.6	Progeroid facial appearance with hand anomalies	OMIM:614099
+5	0.5	Growth hormone insensitivity syndrome	OMIM:262500
+6	0.4	Sotos syndrome	OMIM:117550
+7	0.3	Cornelia de Lange syndrome	OMIM:122470
+8	0.2	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+9	0.1	PKU-like syndrome	OMIM:260600
+9	0.1	Mucopolysaccharidosis, type I	OMIM:607014
+9	0.1	Winchester syndrome	OMIM:277950
+9	0.1	Glycogenosis, type II	OMIM:232300
+9	0.1	Hyaline fibromatosis syndrome	OMIM:228600
+9	0.1	Maroteaux-Lamy syndrome	OMIM:253200
+9	0.1	3MC syndrome 3	OMIM:616332

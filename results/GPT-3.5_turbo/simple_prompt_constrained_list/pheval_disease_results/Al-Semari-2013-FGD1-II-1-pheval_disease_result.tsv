@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.8	Stickler syndrome	OMIM:108300
+3	0.7	Down syndrome	OMIM:190685
+3	0.7	Ehlers-Danlos syndrome	OMIM:130000
+5	0.6	Williams syndrome	OMIM:194050
+5	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.5	Noonan syndrome	OMIM:163950
+7	0.5	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.4	Prader-Willi syndrome	OMIM:176270
+9	0.4	Turner syndrome	OMIM:313850
+11	0.3	Crouzon syndrome	OMIM:123500
+11	0.3	Aarskog-Scott syndrome	OMIM:305400
+13	0.2	Fragile X syndrome	OMIM:300624
+13	0.2	Wolf-Hirschhorn syndrome	OMIM:194190
+15	0.1	DiGeorge syndrome	OMIM:188400

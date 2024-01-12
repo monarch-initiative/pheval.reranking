@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Dystonia	OMIM:128230
+1	1.0	Neuronal ceroid lipofuscinosis	OMIM:256730
+1	1.0	Spastic paraplegia	OMIM:613259
+4	0.9	Huntington disease	OMIM:143100
+4	0.9	Juvenile amyotrophic lateral sclerosis	OMIM:105400
+6	0.8	Wilson disease	OMIM:277900
+6	0.8	Rett syndrome	OMIM:312750
+8	0.7	Ataxia	OMIM:208920
+8	0.7	Metachromatic leukodystrophy	OMIM:250100
+8	0.7	Hereditary spastic paraplegia	OMIM:182601
+11	0.6	Friedreich ataxia	OMIM:229300
+11	0.6	Pelizaeus-Merzbacher disease	OMIM:312080
+11	0.6	Primary lateral sclerosis	OMIM:611637
+14	0.5	Late-onset Tay-Sachs disease	OMIM:272800
+14	0.5	Familial hemiplegic migraine	OMIM:141500

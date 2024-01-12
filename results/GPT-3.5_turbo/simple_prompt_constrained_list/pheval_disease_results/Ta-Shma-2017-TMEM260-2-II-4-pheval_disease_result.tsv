@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Conotruncal heart malformations	OMIM:217095
+1	1.0	Tetralogy of Fallot	OMIM:187500
+1	1.0	Hypoplastic left heart syndrome	OMIM:241550
+1	1.0	Double outlet right ventricle	OMIM:217095
+1	1.0	Aortic atresia	OMIM:109650
+1	1.0	Tricuspid atresia	OMIM:605067
+1	1.0	Interrupted aortic arch	OMIM:109700
+1	1.0	Aortic coarctation	OMIM:120000
+1	1.0	Aortopulmonary window	OMIM:607812
+1	1.0	Pulmonary valve atresia	OMIM:607211
+1	1.0	Persistent truncus arteriosus	OMIM:217095
+1	1.0	Truncus arteriosus	OMIM:217095
+1	1.0	Tetralogy of Fallot with absent pulmonary valve	OMIM:217095
+14	0.8	DiGeorge syndrome	OMIM:188400
+15	0.7	Branchiootorenal syndrome	OMIM:113650

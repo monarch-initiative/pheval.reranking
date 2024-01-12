@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson Disease	OMIM:277900
+2	0.8	Hurler Syndrome	OMIM:607014
+3	0.7	Systemic Lupus Erythematosus	OMIM:152700
+4	0.6	Ehlers-Danlos Syndrome	OMIM:130050
+5	0.5	Crohn's Disease	OMIM:266600
+6	0.4	Amyloidosis	OMIM:105200
+7	0.3	Marfan Syndrome	OMIM:154700
+8	0.2	Henoch-Schonlein Purpura	OMIM:267600
+9	0.1	Cystic Fibrosis	OMIM:219700
+9	0.1	Glomerulonephritis	OMIM:233810
+9	0.1	Churg-Strauss Syndrome	OMIM:607339
+9	0.1	Sjogren's Syndrome	OMIM:270150
+9	0.1	Primary Biliary Cirrhosis	OMIM:109720
+9	0.1	Derma Nodosa Maligna	OMIM:225000
+9	0.1	Intestinal Pseudo-Obstruction	OMIM:155310

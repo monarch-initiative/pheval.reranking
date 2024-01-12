@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	PMG (PolyMircrogiria)	OMIM:605282
+1	0.9	Brain Abnormalities with or without Urinary Tract Defects	OMIM:613254
+3	0.85	Mental Retardation, Autosomal Dominant 20	OMIM:615502
+3	0.85	Pontocerebellar Hypoplasia, Type 1b	OMIM:614969
+5	0.8	Brain Malformations with or without Urinary Tract Defects	OMIM:613990
+5	0.8	Blepharophimosis, Ptosis, and Epicanthus Inversus Syndrome	OMIM:110100
+7	0.75	DICER1 Syndrome	OMIM:614931
+7	0.75	Sotos Syndrome 2	OMIM:614753
+9	0.7	Mental Retardation, Autosomal Recessive 3	OMIM:608443
+9	0.7	Microcephaly-Micromelia Syndrome	OMIM:251230
+9	0.7	DUB (Deafness, Unilateral, Bilateral)	OMIM:121010
+12	0.65	Rett Syndrome	OMIM:312750
+12	0.65	Alpha-Mannosidosis	OMIM:248500
+14	0.6	Brain Malformations-Musculoskeletal Abnormalities	OMIM:610204
+14	0.6	Cockayne Syndrome B	OMIM:133540

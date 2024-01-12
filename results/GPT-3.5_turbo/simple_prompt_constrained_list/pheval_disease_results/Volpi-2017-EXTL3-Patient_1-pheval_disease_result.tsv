@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.6	Short Stature, Idiopathic	OMIM:604271
+2	0.5	Sepsis	OMIM:609625
+3	0.4	Fetal Distress	OMIM:228400
+4	0.3	Hyperreflexia	OMIM:614128
+5	0.2	Erythroderma	OMIM:190310
+6	0.1	Global Developmental Delay	OMIM:614703

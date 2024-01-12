@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	OMIM:271640
+2	0.85	Spondyloepiphyseal dysplasia with congenital joint dislocations	OMIM:616941
+3	0.8	Conradi-Hünermann syndrome	OMIM:302960
+4	0.75	Hypochondroplasia	OMIM:146000
+5	0.7	Brachyolmia	OMIM:113500
+6	0.65	Dyssegmental dysplasia, Silverman-Handmaker type	OMIM:224410
+7	0.6	Diastrophic dysplasia	OMIM:222600
+8	0.55	Campomelic dysplasia	OMIM:114290
+9	0.5	Achondrogenesis type 1B	OMIM:600972
+10	0.45	Stüve-Wiedemann syndrome	OMIM:601559
+11	0.4	Osteogenesis imperfecta type II	OMIM:166210
+12	0.35	Desbuquois dysplasia	OMIM:251450
+13	0.3	Metatropic dysplasia	OMIM:156530
+14	0.25	Achondroplasia	OMIM:100800
+15	0.2	Multiple epiphyseal dysplasia type 5	OMIM:607078
+16	0.15	Atelosteogenesis type II	OMIM:256050

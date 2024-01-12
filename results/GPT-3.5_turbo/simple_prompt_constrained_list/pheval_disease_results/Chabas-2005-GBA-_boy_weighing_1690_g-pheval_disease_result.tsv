@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Gaucher disease	OMIM:230800
+1	1.0	Niemann-Pick disease type C	OMIM:257220
+1	1.0	Congenital nonspherocytic hemolytic anemia	OMIM:206200
+1	1.0	Ichthyosis vulgaris	OMIM:146700
+1	1.0	Fucosidosis	OMIM:230000
+1	1.0	Hurler syndrome	OMIM:607014
+1	1.0	Aspartylglucosaminuria	OMIM:208400
+8	0.9	Hypomyelination and congenital cataract	OMIM:610532
+8	0.9	Krabbe disease	OMIM:245200
+8	0.9	Multiple sulfatase deficiency	OMIM:272200
+8	0.9	Fucosyltransferase 1 deficiency	OMIM:230000
+8	0.9	Schnyder corneal dystrophy	OMIM:121800
+8	0.9	GM2 gangliosidosis, AB variant	OMIM:272750
+8	0.9	GM2 gangliosidosis, AD variant	OMIM:272750
+8	0.9	GM2 gangliosidosis, AR variant	OMIM:608013

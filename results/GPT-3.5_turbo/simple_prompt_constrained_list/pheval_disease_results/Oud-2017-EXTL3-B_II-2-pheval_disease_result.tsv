@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Skeletal dysplasia	OMIM:184900
+2	0.8	Atrial septal defect	OMIM:607941
+3	0.7	Postaxial foot polydactyly	OMIM:603359
+4	0.6	Microcephaly	OMIM:251200
+5	0.5	Preaxial hand polydactyly	OMIM:174500
+6	0.4	Seizures	OMIM:600512
+7	0.3	Hypsarrhythmia	OMIM:253290
+8	0.2	Hypertonia	OMIM:602051
+9	0.1	Combined immunodeficiency	OMIM:615272
+9	0.1	Enlarged uterus	OMIM:613327
+9	0.1	Eosinophilia	OMIM:131400
+9	0.1	Absence of CD8-positive T cells	OMIM:608971
+9	0.1	Severe combined immunodeficiency	OMIM:202500
+9	0.1	Erythroderma	OMIM:133200
+9	0.1	Nystagmus	OMIM:310700
+9	0.1	Narrow mouth	OMIM:601351

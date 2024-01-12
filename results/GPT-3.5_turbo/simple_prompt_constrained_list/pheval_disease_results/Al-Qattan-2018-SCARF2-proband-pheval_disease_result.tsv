@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Distal arthrogryposis type 5D	OMIM:615877
+2	0.8	Sparse hair, short stature, and skin anomalies	OMIM:601616
+3	0.7	Stickler syndrome type 2	OMIM:604841
+4	0.6	Ehlers-Danlos syndrome, musculocontractural type 2	OMIM:615539
+5	0.5	Stickler syndrome type 3	OMIM:184840
+6	0.4	Hyper IgM syndrome type 5	OMIM:608106
+7	0.3	Knobloch syndrome type 2	OMIM:608454
+8	0.2	Infectious mononucleosis	OMIM:615329
+9	0.1	Temtamy syndrome	OMIM:218340

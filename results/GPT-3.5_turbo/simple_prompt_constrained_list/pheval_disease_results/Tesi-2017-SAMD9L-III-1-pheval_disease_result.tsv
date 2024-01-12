@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency due to ADA deficiency	OMIM:613179
+2	0.8	Ataxia-Telangiectasia	OMIM:208900
+3	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+3	0.7	Immunodeficiency with hyper-IgM, type 1	OMIM:308230
+5	0.6	Common Variable Immunodeficiency	OMIM:607594
+5	0.6	Combined Immunodeficiency, X-Linked	OMIM:312863
+7	0.5	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	OMIM:608971
+8	0.4	Amyotrophic lateral sclerosis 1	OMIM:105400
+8	0.4	Spinocerebellar ataxia 3	OMIM:109150
+8	0.4	Immunodeficiency with hyper-IgM, type 2	OMIM:605258
+8	0.4	Immunodeficiency 19	OMIM:615617
+8	0.4	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+8	0.4	Cerebellar ataxia, mental retardation and dysequlibrium syndrome 1 (CAMRQ1)	OMIM:224050
+14	0.3	Myeloid neoplasm associated with isolated del(5q)	OMIM:164730
+14	0.3	Amyotrophic lateral sclerosis 2, juvenile	OMIM:205100

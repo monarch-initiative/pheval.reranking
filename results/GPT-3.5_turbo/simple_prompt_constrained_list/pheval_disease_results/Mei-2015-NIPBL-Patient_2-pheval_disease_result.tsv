@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.77	Rubinstein-Taybi Syndrome	OMIM:180849
+2	0.74	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.72	Cornelia de Lange Syndrome	OMIM:122470
+4	0.69	Wolf-Hirschhorn Syndrome	OMIM:194190
+5	0.68	Fetal Alcohol Spectrum Disorders	OMIM:134270
+6	0.66	Williams-Beuren Syndrome	OMIM:194050
+7	0.65	Fragile X Syndrome	OMIM:300624
+8	0.64	Kabuki Syndrome	OMIM:147920
+9	0.63	22q11.2 Deletion Syndrome	OMIM:192430
+10	0.62	Cri-du-chat Syndrome	OMIM:123450
+11	0.61	Angelman Syndrome	OMIM:105830
+12	0.6	Prader-Willi Syndrome	OMIM:176270
+13	0.58	Coffin-Siris Syndrome	OMIM:135900
+14	0.57	Noonan Syndrome	OMIM:163950
+15	0.55	Smith-Magenis Syndrome	OMIM:182290

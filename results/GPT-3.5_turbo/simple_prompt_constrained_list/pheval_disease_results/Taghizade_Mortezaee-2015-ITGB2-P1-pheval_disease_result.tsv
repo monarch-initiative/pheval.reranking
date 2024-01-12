@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neutropenia	OMIM:613107
+2	0.8	Omphalocele	OMIM:164750
+3	0.7	Skin ulcers	OMIM:210600
+4	0.6	Delayed umbilical cord separation	OMIM:609480

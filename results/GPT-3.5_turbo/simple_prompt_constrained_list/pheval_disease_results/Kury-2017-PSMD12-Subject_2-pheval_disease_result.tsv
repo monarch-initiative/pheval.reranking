@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Kabuki syndrome	OMIM:147920
+2	0.93	Williams syndrome	OMIM:194050
+2	0.93	MECP2 duplication syndrome	OMIM:300260
+4	0.92	Pitt-Hopkins syndrome	OMIM:610954
+4	0.92	Rubinstein-Taybi syndrome	OMIM:613684
+4	0.92	Prader-Willi syndrome	OMIM:176270
+4	0.92	Angelman syndrome	OMIM:105830
+8	0.91	Cornelia de Lange syndrome	OMIM:122470
+8	0.91	Rett syndrome	OMIM:312750
+10	0.9	CHARGE syndrome	OMIM:214800
+10	0.9	3q29 microduplication syndrome	OMIM:613874
+10	0.9	Trisomy 21	OMIM:190685
+10	0.9	Jacobsen syndrome	OMIM:147791
+10	0.9	22q11.2 deletion syndrome	OMIM:192430
+10	0.9	Fragile X syndrome	OMIM:300624

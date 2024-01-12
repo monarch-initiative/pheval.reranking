@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis pigmentosa 2	OMIM:312600
+2	0.9	Leber congenital amaurosis 1	OMIM:204000
+3	0.85	Retinal dystrophy, iris coloboma, and comedogenic acne syndrome	OMIM:616108
+4	0.8	Retinitis pigmentosa 3	OMIM:300029
+5	0.75	Cone-rod dystrophy 1	OMIM:602275
+6	0.7	Retinitis pigmentosa 1	OMIM:268000
+7	0.65	Cone-rod dystrophy 2	OMIM:120970
+8	0.6	Retinitis pigmentosa 9	OMIM:180104
+9	0.55	Cone dystrophy 3	OMIM:604116
+10	0.5	Cone dystrophy 2	OMIM:120970
+11	0.45	Retinitis pigmentosa 13	OMIM:600059
+12	0.4	Retinitis pigmentosa 4	OMIM:613731
+13	0.35	Retinitis pigmentosa 23	OMIM:300424
+14	0.3	Fundus albipunctatus	OMIM:136880
+15	0.25	Leber congenital amaurosis 2	OMIM:204100
+16	0.2	Night blindness, congenital stationary, autosomal dominant 1	OMIM:610445

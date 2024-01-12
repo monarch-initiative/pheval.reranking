@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:613254
+2	0.85	Stickler syndrome	OMIM:604841
+3	0.8	Marfan syndrome	OMIM:154700
+4	0.75	Waardenburg syndrome	OMIM:193500
+5	0.7	Aarskog-Scott syndrome	OMIM:305400
+6	0.65	Anophthalmia/microphthalmia	OMIM:610125
+7	0.6	Pierre Robin sequence	OMIM:261800
+8	0.55	Renal coloboma syndrome	OMIM:120330
+9	0.5	Treacher Collins syndrome	OMIM:154500
+10	0.45	Bohring-Opitz syndrome	OMIM:605039
+11	0.4	Acrocallosal syndrome	OMIM:200990
+12	0.35	Hallermann-Streiff syndrome	OMIM:234100
+13	0.3	Autosomal recessive cutis laxa type 1	OMIM:219100
+14	0.25	Joubert syndrome	OMIM:213300
+15	0.2	CHARGE syndrome	OMIM:214800
+16	0.15	Fraser syndrome	OMIM:219000

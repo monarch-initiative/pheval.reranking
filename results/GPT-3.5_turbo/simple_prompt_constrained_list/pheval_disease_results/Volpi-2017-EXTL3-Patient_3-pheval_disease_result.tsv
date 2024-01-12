@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple epiphyseal dysplasia	OMIM:604135
+2	0.8	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.7	Cohen syndrome	OMIM:216550
+4	0.6	Coffin-Siris syndrome	OMIM:135900
+5	0.5	Cantu syndrome	OMIM:239850
+6	0.4	Chromosomal deletion syndrome	OMIM:607441
+7	0.3	Acrocallosal syndrome	OMIM:200990
+8	0.2	Metaphyseal dysplasia	OMIM:250400
+9	0.1	Atelosteogenesis syndrome	OMIM:108720

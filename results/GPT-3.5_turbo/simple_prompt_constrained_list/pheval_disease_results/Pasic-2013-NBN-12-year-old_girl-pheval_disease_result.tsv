@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Immunodeficiency 49	OMIM:618433
+2	0.9333333333333333	Immunodeficiency 35	OMIM:611521
+2	0.9333333333333333	Immunodeficiency 33	OMIM:300636
+2	0.9333333333333333	Immunoglobulin alpha deficiency	OMIM:609529
+5	0.8666666666666667	Immunodeficiency 10	OMIM:615085
+5	0.8666666666666667	Hypogammaglobulinemia 4	OMIM:608184
+5	0.8666666666666667	Immunoglobulin G subclass deficiency	OMIM:614993
+5	0.8666666666666667	Hypogammaglobulinemia 5	OMIM:613495
+5	0.8666666666666667	Immunodeficiency 13	OMIM:615518
+10	0.8	Immunodeficiency 24	OMIM:615897
+10	0.8	Immunodeficiency 18	OMIM:615615
+10	0.8	Immunodeficiency 26	OMIM:615968
+10	0.8	Immunodeficiency 23	OMIM:615816
+10	0.8	Immunodeficiency 14	OMIM:300643
+15	0.7333333333333333	Immunodeficiency 43	OMIM:616996
+15	0.7333333333333333	Immunodeficiency 52	OMIM:617514

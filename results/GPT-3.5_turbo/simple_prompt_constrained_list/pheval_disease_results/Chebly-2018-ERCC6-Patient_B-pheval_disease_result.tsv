@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Microcephaly	OMIM:251200
+2	0.997	Developmental cataract	OMIM:604219
+3	0.987	Cutaneous photosensitivity	OMIM:614093
+4	0.961	Dry skin	OMIM:612341
+5	0.879	Deeply set eye	OMIM:154500

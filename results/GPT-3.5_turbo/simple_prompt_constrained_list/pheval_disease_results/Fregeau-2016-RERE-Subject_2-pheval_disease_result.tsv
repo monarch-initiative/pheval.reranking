@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fragile X Syndrome	OMIM:300624
+1	0.9	Severe Intellectual Disability and Progressive Spastic Paraparesis	OMIM:616930
+1	0.9	Coloboma, Osteopetrosis, Microphthalmia, Macrocephaly, Albinism, and Deafness	OMIM:617306
+4	0.8	Oculoauriculofrontonasal Syndrome	OMIM:300166
+4	0.8	Feingold Syndrome	OMIM:164280
+4	0.8	Mental Retardation, Autosomal Dominant 7	OMIM:614104
+4	0.8	Lujan Fryns Syndrome	OMIM:309520
+4	0.8	Alzheimer Disease	OMIM:104300
+4	0.8	Muscular Dystrophy-Dystroglycanopathy (Congenital With Mental Retardation), Type B, 4	OMIM:613152
+4	0.8	Microphthalmia with Linear Skin Defects Syndrome	OMIM:309801
+4	0.8	Whelan Syndrome	OMIM:601308
+4	0.8	Ohdo Syndrome, X-Linked	OMIM:300895
+4	0.8	Mental Retardation, Autosomal Recessive 19	OMIM:613443
+4	0.8	Immunodeficiency 10	OMIM:612783
+4	0.8	Cockayne Syndrome A	OMIM:216400

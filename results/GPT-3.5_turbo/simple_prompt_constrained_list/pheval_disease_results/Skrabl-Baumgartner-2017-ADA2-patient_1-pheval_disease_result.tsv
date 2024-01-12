@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Systemic lupus erythematosus	OMIM:152700
+1	0.9	Rheumatoid arthritis	OMIM:180300
+1	0.9	Antiphospholipid syndrome	OMIM:107320
+1	0.9	Behcet syndrome	OMIM:109650
+5	0.8	Migraine	OMIM:157300
+5	0.8	Hypereosinophilic syndrome	OMIM:607685
+5	0.8	Temporal arteritis	OMIM:187360
+8	0.7	Systemic vasculitis	OMIM:608700
+8	0.7	Polymyalgia rheumatica	OMIM:604795
+8	0.7	Giant cell arteritis	OMIM:187360
+11	0.6	Systemic sclerosis	OMIM:181750
+11	0.6	Polyarteritis nodosa	OMIM:600634
+11	0.6	Moyamoya disease	OMIM:252350
+11	0.6	Cogan syndrome	OMIM:124200
+11	0.6	Recurrent aphthous stomatitis	OMIM:610385
+11	0.6	Bacterial meningitis	OMIM:614802

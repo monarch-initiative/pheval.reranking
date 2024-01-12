@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia	OMIM:313900
+2	0.8	Thrombocytopenia 2	OMIM:188000
+3	0.7	Thrombocytopenia 3	OMIM:273900
+4	0.6	Thrombocytopenia 5	OMIM:616498
+5	0.5	Thrombocytopenia 6	OMIM:616937
+5	0.5	Thrombocytopenia 7	OMIM:616937
+7	0.4	Thrombocytopenia absent radius syndrome	OMIM:274000
+8	0.3	Anemia, X-linked, with or without neutropenia and/or platelet abnormalities	OMIM:300835
+9	0.2	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.1	Hermansky-Pudlak syndrome 1	OMIM:203300
+11	0.05	Fanconi anemia, complementation group C	OMIM:227645
+12	0.04	Thrombocytopenia 1	OMIM:313900
+13	0.03	Myelofibrosis with myeloid metaplasia	OMIM:254450
+14	0.02	Mental retardation, autosomal dominant 21	OMIM:614104
+15	0.01	Diamond-Blackfan anemia 1	OMIM:105650
+15	0.01	Thrombocytopenia X-linked	OMIM:313900

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple epiphyseal dysplasia, recessive	OMIM:226900
+2	0.8	Severe combined immunodeficiency, B cell-negative	OMIM:617782
+3	0.7	Developmental stagnation, lethal	OMIM:209850
+4	0.6	Cloverleaf skull, constipation, and ectopic ossification of the spinal ligaments	OMIM:614563
+5	0.5	Agenesis of the corpus callosum, with facial anomalies and Robin sequence	OMIM:618498
+6	0.4	Lu-jo syndrome	OMIM:614620
+7	0.3	Congenital disorder of glycosylation, type Im	OMIM:610768
+8	0.2	Microcephaly with mental retardation and digital anomalies	OMIM:616817
+9	0.1	Johanson-Blizzard syndrome	OMIM:243800

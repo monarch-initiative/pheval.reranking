@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Spastic paraplegia	OMIM:182600
+1	1.0	Spastic gait	OMIM:182600
+1	1.0	Hyporeflexia of lower limbs	OMIM:182600
+1	1.0	Difficulty walking	OMIM:182600
+1	1.0	Distal peripheral sensory neuropathy	OMIM:182600
+1	1.0	Distal muscle weakness	OMIM:182600
+7	0.9	Dysarthria	OMIM:182600
+8	0.0	OMIM:618314	OMIM:618314
+8	0.0	OMIM:144200	OMIM:144200
+8	0.0	OMIM:161200	OMIM:161200
+8	0.0	OMIM:161400	OMIM:161400
+8	0.0	OMIM:609528	OMIM:609528
+8	0.0	OMIM:165720	OMIM:165720
+8	0.0	OMIM:603218	OMIM:603218
+8	0.0	OMIM:608027	OMIM:608027

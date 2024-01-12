@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.8	Lambert-Eaton myasthenic syndrome	OMIM:254200
+3	0.7	Congenital fiber-type disproportion	OMIM:255310
+4	0.6	Myotonic dystrophy type 1	OMIM:160900
+5	0.5	Central core disease	OMIM:117000
+6	0.4	Myopathy, proximal, with hereditary myopathy with lactic acidosis and  deficiency of succinate dehydrogenase	OMIM:272870
+7	0.3	Nemaline myopathy 1	OMIM:161800
+8	0.2	Oculopharyngeal muscular dystrophy	OMIM:164300
+9	0.1	Congenital myasthenic syndrome	OMIM:601462

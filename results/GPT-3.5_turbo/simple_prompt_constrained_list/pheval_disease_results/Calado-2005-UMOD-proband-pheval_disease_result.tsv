@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hyperuricemia	OMIM:138900
+1	1.0	Gout	OMIM:138900
+3	0.9	Chronic kidney disease	OMIM:601199
+3	0.9	Renal insufficiency	OMIM:601199
+5	0.8	Renal cyst	OMIM:173900
+6	0.7	Stage 5 chronic kidney disease	OMIM:601199
+7	0.6	Elevated serum creatinine	OMIM:601199

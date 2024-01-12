@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism spectrum disorder	OMIM:611016
+2	0.8	Rett syndrome	OMIM:312750
+3	0.7	Intellectual disability	OMIM:610028
+3	0.7	Epileptic encephalopathy	OMIM:615005
+5	0.6	Angelman syndrome	OMIM:105830
+5	0.6	Pitt-Hopkins syndrome	OMIM:610954
+5	0.6	Phelan-McDermid syndrome	OMIM:606232
+5	0.6	Smith-Magenis syndrome	OMIM:182290
+9	0.5	Cornelia de Lange syndrome	OMIM:122470
+9	0.5	Fragile X syndrome	OMIM:300624
+9	0.5	Kleine-Levin syndrome	OMIM:614622
+9	0.5	Prader-Willi syndrome	OMIM:176270
+13	0.4	Lennox-Gastaut syndrome	OMIM:600622
+13	0.4	Tourette syndrome	OMIM:137580
+13	0.4	Fragile site, distamycin A type, rare, fra(16)(q22.1)	OMIM:136580

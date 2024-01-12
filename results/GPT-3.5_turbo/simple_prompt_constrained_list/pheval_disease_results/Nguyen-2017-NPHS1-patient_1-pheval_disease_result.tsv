@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Nephrotic syndrome, type 1	OMIM:256300
+1	1.0	Hypoalbuminemia, nephrotic syndrome, and hypoproteinemia, Finnish type	OMIM:613842
+3	0.9	Nephrotic syndrome, type 4	OMIM:256370
+3	0.9	Nephrotic syndrome 9	OMIM:615573
+5	0.8	Familial hypercholesterolemia	OMIM:143890
+6	0.7	Alagille syndrome	OMIM:118450
+6	0.7	Nephrotic syndrome 2	OMIM:600995
+8	0.6	Nephrotic syndrome 1	OMIM:256300
+8	0.6	Nephrotic syndrome 5	OMIM:614199
+10	0.5	Lecithin:cholesterol acyltransferase deficiency	OMIM:245900
+10	0.5	Idiopathic hypercalcemia	OMIM:143880
+12	0.4	Nephrotic syndrome, type 6	OMIM:614196
+12	0.4	Nephrotic syndrome 7	OMIM:615008
+14	0.3	Nephrotic syndrome 3	OMIM:610725
+14	0.3	Hypobetalipoproteinemia, familial, 1	OMIM:615558
+16	0.2	Renal hypodysplasia/aplasia 1	OMIM:191830

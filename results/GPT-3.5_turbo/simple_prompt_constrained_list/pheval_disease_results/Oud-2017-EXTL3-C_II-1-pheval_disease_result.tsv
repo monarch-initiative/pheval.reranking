@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome	OMIM:163950
+1	0.9	Kabuki syndrome	OMIM:147920
+3	0.8	Neurofibromatosis type 1	OMIM:162200
+3	0.8	22q11.2 deletion syndrome	OMIM:192430
+5	0.7	Down syndrome	OMIM:190685
+5	0.7	Alagille syndrome	OMIM:118450
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.6	Russell-Silver syndrome	OMIM:180860
+9	0.5	1p36 deletion syndrome	OMIM:607872
+9	0.5	Marfan syndrome	OMIM:154700
+11	0.4	Jacobsen syndrome	OMIM:147791
+11	0.4	CHARGE syndrome	OMIM:214800
+13	0.3	Cohen syndrome	OMIM:216550
+13	0.3	Congenital disorder of glycosylation type 1A	OMIM:212065
+15	0.2	Cornelia de Lange syndrome	OMIM:122470
+15	0.2	Sotos syndrome	OMIM:117550

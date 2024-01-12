@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital disorder of glycosylation, type Ia	OMIM:212065
+2	0.9	Sialuria	OMIM:269921
+3	0.85	Mucolipidosis IV	OMIM:252650
+4	0.8	Neonatal adrenoleukodystrophy	OMIM:601539
+5	0.75	Holoprosencephaly 3	OMIM:142945
+6	0.7	Amyotrophic lateral sclerosis 16	OMIM:614373
+7	0.65	Epilepsy, nocturnal frontal lobe, type 2	OMIM:605387
+8	0.6	Hyperimmunoglobulin E recurrent infection syndrome, autosomal recessive	OMIM:243700
+9	0.55	X-linked intellectual disability, Siderius type	OMIM:300263
+10	0.5	Craniofacial anomalies and anterior segment dysgenesis syndrome	OMIM:614416
+11	0.45	Acromelic frontonasal dysplasia	OMIM:603671
+12	0.4	Deafness, autosomal dominant 77	OMIM:618493
+13	0.35	Glycogen storage disease IV	OMIM:232500
+14	0.3	Mowat-Wilson syndrome	OMIM:235730
+15	0.25	Primary microcephaly, McPherson type	OMIM:614673
+16	0.2	Xeroderma pigmentosum, group G	OMIM:278780

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Seizure	OMIM:613254
+2	0.95	Rhabdomyolysis	OMIM:268310
+3	0.9	Torsades de pointes	OMIM:613454
+4	0.85	Cardiac Arrest	OMIM:601144
+5	0.8	Hypoglycemia	OMIM:240300
+6	0.75	Dilated Cardiomyopathy	OMIM:115150
+7	0.7	Arrhythmia	OMIM:115200
+8	0.65	Intellectual Disability	OMIM:615834
+9	0.6	Muscular Dystrophy	OMIM:310200
+10	0.55	Congenital Myopathy	OMIM:160000
+11	0.5	Long QT Syndrome	OMIM:192500
+12	0.45	Mitochondrial Myopathy	OMIM:609560
+13	0.4	Hyperinsulinemic Hypoglycemia	OMIM:601820
+14	0.35	Congenital Disorder of Glycosylation	OMIM:607143
+15	0.3	Hypokalemic Periodic Paralysis	OMIM:170400
+16	0.25	Periventricular Nodular Heterotopia	OMIM:300049

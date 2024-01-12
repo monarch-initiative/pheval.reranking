@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.8	Usher syndrome	OMIM:276900
+3	0.7	Laurence-Moon syndrome	OMIM:245800
+4	0.6	Senior-Løken syndrome	OMIM:266900
+5	0.5	Joubert syndrome	OMIM:213300
+6	0.4	Alström syndrome	OMIM:203800
+7	0.3	Meckel syndrome	OMIM:249000
+8	0.2	Niemann-Pick disease type C	OMIM:607625
+9	0.1	Cohen syndrome	OMIM:216550
+9	0.1	Biemond syndrome type II	OMIM:210350
+9	0.1	Renal-cell carcinoma	OMIM:144700
+9	0.1	Mohr-Tranebjaerg syndrome	OMIM:304700
+9	0.1	Familial exudative vitreoretinopathy	OMIM:133780
+9	0.1	Bardet-Biedl syndrome 2	OMIM:615981
+9	0.1	Senior-Løken syndrome 1	OMIM:266900
+9	0.1	Ciliopathy	OMIM:615846

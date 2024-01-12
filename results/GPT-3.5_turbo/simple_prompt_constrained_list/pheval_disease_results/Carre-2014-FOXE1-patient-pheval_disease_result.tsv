@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Thyroid agenesis	OMIM:609284
+2	0.9285714285714286	Choanal atresia	OMIM:607259
+3	0.8571428571428571	Cleft palate	OMIM:119540
+3	0.8571428571428571	Hypersomnia	OMIM:614048
+5	0.7857142857142857	Decreased circulating thyroxine level	OMIM:612781
+5	0.7857142857142857	Increased thyroid-stimulating hormone level	OMIM:607200
+5	0.7857142857142857	Feeding difficulties	OMIM:615656

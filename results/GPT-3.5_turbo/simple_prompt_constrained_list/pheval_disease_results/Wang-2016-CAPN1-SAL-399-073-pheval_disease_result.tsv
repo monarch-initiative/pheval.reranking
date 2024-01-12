@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Friedreich ataxia	OMIM:229300
+2	0.85	Spinocerebellar ataxia type 2	OMIM:183090
+3	0.8	Spinocerebellar ataxia type 1	OMIM:164400
+4	0.75	Spinocerebellar ataxia type 3	OMIM:109150
+5	0.7	Multiple system atrophy	OMIM:146500
+6	0.65	Hereditary spastic paraplegia	OMIM:182600
+7	0.6	X-linked spinal and bulbar muscular atrophy	OMIM:313200
+8	0.55	Ataxia-telangiectasia	OMIM:208900
+9	0.5	Charcot-Marie-Tooth disease	OMIM:118220
+10	0.45	Ataxia with oculomotor apraxia	OMIM:208920
+11	0.4	Spinal muscular atrophy	OMIM:253300
+12	0.35	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+13	0.3	Neuronal ceroid lipofuscinosis	OMIM:256730
+14	0.25	Familial dysautonomia	OMIM:223900
+15	0.2	Amyotrophic lateral sclerosis	OMIM:105400

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia Type 1	OMIM:164400
+1	0.9	Spinocerebellar Ataxia Type 2	OMIM:183090
+1	0.9	Spinocerebellar Ataxia Type 3	OMIM:109150
+1	0.9	Hereditary Spastic Paraplegia	OMIM:182601
+1	0.9	Ataxia with Vitamin E Deficiency	OMIM:277460
+6	0.8	Friedreich Ataxia	OMIM:229300
+6	0.8	Ataxia with Oculomotor Apraxia Type 1	OMIM:208920
+6	0.8	Spastic Paraplegia 4	OMIM:182601
+6	0.8	Charcot-Marie-Tooth Disease, Type 4	OMIM:609125
+10	0.7	Cerebellar Atrophy, Visual Impairment, and Psychomotor Retardation	OMIM:213200
+10	0.7	Cerebellar Atrophy, Developmental Delay, and Seizures	OMIM:617768
+10	0.7	Central Core Disease	OMIM:117000
+10	0.7	Congenital Myopathy	OMIM:160500
+10	0.7	Familial Hemiplegic Migraine	OMIM:602481
+10	0.7	Hereditary Spastic Paraplegia Type 5A	OMIM:270800

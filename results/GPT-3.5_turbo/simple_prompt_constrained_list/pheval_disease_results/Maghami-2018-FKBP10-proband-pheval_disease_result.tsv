@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Osteogenesis imperfecta	OMIM:166200
+2	0.92	Glycogen storage disease type II	OMIM:232300
+3	0.9	Congenital disorder of glycosylation type Ia	OMIM:212065
+4	0.88	Mucolipidosis type II alpha/beta	OMIM:252500
+5	0.85	Alpha-mannosidosis	OMIM:248500
+6	0.8	Sanjad-Sakati syndrome	OMIM:241410
+7	0.75	Cartilage-hair hypoplasia	OMIM:250250
+8	0.7	Pycnodysostosis	OMIM:265800
+9	0.65	Chondrodysplasia punctata	OMIM:215100
+10	0.6	Traumatic bone cyst	OMIM:166420
+11	0.55	Chondrocalcinosis	OMIM:118600
+12	0.5	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome	OMIM:114290
+13	0.45	Non-accidental injury	OMIM:614272
+14	0.4	Mimetype syndrome	OMIM:614529
+15	0.35	Hand-foot-uterus syndrome	OMIM:162400
+16	0.3	Alkaptonuria	OMIM:203500

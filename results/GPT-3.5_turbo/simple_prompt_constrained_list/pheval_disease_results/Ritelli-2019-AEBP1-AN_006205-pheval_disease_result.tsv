@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome, classic type	OMIM:130000
+2	0.8	Marfan syndrome	OMIM:154700
+3	0.7	Loeys-Dietz syndrome type 4	OMIM:615582
+4	0.6	Stickler syndrome, type I	OMIM:108300
+5	0.5	Arterial tortuosity syndrome	OMIM:208050
+6	0.4	Larsen syndrome	OMIM:150250
+7	0.3	Spondyloepimetaphyseal dysplasia with joint laxity, type I	OMIM:271640
+8	0.2	Stickler syndrome, type III	OMIM:184840
+9	0.1	Hypermobile Ehlers-Danlos syndrome	OMIM:130020

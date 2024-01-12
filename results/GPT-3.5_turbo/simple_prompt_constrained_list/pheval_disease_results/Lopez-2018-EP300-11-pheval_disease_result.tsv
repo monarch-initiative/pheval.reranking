@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Chromosome 17q11.2 deletion syndrome	OMIM: OMIM:613754
+2	0.73	Greig cephalopolysyndactyly syndrome	OMIM: OMIM:175700
+3	0.72	Smith-Lemli-Opitz syndrome	OMIM: OMIM:270400
+4	0.71	PTEN hamartoma tumor syndrome	OMIM: OMIM:601728
+5	0.7	Fanconi anemia, complementation group A	OMIM: OMIM:227650
+6	0.69	Rubinstein-Taybi syndrome	OMIM: OMIM:180849
+7	0.68	Floating-Harbor syndrome	OMIM: OMIM:136140
+8	0.67	Williams-Beuren syndrome	OMIM: OMIM:194050
+9	0.66	Kabuki syndrome	OMIM: OMIM:147920
+10	0.65	Nicolaides-Baraitser syndrome	OMIM: OMIM:601358
+11	0.64	Autosomal recessive non-syndromic intellectual disability	OMIM: OMIM:614202
+12	0.63	Pitt-Hopkins syndrome	OMIM: OMIM:610954
+13	0.62	Smith-Magenis syndrome	OMIM: OMIM:182290
+14	0.61	Pallister-Killian syndrome	OMIM: OMIM:601803
+15	0.6	Gorlin-Chaudhry-Moss syndrome	OMIM: OMIM:233500

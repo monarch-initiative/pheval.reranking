@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan syndrome	OMIM:154700
+1	1.0	Loeys-Dietz syndrome	OMIM:609192
+1	1.0	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+1	1.0	Beals syndrome	OMIM:121050
+1	1.0	Weill-Marchesani syndrome	OMIM:277600
+6	0.9	Stickler syndrome type 1	OMIM:108300
+6	0.9	Stickler syndrome type 2	OMIM:604841
+6	0.9	Stickler syndrome type 3	OMIM:184840
+6	0.9	Stickler syndrome type 4	OMIM:614134
+6	0.9	Stickler syndrome type 5	OMIM:614284
+6	0.9	Stickler syndrome type 6	OMIM:277610
+6	0.9	Weaver syndrome	OMIM:277590
+6	0.9	Congenital contractural arachnodactyly	OMIM:121050
+6	0.9	Acrogeria	OMIM:201200
+6	0.9	Acroosteolysis dominant type	OMIM:102550
+16	0.8	Scoliosis	OMIM:181800

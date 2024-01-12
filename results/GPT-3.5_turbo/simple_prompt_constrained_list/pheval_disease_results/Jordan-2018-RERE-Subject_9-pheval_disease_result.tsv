@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Autism	OMIM:209850
+2	0.85	Williams syndrome	OMIM:194050
+3	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.75	Fragile X syndrome	OMIM:300624
+5	0.7	Angelman syndrome	OMIM:105830
+6	0.65	Rett syndrome	OMIM:312750
+7	0.6	22q11.2 deletion syndrome	OMIM:188400
+8	0.55	Tuberous sclerosis	OMIM:191100
+9	0.5	PTEN hamartoma tumor syndrome	OMIM:601728
+10	0.45	Cornelia de Lange syndrome	OMIM:122470
+11	0.4	Familial adenomatous polyposis	OMIM:175100
+12	0.35	Rubinstein-Taybi syndrome	OMIM:180849
+13	0.3	Fetal alcohol syndrome	OMIM:600128
+14	0.25	Noonan syndrome	OMIM:163950
+15	0.2	Costello syndrome	OMIM:218040

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Van Buchem disease	OMIM:239100
+1	0.9	Ondine's curse	OMIM:600155
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+1	0.9	Léri-Weill dyschondrosteosis	OMIM:127300
+1	0.9	Multicentric osteolysis, nodulosis, and arthropathy	OMIM:259600
+6	0.8	Glycogen storage disease type Ia	OMIM:232200
+6	0.8	X-linked hypophosphatemic rickets	OMIM:307800
+6	0.8	Lymphedema-distichiasis syndrome	OMIM:153400
+6	0.8	Van der Woude syndrome	OMIM:119300
+6	0.8	Cornelia de Lange syndrome	OMIM:122470
+6	0.8	Coffin-Siris syndrome 1	OMIM:135900
+6	0.8	Multiple epiphyseal dysplasia	OMIM:132400
+6	0.8	Sarkozy-Pfeiffer syndrome	OMIM:616304
+6	0.8	Autosomal dominant Robinow syndrome	OMIM:180700
+6	0.8	Brachyolmia type 4 with mild epiphyseal and metaphyseal changes	OMIM:612847
+6	0.8	Omodysplasia type 1	OMIM:258315

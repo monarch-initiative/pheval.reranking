@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Multiple epiphyseal dysplasia, recessive	OMIM:226900
+2	0.84	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508
+3	0.82	Muenke syndrome	OMIM:602849
+4	0.8	Leri-Weill dyschondrosteosis	OMIM:127300
+5	0.78	Langer mesomelic dysplasia	OMIM:249700
+6	0.76	Multiple pterygium syndrome, lethal type	OMIM:253290
+7	0.74	Spondylometaphyseal dysplasia, Kozlowski type	OMIM:184252
+8	0.72	Short rib-polydactyly syndrome, type I	OMIM:263520
+9	0.7	Cenani-Lenz syndactyly syndrome	OMIM:212780
+10	0.68	Craniofacial-deafness-hand syndrome	OMIM:122880
+11	0.66	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+12	0.64	Distal 10q deletion syndrome	OMIM:601739
+13	0.62	Acro-pectoro-renal field defect	OMIM:609266
+14	0.6	Hereditary mucoepithelial dysplasia	OMIM:158310
+15	0.58	Robinow syndrome, autosomal dominant	OMIM:180700

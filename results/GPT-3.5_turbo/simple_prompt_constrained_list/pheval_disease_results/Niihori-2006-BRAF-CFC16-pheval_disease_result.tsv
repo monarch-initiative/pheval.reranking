@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Noonan syndrome	OMIM:163950
+2	0.94	Alagille syndrome	OMIM:118450
+3	0.89	Noonan-like syndrome with loose anagen hair	OMIM:607721
+4	0.81	Severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome	OMIM:617660
+5	0.73	Femoral-facial syndrome	OMIM:134780
+6	0.71	Orofaciodigital syndrome XIV	OMIM:615949
+7	0.68	Progeroid syndrome, Petty type	OMIM:176270
+8	0.65	RAS-associated autoimmune leukoproliferative Disorder	OMIM:614868
+9	0.64	Opitz G/BBB syndrome	OMIM:300000
+10	0.62	Orofaciodigital syndrome IX	OMIM:258865
+11	0.61	Smith-Lemli-Opitz syndrome	OMIM:270400
+12	0.59	Mohr-Tranebjaerg syndrome	OMIM:304700
+13	0.57	Aarskog-Scott syndrome	OMIM:305400
+14	0.56	Immunodeficiency-centromeric instability-facial anomalies syndrome 2	OMIM:614069
+15	0.55	Cornelia de Lange syndrome 1	OMIM:122470

@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gray Platelet Syndrome	OMIM:139090
+2	0.8	Wiskott-Aldrich Syndrome	OMIM:301000
+3	0.7	Amegakaryocytic Thrombocytopenia	OMIM:604498
+4	0.6	X-Linked Thrombocytopenia	OMIM:313900
+5	0.5	Bernard-Soulier Syndrome, Type A2	OMIM:153670
+6	0.4	Paris-Trousseau Thrombocytopenia	OMIM:188025
+7	0.3	Fechtner Syndrome	OMIM:153640
+8	0.2	Scott Syndrome	OMIM:262890
+9	0.1	Glanzmann Thrombasthenia	OMIM:273800

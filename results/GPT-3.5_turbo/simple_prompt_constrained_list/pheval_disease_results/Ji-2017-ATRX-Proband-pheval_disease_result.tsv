@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia De Lange syndrome 5	OMIM:615193
+2	0.8	Coffin-Siris syndrome 1	OMIM:135900
+3	0.75	Angelman syndrome	OMIM:105830
+4	0.7	Mowat-Wilson syndrome	OMIM:235730
+5	0.65	Fragile X syndrome	OMIM:300624
+6	0.6	Seckel syndrome 1	OMIM:210600
+7	0.55	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.5	Menkes disease	OMIM:309400
+9	0.45	Klinefelter syndrome	OMIM:148190
+10	0.4	Cri-du-chat syndrome	OMIM:123450
+11	0.35	Greig cephalopolysyndactyly syndrome	OMIM:175700
+12	0.3	Fryns syndrome	OMIM:229850
+13	0.25	Pitt-Hopkins syndrome	OMIM:610954
+14	0.2	Schinzel-Giedion midface retraction syndrome	OMIM:269150
+15	0.15	Williams-Beuren syndrome	OMIM:194050

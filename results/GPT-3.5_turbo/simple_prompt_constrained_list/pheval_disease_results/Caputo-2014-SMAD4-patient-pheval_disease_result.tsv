@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Coffin-Siris syndrome 1	OMIM:135900
+2	0.95	Coffin-Siris syndrome 2	OMIM:614607
+3	0.94	Coffin-Siris syndrome 3	OMIM:614608
+4	0.93	Coffin-Siris syndrome 4	OMIM:616938
+5	0.92	Coffin-Siris syndrome 5	OMIM:618027
+6	0.91	Coffin-Lowry syndrome	OMIM:303600
+7	0.9	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.89	Rubinstein-Taybi syndrome 2	OMIM:613684
+9	0.88	Rubinstein-Taybi syndrome 3	OMIM:616502
+10	0.87	Rubinstein-Taybi syndrome 4	OMIM:617056
+11	0.86	Rubinstein-Taybi syndrome 5	OMIM:617054
+12	0.85	Noonan syndrome 1	OMIM:163950
+13	0.84	Noonan syndrome 2	OMIM:605275
+14	0.83	Noonan syndrome 3	OMIM:609942
+15	0.82	Noonan syndrome 4	OMIM:610733

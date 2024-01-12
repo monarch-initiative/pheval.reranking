@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Birt-Hogg-Dubé syndrome	OMIM:135150
+2	0.8	Primary spontaneous pneumothorax	OMIM:173600
+3	0.7	Hereditary Leiomyomatosis and Renal Cell Cancer	OMIM:605839
+4	0.6	Familial isolated dilated cardiomyopathy	OMIM:604145
+5	0.5	Cowden syndrome	OMIM:158350
+6	0.4	Lymphangioleiomyomatosis	OMIM:606690
+7	0.3	Familial cancer of breast	OMIM:114480
+8	0.2	Cutaneous manifestations of gastrointestinal cancer	OMIM:614241
+9	0.1	Familial nonmedullary thyroid carcinoma	OMIM:188550

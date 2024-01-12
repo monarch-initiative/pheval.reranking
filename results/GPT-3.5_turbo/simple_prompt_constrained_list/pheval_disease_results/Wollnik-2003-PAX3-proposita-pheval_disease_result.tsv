@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.5	Waardenburg Syndrome, Type 1	OMIM:193500
+1	0.5	Waardenburg Syndrome, Type 2	OMIM:193510
+1	0.5	Waardenburg Syndrome, Type 3	OMIM:148820
+4	0.4	Carpenter Syndrome 1	OMIM:201000
+4	0.4	Distal Arthrogryposis, Type 1B	OMIM:614335
+6	0.3	Cerebral Palsy, Spastic Quadriplegic, 1	OMIM:603513
+7	0.2	Turner Syndrome	OMIM:313850
+7	0.2	Arthrogryposis, Distal, with Mental Retardation and Characteristic Facies	OMIM:226340
+7	0.2	Oculocutaneous Albinism, Type I	OMIM:203100
+10	0.1	Carpenter Syndrome 2	OMIM:614976
+10	0.1	Oculocutaneous Albinism, Type II	OMIM:203200

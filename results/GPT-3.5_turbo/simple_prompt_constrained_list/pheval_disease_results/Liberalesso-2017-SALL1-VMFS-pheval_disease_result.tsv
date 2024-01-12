@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Renal insufficiency	OMIM:613254
+2	0.89	Atrial septal defect	OMIM:614257
+3	0.88	Vesicoureteral reflux	OMIM:613674
+4	0.85	Microtia	OMIM:602414
+5	0.81	Short neck	OMIM:614490
+6	0.79	Short stature	OMIM:613458
+7	0.76	Hypospadias	OMIM:300633
+8	0.75	Abnormality of brain morphology	OMIM:613668
+9	0.73	Partial duplication of thumb phalanx	OMIM:613759
+10	0.71	Long eyelashes	OMIM:123100
+11	0.69	Preaxial polydactyly	OMIM:174400
+12	0.67	Low-set ears	OMIM:601098
+13	0.65	EEG abnormality	OMIM:226700
+14	0.63	Epicanthus	OMIM:133150
+14	0.63	Global developmental delay	OMIM:614338
+16	0.61	Anal atresia	OMIM:605021

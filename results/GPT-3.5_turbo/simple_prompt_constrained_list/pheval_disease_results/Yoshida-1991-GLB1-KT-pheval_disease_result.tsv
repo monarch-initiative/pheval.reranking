@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	GM1 gangliosidosis	OMIM:230500
+1	0.9	Juvenile-onset Parkinsonism	OMIM:606324
+1	0.9	Sialidosis, type 2	OMIM:614921
+1	0.9	Unverricht-Lundborg syndrome	OMIM:254800
+1	0.9	Gangliosidosis, GM2, T1	OMIM:272800
+6	0.8	Adult-onset Parkinsonism	OMIM:168600
+6	0.8	GM2 gangliosidosis, AB variant	OMIM:272750
+6	0.8	Fabry disease	OMIM:301500
+6	0.8	GM2 gangliosidosis, type I	OMIM:272800
+6	0.8	Metachromatic leukodystrophy, adult form	OMIM:249900
+6	0.8	Leukodystrophy, metachromatic	OMIM:250100
+6	0.8	Multiple sulfatase deficiency	OMIM:272200
+6	0.8	Kufs disease, type A	OMIM:204300
+6	0.8	Sandhoff disease	OMIM:268800
+6	0.8	Niemann-Pick type C1	OMIM:257220
+6	0.8	Niemann-Pick disease, type D	OMIM:257220

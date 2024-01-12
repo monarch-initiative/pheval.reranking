@@ -1,0 +1,13 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Cerebellar hypoplasia	OMIM:614831
+1	1.0	Hydrocephalus	OMIM:236600
+1	1.0	Unsteady gait	OMIM:620155
+1	1.0	Abnormality of the cerebral white matter	OMIM:614643
+1	1.0	Intellectual disability, mild	OMIM:614593
+1	1.0	Short telomere length	OMIM:300248
+1	1.0	Asthma	OMIM:600807
+1	1.0	Decreased circulating IgG level	OMIM:614163
+1	1.0	Arachnoid cyst	OMIM:207790
+1	1.0	Pancytopenia	OMIM:183350
+11	0.98	Coxa valga	OMIM:200400
+11	0.98	Abnormality of the genitourinary system	OMIM:612526

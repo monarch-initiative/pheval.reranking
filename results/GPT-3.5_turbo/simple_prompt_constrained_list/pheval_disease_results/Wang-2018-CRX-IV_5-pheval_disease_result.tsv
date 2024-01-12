@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis pigmentosa	OMIM:268000
+2	0.85	Cone-rod dystrophy	OMIM:210600
+3	0.8	Leber congenital amaurosis	OMIM:204000
+3	0.8	Congenital stationary night blindness	OMIM:310500
+5	0.75	Stargardt disease	OMIM:248200
+5	0.75	Rod-cone dystrophy	OMIM:602225
+7	0.7	Bardet-Biedl syndrome	OMIM:209900
+7	0.7	Senior-Løken syndrome	OMIM:266900
+9	0.65	Usher syndrome	OMIM:276900
+9	0.65	Congenital achromatopsia	OMIM:216900
+11	0.6	Progressive cone dystrophy	OMIM:604116
+11	0.6	Enhanced S-cone syndrome	OMIM:268100
+13	0.5	Cone dystrophy with supernormal rod response	OMIM:610380
+13	0.5	Fundus albipunctatus	OMIM:136880
+13	0.5	Night blindness, congenital stationary (type 1B)	OMIM:257270
+16	0.45	Albinism, oculocutaneous (type 2)	OMIM:203200

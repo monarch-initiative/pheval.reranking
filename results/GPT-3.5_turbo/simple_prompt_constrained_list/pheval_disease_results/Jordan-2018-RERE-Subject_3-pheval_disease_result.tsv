@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.8	Wiedemann-Rautenstrauch syndrome	OMIM:264090
+3	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.7	Floating-Harbor syndrome	OMIM:136140
+5	0.65	CHARGE syndrome	OMIM:214800
+6	0.6	Autosomal dominant non-syndromic intellectual disability	OMIM:614073
+7	0.55	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.5	WAGR syndrome	OMIM:194072
+9	0.45	Lujan-Fryns syndrome	OMIM:309520
+10	0.4	Hyperimmunoglobulin E syndrome	OMIM:147060
+11	0.35	Kearns-Sayre syndrome	OMIM:530000
+12	0.3	Rett syndrome	OMIM:312750
+13	0.25	Autosomal recessive non-syndromic intellectual disability	OMIM:610680
+14	0.2	Floating-Harbor-like syndrome	OMIM:616556
+15	0.15	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+16	0.1	Seckel syndrome	OMIM:210600

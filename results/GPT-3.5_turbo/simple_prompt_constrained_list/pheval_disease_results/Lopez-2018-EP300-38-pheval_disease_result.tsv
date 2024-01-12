@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Trichorhinophalangeal syndrome type 1	OMIM:190350
+2	0.94	Familial scaphocephaly syndrome	OMIM:609200
+3	0.92	FG syndrome 2	OMIM:313580
+4	0.91	Familial exudative vitreoretinopathy	OMIM:133450
+5	0.9	Nasopalpebral lipoma-coloboma syndrome	OMIM:167730
+6	0.89	Coffin-Siris syndrome 2	OMIM:614607
+7	0.88	Mental retardation, autosomal dominant 38	OMIM:615516
+8	0.87	Coffin-Siris syndrome 3	OMIM:614608
+9	0.86	NOG-related symphalangism spectrum disorder	OMIM:605089
+10	0.85	Filippi syndrome	OMIM:272440
+11	0.84	Opitz GBBB syndrome type 1	OMIM:300000
+12	0.83	Trichorhinophalangeal syndrome type 2	OMIM:150230
+13	0.82	Cornelia de Lange syndrome 5	OMIM:300882
+14	0.81	Minor anomalies and developmental delay with or without cardiac/musculoskeletal anomalies	OMIM:617523
+15	0.8	Inverted duplication with terminal deletion	OMIM:609251
+16	0.79	Johanson-Blizzard syndrome	OMIM:243800

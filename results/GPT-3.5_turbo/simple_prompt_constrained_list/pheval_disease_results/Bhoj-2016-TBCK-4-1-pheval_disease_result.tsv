@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl syndrome	OMIM:209900
+2	0.8	Melnick-Needles syndrome	OMIM:309350
+3	0.7	Seckel syndrome	OMIM:210600
+4	0.6	Microcephaly	OMIM:251200
+5	0.5	Rett syndrome	OMIM:312750
+6	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.3	Smith-Magenis syndrome	OMIM:182290
+8	0.2	Angelman syndrome	OMIM:105830
+9	0.1	CHARGE syndrome	OMIM:214800

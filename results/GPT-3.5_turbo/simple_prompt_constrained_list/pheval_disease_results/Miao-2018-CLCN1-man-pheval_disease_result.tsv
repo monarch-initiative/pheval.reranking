@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myopathy, actin, congenital with core formation	OMIM:255310
+1	0.9	Myotonia congenita	OMIM:160800
+1	0.9	Myopathy, myofibrillar, 5	OMIM:609524
+1	0.9	Skeletal muscle hypertrophy	OMIM:614297
+5	0.8	Myopathy, congenital, with fiber-type disproportion	OMIM:255310
+5	0.8	Myopathy, myofibrillar, 5	OMIM:609524
+7	0.7	Myopathy, congenital, with fiber-type disproportion	OMIM:255310
+7	0.7	Myopathy, myofibrillar, 5	OMIM:609524
+7	0.7	Facioscapulohumeral muscular dystrophy	OMIM:158900
+7	0.7	Centronuclear myopathy 2	OMIM:615959
+11	0.6	Centronuclear myopathy 2	OMIM:615959
+11	0.6	Myasthenic syndrome, congenital, 6	OMIM:618109
+11	0.6	Charcot-Marie-Tooth disease, axonal, type 2A2A	OMIM:118210
+14	0.5	Facioscapulohumeral muscular dystrophy 1	OMIM:158900
+14	0.5	Muscular dystrophy, limb-girdle, type 2S	OMIM:615356

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Rubinstein-Taybi syndrome 1	OMIM:180849
+2	0.98	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.94	Kabuki syndrome 1	OMIM:147920
+4	0.92	Cockayne syndrome A	OMIM:216400
+5	0.89	Joubert syndrome 13	OMIM:614173
+6	0.87	Simpson-Golabi-Behmel syndrome type 2	OMIM:300209
+7	0.85	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.81	Floating-Harbor syndrome	OMIM:136140
+9	0.79	CHARGE syndrome	OMIM:214800
+10	0.76	Wiedemann-Steiner syndrome	OMIM:605130
+11	0.73	Opitz G/BBB syndrome type 1	OMIM:300000
+12	0.71	Seckel syndrome 1	OMIM:210600
+13	0.68	Robinow syndrome, autosomal recessive 1	OMIM:268310
+14	0.66	Smith-Magenis syndrome	OMIM:182290
+15	0.63	Bardet-Biedl syndrome 1	OMIM:209900

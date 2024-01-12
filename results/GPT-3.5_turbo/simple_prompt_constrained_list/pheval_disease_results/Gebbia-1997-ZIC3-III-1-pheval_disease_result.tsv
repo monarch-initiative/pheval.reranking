@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Arrhinencephaly	OMIM:235730
+1	1.0	Single ventricle	OMIM:614980
+1	1.0	Patent ductus arteriosus	OMIM:171400
+1	1.0	Asplenia	OMIM:609594
+1	1.0	Pulmonary artery hypoplasia	OMIM:265400
+1	1.0	Complete atrioventricular canal defect	OMIM:606214
+1	1.0	Transposition of the great arteries	OMIM:192600
+1	1.0	Posteriorly placed anus	OMIM:603718
+1	1.0	Ventricular septal defect	OMIM:614429
+1	1.0	Abnormal ciliary motility	OMIM:244400
+1	1.0	Pulmonary artery atresia	OMIM:26550
+1	1.0	Abdominal situs inversus	OMIM:270100
+13	0.0	<Disease13>	OMIM:<Disease13_OMIM_ID>
+13	0.0	<Disease14>	OMIM:<Disease14_OMIM_ID>
+13	0.0	<Disease15>	OMIM:<Disease15_OMIM_ID>

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Syndromic epilepsy	OMIM:613254
+2	0.9	Intellectual disability	OMIM:613454
+3	0.8	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5	OMIM:617560
+4	0.7	Autism	OMIM:613990
+5	0.6	Epileptic encephalopathy, early infantile, 8	OMIM:115150
+6	0.5	Rubinstein-Taybi syndrome 1	OMIM:144200
+7	0.4	Pontocerebellar hypoplasia, type 2B	OMIM:609284
+7	0.4	Pitt-Hopkins-like syndrome 2	OMIM:617516
+9	0.3	Autosomal dominant non-syndromic intellectual disability	OMIM:600974
+9	0.3	Gordon Holmes syndrome	OMIM:604187
+11	0.2	Hearing loss	OMIM:611182
+11	0.2	Severe intellectual disability and progressive spastic paraplegia	OMIM:615193
+13	0.1	Seizures	OMIM:261100
+13	0.1	Oculocerebrorenal syndrome	OMIM:605282
+13	0.1	Multiple congenital anomalies-hypotonia-seizures syndrome 1	OMIM:613750
+13	0.1	Bicoronal synostosis	OMIM:604841

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Sensorineural Hearing Loss	OMIM:220290
+2	0.99	DFNB1	OMIM:220290
+3	0.88	Non-Syndromic Hearing Loss	OMIM:600971
+4	0.87	NSHL	OMIM:600971
+5	0.83	DFNA1	OMIM:124900
+6	0.8	HHL	OMIM:600316
+7	0.79	SNHL	OMIM:220290
+8	0.77	Sensorineural High-Frequency Hearing Loss	OMIM:600316
+9	0.73	DFNB35	OMIM:609139
+10	0.7	DFNB2	OMIM:600060
+11	0.67	Auditory Neuropathy	OMIM:609129
+12	0.65	HNSHL	OMIM:61xxxx
+13	0.61	DFNA	OMIM:124900
+14	0.58	SNH	OMIM:220290
+15	0.55	Bonnemann-Meinecke-Reich Syndrome	OMIM:605590
+16	0.52	Epidermolysis Bullosa Dystrophica, Autosomal Recessive	OMIM:226600

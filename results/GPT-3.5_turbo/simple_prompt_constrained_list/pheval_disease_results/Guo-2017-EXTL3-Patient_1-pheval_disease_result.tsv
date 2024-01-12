@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Achondrogenesis, type IA	OMIM:200600
+2	0.85	Joubert syndrome 6	OMIM:610688
+3	0.8	Spondylocostal dysostosis 1, autosomal recessive	OMIM:277300
+4	0.75	Interleukin 12 receptor, beta 1, deficiency	OMIM:601978
+5	0.7	Bardet-Biedl syndrome 9	OMIM:615986
+6	0.65	Microcephaly and chorioretinopathy, autosomal recessive, 2	OMIM:616171
+7	0.6	Spondylocostal dysostosis 4, autosomal recessive	OMIM:613686
+8	0.55	Glycogen storage disease II	OMIM:232300
+9	0.5	Autosomal dominant non-syndromic intellectual disability 1	OMIM:605975
+10	0.45	DOOR syndrome	OMIM:220500
+11	0.4	Mulibrey nanism	OMIM:253250
+12	0.35	Phenylketonuria	OMIM:261600
+13	0.3	Hermansky-Pudlak syndrome 2	OMIM:608233
+14	0.25	Severe combined immunodeficiency, X-linked	OMIM:300400
+15	0.2	Lowe syndrome	OMIM:309000
+16	0.15	Pyruvate kinase deficiency of red cells	OMIM:266200

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:613254
+1	1.0	Heart murmur	OMIM:115150
+1	1.0	Delayed speech and language development	OMIM:300352
+1	1.0	Behavioral abnormality	OMIM:603553
+1	1.0	Motor delay	OMIM:614185
+1	1.0	Feeding difficulties	OMIM:300707
+1	1.0	Autistic behavior	OMIM:605130
+1	1.0	Abnormality of male external genitalia	OMIM:609637
+1	1.0	Seizures	OMIM:182290
+1	1.0	Absent speech	OMIM:605282
+1	1.0	Hearing impairment	OMIM:220400
+1	1.0	Abnormality of the cardiovascular system	OMIM:601088
+13	0.0	OMIM:158810	OMIM:158810
+13	0.0	OMIM:109350	OMIM:109350
+13	0.0	OMIM:162500	OMIM:162500
+13	0.0	OMIM:144650	OMIM:144650

@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos syndrome	OMIM:130050
+2	0.89	Marfan syndrome	OMIM:154700
+3	0.88	Vascular Ehlers-Danlos syndrome	OMIM:130050
+4	0.87	Loeys-Dietz syndrome	OMIM:609192
+5	0.86	Alport syndrome	OMIM:301050
+6	0.85	Epidermolysis bullosa	OMIM:226650
+7	0.84	Noonan syndrome	OMIM:163950
+8	0.83	Turner syndrome	OMIM:313850
+9	0.82	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.81	Cornelia de Lange syndrome	OMIM:122470
+11	0.8	Hypertrophic cardiomyopathy	OMIM:192600
+12	0.79	Polycystic kidney disease	OMIM:173900
+13	0.78	Williams syndrome	OMIM:194050
+14	0.77	Ectodermal dysplasia	OMIM:129500
+15	0.76	Noonan-like syndrome	OMIM:615355
+16	0.75	Hurler syndrome	OMIM:607014

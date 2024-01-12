@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Parkinson's disease	OMIM:168600
+2	0.65	Essential tremor	OMIM:190300
+3	0.6	Dementia	OMIM:189500
+4	0.55	Multiple system atrophy	OMIM:146500
+5	0.5	Wilson disease	OMIM:277900
+6	0.45	Progressive supranuclear palsy	OMIM:601104
+7	0.4	Spinocerebellar ataxia type 3	OMIM:109150
+8	0.35	Frontotemporal dementia	OMIM:600274
+9	0.3	Corticobasal degeneration	OMIM:601272
+10	0.25	Dopa-responsive dystonia	OMIM:128230
+11	0.2	Multiple system atrophy-cerebellar subtype	OMIM:213200
+12	0.15	Dystonia	OMIM:128100
+13	0.1	Tyrosine hydroxylase deficiency	OMIM:276710
+14	0.05	Ataxia	OMIM:208900
+15	0.0	Autonomic nervous system dysfunction	OMIM:243000

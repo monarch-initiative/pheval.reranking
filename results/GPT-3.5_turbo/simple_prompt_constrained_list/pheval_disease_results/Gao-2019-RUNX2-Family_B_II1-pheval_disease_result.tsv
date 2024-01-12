@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Cleidocranial dysplasia	OMIM:119600
+2	0.6	Osteogenesis imperfecta type 3	OMIM:259440
+3	0.5	Osteogenesis imperfecta type 4	OMIM:166220
+4	0.4	Osteogenesis imperfecta type 2	OMIM:166210
+5	0.35	Kniest dysplasia	OMIM:156550
+6	0.3	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+7	0.25	Schwartz-Jampel syndrome	OMIM:255800
+8	0.2	Metaphyseal chondrodysplasia, Schmid type	OMIM:156500
+9	0.15	Achondroplasia	OMIM:100800
+10	0.1	Oto-palato-digital syndrome type 2	OMIM:304120
+11	0.05	Deafness, autosomal dominant 23	OMIM:605192
+11	0.05	Lethal sclerosteosis	OMIM:269500
+11	0.05	Tibia, absence or hypoplasia of, with polydactyly, retrocerebellar arachnoid cyst, tuberous sclerosis, and benign craniofacial morphology	OMIM:604727
+11	0.05	Dysostosis, Stanescu type	OMIM:617926
+11	0.05	Anauxetic dysplasia 1	OMIM:607095

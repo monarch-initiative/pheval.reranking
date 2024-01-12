@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta	OMIM:166200
+1	0.9	Osteoporosis	OMIM:166710
+1	0.9	Multiple fractures	OMIM:613529
+1	0.9	Osteopetrosis	OMIM:166600
+5	0.8	Camurati-Engelmann disease	OMIM:131300
+5	0.8	Osteopathia striata with cranial sclerosis	OMIM:300373
+5	0.8	Paget disease of bone 5, juvenile-onset	OMIM:239000
+5	0.8	Spondylocheirodysplasia, Ehlers-Danlos syndrome-like	OMIM:612350
+5	0.8	Osteoporosis-pseudoglioma syndrome	OMIM:259770
+5	0.8	Melorheostosis	OMIM:155950
+5	0.8	Idiopathic juvenile osteoporosis	OMIM:259750
+5	0.8	Osteogenesis imperfecta type II	OMIM:166210
+5	0.8	Van Buchem disease	OMIM:239100
+5	0.8	Hyper IgM syndrome, type 5	OMIM:609125
+5	0.8	Primary osteoporosis	OMIM:166710
+5	0.8	Primitive myelofibrosis	OMIM:254450

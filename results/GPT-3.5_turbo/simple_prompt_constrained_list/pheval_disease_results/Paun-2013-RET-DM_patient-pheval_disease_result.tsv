@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia type 2A	OMIM:171400
+2	0.8	Multiple endocrine neoplasia type 2B	OMIM:162300
+3	0.7	Familial medullary thyroid carcinoma	OMIM:155240
+4	0.6	Thyroid cancer, follicular	OMIM:188470
+5	0.5	Parathyroid adenoma 1, multiple	OMIM:155100
+6	0.4	Medullary thyroid carcinoma, familial	OMIM:155240
+7	0.3	Pheochromocytoma	OMIM:171300
+8	0.2	Thyroid carcinoma, papillary	OMIM:188550
+9	0.1	Parathyroid carcinoma	OMIM:608266

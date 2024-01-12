@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Diamond-Blackfan anemia 7	OMIM:612527
+2	0.8571428571428571	Diamond-Blackfan anemia 2	OMIM:613308
+3	0.8333333333333334	Fanconi anemia, complementation group A	OMIM:227650
+4	0.7777777777777778	Seckel syndrome 5	OMIM:615984
+5	0.7567567567567568	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+5	0.7567567567567568	Werner syndrome	OMIM:277700
+7	0.7478991596638656	Ataxia-telangiectasia	OMIM:208900
+8	0.7407407407407407	Seckel syndrome 3	OMIM:608202
+9	0.7368421052631579	Majeed syndrome	OMIM:609628
+10	0.7291666666666666	Seckel syndrome	OMIM:210600
+11	0.7222222222222222	Seckel syndrome 8	OMIM:615807
+12	0.7163120567375887	Bloom syndrome	OMIM:210900
+12	0.7163120567375887	Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation	OMIM:152950
+14	0.7111111111111111	Focal dermal hypoplasia	OMIM:305600
+14	0.7111111111111111	Baller-Gerold syndrome	OMIM:218600

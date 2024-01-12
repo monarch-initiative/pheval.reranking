@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper-IgM syndrome, type 2	OMIM:605258
+2	0.85	Chronic granulomatous disease, autosomal recessive, cytochrome b-negative	OMIM:233690
+3	0.8	Immunodeficiency 16	OMIM:615593
+4	0.75	Immunodeficiency 46	OMIM:616740
+5	0.7	Wiskott-Aldrich syndrome, autosomal recessive	OMIM:614493
+6	0.65	Hyper-IgM syndrome, type 5	OMIM:608106
+7	0.6	Immunodeficiency 42	OMIM:616622
+8	0.55	Immunodeficiency 40	OMIM:616433
+9	0.5	Immunodeficiency, common variable, 4	OMIM:613494
+10	0.45	Hyper-IgM syndrome, type 1	OMIM:308230
+11	0.4	Hyper IgM syndrome due to CD40 deficiency	OMIM:605258
+12	0.35	Wiskott-Aldrich syndrome 1	OMIM:301000
+13	0.3	Activated phosphoinositide 3-kinase delta syndrome	OMIM:615214
+14	0.25	Immunodeficiency 64	OMIM:618534
+15	0.2	Immunodeficiency 13	OMIM:615518
+16	0.15	Immunodeficiency 54	OMIM:609981

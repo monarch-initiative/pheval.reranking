@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Albinism	OMIM:203100
+2	0.9	Oculocutaneous albinism	OMIM:203100
+3	0.8	Hermansky-Pudlak syndrome	OMIM:203300
+4	0.75	Griscelli syndrome	OMIM:214450
+5	0.7	Chediak-Higashi syndrome	OMIM:214500
+6	0.65	Waardenburg syndrome type 2A	OMIM:193510
+7	0.6	Pallister-Hall syndrome	OMIM:146510
+8	0.55	Tietz syndrome	OMIM:103500
+9	0.5	Elejalde syndrome	OMIM:256300
+10	0.45	Hartnup disorder	OMIM:234500
+11	0.4	Albinism, oculocutaneous, type IA	OMIM:203100
+12	0.35	Griscelli syndrome type 1	OMIM:214450
+13	0.3	Hypomelanosis of Ito	OMIM:300337
+14	0.25	Hypomelanosis with gastrointestinal and neurological abnormalities	OMIM:609540
+15	0.2	Hypomelanosis of Ito, with systemic manifestations	OMIM:300337
+16	0.15	Vitiligo-associated multiple autoimmune disease susceptibility 1	OMIM:607836

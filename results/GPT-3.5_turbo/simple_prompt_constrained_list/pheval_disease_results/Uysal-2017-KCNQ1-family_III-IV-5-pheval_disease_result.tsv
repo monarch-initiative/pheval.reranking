@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Long QT syndrome	OMIM:609629
+2	0.8	Jervell and Lange-Nielsen syndrome	OMIM:220400
+3	0.6	Brugada syndrome	OMIM:601144
+3	0.6	Hearing impairment	OMIM:607128
+5	0.4	Tachypnea	OMIM:297000
+5	0.4	Bradycardia	OMIM:113900
+7	0.2	Bartter syndrome	OMIM:241200
+7	0.2	Wolff-Parkinson-White syndrome	OMIM:194200
+7	0.2	Short QT syndrome	OMIM:609621

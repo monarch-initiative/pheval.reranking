@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Rubinstein-Taybi syndrome 1	OMIM:180849
+1	0.94	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.9375	Rubinstein-Taybi syndrome 2	OMIM:613684
+3	0.9375	Smith-Magenis syndrome	OMIM:182290
+3	0.9375	Fragile X syndrome	OMIM:300624
+3	0.9375	Opitz G/BBB syndrome, type I	OMIM:300000
+3	0.9375	Opitz G/BBB syndrome, type II	OMIM:145410
+3	0.9375	Marshall-Smith syndrome	OMIM:602535
+3	0.9375	Gorlin syndrome	OMIM:109400
+10	0.875	Opitz G/BBB syndrome, type III	OMIM:303850
+10	0.875	Brachydactyly type B1	OMIM:113000
+10	0.875	Crouzon syndrome	OMIM:123500
+10	0.875	Coffin-Lowry syndrome	OMIM:303600
+10	0.875	Rubinstein-Taybi syndrome 1 or 2, not differentiated	OMIM:613684
+10	0.875	Cornelia de Lange syndrome 1 or 3	OMIM:614701

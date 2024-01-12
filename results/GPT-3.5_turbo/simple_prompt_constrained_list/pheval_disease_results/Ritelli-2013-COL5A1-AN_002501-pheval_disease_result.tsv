@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome Type IV	OMIM:130050
+1	0.9	Ehlers-Danlos Syndrome Type VIII	OMIM:130080
+1	0.9	Marfan Syndrome	OMIM:154700
+4	0.8	Ehlers-Danlos Syndrome Type III	OMIM:130020
+4	0.8	Ehlers-Danlos Syndrome Type IX	OMIM:601776
+4	0.8	Ehlers-Danlos Syndrome Type VI	OMIM:225400
+4	0.8	Stickler Syndrome, Type I	OMIM:108300
+8	0.7	Osteogenesis Imperfecta Type I	OMIM:166200
+8	0.7	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+8	0.7	Ehlers-Danlos Syndrome Type VII	OMIM:130060
+8	0.7	Larsen Syndrome	OMIM:150250
+8	0.7	Larsen Syndrome, Dominant Type	OMIM:604317
+13	0.6	Brittle Cornea Syndrome	OMIM:229200
+13	0.6	Ehlers-Danlos Syndrome Type XI	OMIM:614021
+13	0.6	Fibrodysplasia Ossificans Progressiva	OMIM:135100

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Rubinstein-Taybi syndrome	OMIM:180849
+2	0.95	Kleefstra syndrome	OMIM:610253
+3	0.92	Coffin-Siris syndrome	OMIM:135900
+4	0.9	Growth delay due to insulin-like growth factor type 1 deficiency	OMIM:608747
+5	0.89	Kaufman oculocerebrofacial syndrome	OMIM:244450
+6	0.88	Floating-Harbor syndrome	OMIM:136140
+7	0.85	Silver-Russell syndrome	OMIM:180860
+8	0.83	17q21.31 microdeletion syndrome	OMIM:613454
+9	0.82	Laron syndrome	OMIM:262500
+10	0.8	Michels syndrome	OMIM:608664
+11	0.78	Orofaciodigital syndrome IX	OMIM:258865
+12	0.76	Short stature, developmental delay, hypertelorism, and congenital heart defects	OMIM:603095
+13	0.75	Opitz G/BBB syndrome, type II	OMIM:145410
+14	0.73	Crane-Heise syndrome	OMIM:218090
+15	0.7	Toriello syndrome	OMIM:275460

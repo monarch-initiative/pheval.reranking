@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mental retardation, autosomal dominant 15	OMIM:615802
+1	0.85	Mental retardation, autosomal dominant 44	OMIM:617121
+3	0.8	Intellectual disability, autosomal recessive 3	OMIM:608443
+3	0.8	Mental retardation, autosomal dominant 42	OMIM:616802
+3	0.8	Severe intellectual disability-epilepsy-anal anomalies-distal phalangeal hypoplasia syndrome	OMIM:617528
+3	0.8	Lung disease, immunodeficiency, and chromosome breakage syndrome	OMIM:617241
+3	0.8	Intellectual developmental disorder with motor impairment and dysmorphic features	OMIM:617030
+3	0.8	Blepharophimosis-intellectual disability syndrome, SBBYS type	OMIM:617186
+3	0.8	Mental retardation, autosomal dominant 47	OMIM:617643
+3	0.8	Developmental delay with or without dysmorphic facies and autism	OMIM:616963
+3	0.8	Mental retardation, autosomal recessive 51	OMIM:617780
+3	0.8	Calvarial hyperostosis with cutis marmorata and limb hypertrophy	OMIM:617943
+3	0.8	Lethal multiple pterygium syndrome	OMIM:253290
+3	0.8	Focal facial dermal dysplasia 3, Setleis type	OMIM:229850
+3	0.8	Lung agenesis-heart defect-thumb anomalies syndrome	OMIM:601279

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Essential Thrombocytosis	OMIM:187950
+2	0.9	Myelofibrosis	OMIM:254450
+3	0.8	Polycythemia Vera	OMIM:263300
+4	0.7	Hereditary Thrombocythemia	OMIM:601977
+4	0.7	Familial Essential Thrombocythemia	OMIM:601977
+4	0.7	Thrombocythemia 2	OMIM:601977
+4	0.7	Familial Thrombocythemia	OMIM:601977
+8	0.6	Polycythemia	OMIM:263300
+9	0.5	Polycythemia Secondary to Burns	OMIM:261100
+9	0.5	Polycythemia Secondary to Hypoxia	OMIM:263300
+11	0.4	Thrombocythemia	OMIM:601977
+11	0.4	Primary Polycythemia	OMIM:263300
+13	0.3	Myeloproliferative Neoplasm	OMIM:159550
+13	0.3	Secondary Polycythemia	OMIM:263300
+13	0.3	Myelofibrosis with Myeloid Metaplasia	OMIM:254450

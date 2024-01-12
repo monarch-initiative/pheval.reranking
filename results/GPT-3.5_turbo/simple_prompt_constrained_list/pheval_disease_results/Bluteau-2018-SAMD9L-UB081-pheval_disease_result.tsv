@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.4375	Fanconi anemia	OMIM:227650
+2	0.3125	Diamond-Blackfan anemia	OMIM:105650
+3	0.125	Seckel syndrome 1	OMIM:210600
+3	0.125	RAPADILINO syndrome	OMIM:266280
+3	0.125	Bloom syndrome	OMIM:210900

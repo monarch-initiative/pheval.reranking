@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:613454
+2	0.8	Opitz G/BBB syndrome	OMIM:145410
+2	0.8	Schinzel-Giedion syndrome	OMIM:269150
+4	0.7	Kabuki syndrome	OMIM:147920
+4	0.7	Cockayne syndrome	OMIM:216400
+4	0.7	Bainbridge-Ropers syndrome	OMIM:615485
+4	0.7	Floating-Harbor syndrome	OMIM:136140
+8	0.6	Noonan syndrome	OMIM:163950
+8	0.6	Cohen syndrome	OMIM:216550
+8	0.6	Costello syndrome	OMIM:218040
+8	0.6	Silver-Russell syndrome	OMIM:180860
+12	0.5	Branchiooculofacial syndrome	OMIM:113620
+12	0.5	Cornelia de Lange syndrome	OMIM:122470
+12	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+12	0.5	Microphthalmia with linear skin defects syndrome	OMIM:309801
+12	0.5	Marshall-Smith syndrome	OMIM:602535

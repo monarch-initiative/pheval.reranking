@@ -1,0 +1,15 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Anxiety	OMIM:607834
+1	1.0	Gastroesophageal reflux	OMIM:109350
+3	0.9	Muscular hypotonia	OMIM:150400
+3	0.9	Failure to thrive	OMIM:164750
+5	0.8	Seizures	OMIM:613722
+6	0.7	Intellectual disability	OMIM:616144
+7	0.6	Delayed speech and language development	OMIM:613670
+7	0.6	Short stature	OMIM:604271
+9	0.5	Synophrys	OMIM:151290
+10	0.4	Myopia	OMIM:160700
+11	0.3	Brachydactyly	OMIM:113100
+12	0.2	Strabismus	OMIM:185100
+13	0.1	Short middle phalanx of the 5th finger	OMIM:605439
+13	0.1	Absence seizure	OMIM:600913

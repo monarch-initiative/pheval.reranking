@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.875	COL4A1-related disorders	OMIM:605282
+2	0.8125	Marfan syndrome	OMIM:154700
+3	0.75	Noonan syndrome	OMIM:163950
+4	0.6875	Meacham syndrome	OMIM:617 turns4
+5	0.625	Costello syndrome	OMIM:218400
+6	0.5625	CHARGE syndrome	OMIM:214800
+7	0.5	Holoprosencephaly	OMIM:236100
+8	0.4375	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.375	Cornelia de Lange syndrome	OMIM:122470
+10	0.3125	Opitz G/BBB syndrome	OMIM:145410
+11	0.25	Kabuki syndrome	OMIM:147920
+12	0.1875	Saethre-Chotzen syndrome	OMIM:101400
+13	0.125	Mowat-Wilson syndrome	OMIM:235730
+14	0.0625	Smith-Lemli-Opitz syndrome	OMIM:270400
+15	0.0	Treacher Collins syndrome	OMIM:154500

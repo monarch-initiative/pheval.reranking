@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly	OMIM:251200
+2	0.85	Holoprosencephaly	OMIM:236100
+3	0.8	Cerebellar hypoplasia	OMIM:611941
+4	0.75	Postaxial polydactyly	OMIM:174200
+5	0.7	Orofaciodigital syndrome	OMIM:311200
+6	0.65	Wormian bones	OMIM:277600
+7	0.6	X-linked intellectual disability	OMIM:300219
+8	0.55	Polymicrogyria	OMIM:600044
+9	0.5	Arthrogryposis	OMIM:108120
+10	0.45	Apert syndrome	OMIM:101200
+11	0.4	Hemiplegic migraine	OMIM:141500
+12	0.35	Alobar holoprosencephaly	OMIM:236100
+13	0.3	Hypothalamic hamartoma	OMIM:608726
+14	0.25	Coarctation of aorta	OMIM:120000
+15	0.2	Short stature	OMIM:604271

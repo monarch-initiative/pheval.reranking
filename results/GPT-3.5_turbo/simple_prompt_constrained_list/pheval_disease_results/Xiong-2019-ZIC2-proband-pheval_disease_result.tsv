@@ -1,0 +1,4 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hydrocephalus	OMIM:118450
+2	0.9	Semilobar holoprosencephaly	OMIM:236200
+3	0.8	Ventriculomegaly	OMIM:213650

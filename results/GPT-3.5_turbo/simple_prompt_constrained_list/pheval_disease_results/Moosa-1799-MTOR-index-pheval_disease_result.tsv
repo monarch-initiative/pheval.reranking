@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Juvenile polyposis syndrome	OMIM:174900
+1	1.0	Hereditary juvenile polyposis syndrome	OMIM:114500
+1	1.0	PTEN hamartoma syndrome	OMIM:158350
+1	1.0	Cowden syndrome 1	OMIM:158350
+5	0.9	Macrocephaly-autism syndrome	OMIM:605309
+5	0.9	Bloom syndrome	OMIM:210900
+5	0.9	Coffin-Lowry syndrome	OMIM:303600
+5	0.9	RAPADILINO syndrome	OMIM:266280
+5	0.9	Cowden syndrome 6	OMIM:615108
+10	0.8	Schinzel-Giedion syndrome	OMIM:269150
+10	0.8	Noonan syndrome 1	OMIM:163950
+10	0.8	HME with macrocephaly and pigmented macules	OMIM:174900
+10	0.8	Hemangioblastoma of cns, familial, multiple	OMIM:131100
+10	0.8	CLOVE syndrome	OMIM:612918
+10	0.8	Epidermolysis bullosa simplex	OMIM:131800

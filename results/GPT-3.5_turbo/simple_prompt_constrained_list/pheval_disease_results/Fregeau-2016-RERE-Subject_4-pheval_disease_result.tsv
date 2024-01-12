@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.0061	Down syndrome	OMIM:190685
+2	0.006	Microcephaly	OMIM:603983
+3	0.0058	Autism spectrum disorder	OMIM:209850
+4	0.0052	Fetal alcohol syndrome	OMIM:600003
+5	0.0048	22q11.2 deletion syndrome	OMIM:188400
+6	0.0044	Williams syndrome	OMIM:194050
+6	0.0044	Kabuki syndrome	OMIM:147920
+6	0.0044	Angelman syndrome	OMIM:105830
+6	0.0044	Prader-Willi syndrome	OMIM:176270
+6	0.0044	Cri du chat syndrome	OMIM:123450
+6	0.0044	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.0044	Cornelia de Lange syndrome	OMIM:122470
+6	0.0044	Rett syndrome	OMIM:312750
+14	0.0038	X-linked intellectual disability	OMIM:300274
+14	0.0038	Angelman-like syndrome	OMIM:615721

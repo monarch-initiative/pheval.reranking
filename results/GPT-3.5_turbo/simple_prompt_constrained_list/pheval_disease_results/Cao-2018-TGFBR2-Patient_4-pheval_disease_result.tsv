@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Marfan Syndrome	OMIM:154700
+1	1.0	Loeys-Dietz Syndrome	OMIM:609192
+3	0.9	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.9	Lujan-Fryns Syndrome	OMIM:309520
+3	0.9	Beals Syndrome	OMIM:121050
+3	0.9	Marshall Syndrome	OMIM:154780
+3	0.9	Thoracic Aortic Aneurysm and Aortic Dissection	OMIM:132900
+3	0.9	Shprintzen-Goldberg Syndrome	OMIM:182212
+3	0.9	Bifid Uvula	OMIM:616932
+3	0.9	Homocystinuria	OMIM:236200
+11	0.8	Stickler Syndrome, Type I	OMIM:108300
+11	0.8	Stickler Syndrome, Type II	OMIM:604841
+11	0.8	Stickler Syndrome, Type III	OMIM:184840
+11	0.8	Shprintzen-Goldberg Craniosynostosis Syndrome	OMIM:609460
+11	0.8	Velocardiofacial Syndrome	OMIM:192430
+11	0.8	Ondine Syndrome	OMIM:209880

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Duchenne muscular dystrophy	OMIM:310200
+2	0.85	Congenital myasthenic syndrome	OMIM:601462
+3	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.75	Freeman-Sheldon syndrome	OMIM:193700
+5	0.7	Myotonic dystrophy type 1	OMIM:160900
+6	0.65	Williams syndrome	OMIM:194050
+7	0.6	Prune belly syndrome	OMIM:100100
+8	0.55	Seckel syndrome	OMIM:210600
+9	0.5	Ornithine transcarbamylase deficiency	OMIM:311250
+10	0.45	Leigh syndrome	OMIM:256000
+11	0.4	Rubinstein-Taybi syndrome	OMIM:180849
+12	0.35	Pitt-Hopkins syndrome	OMIM:610954
+13	0.3	Cornelia de Lange syndrome	OMIM:122470
+14	0.25	Myotonic dystrophy type 2	OMIM:602668
+15	0.2	Wolff-Parkinson-White syndrome	OMIM:194200

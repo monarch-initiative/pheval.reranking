@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Bilateral cleft palate	OMIM:119600
+1	0.99	Bilateral cleft lip	OMIM:119600
+1	0.99	Esophageal atresia	OMIM:309300
+1	0.99	Tracheoesophageal fistula	OMIM:189960
+1	0.99	Ventricular septal defect	OMIM:614429
+1	0.99	Long face	OMIM:614996
+1	0.99	Recurrent otitis media	OMIM:166760
+1	0.99	Prominent nasal bridge	OMIM:600576
+1	0.99	Polyhydramnios	OMIM:192500
+1	0.99	Delayed ability to walk	OMIM:604393
+1	0.99	Spina bifida occulta	OMIM:182940
+12	0.98	Bronchomalacia	OMIM:220050
+12	0.98	Hypoplasia of the semicircular canal	OMIM:609136
+12	0.98	Posterior embryotoxon	OMIM:269400
+12	0.98	Spina bifida	OMIM:182940
+12	0.98	Meningocele	OMIM:182940

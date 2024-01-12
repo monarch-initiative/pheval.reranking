@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amelogenesis imperfecta, type IA	OMIM:104500
+1	0.9	Amelogenesis imperfecta, type II	OMIM:104500
+1	0.9	Amelogenesis imperfecta, type III	OMIM:130900
+1	0.9	Amelogenesis imperfecta, type IV	OMIM:104510
+1	0.9	Amelogenesis imperfecta, type V	OMIM:104570
+1	0.9	Amelogenesis imperfecta, type VI	OMIM:277600
+7	0.8	Dentin dysplasia, type II	OMIM:125420
+7	0.8	Dentin dysplasia, type I	OMIM:125400
+7	0.8	Dentinogenesis imperfecta, Shields type II	OMIM:125490
+7	0.8	Dentinogenesis imperfecta, Shields type I	OMIM:125500
+7	0.8	Dentin phosphoprotein deficiency	OMIM:125460
+7	0.8	Dentin sialophosphoprotein deficiency	OMIM:125440
+13	0.7	Hypoplastic amelogenesis imperfecta	OMIM:301200
+13	0.7	X-linked amelogenesis imperfecta	OMIM:301200
+15	0.6	Dental enamel hypoplasia	OMIM:217040

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Congenital ichthyosiform erythroderma	OMIM:242100
+2	0.8	Hypotrichosis simplex	OMIM:146520
+3	0.7	Blepharitis	OMIM:219100
+4	0.6	Ectodermal dysplasia	OMIM:305100
+5	0.5	Alopecia	OMIM:104000
+6	0.4	Eyebrow, hair, and nail appearance, variation in	OMIM:601756
+6	0.4	Ectodermal dysplasia 1, hypohidrotic, X-linked	OMIM:305100
+8	0.3	Trichothiodystrophy 1, photosensitive	OMIM:601675
+8	0.3	Hidrotic ectodermal dysplasia	OMIM:129500
+10	0.2	Hypotrichosis simplex of scalp	OMIM:605389
+10	0.2	Alopecia areata	OMIM:104000
+12	0.1	Photophobia	OMIM:215470
+12	0.1	Sparse eyelashes	OMIM:601201
+12	0.1	Anonychia	OMIM:206800
+12	0.1	Accessible epidermolytic ichthyosis	OMIM:607602

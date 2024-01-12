@@ -1,0 +1,5 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Intellectual disability	OMIM:614104
+2	0.95	Global developmental delay	OMIM:614104
+3	0.9	Muscular hypotonia	OMIM:616663
+3	0.9	Reduced tendon reflexes	OMIM:616663

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Nonalcoholic Fatty Liver Disease	OMIM:613254
+2	0.926	Hepatic Lipase Deficiency	OMIM:614025
+3	0.875	Hypercholesterolemia, Familial	OMIM:143890
+4	0.857	Fatty Liver, Alcohol-induced	OMIM:613454
+5	0.833	Hyperlipoproteinemia, Type II, and Deafness	OMIM:144600
+6	0.8	Kearns-Sayre Syndrome	OMIM:530000
+7	0.786	Sitosterolemia 1	OMIM:210250
+8	0.773	Porphyria Cutanea Tarda, Type II	OMIM:176100
+9	0.762	Hyperlipoproteinemia, Type IV	OMIM:144600
+10	0.75	Hyperlipidemia, Familial Combined	OMIM:144250
+11	0.737	Hyperparathyroidism, Neonatal Severe	OMIM:239200
+12	0.727	Mucopolysaccharidosis IVB	OMIM:253010
+13	0.714	Phosphoribosylpyrophosphate Synthetase Overactivity	OMIM:179000
+14	0.705	Hyperlipoproteinemia, Type V	OMIM:144600
+15	0.7	Diabetes Mellitus, Transient Neonatal, 3	OMIM:610582

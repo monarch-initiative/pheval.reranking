@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Distal arthrogryposis	OMIM:609528
+2	0.9	Dandy-Walker malformation	OMIM:220400
+3	0.85	Agenesis of corpus callosum	OMIM:217990
+4	0.8	Ventriculomegaly	OMIM:236400
+5	0.75	Hypertelorism	OMIM:145410
+6	0.7	Short neck	OMIM:207830
+7	0.65	Micrognathia	OMIM:156000
+8	0.6	Low-set ears	OMIM:182212
+9	0.55	Upslanted palpebral fissure	OMIM:180420
+10	0.5	Agenesis of cerebellar vermis	OMIM:211390
+11	0.45	Wide anterior fontanel	OMIM:138700
+12	0.4	Deep philtrum	OMIM:133530
+13	0.35	Anteverted nares	OMIM:166190
+14	0.3	Short nose	OMIM:163780
+15	0.25	Thickened nuchal skin fold	OMIM:118200
+16	0.2	Depressed nasal bridge	OMIM:156500

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenia gravis	OMIM:254200
+2	0.8	Limb-girdle muscular dystrophy	OMIM:253700
+3	0.7	Congenital myasthenic syndrome	OMIM:601462
+4	0.6	Muscular dystrophy, Becker type	OMIM:300376
+5	0.5	Amyotrophic lateral sclerosis	OMIM:105400
+6	0.4	Spinal muscular atrophy	OMIM:253300
+7	0.3	Muscular dystrophy, Duchenne type	OMIM:310200
+8	0.2	Myotonic dystrophy type 1	OMIM:160900
+9	0.1	Congenital muscular dystrophy	OMIM:603076
+9	0.1	Myotonia congenita	OMIM:160800
+9	0.1	Glycogen storage disease type II	OMIM:232300
+9	0.1	Collagen VI-related myopathy	OMIM:255600
+9	0.1	Familial periodic paralysis	OMIM:170500
+9	0.1	Mitochondrial myopathy	OMIM:590000
+9	0.1	Hereditary motor and sensory neuropathy	OMIM:118200

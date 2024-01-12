@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Aarskog syndrome	OMIM:100050
+2	0.8	Roberts syndrome	OMIM:268300
+2	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.7	Cornelia de Lange syndrome	OMIM:122470
+4	0.7	Branchiootorenal syndrome	OMIM:113650
+4	0.7	Potocki-Lupski syndrome	OMIM:610883
+7	0.6	Hypohidrotic ectodermal dysplasia	OMIM:305100
+7	0.6	22q11.2 deletion syndrome	OMIM:188400
+7	0.6	Cri-du-chat syndrome	OMIM:123450
+7	0.6	Craniofrontonasal syndrome	OMIM:304110
+11	0.5	Treacher Collins syndrome	OMIM:154500
+11	0.5	Catel-Manzke syndrome	OMIM:616145
+11	0.5	Opitz G/BBB syndrome	OMIM:300000
+11	0.5	Cornelia de Lange syndrome 5	OMIM:610193
+11	0.5	Kabuki syndrome	OMIM:147920
+11	0.5	Fryns syndrome	OMIM:229850

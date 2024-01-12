@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Peroxisome biogenesis disorder 7A (Zellweger)	OMIM:613254
+2	0.8	Peroxisome biogenesis disorder 4A (Zellweger)	OMIM:613454
+3	0.7	23q11.2 deletion syndrome	OMIM:188400
+4	0.6	Microphthalmia, syndromic 11	OMIM:614758
+5	0.5	Spondyloepimetaphyseal dysplasia, Genevieve type	OMIM:617516
+6	0.4	Microphthalmia, syndromic 3	OMIM:206900
+7	0.3	Microphthalmia, syndromic 5	OMIM:610125
+8	0.2	Orofaciodigital syndrome XVI	OMIM:617528
+9	0.1	Microphthalmia, syndromic 13	OMIM:300915
+10	0.09	Familial hypertrophic cardiomyopathy without heart failure	OMIM:600954
+11	0.08	Exudative vitreoretinopathy 4	OMIM:601813
+12	0.07	Renpenning syndrome 1	OMIM:309500
+13	0.06	3-methylglutaconic aciduria, type VIII	OMIM:250950
+14	0.05	Amelogenesis imperfecta, type IJ	OMIM:230000
+15	0.04	Baller-Gerold syndrome	OMIM:218600

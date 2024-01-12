@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Bicoronal synostosis	OMIM:115150
+1	1.0	Metopic synostosis	OMIM:115150
+3	0.9	Anteverted nares	OMIM:142946
+3	0.9	Hypertelorism	OMIM:157110
+3	0.9	Depressed nasal bridge	OMIM:157110
+3	0.9	Ptosis	OMIM:178300
+3	0.9	Macrotia	OMIM:139500
+8	0.8	Frontal bossing	OMIM:603100
+8	0.8	High palate	OMIM:104225
+8	0.8	Thin upper lip vermilion	OMIM:615499
+8	0.8	Midface retrusion	OMIM:600625
+12	0.7	1-5 toe syndactyly	OMIM:186200
+12	0.7	1-5 finger syndactyly	OMIM:186200
+12	0.7	Small anterior fontanelle	OMIM:605676
+12	0.7	Short hallux	OMIM:185500
+16	0.6	Death in infancy	OMIM:222300

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hydrocephalus with stenosis of aqueduct of Sylvius	OMIM:307000
+1	1.0	Congenital disorder of glycosylation, type 1A	OMIM:212065
+1	1.0	VACTERL association with hydrocephalus	OMIM:276950
+4	0.9	Short rib-polydactyly syndrome, type III	OMIM:263510
+4	0.9	Congenital muscular dystrophy, Fukuyama type	OMIM:253800
+4	0.9	Meckel syndrome, type 1	OMIM:249000
+7	0.8	Acrocallosal syndrome	OMIM:200990
+7	0.8	Cornelia de Lange syndrome 4	OMIM:614701
+7	0.8	Meckel syndrome, type 2	OMIM:603194
+7	0.8	Opitz GBBB syndrome, type II	OMIM:145410
+7	0.8	Joubert syndrome 15	OMIM:614464
+7	0.8	Meckel syndrome, type 3	OMIM:607361
+13	0.7	Short-rib thoracic dysplasia 9 with or without polydactyly	OMIM:266920
+13	0.7	Campomelic dysplasia	OMIM:114290
+13	0.7	Osteogenesis imperfecta, type XV	OMIM:615220

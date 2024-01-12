@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.65	Spinocerebellar ataxia 2	OMIM:183090
+2	0.55	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	OMIM:616192
+3	0.5	Spinocerebellar ataxia 38	OMIM:615957
+4	0.4	Spinocerebellar ataxia 40	OMIM:616053
+5	0.35	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+6	0.3	Spinocerebellar ataxia 10	OMIM:603516
+7	0.25	Spinocerebellar ataxia 1	OMIM:164400
+8	0.2	Spinocerebellar ataxia 19	OMIM:607346
+9	0.15	Spinocerebellar ataxia 29	OMIM:117360
+10	0.1	Spinocerebellar ataxia 23	OMIM:611105
+11	0.05	Spinocerebellar ataxia 7	OMIM:164500

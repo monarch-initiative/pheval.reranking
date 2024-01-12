@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.77	Potter Facies, Absent Radii, and Other Malformations	OMIM:120970
+2	0.65	PTEN Hamartoma Tumor Syndrome	OMIM:601728
+3	0.56	Hyperparathyroidism, Neonatal Severe	OMIM:239200
+4	0.54	Pregnancy and Oral Contraception, Susceptibility To	OMIM:169560
+5	0.53	Multiple Endocrine Neoplasia, Type I	OMIM:131100
+6	0.52	Tetrasomy 18p	OMIM:614290
+6	0.52	Fibromuscular Dysplasia	OMIM:135580
+6	0.52	Carcinoid Tumor, Intestinal	OMIM:114900
+9	0.51	Autism Spectrum Disorder Due To SHANK2 Mutation	OMIM:615232
+10	0.5	Paget Disease Of Bone 2, Early-Onset	OMIM:602080
+11	0.47	Adenomatous Polyposis Coli, Modifier Of	OMIM:611731
+12	0.46	C1Q Deficiency	OMIM:613652
+13	0.45	Autosomal Dominant Hypocalcemia, Familial, with Bartter Syndrome	OMIM:601198
+14	0.44	Mental Retardation, Autosomal Dominant 19	OMIM:615075
+15	0.43	Lactic Acidemia Due To Defect In Mitochondrial Metabolism, Early-Onset	OMIM:605814

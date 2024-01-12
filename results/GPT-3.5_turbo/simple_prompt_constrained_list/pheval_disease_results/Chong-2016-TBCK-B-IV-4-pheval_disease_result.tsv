@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Seizures	OMIM:170470
+1	1.0	Respiratory insufficiency	OMIM:180710
+3	0.9	Profound global developmental delay	OMIM:300600
+3	0.9	Ventriculomegaly	OMIM:236600
+5	0.8	Hypoplasia of the corpus callosum	OMIM:217990
+5	0.8	Cerebellar vermis hypoplasia	OMIM:603525
+7	0.7	Peripheral axonal neuropathy	OMIM:609020
+7	0.7	EEG abnormality	OMIM:613829
+9	0.6	Developmental regression	OMIM:617297
+9	0.6	Visual impairment	OMIM:613647
+11	0.5	Feeding difficulties	OMIM:208400
+11	0.5	Anteverted nares	OMIM:610991
+13	0.4	Fasciculations	OMIM:136950
+13	0.4	Highly arched eyebrow	OMIM:604229
+15	0.3	Hyperreflexia	OMIM:142350
+16	0.2	Narrow forehead	OMIM:613097

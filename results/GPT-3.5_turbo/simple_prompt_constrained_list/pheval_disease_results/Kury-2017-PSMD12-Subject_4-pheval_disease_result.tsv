@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Ehlers-Danlos syndrome, type IV	OMIM:130000
+2	0.9565	Phenylketonuria	OMIM:261600
+3	0.8913	Autism, X-linked 3	OMIM:300496
+4	0.8696	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 12	OMIM:615249
+5	0.8652	Seizures	OMIM:614158
+6	0.8646	Hypertelorism and esophageal abnormalities	OMIM:601536
+7	0.8261	Oculocutaneous albinism, type IB	OMIM:606952
+8	0.8233	Nephronophthisis 13	OMIM:614377
+9	0.8026	Hemihyperplasia-multiple lipomatosis syndrome	OMIM:235000
+10	0.8016	Joubert syndrome 2	OMIM:608091
+11	0.7935	Lymphangioma	OMIM:153100
+12	0.7903	Hypertelorism with esophageal abnormality and hypospadias	OMIM:601554
+13	0.7897	Mixed gonadal dysgenesis	OMIM:603767
+14	0.7839	Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency 1	OMIM:604377
+15	0.7838	Intellectual disability	OMIM:614104

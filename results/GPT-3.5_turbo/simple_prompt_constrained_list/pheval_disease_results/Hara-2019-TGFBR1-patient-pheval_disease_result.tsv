@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.923	Marfan syndrome	OMIM:154700
+2	0.843	Behçet disease	OMIM:109650
+3	0.815	Loeys-Dietz syndrome	OMIM:609192
+4	0.804	Ehlers-Danlos syndrome	OMIM:130000
+5	0.789	Larsen syndrome	OMIM:150250
+6	0.765	Stickler syndrome	OMIM:108300
+7	0.756	Homocystinuria	OMIM:236200
+8	0.745	Weill-Marchesani syndrome	OMIM:277600
+9	0.727	Marfanoid-progeroid-lipodystrophy syndrome	OMIM:616914
+10	0.711	Hyper IgE syndrome	OMIM:147060
+11	0.705	Syphilis	OMIM:272340
+12	0.702	Shprintzen-Goldberg syndrome	OMIM:182210
+13	0.698	Neurofibromatosis type 1	OMIM:162200
+14	0.694	Klippel-Feil syndrome	OMIM:118100
+15	0.69	Leptospirosis	OMIM:603174

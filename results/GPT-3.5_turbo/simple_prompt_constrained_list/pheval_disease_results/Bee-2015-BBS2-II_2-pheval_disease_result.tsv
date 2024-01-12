@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nephronophthisis	OMIM:613254
+2	0.8	Bardet-Biedl syndrome	OMIM:209900
+3	0.7	Joubert syndrome	OMIM:610688
+4	0.6	Senior-Loken syndrome	OMIM:266900
+5	0.5	Simpson-Golabi-Behmel syndrome	OMIM:312870
+6	0.4	Alström syndrome	OMIM:203800
+7	0.3	Bardet-Biedl syndrome 1	OMIM:209900
+8	0.2	Meckel syndrome	OMIM:249000
+9	0.1	Bardet-Biedl syndrome 2	OMIM:615981

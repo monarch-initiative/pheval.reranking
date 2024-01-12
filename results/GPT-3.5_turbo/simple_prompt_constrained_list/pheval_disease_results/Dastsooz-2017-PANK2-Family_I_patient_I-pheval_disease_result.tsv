@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.667	Dystonia, DOPA-Responsive, with or without Hyperphenylalaninemia	OMIM:612716
+2	0.643	Neurodegeneration with Brain Iron Accumulation 2A	OMIM:256600
+3	0.636	Cerebral Creatine Deficiency Syndrome 1	OMIM:300352
+4	0.5	Cerebral Creatine Deficiency Syndrome 2	OMIM:612736
+4	0.5	Nephronophthisis 16	OMIM:615382
+6	0.462	Wilson Disease	OMIM:277900
+7	0.455	Glycogen Storage Disease II	OMIM:232300
+8	0.417	Dystonia 1, Torsion, Autosomal Dominant	OMIM:128100
+9	0.4	Alkaptonuria	OMIM:203500
+9	0.4	Familial Hypercholesterolemia	OMIM:143890
+9	0.4	Congenital Disorder of Glycosylation, Type IIu	OMIM:613612
+12	0.375	3-Methylglutaconic Aciduria, Type V	OMIM:610198
+13	0.333	Galloway-Mowat Syndrome 4	OMIM:617729
+13	0.333	Peroxisomal Biogenesis Disorder 4A	OMIM:614862
+13	0.333	Muscular Dystrophy-Dystroglycanopathy (Congenital with Brain and Eye Anomalies), Type A, 1	OMIM:236670

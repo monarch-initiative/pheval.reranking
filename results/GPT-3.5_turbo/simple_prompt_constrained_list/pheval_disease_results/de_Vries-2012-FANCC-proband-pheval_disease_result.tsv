@@ -1,0 +1,8 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ventricular septal defect	OMIM:115150
+2	0.8	Short stature	OMIM:604841
+3	0.7	Flexion contracture	OMIM:114300
+4	0.6	Triangular face	OMIM:615477
+5	0.5	Cafe-au-lait spot	OMIM:176300
+6	0.4	Intrauterine growth retardation	OMIM:263520
+7	0.3	Bone marrow hypocellularity	OMIM:614743

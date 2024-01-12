@@ -1,0 +1,17 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondylocostal dysostosis	OMIM:277300
+1	0.9	Larsen syndrome	OMIM:150250
+1	0.9	Stickler syndrome	OMIM:108300
+4	0.8	Short rib-polydactyly syndrome	OMIM:255460
+4	0.8	Ehlers-Danlos syndrome	OMIM:130000
+4	0.8	Spondylometaphyseal dysplasia	OMIM:184252
+7	0.7	Campomelic dysplasia	OMIM:114290
+7	0.7	Osteochondrodysplasia	OMIM:165800
+7	0.7	Morquio syndrome	OMIM:253000
+7	0.7	Marfan syndrome	OMIM:154700
+11	0.6	Cerebrooculofacioskeletal syndrome	OMIM:214150
+11	0.6	Noonan syndrome	OMIM:163950
+11	0.6	Joubert syndrome	OMIM:213300
+11	0.6	Kniest dysplasia	OMIM:156550
+11	0.6	Klippel-Feil syndrome	OMIM:118100
+16	0.5	Spondyloepiphyseal dysplasias	OMIM:183900

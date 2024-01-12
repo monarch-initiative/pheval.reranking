@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis bullosa, junctional, Herlitz type	OMIM:226700
+2	0.85	Epidermolysis bullosa, junctional, non-Herlitz type	OMIM:226700
+3	0.8	Epidermolysis bullosa, junctional, with pyloric atresia	OMIM:266280
+4	0.7	Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques	OMIM:604117
+5	0.65	Pachyonychia congenita 1	OMIM:167200
+6	0.6	Epidermolysis bullosa, junctional, with congenital nephrosis	OMIM:609057
+7	0.55	Epidermolysis bullosa, junctional, with muscular dystrophy	OMIM:226670
+8	0.5	Epidermolysis bullosa, junctional, with respiratory and renal involvement	OMIM:607654
+9	0.45	Skin fragility-woolly hair syndrome	OMIM:607655
+10	0.4	Epidermolysis bullosa, junctional, with late-onset muscular dystrophy	OMIM:226670
+11	0.35	Keratosis palmoplantaris striata 1	OMIM:148700
+12	0.3	Pachyonychia congenita 2	OMIM:167210
+13	0.25	ARCI12 (variant)	OMIM:617155
+14	0.2	MEDNIK syndrome	OMIM:609313
+15	0.15	Epidermolysis bullosa, junctional, with ichthyosis	OMIM:617859

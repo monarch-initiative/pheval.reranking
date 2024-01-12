@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Asthma	OMIM:600807
+2	0.85	Delayed speech and language development	OMIM:605805
+3	0.8	Delayed fine motor development	OMIM:618169
+4	0.75	Sleep apnea	OMIM:107650
+5	0.7	Short stature	OMIM:180750
+6	0.65	Delayed skeletal maturation	OMIM:100830
