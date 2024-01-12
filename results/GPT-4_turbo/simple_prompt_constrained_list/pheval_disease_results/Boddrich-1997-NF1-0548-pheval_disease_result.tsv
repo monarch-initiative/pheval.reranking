@@ -1,0 +1,9 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Neurofibromatosis, type I	OMIM:162200
+2	0.7	Legius syndrome	OMIM:611431
+3	0.55	McCune-Albright syndrome	OMIM:174800
+4	0.4	Noonan syndrome 1	OMIM:163950
+4	0.4	Watson syndrome	OMIM:193520
+6	0.35	LEOPARD syndrome 1	OMIM:151100
+7	0.3	Neurofibromatosis-Noonan syndrome	OMIM:601321
+7	0.3	Café-au-lait spots, multiple	OMIM:114030

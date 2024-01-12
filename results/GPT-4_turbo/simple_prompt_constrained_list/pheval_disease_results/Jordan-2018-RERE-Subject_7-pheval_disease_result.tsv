@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diabetes mellitus, insulin-dependent	OMIM:222100
+2	0.85	Diabetes mellitus, noninsulin-dependent	OMIM:125853
+2	0.85	Diabetes mellitus, transient neonatal	OMIM:601410
+4	0.8	Holt-Oram syndrome	OMIM:142900
+5	0.75	Noonan syndrome 1	OMIM:163950
+5	0.75	Marfan syndrome	OMIM:154700
+7	0.7	Charge syndrome	OMIM:214800
+7	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+7	0.7	Prader-Willi syndrome	OMIM:176270
+10	0.65	Pallister-Killian syndrome	OMIM:601803
+10	0.65	Turner syndrome	OMIM:300000
+12	0.6	Down syndrome	OMIM:190685
+12	0.6	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508
+12	0.6	Cornelia de Lange syndrome 1	OMIM:122470
+12	0.6	Rubinstein-Taybi syndrome	OMIM:180849

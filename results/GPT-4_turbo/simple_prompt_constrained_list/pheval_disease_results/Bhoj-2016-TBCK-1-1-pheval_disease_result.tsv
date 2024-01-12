@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pontocerebellar Hypoplasia, Type 1b	OMIM:614678
+2	0.88	Epileptic Encephalopathy, Early Infantile, 47	OMIM:617166
+3	0.86	Mowat-Wilson Syndrome	OMIM:235730
+4	0.85	Coffin-Siris Syndrome 1	OMIM:135900
+4	0.85	Cerebral Palsy, Spastic Quadriplegic, 6	OMIM:617802
+6	0.84	Glycine Encephalopathy	OMIM:605899
+7	0.83	Angelman Syndrome	OMIM:105830
+7	0.83	Rett Syndrome, Congenital Variant	OMIM:312750
+9	0.82	Lissencephaly 1	OMIM:607432
+9	0.82	Leukodystrophy, Hypomyelinating, 4	OMIM:612233
+11	0.81	Megalencephalic Leukoencephalopathy With Subcortical Cysts 1	OMIM:604004
+11	0.81	Dandy-Walker Malformation With Mental Retardation, Macroglossia, And Bony Thoracic Dystrophy	OMIM:220250
+13	0.8	West Syndrome	OMIM:308350
+13	0.8	Pitt-Hopkins Syndrome	OMIM:610954
+15	0.79	Cutis Laxa, Autosomal Recessive, Type Iia	OMIM:219200

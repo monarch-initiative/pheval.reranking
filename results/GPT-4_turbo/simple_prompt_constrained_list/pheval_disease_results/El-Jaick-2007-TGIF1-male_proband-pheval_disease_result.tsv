@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Holoprosencephaly-3	OMIM:142945
+2	0.8	Diabetes Insipidus, Neurohypophyseal	OMIM:125700
+3	0.7	Holoprosencephaly-2	OMIM:157170
+4	0.6	Holoprosencephaly-4	OMIM:142946
+5	0.5	Holoprosencephaly-5	OMIM:609637
+6	0.4	Cleft Lip/Palate-Ectodermal Dysplasia Syndrome	OMIM:225060
+6	0.4	Microcephaly	OMIM:251200
+8	0.3	Schinzel-Giedion Syndrome	OMIM:269150
+8	0.3	Single Median Maxillary Central Incisor	OMIM:147250
+10	0.2	Midline Defects, X-Linked	OMIM:300958
+10	0.2	Frontonasal Dysplasia 1	OMIM:136760
+10	0.2	Popliteal Pterygium Syndrome	OMIM:119500
+10	0.2	Orofacial Cleft 11	OMIM:600625
+14	0.1	Auriculocondylar Syndrome	OMIM:602483
+14	0.1	Orofacial Cleft 5	OMIM:608874

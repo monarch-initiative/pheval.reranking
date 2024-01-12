@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.85	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.8	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.75	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+4	0.75	Loeys-Dietz Syndrome 2	OMIM:610168
+4	0.75	Loeys-Dietz Syndrome 3	OMIM:613795
+4	0.75	Loeys-Dietz Syndrome 4	OMIM:614816
+4	0.75	Loeys-Dietz Syndrome 5	OMIM:615582
+9	0.7	Homocystinuria due to Cystathionine Beta-Synthase Deficiency	OMIM:236200
+10	0.65	Familial Thoracic Aortic Aneurysm and Dissection	OMIM:607086
+11	0.6	Weill-Marchesani Syndrome 1, Recessive	OMIM:277600
+11	0.6	Weill-Marchesani Syndrome 2, Dominant	OMIM:608328
+11	0.6	Familial Thoracic Aortic Aneurysm and Dissection, Included	OMIM:611788
+14	0.55	Beals Syndrome	OMIM:121050
+15	0.5	Kyphoscoliotic EDS	OMIM:225400

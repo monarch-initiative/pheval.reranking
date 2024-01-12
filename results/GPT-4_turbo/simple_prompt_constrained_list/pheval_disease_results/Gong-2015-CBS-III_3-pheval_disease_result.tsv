@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.85	Homocystinuria	OMIM:236200
+3	0.8	Sphingosine Phosphate Lyase Insufficiency Syndrome	OMIM:615120
+4	0.75	Spinocerebellar Ataxia, Autosomal Recessive 11	OMIM:614229
+5	0.7	Behr Syndrome	OMIM:210000
+6	0.65	Cockayne Syndrome Type B	OMIM:133540
+7	0.6	Neuronal Ceroid-Lipofuscinoses	OMIM:204200
+8	0.58	Wolfram Syndrome	OMIM:222300
+9	0.56	Autosomal Recessive Spinocerebellar Ataxia 18	OMIM:607458
+10	0.54	Carbohydrate-Deficient Glycoprotein Syndrome Type I	OMIM:212065
+11	0.52	Neurodevelopmental Disorder with Progressive Microcephaly, Spasticity, and Brain Anomalies	OMIM:617527
+12	0.5	Autosomal Dominant Cerebellar Ataxia	OMIM:117210
+13	0.48	Hyperlysinemia	OMIM:238700
+14	0.46	X-Linked Cerebellar Ataxia	OMIM:302500
+15	0.45	Globoid Cell Leukodystrophy	OMIM:245200

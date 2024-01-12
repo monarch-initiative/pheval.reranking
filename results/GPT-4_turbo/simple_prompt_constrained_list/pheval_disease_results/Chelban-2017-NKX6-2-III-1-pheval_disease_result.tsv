@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	TUBB4A-related leukodystrophy	OMIM:612438
+2	0.9	Spinocerebellar ataxia 2	OMIM:183090
+3	0.8	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.7	Metachromatic leukodystrophy	OMIM:250100
+5	0.6	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+6	0.5	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+7	0.4	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+8	0.3	Charcot-Marie-Tooth disease type 2A1	OMIM:118210
+9	0.2	Autosomal dominant cerebellar ataxia	OMIM:117210
+10	0.1	Ataxia-telangiectasia	OMIM:208900
+10	0.1	Niemann-Pick disease type C	OMIM:257220
+10	0.1	Wilson disease	OMIM:277900
+10	0.1	Maple syrup urine disease	OMIM:248600
+10	0.1	Alexander disease	OMIM:203450
+10	0.1	Friedreich ataxia	OMIM:229300

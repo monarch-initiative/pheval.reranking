@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Heterotaxy, visceral, 1, X-linked	OMIM:306955
+2	0.9	Primary ciliary dyskinesia	OMIM:244400
+3	0.85	Heterotaxy, visceral, 2, autosomal	OMIM:605376
+4	0.8	Heterotaxy, visceral, 4, autosomal	OMIM:613751
+5	0.75	Heterotaxy, visceral, 5, autosomal	OMIM:615779
+6	0.7	Heterotaxy, visceral, 6, autosomal	OMIM:615779
+7	0.65	Heterotaxy, visceral, 7, autosomal	OMIM:616779
+8	0.6	Transposition of the great arteries, dextro-looped 1	OMIM:608808
+9	0.55	Congenital heart defects, multiple types, 2	OMIM:614980
+10	0.5	Congenital heart defects, multiple types, 1	OMIM:607721
+11	0.45	Congenital heart defects, multiple types, 3	OMIM:615216
+12	0.4	Congenital heart defects, multiple types, 4	OMIM:615582
+13	0.35	VACTERL association	OMIM:192350
+14	0.3	Situs inversus totalis	OMIM:270100
+15	0.25	Kartagener syndrome	OMIM:244400

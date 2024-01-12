@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.85	X-Linked Adrenoleukodystrophy	OMIM:300100
+3	0.83	Metachromatic Leukodystrophy	OMIM:250100
+4	0.81	Hypophosphatasia	OMIM:241500
+5	0.78	Hyperphenylalaninemia, BH4-Deficient, D	OMIM:264070
+6	0.75	Mucopolysaccharidosis, MPS-III-D	OMIM:252940
+7	0.73	Mucopolysaccharidosis, MPS-III-C	OMIM:252930
+8	0.71	Sialidosis, Type II	OMIM:256550
+9	0.69	Gaucher Disease, Type I	OMIM:230800
+10	0.67	Mucopolysaccharidosis, MPS-III-B	OMIM:252920
+11	0.65	Zellweger Syndrome	OMIM:214100
+12	0.63	D-Bifunctional Protein Deficiency	OMIM:261515
+13	0.61	GM2-Gangliosidosis, AB Variant	OMIM:272750
+14	0.59	Fucosidosis	OMIM:230000
+15	0.57	Globoid Cell Leukodystrophy	OMIM:245200

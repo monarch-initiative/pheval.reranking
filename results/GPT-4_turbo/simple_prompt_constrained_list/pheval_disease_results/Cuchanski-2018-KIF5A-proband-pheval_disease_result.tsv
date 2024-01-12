@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Primary Lateral Sclerosis, Juvenile	OMIM:606353
+2	0.94	Hereditary Spastic Paraplegia	OMIM:303350
+3	0.92	Spastic Paraplegia 4, Autosomal Dominant	OMIM:182601
+4	0.91	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+5	0.89	Charcot-Marie-Tooth Disease, Type 2A2	OMIM:609260
+6	0.87	Spastic Paraplegia 7, Autosomal Recessive	OMIM:607259
+7	0.85	Multiple Sclerosis	OMIM:126200
+8	0.83	Friedreich Ataxia	OMIM:229300
+9	0.81	Spinocerebellar Ataxia, Autosomal Recessive 1	OMIM:606002
+10	0.79	Spastic Paraplegia 3A, Autosomal Dominant	OMIM:182600
+11	0.77	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+12	0.76	Giant Axonal Neuropathy	OMIM:256850
+13	0.74	Leukodystrophy, Hypomyelinating, 4	OMIM:612233
+14	0.72	Neuropathy, Hereditary Sensory and Autonomic, Type I	OMIM:162400
+15	0.71	Adrenomyeloneuropathy	OMIM:300100

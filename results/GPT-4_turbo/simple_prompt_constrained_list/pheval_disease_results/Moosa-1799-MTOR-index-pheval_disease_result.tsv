@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bannayan-Riley-Ruvalcaba Syndrome	OMIM:153480
+2	0.8	Megalencephaly-Capillary Malformation-Polymicrogyria Syndrome	OMIM:602501
+3	0.75	Gardner Syndrome	OMIM:175100
+4	0.7	Beckwith-Wiedemann Syndrome	OMIM:130650
+4	0.7	Smith-Magenis Syndrome	OMIM:182290
+6	0.65	Juvenile Polyposis Syndrome	OMIM:174900
+7	0.6	Coffin-Siris Syndrome	OMIM:135900
+8	0.55	Proteus Syndrome	OMIM:176920
+9	0.5	Cowden Syndrome	OMIM:158350
+10	0.45	Potter Syndrome	OMIM:263200
+11	0.35	Peutz-Jeghers Syndrome	OMIM:175200
+12	0.3	Sotos Syndrome	OMIM:117550
+13	0.25	Noonan Syndrome	OMIM:163950
+14	0.2	Rubinstein-Taybi Syndrome	OMIM:180849
+15	0.15	Pallister-Hall Syndrome	OMIM:146510

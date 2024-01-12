@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+2	0.9	Dilated Cardiomyopathy 1AA, With Or Without Left Ventricular Noncompaction	OMIM:615235
+3	0.85	Dilated Cardiomyopathy 1BB	OMIM:612877
+4	0.8	Dilated Cardiomyopathy 1S	OMIM:613426
+5	0.78	Brugada Syndrome 1	OMIM:601144
+6	0.75	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:192600
+7	0.73	Long QT Syndrome 1	OMIM:192500
+8	0.71	Long QT Syndrome 2	OMIM:613688
+9	0.7	Catecholaminergic Polymorphic Ventricular Tachycardia	OMIM:604772
+10	0.68	Myocarditis, Familial	OMIM:615006
+11	0.66	Sick Sinus Syndrome 1, Autosomal Recessive	OMIM:608567
+12	0.64	Familial Isolated Arrhythmogenic Ventricular Dysplasia, Right Dominant Form	OMIM:610193
+13	0.63	Dilated Cardiomyopathy 1E	OMIM:601154
+14	0.61	Left Ventricular Noncompaction 1	OMIM:604169
+15	0.6	Cardiomyopathy, Familial Hypertrophic, 14	OMIM:613251

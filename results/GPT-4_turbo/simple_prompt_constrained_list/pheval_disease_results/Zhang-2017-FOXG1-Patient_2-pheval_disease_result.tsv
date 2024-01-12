@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman syndrome	OMIM:105830
+2	0.85	Rett syndrome	OMIM:312750
+3	0.8	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.78	2q23.1 microdeletion syndrome	OMIM:156200
+5	0.75	Cri-du-chat syndrome	OMIM:123450
+6	0.72	Prader-Willi syndrome	OMIM:176270
+7	0.7	Coffin-Siris syndrome	OMIM:135900
+8	0.68	Mowat-Wilson syndrome	OMIM:235730
+9	0.65	Pitt-Hopkins syndrome	OMIM:610954
+10	0.63	Cornelia de Lange syndrome	OMIM:122470
+11	0.6	CHARGE syndrome	OMIM:214800
+12	0.58	West syndrome	OMIM:308350
+13	0.55	Kleefstra syndrome	OMIM:610253
+14	0.53	Wolf-Hirschhorn syndrome	OMIM:194190
+15	0.5	Fragile X syndrome	OMIM:300624

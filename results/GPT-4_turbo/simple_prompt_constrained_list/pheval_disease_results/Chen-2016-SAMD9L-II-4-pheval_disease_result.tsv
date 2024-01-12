@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 28	OMIM:610246
+2	0.85	Refractory anemia with excess blasts	OMIM:613649
+3	0.8	Aplastic anemia	OMIM:609135
+4	0.75	Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay	OMIM:616084
+4	0.75	Dyskeratosis congenita, autosomal dominant 2	OMIM:615190
+4	0.75	Ataxia-pancytopenia syndrome	OMIM:159550
+7	0.7	Ataxia-telangiectasia	OMIM:208900
+8	0.65	Charcot-Marie-Tooth disease type 2K	OMIM:607831
+8	0.65	Friedreich ataxia	OMIM:229300
+10	0.6	Congenital hypoplastic anemia	OMIM:224400
+10	0.6	Episodic ataxia type 1	OMIM:160120
+12	0.55	Purine nucleoside phosphorylase deficiency	OMIM:613179
+12	0.55	Ataxia with vitamin E deficiency	OMIM:277460
+12	0.55	Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia	OMIM:606002
+15	0.5	Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)	OMIM:271245

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Chromosome 22q11.2 deletion syndrome, distal	OMIM:611867
+2	0.83	Cohen syndrome	OMIM:216550
+3	0.81	Baraitser-Winter syndrome 1	OMIM:243310
+4	0.79	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.77	Williams syndrome	OMIM:194050
+6	0.75	Kabuki syndrome 1	OMIM:147920
+7	0.73	Feingold syndrome 1	OMIM:164280
+8	0.71	Rubinstein-Taybi syndrome 1	OMIM:180849
+9	0.69	Mowat-Wilson syndrome	OMIM:235730
+10	0.67	Cornelia de Lange syndrome 1	OMIM:122470
+11	0.65	CHARGE syndrome	OMIM:214800
+12	0.63	Sotos syndrome 1	OMIM:117550
+13	0.61	Noonan syndrome 1	OMIM:163950
+14	0.59	Smith-Lemli-Opitz syndrome	OMIM:270400
+15	0.57	Saethre-Chotzen syndrome	OMIM:101400

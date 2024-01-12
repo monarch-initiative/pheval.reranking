@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	CHARGE syndrome	OMIM:214800
+2	0.9	Mowat-Wilson syndrome	OMIM:235730
+3	0.8	Townes-Brocks syndrome	OMIM:107480
+4	0.7	Branchiootorenal syndrome 1	OMIM:113650
+5	0.6	Kabuki syndrome 1	OMIM:147920
+6	0.5	DiGeorge syndrome	OMIM:188400
+7	0.4	Cat eye syndrome	OMIM:115470
+8	0.3	Treacher Collins syndrome 1	OMIM:154500
+9	0.2	Pierre Robin syndrome	OMIM:261800
+10	0.1	Stickler syndrome, type I, non-syndromic ocular	OMIM:609508

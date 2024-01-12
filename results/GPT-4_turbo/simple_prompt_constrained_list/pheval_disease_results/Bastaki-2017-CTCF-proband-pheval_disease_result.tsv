@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.7	3MC syndrome 1	OMIM:257920
+4	0.6	Baraitser-Winter syndrome 1	OMIM:243310
+4	0.6	Geleophysic dysplasia 1	OMIM:231050
+4	0.6	Ohdo syndrome, KS	OMIM:603736
+4	0.6	Anauxetic dysplasia 1	OMIM:607095
+4	0.6	Coffin-Siris syndrome 1	OMIM:135900
+9	0.5	Nicolaides-Baraitser syndrome	OMIM:601358
+9	0.5	Mowat-Wilson syndrome	OMIM:235730
+9	0.5	Floating-Harbor syndrome	OMIM:136140
+9	0.5	Kabuki syndrome 1	OMIM:147920
+9	0.5	Noonan syndrome 1	OMIM:163950
+9	0.5	Craniofrontonasal dysplasia	OMIM:304110
+9	0.5	CHARGE syndrome	OMIM:214800

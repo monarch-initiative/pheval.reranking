@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Chorea-Acanthocytosis	OMIM:200150
+2	0.85	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+3	0.8	Huntington Disease	OMIM:143100
+4	0.75	Wilson Disease	OMIM:277900
+4	0.75	Neurodegeneration with Brain Iron Accumulation 1	OMIM:234200
+6	0.7	Lesch-Nyhan Syndrome	OMIM:300322
+7	0.65	Niemann-Pick Disease, Type C1	OMIM:257220
+8	0.6	Tay-Sachs Disease	OMIM:272800
+9	0.55	Friedreich Ataxia	OMIM:229300
+10	0.5	Rett Syndrome	OMIM:312750
+10	0.5	Neuroferritinopathy	OMIM:606159
+12	0.45	Ataxia Telangiectasia	OMIM:208900
+13	0.4	Glutaric Aciduria, Type I	OMIM:231670
+14	0.35	Spinocerebellar Ataxia Type 3	OMIM:109150
+15	0.3	Mitochondrial DNA Depletion Syndrome 12B (Cardiomyopathic Type)	OMIM:615418

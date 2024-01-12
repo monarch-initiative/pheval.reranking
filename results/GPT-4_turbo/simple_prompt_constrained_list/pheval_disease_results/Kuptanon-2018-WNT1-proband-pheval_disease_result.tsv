@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type III	OMIM:259420
+2	0.9	Osteogenesis imperfecta, type II	OMIM:166210
+3	0.85	Osteogenesis imperfecta, type I	OMIM:166200
+4	0.8	Ehlers-Danlos syndrome, progeroid type, 2	OMIM:615349
+5	0.75	Osteogenesis imperfecta, type IV	OMIM:166220
+6	0.7	Osteogenesis imperfecta, type XIII	OMIM:614856
+7	0.65	Osteogenesis imperfecta, type VI	OMIM:613982
+8	0.6	Osteogenesis imperfecta, type V	OMIM:610967
+9	0.55	Osteogenesis imperfecta, type IX	OMIM:259440
+10	0.5	Osteogenesis imperfecta, type XII	OMIM:613849
+11	0.45	Osteogenesis imperfecta, type XI	OMIM:610968
+12	0.4	Osteogenesis imperfecta, type XV	OMIM:615220
+13	0.35	Osteogenesis imperfecta, type XIV	OMIM:615066
+14	0.3	Cole-Carpenter syndrome 1	OMIM:112240
+15	0.25	Bruck syndrome 2	OMIM:609220

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.8	Noonan syndrome 1	OMIM:163950
+3	0.8	Coffin-Siris syndrome	OMIM:135900
+5	0.7	Floating-Harbor syndrome	OMIM:136140
+5	0.7	Nicolaides-Baraitser syndrome	OMIM:601358
+5	0.7	Cardiofaciocutaneous syndrome 1	OMIM:115150
+5	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+9	0.6	Seckel syndrome 1	OMIM:210600
+9	0.6	Dubowitz syndrome	OMIM:223370
+9	0.6	Craniofacial-deafness-hand syndrome	OMIM:122880
+12	0.5	Rothmund-Thomson syndrome	OMIM:268400
+12	0.5	Cockayne syndrome type A	OMIM:216400
+12	0.5	LEOPARD syndrome 1	OMIM:151100
+12	0.5	Ataxia-Telangiectasia	OMIM:208900

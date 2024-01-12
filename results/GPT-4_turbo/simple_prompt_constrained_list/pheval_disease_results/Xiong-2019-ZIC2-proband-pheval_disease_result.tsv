@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Holoprosencephaly 3	OMIM:142945
+1	0.95	Holoprosencephaly 2	OMIM:157170
+1	0.95	Holoprosencephaly 4	OMIM:142946
+1	0.95	Holoprosencephaly 5	OMIM:609637
+1	0.95	Holoprosencephaly 11	OMIM:614226
+6	0.9	Hydrocephalus	OMIM:236600
+6	0.9	Hydrocephalus due to Congenital Stenosis of Aqueduct of Sylvius	OMIM:307000
+6	0.9	Hydrocephalus, Nonsyndromic, Autosomal Recessive	OMIM:236600
+6	0.9	Hydrocephalus with Hirschsprung Disease	OMIM:307000
+10	0.85	L1 Syndrome	OMIM:303350
+10	0.85	Megalencephaly-Capillary Malformation-Polymicrogyria Syndrome	OMIM:602501
+10	0.85	Schizencephaly	OMIM:269160
+10	0.85	Walker-Warburg Syndrome	OMIM:236670
+14	0.8	Acrocallosal Syndrome	OMIM:200990
+14	0.8	Aicardi Syndrome	OMIM:304050

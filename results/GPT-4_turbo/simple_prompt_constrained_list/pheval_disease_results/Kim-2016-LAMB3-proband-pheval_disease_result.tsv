@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Amelogenesis Imperfecta, Type Iv	OMIM:104510
+2	0.95	Amelogenesis Imperfecta, Type Ia	OMIM:104530
+2	0.95	Amelogenesis Imperfecta, Type Ic	OMIM:204650
+4	0.9	Amelogenesis Imperfecta, Type Iiia	OMIM:130900
+4	0.9	Amelogenesis Imperfecta, Type Iig	OMIM:612529
+4	0.9	Amelogenesis Imperfecta, Type Iiih	OMIM:614832
+4	0.9	Amelogenesis Imperfecta, Type Iv	OMIM:614253
+4	0.9	Amelogenesis Imperfecta, Type Iv	OMIM:104510
+9	0.85	Jalili Syndrome	OMIM:217080
+9	0.85	Witkop Syndrome	OMIM:189500
+9	0.85	Cone-Rod Dystrophy And Amelogenesis Imperfecta	OMIM:610093
+12	0.8	Fg Syndrome 4	OMIM:300422
+12	0.8	Focal Dermal Hypoplasia	OMIM:305600
+12	0.8	Osteoglophonic Dysplasia	OMIM:166250
+12	0.8	Kohlschutter-Tonz Syndrome	OMIM:226750

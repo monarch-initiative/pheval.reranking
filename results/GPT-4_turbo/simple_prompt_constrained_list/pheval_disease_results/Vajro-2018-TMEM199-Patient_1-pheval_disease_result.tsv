@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.85	Ceruloplasmin deficiency, aceruloplasminemia	OMIM:604290
+3	0.7	Hepatoerythropoietic porphyria	OMIM:176100
+4	0.65	Indian childhood cirrhosis	OMIM:231100
+5	0.6	Medication-related steatosis and steatohepatitis	OMIM:NA
+5	0.6	Menkes disease	OMIM:309400
+7	0.55	Nonalcoholic Fatty Liver Disease	OMIM:NA
+8	0.5	Occipital horn syndrome	OMIM:304150
+8	0.5	Primary biliary cirrhosis	OMIM:109720
+10	0.4	Cholesteryl ester storage disease	OMIM:215500
+10	0.4	Hypobetalipoproteinemia, familial	OMIM:615558
+10	0.4	Lysosomal acid lipase deficiency	OMIM:278000
+10	0.4	Sitosterolemia	OMIM:210250
+10	0.4	Progressive familial intrahepatic cholestasis	OMIM:211600
+15	0.3	Alagille syndrome	OMIM:118450

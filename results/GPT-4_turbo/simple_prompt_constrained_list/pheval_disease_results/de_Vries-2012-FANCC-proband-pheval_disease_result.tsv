@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Shwachman-Diamond Syndrome	OMIM:260400
+2	0.8	Noonan Syndrome 1	OMIM:163950
+3	0.75	Diamond-Blackfan Anemia 1	OMIM:105650
+4	0.7	Dyskeratosis Congenita, Autosomal Dominant 2	OMIM:613989
+5	0.65	Fanconi Anemia, Complementation Group A	OMIM:227650
+6	0.6	Neurofibromatosis, Type 1	OMIM:162200
+7	0.55	Dubowitz Syndrome	OMIM:223370
+8	0.5	Russell-Silver Syndrome	OMIM:180860
+9	0.45	Seckel Syndrome 1	OMIM:210600
+10	0.4	Cornelia De Lange Syndrome 1	OMIM:122470
+11	0.35	Cartilage-Hair Hypoplasia	OMIM:250250
+12	0.3	Myelodysplastic Syndrome	OMIM:614286
+13	0.25	Nijmegen Breakage Syndrome	OMIM:251260
+14	0.2	Coffin-Lowry Syndrome	OMIM:303600
+15	0.15	Werner Syndrome	OMIM:277700

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia, congenital type	OMIM:183900
+2	0.85	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+3	0.75	Raine syndrome	OMIM:259775
+4	0.7	Marinesco-Sjogren syndrome	OMIM:248800
+5	0.65	Greenberg dysplasia	OMIM:215140
+6	0.6	Micro syndrome	OMIM:600118
+7	0.55	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	OMIM:212540
+8	0.5	Cockayne syndrome, type A	OMIM:216400
+9	0.45	Pitt-Hopkins syndrome	OMIM:610954
+10	0.4	Gorlin-Chaudhry-Moss syndrome	OMIM:233500
+11	0.35	Schimke immuno-osseous dysplasia	OMIM:242900
+12	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+13	0.25	Mulibrey nanism	OMIM:253250
+14	0.2	Nance-Horan syndrome	OMIM:302350
+15	0.15	3-M syndrome	OMIM:273750

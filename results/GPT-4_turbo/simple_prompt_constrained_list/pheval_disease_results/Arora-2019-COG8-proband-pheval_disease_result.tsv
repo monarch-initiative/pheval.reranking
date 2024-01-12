@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.85	Coffin-Siris syndrome	OMIM:135900
+3	0.8	3-M syndrome 1	OMIM:273750
+4	0.75	Mosaic variegated aneuploidy syndrome	OMIM:257300
+5	0.7	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.65	Feingold syndrome 1	OMIM:164280
+7	0.6	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.55	Noonan syndrome 1	OMIM:163950
+9	0.5	Meckel syndrome 1	OMIM:249000
+10	0.45	CHARGE syndrome	OMIM:214800
+11	0.4	Miller-Dieker syndrome	OMIM:247200
+12	0.35	Beckwith-Wiedemann syndrome	OMIM:130650
+13	0.3	Rubinstein-Taybi syndrome 1	OMIM:180849
+14	0.25	Trisomy 18	OMIM:247280
+15	0.2	Turner syndrome	OMIM:300000

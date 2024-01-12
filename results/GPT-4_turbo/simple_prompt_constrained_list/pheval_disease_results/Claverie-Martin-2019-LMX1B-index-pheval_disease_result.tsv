@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Nail-Patella Syndrome	OMIM:161200
+2	0.85	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+3	0.8	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.75	Tricho-Rhino-Phalangeal Syndrome, Type I	OMIM:190350
+5	0.7	Coffin-Siris Syndrome	OMIM:135900
+6	0.65	Multiple Epiphyseal Dysplasia, Recessive	OMIM:226900
+7	0.6	Distal Arthrogryposis Type 1	OMIM:108120
+8	0.55	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+9	0.5	Brachyolmia Type 3	OMIM:113500
+10	0.45	3M Syndrome	OMIM:273750
+11	0.4	Stuve-Wiedemann Syndrome	OMIM:601559
+12	0.35	Spondyloepiphyseal Dysplasia Tarda	OMIM:313400
+13	0.3	Floating-Harbor Syndrome	OMIM:136140
+14	0.25	Marfan Syndrome	OMIM:154700
+15	0.2	Dyskeratosis Congenita, X-linked	OMIM:305000

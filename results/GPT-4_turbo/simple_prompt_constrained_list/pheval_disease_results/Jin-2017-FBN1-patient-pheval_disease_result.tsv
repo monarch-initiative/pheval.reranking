@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Geleophysic Dysplasia 1	OMIM:231050
+2	0.75	Pseudoachondroplasia	OMIM:177170
+2	0.75	Acromicric Dysplasia	OMIM:102370
+4	0.7	3-M Syndrome 1	OMIM:273750
+5	0.65	Weill-Marchesani Syndrome 2, Autosomal Dominant	OMIM:608328
+5	0.65	Grebe Syndrome	OMIM:200700
+5	0.65	Larsen Syndrome, Dominant Type	OMIM:150250
+5	0.65	Desbuquois Dysplasia 1	OMIM:251450
+5	0.65	Fibrochondrogenesis	OMIM:228520
+10	0.6	Metatropic Dysplasia	OMIM:156530
+10	0.6	Diastrophic Dysplasia	OMIM:222600
+10	0.6	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+10	0.6	Kniest Dysplasia	OMIM:156550
+10	0.6	Stuve-Wiedemann Syndrome	OMIM:601559
+10	0.6	Shprintzen-Goldberg Syndrome	OMIM:182212

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIB	OMIM:614437
+2	0.88	Ehlers-Danlos Syndrome, Progeroid Type, 2	OMIM:615349
+3	0.87	Geleophysic Dysplasia 2	OMIM:614185
+4	0.85	Arterial Tortuosity Syndrome	OMIM:208050
+5	0.82	Ehlers-Danlos Syndrome, Cardiac-Valvular Type	OMIM:225320
+6	0.81	Loeys-Dietz Syndrome, Type 1	OMIM:609192
+6	0.81	Loeys-Dietz Syndrome, Type 2	OMIM:608967
+8	0.8	Marfan Syndrome	OMIM:154700
+9	0.79	Mass Phenotype	OMIM:604308
+10	0.77	Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Anomalies	OMIM:613091
+11	0.75	Williams-Beuren Syndrome	OMIM:194050
+12	0.72	Urbach-Wiethe Disease	OMIM:247100
+13	0.7	Cutis Laxa, Autosomal Dominant	OMIM:123700
+14	0.68	Familial Thoracic Aortic Aneurysm And Dissection	OMIM:607086
+15	0.65	Congenital Contractural Arachnodactyly	OMIM:121050

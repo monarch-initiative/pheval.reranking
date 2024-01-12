@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 1	OMIM:163950
+2	0.85	Turner syndrome	OMIM:300400
+2	0.85	22q11.2 deletion syndrome	OMIM:188400
+4	0.8	CHARGE syndrome	OMIM:214800
+4	0.8	Williams syndrome	OMIM:194050
+6	0.75	Prader-Willi syndrome	OMIM:176270
+6	0.75	Marshall-Smith syndrome	OMIM:602535
+8	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+8	0.7	Cornelia de Lange syndrome	OMIM:122470
+11	0.65	Miller-Dieker syndrome	OMIM:247200
+11	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+11	0.65	Kabuki syndrome 1	OMIM:147920
+14	0.6	Pelizaeus-Merzbacher disease	OMIM:312080
+14	0.6	Sotos syndrome 1	OMIM:117550

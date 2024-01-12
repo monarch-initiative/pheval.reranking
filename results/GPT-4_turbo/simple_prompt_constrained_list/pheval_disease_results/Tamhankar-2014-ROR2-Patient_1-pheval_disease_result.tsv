@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+2	0.85	3MC Syndrome 1	OMIM:257220
+2	0.85	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+4	0.8	Geleophysic Dysplasia 1	OMIM:231050
+5	0.75	Craniofrontonasal Syndrome	OMIM:304110
+6	0.7	Ohdo Syndrome, SBBYS Variant	OMIM:603736
+6	0.7	Frank-Ter Haar Syndrome	OMIM:249420
+8	0.65	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+9	0.6	Beckwith-Wiedemann Syndrome	OMIM:130650
+10	0.55	Mucopolysaccharidosis Type II	OMIM:309900
+11	0.5	Mucopolysaccharidosis, MPS-III-A	OMIM:252900
+11	0.5	Sotos Syndrome 1	OMIM:117550
+13	0.45	Cornelia De Lange Syndrome 1	OMIM:122470
+14	0.4	Floating-Harbor Syndrome	OMIM:136140
+15	0.35	Cranioectodermal Dysplasia 1	OMIM:218330

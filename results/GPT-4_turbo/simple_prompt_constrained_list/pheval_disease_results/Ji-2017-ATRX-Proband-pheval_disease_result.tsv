@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.85	Mucopolysaccharidosis Type IV	OMIM:253000
+3	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+4	0.75	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+6	0.7	Shwachman-Diamond Syndrome	OMIM:260400
+6	0.7	3-M syndrome	OMIM:273750
+8	0.65	Juvenile Myelomonocytic Leukemia	OMIM:607785
+8	0.65	Saethre-Chotzen Syndrome	OMIM:101400
+10	0.6	Cleidocranial Dysplasia	OMIM:119600
+10	0.6	Beckwith-Wiedemann Syndrome	OMIM:130650
+12	0.55	Fanconi Anemia	OMIM:227650
+12	0.55	Noonan Syndrome 1	OMIM:163950
+14	0.5	Diamond-Blackfan Anemia	OMIM:105650
+14	0.5	Schwartz-Jampel Syndrome	OMIM:255800

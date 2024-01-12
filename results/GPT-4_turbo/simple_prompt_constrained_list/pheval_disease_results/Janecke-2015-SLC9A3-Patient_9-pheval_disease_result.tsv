@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital chloride diarrhea	OMIM:214700
+2	0.85	Bartter syndrome, type 4b	OMIM:613090
+3	0.8	Cystic fibrosis	OMIM:219700
+4	0.75	Microvillus inclusion disease	OMIM:251850
+5	0.7	Cholera	OMIM:300335
+6	0.65	Bartter syndrome, type 3	OMIM:607364
+7	0.6	Bartter syndrome, type 2	OMIM:241200
+8	0.55	Gitelman syndrome	OMIM:263800
+9	0.5	Pseudohypoaldosteronism, type II	OMIM:145260
+10	0.45	Diarrhea 5, with tufting enteropathy, congenital	OMIM:613217
+11	0.4	Pseudohypoaldosteronism, type 1, autosomal recessive	OMIM:264350
+12	0.35	Lactose intolerance, congenital	OMIM:223000
+13	0.3	Bartter syndrome, type 1	OMIM:601678
+14	0.25	Bartter syndrome, type 4a	OMIM:602522
+15	0.2	Syndromic diarrhea	OMIM:610248

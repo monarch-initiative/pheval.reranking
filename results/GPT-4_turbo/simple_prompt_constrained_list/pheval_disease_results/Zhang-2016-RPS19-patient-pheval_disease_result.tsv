@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Myelodysplastic syndrome	OMIM:614286
+2	0.8	Thiamine-responsive megaloblastic anemia syndrome	OMIM:249270
+3	0.78	Diamond-Blackfan anemia	OMIM:105650
+4	0.76	Shwachman-Diamond syndrome	OMIM:260400
+5	0.75	Fanconi anemia	OMIM:227650
+6	0.74	Dyskeratosis congenita	OMIM:127550
+7	0.71	Congenital dyserythropoietic anemia	OMIM:224120
+8	0.69	Acute myeloid leukemia	OMIM:601626
+9	0.68	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+10	0.65	Pearson marrow-pancreas syndrome	OMIM:557000
+11	0.64	Glanzmann thrombasthenia	OMIM:273800
+12	0.63	Bernard-Soulier syndrome	OMIM:231200
+13	0.62	Chediak-Higashi syndrome	OMIM:214500
+14	0.61	Wiskott-Aldrich syndrome	OMIM:301000
+15	0.6	Gray platelet syndrome	OMIM:139090

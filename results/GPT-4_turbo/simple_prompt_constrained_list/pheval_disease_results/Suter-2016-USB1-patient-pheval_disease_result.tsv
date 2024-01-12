@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive 5	OMIM:615190
+2	0.85	Cartilage-hair hypoplasia	OMIM:250250
+3	0.82	Severe congenital neutropenia	OMIM:202700
+4	0.8	Schwachman-Diamond syndrome	OMIM:260400
+5	0.75	Ataxia-telangiectasia	OMIM:208900
+6	0.72	Roifman syndrome	OMIM:616651
+7	0.7	Short stature, auditory canal atresia, mandibular hypoplasia, skeletal anomalies	OMIM:224690
+8	0.68	Chronic granulomatous disease	OMIM:306400
+9	0.65	Chédiak-Higashi syndrome	OMIM:214500
+10	0.63	Poikiloderma with neutropenia	OMIM:604173
+11	0.6	Geleophysic dysplasia 1	OMIM:231050
+12	0.58	Mulibrey nanism	OMIM:253250
+13	0.55	Job syndrome	OMIM:147060
+14	0.52	Cohen syndrome	OMIM:216550
+15	0.5	Seckel syndrome	OMIM:210600

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE recurrent infection syndrome	OMIM:147060
+2	0.85	Dyskeratosis congenita, autosomal dominant 2	OMIM:613990
+3	0.82	Immunodeficiency due to defect in CD3-gamma	OMIM:608971
+4	0.8	Severe combined immunodeficiency, B cell negative	OMIM:102700
+5	0.75	Chronic mucocutaneous candidiasis	OMIM:212050
+6	0.72	Wiskott-Aldrich syndrome	OMIM:301000
+7	0.7	Epidermodysplasia verruciformis	OMIM:226400
+8	0.68	Common variable immunodeficiency	OMIM:607594
+9	0.65	Idiopathic hypereosinophilic syndrome	OMIM:607685
+10	0.6	Omenn syndrome	OMIM:603554
+11	0.58	LIG4 syndrome	OMIM:606593
+12	0.55	Cartilage-hair hypoplasia	OMIM:250250
+13	0.5	Hypereosinophilic syndrome, idiopathic, nonimmune	OMIM:607685
+14	0.45	Autoimmune lymphoproliferative syndrome	OMIM:601859
+15	0.4	X-linked severe combined immunodeficiency	OMIM:300400

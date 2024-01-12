@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lowe syndrome	OMIM:309000
+2	0.85	Fabry disease	OMIM:301500
+2	0.85	Cystinosis	OMIM:219800
+4	0.8	Galactosemia	OMIM:230400
+5	0.75	Mucopolysaccharidosis type I	OMIM:607014
+6	0.7	Wilson disease	OMIM:277900
+6	0.7	Myotonic dystrophy type 1	OMIM:160900
+8	0.65	Glycogen storage disease type I	OMIM:232200
+8	0.65	Finnish congenital nephrosis	OMIM:256300
+10	0.6	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+10	0.6	Alport syndrome	OMIM:301050
+12	0.55	Nail-patella syndrome	OMIM:161200
+12	0.55	Bartter syndrome	OMIM:601678
+14	0.5	Juvenile cataracts	OMIM:116200
+14	0.5	Stickler syndrome, type I	OMIM:108300

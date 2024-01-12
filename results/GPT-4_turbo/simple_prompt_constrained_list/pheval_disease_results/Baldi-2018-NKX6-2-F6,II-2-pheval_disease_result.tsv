@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Canavan disease	OMIM:271900
+3	0.8	Alexander disease	OMIM:203450
+4	0.75	Metachromatic leukodystrophy	OMIM:250100
+5	0.7	Krabbe disease	OMIM:245200
+6	0.65	Adrenoleukodystrophy	OMIM:300100
+7	0.6	Vanishing white matter disease	OMIM:603896
+8	0.55	X-linked leukoencephalopathy with vanishing white matter	OMIM:300673
+9	0.5	4H leukodystrophy	OMIM:612233
+10	0.45	Hypomyelination and congenital cataract	OMIM:610532
+11	0.4	Salla disease	OMIM:604369
+12	0.35	Megaloencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+13	0.3	Cockayne syndrome A	OMIM:216400
+14	0.25	Cockayne syndrome B	OMIM:133540
+15	0.2	Aicardi-Goutieres syndrome 1, dominant and recessive	OMIM:225750

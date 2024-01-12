@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.9	Cleidocranial Dysplasia, Forme Fruste, Dental Anomalies Only	OMIM:125350
+3	0.85	Cleidocranial Dysplasia, Forme Fruste, With Brachydactyly	OMIM:122600
+4	0.8	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+5	0.75	Cole-Carpenter Syndrome 1	OMIM:112240
+6	0.7	Metaphyseal Dysplasia, Braun-Tinschert Type	OMIM:605946
+7	0.65	3mc Syndrome 1	OMIM:257920
+8	0.6	Spondylocarpotarsal Synostosis Syndrome	OMIM:272460
+9	0.55	Shwachman-Diamond Syndrome 1	OMIM:260400
+10	0.5	Geleophysic Dysplasia 1	OMIM:231050
+11	0.45	Odontochondrodysplasia	OMIM:184260
+12	0.4	Pseudoachondroplasia	OMIM:177170
+13	0.35	Autosomal Dominant Robinow Syndrome	OMIM:180700
+14	0.3	Frontometaphyseal Dysplasia 1	OMIM:305620
+15	0.25	Marshall-Smith Syndrome	OMIM:602535

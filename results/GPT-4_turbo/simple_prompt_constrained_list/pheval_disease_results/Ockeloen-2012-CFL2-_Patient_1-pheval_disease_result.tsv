@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Congenital muscular dystrophy-dystroglycanopathy type B1	OMIM:613155
+2	0.8	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+3	0.75	Duchenne muscular dystrophy	OMIM:310200
+3	0.75	Becker muscular dystrophy	OMIM:300376
+3	0.75	Spinal muscular atrophy-2	OMIM:253550
+6	0.7	Spinal muscular atrophy, type I	OMIM:253300
+6	0.7	Ullrich congenital muscular dystrophy 1	OMIM:254090
+6	0.7	Bethlem myopathy 1	OMIM:158810
+9	0.65	Myopathic Ehlers-Danlos syndrome	OMIM:601776
+9	0.65	Familial idiopathic scoliosis	OMIM:181800
+11	0.6	Limb-girdle muscular dystrophy-dystroglycanopathy, type C5	OMIM:607155
+11	0.6	Merosin-deficient congenital muscular dystrophy 1A	OMIM:607855
+11	0.6	Rigid spine syndrome	OMIM:602771
+14	0.55	Emery-Dreifuss muscular dystrophy 1, X-linked	OMIM:310300
+14	0.55	Emery-Dreifuss muscular dystrophy 2, autosomal dominant	OMIM:181350

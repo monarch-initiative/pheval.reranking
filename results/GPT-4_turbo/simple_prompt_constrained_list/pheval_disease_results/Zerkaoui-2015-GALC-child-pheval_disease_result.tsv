@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy	OMIM:253300
+2	0.85	Leigh Syndrome	OMIM:256000
+3	0.83	Alexander Disease	OMIM:203450
+4	0.8	Glutaric Acidemia Type I	OMIM:231670
+5	0.79	Neuronal Ceroid Lipofuscinoses	OMIM:256730
+6	0.77	Rett Syndrome	OMIM:312750
+7	0.75	Duchenne Muscular Dystrophy	OMIM:310200
+8	0.73	Krabbe Disease	OMIM:245200
+9	0.72	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+10	0.71	Maple Syrup Urine Disease	OMIM:248600
+11	0.7	Vanishing White Matter Disease	OMIM:603896
+12	0.69	Canavan Disease	OMIM:271900
+13	0.68	Pelizaeus-Merzbacher Disease	OMIM:312080
+14	0.66	Zellweger Spectrum Disorder	OMIM:214100
+15	0.65	Adrenoleukodystrophy	OMIM:300100

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE Syndrome	OMIM:214800
+2	0.85	22q11.2 Deletion Syndrome	OMIM:188400
+2	0.85	Velocardiofacial Syndrome	OMIM:192430
+4	0.8	DiGeorge Syndrome	OMIM:188400
+5	0.78	CHD7-related CHARGE Syndrome	OMIM:608892
+6	0.75	Kabuki Syndrome 1	OMIM:147920
+7	0.7	Branchiootorenal Spectrum Disorders	OMIM:113650
+8	0.65	Kabuki Syndrome 2	OMIM:300867
+9	0.6	Townes-Brocks Syndrome	OMIM:107480
+10	0.55	VACTERL Association with Hydrocephalus	OMIM:276950
+11	0.5	Orofaciodigital Syndrome I	OMIM:311200
+12	0.45	Mowat-Wilson Syndrome	OMIM:235730
+13	0.4	Renal Cysts and Diabetes Syndrome	OMIM:137920
+14	0.35	Cat Eye Syndrome	OMIM:115470
+15	0.3	Fraser Syndrome	OMIM:219000

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Papillon-Lefevre syndrome	OMIM:245000
+2	0.9	Haim-Munk syndrome	OMIM:245010
+3	0.85	Acne Inversa, Familial, 1	OMIM:142690
+3	0.85	Acne Inversa, Familial, 2	OMIM:613736
+3	0.85	Acne Inversa, Familial, 3	OMIM:613737
+6	0.8	Periodontitis, Aggressive, 1	OMIM:170650
+7	0.75	Periodontitis, Chronic	OMIM:608526
+7	0.75	Ehlers-Danlos Syndrome, Periodontitis Type	OMIM:130080
+9	0.7	Arthrochalasia Ehlers-Danlos Syndrome	OMIM:130060
+10	0.65	Cyclic Haematopoiesis	OMIM:162800
+10	0.65	Dyskeratosis Congenita	OMIM:127550
+12	0.6	Cohen Syndrome	OMIM:216550
+12	0.6	Schopf-Schulz-Passarge Syndrome	OMIM:224750
+14	0.55	Erythrokeratodermia Variabilis Et Progressiva	OMIM:133200
+15	0.5	Pachyonychia Congenita	OMIM:167200

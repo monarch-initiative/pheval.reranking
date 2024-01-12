@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hyper IgE recurrent infection syndrome, autosomal recessive	OMIM:243700
+2	0.85	Job syndrome	OMIM:147060
+3	0.82	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:601457
+4	0.8	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.79	Griscelli syndrome type 2	OMIM:607624
+6	0.75	Chediak-Higashi syndrome	OMIM:214500
+7	0.72	Omenn syndrome	OMIM:603554
+8	0.7	Hypohidrotic ectodermal dysplasia with immunodeficiency	OMIM:300291
+9	0.68	Cartilage-hair hypoplasia	OMIM:250250
+10	0.65	Dyskeratosis congenita	OMIM:305000
+11	0.63	Schimke immunoosseous dysplasia	OMIM:242900
+12	0.6	Netherton syndrome	OMIM:256500
+13	0.58	Bloom syndrome	OMIM:210900
+14	0.55	STAT3 deficiency	OMIM:102582
+15	0.53	Familial hemophagocytic lymphohistiocytosis	OMIM:267700

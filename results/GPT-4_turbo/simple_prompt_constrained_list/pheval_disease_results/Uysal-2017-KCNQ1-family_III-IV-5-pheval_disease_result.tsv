@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Jervell and Lange-Nielsen Syndrome 1	OMIM:220400
+1	0.9	Jervell and Lange-Nielsen Syndrome 2	OMIM:612347
+3	0.8	Usher Syndrome, Type 1D	OMIM:601067
+3	0.8	Usher Syndrome, Type 1	OMIM:276900
+3	0.8	Usher Syndrome, Type 1J	OMIM:614869
+6	0.7	Usher Syndrome, Type 3	OMIM:276902
+6	0.7	Usher Syndrome, Type 2A	OMIM:276901
+8	0.6	Pendred syndrome	OMIM:274600
+9	0.5	Long QT Syndrome 1	OMIM:192500
+9	0.5	Long QT Syndrome 2	OMIM:613688
+9	0.5	Long QT Syndrome 3	OMIM:603830
+9	0.5	Long QT Syndrome 5	OMIM:613695
+9	0.5	Long QT Syndrome 6	OMIM:613693
+9	0.5	Long QT Syndrome 10	OMIM:609620
+15	0.4	Biotinidase Deficiency	OMIM:253260

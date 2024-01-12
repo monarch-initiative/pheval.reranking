@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Noonan syndrome 1	OMIM:163950
+2	0.82	DiGeorge syndrome	OMIM:188400
+3	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.78	Smith-Magenis syndrome	OMIM:182290
+5	0.76	Silver-Russell syndrome	OMIM:180860
+6	0.74	Williams-Beuren syndrome	OMIM:194050
+7	0.72	Turner syndrome	OMIM:300400
+8	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.68	Angelman syndrome	OMIM:105830
+10	0.66	Cornelia de Lange syndrome 1	OMIM:122470
+11	0.64	Fragile X syndrome	OMIM:300624
+12	0.62	22q11.2 deletion syndrome	OMIM:611867
+13	0.6	Marshall-Smith syndrome	OMIM:602535
+14	0.58	CHARGE syndrome	OMIM:214800
+15	0.56	Cleidocranial dysostosis	OMIM:119600

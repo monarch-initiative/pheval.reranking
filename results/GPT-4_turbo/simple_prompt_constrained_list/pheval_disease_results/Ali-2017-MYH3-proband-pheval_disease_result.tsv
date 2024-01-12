@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Robinow syndrome, autosomal dominant 2	OMIM:616331
+2	0.85	Robinow syndrome, autosomal recessive 1	OMIM:268310
+3	0.75	Popliteal pterygium syndrome, Bartsocas-Papas type	OMIM:263650
+3	0.75	3MC syndrome 1	OMIM:257920
+5	0.7	Autosomal recessive Robinow syndrome	OMIM:268310
+6	0.65	LEOPARD syndrome 1	OMIM:151100
+7	0.6	Auriculocondylar syndrome 1	OMIM:602483
+8	0.55	Van den Ende-Gupta syndrome	OMIM:600920
+9	0.5	Antley-Bixler syndrome without genital anomalies or disordered steroidogenesis	OMIM:207410
+10	0.45	Frank-Ter Haar syndrome	OMIM:249420
+11	0.4	Isolated oxycephaly	OMIM:258700
+12	0.35	Noonan syndrome 4	OMIM:610733
+13	0.3	Craniofrontonasal syndrome	OMIM:304110
+14	0.25	Acrofacial dysostosis, Nager type	OMIM:154400
+15	0.2	Mandibulofacial dysostosis, Guion-Almeida type	OMIM:610536

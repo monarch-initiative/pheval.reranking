@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher Syndrome, Type 1D	OMIM:601067
+1	0.9	Usher Syndrome, Type 1F	OMIM:602083
+1	0.9	Usher Syndrome, Type 1C	OMIM:601386
+1	0.9	Usher Syndrome, Type 1B	OMIM:276900
+1	0.9	Usher Syndrome, Type 1G	OMIM:606943
+1	0.9	Usher Syndrome, Type 1K	OMIM:616943
+7	0.85	Usher Syndrome, Type 2A	OMIM:276901
+7	0.85	Usher Syndrome, Type 2C	OMIM:605472
+7	0.85	Usher Syndrome, Type 2D	OMIM:611383
+10	0.8	Perrault Syndrome 1	OMIM:233400
+11	0.75	Waardenburg Syndrome, Type I	OMIM:193500
+12	0.7	Bardet-Biedl Syndrome 1	OMIM:209900
+12	0.7	Alstrom Syndrome 1	OMIM:203800
+14	0.65	Refsum Disease, Adult	OMIM:266500
+14	0.65	Pendred Syndrome	OMIM:274600

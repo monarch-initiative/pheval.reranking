@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome	OMIM:135900
+2	0.85	Noonan Syndrome	OMIM:163950
+3	0.8	Cornelia De Lange Syndrome	OMIM:122470
+4	0.75	Crouzon Syndrome	OMIM:123500
+5	0.7	Pfeiffer Syndrome	OMIM:101600
+6	0.65	Apert Syndrome	OMIM:101200
+7	0.6	Saethre-Chotzen Syndrome	OMIM:101400
+8	0.55	Mowat-Wilson Syndrome	OMIM:235730
+9	0.5	CHARGE Syndrome	OMIM:214800
+10	0.45	Beckwith-Wiedemann Syndrome	OMIM:130650
+11	0.4	Rubinstein-Taybi Syndrome	OMIM:180849
+12	0.35	Treacher Collins Syndrome	OMIM:154500
+13	0.3	Smith-Lemli-Opitz Syndrome	OMIM:270400
+14	0.25	Williams Syndrome	OMIM:194050
+15	0.2	Schinzel-Giedion Syndrome	OMIM:269150

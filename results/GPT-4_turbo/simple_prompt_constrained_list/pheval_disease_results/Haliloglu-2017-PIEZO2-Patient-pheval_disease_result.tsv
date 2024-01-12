@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinal Muscular Atrophy	OMIM:253300
+2	0.85	Charcot-Marie-Tooth Disease	OMIM:118220
+3	0.8	Congenital Fiber-Type Disproportion Myopathy	OMIM:255310
+4	0.75	Becker Muscular Dystrophy	OMIM:300376
+5	0.7	Duchenne Muscular Dystrophy	OMIM:310200
+6	0.65	Myotonic Dystrophy	OMIM:160900
+7	0.6	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+8	0.55	Nemaline Myopathy	OMIM:609284
+9	0.5	Limb-Girdle Muscular Dystrophy	OMIM:253600
+10	0.45	Emery-Dreifuss Muscular Dystrophy	OMIM:310300
+11	0.4	Central Core Disease	OMIM:117000
+12	0.35	Congenital Myasthenic Syndromes	OMIM:601462
+13	0.3	Bethlem Myopathy	OMIM:158810
+14	0.25	Distal Myopathies	OMIM:160500
+15	0.2	Ullrich Congenital Muscular Dystrophy	OMIM:254090

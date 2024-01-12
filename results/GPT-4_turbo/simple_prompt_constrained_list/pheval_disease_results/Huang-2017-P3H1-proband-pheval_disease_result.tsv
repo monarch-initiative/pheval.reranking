@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypochondroplasia	OMIM:146000
+1	0.95	Achondroplasia	OMIM:100800
+3	0.9	Thanatophoric Dysplasia, Type I	OMIM:187600
+4	0.88	Camptomelic Dysplasia	OMIM:114290
+5	0.85	Osteogenesis Imperfecta, Type II	OMIM:166210
+5	0.85	Short Rib-Polydactyly Syndrome, Saldino-Noonan Type	OMIM:263530
+5	0.85	Diastrophic Dysplasia	OMIM:222600
+8	0.8	Cleidocranial Dysplasia	OMIM:119600
+8	0.8	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.8	Chondroectodermal Dysplasia	OMIM:225500
+11	0.78	Metatropic Dysplasia	OMIM:156530
+11	0.78	Pseudoachondroplasia	OMIM:177170
+13	0.75	Kniest Dysplasia	OMIM:156550
+13	0.75	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+13	0.75	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900

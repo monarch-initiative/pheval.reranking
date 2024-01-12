@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Metabolic Syndrome X	OMIM:310300
+2	0.8	Mandibuloacral Dysplasia With Type A Lipodystrophy	OMIM:248370
+2	0.8	Progeroid Syndrome, Neonatal	OMIM:264090
+4	0.7	Mulibrey Nanism	OMIM:253250
+4	0.7	Familial Partial Lipodystrophy, Dunnigan Type	OMIM:151660
+4	0.7	Ehlers-Danlos Syndrome, Progeroid Type, 1	OMIM:130070
+4	0.7	Autosomal Dominant Emery-Dreifuss Muscular Dystrophy	OMIM:181350
+4	0.7	Berardinelli-Seip Congenital Lipodystrophy	OMIM:269700
+4	0.7	Werner Syndrome	OMIM:277700
+4	0.7	Cockayne Syndrome Type B	OMIM:133540
+4	0.7	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+12	0.6	Nestor-Guillermo Progeria Syndrome	OMIM:614008
+12	0.6	Lipodystrophy, Familial Partial, Type 2	OMIM:151660
+12	0.6	Barraquer-Simons Syndrome	OMIM:608594
+12	0.6	Hallermann-Streiff Syndrome	OMIM:234100

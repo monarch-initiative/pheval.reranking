@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+2	0.8	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	OMIM:613684
+3	0.75	Autosomal recessive intellectual developmental disorder 5	OMIM:612621
+4	0.7	Autosomal recessive intellectual developmental disorder 45	OMIM:615979
+5	0.65	Floating-Harbor syndrome	OMIM:136140
+6	0.6	Coffin-Siris syndrome 1	OMIM:135900
+7	0.55	Weaver syndrome	OMIM:277590
+8	0.5	Sotos syndrome 1	OMIM:117550
+9	0.45	Pitt-Hopkins syndrome	OMIM:610954
+10	0.4	Shprintzen-Goldberg craniosynostosis syndrome	OMIM:182212
+11	0.35	Nicolaides-Baraitser syndrome	OMIM:601358
+12	0.3	Wiedemann-Steiner syndrome	OMIM:605130
+13	0.25	Kleefstra syndrome due to a point mutation	OMIM:610253
+14	0.2	Koolen-de Vries syndrome	OMIM:610443
+15	0.15	Greig cephalopolysyndactyly syndrome	OMIM:175700

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alexander disease	OMIM:203450
+2	0.87	Angelman syndrome	OMIM:105830
+3	0.85	Canavan disease	OMIM:271900
+4	0.83	Cockayne syndrome	OMIM:216400
+5	0.81	Lissencephaly	OMIM:607432
+6	0.79	Megalencephalic leukoencephalopathy with subcortical cysts	OMIM:604004
+7	0.77	Miller-Dieker syndrome	OMIM:247200
+8	0.75	Pelizeaus-Merzbacher disease	OMIM:312080
+9	0.73	Rett syndrome	OMIM:312750
+10	0.71	Severe myoclonic epilepsy in infancy (Dravet syndrome)	OMIM:607208
+11	0.69	Tay-Sachs disease	OMIM:272800
+12	0.67	Vanishing white matter disease	OMIM:603896
+13	0.65	West syndrome	OMIM:308350
+14	0.63	Zellweger syndrome	OMIM:214100
+15	0.61	Aicardi syndrome	OMIM:304050

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple endocrine neoplasia, type 1	OMIM:131100
+2	0.85	Multiple endocrine neoplasia, type 4	OMIM:610755
+3	0.8	Pituitary adenoma 1, multiple types	OMIM:102200
+4	0.75	Carcinoid tumors, intestinal	OMIM:114900
+5	0.7	Hematuria, benign familial	OMIM:141200
+6	0.65	Hyperparathyroidism 1	OMIM:145000
+7	0.6	Nephrolithiasis/osteoporosis, hypophosphatemic, 1	OMIM:612286
+8	0.55	Thymoma	OMIM:188400
+9	0.5	Peptic ulcer disease	OMIM:167400
+10	0.45	Familial isolated hyperparathyroidism	OMIM:145000
+11	0.4	Prolactinoma	OMIM:600634
+12	0.35	MEN1 syndrome	OMIM:131100
+13	0.3	Renal agenesis and renal adysplasia	OMIM:191830
+14	0.25	Gastrinoma	OMIM:137215
+15	0.2	Parathyroid carcinoma	OMIM:168000

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Bardet-Biedl Syndrome	OMIM:209900
+2	0.9	Alstrom Syndrome	OMIM:203800
+3	0.85	McKusick-Kaufman Syndrome	OMIM:236700
+3	0.85	Wolfram Syndrome	OMIM:222300
+5	0.8	Cohen Syndrome	OMIM:216550
+6	0.75	Lawrence-Moon Syndrome	OMIM:245800
+6	0.75	BBS1-Related Bardet-Biedl Syndrome	OMIM:209900
+6	0.75	BBS4-Related Bardet-Biedl Syndrome	OMIM:615983
+6	0.75	BBS10-Related Bardet-Biedl Syndrome	OMIM:615983
+6	0.75	Orofaciodigital Syndrome Type I	OMIM:311200
+11	0.7	Renal Cyst and Diabetes Syndrome	OMIM:137920
+12	0.65	Pseudohypoaldosteronism Type II	OMIM:145260
+13	0.6	Hypokalemia-Hypomagnesemia Syndrome	OMIM:179800
+13	0.6	Autosomal Dominant Tubulointerstitial Kidney Disease	OMIM:103780
+13	0.6	Renal Tubular Dysgenesis	OMIM:267430

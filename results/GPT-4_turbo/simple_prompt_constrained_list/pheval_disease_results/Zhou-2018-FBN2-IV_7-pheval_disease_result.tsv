@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.8	Beals Congenital Contractural Arachnodactyly	OMIM:121050
+3	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic Form	OMIM:225400
+4	0.6	Loeys-Dietz Syndrome	OMIM:609192
+5	0.5	Stickler Syndrome	OMIM:108300
+6	0.4	Homocystinuria	OMIM:236200
+6	0.4	Fragile X Syndrome	OMIM:300624
+6	0.4	Weill-Marchesani Syndrome	OMIM:277600
+6	0.4	Shprintzen-Goldberg Syndrome	OMIM:182212
+6	0.4	FBN1-Related Disorders	OMIM:604757
+6	0.4	Congenital Contractural Arachnodactyly	OMIM:121050
+12	0.3	Kleefstra Syndrome	OMIM:610253
+12	0.3	Cornelia de Lange Syndrome	OMIM:122470
+12	0.3	Williams Syndrome	OMIM:194050
+12	0.3	Kabuki Syndrome	OMIM:147920

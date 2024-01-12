@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	OMIM:602450
+2	0.85	Schimke immuno-osseous dysplasia	OMIM:242900
+2	0.85	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+4	0.8	X-linked severe combined immunodeficiency	OMIM:300400
+4	0.8	Adenosine deaminase deficiency	OMIM:102700
+6	0.75	Reticular dysgenesis	OMIM:267500
+6	0.75	Cartilage-hair hypoplasia	OMIM:250250
+8	0.7	Ataxia-telangiectasia	OMIM:208900
+8	0.7	Nijmegen breakage syndrome	OMIM:251260
+8	0.7	X-linked lymphoproliferative syndrome	OMIM:308240
+8	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+12	0.65	Hyper IgM syndrome type 1	OMIM:308230
+12	0.65	Bare lymphocyte syndrome, type II	OMIM:209920
+12	0.65	Omenn syndrome	OMIM:603554
+15	0.6	DiGeorge syndrome	OMIM:188400

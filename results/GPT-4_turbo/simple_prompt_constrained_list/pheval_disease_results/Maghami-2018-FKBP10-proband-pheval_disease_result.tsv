@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Osteogenesis Imperfecta, Type III	OMIM:259420
+2	0.75	Osteogenesis Imperfecta, Type I	OMIM:166200
+3	0.7	Hypophosphatasia, Childhood	OMIM:241510
+4	0.65	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+5	0.6	Gaucher Disease, Type 1	OMIM:230800
+6	0.55	Osteogenesis Imperfecta, Type IV	OMIM:166220
+7	0.5	Paget Disease of Bone	OMIM:167250
+8	0.45	Osteogenesis Imperfecta, Type II	OMIM:166210
+9	0.4	Hypophosphatasia, Infantile	OMIM:241500
+10	0.35	Mucopolysaccharidosis Type I	OMIM:607014
+11	0.3	X-Linked Hypophosphatemia	OMIM:307800
+12	0.25	Hypophosphatasia, Adult	OMIM:146300
+13	0.2	Mucopolysaccharidosis Type IV	OMIM:253000
+14	0.15	Osteogenesis Imperfecta, Type V	OMIM:610967
+15	0.1	Cole-Carpenter Syndrome 1	OMIM:112240

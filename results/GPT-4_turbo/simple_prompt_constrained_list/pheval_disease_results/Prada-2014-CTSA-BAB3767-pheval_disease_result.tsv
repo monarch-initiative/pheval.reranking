@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mucopolysaccharidosis Type IV	OMIM:253000
+2	0.85	Niemann-Pick Disease Type C	OMIM:257220
+3	0.8	Glycoproteinosis	OMIM:230740
+4	0.75	GM1 Gangliosidosis	OMIM:230500
+4	0.75	Sialidosis, Type II	OMIM:256550
+6	0.7	Galactosialidosis	OMIM:256540
+6	0.7	GM2 Gangliosidosis	OMIM:272800
+8	0.65	Fucosidosis	OMIM:230000
+8	0.65	Sialuria	OMIM:269921
+10	0.6	Metachromatic Leukodystrophy	OMIM:250100
+10	0.6	Refsum Disease, Infantile Form	OMIM:266510
+12	0.55	Cystinosis	OMIM:219800
+12	0.55	Wolman Disease	OMIM:278000
+14	0.5	Mucolipidosis Type III	OMIM:252600
+14	0.5	Sandhoff Disease	OMIM:268800

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Timothy syndrome	OMIM:601005
+2	0.88	CHARGE syndrome	OMIM:214800
+3	0.86	22q11.2 deletion syndrome	OMIM:188400
+4	0.85	Williams-Beuren syndrome	OMIM:194050
+5	0.83	Fragile X syndrome	OMIM:300624
+6	0.82	Rett syndrome	OMIM:312750
+7	0.8	Down syndrome	OMIM:190685
+8	0.79	Kabuki syndrome	OMIM:147920
+9	0.78	DiGeorge syndrome	OMIM:188400
+10	0.77	Turner syndrome	OMIM:300400
+11	0.76	Phelan-McDermid syndrome	OMIM:606232
+12	0.75	Noonan syndrome	OMIM:163950
+13	0.73	Cornelia de Lange syndrome	OMIM:122470
+14	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400
+15	0.71	Wolf-Hirschhorn syndrome	OMIM:194190

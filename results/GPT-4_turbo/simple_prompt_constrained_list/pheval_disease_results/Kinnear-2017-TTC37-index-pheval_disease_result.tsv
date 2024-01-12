@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Immunodeficiency 47	OMIM:300972
+2	0.8	Immunodeficiency, Common Variable, 10	OMIM:615577
+3	0.78	Immunodeficiency, Common Variable, 2	OMIM:240500
+4	0.75	Immunodeficiency 12	OMIM:615468
+5	0.73	Immunodeficiency, Common Variable, 8, with Autoimmunity	OMIM:614700
+6	0.7	Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 1	OMIM:242860
+7	0.68	Thymoma	OMIM:188400
+8	0.66	Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation	OMIM:602450
+9	0.63	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Negative	OMIM:601457
+10	0.6	Immunodeficiency due to Defect in CD3-Gamma	OMIM:609595
+11	0.58	Immunodeficiency due to Defect in CD3-Epsilon	OMIM:608971
+12	0.55	Immunodeficiency due to Defect in CD3-Zeta	OMIM:614458
+13	0.53	Immunodeficiency, Common Variable, 1	OMIM:607594
+14	0.5	Epstein-Barr Virus Infection, Susceptibility to	OMIM:226000
+15	0.48	Wiskott-Aldrich Syndrome	OMIM:301000

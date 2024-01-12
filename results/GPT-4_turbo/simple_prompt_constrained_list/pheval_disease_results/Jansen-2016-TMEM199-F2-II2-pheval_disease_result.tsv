@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.8	Antitrypsin deficiency	OMIM:107400
+3	0.7	Galactosemia	OMIM:230400
+4	0.65	Glycogen storage disease type IV	OMIM:232500
+5	0.6	Citrullinemia type I	OMIM:215700
+6	0.55	Argininemia	OMIM:207800
+7	0.5	Tyrosinemia type I	OMIM:276700
+8	0.45	Alpha-1-B glycoprotein deficiency	OMIM:613454
+9	0.4	Alpha-1-antichymotrypsin deficiency	OMIM:107400
+10	0.35	Crigler-Najjar syndrome type I	OMIM:218800
+11	0.3	Gilbert syndrome	OMIM:143500
+12	0.25	Dubin-Johnson syndrome	OMIM:237500
+13	0.2	Rotor syndrome	OMIM:237450
+14	0.15	Familial hypercholesterolemia	OMIM:143890
+15	0.1	Cystic fibrosis	OMIM:219700

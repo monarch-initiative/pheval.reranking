@@ -1,0 +1,16 @@
+rank	score	gene_symbol	gene_identifier
+1	0.9	GENE_X	
+2	0.85	GENE_Y	
+3	0.8	GENE_Z	
+4	0.75	GENE_A	
+5	0.7	GENE_B	
+6	0.65	GENE_C	
+7	0.6	GENE_D	
+8	0.55	GENE_E	
+9	0.5	GENE_F	
+10	0.45	GENE_G	
+11	0.4	GENE_H	
+12	0.35	GENE_I	
+13	0.3	GENE_J	
+14	0.25	GENE_K	
+15	0.2	GENE_L	

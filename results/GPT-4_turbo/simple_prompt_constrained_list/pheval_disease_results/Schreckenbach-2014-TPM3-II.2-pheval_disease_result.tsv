@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myasthenic syndrome, congenital, 14	OMIM:615193
+2	0.93	Myopathy, centronuclear, 1	OMIM:160150
+3	0.91	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 4	OMIM:611182
+4	0.88	Myopathy, centronuclear, 5	OMIM:615959
+5	0.86	Sarcotubular myopathy	OMIM:268310
+6	0.83	Muscular dystrophy, limb-girdle, autosomal recessive 10	OMIM:609284
+7	0.82	Muscular dystrophy, limb-girdle, autosomal recessive 3	OMIM:609115
+8	0.8	Myopathy, X-linked, with excessive autophagy	OMIM:310440
+9	0.79	Muscular dystrophy, congenital, megaconial type	OMIM:602541
+10	0.77	Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia 1	OMIM:600462
+11	0.75	Metabolic myopathies	OMIM:255320
+12	0.73	Distal muscular dystrophy, Tateyama type	OMIM:601846
+13	0.72	Myoglobinuria, recurrent, autosomal recessive	OMIM:550500
+14	0.7	Myopathy with extrapyramidal signs	OMIM:159900
+15	0.68	Minicore myopathy with external ophthalmoplegia	OMIM:255320

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Geleophysic Dysplasia	OMIM:231050
+2	0.8	Spondyloepimetaphyseal Dysplasia, Matrilin-3 Related	OMIM:612847
+2	0.8	Larsen Syndrome, Dominant Type	OMIM:150250
+4	0.7	Ehlers-Danlos Syndrome, Progeroid Type, 2	OMIM:615349
+4	0.7	De Barsy Syndrome	OMIM:219150
+6	0.6	Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Anomalies	OMIM:613075
+6	0.6	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+6	0.6	Familial Osteochondritis Dissecans	OMIM:165800
+9	0.5	Desbuquois Dysplasia 1	OMIM:251450
+9	0.5	Pseudodiastrophic Dysplasia	OMIM:264180
+9	0.5	Supravalvular Aortic Stenosis	OMIM:185500
+12	0.4	Bruck Syndrome 1	OMIM:259450
+12	0.4	Kniest Dysplasia	OMIM:156550
+12	0.4	Weill-Marchesani Syndrome 1, Recessive	OMIM:277600
+12	0.4	Metatropic Dysplasia	OMIM:156530

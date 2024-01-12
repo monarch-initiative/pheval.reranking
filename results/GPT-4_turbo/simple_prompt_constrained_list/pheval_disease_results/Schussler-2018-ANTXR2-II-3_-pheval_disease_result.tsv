@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Ehlers-Danlos syndrome, periodontitis type	OMIM:130080
+2	0.82	Scleredema adultorum	OMIM:181400
+3	0.67	Amyloidosis, primary localized cutaneous, 1	OMIM:105250
+4	0.65	Nephrotic syndrome, type 5, with or without ocular abnormalities	OMIM:614199
+5	0.63	Lipodystrophy, congenital generalized, type 1	OMIM:608594
+6	0.6	Mucopolysaccharidosis type II	OMIM:309900
+7	0.58	Werner syndrome	OMIM:277700
+8	0.55	Arthrogryposis, renal dysfunction, and cholestasis 1	OMIM:208085
+9	0.52	Winchester syndrome	OMIM:277950
+10	0.5	Short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay	OMIM:601802
+11	0.48	I-cell disease	OMIM:252500
+12	0.45	Acrodermatitis enteropathica, zinc deficiency, autosomal recessive	OMIM:201100
+13	0.43	Megaloblastic anemia-1, Finnish type	OMIM:261100
+14	0.41	Glucagonoma	OMIM:211980
+15	0.4	Phosphoribosylpyrophosphate synthetase superactivity	OMIM:300661

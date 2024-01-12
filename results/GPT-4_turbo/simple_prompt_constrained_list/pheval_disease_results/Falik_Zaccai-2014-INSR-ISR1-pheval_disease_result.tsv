@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann Syndrome	OMIM:130650
+2	0.85	Insulin Resistance, Severe, With Acanthosis Nigricans	OMIM:615961
+3	0.8	Mucopolysaccharidosis Type II	OMIM:309900
+4	0.75	Leigh Syndrome	OMIM:256000
+5	0.7	Wolcott-Rallison Syndrome	OMIM:226980
+6	0.65	Cystic Fibrosis	OMIM:219700
+7	0.6	Polycystic Kidney Disease 1	OMIM:173900
+8	0.55	Hypoglycemia With Deficiency Of Glycogen Synthetase In The Liver	OMIM:240600
+9	0.5	Meckel Syndrome	OMIM:249000
+10	0.45	Bardet-Biedl Syndrome	OMIM:209900
+11	0.4	Carnitine Palmitoyltransferase I Deficiency	OMIM:255120
+12	0.35	Fructose-1,6-Bisphosphatase Deficiency	OMIM:229700
+13	0.3	Pearson Marrow-Pancreas Syndrome	OMIM:557000
+14	0.25	Panhypopituitarism X-Linked	OMIM:312000
+15	0.2	Leprechaunism	OMIM:246200

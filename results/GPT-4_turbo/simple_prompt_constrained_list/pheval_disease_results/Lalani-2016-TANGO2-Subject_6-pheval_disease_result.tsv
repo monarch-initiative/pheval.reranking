@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.88	Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency	OMIM:201450
+3	0.86	Mitochondrial Complex III Deficiency, Nuclear Type 2	OMIM:615157
+3	0.86	Maple Syrup Urine Disease	OMIM:248600
+5	0.85	Glutaric Acidemia Type II	OMIM:231680
+6	0.84	Methylmalonic Acidemia	OMIM:251000
+7	0.83	Pyruvate Carboxylase Deficiency	OMIM:266150
+8	0.82	Pyruvate Dehydrogenase Deficiency	OMIM:312170
+9	0.81	Propionic Acidemia	OMIM:606054
+10	0.8	Ornithine Transcarbamylase Deficiency	OMIM:311250
+11	0.79	Carbamoyl Phosphate Synthetase I Deficiency	OMIM:237300
+12	0.78	Very Long-Chain Acyl-Coenzyme A Dehydrogenase Deficiency	OMIM:201475
+13	0.77	Isobutyryl-CoA Dehydrogenase Deficiency	OMIM:611283
+14	0.76	Isovaleric Acidemia	OMIM:243500
+15	0.75	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110

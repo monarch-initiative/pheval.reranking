@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Joubert syndrome 9	OMIM:612285
+2	0.94	Joubert syndrome 10	OMIM:614173
+3	0.93	Joubert syndrome 7	OMIM:611560
+4	0.86	Senior-Loken syndrome 1	OMIM:266900
+5	0.85	Gillespie syndrome	OMIM:206700
+6	0.84	Leber congenital amaurosis 10	OMIM:611755
+7	0.82	Septo-optic dysplasia	OMIM:182230
+8	0.81	Joubert syndrome 15	OMIM:614464
+9	0.8	Lambert-Eaton myasthenic syndrome	OMIM:601230
+10	0.79	Joubert syndrome 6	OMIM:610688
+11	0.78	Joubert syndrome 3	OMIM:608629
+12	0.77	Leber congenital amaurosis 13	OMIM:612712
+13	0.76	Aicardi syndrome	OMIM:304050
+14	0.75	Bardet-Biedl syndrome 10	OMIM:615988
+15	0.74	Carbohydrate-deficient glycoprotein syndrome	OMIM:212065

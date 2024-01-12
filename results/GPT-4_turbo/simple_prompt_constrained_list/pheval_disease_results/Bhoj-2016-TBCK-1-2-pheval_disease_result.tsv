@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pitt-Hopkins syndrome	OMIM:610954
+2	0.82	Rett syndrome	OMIM:312750
+3	0.8	Mucopolysaccharidosis type III	OMIM:252900
+4	0.78	Angelman syndrome	OMIM:105830
+5	0.76	Coffin-Siris syndrome	OMIM:135900
+6	0.74	2q23.1 microdeletion syndrome	OMIM:156200
+7	0.72	Prader-Willi syndrome	OMIM:176270
+8	0.7	Cornelia de Lange syndrome	OMIM:122470
+9	0.68	Fragile X syndrome	OMIM:300624
+10	0.66	Kleefstra syndrome	OMIM:610253
+11	0.64	MECP2 duplication syndrome	OMIM:300260
+12	0.62	Dravet syndrome	OMIM:607208
+13	0.6	West syndrome	OMIM:308350
+14	0.58	Smith-Magenis syndrome	OMIM:182290
+15	0.56	Lennox-Gastaut syndrome	OMIM:606369

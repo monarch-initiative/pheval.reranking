@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.85	Pyknodysostosis	OMIM:265800
+3	0.7	Craniodiaphyseal dysplasia	OMIM:218300
+4	0.65	Thanatophoric dysplasia, type I	OMIM:187600
+5	0.6	Campomelic dysplasia	OMIM:114290
+6	0.55	Achondroplasia	OMIM:100800
+7	0.5	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+8	0.45	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+9	0.4	Hypochondroplasia	OMIM:146000
+10	0.35	Metatropic dysplasia	OMIM:156530
+11	0.3	Schmid metaphyseal chondrodysplasia	OMIM:156500
+12	0.25	Pseudoachondroplasia	OMIM:177170
+13	0.2	Multiple epiphyseal dysplasia	OMIM:132400
+14	0.15	Diastrophic dysplasia	OMIM:222600
+15	0.1	Asphyxiating thoracic dystrophy	OMIM:208500

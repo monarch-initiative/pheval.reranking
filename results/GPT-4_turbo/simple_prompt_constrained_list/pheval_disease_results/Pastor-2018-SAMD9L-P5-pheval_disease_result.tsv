@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fanconi anemia	OMIM:227645
+2	0.9	Thrombocytopenia-absent radius syndrome	OMIM:274000
+3	0.85	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:611162
+3	0.85	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+5	0.8	Myelodysplastic syndrome	OMIM:614286
+6	0.75	Aplastic anemia	OMIM:609135
+6	0.75	Amegakaryocytic thrombocytopenia, congenital	OMIM:604498
+8	0.7	Diamond-Blackfan anemia	OMIM:105650
+8	0.7	Shwachman-Diamond syndrome	OMIM:260400
+8	0.7	Wiskott-Aldrich syndrome	OMIM:301000
+11	0.65	Glanzmann thrombasthenia	OMIM:273800
+11	0.65	Bernard-Soulier syndrome, type A1	OMIM:231200
+11	0.65	Hemophagocytic lymphohistiocytosis, familial, 2	OMIM:603553
+14	0.6	Niemann-Pick disease, type B	OMIM:607616
+14	0.6	Hoyeraal-Hreidarsson syndrome	OMIM:300240

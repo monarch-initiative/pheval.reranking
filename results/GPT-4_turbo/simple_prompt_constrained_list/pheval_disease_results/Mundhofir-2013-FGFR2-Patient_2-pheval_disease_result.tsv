@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Apert Syndrome	OMIM:101200
+2	0.85	Carpenter Syndrome	OMIM:201000
+2	0.85	Pfeiffer Syndrome	OMIM:101600
+4	0.8	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.75	Jackson-Weiss Syndrome	OMIM:123150
+6	0.7	Beare-Stevenson Cutis Gyrata Syndrome	OMIM:123790
+7	0.65	Antley-Bixler Syndrome With Genital Anomalies And Disordered Steroidogenesis	OMIM:201750
+7	0.65	Crouzon Syndrome	OMIM:123500
+9	0.6	3MC Syndrome 1	OMIM:257920
+10	0.55	Acrocephalosyndactyly Type I	OMIM:101200
+11	0.5	Acrocephalopolysyndactyly Type II	OMIM:201000
+11	0.5	Muenke Syndrome	OMIM:602849
+11	0.5	Crane-Heise Syndrome	OMIM:218090
+14	0.45	Thanatophoric Dysplasia Type 1	OMIM:187600
+15	0.4	Greig Cephalopolysyndactyly Syndrome	OMIM:175700

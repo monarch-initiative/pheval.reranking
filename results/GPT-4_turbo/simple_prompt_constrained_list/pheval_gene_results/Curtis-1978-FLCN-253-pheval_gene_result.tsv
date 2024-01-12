@@ -1,0 +1,4 @@
+rank	score	gene_symbol	gene_identifier
+1	0.9	FLCN	ENSG00000154803
+2	0.8	TSC1	ENSG00000165699
+3	0.7	TSC2	ENSG00000103197

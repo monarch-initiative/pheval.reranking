@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Early infantile epileptic encephalopathy	OMIM:308350
+2	0.85	Zellweger syndrome	OMIM:214100
+3	0.83	Leigh syndrome	OMIM:256000
+4	0.8	Rett syndrome	OMIM:312750
+5	0.75	D-Glyceric acidemia	OMIM:220120
+6	0.7	Pyridoxine-dependent epilepsy	OMIM:266100
+7	0.65	West syndrome	OMIM:308350
+8	0.63	Canavan disease	OMIM:271900
+9	0.6	Maple syrup urine disease	OMIM:248600
+10	0.58	Alexander disease	OMIM:203450
+11	0.55	Pelizaeus-Merzbacher disease	OMIM:312080
+12	0.5	Menkes disease	OMIM:309400
+13	0.48	Mucopolysaccharidosis type I	OMIM:607014
+14	0.45	Non-ketotic hyperglycinemia	OMIM:605899
+15	0.4	CDKL5 deficiency disorder	OMIM:300203

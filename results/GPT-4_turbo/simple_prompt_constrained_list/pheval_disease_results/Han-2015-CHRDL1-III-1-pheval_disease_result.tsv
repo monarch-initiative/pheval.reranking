@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalocornea-mental retardation syndrome	OMIM:309300
+2	0.8	Glaucoma 1, open angle, A	OMIM:137760
+2	0.8	Anterior segment mesenchymal dysgenesis	OMIM:107250
+4	0.7	Peters anomaly	OMIM:604229
+4	0.7	Primary congenital glaucoma	OMIM:231300
+6	0.6	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+6	0.6	Aniridia	OMIM:106210
+8	0.5	Nail-patella syndrome	OMIM:161200
+8	0.5	Iridogoniodysgenesis, dominant type	OMIM:601631
+8	0.5	Microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma	OMIM:251750
+11	0.4	Buphthalmos	OMIM:611924
+11	0.4	Cornea plana 2, autosomal recessive	OMIM:217300
+11	0.4	Exfoliation syndrome	OMIM:177650
+11	0.4	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609508
+11	0.4	Familial bimicrocornea	OMIM:123700

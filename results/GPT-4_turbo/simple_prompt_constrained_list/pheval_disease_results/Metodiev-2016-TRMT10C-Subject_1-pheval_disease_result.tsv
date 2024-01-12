@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.88	Mitochondrial Complex III Deficiency	OMIM:124000
+3	0.85	Mitochondrial Complex IV Deficiency	OMIM:220110
+4	0.83	Pyruvate Dehydrogenase Complex Deficiency	OMIM:312170
+5	0.82	Leigh Syndrome	OMIM:256000
+6	0.8	Mitochondrial DNA Depletion Syndrome	OMIM:251880
+7	0.79	Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes	OMIM:540000
+8	0.76	Alpers-Huttenlocher Syndrome	OMIM:203700
+9	0.75	Isolated Cytochrome C Oxidase Deficiency	OMIM:220110
+10	0.73	Pearson Syndrome	OMIM:557000
+11	0.71	Kearns-Sayre Syndrome	OMIM:530000
+12	0.7	Myopathic Form of CPT II Deficiency	OMIM:255110
+13	0.68	Propionic Acidemia	OMIM:606054
+14	0.67	MELAS Syndrome	OMIM:540000
+15	0.65	NADH-CoQ Reductase Deficiency	OMIM:252010

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	West syndrome	OMIM:308350
+2	0.85	Dravet syndrome	OMIM:607208
+3	0.8	Pitt-Hopkins syndrome	OMIM:610954
+4	0.78	Rett syndrome	OMIM:312750
+5	0.76	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.74	Coffin-Lowry syndrome	OMIM:303600
+7	0.72	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.7	Angelman syndrome	OMIM:105830
+9	0.68	Lennox-Gastaut syndrome	OMIM:606369
+10	0.65	Prader-Willi syndrome	OMIM:176270
+11	0.63	Mowat-Wilson syndrome	OMIM:235730
+12	0.6	Cornelia de Lange syndrome	OMIM:122470
+13	0.58	Rubinstein-Taybi syndrome	OMIM:180849
+14	0.56	CHARGE syndrome	OMIM:214800
+15	0.54	Fragile X syndrome	OMIM:300624

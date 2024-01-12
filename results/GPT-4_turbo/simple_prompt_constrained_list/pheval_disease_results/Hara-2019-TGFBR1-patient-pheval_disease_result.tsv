@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Marfan Syndrome	OMIM:154700
+2	0.95	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.85	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.75	MASS Phenotype	OMIM:604308
+5	0.7	Shprintzen-Goldberg Syndrome	OMIM:182212
+6	0.65	Loeys-Dietz Syndrome 2	OMIM:610168
+7	0.6	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+8	0.55	Homocystinuria	OMIM:236200
+9	0.5	Familial Thoracic Aortic Aneurysm And Dissection	OMIM:607086
+10	0.45	Stickler Syndrome, Type I	OMIM:108300
+11	0.4	Loeys-Dietz Syndrome 3	OMIM:613795
+12	0.35	Beals Syndrome	OMIM:121050
+13	0.3	Congenital Contractural Arachnodactyly	OMIM:121050
+14	0.25	Stiff Skin Syndrome	OMIM:184900
+15	0.2	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200

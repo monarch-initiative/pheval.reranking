@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Multiple Endocrine Neoplasia, Type IIA	OMIM:171400
+2	0.9	Multiple Endocrine Neoplasia, Type IIB	OMIM:162300
+3	0.85	Thyroid Carcinoma, Medullary	OMIM:155240
+4	0.8	Pheochromocytoma	OMIM:171300
+5	0.75	Neuroendocrine Tumor	OMIM:614163
+6	0.7	Paragangliomas 2	OMIM:601650
+7	0.65	Paragangliomas 1	OMIM:168000
+8	0.6	Paragangliomas 3	OMIM:605373
+9	0.55	Paragangliomas 4	OMIM:115310
+10	0.5	Paragangliomas 5	OMIM:614165
+11	0.45	Von Hippel-Lindau Syndrome	OMIM:193300
+12	0.4	Hereditary Paraganglioma-Pheochromocytoma Syndromes	OMIM:171300
+13	0.35	Complex II Deficiency	OMIM:252011
+14	0.3	SDHA-Related Tumorigenic Syndromes	OMIM:613019
+15	0.25	Renal Cell Carcinoma	OMIM:144700

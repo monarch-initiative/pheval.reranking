@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rubinstein-Taybi syndrome 1	OMIM:180849
+1	0.95	Rubinstein-Taybi syndrome 2	OMIM:613684
+3	0.8	Cohen syndrome	OMIM:216550
+4	0.75	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.7	Craniofrontonasal syndrome	OMIM:304110
+6	0.65	Wolf-Hirschhorn syndrome	OMIM:194190
+6	0.65	Baraitser-Winter syndrome 1	OMIM:243310
+8	0.6	Wiedemann-Steiner syndrome	OMIM:605130
+9	0.55	Ohdo syndrome, SBBYS variant	OMIM:603736
+9	0.55	Mowat-Wilson syndrome	OMIM:235730
+11	0.5	Nicolaides-Baraitser syndrome	OMIM:601358
+11	0.5	Kabuki syndrome 1	OMIM:147920
+13	0.45	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+14	0.4	Floating-Harbor syndrome	OMIM:136140
+14	0.4	Pitt-Hopkins syndrome	OMIM:610954

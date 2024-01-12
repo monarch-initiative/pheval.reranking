@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Tay-Sachs Disease	OMIM:272800
+2	0.9	Sandhoff Disease	OMIM:268800
+3	0.85	Sialidosis Type 1	OMIM:256550
+4	0.8	GM1 Gangliosidosis Type 1	OMIM:230500
+5	0.75	Gaucher Disease Type 1	OMIM:230800
+6	0.7	Metachromatic Leukodystrophy	OMIM:250100
+7	0.65	Mucopolysaccharidosis Type IVA	OMIM:253000
+8	0.6	Mucopolysaccharidosis Type IVB	OMIM:301000
+9	0.55	Niemann-Pick Disease Type A	OMIM:257200
+10	0.5	Niemann-Pick Disease Type B	OMIM:607616
+11	0.45	Niemann-Pick Disease Type C1	OMIM:257220
+12	0.4	Niemann-Pick Disease Type C2	OMIM:607625
+13	0.35	Farber Lipogranulomatosis	OMIM:228000
+14	0.3	Wolman Disease	OMIM:278000
+15	0.25	Chédiak-Higashi Syndrome	OMIM:214500

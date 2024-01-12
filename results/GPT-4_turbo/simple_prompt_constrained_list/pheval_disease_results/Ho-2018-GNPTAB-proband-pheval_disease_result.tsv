@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+2	0.87	Crouzon Syndrome	OMIM:123500
+3	0.85	Pfeiffer Syndrome	OMIM:101600
+4	0.82	Beare-Stevenson Cutis Gyrata Syndrome	OMIM:123790
+5	0.81	Saethre-Chotzen Syndrome	OMIM:101400
+6	0.78	Carpenter Syndrome	OMIM:201000
+7	0.76	Apert Syndrome	OMIM:101200
+8	0.75	Craniofrontonasal Dysplasia	OMIM:304110
+9	0.73	Jackson-Weiss Syndrome	OMIM:123150
+10	0.71	Maroteaux-Lamy Syndrome	OMIM:253200
+11	0.69	Morquio Syndrome	OMIM:253000
+12	0.67	Sotos Syndrome	OMIM:117550
+13	0.65	Greig Cephalopolysyndactyly Syndrome	OMIM:175700
+14	0.64	Pyknodysostosis	OMIM:265800
+15	0.62	Rubinstein-Taybi Syndrome	OMIM:180849

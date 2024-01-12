@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+1	0.9	Cholestasis, progressive familial intrahepatic 3	OMIM:602347
+3	0.7	Hepatic lipase deficiency	OMIM:614025
+3	0.7	Myopathy, centronuclear, 1	OMIM:160150
+5	0.6	Glycogen storage disease IXc	OMIM:613027
+5	0.6	Hypercholesterolemia, familial	OMIM:143890
+7	0.5	Hepatic adenomas, familial	OMIM:114550
+7	0.5	Hepatocellular carcinoma	OMIM:114550
+7	0.5	Arterial calcification, generalized, of infancy, 2	OMIM:614473
+7	0.5	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	OMIM:256810
+7	0.5	Cholestasis of pregnancy	OMIM:147480
+7	0.5	Citrullinemia, Type II, adult-onset	OMIM:603471
+7	0.5	Alpha-1-antitrypsin deficiency	OMIM:613490
+7	0.5	Hypobetalipoproteinemia, familial, 1	OMIM:615558
+7	0.5	Cerebrotendinous xanthomatosis	OMIM:213700

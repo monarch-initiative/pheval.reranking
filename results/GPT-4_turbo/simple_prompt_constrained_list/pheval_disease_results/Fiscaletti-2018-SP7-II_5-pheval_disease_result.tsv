@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Type VI	OMIM:225400
+2	0.85	Osteogenesis Imperfecta, Type I	OMIM:166200
+2	0.85	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+4	0.8	Osteogenesis Imperfecta, Type III	OMIM:259420
+5	0.75	Osteogenesis Imperfecta, Type IV	OMIM:166220
+6	0.7	Marshall Syndrome	OMIM:154780
+7	0.68	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+8	0.65	Stickler Syndrome, Type I	OMIM:108300
+9	0.6	Cleidocranial Dysplasia	OMIM:119600
+10	0.55	Marfan Syndrome	OMIM:154700
+10	0.55	Larsen Syndrome	OMIM:150250
+12	0.45	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+12	0.45	Bruck Syndrome 1	OMIM:259450
+14	0.4	Nail-Patella Syndrome	OMIM:161200
+14	0.4	Cole-Carpenter Syndrome 1	OMIM:112240

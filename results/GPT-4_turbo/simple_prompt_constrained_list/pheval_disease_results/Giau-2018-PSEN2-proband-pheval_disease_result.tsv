@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dementia, familial British	OMIM:176500
+2	0.89	Alzheimer Disease	OMIM:104300
+3	0.88	Frontotemporal Dementia	OMIM:600274
+4	0.87	Dementia, Lewy body	OMIM:127750
+5	0.86	Pick Disease	OMIM:172700
+6	0.85	Huntington Disease	OMIM:143100
+7	0.84	Alzheimer Disease, Type 3	OMIM:607822
+8	0.83	Huntington Disease-Like 1	OMIM:603218
+9	0.82	Creutzfeldt-Jakob Disease	OMIM:123400
+10	0.81	Alzheimer Disease 4	OMIM:606889
+11	0.8	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+12	0.79	Parkinson Disease, Late-Onset	OMIM:168600
+13	0.78	Alzheimer Disease, Type 2	OMIM:104310
+14	0.77	Parkinson Disease 1	OMIM:168601
+15	0.76	Neurodegeneration with brain iron accumulation 2B	OMIM:610217

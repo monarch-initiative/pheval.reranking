@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	OMIM:242860
+2	0.89	Nijmegen breakage syndrome	OMIM:251260
+3	0.87	Cartilage-hair hypoplasia	OMIM:250250
+4	0.79	Schimke immuno-osseous dysplasia	OMIM:242900
+5	0.77	Ataxia-telangiectasia	OMIM:208900
+6	0.75	X-linked agammaglobulinemia	OMIM:300755
+7	0.74	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.72	Severe combined immunodeficiency	OMIM:102700
+9	0.71	Common variable immunodeficiency	OMIM:607594
+10	0.69	X-linked lymphoproliferative syndrome	OMIM:308240
+11	0.67	X-linked severe combined immunodeficiency	OMIM:300400
+12	0.65	Hyper IgM syndrome type 1	OMIM:308230
+13	0.64	Bare lymphocyte syndrome, type I	OMIM:604571
+14	0.62	Chediak-Higashi syndrome	OMIM:214500
+15	0.6	Griscelli syndrome type 2	OMIM:607624

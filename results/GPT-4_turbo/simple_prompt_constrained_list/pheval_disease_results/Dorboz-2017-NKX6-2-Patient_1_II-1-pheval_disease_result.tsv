@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leber Hereditary Optic Neuropathy	OMIM:535000
+2	0.88	Pelizaeus-Merzbacher Disease	OMIM:312080
+3	0.86	Mitochondrial DNA Depletion Syndrome 6 (Hepatocerebral Type)	OMIM:256810
+4	0.85	Cockayne Syndrome A	OMIM:216400
+4	0.85	3-Methylglutaconic Aciduria Type III	OMIM:258501
+6	0.83	Canavan Disease	OMIM:271900
+7	0.82	Zellweger Syndrome	OMIM:214100
+8	0.8	Severe Combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:602450
+9	0.79	Maple Syrup Urine Disease	OMIM:248600
+10	0.78	Adrenoleukodystrophy	OMIM:300100
+11	0.77	Alexander Disease	OMIM:203450
+12	0.76	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+13	0.75	Merosin-Deficient Muscular Dystrophy	OMIM:607855
+13	0.75	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	OMIM:270550
+15	0.74	Krabbe Disease	OMIM:245200

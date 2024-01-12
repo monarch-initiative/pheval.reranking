@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Glutaricaciduria type I	OMIM:231670
+2	0.8	Dystonia 28, childhood-onset	OMIM:617284
+3	0.6	Hydrocephalus due to congenital stenosis of aqueduct of Sylvius	OMIM:307000
+3	0.6	Macrocephaly/autism syndrome	OMIM:605309
+3	0.6	Megalencephalic leukoencephalopathy with subcortical cysts 1	OMIM:604004
+6	0.5	Alexander disease	OMIM:203450
+6	0.5	Canavan disease	OMIM:271900
+6	0.5	Dystonia 5, Dopa-responsive type	OMIM:128230
+6	0.5	Subdural effusion	OMIM:608682
+10	0.4	Megalencephaly-capillary malformation-polymicrogyria syndrome	OMIM:602501
+10	0.4	3-Methylglutaconic aciduria type I	OMIM:250950
+10	0.4	Leigh syndrome, French-Canadian type	OMIM:220111
+13	0.3	Aicardi syndrome	OMIM:304050
+13	0.3	Encephalopathy due to defective mitochondrial and peroxisomal fission 1	OMIM:614388
+13	0.3	Lissencephaly 1	OMIM:607432

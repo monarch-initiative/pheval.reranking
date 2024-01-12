@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepiphyseal dysplasia tarda with mental retardation	OMIM:613854
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+3	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.8	Mucopolysaccharidosis, MPS-IV	OMIM:253000
+5	0.75	Cornelia de Lange syndrome	OMIM:122470
+6	0.7	Mowat-Wilson syndrome	OMIM:235730
+6	0.7	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.65	CHARGE syndrome	OMIM:214800
+9	0.6	Kleefstra syndrome	OMIM:610253
+9	0.6	Smith-Magenis syndrome	OMIM:182290
+9	0.6	Prader-Willi syndrome	OMIM:176270
+12	0.55	Rett syndrome	OMIM:312750
+13	0.5	Fragile X syndrome	OMIM:300624
+13	0.5	Cri-du-chat syndrome	OMIM:123450
+15	0.45	Williams syndrome	OMIM:194050

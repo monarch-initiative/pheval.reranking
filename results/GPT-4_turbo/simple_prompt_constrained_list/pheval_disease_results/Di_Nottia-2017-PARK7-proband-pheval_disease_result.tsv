@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Leigh syndrome	OMIM:256000
+3	0.8	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+3	0.8	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	OMIM:612073
+5	0.75	Hereditary motor and sensory neuropathy with optic atrophy	OMIM:500004
+5	0.75	Mitochondrial DNA-associated Leigh syndrome and NARP	OMIM:535000
+7	0.7	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 1	OMIM:157640
+8	0.65	Friedreich ataxia 1	OMIM:229300
+9	0.6	Spinocerebellar ataxia	OMIM:607250
+9	0.6	Perry syndrome	OMIM:168605
+11	0.55	Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 4	OMIM:610131
+12	0.5	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	OMIM:607459
+12	0.5	Autosomal recessive progressive external ophthalmoplegia	OMIM:258450
+14	0.45	Neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive	OMIM:256840
+15	0.4	Myoclonic epilepsy associated with ragged-red fibers	OMIM:545000

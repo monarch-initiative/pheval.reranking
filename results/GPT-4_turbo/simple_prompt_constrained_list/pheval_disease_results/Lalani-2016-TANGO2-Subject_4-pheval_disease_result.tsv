@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Wilson disease	OMIM:277900
+2	0.89	Myoadenylate deaminase deficiency	OMIM:615511
+3	0.88	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+4	0.87	Valinemia	OMIM:277100
+5	0.86	Glycogen storage disease type 5	OMIM:232600
+6	0.85	Hyperthyroidism, nonautoimmune	OMIM:609152
+7	0.84	Glycogen storage disease II	OMIM:232300
+8	0.83	Glycogen storage disease type 7	OMIM:232800
+9	0.82	Beta-ketothiolase deficiency	OMIM:203750
+10	0.81	Isovaleric acidemia	OMIM:243500
+11	0.8	Barth syndrome	OMIM:302060
+12	0.79	Hypokalemic periodic paralysis	OMIM:170400
+13	0.78	Potassium-aggravated myotonia	OMIM:608390
+14	0.77	Hypothyroidism, congenital, nongoitrous, 1	OMIM:275200
+15	0.76	Thyrotoxic periodic paralysis	OMIM:613239

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Albright's hereditary osteodystrophy	OMIM:103580
+2	0.8	Weaver syndrome	OMIM:277590
+3	0.75	Floating-Harbor syndrome	OMIM:136140
+4	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849
+5	0.65	Sotos syndrome 1	OMIM:117550
+6	0.6	Kleefstra syndrome 1	OMIM:610253
+7	0.58	Coffin-Lowry syndrome	OMIM:303600
+8	0.55	Williams syndrome	OMIM:194050
+9	0.53	Prader-Willi syndrome	OMIM:176270
+10	0.5	Smith-Magenis syndrome	OMIM:182290
+11	0.48	Noonan syndrome 1	OMIM:163950
+12	0.45	Cornelia de Lange syndrome 1	OMIM:122470
+13	0.43	Fragile X syndrome	OMIM:300624
+14	0.4	Angelman syndrome	OMIM:105830
+15	0.38	Beckwith-Wiedemann syndrome	OMIM:130650

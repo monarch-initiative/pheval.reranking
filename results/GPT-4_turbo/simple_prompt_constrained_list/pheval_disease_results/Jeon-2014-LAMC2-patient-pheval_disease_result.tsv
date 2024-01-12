@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	OMIM:226650
+2	0.85	Epidermolysis Bullosa, Junctional, Herlitz Type	OMIM:226700
+3	0.8	Epidermolysis Bullosa, Junctional, with Pyloric Atresia	OMIM:226730
+4	0.7	Epidermolysis Bullosa Simplex	OMIM:131800
+5	0.65	Peeling Skin Syndrome 1	OMIM:270300
+6	0.6	Pemphigus Vulgaris	OMIM:169610
+7	0.55	Stevens-Johnson Syndrome	OMIM:608579
+8	0.5	Toxic Epidermal Necrolysis	OMIM:608579
+9	0.45	Inherited Epidermolysis Bullosa	OMIM:601001
+10	0.4	Bullous Pemphigoid	OMIM:113810
+11	0.35	Kindler Syndrome	OMIM:173650
+12	0.3	Dystrophic Epidermolysis Bullosa	OMIM:601760
+13	0.25	Porphyria, Acute Intermittent	OMIM:176000
+14	0.2	Mucous Membrane Pemphigoid	OMIM:608598
+15	0.15	Lichen Planus	OMIM:153460

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.8	Rett syndrome	OMIM:312750
+4	0.75	KNSTRN-related Cornelia de Lange syndrome	OMIM:300882
+5	0.7	CASK-related intellectual disability	OMIM:300749
+6	0.65	Dandy-Walker syndrome	OMIM:220200
+7	0.6	Miller-Dieker syndrome	OMIM:247200
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Cohen syndrome	OMIM:216550
+10	0.45	Mowat-Wilson syndrome	OMIM:235730
+11	0.4	Wolf-Hirschhorn syndrome	OMIM:194190
+12	0.35	Lissencephaly	OMIM:607432
+13	0.3	2q37 deletion syndrome	OMIM:614484
+14	0.25	Joubert syndrome	OMIM:213300
+15	0.2	Cornelia de Lange syndrome	OMIM:122470

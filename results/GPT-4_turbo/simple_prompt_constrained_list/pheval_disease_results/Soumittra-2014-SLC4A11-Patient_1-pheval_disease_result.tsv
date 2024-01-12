@@ -1,0 +1,10 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fuchs Endothelial Corneal Dystrophy	OMIM:136800
+2	0.8	Congenital Hereditary Endothelial Dystrophy	OMIM:121700
+3	0.7	Posterior Polymorphous Corneal Dystrophy	OMIM:122000
+4	0.6	Keratoconus	OMIM:148300
+5	0.5	Posterior Amorphous Corneal Dystrophy	OMIM:612868
+6	0.4	Schnyder Corneal Dystrophy	OMIM:121800
+7	0.3	Corneal Dystrophy, Fleck	OMIM:121850
+8	0.2	Lattice Corneal Dystrophy Type I	OMIM:122200
+9	0.1	Macular Corneal Dystrophy	OMIM:217800

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+2	0.85	Greig cephalopolysyndactyly syndrome	OMIM:175700
+3	0.8	Pallister-Hall syndrome	OMIM:146510
+4	0.75	Ohdo syndrome, X-linked	OMIM:300895
+5	0.7	Bardet-Biedl syndrome	OMIM:209900
+6	0.65	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.6	Acrocallosal syndrome	OMIM:200990
+8	0.55	Sotos syndrome	OMIM:117550
+9	0.5	Mucopolysaccharidosis type III	OMIM:252900
+10	0.45	Smith-Lemli-Opitz syndrome	OMIM:270400
+11	0.4	Saethre-Chotzen syndrome	OMIM:101400
+12	0.35	Carpenter Syndrome	OMIM:201000
+13	0.3	Cornelia de Lange syndrome	OMIM:122470
+14	0.25	Larsen syndrome	OMIM:150250
+15	0.2	Kleefstra syndrome	OMIM:610253

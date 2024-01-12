@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Pitt-Hopkins syndrome	OMIM:610954
+2	0.7	Mowat-Wilson syndrome	OMIM:235730
+3	0.65	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.65	Angelman syndrome	OMIM:105830
+3	0.65	Coffin-Siris syndrome 1	OMIM:135900
+6	0.6	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.6	Lissencephaly 1	OMIM:607432
+6	0.6	Rett syndrome	OMIM:312750
+6	0.6	Joubert syndrome 1	OMIM:213300
+6	0.6	Miller-Dieker syndrome	OMIM:247200
+11	0.55	Charge syndrome	OMIM:214800
+11	0.55	Rubinstein-Taybi syndrome 1	OMIM:180849
+11	0.55	Schinzel-Giedion syndrome	OMIM:269150
+11	0.55	Wolf-Hirschhorn syndrome	OMIM:194190
+15	0.5	3C syndrome	OMIM:613792

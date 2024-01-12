@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Microcephaly And Severe Congenital Encephalopathy	OMIM:613673
+2	0.85	West Syndrome	OMIM:308350
+2	0.85	Rett Syndrome, Congenital Variant	OMIM:312750
+2	0.85	Angelman Syndrome	OMIM:105830
+5	0.8	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.8	X-Linked Lissencephaly	OMIM:300067
+5	0.8	Lissencephaly 1	OMIM:607432
+5	0.8	Mowat-Wilson Syndrome	OMIM:235730
+5	0.8	Leigh Syndrome	OMIM:256000
+10	0.75	Zellweger Syndrome	OMIM:214100
+10	0.75	Miller-Dieker Syndrome	OMIM:247200
+10	0.75	Severe Myoclonic Epilepsy In Infancy	OMIM:607208
+10	0.75	Aicardi-Goutieres Syndrome 1	OMIM:225750
+10	0.75	Krabbe Disease	OMIM:245200
+10	0.75	Cerebral Creatine Deficiency Syndrome 3	OMIM:612718

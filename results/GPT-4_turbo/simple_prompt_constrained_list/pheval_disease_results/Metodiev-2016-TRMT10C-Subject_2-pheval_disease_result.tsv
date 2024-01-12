@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mitochondrial complex I deficiency	OMIM:252010
+2	0.9	Leigh syndrome	OMIM:256000
+3	0.85	Mitochondrial myopathy	OMIM:000000
+4	0.8	Pyruvate carboxylase deficiency	OMIM:266150
+5	0.75	Pyruvate dehydrogenase deficiency	OMIM:312170
+6	0.7	Cytochrome c oxidase deficiency	OMIM:220110
+7	0.65	Maple syrup urine disease	OMIM:248600
+8	0.6	Propionic acidemia	OMIM:606054
+9	0.55	Methylmalonic acidemia	OMIM:251000
+10	0.5	Glutaric acidemia type I	OMIM:231670
+11	0.45	Isovaleric acidemia	OMIM:243500
+12	0.4	Pyruvate carboxylase deficiency	OMIM:266150
+13	0.35	L-2-hydroxyglutaric aciduria	OMIM:236792
+14	0.3	Combined oxidative phosphorylation deficiency	OMIM:000000
+15	0.25	Melas syndrome	OMIM:540000

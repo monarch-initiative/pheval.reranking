@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	1p36 deletion syndrome	OMIM:607872
+2	0.8	Angelman syndrome	OMIM:105830
+3	0.75	Coffin-Lowry syndrome	OMIM:303600
+4	0.7	MECP2 duplication syndrome	OMIM:300260
+5	0.65	Mowat-Wilson syndrome	OMIM:235730
+6	0.6	Pitt-Hopkins syndrome	OMIM:610954
+7	0.55	Rett syndrome	OMIM:312750
+8	0.5	West syndrome	OMIM:308350
+9	0.45	Wolf-Hirschhorn syndrome	OMIM:194190
+10	0.4	Smith-Lemli-Opitz syndrome	OMIM:270400
+11	0.35	Prader-Willi syndrome	OMIM:176270
+12	0.3	Christianson syndrome	OMIM:300243
+13	0.25	Rubinstein-Taybi syndrome	OMIM:180849
+14	0.2	Miller-Dieker syndrome	OMIM:247200
+15	0.15	CHARGE syndrome	OMIM:214800

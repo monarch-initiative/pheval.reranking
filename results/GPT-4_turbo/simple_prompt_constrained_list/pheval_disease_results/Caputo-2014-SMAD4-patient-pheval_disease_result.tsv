@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Brachydactyly Type E	OMIM:113300
+2	0.9	Bardet-Biedl Syndrome	OMIM:209900
+3	0.85	Ellis-van Creveld Syndrome	OMIM:225500
+3	0.85	Short-Rib Thoracic Dysplasia 3 with or without Polydactyly	OMIM:613091
+5	0.8	Rubinstein-Taybi Syndrome	OMIM:180849
+5	0.8	3M Syndrome	OMIM:273750
+7	0.75	Cranioectodermal Dysplasia	OMIM:218330
+7	0.75	Coffin-Siris Syndrome	OMIM:135900
+7	0.75	Cornelia de Lange Syndrome	OMIM:122470
+10	0.7	Geleophysic Dysplasia	OMIM:231050
+10	0.7	Kniest Dysplasia	OMIM:156550
+10	0.7	Mucolipidosis III Gamma	OMIM:252600
+10	0.7	Asphyxiating Thoracic Dysplasia	OMIM:208500
+14	0.65	Acromicric Dysplasia	OMIM:102370
+14	0.65	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900

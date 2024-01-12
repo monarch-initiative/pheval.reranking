@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycine encephalopathy	OMIM:605282
+2	0.8	L-2-hydroxyglutaric aciduria	OMIM:236792
+3	0.7	Pyruvate dehydrogenase complex deficiency	OMIM:312170
+4	0.6	Pontocerebellar Hypoplasia, Type 1A	OMIM:607596
+4	0.6	Vanishing White Matter disease	OMIM:603896
+4	0.6	Maple syrup urine disease	OMIM:248600
+4	0.6	Non-ketotic hyperglycinemia	OMIM:605899
+8	0.5	Canavan disease	OMIM:271900
+8	0.5	3-Phosphoglycerate dehydrogenase deficiency	OMIM:601815
+10	0.4	Leukoencephalopathy with vanishing white matter	OMIM:603896
+10	0.4	Pelizaeus-Merzbacher Disease	OMIM:312080
+12	0.3	Alexander disease	OMIM:203450
+12	0.3	Zellweger syndrome	OMIM:214100
+12	0.3	Methylmalonic acidemia	OMIM:251000
+12	0.3	Infantile Neuroaxonal Dystrophy	OMIM:256600

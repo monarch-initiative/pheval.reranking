@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Hypomyelinating Leukodystrophy 5	OMIM:610532
+2	0.9	Hypomyelination, Hypogonadotropic Hypogonadism, Hypodontia	OMIM:241530
+3	0.8	Pelizaeus-Merzbacher Disease	OMIM:312080
+4	0.7	Hypomyelination And Congenital Cataract	OMIM:610532
+5	0.6	Metachromatic Leukodystrophy	OMIM:250100
+6	0.5	Hypomyelination Neuropathy - Arthrogryposis	OMIM:605280
+7	0.4	Alexander Disease	OMIM:203450
+8	0.3	Charcot-Marie-Tooth Disease	OMIM:118220
+9	0.2	Congenital Muscular Dystrophy	OMIM:607855
+10	0.1	Vanishing White Matter Disease	OMIM:603896
+11	0.05	Autosomal Recessive Spastic Ataxia With Leukoencephalopathy	OMIM:607694
+12	0.02	Leigh Syndrome	OMIM:256000
+13	0.01	Canavan Disease	OMIM:271900

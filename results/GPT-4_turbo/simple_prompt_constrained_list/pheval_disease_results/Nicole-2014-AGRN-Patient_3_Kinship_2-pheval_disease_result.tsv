@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myasthenic syndrome, congenital, 14	OMIM:615258
+2	0.8	Limb-girdle muscular dystrophy, type 2L	OMIM:611307
+3	0.7	Distal myopathy, Welander type	OMIM:604454
+3	0.7	Myasthenic syndrome, congenital, 2A, slow-channel	OMIM:606572
+3	0.7	Myasthenic syndrome, congenital, 3A, fast-channel	OMIM:608930
+6	0.6	Myopathy, myofibrillar, 1, with or without spheroids	OMIM:601419
+6	0.6	Myopathy, centronuclear, 1	OMIM:160150
+6	0.6	Myopathy, distal, 1	OMIM:160500
+9	0.5	Myopathy, myofibrillar, 2	OMIM:603689
+9	0.5	Myopathy, myofibrillar, 4	OMIM:609200
+9	0.5	Myopathy, myofibrillar, 6	OMIM:609524
+9	0.5	Myopathy, myofibrillar, 7	OMIM:609638
+9	0.5	Myopathy, myofibrillar, 8	OMIM:609915
+9	0.5	Myopathy, myofibrillar, 9	OMIM:615731
+9	0.5	Congenital myopathy with fiber-type disproportion	OMIM:255310

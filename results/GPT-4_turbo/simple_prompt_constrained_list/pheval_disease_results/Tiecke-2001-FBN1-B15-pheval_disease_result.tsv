@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.85	MASS Phenotype	OMIM:604308
+3	0.75	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+4	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+4	0.7	Loeys-Dietz Syndrome 1	OMIM:609192
+6	0.65	Fibrillinopathy, Acromelic	OMIM:616849
+6	0.65	Ectopia Lentis, Isolated, Autosomal Dominant	OMIM:129600
+6	0.65	Weill-Marchesani Syndrome 1, Recessive	OMIM:277600
+6	0.65	Loeys-Dietz Syndrome 2	OMIM:610168
+10	0.6	Familial Thoracic Aortic Aneurysm And Dissection	OMIM:607086
+10	0.6	Loeys-Dietz Syndrome 3	OMIM:613795
+10	0.6	Loeys-Dietz Syndrome 4	OMIM:614816
+10	0.6	Loeys-Dietz Syndrome 5	OMIM:615582
+14	0.55	Beals Syndrome	OMIM:121050
+14	0.55	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000

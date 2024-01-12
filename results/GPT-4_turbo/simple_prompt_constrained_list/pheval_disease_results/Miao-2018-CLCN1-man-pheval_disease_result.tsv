@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonia congenita	OMIM:160800
+2	0.87	Becker muscular dystrophy	OMIM:300376
+3	0.85	Paramyotonia congenita of Von Eulenburg	OMIM:168300
+4	0.82	Duchenne muscular dystrophy	OMIM:310200
+5	0.8	Limb-girdle muscular dystrophy	OMIM:253600
+6	0.78	Central core disease of muscle	OMIM:117000
+7	0.75	McArdle disease	OMIM:232600
+8	0.72	Pompe disease	OMIM:232300
+9	0.7	Hypokalemic periodic paralysis	OMIM:170400
+10	0.68	Potassium-aggravated myotonia	OMIM:608390
+11	0.65	Nemaline myopathy	OMIM:161800
+12	0.63	Emery-Dreifuss muscular dystrophy	OMIM:310300
+13	0.6	Myotonic dystrophy type 1	OMIM:160900
+14	0.58	Merosin-deficient congenital muscular dystrophy 1A	OMIM:607855
+15	0.55	Myotubular myopathy	OMIM:310400

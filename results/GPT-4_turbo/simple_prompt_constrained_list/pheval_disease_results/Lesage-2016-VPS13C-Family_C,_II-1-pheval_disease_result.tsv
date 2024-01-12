@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.85	Leigh syndrome, French Canadian type	OMIM:220111
+2	0.85	X-linked dystonia-parkinsonism	OMIM:314250
+2	0.85	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+5	0.8	Primary lateral sclerosis	OMIM:611637
+5	0.8	Hereditary diffuse leukoencephalopathy with spheroids	OMIM:221820
+7	0.75	Spinocerebellar ataxia 17	OMIM:607136
+7	0.75	Neurodegeneration with brain iron accumulation 2B	OMIM:610217
+9	0.7	Wilson disease	OMIM:277900
+10	0.65	Tay-Sachs disease	OMIM:272800
+10	0.65	Adult polyglucosan body disease	OMIM:263570
+12	0.6	Cerebrotendinous xanthomatosis	OMIM:213700
+12	0.6	Mitochondrial complex III deficiency, nuclear type 4	OMIM:615159
+14	0.55	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome	OMIM:238970
+14	0.55	Maple syrup urine disease	OMIM:248600

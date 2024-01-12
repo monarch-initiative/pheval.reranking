@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bardet-Biedl Syndrome	OMIM:209900
+2	0.88	Meckel Syndrome	OMIM:249000
+3	0.86	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.85	Leigh Syndrome	OMIM:256000
+5	0.83	Carpenter Syndrome	OMIM:201000
+6	0.81	Joubert Syndrome	OMIM:213300
+7	0.8	Coffin-Siris Syndrome	OMIM:135900
+8	0.79	Cornelia de Lange Syndrome	OMIM:122470
+9	0.77	Pallister-Hall Syndrome	OMIM:146510
+10	0.76	Prader-Willi Syndrome	OMIM:176270
+11	0.74	Zellweger Syndrome	OMIM:214100
+12	0.72	CHARGE Syndrome	OMIM:214800
+13	0.71	Schinzel-Giedion Syndrome	OMIM:269150
+14	0.7	Kabuki Syndrome	OMIM:147920
+15	0.68	Rubinstein-Taybi Syndrome	OMIM:180849

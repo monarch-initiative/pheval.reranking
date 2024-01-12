@@ -1,0 +1,11 @@
+rank	score	gene_symbol	gene_identifier
+1	0.9	GENE1	
+2	0.8	GENE2	
+3	0.7	GENE3	
+4	0.6	GENE4	
+5	0.5	GENE5	
+6	0.4	GENE6	
+7	0.3	GENE7	
+8	0.2	GENE8	
+9	0.1	GENE9	
+10	0.05	GENE10	

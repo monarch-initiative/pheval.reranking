@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Gaucher Disease Type II	OMIM:230900
+2	0.85	Gaucher Disease Type IIIC	OMIM:231005
+3	0.8	Chediak-Higashi Syndrome	OMIM:214500
+4	0.75	Hemophagocytic Lymphohistiocytosis, Familial, 2	OMIM:603553
+5	0.7	Wiskott-Aldrich Syndrome	OMIM:301000
+6	0.65	X-linked Thrombocytopenia	OMIM:313900
+7	0.6	Hemophagocytic Lymphohistiocytosis, Familial, 4	OMIM:603552
+8	0.55	Griscelli Syndrome, Type 2	OMIM:607624
+9	0.5	Severe Combined Immunodeficiency, X-Linked	OMIM:300400
+10	0.45	Niemann-Pick Disease, Type C1	OMIM:257220
+11	0.4	Niemann-Pick Disease, Type C2	OMIM:607625
+12	0.35	Neonatal Ichthyosis Sclerosing Cholangitis Syndrome	OMIM:607626
+13	0.3	Sly Syndrome	OMIM:253220
+14	0.25	Sphingomyelin/Phosphodiesterase 1 Deficiency	OMIM:610539
+15	0.2	Shwachman-Diamond Syndrome	OMIM:260400

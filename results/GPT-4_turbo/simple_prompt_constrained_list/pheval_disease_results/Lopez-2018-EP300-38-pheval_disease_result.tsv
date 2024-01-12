@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rubinstein-Taybi Syndrome 1	OMIM:180849
+2	0.88	Pitt-Hopkins Syndrome	OMIM:610954
+3	0.85	Cornelia de Lange Syndrome 1	OMIM:122470
+4	0.82	Coffin-Siris Syndrome 1	OMIM:135900
+5	0.81	CHARGE Syndrome	OMIM:214800
+6	0.8	Branchiooculofacial Syndrome	OMIM:113620
+6	0.8	22q11.2 Deletion Syndrome	OMIM:188400
+8	0.75	Waardenburg Syndrome Type 1	OMIM:193500
+9	0.72	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.71	Smith-Magenis Syndrome	OMIM:182290
+11	0.7	Mowat-Wilson Syndrome	OMIM:235730
+12	0.68	Baraitser-Winter Syndrome 1	OMIM:243310
+13	0.66	Greig Cephalopolysyndactyly Syndrome	OMIM:175700
+14	0.65	Kabuki Syndrome 1	OMIM:147920
+15	0.63	Lujan-Fryns Syndrome	OMIM:309520

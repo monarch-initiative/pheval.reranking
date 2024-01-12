@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+2	0.85	Spastic paraplegia 56, autosomal recessive	OMIM:615030
+3	0.8	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	OMIM:613073
+4	0.75	Spastic paraplegia 2, X-linked	OMIM:312920
+5	0.7	Perry syndrome	OMIM:168605
+6	0.65	Neurodegeneration with brain iron accumulation 2B	OMIM:610217
+7	0.6	Hypomyelination, global cerebral	OMIM:612438
+8	0.55	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:607250
+9	0.5	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+10	0.45	Lysosomal acid lipase deficiency	OMIM:278000
+11	0.4	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+12	0.35	Spastic ataxia 7, autosomal dominant	OMIM:108650
+13	0.3	Woodhouse-Sakati syndrome	OMIM:241080
+14	0.25	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+15	0.2	Hereditary spastic paraplegia 49	OMIM:615031

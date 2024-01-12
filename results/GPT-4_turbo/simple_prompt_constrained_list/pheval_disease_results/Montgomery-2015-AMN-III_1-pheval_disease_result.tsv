@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Megaloblastic anemia-1 due to transcobalamin receptor defect	OMIM:261100
+2	0.9	Imerslund-Grasbeck syndrome	OMIM:261100
+3	0.85	Methylmalonic aciduria due to transcobalamin deficiency	OMIM:275350
+4	0.8	Homocystinuria due to MTHFR deficiency	OMIM:236250
+5	0.75	Transcobalamin II deficiency	OMIM:275350
+6	0.7	Cobalamin C disease	OMIM:277400
+7	0.65	Cobalamin D disease	OMIM:277410
+8	0.6	Cobalamin E disease	OMIM:236270
+9	0.55	Cobalamin F disease	OMIM:277380
+10	0.5	Cobalamin A disease	OMIM:251100
+11	0.45	Cobalamin B disease	OMIM:277370
+12	0.4	Cobalamin G disease	OMIM:258660
+13	0.35	Cobalamin J disease	OMIM:614857
+14	0.3	Cobalamin X disease	OMIM:309000
+15	0.25	Combined malonic and methylmalonic aciduria	OMIM:614265

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Palmoplantar Keratoderma, Epidermolytic	OMIM:144200
+2	0.9	Palmoplantar Keratoderma, Nonepidermolytic	OMIM:600962
+3	0.85	Keratoderma, Palmoplantar, Diffuse, Epidermolytic	OMIM:144200
+4	0.8	Keratosis Palmoplantaris Striata I	OMIM:148700
+5	0.75	Vorner Unna Thost Syndrome	OMIM:144200
+6	0.7	Keratosis Palmoplantaris Striata II	OMIM:612908
+7	0.65	Palmoplantar Keratoderma with Deafness	OMIM:148350
+8	0.6	Keratoderma Palmoplantaris Transgrediens	OMIM:245000
+9	0.55	Mal de Meleda	OMIM:248300
+10	0.5	Pachyonychia Congenita	OMIM:167200
+11	0.45	Howel-Evans Syndrome	OMIM:148500
+12	0.4	Schopf-Schulz-Passarge Syndrome	OMIM:224750
+13	0.35	Pustulosis Palmoplantaris	OMIM:615302
+14	0.3	Palmoplantar Keratoderma and Woolly Hair	OMIM:148000
+15	0.25	Palmoplantar Carcinoma, Multiple Self-Healing	OMIM:615935

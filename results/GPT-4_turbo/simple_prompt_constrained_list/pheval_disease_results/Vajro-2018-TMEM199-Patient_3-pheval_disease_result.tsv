@@ -1,0 +1,7 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277900
+2	0.85	Mednik syndrome	OMIM:609313
+3	0.8	Indian Childhood Cirrhosis	OMIM:215600
+3	0.8	Idiopathic copper associated cirrhosis	OMIM:219000
+5	0.75	Endemic Tyrolean Infantile Cirrhosis	OMIM:604117
+6	0.7	Hereditary Hyperferritinemia-Cataract Syndrome	OMIM:600886

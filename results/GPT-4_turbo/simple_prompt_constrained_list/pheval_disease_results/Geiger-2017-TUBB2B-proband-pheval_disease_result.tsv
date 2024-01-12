@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lissencephaly 1	OMIM:607432
+2	0.93	Miller-Dieker syndrome	OMIM:247200
+3	0.9	Lissencephaly 2, X-linked	OMIM:300215
+4	0.88	Lissencephaly 3	OMIM:611603
+5	0.85	Lissencephaly 4	OMIM:614019
+6	0.83	Pachygyria with mental retardation, seizures, and arachnoid cysts	OMIM:600176
+7	0.8	Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion 1	OMIM:224050
+8	0.78	Muscle-eye-brain disease	OMIM:253280
+9	0.76	Spastic paraplegia 1	OMIM:182600
+10	0.74	Fukuyama congenital muscular dystrophy	OMIM:253800
+11	0.72	Spastic paraplegia 56, autosomal recessive	OMIM:615030
+12	0.7	Coffin-Lowry syndrome	OMIM:303600
+13	0.68	West syndrome	OMIM:308350
+14	0.66	Warburg Micro syndrome 1	OMIM:600118
+15	0.64	Pitt-Hopkins syndrome	OMIM:610954

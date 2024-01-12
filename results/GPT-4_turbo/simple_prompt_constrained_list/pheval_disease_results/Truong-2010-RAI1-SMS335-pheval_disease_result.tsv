@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Prader-Willi Syndrome	OMIM:176270
+2	0.87	Smith-Magenis Syndrome	OMIM:182290
+3	0.85	Sotos Syndrome 1	OMIM:117550
+4	0.84	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.82	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.8	Angelman Syndrome	OMIM:105830
+7	0.79	22q11.2 Deletion Syndrome	OMIM:188400
+8	0.78	Williams Syndrome	OMIM:194050
+9	0.77	Coffin-Siris Syndrome	OMIM:135900
+10	0.75	Rubinstein-Taybi Syndrome 1	OMIM:180849
+11	0.74	Kleefstra Syndrome 1	OMIM:610253
+12	0.73	Fragile X Syndrome	OMIM:300624
+13	0.72	Rett Syndrome	OMIM:312750
+14	0.7	Mucopolysaccharidosis Type II	OMIM:309900
+15	0.68	Mowat-Wilson Syndrome	OMIM:235730

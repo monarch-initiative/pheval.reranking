@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 4	OMIM:614609
+2	0.85	Coffin-Siris Syndrome 3	OMIM:614608
+2	0.85	Coffin-Siris Syndrome 5	OMIM:616938
+4	0.8	Adams-Oliver Syndrome 1	OMIM:100300
+5	0.75	Coffin-Siris Syndrome	OMIM:135900
+5	0.75	Craniofrontonasal Dysplasia	OMIM:304110
+7	0.7	Adams-Oliver Syndrome 5	OMIM:616028
+8	0.65	Rubinstein-Taybi Syndrome 1	OMIM:180849
+9	0.6	Sotos Syndrome 1	OMIM:117550
+9	0.6	Rubinstein-Taybi Syndrome 2	OMIM:613684
+11	0.55	Marden-Walker Syndrome	OMIM:248700
+12	0.5	Baraitser-Winter Syndrome 1	OMIM:243310
+12	0.5	Schinzel-Giedion Syndrome	OMIM:269150
+14	0.45	Floating-Harbor Syndrome	OMIM:136140
+15	0.4	Beckwith-Wiedemann Syndrome	OMIM:130650

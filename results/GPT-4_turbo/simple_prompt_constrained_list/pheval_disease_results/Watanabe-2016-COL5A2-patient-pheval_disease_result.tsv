@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+2	0.9	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+3	0.85	Marfan Syndrome	OMIM:154700
+4	0.8	Ehlers-Danlos Syndrome, Hypermobile Type	OMIM:130020
+5	0.75	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+6	0.7	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+7	0.65	Osteogenesis Imperfecta, Type I	OMIM:166200
+8	0.6	Beals-Hecht Syndrome	OMIM:121050
+9	0.55	Loeys-Dietz Syndrome, Type 1	OMIM:609192
+10	0.5	Loeys-Dietz Syndrome, Type 2	OMIM:610168
+11	0.45	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+12	0.4	Congenital Contractural Arachnodactyly	OMIM:121050
+13	0.35	Homocystinuria	OMIM:236200
+14	0.3	Cutis Laxa, Autosomal Dominant	OMIM:123700
+15	0.25	Cutis Laxa, Autosomal Recessive, Type IA	OMIM:219100

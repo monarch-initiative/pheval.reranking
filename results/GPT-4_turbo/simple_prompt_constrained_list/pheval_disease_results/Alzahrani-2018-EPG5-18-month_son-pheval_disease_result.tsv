@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cohen Syndrome	OMIM:216550
+2	0.75	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+3	0.72	Dubowitz Syndrome	OMIM:223370
+4	0.7	Marshall-Smith Syndrome	OMIM:602535
+5	0.68	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.65	Hallermann-Streiff Syndrome	OMIM:234100
+7	0.63	Rubinstein-Taybi Syndrome 1	OMIM:180849
+8	0.6	Seckel Syndrome	OMIM:210600
+9	0.58	CHARGE Syndrome	OMIM:214800
+10	0.56	Oculo-Auriculo-Vertebral Spectrum	OMIM:164210
+11	0.54	Prader-Willi Syndrome	OMIM:176270
+12	0.52	Stickler Syndrome, Type I	OMIM:108300
+13	0.5	Noonan Syndrome 1	OMIM:163950
+14	0.48	Donnai-Barrow Syndrome	OMIM:222448
+15	0.46	Wolf-Hirschhorn Syndrome	OMIM:194190

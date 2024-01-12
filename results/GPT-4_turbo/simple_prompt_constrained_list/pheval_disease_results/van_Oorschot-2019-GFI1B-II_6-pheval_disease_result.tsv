@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Essential Thrombocythemia	OMIM:187950
+2	0.85	Primary Myelofibrosis	OMIM:254450
+3	0.8	Paris-Trousseau Thrombocytopenia	OMIM:188025
+4	0.75	Thrombocythemia 1	OMIM:187950
+5	0.7	Jacobsen Syndrome	OMIM:147791
+6	0.65	MYH9-related disorders	OMIM:160775
+7	0.6	Glanzmann Thrombasthenia	OMIM:273800
+8	0.55	Hemophilia A	OMIM:306700
+9	0.5	Hemophilia B	OMIM:306900
+10	0.45	Wiskott-Aldrich Syndrome	OMIM:301000
+11	0.4	Bernard-Soulier Syndrome	OMIM:231200
+12	0.35	Gray Platelet Syndrome	OMIM:139090
+13	0.3	Von Willebrand Disease, Type 1	OMIM:193400
+14	0.25	Von Willebrand Disease, Type 2	OMIM:613554
+15	0.2	Von Willebrand Disease, Type 3	OMIM:277480

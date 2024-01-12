@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex III Deficiency, Nuclear Type 1	OMIM:124000
+2	0.85	Glycogen Storage Disease II; GSD2	OMIM:232300
+3	0.8	Woodhouse-Sakati Syndrome	OMIM:241080
+3	0.8	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	OMIM:159950
+5	0.75	Mitochondrial DNA Depletion Syndrome 5 (Encephalomyopathic With Or Without Methylmalonic Aciduria)	OMIM:612073
+5	0.75	Epileptic Encephalopathy, Early Infantile, 1	OMIM:308350
+7	0.7	Charcot-Marie-Tooth Disease, Axonal, Type 2O	OMIM:614228
+7	0.7	Palmoplantar Keratoderma And Congenital Alopecia 1	OMIM:104100
+7	0.7	Seckel Syndrome	OMIM:210600
+10	0.65	Autosomal Recessive Spastic Paraplegia Type 56	OMIM:615030
+10	0.65	Hypertrichotic Osteochondrodysplasia	OMIM:239850
+12	0.6	Peroxisome Biogenesis Disorder 1B	OMIM:601539
+12	0.6	Meckel Syndrome, Type 1	OMIM:249000
+12	0.6	Joubert Syndrome 10	OMIM:614527
+15	0.55	Mitochondrial Complex IV Deficiency	OMIM:220110

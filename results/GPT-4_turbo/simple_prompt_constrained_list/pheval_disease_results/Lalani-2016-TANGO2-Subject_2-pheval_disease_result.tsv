@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial complex I deficiency	OMIM:252010
+2	0.85	Mitochondrial myopathy	OMIM:000160
+3	0.8	MELAS syndrome	OMIM:540000
+4	0.75	Long QT syndrome	OMIM:192500
+5	0.7	Carnitine palmitoyltransferase II deficiency	OMIM:255110
+6	0.65	Glycogen storage disease type II	OMIM:232300
+7	0.6	Leigh syndrome	OMIM:256000
+8	0.55	Barth syndrome	OMIM:302060
+9	0.5	Propionic acidemia	OMIM:606054
+10	0.45	Primary hyperammonemia	OMIM:237310
+11	0.4	Maple syrup urine disease	OMIM:248600
+12	0.35	Medium-chain acyl-CoA dehydrogenase deficiency	OMIM:201450
+13	0.3	Methylmalonic acidemia	OMIM:251000
+14	0.25	Fatty acid hydroxylase-associated neurodegeneration	OMIM:612319
+15	0.2	Lactic acidosis and sideroblastic anemia	OMIM:600462

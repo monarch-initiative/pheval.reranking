@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mitochondrial Complex I Deficiency	OMIM:252010
+2	0.88	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+3	0.86	Leigh Syndrome	OMIM:256000
+4	0.85	MELAS Syndrome	OMIM:540000
+5	0.84	Carnitine Palmitoyltransferase II Deficiency	OMIM:255110
+6	0.82	Myoadenylate Deaminase Deficiency	OMIM:615511
+7	0.81	Long Chain 3-Hydroxyacyl-CoA Dehydrogenase Deficiency	OMIM:609016
+8	0.8	Propionic Acidemia	OMIM:606054
+9	0.78	Glycogen Storage Disease Type II	OMIM:232300
+10	0.76	Medium Chain Acyl-CoA Dehydrogenase Deficiency	OMIM:201450
+11	0.75	Very Long Chain Acyl-CoA Dehydrogenase Deficiency	OMIM:609575
+12	0.73	Maple Syrup Urine Disease	OMIM:248600
+13	0.72	Isovaleric Acidemia	OMIM:243500
+14	0.7	Glutaric Acidemia Type II	OMIM:231680
+15	0.68	Organic Acidemia	OMIM:organicacidemia

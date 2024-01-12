@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Mucopolysaccharidosis, MPS-III-D	OMIM:252940
+2	0.93	Mucopolysaccharidosis Type I	OMIM:607014
+3	0.91	Aspartylglucosaminuria	OMIM:208400
+4	0.89	Mucopolysaccharidosis, MPS-II (Hunter Syndrome)	OMIM:309900
+5	0.87	Sialidosis, Type II	OMIM:256550
+6	0.86	Mucolipidosis II Alpha/Beta	OMIM:252500
+7	0.85	Mucolipidosis III Alpha/Beta	OMIM:252600
+8	0.84	Fucosidosis	OMIM:230000
+9	0.82	Mucopolysaccharidosis, MPS-IV-A (Morquio Syndrome, Type A)	OMIM:253000
+10	0.81	Mannosidosis, Alpha-, Types I and II	OMIM:248500
+11	0.8	Galactosialidosis	OMIM:256540
+12	0.79	Mucopolysaccharidosis, MPS-III-B (Sanfilippo Syndrome B)	OMIM:252920
+13	0.78	Mucopolysaccharidosis, MPS-III-A (Sanfilippo Syndrome A)	OMIM:252900
+14	0.76	Schindler Disease, Type I	OMIM:609241
+15	0.75	Coffin-Lowry Syndrome	OMIM:303600

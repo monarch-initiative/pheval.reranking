@@ -1,0 +1,14 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Osteogenesis imperfecta, type XI	OMIM:610968
+2	0.8	Osteopetrosis, autosomal recessive 1	OMIM:259700
+2	0.8	Van Buchem disease	OMIM:239100
+4	0.75	Osteogenesis imperfecta, type I	OMIM:166200
+4	0.75	Osteogenesis imperfecta, type III	OMIM:259420
+4	0.75	Osteogenesis imperfecta, type IV	OMIM:166220
+7	0.7	Hypophosphatasia, infantile	OMIM:241500
+7	0.7	Osteogenesis imperfecta, type IX	OMIM:259440
+7	0.7	Hypophosphatasia, childhood	OMIM:241510
+7	0.7	Hypophosphatasia, adult	OMIM:146300
+11	0.6	Osteogenesis imperfecta, type XIII	OMIM:614856
+11	0.6	Osteogenesis imperfecta, type II	OMIM:166210
+11	0.6	Cole-Carpenter syndrome 1	OMIM:112240

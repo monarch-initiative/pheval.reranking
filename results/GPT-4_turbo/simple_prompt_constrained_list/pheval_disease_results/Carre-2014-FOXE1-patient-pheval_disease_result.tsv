@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bamforth-Lazarus syndrome	OMIM:241850
+2	0.85	Thyroid dyshormonogenesis 1	OMIM:274400
+3	0.75	Congenital hypothyroidism	OMIM:218700
+4	0.7	Chronic autoimmune thyroiditis	OMIM:140300
+5	0.65	Pendred syndrome	OMIM:274600
+6	0.6	Thyroid hormone resistance	OMIM:188570
+7	0.55	Cleft palate, isolated	OMIM:119530
+8	0.54	Thyroid dyshormonogenesis 2A	OMIM:274500
+9	0.53	Thyroid dyshormonogenesis 2B	OMIM:607200
+10	0.52	Thyroid dyshormonogenesis 3	OMIM:609698
+11	0.51	Thyroid dyshormonogenesis 4	OMIM:274700
+12	0.5	Thyroid dyshormonogenesis 5	OMIM:274800
+13	0.49	Thyroid dyshormonogenesis 6	OMIM:607200
+14	0.48	Cleft palate-lateral synechia syndrome	OMIM:119540
+15	0.47	Kabuki syndrome 1	OMIM:147920

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coffin-Siris Syndrome	OMIM:135900
+2	0.9	Cornelia De Lange Syndrome	OMIM:122470
+3	0.85	Mucopolysaccharidosis Type III	OMIM:252900
+3	0.85	Sanfilippo Syndrome	OMIM:252900
+5	0.82	Multiple Endocrine Neoplasia, Type I	OMIM:131100
+6	0.8	Mulibrey Nanism	OMIM:253250
+6	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+8	0.75	Growth Hormone Insensitivity, Partial	OMIM:262650
+9	0.7	Pyknodysostosis	OMIM:265800
+9	0.7	Rubinstein-Taybi Syndrome	OMIM:180849
+11	0.65	Mucopolysaccharidosis Type I	OMIM:607014
+11	0.65	Rett Syndrome	OMIM:312750
+11	0.65	Mucolipidosis II Alpha/Beta	OMIM:252500
+11	0.65	Seckel Syndrome	OMIM:210600
+15	0.6	Hurler Syndrome	OMIM:607014

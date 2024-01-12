@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.87	22q11.2 deletion syndrome	OMIM:611867
+3	0.85	Kabuki syndrome	OMIM:147920
+4	0.83	Usher syndrome	OMIM:276900
+5	0.81	Williams syndrome	OMIM:194050
+6	0.79	Rubinstein-Taybi syndrome	OMIM:180849
+7	0.77	Trisomy 18	OMIM:247000
+8	0.75	Bardet-Biedl syndrome	OMIM:209900
+9	0.73	Joubert syndrome	OMIM:213300
+10	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+11	0.7	Townes-Brocks syndrome	OMIM:107480
+12	0.68	Alagille syndrome	OMIM:118450
+13	0.66	Smith-Lemli-Opitz syndrome	OMIM:270400
+14	0.64	Stickler syndrome	OMIM:108300
+15	0.62	Cornelia de Lange syndrome	OMIM:122470

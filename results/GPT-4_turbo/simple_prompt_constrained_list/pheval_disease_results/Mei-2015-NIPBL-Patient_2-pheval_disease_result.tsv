@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kabuki syndrome 1	OMIM:147920
+2	0.85	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.82	Coffin-Siris syndrome 1	OMIM:135900
+4	0.8	Mucopolysaccharidosis, MPS-III-D	OMIM:252940
+4	0.8	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.8	Chromosome 1p36 deletion syndrome	OMIM:607872
+7	0.78	Floating-Harbor syndrome	OMIM:136140
+7	0.78	Wiedemann-Steiner syndrome	OMIM:605130
+9	0.75	Pitt-Hopkins syndrome	OMIM:610954
+9	0.75	Smith-Magenis syndrome	OMIM:182290
+9	0.75	Blepharophimosis, ptosis, and epicanthus inversus	OMIM:110100
+12	0.73	Mucopolysaccharidosis, MPS-I-H/S	OMIM:607015
+12	0.73	Nicolaides-Baraitser syndrome	OMIM:601358
+14	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+14	0.7	Sotos syndrome 1	OMIM:117550

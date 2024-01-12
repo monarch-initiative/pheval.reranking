@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Myotonic dystrophy type 1	OMIM:160900
+2	0.85	Charcot-Marie-Tooth disease, type 2A1	OMIM:118210
+3	0.8	Myasthenic syndrome, congenital, 1B, fast-channel	OMIM:608930
+4	0.75	Mitochondrial DNA depletion syndrome 5	OMIM:612073
+5	0.7	Myotonic dystrophy type 2	OMIM:602668
+6	0.65	Neuromuscular disease, congenital, with uniform type 1 fiber	OMIM:117000
+7	0.6	Spinal muscular atrophy, lower extremity-predominant, 2A, autosomal dominant	OMIM:615290
+8	0.55	Myopathy, centronuclear, 1	OMIM:160150
+9	0.5	Spinal muscular atrophy, distal, congenital nonprogressive	OMIM:600175
+10	0.45	Spinal muscular atrophy, lower extremity-predominant, 2B, autosomal dominant	OMIM:616488
+11	0.4	Glycogen storage disease type II	OMIM:232300
+12	0.35	Bethlem myopathy	OMIM:158810
+13	0.3	Oculopharyngeal muscular dystrophy	OMIM:164300
+14	0.25	Charcot-Marie-Tooth disease, type 4A	OMIM:214400
+15	0.2	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	OMIM:167320

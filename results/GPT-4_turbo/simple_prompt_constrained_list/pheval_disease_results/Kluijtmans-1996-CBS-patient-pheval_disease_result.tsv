@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Homocystinuria	OMIM:236200
+3	0.85	Loeys-Dietz Syndrome 1	OMIM:609192
+4	0.8	Weill-Marchesani Syndrome 2, Dominant	OMIM:608328
+5	0.75	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+6	0.7	Beals Syndrome	OMIM:121050
+7	0.65	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.6	Loeys-Dietz Syndrome 2	OMIM:610168
+9	0.55	Ehlers-Danlos Syndrome, Type VI	OMIM:225400
+10	0.5	Congenital Contractural Arachnodactyly	OMIM:121050
+11	0.45	Stiff Skin Syndrome	OMIM:184900
+12	0.4	Fragile X Syndrome	OMIM:300624
+13	0.35	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+14	0.3	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020
+15	0.25	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050

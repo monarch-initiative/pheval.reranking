@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Cohen syndrome	OMIM:216550
+3	0.7	Dubowitz syndrome	OMIM:223370
+4	0.6	Wolf-Hirschhorn syndrome	OMIM:194190
+5	0.5	Mowat-Wilson syndrome	OMIM:235730
+6	0.4	Fragile X Syndrome	OMIM:300624
+7	0.35	Angelman syndrome	OMIM:105830
+8	0.3	Pitt-Hopkins syndrome	OMIM:610954
+9	0.25	Rubinstein-Taybi syndrome 1	OMIM:180849
+10	0.2	Char syndrome	OMIM:169100
+11	0.15	Noonan syndrome	OMIM:163950
+12	0.1	DiGeorge syndrome	OMIM:188400
+13	0.05	CHARGE syndrome	OMIM:214800
+14	0.04	Kabuki syndrome 1	OMIM:147920
+15	0.02	Williams syndrome	OMIM:194050

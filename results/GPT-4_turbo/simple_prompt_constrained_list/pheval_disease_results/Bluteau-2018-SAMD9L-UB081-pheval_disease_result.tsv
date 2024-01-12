@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+2	0.85	Seckel syndrome 1	OMIM:210600
+3	0.8	Cartilage-hair hypoplasia	OMIM:250250
+4	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+5	0.7	Nijmegen breakage syndrome	OMIM:251260
+6	0.65	Fanconi anemia, complementation group C	OMIM:227645
+7	0.6	Schimke immuno-osseous dysplasia	OMIM:242900
+8	0.55	LIG4 syndrome	OMIM:606593
+9	0.5	Poikiloderma with neutropenia	OMIM:604173
+10	0.45	Diamond-Blackfan anemia 1	OMIM:105650
+11	0.4	Congenital disorder of glycosylation, type IIc	OMIM:266265
+12	0.35	Cerebro-oculo-facio-skeletal syndrome	OMIM:214150
+13	0.3	VACTERL association with hydrocephalus	OMIM:276950
+14	0.25	Ataxia-telangiectasia	OMIM:208900
+15	0.2	Roberts syndrome	OMIM:268300

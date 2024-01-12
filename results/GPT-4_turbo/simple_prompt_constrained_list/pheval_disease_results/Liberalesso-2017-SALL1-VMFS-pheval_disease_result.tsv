@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	CHARGE syndrome	OMIM:214800
+2	0.8	Townes-Brocks syndrome	OMIM:107480
+3	0.78	Branchiootorenal spectrum disorders	OMIM:113650
+4	0.77	Cat eye syndrome	OMIM:115470
+5	0.76	22q11.2 deletion syndrome	OMIM:188400
+6	0.75	Noonan syndrome	OMIM:163950
+7	0.74	Wolf-Hirschhorn syndrome	OMIM:194190
+8	0.73	Velocardiofacial syndrome	OMIM:192430
+9	0.72	Williams syndrome	OMIM:194050
+10	0.71	VACTERL association	OMIM:192350
+11	0.7	Cornelia de Lange syndrome	OMIM:122470
+12	0.69	Treacher Collins syndrome	OMIM:154500
+13	0.68	Rubinstein-Taybi syndrome	OMIM:180849
+14	0.67	Kabuki syndrome	OMIM:147920
+15	0.66	Alagille syndrome	OMIM:118450

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.85	Spinal muscular atrophy	OMIM:253300
+3	0.83	Primary lateral sclerosis	OMIM:611637
+4	0.8	Multiple sclerosis	OMIM:126200
+4	0.8	Hereditary spastic paraplegia	OMIM:303350
+6	0.75	Motor neuron disease	OMIM:105400
+7	0.7	Progressive bulbar palsy	OMIM:608630
+7	0.7	Wilson disease	OMIM:277900
+9	0.65	Progressive muscular atrophy	OMIM:607688
+10	0.6	Adult-onset autosomal dominant leukodystrophy	OMIM:169500
+10	0.6	Alexander disease	OMIM:203450
+10	0.6	Perry syndrome	OMIM:168605
+10	0.6	X-linked bulbospinal neuronopathy	OMIM:313700
+14	0.55	Brown-Vialetto-Van Laere syndrome	OMIM:211530
+14	0.55	Fazio-Londe disease	OMIM:211500

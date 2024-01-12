@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.85	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, and Acne	OMIM:604416
+3	0.8	Cyclic Neutropenia	OMIM:162800
+4	0.75	Glycogen Storage Disease Ib	OMIM:232220
+5	0.7	Shwachman-Diamond Syndrome	OMIM:260400
+6	0.65	Chronic Granulomatous Disease	OMIM:306400
+7	0.6	Griscelli Syndrome Type 2	OMIM:607624
+8	0.55	Hyper IgE Syndrome	OMIM:147060
+9	0.5	Papillon-Lefevre Syndrome	OMIM:245000
+10	0.45	Chediak-Higashi Syndrome	OMIM:214500
+11	0.4	Leukocyte Adhesion Deficiency, Type III	OMIM:612840
+12	0.35	Myelokathexis	OMIM:202400
+13	0.3	Job Syndrome	OMIM:147060
+14	0.25	Rac2 Deficiency	OMIM:608203
+15	0.2	Severe Congenital Neutropenia	OMIM:202700

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrome	OMIM:610954
+2	0.85	CHARGE syndrome	OMIM:214800
+3	0.8	Mowat-Wilson syndrome	OMIM:235730
+4	0.75	Kabuki syndrome	OMIM:147920
+5	0.7	Cornelia de Lange syndrome	OMIM:122470
+6	0.65	Coffin-Siris syndrome	OMIM:135900
+7	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.55	22q11.2 deletion syndrome	OMIM:188400
+9	0.5	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.45	Wolf-Hirschhorn syndrome	OMIM:194190
+11	0.4	Bardet-Biedl syndrome	OMIM:209900
+12	0.35	Prader-Willi syndrome	OMIM:176270
+13	0.3	Treacher Collins syndrome	OMIM:154500
+14	0.25	Noonan syndrome	OMIM:163950
+15	0.2	Smith-Lemli-Opitz syndrome	OMIM:270400

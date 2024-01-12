@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Alopecia universalis	OMIM:216100
+2	0.8	Anhidrotic ectodermal dysplasia	OMIM:224900
+2	0.8	Ectodermal dysplasia, hypohidrotic, autosomal recessive	OMIM:244200
+4	0.75	Dyskeratosis congenita	OMIM:305000
+5	0.7	Trachonychia	OMIM:275600
+5	0.7	Hidrotic ectodermal dysplasia	OMIM:129500
+7	0.65	Pachyonychia congenita	OMIM:167200
+7	0.65	Ectodermal dysplasia-syndactyly syndrome	OMIM:613573
+7	0.65	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency, autosomal dominant	OMIM:612132
+10	0.6	Schopf-Schulz-Passarge syndrome	OMIM:224750
+10	0.6	Cartilage-hair hypoplasia	OMIM:250250
+10	0.6	Ectodermal dysplasia, ectrodactyly, and macular dystrophy syndrome	OMIM:225280
+10	0.6	Odonto-onycho-dermal dysplasia	OMIM:257980
+14	0.55	Ectodermal dysplasia, hypohidrotic, with immune deficiency	OMIM:300291
+14	0.55	Nail-patella syndrome	OMIM:161200

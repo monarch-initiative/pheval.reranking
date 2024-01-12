@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Angelman Syndrome	OMIM:105830
+2	0.85	Rett Syndrome	OMIM:312750
+2	0.85	CDKL5 Deficiency Disorder	OMIM:300672
+4	0.8	Pitt-Hopkins Syndrome	OMIM:610954
+4	0.8	Mowat-Wilson Syndrome	OMIM:235730
+4	0.8	MECP2 Duplication Syndrome	OMIM:300260
+4	0.8	Prader-Willi Syndrome	OMIM:176270
+8	0.75	Fragile X Syndrome	OMIM:300624
+9	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.7	2q23.1 Microdeletion Syndrome	OMIM:156200
+9	0.7	15q13.3 Microdeletion Syndrome	OMIM:612001
+9	0.7	Koolen-De Vries Syndrome	OMIM:610443
+9	0.7	Coffin-Siris Syndrome	OMIM:135900
+9	0.7	Kleefstra Syndrome	OMIM:610253
+9	0.7	Dravet Syndrome	OMIM:607208

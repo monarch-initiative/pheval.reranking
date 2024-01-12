@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.88	Loeys-Dietz syndrome, type 1	OMIM:609192
+2	0.88	Loeys-Dietz syndrome, type 2	OMIM:608967
+4	0.85	Cutis laxa, autosomal recessive, type IIA	OMIM:219200
+5	0.82	Beals syndrome	OMIM:121050
+6	0.8	Shprintzen-Goldberg syndrome	OMIM:182212
+7	0.79	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+8	0.75	Homocystinuria	OMIM:236200
+9	0.7	Stickler syndrome, type I, nonocular form	OMIM:108300
+9	0.7	Congenital contractural arachnodactyly	OMIM:121050
+11	0.69	Noonan syndrome 1	OMIM:163950
+12	0.66	Coffin-Lowry syndrome	OMIM:303600
+13	0.65	LEOPARD syndrome 1	OMIM:151100
+13	0.65	Filaminopathy, X-linked, periventricular nodular heterotopia	OMIM:300049
+15	0.6	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400

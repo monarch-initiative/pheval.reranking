@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Homocystinuria	OMIM:236200
+3	0.85	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.85	Loeys-Dietz Syndrome 2	OMIM:610168
+5	0.8	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.75	Loeys-Dietz Syndrome 3	OMIM:613795
+7	0.7	Fibrillinopathy	OMIM:601553
+8	0.65	Stickler Syndrome	OMIM:108300
+8	0.65	Loeys-Dietz Syndrome 4	OMIM:614816
+10	0.6	Loeys-Dietz Syndrome 5	OMIM:615582
+11	0.55	Weill-Marchesani Syndrome 2, Autosomal Dominant	OMIM:608328
+12	0.5	Shprintzen-Goldberg Syndrome	OMIM:182212
+13	0.45	Arachnodactyly	OMIM:102370
+14	0.4	Ectopia Lentis, Isolated, Autosomal Dominant	OMIM:129600
+15	0.35	Beals Syndrome	OMIM:121050

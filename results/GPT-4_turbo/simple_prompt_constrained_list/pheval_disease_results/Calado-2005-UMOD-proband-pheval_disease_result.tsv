@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Familial juvenile hyperuricemic nephropathy type 2	OMIM:613092
+2	0.85	Hypertension, early-onset, autosomal dominant, with severe exacerbation in pregnancy	OMIM:605115
+2	0.85	Uromodulin-associated kidney disease	OMIM:609886
+4	0.8	Polycystic kidney disease 1	OMIM:173900
+5	0.75	Gout, susceptibility to, 1	OMIM:138900
+5	0.75	Tubulointerstitial kidney disease, autosomal dominant	OMIM:162000
+7	0.7	Renal cysts and diabetes syndrome	OMIM:137920
+7	0.7	Polycystic kidney disease 2	OMIM:613095
+9	0.65	Autosomal dominant tubulointerstitial kidney disease due to REN mutations	OMIM:613092
+10	0.6	Glycogen storage disease type I	OMIM:232200
+11	0.55	Fabry disease	OMIM:301500
+12	0.5	Medullary cystic kidney disease 1	OMIM:174000
+12	0.5	Liddle syndrome	OMIM:177200
+14	0.45	Alport syndrome, X-linked	OMIM:301050
+15	0.4	Bartter syndrome, type 3	OMIM:607364

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Charcot-Marie-Tooth disease, type 4J	OMIM:611228
+2	0.83	Autosomal recessive cerebellar ataxia, Beauce type	OMIM:117360
+3	0.82	Refsum disease, infantile form	OMIM:266510
+4	0.81	Arts syndrome	OMIM:301835
+5	0.8	Autosomal recessive spastic ataxia with leukoencephalopathy	OMIM:611603
+6	0.79	Spastic ataxia 7	OMIM:609270
+7	0.78	Gillespie syndrome	OMIM:206700
+8	0.77	Hypomyelination and congenital cataract	OMIM:610532
+9	0.76	X-linked sideroblastic anemia with ataxia	OMIM:301310
+10	0.75	Marinesco-Sjögren syndrome	OMIM:248800
+11	0.74	Behr syndrome	OMIM:210000
+12	0.73	Wolfram-like syndrome, autosomal dominant	OMIM:614296
+13	0.72	Autosomal recessive cerebellar ataxia type 1	OMIM:601111
+14	0.71	Combined oxidative phosphorylation deficiency 1	OMIM:609060
+15	0.7	Cerebral palsy, spastic quadriplegic, 1	OMIM:603513

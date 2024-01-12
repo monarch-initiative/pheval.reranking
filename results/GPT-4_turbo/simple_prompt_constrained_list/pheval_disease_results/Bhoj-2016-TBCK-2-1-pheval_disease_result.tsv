@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.83	Lissencephaly	OMIM:607432
+3	0.78	Mucopolysaccharidosis Type I	OMIM:607014
+4	0.76	Leigh Syndrome	OMIM:256000
+5	0.74	Rett Syndrome	OMIM:312750
+6	0.73	Canavan Disease	OMIM:271900
+7	0.71	Vanishing White Matter Disease	OMIM:603896
+8	0.69	Alexander Disease	OMIM:203450
+9	0.67	Aicardi-Goutieres Syndrome	OMIM:225750
+10	0.66	D-Bifunctional Protein Deficiency	OMIM:261515
+11	0.64	Megalencephalic Leukoencephalopathy with Subcortical Cysts	OMIM:604004
+12	0.62	Krabbe Disease	OMIM:245200
+13	0.61	Zellweger Syndrome	OMIM:214100
+14	0.6	Cockayne Syndrome	OMIM:133540
+15	0.58	Metachromatic Leukodystrophy	OMIM:250100

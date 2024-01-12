@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Deafness, autosomal recessive 1A	OMIM:220290
+2	0.9	Usher syndrome, type 1B	OMIM:276900
+3	0.85	Pendred syndrome	OMIM:274600
+4	0.8	Branchiootorenal syndrome 1	OMIM:113650
+4	0.8	Waardenburg syndrome, type 1	OMIM:193500
+4	0.8	Waardenburg syndrome, type 2A	OMIM:193510
+4	0.8	Waardenburg syndrome, type 3	OMIM:148820
+4	0.8	Waardenburg syndrome, type 4A	OMIM:277580
+9	0.75	Bardet-Biedl syndrome 1	OMIM:209900
+9	0.75	Jervell and Lange-Nielsen syndrome	OMIM:220400
+11	0.7	Alport syndrome, X-linked	OMIM:301050
+11	0.7	Alport syndrome, autosomal recessive	OMIM:203780
+13	0.65	Stickler syndrome, type 1	OMIM:108300
+13	0.65	Stickler syndrome, type 2	OMIM:604841
+13	0.65	Stickler syndrome, type 3	OMIM:184840

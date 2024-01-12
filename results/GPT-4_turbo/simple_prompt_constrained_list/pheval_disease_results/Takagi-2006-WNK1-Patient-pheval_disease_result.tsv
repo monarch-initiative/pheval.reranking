@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Charcot-Marie-Tooth disease type 1A	OMIM:118220
+2	0.84	Charcot-Marie-Tooth disease, demyelinating, type 1B	OMIM:118200
+3	0.83	Charcot-Marie-Tooth disease type 4J	OMIM:611228
+4	0.8	Hereditary sensory and autonomic neuropathy type IE	OMIM:614116
+4	0.8	Charcot-Marie-Tooth disease, type 2E	OMIM:607684
+6	0.78	Hereditary sensory and autonomic neuropathy type IIC	OMIM:613115
+6	0.78	Hereditary motor and sensory neuropathy with agenesis of the corpus callosum	OMIM:218000
+8	0.77	Hereditary sensory neuropathy type IE	OMIM:614116
+9	0.76	Hereditary sensory and autonomic neuropathy type IV	OMIM:256800
+9	0.76	Dejerine-Sottas syndrome	OMIM:145900
+11	0.75	Familial dysautonomia	OMIM:223900
+12	0.74	Congenital insensitivity to pain with anhidrosis	OMIM:256800
+13	0.73	Chronic inflammatory demyelinating polyneuropathy	OMIM:139393
+14	0.72	POEMS syndrome	OMIM:131440
+15	0.71	Hereditary sensory and autonomic neuropathy type I	OMIM:162400

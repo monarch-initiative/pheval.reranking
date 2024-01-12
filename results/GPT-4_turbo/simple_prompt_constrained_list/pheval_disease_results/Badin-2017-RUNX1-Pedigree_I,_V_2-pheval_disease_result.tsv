@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Acute Myeloid Leukemia	OMIM:601626
+2	0.9	Paris-Trousseau Thrombocytopenia	OMIM:188025
+3	0.8	Gray Platelet Syndrome	OMIM:139090
+4	0.7	Hermansky-Pudlak Syndrome	OMIM:203300
+5	0.6	Chediak-Higashi Syndrome	OMIM:214500
+6	0.5	Wiskott-Aldrich Syndrome	OMIM:301000
+7	0.4	Glanzmann Thrombasthenia	OMIM:273800
+8	0.3	Storage Pool Deficiency	OMIM:SPD
+9	0.2	MYH9-Related Disorders	OMIM:160775
+10	0.1	von Willebrand Disease	OMIM:193400

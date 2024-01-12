@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome Type B	OMIM:133540
+2	0.8	Cockayne Syndrome Type A	OMIM:216400
+3	0.75	Wolfram Syndrome 1	OMIM:222300
+4	0.7	Hallermann-Streiff Syndrome	OMIM:234100
+5	0.65	Nance-Horan Syndrome	OMIM:302350
+6	0.6	Seckel Syndrome 1	OMIM:210600
+7	0.55	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+8	0.5	Rubinstein-Taybi Syndrome 1	OMIM:180849
+9	0.45	Smith-Lemli-Opitz Syndrome	OMIM:270400
+10	0.4	Laron Syndrome	OMIM:262500
+11	0.35	Cornelia De Lange Syndrome 1	OMIM:122470
+12	0.3	Progeria	OMIM:176670
+13	0.25	Ataxia-Telangiectasia	OMIM:208900
+14	0.2	Stickler Syndrome Type I	OMIM:108300
+15	0.15	Marshall Syndrome	OMIM:154780

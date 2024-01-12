@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schimke Immunoosseous Dysplasia	OMIM:242900
+2	0.8	Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies	OMIM:616801
+2	0.8	Cohen Syndrome	OMIM:216550
+4	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic Form	OMIM:225400
+4	0.7	Mulibrey Nanism	OMIM:253250
+6	0.6	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+6	0.6	Cholesterol Ester Storage Disease	OMIM:278000
+6	0.6	Marfan Syndrome	OMIM:154700
+6	0.6	Loeys-Dietz Syndrome 1	OMIM:609192
+10	0.5	Mucopolysaccharidosis Type VI	OMIM:253200
+10	0.5	Noonan Syndrome 1	OMIM:163950
+10	0.5	Spinal Muscular Atrophy	OMIM:253300
+10	0.5	Spondylometaphyseal Dysplasia, Sedaghatian Type	OMIM:250220
+10	0.5	Stuve-Wiedemann Syndrome	OMIM:601559
+15	0.4	3-Methylglutaconic Aciduria Type III	OMIM:250950

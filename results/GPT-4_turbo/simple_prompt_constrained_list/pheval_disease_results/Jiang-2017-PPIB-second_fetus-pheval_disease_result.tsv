@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypophosphatasia, infantile	OMIM:241500
+2	0.9	Thanatophoric Dysplasia, Type I	OMIM:187600
+3	0.85	Osteogenesis Imperfecta, Type II	OMIM:166210
+4	0.8	Campomelic Dysplasia	OMIM:114290
+5	0.75	Achondrogenesis, Type II or Hypochondrogenesis	OMIM:200610
+6	0.7	Diastrophic Dysplasia	OMIM:222600
+7	0.65	Ellis-van Creveld Syndrome	OMIM:225500
+8	0.6	Achondroplasia	OMIM:100800
+9	0.55	Pseudoachondroplasia	OMIM:177170
+10	0.5	Metatropic Dysplasia	OMIM:156530
+11	0.45	Schmid Metaphyseal Chondrodysplasia	OMIM:156500
+12	0.4	Hypochondroplasia	OMIM:146000
+13	0.35	Multiple Epiphyseal Dysplasia	OMIM:132400
+14	0.3	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+15	0.25	Asphyxiating Thoracic Dysplasia	OMIM:208500

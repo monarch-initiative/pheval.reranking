@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Palmoplantar keratoderma, punctate type IA	OMIM:148600
+2	0.85	White sponge nevus 1	OMIM:193900
+2	0.85	Pachyonychia congenita 1	OMIM:167200
+2	0.85	Pachyonychia congenita 2	OMIM:167210
+5	0.8	Hidrotic ectodermal dysplasia 2, Clouston type	OMIM:129500
+5	0.8	Odontoonychodermal dysplasia	OMIM:257980
+5	0.8	Schopf-Schulz-Passarge syndrome	OMIM:224750
+8	0.75	Palmoplantar keratoderma and woolly hair	OMIM:148080
+8	0.75	Ellis-van Creveld syndrome	OMIM:225500
+10	0.7	Papillon-Lefevre syndrome	OMIM:245000
+10	0.7	Haim-Munk syndrome	OMIM:245010
+12	0.65	Trichothiodystrophy photosensitive	OMIM:601675
+12	0.65	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+12	0.65	Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+15	0.6	Steatocystoma multiplex	OMIM:184500

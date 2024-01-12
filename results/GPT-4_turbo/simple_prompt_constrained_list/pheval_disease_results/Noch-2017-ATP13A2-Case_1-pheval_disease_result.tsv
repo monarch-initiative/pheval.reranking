@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease 8, autosomal dominant	OMIM:607060
+2	0.8	Dystonia 12	OMIM:128235
+2	0.8	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+4	0.75	Leigh syndrome, French Canadian type	OMIM:220111
+5	0.7	Mitochondrial complex III deficiency, nuclear type 4	OMIM:615157
+6	0.65	Dihydropyrimidine dehydrogenase deficiency	OMIM:274270
+6	0.65	Neurodegeneration with brain iron accumulation 2B	OMIM:618280
+8	0.6	Cerebellar ataxia, Cayman type	OMIM:601238
+8	0.6	Perry syndrome	OMIM:168605
+10	0.55	Niemann-Pick disease type C2	OMIM:607625
+11	0.5	Kufor-Rakeb syndrome	OMIM:606693
+11	0.5	3-methylglutaconic aciduria type III	OMIM:258501
+13	0.45	Beta-propeller protein-associated neurodegeneration	OMIM:615643
+14	0.4	Tourette Syndrome	OMIM:137580
+15	0.35	Autosomal recessive cutis laxa type 2B	OMIM:612940

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lambert-Eaton myasthenic syndrome	OMIM:601462
+2	0.8	Multiple system atrophy	OMIM:146500
+3	0.75	Familial dysautonomia	OMIM:223900
+4	0.7	Congenital myasthenic syndrome	OMIM:601462
+5	0.65	Isaacs' syndrome	OMIM:145500
+6	0.6	Myasthenia gravis	OMIM:254200
+7	0.55	Riley-Day syndrome	OMIM:223900
+8	0.5	Primary orthostatic tremor	OMIM:607002
+9	0.45	Autosomal dominant cutis laxa	OMIM:123700
+10	0.4	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	OMIM:614369
+11	0.35	Dejerine-Sottas Syndrome	OMIM:145900
+12	0.3	Hereditary sensory and autonomic neuropathy type II	OMIM:201300
+13	0.25	Charcot-Marie-Tooth disease	OMIM:118200
+14	0.2	Distal hereditary motor neuropathy, type V	OMIM:600794
+15	0.15	Schwartz-Jampel syndrome	OMIM:255800

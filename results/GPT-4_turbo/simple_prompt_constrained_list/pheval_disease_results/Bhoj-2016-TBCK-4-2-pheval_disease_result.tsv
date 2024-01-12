@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.85	Angelman syndrome	OMIM:105830
+2	0.85	Prader-Willi syndrome	OMIM:176270
+4	0.8	Spinal muscular atrophy	OMIM:253300
+4	0.8	Down syndrome	OMIM:190685
+6	0.75	Rett syndrome	OMIM:312750
+6	0.75	Fragile X syndrome	OMIM:300624
+6	0.75	Smith-Magenis syndrome	OMIM:182290
+9	0.7	Duchenne muscular dystrophy	OMIM:310200
+9	0.7	Beckwith-Wiedemann syndrome	OMIM:130650
+9	0.7	Charcot-Marie-Tooth disease	OMIM:118220
+12	0.65	Kabuki syndrome	OMIM:147920
+12	0.65	Noonan syndrome	OMIM:163950
+12	0.65	Williams syndrome	OMIM:194050
+12	0.65	Zellweger syndrome	OMIM:214100

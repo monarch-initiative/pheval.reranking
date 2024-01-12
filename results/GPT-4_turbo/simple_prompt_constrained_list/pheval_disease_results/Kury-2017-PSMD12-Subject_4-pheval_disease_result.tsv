@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Opitz G/BBB Syndrome	OMIM:300000
+2	0.82	Aarskog-Scott Syndrome	OMIM:305400
+3	0.79	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.75	Kabuki Syndrome	OMIM:147920
+5	0.72	Noonan Syndrome 1	OMIM:163950
+6	0.7	CHARGE Syndrome	OMIM:214800
+7	0.68	22q11.2 Deletion Syndrome	OMIM:188400
+8	0.66	Prader-Willi Syndrome	OMIM:176270
+9	0.64	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.63	Velocardiofacial Syndrome	OMIM:192430
+11	0.61	Lujan-Fryns Syndrome	OMIM:309520
+12	0.6	Mowat-Wilson Syndrome	OMIM:235730
+13	0.58	Cohen Syndrome	OMIM:216550
+14	0.56	Pitt-Hopkins Syndrome	OMIM:610954
+15	0.55	Cornelia De Lange Syndrome 1	OMIM:122470

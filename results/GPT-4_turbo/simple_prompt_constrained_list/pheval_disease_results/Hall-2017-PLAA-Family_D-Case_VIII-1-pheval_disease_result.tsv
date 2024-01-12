@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Coffin-Siris Syndrome 5	OMIM:616634
+2	0.84	Coffin-Siris Syndrome 3	OMIM:614608
+3	0.82	Neurodevelopmental Disorder with Seizures and Nonepileptic Hyperkinetic Movements	OMIM:618721
+4	0.81	Ohdo Syndrome, SAY-Barber-Biesecker Variant	OMIM:603736
+4	0.81	Coffin-Siris Syndrome 2	OMIM:614607
+6	0.8	Coffin-Siris Syndrome 1	OMIM:135900
+7	0.75	Coffin-Siris Syndrome 4	OMIM:614609
+8	0.74	Bohring-Opitz Syndrome	OMIM:605039
+9	0.73	Mowat-Wilson Syndrome	OMIM:235730
+10	0.71	Coffin-Siris Syndrome 8	OMIM:618362
+11	0.69	Birk-Barel Intellectual Disability Dysmorphism Syndrome	OMIM:612292
+12	0.68	Nicolaides-Baraitser Syndrome	OMIM:601358
+13	0.66	Blepharophimosis, Ptosis, and Epicanthus Inversus	OMIM:110100
+14	0.65	Cornelia de Lange Syndrome 1	OMIM:122470
+15	0.64	Rubinstein-Taybi Syndrome 1	OMIM:180849

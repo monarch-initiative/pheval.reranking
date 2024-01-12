@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Cohen Syndrome	OMIM:216550
+2	0.84	Mabry Syndrome	OMIM:239300
+3	0.82	Cerebrooculofacioskeletal Syndrome 4	OMIM:616570
+4	0.81	Micro Syndrome	OMIM:600118
+5	0.79	Mirage Syndrome	OMIM:617053
+6	0.77	3MC Syndrome	OMIM:257920
+7	0.76	Borjeson-Forssman-Lehmann Syndrome	OMIM:301900
+8	0.75	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.73	Bohring-Opitz Syndrome	OMIM:605039
+10	0.72	Carbohydrate-Deficient Glycoprotein Syndrome Type II	OMIM:212066
+11	0.71	Pitt-Hopkins Syndrome	OMIM:610954
+12	0.7	Lujan Syndrome	OMIM:309520
+13	0.68	Marshall-Smith Syndrome	OMIM:602535
+14	0.67	Gorlin Syndrome	OMIM:109400
+15	0.65	Rubinstein-Taybi Syndrome	OMIM:180849

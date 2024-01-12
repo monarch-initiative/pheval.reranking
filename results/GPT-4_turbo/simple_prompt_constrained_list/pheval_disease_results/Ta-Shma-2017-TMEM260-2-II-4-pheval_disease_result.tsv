@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge Syndrome	OMIM:188400
+2	0.85	Holt-Oram Syndrome	OMIM:142900
+3	0.82	Ellis-Van Creveld Syndrome	OMIM:225500
+3	0.82	Noonan Syndrome 1	OMIM:163950
+5	0.81	Cardiofaciocutaneous Syndrome	OMIM:115150
+5	0.81	LEOPARD Syndrome 1	OMIM:151100
+7	0.8	Costello Syndrome	OMIM:218040
+8	0.78	Williams Syndrome	OMIM:194050
+8	0.78	Alagille Syndrome 1	OMIM:118450
+10	0.77	Tetralogy Of Fallot	OMIM:187500
+11	0.76	CHARGE Syndrome	OMIM:214800
+11	0.76	Truncus Arteriosus, Persistent	OMIM:217095
+13	0.75	VACTERL Association	OMIM:192350
+13	0.75	Turner Syndrome	OMIM:300400
+15	0.74	22q11.2 Deletion Syndrome	OMIM:611867

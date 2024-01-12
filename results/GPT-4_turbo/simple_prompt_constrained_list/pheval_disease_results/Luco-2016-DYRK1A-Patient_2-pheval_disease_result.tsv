@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Rett syndrome	OMIM:312750
+2	0.85	Angelman syndrome	OMIM:105830
+3	0.8	Prader-Willi syndrome	OMIM:176270
+4	0.75	Fragile X syndrome	OMIM:300624
+5	0.7	22q13.3 deletion syndrome	OMIM:606232
+6	0.68	Coffin-Siris syndrome	OMIM:135900
+7	0.67	Smith-Magenis syndrome	OMIM:182290
+8	0.65	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.64	Kleefstra syndrome	OMIM:610253
+10	0.63	Cornelia de Lange syndrome	OMIM:122470
+11	0.62	Williams syndrome	OMIM:194050
+12	0.6	Wolf-Hirschhorn syndrome	OMIM:194190
+13	0.58	MECP2 duplication syndrome	OMIM:300260
+14	0.57	Pitt-Hopkins syndrome	OMIM:610954
+15	0.55	2q37 deletion syndrome	OMIM:600803

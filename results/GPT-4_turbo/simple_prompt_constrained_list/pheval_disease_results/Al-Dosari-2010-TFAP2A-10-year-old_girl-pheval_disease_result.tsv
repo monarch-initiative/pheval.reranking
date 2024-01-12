@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfanoid habitus with situs inversus	OMIM:617480
+2	0.8	Congenital disorder of glycosylation, type Ioo	OMIM:300884
+2	0.8	Hypomyelination and congenital cataract	OMIM:610532
+2	0.8	Neurodevelopmental disorder with cataracts, poor growth, and dysmorphic facies	OMIM:619155
+5	0.7	Noonan syndrome 1	OMIM:163950
+5	0.7	Borjeson-Forssman-Lehmann syndrome	OMIM:301900
+7	0.6	Marfan syndrome	OMIM:154700
+7	0.6	Laron syndrome	OMIM:262500
+7	0.6	Ellis-van Creveld syndrome	OMIM:225500
+7	0.6	Short stature, onychodysplasia, facial dysmorphism, and hypotrichosis syndrome	OMIM:614800
+11	0.5	LEOPARD syndrome 1	OMIM:151100
+11	0.5	Albinism-deafness syndrome	OMIM:300700
+11	0.5	Coffin-Siris syndrome	OMIM:135900
+11	0.5	X-linked intellectual disability, syndromic, Claes-Jensen type	OMIM:300534
+11	0.5	X-linked intellectual disability, syndromic 35	OMIM:300966

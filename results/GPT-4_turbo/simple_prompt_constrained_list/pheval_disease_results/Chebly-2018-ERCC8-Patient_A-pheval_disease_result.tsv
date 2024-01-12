@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cockayne Syndrome B	OMIM:133540
+2	0.85	Cockayne Syndrome A	OMIM:216400
+3	0.8	Trichothiodystrophy Photosensitive	OMIM:601675
+4	0.75	Microcephalic Osteodysplastic Primordial Dwarfism Type II	OMIM:210720
+5	0.7	Bloom Syndrome	OMIM:210900
+6	0.65	Rothmund-Thomson Syndrome	OMIM:268400
+7	0.6	Xeroderma Pigmentosum, Group C	OMIM:278720
+8	0.58	Xeroderma Pigmentosum, Group A	OMIM:278700
+9	0.56	Xeroderma Pigmentosum, Group D	OMIM:278730
+10	0.54	Perrault Syndrome	OMIM:233400
+11	0.52	Seckel Syndrome	OMIM:210600
+12	0.5	Werner Syndrome	OMIM:277700
+13	0.48	Mulibrey Nanism	OMIM:253250
+14	0.45	Cerebrooculofacioskeletal Syndrome 4	OMIM:610758
+15	0.43	Mandibuloacral Dysplasia with Type A Lipodystrophy	OMIM:248370

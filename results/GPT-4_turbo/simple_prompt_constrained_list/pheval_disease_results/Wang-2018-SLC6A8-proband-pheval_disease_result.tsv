@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Creatine deficiency syndrome, X-linked	OMIM:300352
+2	0.85	AUTISM, SUSCEPTIBILITY TO, 18	OMIM:615032
+3	0.8	AUTISM, SUSCEPTIBILITY TO, X-LINKED 3	OMIM:300496
+4	0.75	GLUT1 deficiency syndrome 2	OMIM:612126
+5	0.7	Mental retardation, X-linked, syndromic 13	OMIM:300055
+6	0.65	MECP2 duplication syndrome	OMIM:300260
+7	0.6	Rett syndrome, atypical	OMIM:312750
+8	0.55	Mowat-Wilson syndrome	OMIM:235730
+9	0.5	Shuddering attacks	OMIM:607271
+10	0.45	Mitochondrial complex I deficiency, nuclear type 1	OMIM:252010
+11	0.4	Epileptic encephalopathy, early infantile, 2	OMIM:300672
+12	0.35	Epileptic encephalopathy, early infantile, 9	OMIM:300088
+13	0.3	Epileptic encephalopathy, early infantile, 12	OMIM:300386
+14	0.25	Epileptic encephalopathy, early infantile, 28	OMIM:616211
+15	0.2	Cerebral creatine deficiency syndrome 1	OMIM:300352

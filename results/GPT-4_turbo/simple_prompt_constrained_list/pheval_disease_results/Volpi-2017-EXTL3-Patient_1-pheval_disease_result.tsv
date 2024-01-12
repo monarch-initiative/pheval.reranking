@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spondyloepimetaphyseal Dysplasia with Joint Laxity	OMIM:603546
+2	0.85	Gaucher Disease, Perinatal Lethal	OMIM:608013
+3	0.8	Greenberg Dysplasia	OMIM:215140
+3	0.8	Stuve-Wiedemann Syndrome	OMIM:601559
+5	0.75	Desbuquois Dysplasia 1	OMIM:251450
+5	0.75	Pena Shokeir Syndrome Type 1	OMIM:208150
+7	0.7	Geleophysic Dysplasia 2	OMIM:614185
+7	0.7	Osteogenesis Imperfecta, Type III	OMIM:259420
+7	0.7	Kniest Dysplasia	OMIM:156550
+7	0.7	Metatropic Dysplasia	OMIM:156530
+7	0.7	Short-Rib Thoracic Dysplasia 4 with or without Polydactyly	OMIM:613819
+12	0.65	Schwartz-Jampel Syndrome, Type 1	OMIM:255800
+12	0.65	Bruck Syndrome 2	OMIM:609220
+14	0.6	Atelosteogenesis Type II	OMIM:256050
+14	0.6	Asphyxiating Thoracic Dysplasia 1	OMIM:208500

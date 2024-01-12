@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Alagille Syndrome 1	OMIM:118450
+2	0.8	Noonan Syndrome 1	OMIM:163950
+2	0.8	Noonan Syndrome 3	OMIM:609942
+4	0.75	CFC Syndrome	OMIM:115150
+5	0.7	Short-Rib Thoracic Dysplasia 3 with or without Polydactyly	OMIM:613091
+5	0.7	Cranioectodermal Dysplasia 1	OMIM:218330
+5	0.7	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+8	0.6	Metachromatic Leukodystrophy	OMIM:250100
+8	0.6	Spondylocarpotarsal Synostosis Syndrome	OMIM:272460
+8	0.6	Mucopolysaccharidosis Type II	OMIM:309900
+8	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+12	0.5	Pelger-Huet Anomaly	OMIM:169400
+12	0.5	Geleophysic Dysplasia 1	OMIM:231050
+12	0.5	Marfan Syndrome	OMIM:154700
+12	0.5	Ellis-van Creveld Syndrome	OMIM:225500

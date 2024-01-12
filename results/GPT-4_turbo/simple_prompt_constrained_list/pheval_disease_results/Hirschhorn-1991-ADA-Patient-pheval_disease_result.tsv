@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, Nk Cell-Positive	OMIM:615389
+2	0.9	Immunodeficiency 21	OMIM:615617
+3	0.85	Immunodeficiency 31C	OMIM:614162
+4	0.8	Immunodeficiency 16	OMIM:615593
+4	0.8	T-B+ Severe Combined Immunodeficiency	OMIM:608971
+6	0.75	Omenn Syndrome	OMIM:603554
+7	0.7	Severe Combined Immunodeficiency, X-Linked	OMIM:300400
+8	0.65	Ataxia-Telangiectasia	OMIM:208900
+9	0.6	Immunodeficiency, Common Variable, 1	OMIM:607594
+10	0.55	Nijmegen Breakage Syndrome	OMIM:251260
+11	0.5	Hyper-IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+12	0.45	Whim Syndrome	OMIM:193670
+13	0.4	Wiskott-Aldrich Syndrome	OMIM:301000
+14	0.35	Combined Immunodeficiency with Faciocutaneoskeletal Anomalies	OMIM:617744
+15	0.3	Lymphoproliferative Syndrome, X-Linked, 1	OMIM:308240

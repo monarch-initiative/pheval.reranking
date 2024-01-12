@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Hypophosphatasia	OMIM:241500
+2	0.7	Pseudohypoparathyroidism	OMIM:103580
+3	0.6	Multiple Epiphyseal Dysplasia	OMIM:132400
+3	0.6	Chondrodysplasia Punctata	OMIM:302950
+5	0.5	Pseudoachondroplasia	OMIM:177170
+5	0.5	Achondroplasia	OMIM:100800
+5	0.5	Achondrogenesis	OMIM:200600
+8	0.4	Hypochondroplasia	OMIM:146000
+8	0.4	Thanatophoric Dysplasia	OMIM:187600
+10	0.3	Diastrophic Dysplasia	OMIM:222600
+10	0.3	Cleidocranial Dysostosis	OMIM:119600
+10	0.3	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+10	0.3	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+14	0.2	Ellis-van Creveld Syndrome	OMIM:225500
+14	0.2	Smith-McCort Dysplasia	OMIM:607326

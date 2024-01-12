@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Neurofibromatosis, Type 1	OMIM:162200
+2	0.7	McCune-Albright syndrome	OMIM:174800
+3	0.6	Mucopolysaccharidosis type III	OMIM:252600
+3	0.6	Rubinstein-Taybi syndrome	OMIM:180849
+5	0.5	Apert syndrome	OMIM:101200
+5	0.5	Saethre-Chotzen syndrome	OMIM:101400
+7	0.4	Craniofrontonasal dysplasia	OMIM:304110
+7	0.4	Crouzon syndrome	OMIM:123500
+7	0.4	Pfeiffer syndrome	OMIM:101600
+7	0.4	Legius syndrome	OMIM:611431
+7	0.4	Muenke syndrome	OMIM:602849
+7	0.4	Treacher Collins syndrome	OMIM:154500
+13	0.3	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+13	0.3	Waardenburg syndrome	OMIM:193500
+13	0.3	Jackson-Weiss syndrome	OMIM:123150

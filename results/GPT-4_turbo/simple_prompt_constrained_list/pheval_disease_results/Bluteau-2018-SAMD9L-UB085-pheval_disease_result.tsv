@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dyskeratosis congenita, autosomal dominant 1	OMIM:127550
+1	0.9	Dyskeratosis congenita, autosomal recessive 3	OMIM:613988
+1	0.9	Dyskeratosis congenita, autosomal dominant 3	OMIM:613990
+1	0.9	Coats plus syndrome	OMIM:612199
+5	0.89	Revesz syndrome	OMIM:268130
+5	0.89	Cerebroretinal microangiopathy with calcifications and cysts	OMIM:612199
+7	0.88	Seckel syndrome 1	OMIM:210600
+8	0.85	Ataxia-telangiectasia	OMIM:208900
+8	0.85	Hoyeraal-Hreidarsson syndrome	OMIM:300240
+10	0.84	Ataxia-pancytopenia syndrome	OMIM:159550
+11	0.83	Nijmegen breakage syndrome	OMIM:251260
+12	0.82	Cockayne syndrome type A	OMIM:216400
+12	0.82	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:607250
+12	0.82	Telomere-related pulmonary fibrosis and/or emphysema	OMIM:614742
+15	0.81	Werner syndrome	OMIM:277700

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Jeune syndrome	OMIM:208500
+2	0.85	Meckel syndrome	OMIM:249000
+3	0.8	Short rib-polydactyly syndrome	OMIM:263520
+4	0.75	Ellis-van Creveld syndrome	OMIM:225500
+5	0.7	Cleidocranial dysplasia	OMIM:119600
+6	0.65	Oral-facial-digital syndrome	OMIM:311200
+7	0.6	Crouzon syndrome	OMIM:123500
+8	0.55	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.5	Asphyxiating thoracic dystrophy	OMIM:208500
+10	0.45	Zellweger spectrum disorder	OMIM:214100
+11	0.4	Pfeiffer syndrome	OMIM:101600
+12	0.35	Spondylothoracic dysostosis	OMIM:122600
+13	0.3	Joubert syndrome	OMIM:213300
+14	0.25	Carpenter syndrome	OMIM:201000
+15	0.2	Rubinstein-Taybi syndrome	OMIM:180849

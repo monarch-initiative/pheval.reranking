@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kaufman oculocerebrofacial syndrome	OMIM:244450
+2	0.88	Ohdo syndrome, X-linked	OMIM:300895
+3	0.86	Lujan-Fryns syndrome	OMIM:309520
+4	0.85	Mowat-Wilson syndrome	OMIM:235730
+5	0.83	Fragile X syndrome	OMIM:300624
+6	0.82	Noonan syndrome 1	OMIM:163950
+7	0.81	CHARGE syndrome	OMIM:214800
+8	0.8	DiGeorge syndrome	OMIM:188400
+9	0.78	22q13.3 deletion syndrome	OMIM:606232
+10	0.76	Cornelia de Lange syndrome 1	OMIM:122470
+11	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+12	0.74	Williams syndrome	OMIM:194050
+13	0.73	Smith-Lemli-Opitz syndrome	OMIM:270400
+14	0.71	Rubinstein-Taybi syndrome 1	OMIM:180849
+15	0.7	Kabuki syndrome 1	OMIM:147920

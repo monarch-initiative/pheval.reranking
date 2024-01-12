@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa 59	OMIM:613861
+2	0.88	Bardet-Biedl Syndrome 1	OMIM:209900
+3	0.85	Stargardt Disease 1	OMIM:248200
+4	0.83	Usher Syndrome, Type IIa	OMIM:276901
+5	0.82	Cone-Rod Dystrophy 3	OMIM:604116
+6	0.8	Obesity, Morbid, Due To Leptin Deficiency	OMIM:164160
+7	0.79	Alström Syndrome	OMIM:203800
+8	0.77	Leber Congenital Amaurosis	OMIM:204000
+9	0.75	Senior-Loken Syndrome 1	OMIM:266900
+10	0.73	Early-Onset, Autosomal Recessive, Severe	OMIM:609528
+11	0.71	Cohen Syndrome	OMIM:216550
+12	0.69	Neuropathy, Hereditary Sensory And Autonomic, Type Ii	OMIM:201300
+13	0.68	Best Disease	OMIM:153700
+14	0.65	Joubert Syndrome 10	OMIM:300804
+15	0.63	Retinitis Pigmentosa	OMIM:268000

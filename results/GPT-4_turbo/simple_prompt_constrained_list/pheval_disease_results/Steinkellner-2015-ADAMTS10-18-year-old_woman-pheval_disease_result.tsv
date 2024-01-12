@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Weill-Marchesani Syndrome 1	OMIM:277600
+2	0.8	Homocystinuria	OMIM:236200
+3	0.7	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+4	0.6	Marfan Syndrome	OMIM:154700
+4	0.6	Shprintzen-Goldberg Syndrome	OMIM:182212
+6	0.5	Kniest Dysplasia	OMIM:156550
+6	0.5	Ehlers-Danlos Syndrome, Kyphoscoliotic Form	OMIM:225400
+6	0.5	Spondyloepiphyseal Dysplasia Congenita	OMIM:183900
+9	0.4	Multiple Epiphyseal Dysplasia, Dominant	OMIM:132400
+9	0.4	Diastrophic Dysplasia	OMIM:222600
+11	0.3	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+11	0.3	Loeys-Dietz Syndrome 1	OMIM:609192
+11	0.3	Geleophysic Dysplasia 1	OMIM:231050
+14	0.2	Pseudoachondroplasia	OMIM:177170
+14	0.2	Stuve-Wiedemann Syndrome	OMIM:601559

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Primary immunodeficiency	OMIM:615193
+2	0.83	Common variable immunodeficiency	OMIM:607594
+3	0.82	Hemophagocytic lymphohistiocytosis, familial	OMIM:613101
+4	0.81	Gaucher disease	OMIM:230800
+5	0.8	Niemann-Pick disease	OMIM:257220
+5	0.8	Chronic granulomatous disease	OMIM:306400
+7	0.78	Acute myeloid leukemia	OMIM:601626
+8	0.77	X-linked lymphoproliferative syndrome	OMIM:308240
+9	0.76	Hyper IgM immunodeficiency syndrome	OMIM:308230
+10	0.75	Autoimmune lymphoproliferative syndrome	OMIM:601859
+11	0.74	Chronic lymphocytic leukemia	OMIM:151400
+12	0.73	Sarcoidosis	OMIM:181000
+13	0.72	Wiskott-Aldrich syndrome	OMIM:301000
+14	0.71	Mucopolysaccharidosis	OMIM:607015
+15	0.7	Langerhans cell histiocytosis	OMIM:604856

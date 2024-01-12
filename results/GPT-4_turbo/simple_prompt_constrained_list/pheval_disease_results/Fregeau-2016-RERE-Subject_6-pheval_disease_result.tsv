@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Peters Plus Syndrome	OMIM:261540
+2	0.75	Baraitser-Winter Syndrome 1	OMIM:243310
+3	0.7	Coffin-Siris Syndrome	OMIM:135900
+4	0.65	Waardenburg Syndrome Type 1	OMIM:193500
+5	0.55	Saethre-Chotzen Syndrome	OMIM:101400
+6	0.5	Mowat-Wilson Syndrome	OMIM:235730
+7	0.45	CHARGE Syndrome	OMIM:214800
+8	0.4	Treacher Collins Syndrome 1	OMIM:154500
+9	0.35	Rubinstein-Taybi Syndrome 1	OMIM:180849
+10	0.3	Smith-Lemli-Opitz Syndrome	OMIM:270400
+11	0.25	Noonan Syndrome 1	OMIM:163950
+12	0.2	Cornelia de Lange Syndrome 1	OMIM:122470
+13	0.15	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+14	0.1	Branchiootorenal Syndrome 1	OMIM:113650
+15	0.05	Kabuki Syndrome 1	OMIM:147920

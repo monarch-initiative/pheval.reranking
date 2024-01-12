@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Coffin-Siris Syndrome 4	OMIM:615866
+2	0.87	Geleophysic Dysplasia 3	OMIM:617809
+3	0.85	Coffin-Siris Syndrome 3	OMIM:614608
+3	0.85	Pyknodysostosis	OMIM:265800
+5	0.82	Ectodermal Dysplasia, Anhidrotic, With Immunodeficiency, Osteopetrosis, And Lymphedema	OMIM:300301
+6	0.81	Dyskeratosis Congenita, Autosomal Dominant 2	OMIM:613989
+6	0.81	Marshall Syndrome	OMIM:154780
+8	0.8	Acromicric Dysplasia	OMIM:102370
+9	0.79	Cleidocranial Dysostosis	OMIM:119600
+10	0.78	Ruijs-Aalfs Syndrome	OMIM:616200
+11	0.76	Singleton-Merten Syndrome 1	OMIM:182250
+12	0.74	Autosomal Recessive Dyskeratosis Congenita 3	OMIM:613988
+13	0.73	Microcephalic Osteodysplastic Primordial Dwarfism, Type Ii	OMIM:210720
+14	0.72	Dubowitz Syndrome	OMIM:223370
+15	0.7	Seckel Syndrome	OMIM:210600

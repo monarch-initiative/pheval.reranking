@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Hutchinson-Gilford Progeria	OMIM:176670
+2	0.7	Metabolic Syndrome	OMIM:605552
+3	0.65	Berardinelli-Seip Congenital Lipodystrophy	OMIM:269700
+4	0.6	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+4	0.6	Werner Syndrome	OMIM:277700
+6	0.55	Myasthenic Syndrome, Congenital, Associated With Areflexia	OMIM:616313
+7	0.5	Muscular Dystrophy, Limb-Girdle, Type 2	OMIM:253600
+7	0.5	Mandibuloacral Dysplasia	OMIM:248370
+7	0.5	Acromicric Dysplasia	OMIM:102370
+7	0.5	Myasthenia, Limb-Girdle, Familial	OMIM:254300
+11	0.45	Emery-Dreifuss Muscular Dystrophy	OMIM:310300
+11	0.45	Familial Partial Lipodystrophy	OMIM:151660
+11	0.45	Limb-Girdle Muscular Dystrophy	OMIM:611307
+14	0.4	Seipinopathy	OMIM:615291
+14	0.4	Myopathic Ehlers-Danlos Syndrome	OMIM:601776

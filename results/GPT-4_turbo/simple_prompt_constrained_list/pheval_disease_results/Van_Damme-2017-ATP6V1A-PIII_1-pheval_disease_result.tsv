@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:154700
+2	0.89	Loeys-Dietz Syndrome, Type 1A	OMIM:609192
+3	0.88	Loeys-Dietz Syndrome, Type 1B	OMIM:610168
+4	0.87	Loeys-Dietz Syndrome, Type 1C	OMIM:613795
+4	0.87	Loeys-Dietz Syndrome, Type 2A	OMIM:608967
+6	0.86	Loeys-Dietz Syndrome, Type 2B	OMIM:610380
+7	0.85	Beals-Hecht Syndrome	OMIM:121050
+8	0.84	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+9	0.83	Congenital Contractural Arachnodactyly	OMIM:121050
+10	0.82	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+11	0.8	Cutis Laxa, Autosomal Dominant	OMIM:123700
+12	0.79	Cutis Laxa, Autosomal Recessive, Type IA	OMIM:219100
+13	0.78	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+14	0.77	Cutis Laxa, Autosomal Recessive, Type IIIA	OMIM:219150
+15	0.76	Shprintzen-Goldberg Syndrome	OMIM:182212

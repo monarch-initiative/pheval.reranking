@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mandibulofacial Dysostosis with Microcephaly	OMIM:610536
+2	0.85	Treacher Collins Syndrome 2	OMIM:613717
+2	0.85	Treacher Collins Syndrome 1	OMIM:154500
+2	0.85	Treacher Collins Syndrome 3	OMIM:248390
+5	0.8	Chromosome 3q29 Microdeletion Syndrome	OMIM:609425
+5	0.8	Chromosome 22q11.2 Deletion Syndrome, DiGeorge Syndrome	OMIM:188400
+5	0.8	Velocardiofacial Syndrome	OMIM:192430
+8	0.75	Pierre Robin Syndrome	OMIM:261800
+8	0.75	Miller Syndrome	OMIM:263750
+10	0.7	Nager Syndrome	OMIM:154400
+10	0.7	Acrofacial Dysostosis, Nager Type	OMIM:602588
+12	0.65	Feingold Syndrome 1	OMIM:164280
+13	0.6	Wolf-Hirschhorn Syndrome	OMIM:194190
+14	0.55	Waardenburg Syndrome, Type I	OMIM:193500
+14	0.55	Branchiootorenal Syndrome 1	OMIM:113650

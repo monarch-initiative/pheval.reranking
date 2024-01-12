@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune Polyendocrinopathy Syndrome, Type I, with or without Reversible Metaphyseal Dysplasia	OMIM:240300
+2	0.85	Hypoparathyroidism, Familial Isolated	OMIM:146200
+3	0.8	Hypocalcemia, Autosomal Dominant	OMIM:601198
+4	0.75	Candidiasis, Familial, 2, Autosomal Recessive	OMIM:212050
+4	0.75	Hypoparathyroidism-Retardation-Dysmorphism Syndrome	OMIM:241410
+4	0.75	Kenny-Caffey Syndrome, Type 1	OMIM:244460
+7	0.7	Dent's Disease	OMIM:300009
+8	0.65	Pseudohypoparathyroidism, Type Ia	OMIM:103580
+8	0.65	Pseudohypoparathyroidism, Type Ib	OMIM:603233
+10	0.6	Hypoparathyroidism-Deafness-Renal Disease Syndrome	OMIM:146255
+10	0.6	Hypomagnesemia 1, Intestinal	OMIM:602014
+10	0.6	Osteopathia Striata with Cranial Sclerosis	OMIM:300373
+10	0.6	Wolcott-Rallison Syndrome	OMIM:226980
+14	0.55	Barakat Syndrome	OMIM:612370
+14	0.55	Woodhouse-Sakati Syndrome	OMIM:241080

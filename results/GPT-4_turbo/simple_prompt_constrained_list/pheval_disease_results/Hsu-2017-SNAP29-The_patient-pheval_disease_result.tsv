@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.8	Coffin-Siris syndrome 1	OMIM:135900
+3	0.7	Coffin-Siris syndrome 4	OMIM:614607
+4	0.6	Coffin-Siris syndrome 3	OMIM:614608
+4	0.6	Baraitser-Winter syndrome 1	OMIM:243310
+4	0.6	Nicolaides-Baraitser syndrome	OMIM:601358
+7	0.5	Blepharophimosis, ptosis, and epicanthus inversus syndrome	OMIM:110100
+7	0.5	Wiedemann-Steiner syndrome	OMIM:605130
+7	0.5	Cerebrooculofacioskeletal syndrome 4	OMIM:616570
+7	0.5	Ohdo syndrome, SBBYS variant	OMIM:603736
+7	0.5	Ohdo syndrome, Maat-Kievit-Brunner type	OMIM:300895
+7	0.5	Craniofrontonasal dysplasia	OMIM:304110
+13	0.4	Alpha-thalassemia/mental retardation syndrome X-linked	OMIM:301040
+13	0.4	Mowat-Wilson syndrome	OMIM:235730
+13	0.4	Rubinstein-Taybi syndrome 1	OMIM:180849

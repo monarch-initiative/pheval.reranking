@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-hair hypoplasia	OMIM:250250
+2	0.85	Dubowitz syndrome	OMIM:223370
+3	0.8	Schimke immuno-osseous dysplasia	OMIM:242900
+4	0.75	Ataxia-telangiectasia	OMIM:208900
+5	0.7	Severe combined immunodeficiency	OMIM:102700
+6	0.65	DiGeorge syndrome	OMIM:188400
+7	0.6	Nijmegen breakage syndrome	OMIM:251260
+8	0.55	Cohen syndrome	OMIM:216550
+9	0.5	Wiskott-Aldrich syndrome	OMIM:301000
+10	0.45	Laron syndrome	OMIM:262500
+11	0.4	Mulibrey nanism	OMIM:253250
+12	0.35	Kenny-Caffey syndrome	OMIM:127000
+13	0.3	Hypochondroplasia	OMIM:146000
+14	0.25	Roifman syndrome	OMIM:616651
+15	0.2	Noonan syndrome	OMIM:163950

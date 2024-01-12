@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lissencephaly 3	OMIM:611182
+2	0.85	Seckel Syndrome 1	OMIM:210600
+3	0.83	Mowat-Wilson Syndrome	OMIM:235730
+4	0.82	Pitt-Hopkins Syndrome	OMIM:610954
+5	0.8	West Syndrome	OMIM:308350
+6	0.77	Rett Syndrome	OMIM:312750
+7	0.75	Angelman Syndrome	OMIM:105830
+8	0.73	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.7	Aicardi Syndrome	OMIM:304050
+10	0.68	Wolf-Hirschhorn Syndrome	OMIM:194190
+11	0.65	Miller-Dieker Syndrome	OMIM:247200
+12	0.63	Coffin-Siris Syndrome	OMIM:135900
+13	0.6	2p16.3 Microdeletion Syndrome	OMIM:614332
+14	0.58	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome 1	OMIM:603387
+15	0.55	Holoprosencephaly 3	OMIM:142945

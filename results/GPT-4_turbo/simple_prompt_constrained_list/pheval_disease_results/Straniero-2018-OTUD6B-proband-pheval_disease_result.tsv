@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	DiGeorge Syndrome	OMIM:188400
+2	0.91	22q11.2 Deletion Syndrome	OMIM:611867
+3	0.89	Velocardiofacial Syndrome	OMIM:192430
+4	0.87	CHARGE Syndrome	OMIM:214800
+5	0.83	Noonan Syndrome	OMIM:163950
+6	0.81	Williams Syndrome	OMIM:194050
+7	0.79	VACTERL Association	OMIM:192350
+8	0.77	Cornelia De Lange Syndrome	OMIM:122470
+9	0.75	Alagille Syndrome	OMIM:118450
+10	0.73	Smith-Lemli-Opitz Syndrome	OMIM:270400
+11	0.71	Mowat-Wilson Syndrome	OMIM:235730
+12	0.7	Kabuki Syndrome	OMIM:147920
+13	0.69	Craniofrontonasal Dysplasia	OMIM:304110
+14	0.67	Goldenhar Syndrome	OMIM:164210
+15	0.65	Prader-Willi Syndrome	OMIM:176270

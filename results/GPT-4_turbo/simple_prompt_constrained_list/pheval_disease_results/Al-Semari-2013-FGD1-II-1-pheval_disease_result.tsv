@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 1	OMIM:163950
+2	0.89	Laron syndrome	OMIM:262500
+3	0.88	Prader-Willi syndrome	OMIM:176270
+4	0.87	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+5	0.86	Williams syndrome	OMIM:194050
+6	0.85	Smith-Magenis syndrome	OMIM:182290
+7	0.84	Cleidocranial dysplasia	OMIM:119600
+8	0.83	Silver-Russell syndrome	OMIM:180860
+9	0.82	Rubinstein-Taybi syndrome	OMIM:180849
+10	0.81	Turner syndrome	OMIM:300000
+11	0.8	22q11.2 deletion syndrome	OMIM:188400
+11	0.8	Down syndrome	OMIM:190685
+13	0.79	Aarskog-Scott syndrome	OMIM:305400
+14	0.78	Cornelia de Lange syndrome 1	OMIM:122470
+15	0.77	Loeys-Dietz syndrome 1	OMIM:609192

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-hair hypoplasia	OMIM:250250
+2	0.85	Robinow syndrome, autosomal recessive	OMIM:268310
+2	0.85	Geleophysic dysplasia 1	OMIM:231050
+4	0.8	Acromesomelic dysplasia, Maroteaux type	OMIM:602875
+4	0.8	3-M syndrome 1	OMIM:273750
+4	0.8	Acromicric dysplasia	OMIM:102370
+7	0.75	Floating-Harbor syndrome	OMIM:136140
+7	0.75	Noonan syndrome 1	OMIM:163950
+7	0.75	Schwartz-Jampel syndrome, type 1	OMIM:255800
+7	0.75	Achondroplasia	OMIM:100800
+11	0.7	Asphyxiating thoracic dysplasia 1	OMIM:208500
+11	0.7	Brachydactyly-mental retardation syndrome	OMIM:600430
+11	0.7	Cranioectodermal dysplasia 1	OMIM:218330
+11	0.7	Diastrophic dysplasia	OMIM:222600
+11	0.7	Ellis-van Creveld syndrome	OMIM:225500

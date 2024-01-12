@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Acromesomelic Dysplasia, Demirhan Type	OMIM:607620
+2	0.85	Acromesomelic Dysplasia, Maroteaux Type	OMIM:602875
+2	0.85	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+2	0.85	Acromesomelic Dysplasia, Grebe Type	OMIM:200700
+5	0.8	Acromicric Dysplasia	OMIM:102370
+5	0.8	Brachydactyly, Type C	OMIM:113100
+5	0.8	Brachydactyly, Type E	OMIM:113300
+5	0.8	Geleophysic Dysplasia 1	OMIM:231050
+5	0.8	Geleophysic Dysplasia 2	OMIM:614185
+5	0.8	Grebe Syndrome	OMIM:200700
+11	0.75	Leri Weill Dyschondrosteosis	OMIM:127300
+11	0.75	Acrodysostosis 1 with or without Hormone Resistance	OMIM:101800
+11	0.75	Acrodysostosis 2 with or without Hormone Resistance	OMIM:614613
+14	0.7	Fibular Hypoplasia and Complex Brachydactyly	OMIM:228900
+14	0.7	Brachydactyly-Mental Retardation Syndrome	OMIM:600430

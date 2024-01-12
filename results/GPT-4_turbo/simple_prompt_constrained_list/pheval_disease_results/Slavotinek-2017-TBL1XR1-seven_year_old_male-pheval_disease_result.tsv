@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Beckwith-Wiedemann Syndrome	OMIM:130650
+2	0.8	Mowat-Wilson Syndrome	OMIM:235730
+3	0.75	Perlman Syndrome	OMIM:267000
+4	0.7	Coffin-Siris Syndrome	OMIM:135900
+5	0.65	Pallister-Hall Syndrome	OMIM:146510
+6	0.6	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.55	Cornelia de Lange Syndrome	OMIM:122470
+8	0.5	Baraitser-Winter Syndrome 1	OMIM:243310
+9	0.45	Noonan Syndrome 1	OMIM:163950
+10	0.4	Crouzon Syndrome	OMIM:123500
+11	0.35	Saethre-Chotzen Syndrome	OMIM:101400
+12	0.3	Meckel Syndrome, Type 1	OMIM:249000
+13	0.25	Rubinstein-Taybi Syndrome 1	OMIM:180849
+14	0.2	Williams Syndrome	OMIM:194050
+15	0.15	Gorlin Syndrome	OMIM:109400

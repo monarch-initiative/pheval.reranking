@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ehlers-Danlos Syndrome, Kyphoscoliotic Form	OMIM:225400
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.8	Loeys-Dietz Syndrome	OMIM:609192
+3	0.8	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+3	0.8	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+6	0.75	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.75	Ehlers-Danlos Syndrome, Tenascin-X Deficient	OMIM:606408
+8	0.7	Brittle Cornea Syndrome 1	OMIM:229200
+8	0.7	Congenital Contractural Arachnodactyly	OMIM:121050
+10	0.65	Osteogenesis Imperfecta, Type I	OMIM:166200
+11	0.6	Osteogenesis Imperfecta, Type II	OMIM:166210
+11	0.6	Osteogenesis Imperfecta, Type III	OMIM:259420
+11	0.6	Osteogenesis Imperfecta, Type IV	OMIM:166220
+14	0.5	Derma-Chondro-Corneal Dystrophy of François	OMIM:221800
+14	0.5	Beals-Hecht Syndrome	OMIM:121050

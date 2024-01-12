@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Primary hyperoxaluria	OMIM:259900
+2	0.87	Hyperoxaluria, primary, type I	OMIM:259900
+3	0.85	Hyperoxaluria, primary, type II	OMIM:260000
+4	0.83	Hyperoxaluria, primary, type III	OMIM:613616
+5	0.8	Nephrolithiasis/osteoporosis, hypophosphatemic, 1	OMIM:612286
+6	0.78	Nephrolithiasis, type I	OMIM:310468
+7	0.76	Nephrolithiasis, type II	OMIM:164500
+8	0.74	Nephrocalcinosis	OMIM:118200
+9	0.72	Renal tubular acidosis, distal, with hemolytic anemia	OMIM:267300
+10	0.7	Lowe syndrome	OMIM:309000
+11	0.68	Renal tubular acidosis, distal, autosomal dominant	OMIM:179800
+12	0.66	Renal tubular acidosis, distal, autosomal recessive	OMIM:602722
+13	0.64	Medullary sponge kidney	OMIM:174000
+14	0.62	Renal tubular acidosis, proximal	OMIM:179830
+15	0.6	Renal tubular acidosis with deafness	OMIM:267300

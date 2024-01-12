@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cardiomyopathy, Dilated, 1aa	OMIM:615235
+1	0.9	Long QT Syndrome 1	OMIM:192500
+3	0.85	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:192600
+4	0.8	Atrial Standstill 1	OMIM:108770
+5	0.75	Sick Sinus Syndrome 1, Autosomal Recessive	OMIM:608567
+5	0.75	Atrial Septal Defect 7 with or without Atrioventricular Conduction Defects	OMIM:108900
+7	0.7	Atrioventricular Block	OMIM:215800
+7	0.7	Brugada Syndrome 1	OMIM:601144
+9	0.65	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970
+10	0.6	Lenegre-Lev Syndrome	OMIM:606681
+10	0.6	Emery-Dreifuss Muscular Dystrophy 1, X-Linked	OMIM:310300
+12	0.55	Cardiomyopathy, Dilated, 1E	OMIM:601154
+13	0.5	Anderson-Fabry Disease	OMIM:301500
+13	0.5	Danon Disease	OMIM:300257
+13	0.5	Mitochondrial Myopathy and Sideroblastic Anemia 1	OMIM:600462

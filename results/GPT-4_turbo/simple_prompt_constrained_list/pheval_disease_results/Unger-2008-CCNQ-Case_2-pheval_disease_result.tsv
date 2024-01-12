@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	CHARGE syndrome	OMIM:214800
+2	0.85	Cat eye syndrome	OMIM:115470
+3	0.8	22q11.2 deletion syndrome	OMIM:188400
+4	0.75	Noonan syndrome 1	OMIM:163950
+5	0.7	VACTERL association	OMIM:192350
+6	0.65	Holt-Oram syndrome	OMIM:142900
+7	0.6	Turner syndrome	OMIM:300400
+8	0.55	DiGeorge syndrome	OMIM:188400
+9	0.5	Treacher Collins syndrome 1	OMIM:154500
+10	0.45	Williams syndrome	OMIM:194050
+11	0.4	Cornelia de Lange syndrome 1	OMIM:122470
+12	0.35	Marfan syndrome	OMIM:154700
+13	0.3	Stickler syndrome, type I	OMIM:108300
+14	0.25	Rubinstein-Taybi syndrome 1	OMIM:180849
+15	0.2	Alagille syndrome 1	OMIM:118450

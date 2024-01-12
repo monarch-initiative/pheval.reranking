@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Inclusion Body Myopathy with Early-Onset Paget Disease and Frontotemporal Dementia 1	OMIM:167320
+2	0.85	Inclusion Body Myopathy with Paget Disease of Bone and Frontotemporal Dementia	OMIM:605382
+3	0.8	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+4	0.75	Distal Myopathy, Welander	OMIM:604454
+5	0.7	Limb-Girdle Muscular Dystrophy, Type 1B	OMIM:159001
+6	0.65	Deafness, Autosomal Dominant 5	OMIM:600791
+7	0.6	Deafness, Autosomal Recessive 1A	OMIM:220290
+8	0.55	Hereditary Sensory and Autonomic Neuropathy, Type II	OMIM:201300
+9	0.5	Limb-Girdle Muscular Dystrophy, Type 2H	OMIM:254110
+10	0.45	Myopathy, Distal, 1	OMIM:160500
+11	0.4	Myopathy, Myofibrillar, 1	OMIM:601419
+12	0.35	Myopathy, Myofibrillar, 2	OMIM:603689
+13	0.3	Myopathy, Myofibrillar, 4	OMIM:609452
+14	0.25	Myopathy, Myofibrillar, 5	OMIM:609524
+15	0.2	Myopathy, Myofibrillar, 6	OMIM:612954

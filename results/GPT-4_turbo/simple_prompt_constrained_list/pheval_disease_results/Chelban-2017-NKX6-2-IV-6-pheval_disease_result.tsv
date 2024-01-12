@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leigh syndrome	OMIM:256000
+2	0.85	Pelizaeus-Merzbacher disease	OMIM:312080
+3	0.8	Cerebral palsy, spastic quadriplegic	OMIM:603513
+4	0.75	Hypomyelination, global cerebral	OMIM:612233
+5	0.7	Lissencephaly 1	OMIM:607432
+6	0.65	MECP2 duplication syndrome	OMIM:300260
+7	0.6	CANVAS syndrome	OMIM:614575
+8	0.55	Rett syndrome, classic	OMIM:312750
+9	0.5	Mucopolysaccharidosis type IIIA	OMIM:252900
+10	0.45	Mucopolysaccharidosis type II	OMIM:309900
+11	0.4	Zellweger syndrome	OMIM:214100
+12	0.35	Metachromatic leukodystrophy	OMIM:250100
+13	0.3	Krabbe disease	OMIM:245200
+14	0.25	Adrenoleukodystrophy, X-linked	OMIM:300100
+15	0.2	Alexander disease	OMIM:203450

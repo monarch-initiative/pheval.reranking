@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Lipodystrophy Syndrome	OMIM:616914
+2	0.88	Ohdo Syndrome, Maat-Kievit-Brunner Type	OMIM:300895
+3	0.85	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+4	0.83	Antley-Bixler Syndrome Without Genital Anomalies or Disordered Steroidogenesis	OMIM:207410
+5	0.82	Cohen Syndrome	OMIM:216550
+6	0.81	Fragile X Syndrome	OMIM:300624
+7	0.8	Desbuquois Dysplasia 1	OMIM:251450
+7	0.8	Duane-Radial Ray Syndrome	OMIM:607323
+9	0.79	Microcephaly, Short Stature, and Polymicrogyria with or without Seizures	OMIM:614833
+10	0.78	Kleefstra Syndrome 1	OMIM:610253
+11	0.77	Coffin-Siris Syndrome 1	OMIM:135900
+12	0.76	Beals-Hecht Syndrome	OMIM:121050
+12	0.76	Van Den Ende-Gupta Syndrome	OMIM:600920
+14	0.75	Christian Syndrome 1	OMIM:169100
+14	0.75	Acrorenal-Mandibular Syndrome	OMIM:102490

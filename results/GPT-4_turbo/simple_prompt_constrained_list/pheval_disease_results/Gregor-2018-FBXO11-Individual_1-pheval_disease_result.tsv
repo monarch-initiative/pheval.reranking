@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome 1	OMIM:122470
+1	0.9	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.8	Autism, susceptibility to, X-linked 3	OMIM:300496
+3	0.8	Coffin-Siris syndrome	OMIM:135900
+3	0.8	Mowat-Wilson syndrome	OMIM:235730
+3	0.8	Cohen syndrome	OMIM:216550
+3	0.8	Angelman syndrome	OMIM:105830
+3	0.8	Rett syndrome	OMIM:312750
+3	0.8	Smith-Magenis syndrome	OMIM:182290
+10	0.7	Chromosome 6q24-q25 deletion syndrome	OMIM:600363
+10	0.7	Wiedemann-Steiner syndrome	OMIM:605130
+10	0.7	Kabuki syndrome 1	OMIM:147920
+10	0.7	Craniofrontonasal syndrome	OMIM:304110
+10	0.7	Wolf-Hirschhorn syndrome	OMIM:194190
+15	0.6	Barber-Say syndrome	OMIM:209885

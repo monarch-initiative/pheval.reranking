@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	1.0	Retinitis Pigmentosa 59	OMIM:613861
+2	0.9	Retinitis Pigmentosa 41	OMIM:612095
+3	0.8	Retinitis Pigmentosa 4	OMIM:613731
+3	0.8	Retinitis Pigmentosa 33	OMIM:610359
+3	0.8	Retinitis Pigmentosa 17	OMIM:600852
+6	0.7	Retinitis Pigmentosa 1	OMIM:180100
+6	0.7	Retinitis Pigmentosa 25	OMIM:605073
+6	0.7	Retinitis Pigmentosa 7	OMIM:608133
+6	0.7	Retinitis Pigmentosa 9	OMIM:180104
+10	0.6	Retinitis Pigmentosa 26	OMIM:608380
+10	0.6	Retinitis Pigmentosa 20	OMIM:613794
+10	0.6	Retinitis Pigmentosa 10	OMIM:604922
+13	0.5	Retinitis Pigmentosa 11	OMIM:600138
+13	0.5	Retinitis Pigmentosa 2	OMIM:312600
+13	0.5	Retinitis Pigmentosa 12	OMIM:600059

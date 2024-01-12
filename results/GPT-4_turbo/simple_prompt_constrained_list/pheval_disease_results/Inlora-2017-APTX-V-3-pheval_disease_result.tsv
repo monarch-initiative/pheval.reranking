@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Perry syndrome	OMIM:168605
+2	0.85	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+2	0.85	Pantothenate kinase-associated neurodegeneration	OMIM:606157
+4	0.8	Parkinson disease 17	OMIM:614203
+4	0.8	Kufor-Rakeb syndrome	OMIM:606693
+6	0.75	Huntington disease-like 2	OMIM:606438
+7	0.7	Wilson disease	OMIM:277900
+7	0.7	Neuroferritinopathy	OMIM:606159
+9	0.65	Dystonia 12	OMIM:128235
+10	0.6	Huntington disease	OMIM:143100
+10	0.6	Ataxia with oculomotor apraxia type 1	OMIM:208920
+12	0.55	Niemann-Pick disease type C	OMIM:257220
+13	0.5	Gaucher disease type 3	OMIM:231000
+14	0.45	Spinocerebellar ataxia 2	OMIM:183090
+15	0.4	Spinocerebellar ataxia 17	OMIM:607136

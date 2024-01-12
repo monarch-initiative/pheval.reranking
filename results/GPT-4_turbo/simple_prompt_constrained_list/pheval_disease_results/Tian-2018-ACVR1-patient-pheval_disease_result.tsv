@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+2	0.87	Hyperphosphatasemia With Bone Disease	OMIM:239300
+3	0.85	Hyperostosis, Endosteal	OMIM:144750
+4	0.84	Pseudogout	OMIM:600668
+5	0.83	Progressive Osseous Heteroplasia	OMIM:166350
+6	0.82	Hyperphosphatemic Familial Tumoral Calcinosis (HFTC)	OMIM:211900
+7	0.8	Bursitis	OMIM:109250
+8	0.78	Gout	OMIM:138900
+9	0.75	Hypophosphatasia	OMIM:146300
+10	0.73	Calcinosis	OMIM:114000
+11	0.72	Primary Hyperparathyroidism	OMIM:145000
+12	0.7	Osteoporosis	OMIM:166710
+13	0.68	Caplan Syndrome	OMIM:142400
+14	0.66	Tendinitis	OMIM:272950
+15	0.65	Osteomalacia	OMIM:275900

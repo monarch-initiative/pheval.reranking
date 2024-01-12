@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Bartter Syndrome, Type 4B	OMIM:613985
+2	0.8	Pendred Syndrome	OMIM:274600
+2	0.8	Gitelman Syndrome	OMIM:263800
+2	0.8	Bartter Syndrome, Type 1	OMIM:601678
+5	0.7	Renal Tubular Acidosis, Proximal, With Ocular Abnormalities and Mental Retardation	OMIM:604278
+5	0.7	Antley-Bixler Syndrome Without Genital Anomalies or Disordered Steroidogenesis	OMIM:207410
+5	0.7	Liddle Syndrome	OMIM:177200
+5	0.7	Hyperuricemic Nephropathy, Familial Juvenile, 2	OMIM:613092
+5	0.7	Bartter Syndrome, Type 3	OMIM:607364
+5	0.7	Bartter Syndrome, Type 2	OMIM:241200
+5	0.7	Deafness, Autosomal Recessive 1A	OMIM:220290
+5	0.7	Diabetes Insipidus, Nephrogenic, X-Linked	OMIM:304800
+5	0.7	Nephrocalcinosis	OMIM:118200
+14	0.6	Hypomagnesemia 4, Renal	OMIM:611718
+14	0.6	Uric Acid Concentration, Serum, Quantitative Trait Locus 1	OMIM:138900

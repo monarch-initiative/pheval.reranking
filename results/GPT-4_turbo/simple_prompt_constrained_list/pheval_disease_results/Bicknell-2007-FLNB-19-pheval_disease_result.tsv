@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Diastrophic dysplasia	OMIM:222600
+2	0.87	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.86	Larsen syndrome	OMIM:150250
+4	0.84	Spondylocarpotarsal synostosis	OMIM:272460
+5	0.83	Kniest dysplasia	OMIM:156550
+6	0.81	Metatropic dysplasia	OMIM:156530
+7	0.79	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.78	Pseudoachondroplasia	OMIM:177170
+9	0.76	Cleidocranial dysplasia	OMIM:119600
+10	0.74	Camptomelic dysplasia	OMIM:114290
+11	0.72	Achondrogenesis	OMIM:200600
+12	0.71	Hypochondroplasia	OMIM:146000
+13	0.69	Osteogenesis imperfecta	OMIM:166200
+14	0.67	Stickler syndrome	OMIM:108300
+15	0.66	Nail-patella syndrome	OMIM:161200

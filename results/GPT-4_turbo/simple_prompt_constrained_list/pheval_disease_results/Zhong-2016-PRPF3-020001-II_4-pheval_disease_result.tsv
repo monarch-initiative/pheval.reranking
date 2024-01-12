@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Retinitis Pigmentosa 59	OMIM:613861
+2	0.9	Retinitis Pigmentosa 11	OMIM:600138
+3	0.87	Retinitis Pigmentosa 4	OMIM:613731
+4	0.85	Retinitis Pigmentosa 1	OMIM:180100
+5	0.82	Retinitis Pigmentosa 25	OMIM:605073
+6	0.8	Retinitis Pigmentosa 17	OMIM:600852
+7	0.78	Retinitis Pigmentosa 41	OMIM:613810
+8	0.75	Retinitis Pigmentosa 7	OMIM:608133
+9	0.72	Retinitis Pigmentosa 20	OMIM:613794
+10	0.7	Retinitis Pigmentosa 45	OMIM:613767
+11	0.67	Retinitis Pigmentosa 26	OMIM:608380
+12	0.65	Usher Syndrome, Type IIA	OMIM:276901
+13	0.63	Retinitis Pigmentosa 33	OMIM:610359
+14	0.6	Retinitis Pigmentosa 28	OMIM:609923
+15	0.58	Retinitis Pigmentosa 39	OMIM:613809

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Albinism, Oculocutaneous, Type IA	OMIM:203100
+2	0.93	Albinism, Oculocutaneous, Type II	OMIM:203200
+3	0.91	Albinism, Oculocutaneous, Type III	OMIM:203290
+4	0.89	Albinism, Oculocutaneous, Type IV	OMIM:606574
+5	0.87	Albinism, Oculocutaneous, Type V	OMIM:203330
+6	0.85	Albinism, Oculocutaneous, Type VI	OMIM:113750
+7	0.83	Albinism, Oculocutaneous, Type VII	OMIM:615179
+8	0.81	Hermansky-Pudlak Syndrome 1	OMIM:203300
+9	0.79	Hermansky-Pudlak Syndrome 2	OMIM:608233
+10	0.77	Hermansky-Pudlak Syndrome 3	OMIM:614072
+11	0.75	Hermansky-Pudlak Syndrome 4	OMIM:614073
+12	0.73	Chediak-Higashi Syndrome	OMIM:214500
+13	0.71	Griscelli Syndrome Type 1	OMIM:214450
+14	0.69	Griscelli Syndrome Type 2	OMIM:607624
+15	0.67	Waardenburg Syndrome Type 2A	OMIM:193510

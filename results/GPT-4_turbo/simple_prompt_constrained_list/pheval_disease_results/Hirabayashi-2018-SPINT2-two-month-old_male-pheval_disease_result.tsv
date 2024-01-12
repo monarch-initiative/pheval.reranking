@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Baraitser-Winter syndrome 1	OMIM:243310
+2	0.85	Pitt-Hopkins syndrome	OMIM:610954
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.75	Renal tubular acidosis with deafness	OMIM:267300
+5	0.7	Velo-cardio-facial syndrome	OMIM:192430
+6	0.65	Autosomal recessive cutis laxa type 3B	OMIM:614437
+7	0.6	DiGeorge syndrome	OMIM:188400
+8	0.55	Kabuki syndrome 1	OMIM:147920
+9	0.5	Nicolaides-Baraitser syndrome	OMIM:601358
+10	0.45	Johanson-Blizzard syndrome	OMIM:243800
+11	0.4	Van der Woude syndrome 1	OMIM:119300
+12	0.35	Branchiooculofacial syndrome	OMIM:113620
+13	0.3	Treacher Collins syndrome 1	OMIM:154500
+14	0.25	Donnai-Barrow syndrome	OMIM:222448
+15	0.2	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292

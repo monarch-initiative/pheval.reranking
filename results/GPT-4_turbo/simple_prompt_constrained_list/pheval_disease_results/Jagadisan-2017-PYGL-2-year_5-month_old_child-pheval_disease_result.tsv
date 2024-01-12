@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Nielsen Syndrome	OMIM:215700
+2	0.75	Wolman Disease	OMIM:278000
+2	0.75	Cystic Fibrosis	OMIM:219700
+4	0.7	Biliary Atresia	OMIM:210500
+4	0.7	Gaucher Disease, Type I	OMIM:230800
+4	0.7	Alagille Syndrome	OMIM:118450
+7	0.65	Zellweger Syndrome	OMIM:214100
+7	0.65	Hepatoblastoma	OMIM:114550
+9	0.6	Primary Hyperoxaluria, Type I	OMIM:259900
+9	0.6	Glycogen Storage Disease Ia	OMIM:232200
+9	0.6	Progressive Familial Intrahepatic Cholestasis	OMIM:211600
+9	0.6	Propionic Acidemia	OMIM:606054
+13	0.55	Wilson Disease	OMIM:277900
+13	0.55	Alpha-1-Antitrypsin Deficiency	OMIM:107400
+13	0.55	Tyrosinemia, Type I	OMIM:276700

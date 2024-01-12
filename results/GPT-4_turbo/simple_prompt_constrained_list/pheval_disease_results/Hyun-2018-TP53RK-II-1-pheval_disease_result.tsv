@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Galloway-Mowat syndrome 1	OMIM:251300
+2	0.85	Microcephaly, hiatal hernia and nephrotic syndrome	OMIM:614199
+3	0.8	Schimke immuno-osseous dysplasia	OMIM:242900
+4	0.75	Cranioectodermal dysplasia 4	OMIM:614378
+5	0.7	Pierson syndrome	OMIM:609049
+6	0.65	Denys-Drash syndrome	OMIM:194080
+7	0.6	Meckel syndrome	OMIM:249000
+8	0.55	Coffin-Siris syndrome	OMIM:135900
+9	0.5	Baraitser-Winter syndrome 1	OMIM:243310
+10	0.45	Pitt-Hopkins syndrome	OMIM:610954
+11	0.4	Craniofrontonasal dysplasia	OMIM:304110
+12	0.35	Joubert syndrome	OMIM:213300
+13	0.3	Neu-Laxova syndrome 1	OMIM:256520
+14	0.25	Mowat-Wilson syndrome	OMIM:235730
+15	0.2	Beckwith-Wiedemann syndrome	OMIM:130650

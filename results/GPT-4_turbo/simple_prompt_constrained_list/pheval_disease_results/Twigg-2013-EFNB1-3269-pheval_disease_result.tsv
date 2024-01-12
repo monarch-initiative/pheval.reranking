@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pfeiffer syndrome	OMIM:101600
+2	0.94	Apert syndrome	OMIM:101200
+3	0.92	Crouzon syndrome	OMIM:123500
+4	0.89	Saethre-Chotzen syndrome	OMIM:101400
+5	0.86	Carpenter syndrome	OMIM:201000
+6	0.85	Craniofrontonasal dysplasia	OMIM:304110
+7	0.83	Greig cephalopolysyndactyly syndrome	OMIM:175700
+8	0.82	Jackson-Weiss syndrome	OMIM:123150
+9	0.8	Antley-Bixler syndrome	OMIM:207410
+10	0.77	Cornelia de Lange syndrome	OMIM:122470
+11	0.76	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+12	0.74	Muenke syndrome	OMIM:602849
+13	0.72	Noonan syndrome	OMIM:163950
+14	0.71	Wolf-Hirschhorn syndrome	OMIM:194190
+15	0.7	Cleidocranial dysplasia	OMIM:119600

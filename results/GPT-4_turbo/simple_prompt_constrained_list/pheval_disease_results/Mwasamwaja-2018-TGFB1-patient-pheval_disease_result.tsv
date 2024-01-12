@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Hypophosphatasia, Adult	OMIM:146300
+2	0.83	Myotonic Dystrophy 1	OMIM:160900
+3	0.8	Camurati-Engelmann Disease	OMIM:131300
+4	0.78	Cushing's Syndrome	OMIM:219090
+5	0.77	Multiple Myeloma	OMIM:254500
+6	0.75	Paget Disease of Bone	OMIM:602080
+7	0.73	McCune-Albright Syndrome	OMIM:174800
+8	0.71	Malignant Hyperthermia Susceptibility	OMIM:145600
+9	0.7	Glycogen Storage Disease Type V	OMIM:232600
+10	0.68	Fibrous Dysplasia	OMIM:174800
+11	0.66	Hyperthyroidism, Nonautoimmune	OMIM:609152
+12	0.65	Osteogenesis Imperfecta, Type III	OMIM:259420
+13	0.63	Osteopetrosis, Autosomal Dominant 1	OMIM:607634
+14	0.62	Endocrine-Cerebroosteodysplasia	OMIM:612651
+15	0.6	Osteopetrosis, Autosomal Recessive 1	OMIM:259700

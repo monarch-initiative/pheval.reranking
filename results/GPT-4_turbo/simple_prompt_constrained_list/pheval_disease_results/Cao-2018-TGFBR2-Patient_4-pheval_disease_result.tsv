@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Loeys-Dietz syndrome 1	OMIM:609192
+2	0.85	Loeys-Dietz syndrome 2	OMIM:610168
+4	0.8	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+5	0.75	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+6	0.65	Familial thoracic aortic aneurysm and dissection	OMIM:607086
+6	0.65	Congenital contractural arachnodactyly	OMIM:121050
+8	0.6	MASS phenotype	OMIM:604308
+9	0.55	Mitral valve prolapse, familial, autosomal dominant	OMIM:157700
+10	0.5	Shprintzen-Goldberg syndrome	OMIM:182212
+10	0.5	Stickler syndrome, type 1	OMIM:108300
+12	0.45	Homocystinuria due to CBS deficiency	OMIM:236200
+13	0.4	Cutis laxa, autosomal dominant	OMIM:123700
+13	0.4	Beals-Hecht syndrome	OMIM:121050
+15	0.35	Noonan syndrome 1	OMIM:163950

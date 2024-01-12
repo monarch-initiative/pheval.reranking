@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Megalencephalic Leukoencephalopathy With Subcortical Cysts 1	OMIM:604187
+2	0.85	Glutaric Acidemia I	OMIM:231670
+3	0.8	Pelizaeus-Merzbacher Disease	OMIM:312080
+4	0.75	Angelman Syndrome	OMIM:105830
+5	0.7	Rett Syndrome	OMIM:312750
+6	0.65	Episodic Ataxia Type 1	OMIM:160120
+7	0.6	Alexander Disease	OMIM:203450
+8	0.55	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.5	Phenylketonuria	OMIM:261600
+10	0.45	Canavan Disease	OMIM:271900
+11	0.4	Leigh Syndrome	OMIM:256000
+12	0.35	Tay-Sachs Disease	OMIM:272800
+13	0.3	Wilson Disease	OMIM:277900
+14	0.25	Adrenoleukodystrophy	OMIM:300100
+15	0.2	Sanfilippo Syndrome Type A	OMIM:252900

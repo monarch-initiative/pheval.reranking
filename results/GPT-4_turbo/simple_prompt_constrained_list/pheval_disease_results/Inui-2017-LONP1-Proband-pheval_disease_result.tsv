@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Peroxisome biogenesis disorder 1B	OMIM:601539
+2	0.7	Mitochondrial DNA depletion syndrome 4B, MNGIE type	OMIM:613662
+3	0.65	Pyruvate dehydrogenase E2 deficiency	OMIM:245348
+4	0.6	Microcephaly, epilepsy, and diabetes syndrome	OMIM:614231
+5	0.55	Methylmalonic aciduria and homocystinuria, cblC type	OMIM:277400
+6	0.5	Cerebral creatine deficiency syndrome 2	OMIM:612736
+7	0.45	Mitochondrial complex III deficiency, nuclear type 2	OMIM:615157
+8	0.4	Dystonia 18	OMIM:612067
+9	0.35	Sulfite oxidase deficiency	OMIM:272300
+10	0.3	Pyruvate carboxylase deficiency	OMIM:266150
+11	0.25	Epilepsy, progressive myoclonic 3, with or without intracellular inclusions	OMIM:611726
+12	0.2	Beta-hydroxyisobutyryl-CoA deacylase deficiency	OMIM:250620
+13	0.15	Cataract 40	OMIM:116200
+14	0.1	Biotinidase deficiency	OMIM:253260
+15	0.05	Holocarboxylase synthetase deficiency	OMIM:253270

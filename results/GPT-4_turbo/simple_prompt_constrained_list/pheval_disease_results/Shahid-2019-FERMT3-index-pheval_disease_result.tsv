@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Leukocyte Adhesion Deficiency, Type I	OMIM:116920
+2	0.87	Immunodeficiency 12	OMIM:611182
+3	0.85	Agammaglobulinemia 3, Autosomal Recessive	OMIM:613501
+4	0.83	Heavy Chain Deposition Disease	OMIM:601367
+5	0.81	Alpha Heavy Chain Disease	OMIM:132600
+6	0.8	Gamma Heavy Chain Disease	OMIM:230150
+7	0.75	Immunodeficiency 24	OMIM:615897
+8	0.73	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.7	Sjogren-Larsson Syndrome	OMIM:270200
+10	0.68	Common Variable Immunodeficiency	OMIM:607594
+11	0.65	Immunodeficiency 14	OMIM:615513
+12	0.63	Hyper IgM Immunodeficiency Syndrome	OMIM:308230
+13	0.6	Hypogammaglobulinemia	OMIM:307200
+14	0.58	Immunodeficiency Centromeric Instability Facial Anomalies Syndrome	OMIM:242860
+15	0.55	Severe Combined Immunodeficiency	OMIM:102700

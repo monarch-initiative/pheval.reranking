@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 27	OMIM:609284
+2	0.85	Spinocerebellar ataxia 14	OMIM:605282
+3	0.8	Spinocerebellar ataxia 35	OMIM:613908
+3	0.8	Spinocerebellar ataxia, autosomal recessive 10	OMIM:614341
+5	0.75	Spinocerebellar ataxia 1	OMIM:164400
+5	0.75	Spinocerebellar ataxia 8	OMIM:603680
+5	0.75	Spinocerebellar ataxia 3	OMIM:109150
+8	0.7	Spinocerebellar ataxia, autosomal recessive 8	OMIM:610743
+8	0.7	Spinocerebellar ataxia 28	OMIM:610246
+10	0.65	Spinocerebellar ataxia 2	OMIM:183090
+10	0.65	Spinocerebellar ataxia 38	OMIM:615957
+10	0.65	Friedreich ataxia 1	OMIM:229300
+13	0.6	Early-onset cerebellar ataxia with retained tendon reflexes	OMIM:606002
+13	0.6	Spinocerebellar ataxia 36	OMIM:614153
+15	0.55	Spinocerebellar ataxia 7	OMIM:164500

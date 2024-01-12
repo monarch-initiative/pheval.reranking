@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Retinitis Pigmentosa	OMIM:268000
+2	0.82	Usher Syndrome, Type I	OMIM:276900
+3	0.81	Stargardt Disease	OMIM:248200
+4	0.8	Cone-Rod Dystrophy	OMIM:120970
+5	0.79	Leber Congenital Amaurosis	OMIM:204000
+6	0.76	Choroideremia	OMIM:303100
+7	0.75	Bardet-Biedl Syndrome	OMIM:209900
+8	0.74	Best Disease	OMIM:153700
+9	0.73	Gyrate Atrophy	OMIM:258870
+10	0.72	X-Linked Juvenile Retinoschisis	OMIM:312700
+11	0.71	Batten Disease	OMIM:204200
+12	0.7	Neuronal Ceroid Lipofuscinosis	OMIM:256730
+13	0.69	North Carolina Macular Dystrophy	OMIM:136550
+14	0.68	Macular Dystrophy, Patterned	OMIM:169150
+15	0.67	Alstrom Syndrome	OMIM:203800

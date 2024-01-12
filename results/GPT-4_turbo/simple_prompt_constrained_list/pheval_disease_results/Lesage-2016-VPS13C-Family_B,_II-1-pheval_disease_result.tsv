@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson disease 7, autosomal recessive early-onset	OMIM:606324
+2	0.85	Dystonia 12	OMIM:128235
+3	0.8	Lewy body dementia	OMIM:127750
+4	0.75	Multiple system atrophy, parkinsonian type	OMIM:146500
+5	0.7	Parkinson disease 1, autosomal dominant	OMIM:168600
+6	0.65	Parkinson disease 2, autosomal recessive juvenile	OMIM:600116
+7	0.6	Parkinson disease 4, autosomal dominant	OMIM:605543
+8	0.55	Dystonia 1, torsion, autosomal dominant	OMIM:128100
+9	0.5	Parkinson disease 8, autosomal dominant	OMIM:607060
+10	0.45	Supranuclear palsy, progressive, 1	OMIM:601104
+11	0.4	Parkinson disease 9	OMIM:606693
+12	0.35	Parkinson disease 10	OMIM:605688
+13	0.3	Parkinson disease 13, autosomal dominant	OMIM:610297
+14	0.25	Parkinson disease 18, autosomal dominant	OMIM:614251
+15	0.2	Corticobasal degeneration	OMIM:615637

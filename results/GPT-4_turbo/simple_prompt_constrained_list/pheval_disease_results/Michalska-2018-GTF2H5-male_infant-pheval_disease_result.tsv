@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neutral Lipid Storage Disease With Myopathy	OMIM:610717
+2	0.89	Chanarin-Dorfman Syndrome	OMIM:275630
+3	0.88	Conradi-Hunermann Syndrome	OMIM:302960
+4	0.87	Trichohepatoenteric Syndrome	OMIM:222470
+5	0.86	Mulibrey Nanism	OMIM:253250
+6	0.85	Aspartylglycosaminuria	OMIM:208400
+7	0.84	Salla Disease	OMIM:604369
+8	0.83	Infantile Free Sialic Acid Storage Disease	OMIM:269920
+9	0.82	Wolman Disease	OMIM:278000
+10	0.81	Cholesteryl Ester Storage Disease	OMIM:278000
+11	0.8	Farber Lipogranulomatosis	OMIM:228000
+12	0.79	Gaucher Disease Type 1	OMIM:230800
+13	0.78	Niemann-Pick Disease Type C1	OMIM:257220
+14	0.77	Cystinosis	OMIM:219800
+15	0.76	I-cell Disease (mucolipidosis II)	OMIM:252500

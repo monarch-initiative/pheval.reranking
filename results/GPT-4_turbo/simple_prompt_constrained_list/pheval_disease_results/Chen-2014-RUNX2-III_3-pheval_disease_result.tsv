@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cleidocranial dysplasia	OMIM:119600
+2	0.8	Craniofacial-deafness-hand syndrome	OMIM:122880
+3	0.7	Hajdu-Cheney syndrome	OMIM:102500
+4	0.6	Hyperphosphatasia with mental retardation syndrome 1	OMIM:239300
+5	0.5	Khudr-Pfeiffer syndrome	OMIM:601391
+5	0.5	Marshall-Smith syndrome	OMIM:602535
+5	0.5	Oculo-dento-osseous dysplasia dominant	OMIM:164200
+5	0.5	Oto-palato-digital syndrome type 1	OMIM:311300
+5	0.5	Parietal foramina with cleidocranial dysplasia	OMIM:168550
+5	0.5	Progeroid syndrome Petty type	OMIM:261075
+5	0.5	Pyknoachondrogenesis	OMIM:615196
+5	0.5	Raine syndrome	OMIM:259775
+5	0.5	Rosselli-Gulienetti syndrome	OMIM:218050
+5	0.5	Singleton-Merten syndrome	OMIM:182250
+5	0.5	Tetraamelia-multiple malformations syndrome	OMIM:273395

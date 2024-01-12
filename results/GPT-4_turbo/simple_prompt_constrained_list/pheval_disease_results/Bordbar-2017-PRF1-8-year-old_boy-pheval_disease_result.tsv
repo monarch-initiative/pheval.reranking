@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hemophagocytic lymphohistiocytosis, familial, 2	OMIM:603553
+2	0.92	Neurodegeneration with brain iron accumulation 2B	OMIM:606159
+3	0.9	Acute liver failure, neonatal	OMIM:613070
+4	0.89	Wilson disease	OMIM:277900
+5	0.88	Alpha-1-antitrypsin deficiency	OMIM:107400
+6	0.87	Mitochondrial DNA depletion syndrome 12B	OMIM:615418
+7	0.86	Citrullinemia, type II, adult-onset	OMIM:603471
+8	0.85	Glycogen storage disease type IV	OMIM:232500
+9	0.84	Tyrosinemia, type I	OMIM:276700
+10	0.83	Leukodystrophy, hypomyelinating, 4	OMIM:612233
+11	0.82	Mevalonic aciduria	OMIM:251170
+12	0.81	Hemochromatosis, type 2A	OMIM:602390
+13	0.8	Hemochromatosis, type 4	OMIM:606069
+14	0.79	Aceruloplasminemia	OMIM:604290
+15	0.78	Menkes disease	OMIM:309400

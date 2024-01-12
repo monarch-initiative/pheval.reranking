@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glycogen storage disease due to liver phosphorylase kinase deficiency	OMIM:306000
+2	0.85	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	OMIM:612073
+2	0.85	Propionic acidemia	OMIM:606054
+4	0.8	Duchenne muscular dystrophy	OMIM:310200
+5	0.75	Malignant hyperthermia	OMIM:145600
+5	0.75	Myoadenylate deaminase deficiency	OMIM:615511
+7	0.7	Nemaline myopathy 2, autosomal recessive	OMIM:256030
+8	0.65	Long QT syndrome 1	OMIM:192500
+9	0.6	Barth syndrome	OMIM:302060
+9	0.6	Becker muscular dystrophy	OMIM:300376
+9	0.6	Carnitine palmitoyltransferase II deficiency, infantile	OMIM:255110
+9	0.6	Glutaric acidemia I	OMIM:231670
+9	0.6	Myotonic dystrophy 1	OMIM:160900
+9	0.6	Pyruvate dehydrogenase E1-alpha deficiency	OMIM:312170
+15	0.55	Very long-chain acyl-CoA dehydrogenase deficiency	OMIM:201475

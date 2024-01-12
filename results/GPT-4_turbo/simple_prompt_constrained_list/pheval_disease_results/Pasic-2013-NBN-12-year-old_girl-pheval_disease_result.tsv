@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cartilage-Hair Hypoplasia	OMIM:250250
+2	0.85	Immunodeficiency, Common Variable, 1	OMIM:607594
+3	0.8	Severe Combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:602450
+4	0.75	Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 1	OMIM:242860
+5	0.7	Nijmegen Breakage Syndrome	OMIM:251260
+6	0.65	Bloom Syndrome	OMIM:210900
+7	0.6	Hyper-IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+8	0.55	Ataxia-Telangiectasia	OMIM:208900
+9	0.5	Schimke Immunoosseous Dysplasia	OMIM:242900
+10	0.45	Dubowitz Syndrome	OMIM:223370
+11	0.4	Wiskott-Aldrich Syndrome	OMIM:301000
+12	0.35	Chromosome 22q11.2 Deletion Syndrome, DiGeorge Syndrome	OMIM:188400
+13	0.3	Kabuki Syndrome 1	OMIM:147920
+14	0.25	Hyper-IgE Recurrent Infection Syndrome, Autosomal Dominant	OMIM:147060
+15	0.2	Cohen Syndrome	OMIM:216550

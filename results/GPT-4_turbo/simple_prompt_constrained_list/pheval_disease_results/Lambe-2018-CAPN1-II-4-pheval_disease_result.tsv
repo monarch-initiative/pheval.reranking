@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:303350
+2	0.9	Cerebral Palsy, Spastic Quadriplegic	OMIM:603513
+3	0.85	Amyotrophic Lateral Sclerosis	OMIM:105400
+4	0.83	Spinocerebellar Ataxia, Autosomal Recessive	OMIM:271250
+5	0.82	Leukodystrophy, Hypomyelinating	OMIM:312080
+6	0.8	Multiple Sclerosis	OMIM:126200
+7	0.76	Spastic Ataxia-Charlevoix-Saguenay Type	OMIM:270550
+8	0.75	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	OMIM:270550
+9	0.74	Cerebral Autosomal Dominant Arteriopathy With Subcortical Infarcts And Leukoencephalopathy	OMIM:125310
+10	0.72	Spastic Tetraplegia, Thin Corpus Callosum, And Progressive Microcephaly	OMIM:612398
+11	0.7	Primary Lateral Sclerosis	OMIM:611637
+12	0.68	Spastic Paraplegia	OMIM:182600
+13	0.65	Adrenoleukodystrophy	OMIM:300100
+14	0.6	Alexander Disease	OMIM:203450
+15	0.58	Leukoencephalopathy, Progressive, With Ovarian Failure	OMIM:615889

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pfeiffer Syndrome	OMIM:101600
+2	0.88	Crouzon Syndrome	OMIM:123500
+3	0.85	Apert Syndrome	OMIM:101200
+4	0.8	Saethre-Chotzen Syndrome	OMIM:101400
+5	0.78	Beckwith-Wiedemann Syndrome	OMIM:130650
+6	0.75	Mucopolysaccharidosis, Type IVA	OMIM:253000
+7	0.7	Mandibulofacial Dysostosis With Microcephaly	OMIM:610536
+8	0.65	Carpenter Syndrome	OMIM:201000
+9	0.63	Rubinstein-Taybi Syndrome	OMIM:180849
+10	0.6	Treacher Collins Syndrome 1	OMIM:154500
+11	0.58	Mucopolysaccharidosis Type II (Hunter Syndrome)	OMIM:309900
+12	0.56	Cornelia De Lange Syndrome 1	OMIM:122470
+13	0.55	22q11.2 Deletion Syndrome	OMIM:188400
+14	0.53	Waardenburg Syndrome, Type 1	OMIM:193500
+15	0.5	Noonan Syndrome 1	OMIM:163950

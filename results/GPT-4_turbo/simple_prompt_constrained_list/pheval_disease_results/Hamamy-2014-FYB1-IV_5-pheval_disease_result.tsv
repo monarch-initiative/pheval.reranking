@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Thrombocytopenia 2	OMIM:188000
+2	0.89	ANKRD26-related thrombocytopenia	OMIM:613998
+3	0.88	Thrombocytopenia 4	OMIM:612004
+4	0.87	Thrombocytopenia-absent radius syndrome	OMIM:274000
+5	0.86	MYH9-related disorders	OMIM:160775
+6	0.85	Jacobsen syndrome	OMIM:147791
+6	0.85	Wiskott-Aldrich syndrome	OMIM:301000
+8	0.84	Paris-Trousseau thrombocytopenia	OMIM:188025
+8	0.84	TCPTP-deficient congenital neutropenia with thrombocytopenia	OMIM:616895
+10	0.83	Platelet disorder, familial, with associated myeloid malignancy	OMIM:601399
+10	0.83	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+12	0.82	Familial platelet disorder with associated myeloid malignancy	OMIM:601399
+12	0.82	ACTN1-related thrombocytopenia	OMIM:615193
+14	0.81	Gray platelet syndrome	OMIM:139090
+15	0.8	Amegakaryocytic thrombocytopenia	OMIM:604498

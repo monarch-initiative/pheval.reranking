@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan syndrome	OMIM:154700
+2	0.8	Loeys-Dietz syndrome type 1	OMIM:609192
+2	0.8	Loeys-Dietz syndrome type 2	OMIM:610168
+2	0.8	Loeys-Dietz syndrome type 3	OMIM:613795
+5	0.75	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+6	0.7	MASS phenotype	OMIM:604308
+7	0.65	Familial aortic dissection	OMIM:607086
+7	0.65	Shprintzen-Goldberg syndrome	OMIM:182212
+9	0.55	Congenital contractural arachnodactyly	OMIM:121050
+9	0.55	Beals syndrome	OMIM:121050
+11	0.5	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+11	0.5	Ehlers-Danlos syndrome, classic type	OMIM:130000
+11	0.5	Ehlers-Danlos syndrome, kyphoscoliotic type	OMIM:225400
+11	0.5	Familial thoracic aortic aneurysm and aortic dissection	OMIM:607087
+15	0.45	Homocystinuria	OMIM:236200

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar Ataxia Type 15	OMIM:606658
+2	0.89	Spinocerebellar Ataxia Type 2	OMIM:183090
+3	0.88	Spinocerebellar Ataxia Type 1	OMIM:164400
+4	0.87	Friedreich Ataxia	OMIM:229300
+5	0.86	Multiple System Atrophy, Cerebellar Type	OMIM:117210
+6	0.85	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	OMIM:270550
+7	0.84	Episodic Ataxia Type 2	OMIM:108500
+8	0.83	Spinocerebellar Ataxia Type 3	OMIM:109150
+9	0.82	Spinocerebellar Ataxia Type 6	OMIM:183086
+10	0.81	Autosomal Dominant Cerebellar Ataxia	OMIM:117210
+11	0.8	Ataxia-Telangiectasia	OMIM:208900
+12	0.79	Late-Onset Friedreich Ataxia	OMIM:229300
+13	0.78	Spinocerebellar Ataxia, Autosomal Recessive 1	OMIM:606002
+14	0.77	Ataxia with Oculomotor Apraxia Type 2	OMIM:606002
+15	0.76	Spinocerebellar Ataxia Type 7	OMIM:164500

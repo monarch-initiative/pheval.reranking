@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Multiple system atrophy, cerebellar type	OMIM:117210
+2	0.88	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+3	0.87	Spinocerebellar ataxia 2	OMIM:183090
+4	0.86	Spinocerebellar ataxia 3	OMIM:109150
+5	0.85	Perry syndrome	OMIM:168605
+6	0.84	Spinocerebellar ataxia 17	OMIM:607136
+7	0.83	Troyer syndrome	OMIM:275900
+8	0.82	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+9	0.81	Leigh syndrome, French-Canadian type	OMIM:220111
+10	0.8	Friedreich ataxia	OMIM:229300
+11	0.79	Ataxia-telangiectasia	OMIM:208900
+12	0.78	Cerebral palsy, spastic quadriplegic	OMIM:603513
+13	0.77	Early-onset cerebellar ataxia with retained tendon reflexes	OMIM:606002
+14	0.76	Behr syndrome	OMIM:210000
+15	0.75	Wilson disease	OMIM:277900

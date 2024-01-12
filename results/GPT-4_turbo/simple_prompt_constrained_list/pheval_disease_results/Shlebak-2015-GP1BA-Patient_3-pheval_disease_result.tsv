@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Glanzmann thrombasthenia	OMIM:273800
+2	0.8	Bernard-Soulier syndrome	OMIM:231200
+3	0.75	Wiskott-Aldrich syndrome	OMIM:301000
+4	0.7	Gray platelet syndrome	OMIM:139090
+5	0.65	Paris-Trousseau thrombocytopenia	OMIM:188025
+6	0.6	MYH9-related disorders	OMIM:160775
+7	0.55	Hemophilia A	OMIM:306700
+8	0.5	Hemophilia B	OMIM:306900
+9	0.45	Von Willebrand disease	OMIM:193400
+10	0.4	Platelet-type bleeding disorder 17	OMIM:187900
+11	0.35	Scott syndrome	OMIM:262890
+12	0.3	May-Hegglin anomaly	OMIM:155100
+13	0.25	X-linked thrombocytopenia	OMIM:313900
+14	0.2	Quebec platelet disorder	OMIM:601709
+15	0.15	Congenital amegakaryocytic thrombocytopenia	OMIM:604498

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Joubert Syndrome 10	OMIM:614173
+2	0.85	Joubert Syndrome 3	OMIM:608629
+2	0.85	Joubert Syndrome 9	OMIM:612285
+4	0.8	Meckel Syndrome 4	OMIM:611134
+4	0.8	Meckel Syndrome 5	OMIM:611561
+4	0.8	Joubert Syndrome 13	OMIM:614424
+7	0.75	Coffin-Siris Syndrome 4	OMIM:614609
+7	0.75	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+9	0.7	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.7	Perrault Syndrome 1	OMIM:233400
+9	0.7	Noonan Syndrome 1	OMIM:163950
+9	0.7	Cornelia De Lange Syndrome 1	OMIM:122470
+13	0.65	Cerebro-oculo-facio-skeletal Syndrome 1	OMIM:214150
+14	0.6	Craniofrontonasal Syndrome	OMIM:304110
+14	0.6	Bardet-Biedl Syndrome 1	OMIM:209900

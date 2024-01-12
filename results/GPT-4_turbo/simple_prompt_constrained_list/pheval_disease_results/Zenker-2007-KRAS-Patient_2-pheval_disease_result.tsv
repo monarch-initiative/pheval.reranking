@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.8	Noonan Syndrome 1	OMIM:163950
+2	0.75	Costello Syndrome	OMIM:218040
+3	0.7	Cardiofaciocutaneous Syndrome	OMIM:115150
+4	0.65	LEOPARD Syndrome 1	OMIM:151100
+5	0.6	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.55	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.5	Williams Syndrome	OMIM:194050
+8	0.45	Rubinstein-Taybi Syndrome 1	OMIM:180849
+9	0.4	Neurofibromatosis, Type I	OMIM:162200
+10	0.35	Mowat-Wilson Syndrome	OMIM:235730
+11	0.3	Crouzon Syndrome	OMIM:123500
+12	0.25	Apert Syndrome	OMIM:101200
+13	0.2	Marfan Syndrome	OMIM:154700
+14	0.15	Prader-Willi Syndrome	OMIM:176270
+15	0.1	Sotos Syndrome 1	OMIM:117550

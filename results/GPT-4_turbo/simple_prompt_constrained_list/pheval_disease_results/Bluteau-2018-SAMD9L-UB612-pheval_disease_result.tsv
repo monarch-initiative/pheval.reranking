@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia, complementation group A	OMIM:227650
+2	0.85	Dyskeratosis congenita, autosomal dominant 2	OMIM:613989
+3	0.82	Severe combined immunodeficiency with sensitivity to ionizing radiation	OMIM:602450
+4	0.8	Shwachman-Diamond syndrome 1	OMIM:260400
+4	0.8	Revesz syndrome	OMIM:268130
+6	0.79	Diamond-Blackfan anemia 1	OMIM:105650
+7	0.75	Retinitis pigmentosa-deafness syndrome	OMIM:605515
+7	0.75	Pearson marrow-pancreas syndrome	OMIM:557000
+9	0.73	Amegakaryocytic thrombocytopenia, congenital	OMIM:604498
+10	0.72	Thrombocytopenia-absent radius syndrome	OMIM:274000
+11	0.71	Congenital dyserythropoietic anemia, type I	OMIM:224120
+12	0.7	Cartilage-hair hypoplasia	OMIM:250250
+13	0.68	Myelodysplastic syndrome	OMIM:614286
+14	0.65	Acute myeloid leukemia 1	OMIM:601626
+15	0.63	Leukemia, juvenile myelomonocytic	OMIM:607785

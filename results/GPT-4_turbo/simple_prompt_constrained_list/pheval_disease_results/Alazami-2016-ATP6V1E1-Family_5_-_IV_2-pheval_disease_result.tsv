@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cutis Laxa, Autosomal Recessive, Type IIIB	OMIM:614437
+2	0.85	Marfan Syndrome	OMIM:154700
+3	0.8	Loeys-Dietz Syndrome 1	OMIM:609192
+3	0.8	Loeys-Dietz Syndrome 2	OMIM:610168
+5	0.75	Supravalvular Aortic Stenosis	OMIM:185500
+5	0.75	Williams Syndrome	OMIM:194050
+5	0.75	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+8	0.7	Ehlers-Danlos Syndrome, Cardiac-Valvular Type	OMIM:225320
+8	0.7	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+8	0.7	Arterial Tortuosity Syndrome	OMIM:208050
+11	0.65	Beta-Ureidopropionase Deficiency	OMIM:613161
+12	0.6	Stickler Syndrome, Type I, Nonsyndromic Ocular	OMIM:609508
+12	0.6	Familial Thoracic Aortic Aneurysm And Aortic Dissection	OMIM:607086
+14	0.55	Familial Hyperaldosteronism Type II	OMIM:605635
+15	0.5	Multiple Epiphyseal Dysplasia 1	OMIM:132400

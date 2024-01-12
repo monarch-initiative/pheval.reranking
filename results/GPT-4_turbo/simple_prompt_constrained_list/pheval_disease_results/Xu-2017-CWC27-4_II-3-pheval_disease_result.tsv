@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Craniosynostosis	OMIM:123450
+2	0.85	Bardet-Biedl Syndrome	OMIM:209900
+3	0.8	Smith-Lemli-Opitz Syndrome	OMIM:270400
+4	0.7	Coffin-Siris Syndrome	OMIM:135900
+5	0.65	Short-Rib Thoracic Dysplasia	OMIM:263520
+6	0.6	Rubinstein-Taybi Syndrome	OMIM:180849
+7	0.55	Cornelia de Lange Syndrome	OMIM:122470
+8	0.5	Nail-Patella Syndrome	OMIM:161200
+9	0.45	Meckel Syndrome	OMIM:249000
+10	0.4	Joubert Syndrome	OMIM:213300
+11	0.35	Hallermann-Streiff Syndrome	OMIM:234100
+12	0.3	CHARGE Syndrome	OMIM:214800
+13	0.25	Mucopolysaccharidosis Type IV	OMIM:253000
+14	0.2	Waardenburg Syndrome	OMIM:193500
+15	0.15	Renal Cysts and Diabetes Syndrome	OMIM:137920

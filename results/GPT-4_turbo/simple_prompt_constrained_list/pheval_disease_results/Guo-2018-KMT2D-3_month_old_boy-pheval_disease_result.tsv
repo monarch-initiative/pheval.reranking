@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cornelia de Lange syndrome	OMIM:122470
+2	0.85	CHARGE syndrome	OMIM:214800
+3	0.83	DiGeorge syndrome	OMIM:188400
+4	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.8	Noonan syndrome	OMIM:163950
+5	0.8	Treacher Collins syndrome	OMIM:154500
+7	0.79	Velocardiofacial syndrome	OMIM:192430
+7	0.79	Williams syndrome	OMIM:194050
+9	0.78	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.77	Pallister-Killian syndrome	OMIM:601803
+11	0.76	Cleidocranial dysplasia	OMIM:119600
+12	0.75	Wolf-Hirschhorn syndrome	OMIM:194190
+13	0.74	Rubinstein-Taybi syndrome	OMIM:180849
+14	0.73	Pierre Robin syndrome	OMIM:261800
+15	0.72	Goldenhar syndrome	OMIM:164210

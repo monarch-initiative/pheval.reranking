@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spondyloepimetaphyseal dysplasia with joint laxity	OMIM:603546
+2	0.9	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.85	Ellis-van Creveld syndrome	OMIM:225500
+4	0.8	Beals syndrome	OMIM:121050
+5	0.75	Greenberg dysplasia	OMIM:215140
+6	0.7	Diastrophic dysplasia	OMIM:222600
+7	0.65	Multiple epiphyseal dysplasia	OMIM:132400
+8	0.6	Cleidocranial dysplasia	OMIM:119600
+9	0.55	Marfan syndrome	OMIM:154700
+10	0.5	Stickler syndrome	OMIM:108300
+11	0.45	Pseudoachondroplasia	OMIM:177170
+12	0.4	Achondroplasia	OMIM:100800
+13	0.35	Noonan syndrome	OMIM:163950
+14	0.3	Schwartz-Jampel syndrome	OMIM:255800
+15	0.25	Camptomelic dysplasia	OMIM:114290

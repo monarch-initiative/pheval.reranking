@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	DiGeorge syndrome	OMIM:188400
+2	0.85	Holt-Oram syndrome	OMIM:142900
+3	0.8	CHARGE syndrome	OMIM:214800
+3	0.8	VACTERL association	OMIM:192350
+5	0.75	Ellis-van Creveld syndrome	OMIM:225500
+6	0.7	Noonan syndrome	OMIM:163950
+7	0.65	Alagille syndrome	OMIM:118450
+7	0.65	Tetralogy of Fallot	OMIM:187500
+9	0.6	Trisomy 18	OMIM:190685
+9	0.6	Trisomy 13	OMIM:267000
+11	0.55	Down syndrome	OMIM:190685
+12	0.5	Cornelia de Lange syndrome	OMIM:122470
+12	0.5	Williams syndrome	OMIM:194050
+14	0.45	Smith-Lemli-Opitz syndrome	OMIM:270400
+15	0.4	Patau syndrome	OMIM:267000

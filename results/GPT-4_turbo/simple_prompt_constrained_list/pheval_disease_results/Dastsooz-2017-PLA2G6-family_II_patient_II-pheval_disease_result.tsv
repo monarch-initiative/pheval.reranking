@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pompe disease	OMIM:232300
+2	0.93	Glycogen storage disease type II	OMIM:232300
+3	0.91	Mitochondrial complex I deficiency	OMIM:252010
+4	0.87	Neuronal ceroid lipofuscinosis	OMIM:256730
+5	0.85	Gaucher disease	OMIM:230800
+6	0.84	Mitochondrial DNA depletion syndrome	OMIM:251880
+7	0.82	Mucopolysaccharidosis type II (Hunter syndrome)	OMIM:309900
+8	0.81	Mucopolysaccharidosis type I (Hurler syndrome)	OMIM:607014
+9	0.79	Mucopolysaccharidosis type III (Sanfilippo syndrome)	OMIM:252900
+10	0.77	Proximal myopathy with extrapyramidal signs	OMIM:615673
+11	0.75	Becker muscular dystrophy	OMIM:300376
+12	0.74	Duchenne muscular dystrophy	OMIM:310200
+13	0.72	Niemann-Pick disease type C	OMIM:257220
+14	0.71	Niemann-Pick disease, SMPD1-associated	OMIM:607608
+15	0.69	Myoadenylate deaminase deficiency	OMIM:615511

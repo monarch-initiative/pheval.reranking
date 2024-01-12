@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Woodhouse-Sakati Syndrome	OMIM:241080
+2	0.85	Boucher-Neuhauser Syndrome	OMIM:215470
+3	0.8	Gordon Holmes Syndrome	OMIM:212840
+4	0.75	Kallmann Syndrome	OMIM:308700
+5	0.7	Perrault Syndrome	OMIM:233400
+6	0.65	Leber Congenital Amaurosis	OMIM:204000
+7	0.6	CHARGE Syndrome	OMIM:214800
+8	0.55	Bardet-Biedl Syndrome	OMIM:209900
+9	0.5	Retinitis Pigmentosa	OMIM:268000
+10	0.45	Friedreich Ataxia	OMIM:229300
+11	0.4	Spinocerebellar Ataxia	OMIM:164400
+12	0.35	Alstrom Syndrome	OMIM:203800
+13	0.3	Usher Syndrome	OMIM:276900
+14	0.25	Cohen Syndrome	OMIM:216550
+15	0.2	Refsum Disease	OMIM:266500

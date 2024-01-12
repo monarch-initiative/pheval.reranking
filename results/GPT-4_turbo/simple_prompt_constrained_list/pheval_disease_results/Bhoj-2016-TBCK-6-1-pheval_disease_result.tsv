@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Mucopolysaccharidosis, Type IIID	OMIM:252940
+2	0.74	Cerebrocostomandibular Syndrome	OMIM:117650
+3	0.73	Wolf-Hirschhorn Syndrome	OMIM:194190
+4	0.7	Angelman Syndrome	OMIM:105830
+4	0.7	Coffin-Siris Syndrome	OMIM:135900
+4	0.7	Rubinstein-Taybi Syndrome 1	OMIM:180849
+4	0.7	Smith-Magenis Syndrome	OMIM:182290
+8	0.69	Kabuki Syndrome 1	OMIM:147920
+8	0.69	Williams Syndrome	OMIM:194050
+10	0.68	Sotos Syndrome 1	OMIM:117550
+11	0.67	Pitt-Hopkins Syndrome	OMIM:610954
+11	0.67	Floating-Harbor Syndrome	OMIM:136140
+13	0.66	Saethre-Chotzen Syndrome	OMIM:101400
+14	0.65	Cardiofaciocutaneous Syndrome 1	OMIM:115150
+15	0.64	Carpenter Syndrome 1	OMIM:201000

@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Becker Muscular Dystrophy	OMIM:300376
+2	0.85	Amyotrophic Lateral Sclerosis 1	OMIM:105400
+3	0.8	Mitochondrial Myopathy	OMIM:609560
+4	0.75	Myoadenylate Deaminase Deficiency	OMIM:615511
+4	0.75	Charcot-Marie-Tooth Disease, Type 2A2	OMIM:609260
+6	0.7	Charcot-Marie-Tooth Disease, Dominant Intermediate B	OMIM:606482
+6	0.7	Charcot-Marie-Tooth Disease, Type 1A	OMIM:118220
+8	0.65	Spinal Muscular Atrophy, Lower Extremity-Predominant 2, Autosomal Dominant	OMIM:615290
+9	0.6	Limb-Girdle Muscular Dystrophy	OMIM:253600
+9	0.6	Glycogen Storage Disease Type V	OMIM:232600
+11	0.55	Limb-Girdle Muscular Dystrophy, Type 2A	OMIM:253600
+12	0.5	Charcot-Marie-Tooth Disease, Type 2D	OMIM:601472
+12	0.5	Myogenic Ptosis	OMIM:178300
+14	0.45	Hereditary Sensory and Autonomic Neuropathy Type IIA	OMIM:201300
+15	0.4	Glycogen Storage Disease Type VII	OMIM:232800

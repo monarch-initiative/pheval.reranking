@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.9	Pyknodysostosis	OMIM:265800
+3	0.85	Hypophosphatasia	OMIM:241500
+4	0.83	Campomelic Dysplasia	OMIM:114290
+5	0.81	Pfeiffer Syndrome	OMIM:101600
+6	0.8	Craniodiaphyseal Dysplasia	OMIM:218300
+7	0.78	Wolcott-Rallison Syndrome	OMIM:226980
+8	0.75	Thanatophoric Dysplasia, Type I	OMIM:187600
+9	0.73	Larsen Syndrome	OMIM:150250
+10	0.7	Metaphyseal Dysplasia, Schmid Type	OMIM:156500
+11	0.68	Coffin-Lowry Syndrome	OMIM:303600
+12	0.65	Osteopetrosis, Autosomal Recessive 1	OMIM:259700
+12	0.65	Keutel Syndrome	OMIM:245150
+14	0.63	Mucopolysaccharidosis Type IV	OMIM:253000
+15	0.6	Achondroplasia	OMIM:100800

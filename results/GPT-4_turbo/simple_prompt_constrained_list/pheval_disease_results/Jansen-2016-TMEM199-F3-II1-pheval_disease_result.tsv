@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Congenital disorders of glycosylation, type Ia	OMIM:212065
+2	0.85	Congenital disorders of glycosylation, type Ib	OMIM:602579
+3	0.8	Congenital disorders of glycosylation, type Ic	OMIM:603147
+4	0.75	Wilson disease	OMIM:277900
+5	0.7	Familial hypercholesterolemia	OMIM:143890
+6	0.65	Neuronal ceroid lipofuscinosis	OMIM:256730
+7	0.6	Usher syndrome, type 1	OMIM:276900
+8	0.55	Glycogen storage disease type II	OMIM:232300
+9	0.5	Lysosomal acid lipase deficiency	OMIM:278000
+10	0.45	Pompe disease	OMIM:232300
+11	0.4	Maple syrup urine disease	OMIM:248600
+12	0.35	Galactosemia	OMIM:230400
+13	0.3	Phenylketonuria	OMIM:261600
+14	0.25	Niemann-Pick disease, type C1	OMIM:257220
+15	0.2	Myopathic form of very-long-chain acyl-CoA dehydrogenase deficiency	OMIM:201475

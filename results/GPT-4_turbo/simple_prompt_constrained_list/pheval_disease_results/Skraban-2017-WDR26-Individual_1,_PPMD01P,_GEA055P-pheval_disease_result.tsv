@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Rett syndrome	OMIM:312750
+2	0.85	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.83	Craniofrontonasal syndrome	OMIM:304110
+4	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+5	0.81	Coffin-Siris syndrome 1	OMIM:135900
+6	0.79	Ohdo syndrome, SBBYS variant	OMIM:603736
+7	0.77	Fragile X syndrome	OMIM:300624
+8	0.76	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+9	0.75	Williams syndrome	OMIM:194050
+10	0.74	Marshall-Smith syndrome	OMIM:602535
+11	0.73	Wolf-Hirschhorn syndrome	OMIM:194190
+12	0.72	Noonan syndrome 1	OMIM:163950
+13	0.71	Aarskog-Scott syndrome	OMIM:305400
+14	0.7	Crouzon syndrome	OMIM:123500
+15	0.69	KBG syndrome	OMIM:148050

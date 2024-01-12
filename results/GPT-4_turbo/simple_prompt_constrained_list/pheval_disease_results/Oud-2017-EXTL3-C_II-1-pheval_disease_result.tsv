@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Mucopolysaccharidosis, Type II	OMIM:309900
+2	0.82	Pfeiffer Syndrome	OMIM:101600
+3	0.8	Apert Syndrome	OMIM:101200
+4	0.78	Beckwith-Wiedemann Syndrome	OMIM:130650
+5	0.76	Cleidocranial Dysplasia	OMIM:119600
+6	0.74	Craniofrontonasal Dysplasia	OMIM:304110
+7	0.72	Saethre-Chotzen Syndrome	OMIM:101400
+8	0.7	Crouzon Syndrome	OMIM:123500
+9	0.68	Jackson-Weiss Syndrome	OMIM:123150
+10	0.66	Loeys-Dietz Syndrome	OMIM:609192
+11	0.64	Mucopolysaccharidosis, Type IVA	OMIM:253000
+12	0.62	Shprintzen-Goldberg Syndrome	OMIM:182212
+13	0.6	Cornelia De Lange Syndrome	OMIM:122470
+14	0.58	Mucopolysaccharidosis, Type VI	OMIM:253200
+15	0.56	Pitt-Hopkins Syndrome	OMIM:610954

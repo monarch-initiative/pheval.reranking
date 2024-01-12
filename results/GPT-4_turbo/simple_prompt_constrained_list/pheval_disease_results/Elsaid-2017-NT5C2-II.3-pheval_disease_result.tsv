@@ -1,0 +1,16 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary spastic paraplegia	OMIM:303350
+2	0.85	L1 syndrome	OMIM:308840
+2	0.85	Pelizaeus-Merzbacher disease	OMIM:312080
+4	0.83	Metachromatic leukodystrophy	OMIM:250100
+5	0.82	Cerebral palsy, spastic quadriplegic	OMIM:603513
+6	0.8	Canavan disease	OMIM:271900
+7	0.79	Spastic paraplegia 3A	OMIM:182600
+7	0.79	2-hydroxyglutaric aciduria	OMIM:236792
+9	0.78	Alexander disease	OMIM:203450
+10	0.76	Cockayne syndrome	OMIM:216400
+11	0.75	Zellweger spectrum disorder	OMIM:214100
+12	0.74	Mucopolysaccharidosis type I	OMIM:607014
+13	0.73	Vanishing white matter disease	OMIM:603896
+14	0.72	Rett syndrome	OMIM:312750
+15	0.71	Aicardi-Goutieres syndrome	OMIM:225750
