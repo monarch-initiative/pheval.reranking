@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parkinson's disease	OMIM:168600
+2	0.8	Parkinson's disease 14	OMIM:612953
+3	0.75	Dystonia 2	OMIM:602629
+4	0.7	Leigh Syndrome	OMIM:256000
+5	0.68	Neurodegeneration with Brain Iron Accumulation 1	OMIM:234200
+6	0.65	Dystonia 16	OMIM:612067
+7	0.6	Multiple System Atrophy 1	OMIM:146500
+8	0.55	Spinocerebellar ataxia 3	OMIM:109150
+9	0.5	Huntington disease	OMIM:143100
+10	0.45	Progeria syndrome	OMIM:176670

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.9	Ehlers-Danlos Syndrome, Type IV	OMIM:130050
+3	0.88	Beals Syndrome	OMIM:121050
+4	0.85	Stickler Syndrome, Type I	OMIM:108300
+5	0.82	Loeys-Dietz Syndrome	OMIM:609192
+6	0.79	Weill-Marchesani Syndrome	OMIM:608328
+7	0.76	Cohen Syndrome	OMIM:216550
+8	0.75	Homocystinuria due to CBS deficiency	OMIM:236200
+9	0.72	Osteogenesis Imperfecta, Type II	OMIM:166210
+10	0.7	Ectrodactyly, Ectodermal Dysplasia, And Cleft Lip/Palate Syndrome	OMIM:129900

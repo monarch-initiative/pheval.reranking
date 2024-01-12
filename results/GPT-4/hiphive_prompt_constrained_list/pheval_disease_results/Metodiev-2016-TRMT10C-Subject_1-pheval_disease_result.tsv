@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mitochondrial complex IV deficiency	OMIM:220110
+2	0.82	Charcot-Marie-Tooth disease, axonal type 2A2B	OMIM:617087
+3	0.81	Organic acidemia, short-chain acyl-CoA dehydrogenase deficiency	OMIM:201470
+4	0.79	Paragangliomas 1	OMIM:168000
+5	0.77	Ataxia-telangiectasia syndrome	OMIM:208900
+6	0.76	Alpers syndrome	OMIM:203700
+7	0.75	NARP syndrome	OMIM:551500
+8	0.74	Kearns-Sayre syndrome	OMIM:530000
+9	0.72	Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia	OMIM:600462
+10	0.7	Myopathy, lactic acidosis, and sideroblastic anemia	OMIM:600462

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Leukocyte adhesion deficiency, type I	OMIM:116920
+2	0.97	Neutrophil immunodeficiency syndrome	OMIM:608203
+3	0.95	Leukocyte adhesion deficiency, type III	OMIM:612840
+4	0.93	Hyper IgM syndrome type 3	OMIM:608184
+5	0.91	Wiskott-Aldrich syndrome	OMIM:301000
+6	0.9	Chronic granulomatous disease	OMIM:233700
+7	0.88	Chediak-Higashi syndrome	OMIM:214500
+8	0.86	Shwachman-Diamond syndrome	OMIM:260400
+9	0.83	Job syndrome	OMIM:147060
+10	0.81	Hyper IgM syndrome type 1	OMIM:308230

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.978	Intellectual Developmental Disorder with Dysmorphic Facies and Behavioral Abnormalities	OMIM:617560
+2	0.959	Mental retardation, X-linked, syndromic, Christianson type	OMIM:300243
+3	0.938	Pitt-Hopkins syndrome	OMIM:610954
+4	0.912	Lujan-Fryns syndrome	OMIM:309520
+5	0.899	Wiedemann-Steiner syndrome	OMIM:605130
+6	0.891	Rett Syndrome	OMIM:312750
+7	0.885	Tourette Disorder	OMIM:137580
+8	0.88	Fragile X syndrome	OMIM:300624
+9	0.858	ADD, Predominantly inattentive type	OMIM:143465
+10	0.852	Weaver Syndrome	OMIM:277590

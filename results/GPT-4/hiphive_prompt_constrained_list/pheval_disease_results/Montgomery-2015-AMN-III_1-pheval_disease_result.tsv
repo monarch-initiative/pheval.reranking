@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pernicious anemia	OMIM:261100
+2	0.87	Renal Tubulopathy	OMIM:613254
+3	0.86	Familial Proteinuria	OMIM:604187
+4	0.85	Proteinuria, low molecular weight, with hypercalciuric nephrocalcinosis	OMIM:616868
+5	0.79	Aplastic anemia	OMIM:609135
+6	0.77	Anemia, sideroblastic, and spinocerebellar ataxia	OMIM:301310
+7	0.76	Anemia, nonspherocytic hemolytic, due to glucose phosphate isomerase deficiency	OMIM:613470
+8	0.74	Anemia, Hypochromic Microcytic, with Iron Overload 2	OMIM:615234
+9	0.73	Fanconi anemia	OMIM:227645
+10	0.72	Nephropathy with pretibial epidermolysis bullosa and deafness	OMIM:609057

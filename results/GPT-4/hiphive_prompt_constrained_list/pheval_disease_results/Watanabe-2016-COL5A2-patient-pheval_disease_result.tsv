@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Ehlers-Danlos Syndrome, Classical Type, 1	OMIM:130000
+2	0.95	Ehlers-Danlos Syndrome, Classical Type, 2	OMIM:130010
+3	0.93	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+4	0.91	Ehlers-Danlos Syndrome, Hypermobile Type, 1	OMIM:130020
+5	0.9	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130080
+6	0.88	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+7	0.85	Ehlers-Danlos Syndrome, Classical-Type	OMIM:130060
+8	0.83	Ehlers-Danlos Syndrome, Arthrochalasia Type, 1	OMIM:130070
+9	0.81	Ehlers-Danlos Syndrome, Dermatosparaxis Type	OMIM:225410
+10	0.79	Ehlers-Danlos Syndrome, Progeroid Type, 1	OMIM:130090

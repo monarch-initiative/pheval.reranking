@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alzheimer disease, type 1	OMIM:104300
+2	0.93	Frontotemporal dementia and/or amyotrophic lateral sclerosis, 3	OMIM:616437
+3	0.91	Pick disease	OMIM:172700
+4	0.9	Alzheimer disease, type 4	OMIM:606889
+5	0.85	Dementia, Lewy body	OMIM:127750
+6	0.83	Perry syndrome	OMIM:168605
+7	0.81	Progressive supranuclear palsy	OMIM:601104
+8	0.8	Frontotemporal dementia and/or amyotrophic lateral sclerosis, 4	OMIM:616439
+9	0.77	Behr syndrome	OMIM:210000
+10	0.75	Corticobasal degeneration	OMIM:615422

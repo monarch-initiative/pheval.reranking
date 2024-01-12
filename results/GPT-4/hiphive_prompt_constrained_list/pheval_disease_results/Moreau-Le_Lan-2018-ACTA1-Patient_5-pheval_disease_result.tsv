@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Congenital Myasthenic Syndrome 19, Presynaptic	OMIM:616720
+2	0.88	Congenital Myopathy With Excess Of Thin Filaments	OMIM:605364
+3	0.85	Congenital Cataracts, Facial Dysmorphism, And Neuropathy	OMIM:604168
+4	0.83	Neurologic, Endocrine, And Pancreatic Disease, Multisystem, Infantile-Onset	OMIM:616263
+5	0.82	Brown-Vialetto-Van Laere Syndrome	OMIM:211530
+6	0.8	Infantile Neuroaxonal Dystrophy 1	OMIM:256600
+7	0.78	Myasthenic Syndrome, Congenital, 7, Presynaptic	OMIM:616228
+8	0.76	Glycogen Storage Disease Iiia	OMIM:232400
+9	0.73	Leukoencephalopathy, Progressive, With Ovarian Failure	OMIM:615605
+10	0.7	Sialidosis, Type Ii	OMIM:256550

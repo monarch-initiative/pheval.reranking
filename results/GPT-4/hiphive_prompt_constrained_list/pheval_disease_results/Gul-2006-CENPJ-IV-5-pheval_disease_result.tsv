@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Severe microcephaly-progressive choreodystonia syndrome	OMIM:616080
+2	0.92	Pitt-Hopkins syndrome	OMIM:610954
+3	0.9	FOXG1 syndrome	OMIM:613454
+4	0.85	Angelman syndrome	OMIM:105830
+5	0.8	Rett syndrome	OMIM:312750
+6	0.78	West syndrome	OMIM:308350
+7	0.77	CLASS syndrome	OMIM:616157
+8	0.75	Coffin-Siris syndrome 1	OMIM:135900
+9	0.7	Temple-Baraitser syndrome	OMIM:611816
+10	0.6	Schinzel-Giedion syndrome	OMIM:269150

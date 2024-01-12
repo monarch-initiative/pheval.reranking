@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Coloboma, Ocular, Autosomal Dominant	OMIM:120200
+2	0.93	Coloboma of Macula and Skeletal Anomalies	OMIM:120300
+3	0.91	Coloboma, Ocular, with or without Hearing Impairment, Cleft Lip/Palate, and/or Mental Retardation	OMIM:120400
+4	0.9	Optic Coloboma, Ectopia Lentis, and Craniofacial Abnormalities	OMIM:120500
+5	0.89	Coloboma, Ocular, and Skeletal Anomalies	OMIM:120600
+6	0.88	Holoprosencephaly, Recurrent Infections, and Monocytosis	OMIM:610039
+7	0.86	Gaze Palsy, Familial Horizontal, with Progressive Scoliosis	OMIM:617542
+8	0.84	Cranioectodermal Dysplasia 2	OMIM:613610
+9	0.83	Cranioectodermal Dysplasia 3	OMIM:614099
+10	0.82	Gaze Palsy, Familial Horizontal	OMIM:614540

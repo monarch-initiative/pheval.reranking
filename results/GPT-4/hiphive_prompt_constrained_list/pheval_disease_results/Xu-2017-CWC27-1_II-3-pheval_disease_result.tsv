@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Rubinstein-Taybi syndrome 1	OMIM:180849
+2	0.91	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.89	Coffin-Siris syndrome 1	OMIM:135900
+4	0.88	Smith-Magenis syndrome	OMIM:182290
+5	0.85	Barber-Say syndrome	OMIM:209885
+6	0.83	Brachydactyly-Mental Retardation syndrome	OMIM:600430
+7	0.81	Nager syndrome	OMIM:154400
+8	0.79	Pallister-Hall syndrome	OMIM:146510
+9	0.78	Richieri Costa-Pereira syndrome	OMIM:268305
+10	0.76	3MC syndrome 1	OMIM:257920

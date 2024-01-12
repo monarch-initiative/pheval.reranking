@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:115150
+2	0.85	Marfan Syndrome, Autosomal Recessive	OMIM:617530
+3	0.8	Loeys-Dietz Syndrome	OMIM:604187
+4	0.75	Homocystinuria, B6-Responsive And Nonresponsive Types	OMIM:236200
+5	0.7	Congenital Contractural Arachnodactyly	OMIM:121050
+6	0.65	Ehlers-Danlos Syndrome, Marfanoid Form (MFS3)	OMIM:614239
+7	0.6	Stickler Syndrome, Type 1	OMIM:108300
+8	0.55	Beals Syndrome	OMIM:121050
+9	0.5	Shprintzen-Goldberg Syndrome	OMIM:182212
+10	0.45	Lujan-Fryns syndrome	OMIM:309520

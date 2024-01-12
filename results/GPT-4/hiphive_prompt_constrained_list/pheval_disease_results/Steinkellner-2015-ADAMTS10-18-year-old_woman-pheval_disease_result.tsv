@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.85	Ehlers-Danlos syndrome	OMIM:130000
+3	0.83	Stickler syndrome	OMIM:614134
+4	0.81	Beals syndrome	OMIM:121050
+5	0.8	Osteogenesis imperfecta	OMIM:166210
+6	0.77	Alkaptonuria	OMIM:203500
+7	0.76	Pseudoxanthoma elasticum	OMIM:264800
+8	0.74	Hyper IgM syndrome	OMIM:308230
+9	0.73	Bartter syndrome	OMIM:241200
+10	0.7	Ellis-van Creveld syndrome	OMIM:225500

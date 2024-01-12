@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Ehlers-Danlos syndrome, classic type, 2	OMIM:615349
+2	0.91	Ehlers-Danlos syndrome, arthrochalasia type, 1	OMIM:130060
+3	0.89	Ehlers-Danlos syndrome, arthrochalasia type, 2	OMIM:617821
+4	0.88	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+5	0.85	Ehlers-Danlos syndrome, hypermobility type	OMIM:130020
+6	0.84	Lujan-Fryns syndrome	OMIM:309520
+7	0.81	Bethlem myopathy 1	OMIM:158810
+8	0.79	Bethlem myopathy 2	OMIM:616471
+9	0.76	LINGO1-related disease	OMIM:616701
+10	0.75	Wissler-Fanconi syndrome	OMIM:271150

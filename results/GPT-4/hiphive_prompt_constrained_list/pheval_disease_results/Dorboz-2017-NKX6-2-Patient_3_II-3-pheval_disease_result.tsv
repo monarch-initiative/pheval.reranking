@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pantothenate kinase-associated neurodegeneration	OMIM:610217
+2	0.85	Cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss	OMIM:617622
+3	0.83	Dystonia, DOPA-responsive	OMIM:128230
+4	0.8	Ataxia-telangiectasia	OMIM:208920
+5	0.77	Infantile neuroaxonal dystrophy	OMIM:256600
+6	0.73	Brain iron accumulation type 2	OMIM:606159
+7	0.7	Joubert syndrome	OMIM:213300
+8	0.65	spinocerebellar ataxia type 6	OMIM:183086
+9	0.6	X-linked adrenoleukodystrophy	OMIM:300100
+10	0.55	Aicardi-Goutières syndrome	OMIM:225750

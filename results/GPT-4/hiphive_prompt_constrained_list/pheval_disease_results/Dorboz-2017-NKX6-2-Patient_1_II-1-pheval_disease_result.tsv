@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.9	Ataxia-telangiectasia	OMIM:208900
+3	0.85	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+4	0.82	Infantile neuroaxonal dystrophy 1	OMIM:256600
+5	0.8	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	OMIM:607459
+6	0.7	Leigh syndrome	OMIM:256000
+7	0.65	Huntington disease	OMIM:143100
+8	0.63	Friedreich ataxia	OMIM:229300
+9	0.6	Alexander disease	OMIM:203450
+10	0.55	Maple syrup urine disease	OMIM:248600

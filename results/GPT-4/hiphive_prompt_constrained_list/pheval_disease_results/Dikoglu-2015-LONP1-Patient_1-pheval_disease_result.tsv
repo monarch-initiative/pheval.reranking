@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Schwartz-Jampel syndrome type 1	OMIM:255800
+2	0.96	Spondyloepimetaphyseal dysplasia, Pakistani type	OMIM:612847
+3	0.93	Ellis-van Creveld syndrome	OMIM:225500
+4	0.92	Marshall syndrome	OMIM:154780
+5	0.89	Coffin-Lowry syndrome	OMIM:303600
+6	0.88	Weaver syndrome	OMIM:277590
+7	0.86	Robinow syndrome, autosomal dominant 1	OMIM:180700
+8	0.84	Achondrogenesis, type IB	OMIM:600972
+9	0.81	Coffin-Siris syndrome 1	OMIM:135900
+10	0.79	Metatropic dysplasia	OMIM:156530

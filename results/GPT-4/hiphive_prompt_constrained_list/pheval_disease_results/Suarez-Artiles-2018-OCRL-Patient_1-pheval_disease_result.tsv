@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Lowe syndrome	OMIM:309000
+2	0.85	Senior-Loken syndrome	OMIM:266900
+3	0.84	Cystinosis	OMIM:219800
+4	0.82	Fabry disease	OMIM:301500
+5	0.81	Bardet-Biedl syndrome	OMIM:209900
+6	0.8	Nephronophthisis	OMIM:256300
+7	0.78	Dent disease	OMIM:300009
+8	0.76	Oculocerebrorenal syndrome	OMIM:309000
+9	0.75	Meckel syndrome	OMIM:249000
+10	0.73	Wolfram syndrome	OMIM:222300

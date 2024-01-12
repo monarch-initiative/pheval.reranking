@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Magenis syndrome	OMIM:182290
+2	0.8	Sotos syndrome	OMIM:117550
+3	0.75	Williams syndrome	OMIM:194050
+4	0.74	Prader-Willi syndrome	OMIM:176270
+5	0.72	Turner syndrome	OMIM:163950
+6	0.7	Norrie disease	OMIM:310600
+7	0.67	Smith-Lemli-Opitz syndrome	OMIM:270400
+8	0.65	Niemann-Pick disease type C1	OMIM:257220
+9	0.64	CHAT syndrome	OMIM:606324
+10	0.63	Joubert syndrome 1	OMIM:213300

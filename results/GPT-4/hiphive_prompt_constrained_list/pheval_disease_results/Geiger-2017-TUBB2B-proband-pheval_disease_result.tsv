@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Pachygyria with Mental Retardation, Seizures, and Arachnoid Cysts	OMIM:615524
+2	0.8	Microcephaly, Epilepsy, and Diabetes Syndrome	OMIM:614231
+3	0.78	Mental Retardation, Autosomal Dominant 5	OMIM:612621
+4	0.75	Dilatation, Ventricular, Primary	OMIM:614199
+5	0.72	Muscular Dystrophy, Limb-Girdle, Type 2C	OMIM:253600
+6	0.7	Epilepsy, Idiopathic Generalized 13	OMIM:611934
+7	0.68	Profound Mental Retardation, Seizures, Hyperacusis, and Peripheral Neuropathy	OMIM:614653
+8	0.65	Spastic Paraplegia 49, Autosomal Recessive	OMIM:615031
+9	0.62	Mental Retardation, Autosomal Recessive 42	OMIM:615549
+10	0.6	Microcephaly, Seizures, and Developmental Delay	OMIM:613402

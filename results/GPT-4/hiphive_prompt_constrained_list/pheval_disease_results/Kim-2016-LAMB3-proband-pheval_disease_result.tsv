@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Amelogenesis imperfecta, type IB	OMIM:104530
+2	0.96	Amelogenesis imperfecta, type IC	OMIM:204650
+3	0.89	Dentinogenesis imperfecta, type II	OMIM:125490
+4	0.85	Dyskeratosis congenita, autosomal recessive 6	OMIM:616353
+5	0.82	Odontoonychodermal dysplasia	OMIM:257980
+6	0.79	Trichodonodysplasia	OMIM:275400
+7	0.74	Rothmund-Thomson syndrome	OMIM:268400
+8	0.71	Orofaciodigital syndrome XIII	OMIM:614798
+9	0.67	Tumoral calcinosis, familial, hyperphosphatemic	OMIM:211900
+10	0.65	Trichoonychodental syndrome	OMIM:157660

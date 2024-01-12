@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Freeman-Sheldon syndrome	OMIM:277700
+2	0.84	Pallister-Killian syndrome	OMIM:601803
+3	0.82	Cleidocranial dysplasia	OMIM:119600
+4	0.8	Focal dermal hypoplasia	OMIM:305600
+5	0.76	Pfeiffer syndrome	OMIM:101200
+6	0.73	Holoprosencephaly	OMIM:605934
+7	0.67	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.65	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.63	Baraitser-Winter syndrome	OMIM:243310
+10	0.61	Apert syndrome	OMIM:101200

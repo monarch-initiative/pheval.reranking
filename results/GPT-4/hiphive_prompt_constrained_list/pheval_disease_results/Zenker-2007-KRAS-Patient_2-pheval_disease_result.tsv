@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.912	Sotos syndrome	OMIM:117550
+2	0.879	Rubinstein-Taybi syndrome	OMIM:180849
+3	0.86	Noonan syndrome	OMIM:163950
+4	0.853	Costello syndrome	OMIM:218040
+5	0.841	Cornelia de Lange syndrome	OMIM:122470
+6	0.823	18q deletion syndrome	OMIM:601808
+7	0.812	Bogorad's Syndrome	OMIM:615553
+8	0.801	Hypomandibular faciocranial dysostosis	OMIM:241310
+9	0.796	Joubert syndrome	OMIM:213300
+10	0.787	Poretti-Boltshauser syndrome	OMIM:615960

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Leigh Syndrome, French Canadian Type	OMIM:220111
+2	0.89	Fatty Acid Oxidation Disorders	OMIM:201470
+3	0.87	Alpers-Huttenlocher Syndrome	OMIM:203700
+4	0.85	Organic Acidemia	OMIM:203740
+5	0.84	Mitochondrial Complex I Deficiency	OMIM:252010
+6	0.82	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+7	0.8	Pyruvate Carboxylase Deficiency	OMIM:266150
+8	0.79	Pyruvate Dehydrogenase E3-Binding Protein Deficiency	OMIM:614111
+9	0.77	Mitochondrial Trifunctional Protein Deficiency	OMIM:609015
+10	0.75	Infantile Refsum Disease	OMIM:266510

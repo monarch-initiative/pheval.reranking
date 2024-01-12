@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Facio-Scapulo-Humeral Muscular Dystrophy 2, Limb-Girdle Muscular Dystrophy	OMIM:158810
+2	0.9	Nemaline Myopathy 2	OMIM:609284
+3	0.87	Muscular Dystrophy-Dystroglycanopathy 	OMIM:613454
+4	0.86	Autosomal Recessive Centronuclear Myopathy	OMIM:255200
+5	0.85	Congenital Muscular Dystrophy-Dystroglycanopathy with Brain and Eye Anomalies	OMIM:613151
+6	0.83	Neu-Laxova Syndrome 2	OMIM:616038
+7	0.81	Myotonic Dystrophy 1	OMIM:160900
+8	0.78	Dystonia 12	OMIM:128235
+9	0.75	Ehlers-danlos syndrome, progeroid type, 2	OMIM:615349
+10	0.74	Distal Arthrogryposis Type 2B	OMIM:601680

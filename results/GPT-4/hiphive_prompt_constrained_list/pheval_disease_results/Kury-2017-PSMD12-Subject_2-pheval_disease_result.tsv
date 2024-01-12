@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Chromosome 18p Deletion Syndrome	OMIM:146390
+2	0.95	Mowat-Wilson syndrome	OMIM:235730
+3	0.92	Williams syndrome	OMIM:194050
+4	0.91	Cornelia de Lange syndrome 1	OMIM:122470
+5	0.89	Smith-Magenis syndrome	OMIM:182290
+6	0.88	Waardenburg syndrome type 4A	OMIM:277580
+7	0.87	Fragile X syndrome	OMIM:300624
+8	0.84	Prader-Willi syndrome	OMIM:176270
+9	0.83	Cat Eye Syndrome	OMIM:115470
+10	0.8	22q11.2 deletion syndrome	OMIM:188400

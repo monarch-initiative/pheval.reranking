@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Pitt-Hopkins syndrome	OMIM:610954
+2	0.87	FG syndrome 2	OMIM:300321
+3	0.85	Aarskog-Scott syndrome	OMIM:100050
+4	0.83	Coffin-Siris syndrome 4	OMIM:614609
+5	0.81	Epileptic encephalopathy, early infantile	OMIM:613721
+6	0.78	Ritscher-Schinzel syndrome	OMIM:220210
+7	0.77	Otahara Syndrome	OMIM:225200
+8	0.73	Cornelia de Lange syndrome	OMIM:122470
+9	0.72	LEOPARD syndrome 3	OMIM:613707
+10	0.7	Kleefstra syndrome 1	OMIM:610253

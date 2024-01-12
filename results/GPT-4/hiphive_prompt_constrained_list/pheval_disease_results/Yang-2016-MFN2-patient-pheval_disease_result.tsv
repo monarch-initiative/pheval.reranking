@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+2	0.92	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.87	Charcot-Marie-Tooth disease, type 2B	OMIM:600882
+4	0.86	Charcot-Marie-Tooth disease, type 2A	OMIM:118210
+5	0.79	Friedreich ataxia	OMIM:229300
+6	0.75	Hereditary sensory and autonomic neuropathy, type II	OMIM:201300
+7	0.73	Spinal muscular atrophy, lower extremity predominant 1	OMIM:158600
+8	0.65	Infantile neuroaxonal dystrophy	OMIM:256600
+9	0.61	Hypomyelinating leukodystrophy 6	OMIM:616165
+10	0.59	Optic atrophy 1	OMIM:165500

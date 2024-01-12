@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	PEHO Syndrome	OMIM:600143
+2	0.87	Rett Syndrome	OMIM:312750
+3	0.83	Cockayne Syndrome	OMIM:133540
+4	0.8	Metachromatic Leukodystrophy	OMIM:250100
+4	0.8	Infantile Neuroaxonal Dystrophy	OMIM:256600
+6	0.78	Pelizaeus-Merzbacher Disease	OMIM:312080
+7	0.77	Malonyl-Coa Decarboxylase Deficiency	OMIM:248360
+8	0.76	Leigh Syndrome	OMIM:256000
+9	0.75	Alexander Disease	OMIM:203450
+10	0.74	Angelman Syndrome	OMIM:105830

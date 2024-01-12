@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ballard syndrome	OMIM:600920
+2	0.92	Panchenkov syndrome	OMIM:611431
+3	0.9	Vale disease	OMIM:608716
+4	0.87	Trank disease	OMIM:609260
+5	0.86	Smith syndrome	OMIM:614739
+6	0.85	Reynolds disease	OMIM:613684
+7	0.82	Queen syndrome	OMIM:616868
+8	0.8	Preston disease	OMIM:601144
+9	0.79	Olson disease	OMIM:601088
+10	0.78	Kovach disease	OMIM:610759

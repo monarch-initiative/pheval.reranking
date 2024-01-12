@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Essential thrombocythemia	OMIM:613454
+2	0.89	Thrombocytosis, familial, autosomal dominant	OMIM:601977
+3	0.86	Polycythemia vera	OMIM:263300
+4	0.82	Myelofibrosis, idiopathic	OMIM:254450
+5	0.78	Acute promyelocytic leukemia	OMIM:612376
+6	0.74	Neutrophilia, hereditary	OMIM:162820
+7	0.72	Leukemia, acute myeloid	OMIM:601626
+8	0.71	Hereditary Elliptocytosis	OMIM:130600
+9	0.69	Leukemia, chronic myeloid	OMIM:608232
+10	0.68	Hereditary spherocytosis	OMIM:182900

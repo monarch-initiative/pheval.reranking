@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ichthyosis, congenital, autosomal recessive 9	OMIM:615023
+2	0.9	Hypotrichosis 8	OMIM:278150
+3	0.88	Ichthyosis, congenital, autosomal recessive 4B	OMIM:613363
+4	0.85	Keratitis-Ichthyosis-Deafness Syndrome, Autosomal Dominant	OMIM:148210
+5	0.83	Hidrotic Ectodermal Dysplasia 2	OMIM:602032
+6	0.81	Lamellar Ichthyosis	OMIM:242300
+7	0.79	Ichthyosis, congenital, autosomal recessive 1	OMIM:242800
+8	0.78	Ichthyosis, congenital, autosomal recessive 11	OMIM:615500
+9	0.74	Alopecia, Congenital	OMIM:300306
+10	0.72	Ichthyosis, Leukocyte Vacuoles, Alopecia, And Sclerosing Cholangitis	OMIM:607626

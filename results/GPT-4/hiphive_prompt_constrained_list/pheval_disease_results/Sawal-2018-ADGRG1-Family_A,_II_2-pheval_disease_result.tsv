@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Lissencephaly 3	OMIM:611182
+2	0.89	Epileptic encephalopathy, early infantile, 47	OMIM:617353
+3	0.87	Lissencephaly 2	OMIM:257320
+4	0.85	Rett syndrome	OMIM:312750
+5	0.83	Primary microcephaly 10	OMIM:615095
+6	0.81	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+7	0.78	Developmental and epileptic encephalopathy 9	OMIM:300088
+8	0.76	Lissencephaly 6, with microcephaly	OMIM:616212
+9	0.75	Mental retardation, X-linked 2	OMIM:300260
+10	0.73	Miller-Dieker syndrome	OMIM:247200

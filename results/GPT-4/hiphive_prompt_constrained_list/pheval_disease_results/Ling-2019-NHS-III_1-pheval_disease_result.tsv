@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Sotos syndrome 2	OMIM:614753
+2	0.8	Dyskeratosis congenita, autosomal recessive 6	OMIM:616353
+3	0.75	Mandibulofacial dysostosis, Guion-Almeida type	OMIM:610536
+4	0.73	Luscan-Lumish syndrome	OMIM:616831
+5	0.72	Williams syndrome	OMIM:194050
+6	0.71	Treacher Collins syndrome 3	OMIM:248390
+7	0.69	Mandibulofacial dysostosis with microcephaly	OMIM:610536
+8	0.65	Linkage 6 Marfan syndrome	OMIM:154705
+9	0.62	Fragile X syndrome	OMIM:300624
+10	0.6	Greig cephalopolysyndactyly syndrome	OMIM:175700

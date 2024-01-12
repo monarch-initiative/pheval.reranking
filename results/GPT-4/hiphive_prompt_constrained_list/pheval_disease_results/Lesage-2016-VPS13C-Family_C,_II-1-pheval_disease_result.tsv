@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Amyotrophic lateral sclerosis, type 4	OMIM:602433
+2	0.87	Dystonia, dopa-responsive	OMIM:128230
+3	0.84	X-linked sideroblastic anemia with ataxia	OMIM:301310
+4	0.82	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+5	0.8	Huntington Disease	OMIM:143100
+6	0.79	Perry syndrome	OMIM:168605
+7	0.78	Spinocerebellar ataxia 1	OMIM:164400
+8	0.75	Wilson Disease	OMIM:277900
+9	0.73	Frederickson syndrome, type IIa	OMIM:238600
+10	0.72	Brunhilde syndrome	OMIM:115310

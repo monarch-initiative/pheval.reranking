@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Kabuki syndrome 2	OMIM:300867
+2	0.82	VACTERL/VATER association	OMIM:617560
+3	0.8	CHARGE syndrome	OMIM:214800
+4	0.79	Townes-Brocks syndrome	OMIM:107480
+5	0.77	Noonan syndrome 1	OMIM:163950
+6	0.75	Nievergelt syndrome	OMIM:162240
+7	0.74	Alagille syndrome 1	OMIM:118450
+8	0.73	Branchiooculofacial syndrome	OMIM:113620
+9	0.72	Cornelia de Lange syndrome 1	OMIM:122470
+10	0.71	Jervell and Lange-Nielsen syndrome 2	OMIM:612347

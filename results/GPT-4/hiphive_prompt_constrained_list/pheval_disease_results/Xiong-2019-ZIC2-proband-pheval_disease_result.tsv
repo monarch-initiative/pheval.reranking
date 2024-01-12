@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Holoprosencephaly, Semilobar, With Associated Anomalies	OMIM:236100
+2	0.95	Hydrocephalus, Congenital, X-linked	OMIM:307000
+3	0.94	Ventriculomegaly With Cystic Kidney Disease	OMIM:603194
+4	0.92	Hydrocephalus, Congenital, 1, Included	OMIM:615219
+5	0.88	Holoprosencephaly, recurrent infections, and monocytosis	OMIM:615849
+6	0.82	Ventriculomegaly - cystic kidney disease	OMIM:137920
+7	0.79	Neural tube defects, multiple, included	OMIM:182940
+8	0.76	Microcephaly, Congenital Heart Disease, Unilateral Renal Agenesis, And Hyposegmented Lungs	OMIM:617199
+9	0.73	Holoprosencephaly-like syndrome	OMIM:257220
+10	0.7	Ventriculomegaly With Defects Of The Radius And Kidney	OMIM:615992

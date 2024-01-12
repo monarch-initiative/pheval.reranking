@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Pitt-Hopkins syndrome	OMIM:610954
+2	0.96	Mowat-Wilson syndrome	OMIM:235730
+3	0.95	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.94	Coffin-Lowry syndrome	OMIM:303600
+5	0.93	Cornelia de Lange syndrome	OMIM:122470
+6	0.91	Angelman syndrome	OMIM:105830
+7	0.9	Rett syndrome	OMIM:312750
+8	0.88	Smith-Magenis syndrome	OMIM:182290
+9	0.86	Fragile X syndrome	OMIM:300624
+10	0.85	Williams syndrome	OMIM:194050

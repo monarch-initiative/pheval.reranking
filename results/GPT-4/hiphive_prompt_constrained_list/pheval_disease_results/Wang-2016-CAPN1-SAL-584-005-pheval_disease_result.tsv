@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Spinocerebellar ataxia, autosomal recessive	OMIM:617333
+2	0.96	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+3	0.92	Spinocerebellar ataxia, autosomal recessive 2	OMIM:213200
+4	0.91	Spinocerebellar ataxia, autosomal dominant 6	OMIM:600666
+5	0.9	Friedreich ataxia	OMIM:229300
+6	0.85	Spastic paraplegia 11, autosomal recessive	OMIM:604187
+7	0.82	Autosomal dominant cerebellar ataxia	OMIM:117210
+7	0.82	Spinocerebellar ataxia 14	OMIM:605361
+9	0.8	Cerebellar ataxia, nonprogressive, with mental retardation	OMIM:614756
+10	0.79	Ataxia with vitamin E deficiency	OMIM:277460

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Spastic paraplegia 11, autosomal recessive	OMIM:604187
+2	0.96	Spastic paraplegia 15, autosomal recessive	OMIM:270700
+3	0.94	Spastic paraplegia 4, autosomal dominant	OMIM:182601
+4	0.92	Episodic ataxia, type 2	OMIM:108500
+5	0.89	Spastic paraplegia 7, autosomal recessive	OMIM:607259
+6	0.87	Spastic paraplegia 3A, autosomal dominant	OMIM:182600
+7	0.85	Spastic ataxia 1, autosomal recessive, with or without seizures	OMIM:108600
+8	0.82	Spastic ataxia 2, autosomal recessive	OMIM:108601
+9	0.8	Spastic ataxia 3, autosomal recessive	OMIM:108602
+10	0.78	Ataxia-oculomotor apraxia 2	OMIM:606002

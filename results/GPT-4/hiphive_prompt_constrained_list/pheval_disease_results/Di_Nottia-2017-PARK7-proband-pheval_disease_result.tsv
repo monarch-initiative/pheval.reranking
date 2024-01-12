@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Mitochondrial complex IV deficiency	OMIM:220110
+2	0.86	Charcot-Marie-Tooth disease type 2A2	OMIM:609260
+3	0.85	Parkinson disease 10	OMIM:606852
+4	0.83	Dystonia, laryngeal	OMIM:149400
+5	0.82	Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)	OMIM:271245
+6	0.8	Charcot-Marie-Tooth disease, type 2K	OMIM:607831
+7	0.75	Cataract 30, multiple types	OMIM:115750
+8	0.74	Myoclonus-dystonia syndrome 11	OMIM:159900
+9	0.7	Dystonia, juvenile-onset	OMIM:607371
+10	0.67	Myopathy, myofibrillar, 4	OMIM:609452

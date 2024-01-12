@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Fanconi anemia	OMIM:227645
+2	0.85	Noonan syndrome 1	OMIM:163950
+3	0.81	Diamond-Blackfan anemia 1	OMIM:105650
+4	0.8	Turner syndrome	OMIM:163950
+5	0.78	Seckel syndrome 1	OMIM:210600
+6	0.76	Holt-Oram syndrome	OMIM:142900
+7	0.74	Nijmegen Breakage Syndrome	OMIM:251260
+8	0.72	Short Stature, Onychodysplasia, Facial Dysmorphism, and Hypotrichosis	OMIM:614640
+9	0.7	Dubowitz syndrome	OMIM:223370
+10	0.65	Ellis-van Creveld syndrome	OMIM:225500

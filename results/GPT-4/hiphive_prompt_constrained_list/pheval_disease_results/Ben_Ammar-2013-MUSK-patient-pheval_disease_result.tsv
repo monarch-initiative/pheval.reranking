@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Myasthenic syndrome, congenital, 3A, slow-channel	OMIM:616974
+2	0.92	Amyotrophic lateral sclerosis 20	OMIM:615426
+3	0.91	Myasthenic syndrome, slow-channel congenital, 3B	OMIM:610198
+4	0.89	Myasthenia gravis, familial, 1	OMIM:254200
+5	0.85	Myasthenic syndrome, congenital, 4C, associated with acetylcholine receptor deficiency	OMIM:608930
+6	0.83	Myasthenic syndrome, congenital, 4A, slow-channel	OMIM:601462
+7	0.82	Amyotrophic lateral sclerosis 1	OMIM:105400
+8	0.8	Myasthenic syndrome, congenital, 4B, fast-channel	OMIM:601462
+9	0.79	Spinal muscular atrophy, distal, autosomal recessive, 1	OMIM:253300
+10	0.76	Spinal muscular atrophy, distal, autosomal recessive, 5	OMIM:614881

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Autosomal Dominant Robinow Syndrome	OMIM:180700
+2	0.89	Smith-Lemli-Opitz Syndrome	OMIM:270400
+3	0.88	Noonan Syndrome 3	OMIM:609942
+4	0.83	Baller-Gerold Syndrome	OMIM:218600
+5	0.82	Acrocephalosyndactyly Type 1	OMIM:101200
+6	0.81	Epidermal Nevus Syndrome	OMIM:162200
+7	0.8	Schwartz-Jampel Syndrome Type 1	OMIM:255800
+8	0.79	Noonan Syndrome 7	OMIM:613706
+9	0.78	Crouzon Syndrome	OMIM:123500
+10	0.77	Zellweger Syndrome	OMIM:214100

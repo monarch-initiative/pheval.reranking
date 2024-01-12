@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Parkinson Disease, Autosomal Recessive Early-Onset, 1	OMIM:168600
+2	0.92	Parkinson Disease 8, Autosomal Dominant	OMIM:607060
+3	0.8	Parkinson Disease 6, Autosomal Recessive Early-Onset	OMIM:605909
+4	0.77	Parkinson Disease 4, Autosomal Dominant	OMIM:605543
+5	0.7	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+6	0.68	Ataxia-Telangiectasia	OMIM:208920
+7	0.65	Huntington Disease	OMIM:143100
+8	0.6	Wilson Disease	OMIM:277900
+9	0.59	Spinocerebellar Ataxia 1	OMIM:164400
+10	0.55	Alzheimer Disease, Type 1	OMIM:104300

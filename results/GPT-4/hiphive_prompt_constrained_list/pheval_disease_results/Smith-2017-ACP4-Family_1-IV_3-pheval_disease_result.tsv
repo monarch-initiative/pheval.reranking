@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Amelogenesis imperfecta, type IB	OMIM:104500
+2	0.95	Amelogenesis imperfecta 1F	OMIM:616270
+3	0.93	Amelogenesis imperfecta, hypomineralisation	OMIM:130060
+4	0.83	Amelogenesis imperfecta and gingival hyperplasia syndrome	OMIM:204690
+5	0.8	Schopf-Schultz-Passarge syndrome	OMIM:224750
+6	0.78	Hypodontia-dysplasia of nails syndrome	OMIM:234780
+7	0.76	Rothmund-Thomson syndrome	OMIM:268400
+8	0.75	Coffin-Siris syndrome	OMIM:276601
+9	0.72	Dentinogenesis imperfecta, Shields type II and III	OMIM:125500
+10	0.71	Enamel-renal syndrome	OMIM:204690

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neuroacanthocytosis	OMIM:200150
+2	0.85	Chorea-Acanthocytosis	OMIM:200150
+3	0.8	Huntington's Disease	OMIM:143100
+4	0.75	McLeod Syndrome	OMIM:309000
+5	0.7	Rett Syndrome	OMIM:312750
+6	0.65	Tardive Dyskinesia	OMIM:272620
+7	0.6	Huntington's Disease-Like 2	OMIM:606438
+8	0.55	Parkinson Disease 6, Autosomal Recessive Early-Onset	OMIM:605909
+9	0.5	Gilles de la Tourette Syndrome	OMIM:137580
+10	0.45	Wilson Disease	OMIM:277900

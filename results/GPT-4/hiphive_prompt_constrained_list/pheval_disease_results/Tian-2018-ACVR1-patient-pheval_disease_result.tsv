@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Hypophosphatasia, adult	OMIM:146300
+2	0.91	Albright hereditary osteodystrophy	OMIM:103580
+3	0.9	Fibrodysplasia ossificans progressiva	OMIM1:35000
+4	0.85	Pseudohypoparathyroidism	OMIM:103580
+5	0.83	Paget disease of bone	OMIM:167250
+6	0.8	Primary Hyperparathyroidism	OMIM:145000
+7	0.75	Multiple Epiphyseal Dysplasia	OMIM:600204
+8	0.72	Spondyloepimetaphyseal Dysplasia, Strudwick Type	OMIM:184250
+9	0.71	Progressive osseous heteroplasia	OMIM:166350
+10	0.7	Apert syndrome	OMIM:101200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT syndrome	OMIM:603830
+2	0.92	Brugada syndrome	OMIM:601144
+3	0.9	Romano-Ward syndrome	OMIM:601620
+4	0.87	Jervell and Lange-Nielsen syndrome	OMIM:220400
+4	0.87	Sick sinus syndrome	OMIM:608567
+6	0.86	Progressive familial heart block type IA	OMIM:113900
+7	0.85	Cardiomyopathy, dilated, 1V	OMIM:613697
+8	0.83	Andersen-Tawil Syndrome	OMIM:170390
+9	0.81	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+10	0.8	Congenital long QT syndrome	OMIM:115200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pitt-Hopkins syndrome	OMIM:610954
+2	0.91	Aicardi syndrome	OMIM:304050
+3	0.89	Mowat-Wilson syndrome	OMIM:235730
+4	0.86	Mental retardation, autosomal dominant 29	OMIM:616078
+5	0.82	Kaufman oculocerebrofacial syndrome	OMIM:244450
+6	0.79	Bosma arhinia microphthalmia syndrome	OMIM:603649
+7	0.76	Seckel syndrome 5	OMIM:613823
+8	0.73	Lissencephaly 3, postnatal progressive microcephaly with seizures and brain atrophy	OMIM:600963
+9	0.71	Epileptic encephalopathy, early infantile, 47	OMIM:617166
+10	0.68	Short stature, developmental delay, and congenital heart defects	OMIM:617044

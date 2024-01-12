@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cohen syndrome	OMIM:216550
+2	0.94	Chromosome 19p13.13 Deletion syndrome	OMIM:613784
+3	0.92	Smith-Magenis syndrome	OMIM:182290
+4	0.9	Myhre syndrome	OMIM:139210
+5	0.89	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.88	Williams Beuren syndrome	OMIM:194050
+7	0.86	Cornelia de Lange syndrome 1	OMIM:122470
+8	0.84	Muenke syndrome	OMIM:602849
+9	0.82	Pitt-Hopkins syndrome	OMIM:610954
+10	0.81	Kabuki syndrome 1	OMIM:147920

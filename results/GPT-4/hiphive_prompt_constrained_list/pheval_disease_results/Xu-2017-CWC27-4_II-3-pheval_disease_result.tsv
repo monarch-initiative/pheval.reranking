@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Seckel syndrome	OMIM:613254
+2	0.85	Holoprosencephaly	OMIM:236100
+3	0.83	Anophthalmia	OMIM:206900
+4	0.82	Ballard syndrome	OMIM:148600
+5	0.8	Rothmund-Thomson syndrome	OMIM:268400
+6	0.78	Meckel-Gruber syndrome	OMIM:249000
+7	0.75	Joubert syndrome	OMIM:213300
+8	0.73	Bardet-Biedl syndrome	OMIM:209900
+9	0.72	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.7	Patau syndrome	OMIM:263500

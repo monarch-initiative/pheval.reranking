@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital central hypoventilation syndrome	OMIM:209880
+2	0.9	CHARGE syndrome	OMIM:214800
+3	0.85	Ritscher-Schinzel syndrome	OMIM:220400
+4	0.83	Kabuki syndrome 1	OMIM:147920
+5	0.81	Aarskog-Scott syndrome	OMIM:305400
+6	0.7	Noonan syndrome 1	OMIM:163950
+6	0.7	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.65	Turner syndrome	OMIM:115150
+9	0.63	Albright hereditary osteodystrophy	OMIM:103580
+10	0.6	Cardiofaciocutaneous syndrome 1	OMIM:115150

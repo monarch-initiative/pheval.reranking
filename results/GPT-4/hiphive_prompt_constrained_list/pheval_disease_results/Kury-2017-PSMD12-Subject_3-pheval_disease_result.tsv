@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Intellectual Disability: Autosomal Dominant 41	OMIM:616974
+2	0.95	Mental Retardation, Autosomal Dominant 54	OMIM:617799
+3	0.94	Autism 18	OMIM:615032
+4	0.92	Mental Retardation, Autosomal Dominant 43	OMIM:616977
+5	0.9	Speech and Communication Disorders: Mixed, Autosomal Dominant	OMIM:613719
+6	0.88	Feeding Disorder in Infancy Or Early Childhood	OMIM:130600
+7	0.87	Hearing Impairment: Autosomal Dominant	OMIM:155100
+8	0.85	Autism 16: Autosomal Dominant	OMIM:614606
+9	0.83	Congenital Heart Defects: Multiple Types	OMIM:617297
+10	0.81	Male Genitalia: Abnormality, Autosomal Dominant	OMIM:123456

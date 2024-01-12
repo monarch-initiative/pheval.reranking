@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan syndrome	OMIM:154700
+2	0.83	Weill-Marchesani syndrome 2	OMIM:608328
+3	0.8	Mass phenotype	OMIM:604308
+4	0.77	Homocystinuria due to CBS deficiency	OMIM:236200
+5	0.76	Acromegaloid facial appearance syndrome	OMIM:102150
+6	0.75	Ehlers-Danlos syndrome, spondylodysplastic type, 1	OMIM:130070
+7	0.71	Beals syndrome	OMIM:121050
+8	0.68	Familial thoracic aortic aneurysm and aortic dissection	OMIM:132900
+9	0.67	Loeys-Dietz syndrome 1	OMIM:609192
+10	0.65	Weill-Marchesani syndrome 1	OMIM:277600

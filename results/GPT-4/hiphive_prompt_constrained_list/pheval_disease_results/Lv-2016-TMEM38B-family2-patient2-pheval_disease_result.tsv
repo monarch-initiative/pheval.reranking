@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta	OMIM:166200
+2	0.92	Osteoporosis	OMIM:166710
+3	0.91	Hyperostosis corticalis generalisata	OMIM:144750
+4	0.9	Osteopetrosis	OMIM:259700
+5	0.89	Pycnodysostosis	OMIM:265800
+6	0.86	Ehlers-Danlos syndrome	OMIM:130000
+7	0.85	Sclerosteosis	OMIM:269500
+8	0.83	Vitamin D-dependent rickets	OMIM:264700
+9	0.82	Paget disease of bone	OMIM:167250
+10	0.8	Hypophosphatasia	OMIM:241500

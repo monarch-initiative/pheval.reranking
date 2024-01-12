@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Autoimmune polyendocrine syndrome, type 1	OMIM:240300
+2	0.85	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+3	0.82	Hypocalcemia, autosomal dominant 1	OMIM:601198
+4	0.8	Idiopathic hypoparathyroidism	OMIM:146200
+5	0.77	Bartter syndrome, Type 4b, digenic	OMIM:613090
+6	0.73	Isolated vitamin E deficiency	OMIM:277460
+7	0.7	Hypoparathyroidism, familial isolated	OMIM:146200
+8	0.67	Pseudohypoparathyroidism, type II	OMIM:203230
+9	0.65	Kenny-Caffey syndrome, type 1	OMIM:244460
+10	0.63	Bartter syndrome, type 3	OMIM:607364

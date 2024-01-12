@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Diamond-Blackfan anemia 1	OMIM:105650
+2	0.88	Myelodysplastic syndrome	OMIM:614286
+3	0.86	Thrombocytopenia-absent radius syndrome	OMIM:274000
+4	0.83	Fanconi anemia	OMIM:227645
+5	0.81	Congenital dyserythropoietic anemia	OMIM:224120
+6	0.79	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+7	0.78	Shwachman-Diamond syndrome	OMIM:260400
+8	0.76	Congenital heart defects and ectodermal dysplasia	OMIM:225040
+9	0.75	Hypertrophic cardiomyopathy 1	OMIM:192600
+10	0.72	Dyskeratosis congenita	OMIM:305000

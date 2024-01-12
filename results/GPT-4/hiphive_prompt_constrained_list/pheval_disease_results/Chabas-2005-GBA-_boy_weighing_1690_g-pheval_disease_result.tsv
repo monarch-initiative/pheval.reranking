@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Gaucher Disease, Type I	OMIM:230800
+2	0.88	Congenital disorder of glycosylation, type If	OMIM:609180
+3	0.85	Wiskott-Aldrich Syndrome	OMIM:301000
+4	0.82	Type I Glycogen Storage Disease	OMIM:232200
+5	0.8	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B-Cell/Natural Killer-Cell Positive Type	OMIM:608971
+6	0.75	Shwachman-Diamond Syndrome	OMIM:260400
+7	0.72	Mucopolysaccharidosis Type VII	OMIM:253220
+8	0.69	Tyrosinemia, type II	OMIM:276600
+9	0.67	Chronic Granulomatous Disease, Autosomal Recessive, Cytochrome B-Negative	OMIM:233690
+10	0.64	Zellweger Syndrome	OMIM:214100

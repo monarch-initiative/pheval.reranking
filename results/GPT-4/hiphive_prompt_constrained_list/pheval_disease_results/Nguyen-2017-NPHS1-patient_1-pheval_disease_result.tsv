@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Congenital nephrotic syndrome, Finnish type	OMIM:256300
+2	0.92	Nephrotic syndrome, type 1	OMIM:256300
+3	0.91	Hyperlipoproteinemia, type 1	OMIM:238600
+3	0.91	Hypoproteinemia, hypercatabolic	OMIM:241600
+5	0.88	Pulmonary edema of mountaineers	OMIM:263400
+6	0.86	Hypoalbuminemia, familial	OMIM:103600
+7	0.85	Hypoprothrombinemia	OMIM:613679
+8	0.83	Pneumonia, susceptibility to	OMIM:614371
+9	0.82	Hypercholesterolemia, familial	OMIM:144400
+10	0.79	Hyperlipoproteinemia	OMIM:238750

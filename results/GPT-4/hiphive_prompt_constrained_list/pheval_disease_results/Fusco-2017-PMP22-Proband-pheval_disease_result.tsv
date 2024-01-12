@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Charcot-Marie-Tooth disease, type 1B	OMIM:118200
+2	0.89	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.87	Charcot-Marie-Tooth disease, type 2B1	OMIM:605588
+4	0.85	Charcot-Marie-Tooth disease, type 2N	OMIM:613287
+5	0.82	Charcot-Marie-Tooth disease, type 2I	OMIM:607677
+6	0.81	Chronic Inflammatory Demyelinating Polyneuropathy	OMIM:145900
+7	0.8	Hypertrophic neuropathy of Dejerine-Sottas	OMIM:145900
+8	0.79	Charcot-Marie-Tooth disease, dominant intermediate F	OMIM:615185
+9	0.76	Charcot-Marie-Tooth disease, type 2O	OMIM:614228
+10	0.75	Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2	OMIM:617017

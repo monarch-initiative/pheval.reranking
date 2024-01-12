@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.932	Marfan Syndrome	OMIM:154700
+2	0.912	Ehlers-Danlos Syndrome, Kyphoscoliotic and Deafness Type	OMIM:225400
+3	0.902	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+4	0.895	Loeys-Dietz Syndrome	OMIM:609192
+5	0.883	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+6	0.873	Stickler Syndrome, Type 1	OMIM:108300
+7	0.864	Cutis Laxa, Autosomal Dominant	OMIM:123700
+8	0.856	Osteogenesis Imperfecta, Type IV	OMIM:166220
+9	0.842	Osteogenesis Imperfecta, Type I	OMIM:166200
+10	0.831	Ehlers-Danlos Syndrome, Hypermobility Type	OMIM:130020

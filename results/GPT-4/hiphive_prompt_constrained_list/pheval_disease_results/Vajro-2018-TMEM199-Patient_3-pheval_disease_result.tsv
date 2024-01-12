@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.83	Wilson disease	OMIM:277300
+2	0.82	Type 2 diabetes mellitus	OMIM:125853
+3	0.8	Non-alcoholic Fatty liver disease	OMIM:211980
+4	0.78	Obesity	OMIM:601665
+5	0.75	Alcohol-related Cirrhosis	OMIM:215600
+6	0.74	Hemochromatosis	OMIM:235200
+7	0.73	Hypobetalipoproteinemia, familial, 1	OMIM:615558
+8	0.72	Metabolic Syndrome	OMIM:615812
+9	0.7	Congenital Disorders of Glycosylation Type II	OMIM:212066
+10	0.69	Lysosomal Acid Lipase Deficiency	OMIM:278000

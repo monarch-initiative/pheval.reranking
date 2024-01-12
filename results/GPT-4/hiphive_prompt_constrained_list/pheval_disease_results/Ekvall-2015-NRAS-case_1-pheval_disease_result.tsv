@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis-Noonan syndrome	OMIM:601321
+2	0.85	Costello syndrome	OMIM:218040
+3	0.82	LEOPARD syndrome 1	OMIM:151100
+4	0.8	Baraitser-Winter syndrome 1	OMIM:243310
+5	0.78	Rubinstein-Taybi syndrome 1	OMIM:180849
+6	0.75	Noonan syndrome 1	OMIM:163950
+7	0.72	Neurofibromatosis, type 1	OMIM:162200
+8	0.71	Cardiofaciocutaneous syndrome	OMIM:115150
+9	0.68	Watson syndrome	OMIM:193520
+10	0.67	Noonan syndrome 3	OMIM:609942

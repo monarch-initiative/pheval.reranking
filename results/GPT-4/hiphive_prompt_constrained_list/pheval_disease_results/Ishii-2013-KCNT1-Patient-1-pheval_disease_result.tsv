@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	autosomal recessive non-syndromic intellectual disability	OMIM:614104
+2	0.92	Joubert syndrome 9	OMIM:612285
+3	0.9	early infantile epileptic encephalopathy 4	OMIM:612164
+4	0.89	Pitt-Hopkins syndrome	OMIM:610954
+5	0.87	Koolen-De Vries syndrome	OMIM:610443
+6	0.85	Angelman syndrome	OMIM:105830
+7	0.84	Rett syndrome	OMIM:312750
+8	0.82	Ohtahara syndrome	OMIM:308350
+9	0.8	Cornelia de Lange syndrome	OMIM:122470
+10	0.78	Prader-Willi syndrome	OMIM:176270

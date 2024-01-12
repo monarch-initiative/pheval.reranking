@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Polycystic Kidney Disease, Autosomal Dominant	OMIM:173900
+2	0.94	Polycystic Kidney Disease, Autosomal Recessive	OMIM:263200
+3	0.92	IgA Nephropathy 1	OMIM:161950
+4	0.91	Medullary Cystic Kidney Disease 1	OMIM:174000
+5	0.89	Nephronophthisis 1, Juvenile	OMIM:256100
+6	0.87	Familial Juvenile Hyperuricemic Nephropathy 1	OMIM:162000
+7	0.84	Renal Tubular Acidosis, Distal, Autosomal Dominant	OMIM:179800
+8	0.81	Renal Cysts and Diabetes Syndrome	OMIM:137920
+9	0.79	Renal Dysplasia and Retinal Aplasia	OMIM:266775
+10	0.78	Hypertension, Essential, Susceptibility To	OMIM:145500

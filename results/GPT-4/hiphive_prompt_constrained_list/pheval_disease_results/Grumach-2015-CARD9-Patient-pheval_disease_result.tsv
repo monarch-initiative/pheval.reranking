@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Hyper IgE Recurrent Infection Syndrome	OMIM:147060
+2	0.9	Immunodeficiency with Hyper IgM, Type 1	OMIM:308230
+3	0.88	Immunodeficiency 21	OMIM:615207
+4	0.83	Immunodeficiency 50	OMIM:300972
+5	0.81	Combined Immunodeficiency with Autoimmunity and Spondylometaphyseal Dysplasia	OMIM:609889
+6	0.8	Severe combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:600802
+7	0.78	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Present Type, Type 1	OMIM:242700
+8	0.75	Sever Combined Immunodeficiency, X-Linked	OMIM:300400
+9	0.73	Netherton Syndrome	OMIM:256500
+10	0.71	Immunodeficiency, Common Variable, Type 8 with Autoimmunity	OMIM:614700

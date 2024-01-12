@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Fanconi anemia	OMIM:227645
+2	0.88	Schwachman-Diamond Syndrome	OMIM:260300
+3	0.87	Severe Combined Immunodeficiency	OMIM:601859
+4	0.86	Dyskeratosis Congenita	OMIM:305000
+5	0.84	Congenital Amegakaryocytic Thrombocytopenia	OMIM:604498
+6	0.835	Diamond-Blackfan Anemia	OMIM:105650
+7	0.83	Chronic Granulomatous Disease	OMIM:306400
+8	0.825	Wiskott-Aldrich Syndrome	OMIM:301000
+9	0.815	Leukocyte Adhesion Deficiency	OMIM:116920
+10	0.8	Omenn Syndrome	OMIM:603554

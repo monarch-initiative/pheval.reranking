@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Campomelic dysplasia	OMIM:114290
+2	0.92	Ellis-van Creveld syndrome	OMIM:225500
+3	0.91	Chondrodysplasia punctata	OMIM:302960
+4	0.89	Pyle disease	OMIM:265900
+5	0.88	Smith-McCort dysplasia	OMIM:607326
+6	0.84	Boomerang dysplasia	OMIM:112310
+7	0.82	Stuve-Wiedemann syndrome	OMIM:601559
+8	0.79	Spondyloepimetaphyseal dysplasia	OMIM:184250
+9	0.77	Dyschondrosteosis and hypochondroplasia	OMIM:127300
+10	0.75	Multiple epiphyseal dysplasia	OMIM:132400

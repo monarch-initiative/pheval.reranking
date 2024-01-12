@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Essential thrombocythemia	OMIM:613454
+2	0.89	Thrombocythemia 3	OMIM:613254
+3	0.85	Congenital amegakaryocytic thrombocytopenia	OMIM:604187
+4	0.84	Thrombocytopenia 1	OMIM:313900
+5	0.82	Thrombocythemia 2	OMIM:601977
+6	0.8	Thrombocytopenia-absent radius syndrome	OMIM:274000
+7	0.78	Familial Myelofibrosis	OMIM:617560
+8	0.75	Amegakaryocytic Thrombocytopenia	OMIM:604498
+9	0.73	Thrombocytopenia 2	OMIM:188000
+10	0.71	Bleeding Disorder, Platelet-Type, 16	OMIM:187800

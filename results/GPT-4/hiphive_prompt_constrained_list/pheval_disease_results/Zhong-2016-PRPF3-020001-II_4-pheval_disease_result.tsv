@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Retinitis Pigmentosa 30	OMIM:610359
+2	0.95	Retinitis Pigmentosa 4	OMIM:613731
+3	0.92	Night Blindness, Congenital Stationary, Autosomal Dominant 1	OMIM:610445
+4	0.88	Retinitis Pigmentosa 35	OMIM:610282
+5	0.86	Retinitis Pigmentosa 53	OMIM:613428
+6	0.85	Retinitis Pigmentosa 64	OMIM:614784
+7	0.83	Retinitis Pigmentosa 78	OMIM:617110
+8	0.82	Retinitis Pigmentosa 79	OMIM:617460
+9	0.8	Night Blindness, Congenital Stationary, Autosomal Dominant 2	OMIM:163500
+10	0.79	Retinitis Pigmentosa 33	OMIM:610359

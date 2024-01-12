@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Spinocerebellar ataxia 14	OMIM:605361
+2	0.88	Friedreich ataxia	OMIM:229300
+3	0.85	Ataxia-telangiectasia	OMIM:208900
+4	0.83	Charcot-Marie-Tooth disease	OMIM:118220
+5	0.8	Hereditary spastic paraplegia	OMIM:182601
+6	0.78	Motor neuron disease	OMIM:602433
+7	0.75	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome	OMIM:614575
+8	0.72	Multiple system atrophy	OMIM:146500
+9	0.7	Spinocerebellar ataxia 2	OMIM:183090
+10	0.68	Amyotrophic lateral sclerosis	OMIM:105400

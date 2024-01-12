@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Coffin-Siris Syndrome	OMIM:135900
+2	0.84	Saethre-Chotzen Syndrome	OMIM:101400
+3	0.82	Rubinstein-Taybi Syndrome	OMIM:180849
+4	0.81	Crouzon Syndrome	OMIM:123500
+5	0.78	Pfeiffer Syndrome	OMIM:101600
+6	0.76	Apert Syndrome	OMIM:101200
+7	0.74	Noonan Syndrome	OMIM:163950
+8	0.73	Acrocephalosyndactyly	OMIM:101800
+9	0.72	Cornelia De Lange Syndrome	OMIM:122470
+10	0.7	Cutis Laxa	OMIM:219100

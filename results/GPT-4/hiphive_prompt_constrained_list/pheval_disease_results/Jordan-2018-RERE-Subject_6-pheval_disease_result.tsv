@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Mental retardation-autistic features-mild facial dysmorphism syndrome	OMIM:613254
+2	0.87	Mental retardation, X-linked, syndromic, Turner type	OMIM:300706
+3	0.86	Autism, susceptibility to, X-linked 3	OMIM:300495
+4	0.85	Mental retardation, X-linked, syndromic, Lubs type	OMIM:300260
+5	0.84	Mental retardation, X-linked, with or without seizures, ARX-related	OMIM:300419
+6	0.83	Mental retardation, X-linked, syndromic 15	OMIM:300647
+7	0.82	Mental retardation, X-linked, syndromic, Borck type	OMIM:300987
+8	0.81	Mental retardation, X-linked, syndromic, Nascimento type	OMIM:300860
+9	0.8	Mental retardation, X-linked, South African type	OMIM:300419
+10	0.79	Mental retardation, X-linked, syndromic, Hedera type	OMIM:300705

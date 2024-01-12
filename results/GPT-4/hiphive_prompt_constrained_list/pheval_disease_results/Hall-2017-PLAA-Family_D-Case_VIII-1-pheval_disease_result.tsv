@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Rett Syndrome, Congenital Variant	OMIM:613454
+2	0.86	Rhizomelic Chondrodysplasia Punctata, Type 1	OMIM:215700
+3	0.85	Hoyeraal-Hreidarsson Syndrome	OMIM:305000
+4	0.82	Lethal Ataxia with Deafness and Optic Atrophy	OMIM:615217
+5	0.81	Immunodeficiency 26 with or without Neurologic Abnormalities	OMIM:615966
+6	0.79	Ataxia-oculomotor Apraxia 4	OMIM:616267
+7	0.78	Immunodeficiency 15	OMIM:618204
+8	0.76	Beta-ketothiolase Deficiency	OMIM:203750
+9	0.74	Spinocerebellar Ataxia, Autosomal Recessive 7	OMIM:609270
+10	0.71	Severe Combined Immunodeficiency with Sensitivity to Ionizing Radiation	OMIM:602450

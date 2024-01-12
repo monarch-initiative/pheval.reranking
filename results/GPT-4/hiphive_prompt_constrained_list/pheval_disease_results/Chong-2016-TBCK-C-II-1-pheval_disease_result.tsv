@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pitt-Hopkins syndrome	OMIM:610954
+2	0.85	Coffin-Siris Syndrome 5	OMIM:616938
+3	0.83	Kabuki syndrome 1	OMIM:147920
+4	0.82	Smith-Magenis syndrome	OMIM:182290
+5	0.8	Fine-Lubinsky syndrome	OMIM:601353
+6	0.77	Temple-Baraitser syndrome	OMIM:611816
+7	0.75	Coffin-Siris Syndrome	OMIM:135900
+8	0.74	Ellis-van Creveld syndrome	OMIM:225500
+9	0.72	Koolen-de Vries syndrome	OMIM:610443
+10	0.7	Cornelia de Lange syndrome 1	OMIM:122470

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Microphthalmia, syndromic 6	OMIM:613517
+2	0.92	MUENKE SYNDROME	OMIM:602849
+3	0.91	MCKUSICK-KAUFMAN SYNDROME	OMIM:236700
+4	0.81	Verloes Bourguignon Syndrome	OMIM:616839
+5	0.79	Galloway-Mowat syndrome 3	OMIM:617729
+6	0.74	Diarrhea 5, with tufting enteropathy, congenital	OMIM:613217
+7	0.72	Meier-Gorlin syndrome 1	OMIM:224690
+8	0.71	Short-rib thoracic dysplasia 3 with or without polydactyly	OMIM:613091
+9	0.69	Bardet-Biedl syndrome 1	OMIM:209900
+10	0.67	Pallister-Hall syndrome	OMIM:146510

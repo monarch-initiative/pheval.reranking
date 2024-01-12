@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.83	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.81	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.79	Aicardi-Goutieres syndrome	OMIM:225750
+4	0.75	Rett syndrome	OMIM:312750
+5	0.72	Coffin-Lowry syndrome	OMIM:303600
+6	0.7	Chromosome 6q deletion syndrome	OMIM:612015
+7	0.67	Coffin-Siris Syndrome 3	OMIM:614608
+8	0.64	Chronic mucocutaneous candidiasis	OMIM:114580
+9	0.59	1p36 deletion syndrome	OMIM:607872
+10	0.57	Freeman-Sheldon syndrome	OMIM:193700

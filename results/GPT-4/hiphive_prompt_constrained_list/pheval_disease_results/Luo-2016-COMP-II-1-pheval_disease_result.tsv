@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.99	Metaphyseal dysplasia, Spahr type	OMIM:250400
+2	0.97	Spondylometaphyseal dysplasia, Sedaghatian type	OMIM:250220
+3	0.96	Asphyxiating thoracic dystrophy 3	OMIM:613091
+4	0.95	Schneckenbecken dysplasia	OMIM:269250
+5	0.92	Metaphyseal dysplasia without hypotrichosis	OMIM:250460
+6	0.9	Desbuquois dysplasia 1	OMIM:251450
+7	0.89	Spondyloepimetaphyseal dysplasia, Shohat type	OMIM:602557
+8	0.88	Metaphyseal chondrodysplasia, Jansen type	OMIM:156400
+9	0.85	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605946
+10	0.83	Short stature with nonspecific skeletal abnormalities	OMIM:300984

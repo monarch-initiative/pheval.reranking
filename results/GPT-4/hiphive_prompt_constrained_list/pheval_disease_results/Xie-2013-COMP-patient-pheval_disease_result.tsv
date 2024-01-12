@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Achondroplasia	OMIM:100800
+2	0.87	Hunter syndrome	OMIM:309900
+3	0.84	Thanatophoric dysplasia	OMIM:187600
+4	0.82	Sotos syndrome	OMIM:117550
+5	0.8	Osteogenesis imperfecta	OMIM:166200
+6	0.78	Pseudoachondroplasia	OMIM:177170
+7	0.75	Dyggve-Melchior-Clausen disease	OMIM:223800
+8	0.73	Campomelic dysplasia	OMIM:114290
+9	0.7	Short rib-polydactyly syndrome	OMIM:263520
+9	0.7	Fibrodysplasia ossificans progressiva	OMIM:135100

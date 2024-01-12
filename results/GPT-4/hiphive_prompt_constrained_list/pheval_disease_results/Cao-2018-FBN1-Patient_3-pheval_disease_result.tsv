@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Marfan Syndrome	OMIM:115150
+2	0.88	Homocystinuria	OMIM:236200
+3	0.85	Ehlers-Danlos Syndromes, Vascular Type	OMIM:130050
+4	0.83	Lujan-Fryns Syndrome	OMIM:309520
+5	0.81	Weill-Marchesani Syndrome 1	OMIM:277600
+6	0.8	Stickler Syndrome, Type I	OMIM:108300
+6	0.8	Loeys-Dietz Syndrome	OMIM:609192
+8	0.78	Beals Syndrome	OMIM:121050
+9	0.77	Weill-Marchesani Syndrome 3	OMIM:614819
+10	0.75	Spondyloepimetaphyseal Dysplasia-Mitral Valve Dysplasia Syndrome	OMIM:608728

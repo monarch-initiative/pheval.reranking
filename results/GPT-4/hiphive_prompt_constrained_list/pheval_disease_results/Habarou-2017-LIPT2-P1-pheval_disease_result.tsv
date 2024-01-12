@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pitt-Hopkins syndrome	OMIM:610954
+2	0.89	Mowat-Wilson syndrome	OMIM:235730
+3	0.88	Epileptic encephalopathy, early infantile, 1	OMIM:308350
+4	0.87	Angelman syndrome	OMIM:105830
+5	0.85	Rett syndrome	OMIM:312750
+6	0.83	Aicardi-Goutieres syndrome 1	OMIM:225750
+7	0.82	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+8	0.81	CDKL5 Deficiency Disorder	OMIM:300672
+8	0.81	White-Sutton syndrome	OMIM:616364
+10	0.8	Epileptic encephalopathy, early infantile, 8	OMIM:614254

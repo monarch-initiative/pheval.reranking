@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Cohen Syndrome	OMIM:216550
+2	0.85	Carpenter Syndrome	OMIM:201000
+3	0.83	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.82	Williams Syndrome	OMIM:194050
+5	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+6	0.79	Smith-Lemli-Opitz Syndrome	OMIM:270400
+7	0.76	Sotos Syndrome	OMIM:117550
+8	0.75	Cornelia de Lange Syndrome	OMIM:122470
+9	0.72	Treacher Collins Syndrome	OMIM:154500
+10	0.7	Apert Syndrome	OMIM:101200

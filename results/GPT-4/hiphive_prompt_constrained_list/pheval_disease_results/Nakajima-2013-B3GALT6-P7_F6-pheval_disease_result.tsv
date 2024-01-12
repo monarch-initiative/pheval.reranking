@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Metaphyseal acroscyphodysplasia	OMIM:613330
+2	0.88	Cutis laxa, autosomal recessive, Type IIIA	OMIM:219150
+3	0.85	Schwartz-Jampel syndrome, Type 1	OMIM:255800
+4	0.84	Trichorhinophalangeal syndrome, Type I	OMIM:190350
+5	0.82	Shprintzen-Goldberg syndrome	OMIM:182212
+6	0.8	Stickler syndrome, Type I	OMIM:108300
+7	0.78	Ehlers-Danlos syndrome, Type IV	OMIM:130050
+8	0.75	Diastrophic dysplasia	OMIM:222600
+9	0.73	Sotos syndrome	OMIM:117550
+10	0.69	Pyle's disease	OMIM:265900

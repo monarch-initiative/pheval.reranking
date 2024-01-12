@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Parathyroid adenoma 1	OMIM:103500
+2	0.85	Cushing disease	OMIM:219090
+3	0.8	Pituitary adenoma, ACTH-secreting	OMIM:102200
+4	0.78	Adrenal cortex adenoma	OMIM:200850
+5	0.75	Carcinoma of colon	OMIM:114500
+6	0.72	Peptic ulcer disease	OMIM:263200
+7	0.7	Thymoma, familial	OMIM:274230
+8	0.67	Kidney stones	OMIM:162000
+9	0.65	Acromegaly	OMIM:102200
+10	0.63	Gonadotroph adenoma	OMIM:102200

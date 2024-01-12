@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Central core disease	OMIM:117000
+2	0.89	Hereditary myopathy with early respiratory failure	OMIM:603689
+3	0.88	Myopathy, centronuclear, Autosomal recessive	OMIM:255200
+4	0.87	Bethlem myopathy	OMIM:158810
+5	0.86	Muscular dystrophy, Duchenne type	OMIM:310200
+6	0.85	Myopathy, myofibrillar, 1, Autosomal dominant	OMIM:601419
+7	0.84	Myopathy, distal, 2	OMIM:606082
+8	0.83	Myopathy, distal, 1	OMIM:602082
+9	0.82	Myopathy, limb-girdle, autosomal recessive 20	OMIM:615368
+10	0.81	Myopathy, distal, 4	OMIM:612433

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Stickler syndrome, type I, nonsyndromic ocular	OMIM:609284
+2	0.86	Marshall syndrome	OMIM:154700
+3	0.83	Stickler syndrome, type IV	OMIM:614134
+4	0.82	Crouzon syndrome with acanthosis nigricans	OMIM:612247
+5	0.81	Bone fragility with contractures, arterial rupture, and deafness	OMIM:614856
+6	0.8	Cohen syndrome	OMIM:216550
+7	0.78	Larsen syndrome	OMIM:607414
+8	0.74	Stiff skin syndrome	OMIM:184900
+9	0.71	Proteus syndrome	OMIM:176920
+10	0.69	Blepharophimosis sequence	OMIM:110100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.981	Bullous Congenital Ichthyosiform Erythroderma	OMIM:113800
+2	0.963	Epidermolytic Hyperkeratosis	OMIM:113800
+3	0.956	Palmoplantar Keratoderma, Epidermolytic	OMIM:144200
+4	0.945	Ichthyosis Vulgaris	OMIM:146700
+5	0.934	Epidermolytic Palmoplantar Keratoderma	OMIM:600962
+6	0.924	Keratosis Palmaris et Plantaris	OMIM:148700
+7	0.913	Psoriasis Vulgaris	OMIM:177900
+8	0.905	Pityriasis Rubra Pilaris	OMIM:173200
+9	0.896	Ichthyosis Simplex	OMIM:146800
+10	0.886	Epidermolysis Bullosa Simplex, Weber-Cockayne Type	OMIM:131800

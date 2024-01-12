@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Bartter syndrome, type 1, antenatal	OMIM:601678
+2	0.83	Bartter syndrome, type 3, antenatal	OMIM:607364
+3	0.81	Bartter syndrome, type 4a, neonatal, with sensorineural deafness	OMIM:602522
+4	0.8	Gitelman syndrome	OMIM:263800
+5	0.73	Bartter syndrome, type 4b, neonatal, with sensorineural deafness	OMIM:613090
+6	0.7	Bartter syndrome, type 4c, neonatal, with sensorineural deafness	OMIM:615663
+7	0.68	East syndrome	OMIM:612780
+8	0.64	Pseudo-aldosteronism, type IIC	OMIM:614492
+9	0.62	Hypercalciuria, idiopathic, childhood-onset	OMIM:143870
+10	0.61	Bartter syndrome, type 2, antenatal	OMIM:241200

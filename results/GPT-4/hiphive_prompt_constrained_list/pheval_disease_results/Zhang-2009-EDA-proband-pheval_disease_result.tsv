@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Ectrodactyly, Ectodermal dysplasia, and Cleft lip/palate Syndrome 3	OMIM:604292
+2	0.85	Ectodermal Dysplasia, Hypohidrotic, with Hypothyroidism and Agenesis of the corpus callosum	OMIM:225040
+3	0.84	Odontoonychodermal Dysplasia	OMIM:257980
+4	0.81	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	OMIM:224900
+5	0.78	Pachyonychia Congenita	OMIM:167210
+6	0.73	Epidermolysis Bullosa, Late-Onset Localized Junctional, with Mental Retardation	OMIM:226650
+7	0.72	Alopecia, Hypogonadism, Extrapyramidal Disorder	OMIM:612079
+8	0.7	Netherton Syndrome	OMIM:256500
+8	0.7	Aplasia Cutis Congenita, High Myopia, and Cone-Rod Dysfunction	OMIM:609208
+10	0.68	Trichodysplasia-amelogenesis Imperfecta Syndrome	OMIM:612437

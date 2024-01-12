@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ellis-van Creveld syndrome	OMIM:225500
+2	0.93	Coffin-Siris Syndrome 5	OMIM:616938
+3	0.91	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.89	Al-Gazali-Bakalinova syndrome	OMIM:607131
+5	0.88	Bardet-Biedl syndrome	OMIM:209900
+6	0.86	Mikati-Najjar-Sahli syndrome	OMIM:611560
+7	0.84	Meier-Gorlin syndrome 3	OMIM:613803
+8	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.8	Aarskog-Scott syndrome	OMIM:100050
+10	0.78	Fanconi anemia, complementation group A	OMIM:227650

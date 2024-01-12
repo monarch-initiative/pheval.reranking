@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Amyotrophic lateral sclerosis	OMIM:105120
+2	0.88	Duchenne muscular dystrophy	OMIM:310200
+3	0.85	Spinal muscular atrophy	OMIM:253300
+4	0.82	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+5	0.8	Myasthenia gravis, familial	OMIM:254200
+6	0.78	Muscular dystrophy, limb-girdle, type 1A	OMIM:159000
+7	0.76	Limb-girdle muscular dystrophy-dystroglycanopathy	OMIM:614643
+8	0.74	Myopathy with lactic acidosis and sideroblastic anemia	OMIM:600462
+9	0.72	Polymyositis	OMIM:160120
+10	0.7	Acid maltase deficiency	OMIM:260600

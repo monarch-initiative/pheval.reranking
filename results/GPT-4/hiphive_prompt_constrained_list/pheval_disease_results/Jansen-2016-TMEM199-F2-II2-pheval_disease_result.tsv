@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Wilson's Disease	OMIM:277300
+2	0.94	Alpha-1-Antitrypsin Deficiency	OMIM:613490
+3	0.91	Galactosemia	OMIM:230400
+4	0.89	Hereditary Hemochromatosis	OMIM:613609
+5	0.86	Progressive Familial Intrahepatic Cholestasis	OMIM:211600
+6	0.84	Congenital Disorder Of Glycosylation	OMIM:608540
+7	0.81	Familial Hypercholesterolemia	OMIM:143890
+8	0.77	Alagille Syndrome	OMIM:118450
+9	0.75	Dubin-Johnson Syndrome	OMIM:237500
+10	0.7	Glycogen Storage Disease	OMIM:232200

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Dyskeratosis congenita, autosomal dominant, 2	OMIM:613989
+2	0.9	Telomere biology disorder	OMIM:616244
+3	0.88	Revesz syndrome	OMIM:268130
+4	0.86	Pancytopenia and Immunodeficiency with short telomeres	OMIM:614190
+5	0.85	Coats plus syndrome	OMIM:612199
+6	0.84	Hoyeraal-Hreidarsson syndrome	OMIM:305000
+7	0.82	Dyskeratosis congenita, autosomal recessive1	OMIM:224230
+8	0.81	Aplastic anemia, congenital	OMIM:609135
+9	0.79	Dyskeratosis congenita, X-linked	OMIM:305000
+10	0.78	FA Complementation Group D2	OMIM:227645

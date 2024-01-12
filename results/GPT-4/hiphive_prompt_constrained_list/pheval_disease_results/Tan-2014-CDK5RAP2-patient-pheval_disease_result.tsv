@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.83	Smith-Magenis syndrome	OMIM:182290
+2	0.82	Pitt-Hopkins syndrome	OMIM:610954
+3	0.81	Coffin-Lowry syndrome	OMIM:303600
+4	0.8	Cornelia de Lange syndrome	OMIM:122470
+5	0.78	Cri-du-chat syndrome	OMIM:123450
+6	0.77	Williams syndrome	OMIM:194050
+7	0.76	Prader-Willi syndrome	OMIM:176270
+8	0.75	Angelman syndrome	OMIM:105830
+9	0.74	Marshall-Smith syndrome	OMIM:602535
+10	0.73	Rubinstein-Taybi syndrome	OMIM:180849

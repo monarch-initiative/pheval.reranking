@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Epidermolysis Bullosa, Junctional, Non-Herlitz Type	OMIM:226700
+2	0.94	Epidermolysis Bullosa Simplex With Muscular Dystrophy	OMIM:226670
+3	0.92	Epidermolysis Bullosa Simplex With Pyloric Atresia	OMIM:612940
+4	0.89	Epidermolysis Bullosa Simplex, Generalized	OMIM:131800
+5	0.85	Epidermolysis Bullosa Simplex, Autosomal Recessive	OMIM:601681
+6	0.82	Epidermolysis Bullosa Simplex, Ogna Type	OMIM:131950
+7	0.79	Epidermolysis Bullosa Simplex, Koebner Type	OMIM:131900
+8	0.77	Epidermolysis Bullosa Simplex, Dowling-Meara Type	OMIM:131760
+9	0.75	Epidermolysis Bullosa Simplex, Localized	OMIM:131705
+10	0.73	Kindler Syndrome	OMIM:173650

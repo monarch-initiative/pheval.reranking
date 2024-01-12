@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9523	Bartter syndrome, type 3	OMIM:607364
+2	0.9451	Pheochromocytoma	OMIM:171300
+3	0.931	MODY, type 2	OMIM:125851
+4	0.9207	Familial hyperinsulinemic hypoglycemia 1	OMIM:256450
+5	0.9164	Hyperparathyroidism 1, familial	OMIM:145000
+6	0.9128	Hypoparathyroidism familial isolated	OMIM:146200
+7	0.9066	Hypocalciuric hypercalcemia, familial, type 1	OMIM:145980
+8	0.9031	Brain-lung-thyroid syndrome	OMIM:610199
+9	0.9002	Mitochondrial complex I deficiency	OMIM:252010
+10	0.8997	Hyperinsulinism due to Kir6.2 deficiency	OMIM:601820

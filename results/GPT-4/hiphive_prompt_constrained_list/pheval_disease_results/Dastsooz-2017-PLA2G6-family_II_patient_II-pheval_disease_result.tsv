@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Glycogen Storage Disease Type V	OMIM:232600
+2	0.9	Niemann-Pick Disease, Type C1	OMIM:257220
+3	0.86	Primary familial hyperaldosteronism	OMIM:615474
+4	0.85	Mitochondrial complex I deficiency	OMIM:252010
+5	0.84	Medium-chain acyl-coenzyme A dehydrogenase deficiency	OMIM:201470
+6	0.82	Pompe disease	OMIM:232300
+7	0.81	Pyruvate carboxylase deficiency	OMIM:266150
+8	0.8	Neurodegeneration with brain iron accumulation 1	OMIM:234200
+9	0.79	Phenylketonuria	OMIM:261600
+10	0.78	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 1	OMIM:157640

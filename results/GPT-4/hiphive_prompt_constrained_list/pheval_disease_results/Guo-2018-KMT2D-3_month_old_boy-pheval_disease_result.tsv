@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Smith-Lemli-Opitz Syndrome	OMIM:270400
+2	0.88	Coffin-Lowry syndrome	OMIM:303600
+3	0.86	Prader-Willi Syndrome	OMIM:176270
+4	0.84	Pallister-Hall Syndrome	OMIM:146510
+5	0.81	CHARGE Syndrome	OMIM:214800
+6	0.79	Carpenter Syndrome	OMIM:201000
+7	0.75	Cornelia de Lange syndrome	OMIM:122470
+8	0.73	Rubinstein-Taybi Syndrome	OMIM:180849
+9	0.7	Cri-du-chat syndrome	OMIM:123450
+10	0.68	Noonan Syndrome	OMIM:163950

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	CK Syndrome	OMIM:300831
+2	0.87	Baraitser-Winter syndrome 1	OMIM:243310
+3	0.85	Autosomal recessive deafness-onychodystrophy syndrome	OMIM:124480
+4	0.82	Seckel syndrome 10	OMIM:176390
+5	0.81	Microcephaly 18, primary, autosomal dominant	OMIM:617520
+6	0.8	Al-Gazali syndrome	OMIM:152525
+7	0.79	Joubert syndrome 2	OMIM:608091
+8	0.75	Feingold syndrome 1	OMIM:164280
+9	0.74	Autosomal recessive non-syndromic intellectual disability	OMIM:249500
+10	0.72	Aarskog-Scott syndrome	OMIM:305400

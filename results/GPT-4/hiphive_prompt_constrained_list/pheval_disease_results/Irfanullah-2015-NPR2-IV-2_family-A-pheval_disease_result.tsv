@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Wiedemann-Steiner Syndrome	OMIM:605130
+2	0.96	Rubinstein-Taybi Syndrome 1	OMIM:180849
+3	0.91	Hand-foot-genital syndrome	OMIM:140000
+4	0.9	Pantothenate kinase-associated Neurodegeneration	OMIM:607236
+5	0.88	Distal Arthrogryposis Type 1	OMIM:108120
+6	0.87	Robinow Syndrome, Autosomal Recessive	OMIM:268310
+7	0.86	Freeman-Sheldon Syndrome	OMIM:193700
+8	0.83	Trichorhinophalangeal Syndrome, Type I	OMIM:190350
+9	0.81	Fibrodysplasia Ossificans Progressiva	OMIM:135100
+10	0.8	Smith-McCort Dysplasia 2	OMIM:615222

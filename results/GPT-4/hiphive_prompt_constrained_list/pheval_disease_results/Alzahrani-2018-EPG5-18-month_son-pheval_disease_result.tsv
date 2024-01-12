@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Coffin-Siris syndrome 3	OMIM:614608
+2	0.85	Mental retardation, autosomal dominant 31	OMIM:616158
+3	0.82	Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant	OMIM:603736
+4	0.8	Blepharophimosis-intellectual disability syndromes	OMIM:110100
+5	0.79	Autosomal recessive non-syndromic intellectual disability	OMIM:249500
+6	0.78	Atr-X syndrome	OMIM:301040
+7	0.76	X-linked intellectual disability, Lubs type	OMIM:300260
+8	0.75	Cornelia de Lange syndrome 2	OMIM:300590
+9	0.72	Autosomal recessive intellectual disability, 5	OMIM:614562
+10	0.7	Char syndrome	OMIM:169100

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cornelia de Lange syndrome	OMIM:614701
+2	0.8	Rubinstein-Taybi Syndrome	OMIM:613454
+3	0.75	Mucolipidosis type IV	OMIM:252650
+4	0.73	Coffin-Lowry syndrome	OMIM:303600
+5	0.72	Smith-Magenis Syndrome	OMIM:182290
+6	0.71	Sanfilippo syndrome	OMIM:252900
+7	0.68	Williams syndrome	OMIM:194050
+8	0.67	Prader-Willi Syndrome	OMIM:176270
+9	0.66	Angelman syndrome	OMIM:105830
+10	0.65	Sotos syndrome	OMIM:117550

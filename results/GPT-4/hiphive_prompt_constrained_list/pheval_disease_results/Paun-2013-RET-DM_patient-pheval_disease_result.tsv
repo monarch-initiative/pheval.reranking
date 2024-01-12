@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pheochromocytoma	OMIM:115150
+2	0.88	Multiple endocrine neoplasia type 2A	OMIM:171400
+3	0.84	Familial medullary thyroid carcinoma	OMIM:155240
+4	0.8	Von Hippel-Lindau disease	OMIM:193300
+4	0.8	Multiple endocrine neoplasia type 2B	OMIM:162300
+6	0.7	Paragangliomas 1	OMIM:168000
+7	0.68	Thyroid carcinoma, familial medullary	OMIM:155240
+8	0.65	Carcinoma, medullary thyroid	OMIM:155240
+9	0.5	Hyperparathyroidism 2	OMIM:145001
+10	0.42	Pheochromocytoma, modifier of	OMIM:115310

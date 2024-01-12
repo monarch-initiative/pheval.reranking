@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Long QT Syndrome 8	OMIM:613254
+2	0.95	Epileptic encephalopathy, early infantile, 15	OMIM:613454
+3	0.93	Familial hypertrophic cardiomyopathy 8	OMIM:608751
+4	0.92	Limb-girdle muscular dystrophy, type 2I	OMIM:607155
+5	0.9	Catecholaminergic polymorphic ventricular tachycardia	OMIM:604772
+6	0.85	Ventricular fibrillation, idiopathic	OMIM:612838
+7	0.83	Brugada syndrome 1	OMIM:601144
+8	0.78	Congenital disorder of glycosylation, type Ix	OMIM:617560
+9	0.75	Muscular dystrophy-dystroglycanopathy, type B7	OMIM:613194
+10	0.7	Cardioencephalomyopathy, fatal infantile, due to cytochrome C oxidase deficiency 2	OMIM:615119

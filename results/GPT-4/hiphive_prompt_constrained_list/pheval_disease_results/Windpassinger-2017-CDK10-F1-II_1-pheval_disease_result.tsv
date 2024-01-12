@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 9	OMIM:616559
+2	0.85	Craniofacial-deafness-hand syndrome	OMIM:122880
+3	0.84	Saethre-Chotzen syndrome	OMIM:101400
+4	0.82	Noonan syndrome 3	OMIM:609942
+5	0.81	Costello syndrome	OMIM:218040
+6	0.8	Crouzon syndrome	OMIM:123500
+7	0.79	Noonan syndrome 1	OMIM:163950
+8	0.78	Treacher Collins syndrome 1	OMIM:154500
+9	0.77	Rubinstein-Taybi syndrome 1	OMIM:180849
+10	0.76	Apert syndrome	OMIM:101200

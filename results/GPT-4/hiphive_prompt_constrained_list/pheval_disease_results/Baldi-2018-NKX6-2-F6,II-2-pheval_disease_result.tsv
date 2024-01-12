@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.88	Aicardi-Goutieres syndrome 6	OMIM:615010
+3	0.86	Hypomyelination and congenital cataract	OMIM:610532
+4	0.84	Vanishing White Matter disease	OMIM:603896
+5	0.83	Spastic paraplegia 56, autosomal recessive	OMIM:615030
+6	0.82	Hypomyelinating leukodystrophy 3	OMIM:260600
+7	0.81	Metachromatic leukodystrophy	OMIM:250100
+8	0.79	X-linked adrenoleukodystrophy	OMIM:300100
+9	0.78	Alexander disease	OMIM:203450
+10	0.76	Canavan disease	OMIM:271900

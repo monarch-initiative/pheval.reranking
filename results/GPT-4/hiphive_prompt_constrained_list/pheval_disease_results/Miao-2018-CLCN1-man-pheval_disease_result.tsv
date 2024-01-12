@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Myopathy with lactic acidosis and sideroblastic anemia 1	OMIM:600462
+2	0.9	Charcot-Marie-Tooth disease, axonal, type 2E	OMIM:617876
+3	0.89	Myotonic dystrophy 1	OMIM:160400
+4	0.88	Myopathic carnitine deficiency	OMIM:212140
+5	0.85	Glycogen storage disease of muscle, severe childhood type	OMIM:232700
+5	0.85	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome	OMIM:605234
+7	0.82	McArdle disease	OMIM:232600
+8	0.8	Muscular dystrophy, Duchenne type	OMIM:186300
+9	0.77	Hypertrophic cardiomyopathy 1	OMIM:604180
+10	0.76	Mitochondrial DNA depletion syndrome 1 (MDDS1)	OMIM:603045

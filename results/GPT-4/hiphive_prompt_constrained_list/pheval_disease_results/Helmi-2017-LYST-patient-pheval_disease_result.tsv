@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Hyper IgM syndrome type 1	OMIM:308230
+2	0.89	Wiskott-Aldrich syndrome	OMIM:301000
+3	0.88	Chronic granulomatous disease	OMIM:306400
+4	0.84	Bloom syndrome	OMIM:210900
+5	0.83	Williams syndrome	OMIM:194050
+6	0.82	X-linked agammaglobulinemia	OMIM:300755
+7	0.78	Albinism, oculocutaneous, type IA	OMIM:203100
+8	0.77	Nijmegen breakage syndrome	OMIM:251260
+9	0.75	Gaucher's disease	OMIM:230800
+10	0.72	Dyskeratosis congenita, X-linked	OMIM:305000

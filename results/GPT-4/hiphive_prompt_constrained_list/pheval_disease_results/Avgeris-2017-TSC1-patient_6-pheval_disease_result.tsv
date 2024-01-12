@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Tuberous sclerosis	OMIM:191100
+2	0.87	Bourneville Syndrome	OMIM:177170
+3	0.85	Autism spectrum disorder	OMIM:209850
+4	0.83	Epilepsy, Childhood Absence	OMIM:600131
+5	0.81	Intellectual Disability, Nonsyndromic, Autosomal Dominant 26	OMIM:615293
+6	0.8	Albright hereditary osteodystrophy	OMIM:103580
+7	0.78	AngelMan syndrome	OMIM:105830
+8	0.74	Segawa Syndrome	OMIM:612716
+9	0.7	Neurofibromatosis Type I	OMIM:162200
+10	0.68	Fragile X syndrome	OMIM:300624

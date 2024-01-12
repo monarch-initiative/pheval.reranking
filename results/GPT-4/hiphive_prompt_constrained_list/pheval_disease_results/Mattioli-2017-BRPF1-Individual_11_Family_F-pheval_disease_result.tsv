@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Cohen Syndrome	OMIM:216550
+2	0.89	Richieri Costa Da Silva Syndrome	OMIM:615948
+3	0.87	Kabuki Syndrome 1	OMIM:147920
+4	0.86	Cornelia De Lange Syndrome 1	OMIM:122470
+5	0.84	Smith-magenis Syndrome	OMIM:182290
+6	0.82	Fragile X Syndrome	OMIM:300624
+7	0.79	Bardet-biedl Syndrome 2	OMIM:615981
+8	0.76	Meier-gorlin Syndrome 1	OMIM:224690
+9	0.75	Prader-Willi Syndrome	OMIM:176270
+10	0.73	Angelman Syndrome	OMIM:105830

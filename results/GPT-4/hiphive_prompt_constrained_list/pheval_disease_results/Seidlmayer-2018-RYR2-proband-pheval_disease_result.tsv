@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cardiomyopathy, Idiopathic Dilated, 1D	OMIM:601144
+2	0.94	Arrhythmogenic Right Ventricular Dysplasia, Familial, 10	OMIM:610759
+3	0.92	Cardiomyopathy, Dilated, With Left Ventricular Noncompaction	OMIM:615192
+4	0.91	Cardiomyopathy, Hypertrophic, 25	OMIM:607487
+5	0.88	Cardiomyopathy, Familial Dilated, 3A	OMIM:602067
+6	0.8	Cardiomyopathy, Familial Hypertrophic, 1	OMIM:191600
+7	0.78	Arrhythmogenic Right Ventricular Dysplasia, Familial, 5	OMIM:604400
+8	0.75	Arrhythmogenic Right Ventricular Dysplasia, Familial, 2	OMIM:600996
+9	0.73	Arrhythmogenic Right Ventricular Dysplasia, Familial, 4	OMIM:602087
+10	0.7	Arrhythmogenic Right Ventricular Dysplasia, Familial, 1	OMIM:107970

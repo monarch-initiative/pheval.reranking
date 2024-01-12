@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Gaucher Disease Type 1	OMIM:230800
+2	0.9	Alkaptonuria	OMIM:203500
+3	0.88	Niemann-Pick disease type C1	OMIM:257220
+4	0.85	Hurler Syndrome	OMIM:607014
+5	0.84	Hunter Syndrome	OMIM:309900
+6	0.83	Fabry Disease	OMIM:301500
+7	0.82	Tay-Sachs Disease	OMIM:272800
+8	0.79	Sanfilippo Syndrome Type B	OMIM:252920
+9	0.78	Metachromatic Leukodystrophy	OMIM:250100
+10	0.76	Krabbe Disease	OMIM:245200

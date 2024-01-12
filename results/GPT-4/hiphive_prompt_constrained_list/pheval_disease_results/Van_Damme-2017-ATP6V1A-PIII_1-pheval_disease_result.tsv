@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Marfan Syndrome	OMIM:115150
+2	0.83	Ehlers-Danlos syndrome, classic type	OMIM:130000
+3	0.81	Loeys-Dietz syndrome	OMIM:609192
+4	0.8	Cutis laxa, autosomal dominant 1	OMIM:123700
+5	0.79	Noonan syndrome 1	OMIM:163950
+6	0.78	Stickler syndrome type 1	OMIM:108300
+7	0.75	Cutis laxa, autosomal recessive, type IC	OMIM:613177
+8	0.73	Connective tissue disorder due to lysyl hydroxylase-3 deficiency	OMIM:614557
+9	0.7	Weill-Marchesani syndrome 3, recessive	OMIM:614819
+10	0.69	Shprintzen-Goldberg syndrome	OMIM:182212

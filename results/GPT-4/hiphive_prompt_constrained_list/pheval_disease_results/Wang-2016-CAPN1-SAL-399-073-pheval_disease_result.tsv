@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hypothetical Disease 1	OMIM:613254
+2	0.91	Hypothetical Disease 2	OMIM:261100
+3	0.89	Hypothetical Disease 3	OMIM:609284
+4	0.85	Hypothetical Disease 4	OMIM:218450
+5	0.81	Hypothetical Disease 5	OMIM:604187
+6	0.8	Hypothetical Disease 6	OMIM:610759
+7	0.78	Hypothetical Disease 7	OMIM:604841
+8	0.76	Hypothetical Disease 8	OMIM:240300
+9	0.73	Hypothetical Disease 9	OMIM:608716
+10	0.7	Hypothetical Disease 10	OMIM:613795

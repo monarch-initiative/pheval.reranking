@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Platelet-type bleeding disorder 10	OMIM:613990
+2	0.82	Myeloproliferative disorder with eosinophilia	OMIM:131400
+3	0.8	Leukemia, acute myeloid	OMIM:601626
+4	0.79	Gray platelet syndrome	OMIM:139090
+5	0.78	Thrombasthenia of Glanzmann and Naegeli	OMIM:273800
+6	0.77	Familial acute myeloid leukemia with mutated cepba	OMIM:102500
+7	0.76	Thrombocytopenia with absent radius	OMIM:274000
+8	0.75	Anemia, X-linked, with/without neutropenia and/or platelet abnormalities	OMIM:300835
+9	0.73	Congenital amegakaryocytic thrombocytopenia	OMIM:604498
+10	0.7	FAKHRUDIN syndrome	OMIM:615948

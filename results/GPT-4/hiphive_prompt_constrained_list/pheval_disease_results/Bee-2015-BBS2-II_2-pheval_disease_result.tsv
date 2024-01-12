@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.7	Bardet-Biedl syndrome 10	OMIM:615987
+2	0.65	Albright's hereditary osteodystrophy	OMIM:103580
+3	0.6	Cohen syndrome	OMIM:216550
+4	0.55	Meckel syndrome 1	OMIM:249000
+5	0.5	Alstrom syndrome	OMIM:203800
+6	0.45	Usher syndrome type 2	OMIM:276901
+7	0.4	Bardet-Biedl syndrome 9	OMIM:615986
+8	0.35	Usher syndrome type 1	OMIM:276900
+9	0.3	Smith-Magenis syndrome	OMIM:182290
+10	0.25	Joubert syndrome 2	OMIM:608091

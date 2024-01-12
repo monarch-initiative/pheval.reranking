@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Peutz-Jeghers syndrome	OMIM:175200
+2	0.89	Cowden syndrome 1	OMIM:158350
+3	0.87	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+4	0.86	Juvenile polyposis syndrome	OMIM:174900
+5	0.84	Carney complex	OMIM:160980
+6	0.82	Familial adenomatous polyposis 1	OMIM:175100
+7	0.78	Muir-Torre syndrome	OMIM:158320
+8	0.75	Melanoma, cutaneous malignant, susceptibility to, 1	OMIM:155600
+9	0.72	Gardner syndrome	OMIM:175100
+10	0.71	Turcot syndrome	OMIM:276300

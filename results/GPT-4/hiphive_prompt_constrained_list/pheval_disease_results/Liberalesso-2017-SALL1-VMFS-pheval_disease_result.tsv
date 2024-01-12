@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pitt-Hopkins syndrome	OMIM:610954
+2	0.89	Charge syndrome	OMIM:214800
+3	0.88	Alagille syndrome	OMIM:118450
+4	0.87	Branchiootorenal syndrome	OMIM:113650
+5	0.85	DiGeorge syndrome	OMIM:188400
+6	0.83	Mowat-Wilson syndrome	OMIM:235730
+7	0.82	Walker-Warburg syndrome	OMIM:236670
+8	0.8	Turner syndrome	OMIM:163950
+9	0.78	Smith-Lemli-Opitz syndrome	OMIM:270400
+10	0.76	Rubinstein-Taybi syndrome	OMIM:613684

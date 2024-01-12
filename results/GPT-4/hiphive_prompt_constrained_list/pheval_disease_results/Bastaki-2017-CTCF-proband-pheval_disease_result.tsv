@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.84	Cornelia de Lange syndrome 2	OMIM:300590
+3	0.82	Cornelia de Lange syndrome 3	OMIM:610759
+4	0.81	Cornelia de Lange syndrome 4	OMIM:614701
+5	0.79	Coffin-Siris syndrome 1	OMIM:135900
+6	0.78	Coffin-Siris syndrome 2	OMIM:614607
+7	0.76	Coffin-Siris syndrome 3	OMIM:614608
+8	0.75	Mental retardation, autosomal dominant 32	OMIM:616432
+9	0.74	Dubowitz syndrome	OMIM:223370
+10	0.72	Coffin-Siris syndrome 5	OMIM:616938

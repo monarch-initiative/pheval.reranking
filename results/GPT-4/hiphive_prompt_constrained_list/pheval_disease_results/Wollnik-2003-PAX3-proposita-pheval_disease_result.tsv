@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Freeman-Sheldon Syndrome	OMIM:277720
+2	0.9	Distal Arthrogryposis Type 2B	OMIM:601680
+3	0.8	Short Stature, Developmental Delay, and Congenital Heart Defects	OMIM:617044
+4	0.75	Oculodentodigital Dysplasia	OMIM:164200
+5	0.73	Marden-Walker Syndrome	OMIM:248700
+6	0.7	Multiple Pterygium Syndrome, Escobar Variant	OMIM:265000
+7	0.65	Shprintzen-Goldberg Syndrome	OMIM:182212
+8	0.63	Ehlers-Danlos Syndrome, Kyphoscoliotic Type	OMIM:225400
+9	0.6	Trisomy 18	OMIM:190685
+10	0.55	Marfan Syndrome	OMIM:154700

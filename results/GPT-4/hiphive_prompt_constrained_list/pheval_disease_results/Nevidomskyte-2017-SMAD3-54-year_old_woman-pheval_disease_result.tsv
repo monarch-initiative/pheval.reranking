@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Loeys-Dietz Syndrome	OMIM:609192
+2	0.92	Marfan Syndrome	OMIM:154700
+3	0.88	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+4	0.85	Annuloaortic Ectasia	OMIM:608967
+5	0.82	Supravalvular Aortic Stenosis	OMIM:185500
+6	0.8	Familial Thoracic Aortic Aneurysm	OMIM:132900
+7	0.78	Craniofacial Dysmorphism, Skeletal Anomalies and Mental Retardation Syndrome	OMIM:616902
+8	0.76	Arterial Tortuosity Syndrome	OMIM:208050
+9	0.75	Ehlers-Danlos Syndrome, Kyphoscoliotic and Deafness Type	OMIM:614557
+10	0.72	Ehlers-Danlos Syndrome, Periodontitis Type	OMIM:130080

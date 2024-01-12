@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Cleidocranial Dysplasia	OMIM:119600
+2	0.85	Pyknodysostosis	OMIM:265800
+3	0.8	Coffin-Lowry Syndrome	OMIM:303600
+4	0.75	Hypochondroplasia	OMIM:146000
+5	0.7	Coffin-Siris Syndrome 1	OMIM:135900
+6	0.65	Metaphyseal Chondrodysplasia, Schmid Type	OMIM:156500
+7	0.6	Camurati-Engelmann Disease	OMIM:131300
+8	0.55	Frontonasal Dysplasia 1	OMIM:136760
+9	0.5	Short Rib-Polydactyly Syndrome, Majewski Type	OMIM:263520
+10	0.45	3M Syndrome 1	OMIM:273750

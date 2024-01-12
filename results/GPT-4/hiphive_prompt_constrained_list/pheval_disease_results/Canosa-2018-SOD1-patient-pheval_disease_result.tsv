@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Amyotrophic lateral sclerosis	OMIM:105400
+2	0.9	Spastic tetraplegia - thin corpus callosum - progressive postnatal microcephaly	OMIM:616657
+3	0.85	Primary lateral sclerosis, adult, 1	OMIM:611637
+4	0.8	Amyotrophic lateral sclerosis type 1	OMIM:105400
+5	0.75	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	OMIM:615166
+6	0.7	Multiple sclerosis	OMIM:126200
+6	0.7	Spastic paraplegia 17, autosomal dominant	OMIM:270685
+8	0.6	Hereditary spastic paraplegia 7	OMIM:607259
+8	0.6	Spastic paraplegia 2, X-linked	OMIM:312920
+10	0.5	Spastic paraplegia 3A	OMIM:182600

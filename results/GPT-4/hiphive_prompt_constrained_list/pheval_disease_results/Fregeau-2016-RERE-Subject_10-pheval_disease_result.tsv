@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Autism Spectrum Disorder	OMIM:209850
+2	0.93	Rett syndrome	OMIM:312750
+3	0.91	Asperger Syndrome	OMIM:608638
+4	0.89	Intellectual Disability	OMIM:608443
+5	0.85	Prader-Willi Syndrome	OMIM:176270
+6	0.83	Down Syndrome	OMIM:190685
+7	0.81	Fragile X Syndrome	OMIM:300624
+8	0.79	Angelman Syndrome	OMIM:105830
+9	0.75	Attention Deficit-Hyperactivity Disorder	OMIM:143465
+10	0.72	Williams Syndrome	OMIM:194050

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Osteogenesis imperfecta, type X	OMIM:613254
+2	0.9	Dentinogenesis imperfecta	OMIM:608526
+3	0.85	Boomerang dysplasia	OMIM:112310
+4	0.8	Type IIB odontohypophosphatasia	OMIM:241530
+5	0.75	Spondylo-meta-epiphyseal dysplasia, short limb-hand type	OMIM:271665
+6	0.7	Platyspondylic lethal skeletal dysplasia, San Diego type	OMIM:270230
+7	0.65	Marfan syndrome	OMIM:154700
+8	0.6	Beals syndrome	OMIM:121050
+9	0.55	Stickler syndrome, type I	OMIM:108300
+10	0.5	Pyle disease	OMIM:265900

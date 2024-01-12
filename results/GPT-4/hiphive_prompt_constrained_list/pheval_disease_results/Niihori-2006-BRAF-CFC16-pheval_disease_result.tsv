@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bellini Chiumello Rinoldi Syndrome	OMIM:613254
+2	0.91	Cornelia De Lange Syndrome 4	OMIM:610759
+3	0.88	Blepharophimosis-Ptosis-Epicanthus Inversus Syndrome 2	OMIM:606681
+4	0.86	Ritscher-Schinzel Syndrome 3	OMIM:616974
+5	0.83	Char Syndrome	OMIM:169100
+6	0.79	Dyskeratosis Congenita 5	OMIM:305000
+7	0.78	Nager Syndrome	OMIM:154400
+8	0.76	Noonan Syndrome 3	OMIM:609942
+9	0.73	Baraitser-Winter Syndrome 1	OMIM:243310
+10	0.71	Fryns Syndrome	OMIM:229850

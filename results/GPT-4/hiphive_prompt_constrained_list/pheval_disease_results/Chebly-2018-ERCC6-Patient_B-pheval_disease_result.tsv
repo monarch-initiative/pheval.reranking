@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Cockayne Syndrome	OMIM:216400
+2	0.83	Rothmund-Thomson Syndrome	OMIM:268400
+3	0.82	Bloom Syndrome	OMIM:210900
+4	0.78	Microcephaly-Cataract Syndrome	OMIM:615753
+5	0.77	Congenital Cataracts, Facial Dysmorphism, and Neuropathy Syndrome	OMIM:604168
+6	0.75	Primary Microcephaly	OMIM:251200
+7	0.74	Ataxia-Telangiectasia	OMIM:208900
+8	0.72	Smith-Lemli-Opitz Syndrome	OMIM:270400
+9	0.71	Xeroderma Pigmentosum	OMIM:278700
+10	0.7	Fanconi Anemia	OMIM:227650

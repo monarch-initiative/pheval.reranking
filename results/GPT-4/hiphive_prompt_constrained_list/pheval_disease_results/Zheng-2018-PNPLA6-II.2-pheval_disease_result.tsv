@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Reifenstein syndrome	OMIM:312300
+2	0.85	Kallmann syndrome	OMIM:147950
+3	0.8	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	OMIM:202110
+4	0.75	Testicular regression syndrome	OMIM:273250
+5	0.73	Cerebellar Ataxia, Hypogonadism, and Chorioretinal dystrophy	OMIM:270240
+6	0.7	Cerebellar Ataxia, Mental Retardation, and Dysequilibrium Syndrome	OMIM:224050
+7	0.68	Panhypopituitarism, X-linked	OMIM:312000
+8	0.65	Deafness, dystonia, and cerebral hypomyelination	OMIM:300475
+9	0.6	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	OMIM:607459
+10	0.55	Polyglucosan Body Myopathy	OMIM:263570

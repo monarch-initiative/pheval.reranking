@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Mandibuloacral Dysplasia	OMIM:248370
+2	0.85	Familial Partial Lipodystrophy	OMIM:151660
+3	0.83	Acquired Partial Lipodystrophy	OMIM:608709
+4	0.82	Werner Syndrome	OMIM:277700
+5	0.79	Hutchinson-Gilford Progeria Syndrome	OMIM:176670
+6	0.78	Familial Hypercholesterolemia	OMIM:143890
+7	0.76	Neuropathy, Hereditary Motor And Sensory, Type Vi	OMIM:604320
+8	0.75	Amyotrophic Lateral Sclerosis	OMIM:105400
+9	0.72	Lipodystrophy, Congenital Generalized, Type 1	OMIM:608594
+10	0.7	Multiple Symmetric Lipomatosis	OMIM:151800

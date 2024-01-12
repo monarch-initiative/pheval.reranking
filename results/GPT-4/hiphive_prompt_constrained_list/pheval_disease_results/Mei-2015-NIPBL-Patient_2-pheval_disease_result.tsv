@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Coffin-Siris syndrome 1	OMIM:135900
+2	0.86	Cornelia de Lange syndrome 1	OMIM:122470
+3	0.84	Rubinstein-Taybi syndrome 1	OMIM:180849
+4	0.82	Smith-Magenis syndrome	OMIM:182290
+5	0.8	Nicolaides-Baraitser syndrome	OMIM:601358
+6	0.78	Kabuki syndrome 1	OMIM:147920
+7	0.76	Williams syndrome	OMIM:194050
+8	0.74	Mowat-Wilson syndrome	OMIM:235730
+9	0.72	Autosomal dominant mental retardation 23	OMIM:615761
+10	0.7	Angelman syndrome	OMIM:105830

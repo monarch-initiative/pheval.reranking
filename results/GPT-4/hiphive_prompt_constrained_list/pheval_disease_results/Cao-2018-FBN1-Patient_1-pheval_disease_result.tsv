@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:610168
+2	0.9	Ehlers-Danlos Syndrome, Type 4	OMIM:130050
+3	0.88	Loeys-Dietz Syndrome	OMIM:609192
+4	0.85	Aneurysm-Osteoarthritis Syndrome	OMIM:613795
+5	0.75	Congenital Contractural Arachnodactyly	OMIM:121050
+6	0.72	Aortic Aneurysm, Familial Thoracic 6	OMIM:611788
+7	0.68	Weill-Marchesani Syndrome 2	OMIM:608328
+8	0.65	Ehlers-Danlos Syndrome, Kyphoscoliotic Type, 1	OMIM:225400
+9	0.6	Stickler Syndrome, Type I	OMIM:108300
+10	0.58	Cutis Laxa Syndrome, Autosomal Recessive, Type 1	OMIM:219100

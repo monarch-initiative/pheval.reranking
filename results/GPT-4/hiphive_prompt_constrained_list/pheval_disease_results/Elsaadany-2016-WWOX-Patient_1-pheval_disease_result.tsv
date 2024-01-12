@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Leigh syndrome, French Canadian type	OMIM:220111
+2	0.88	MEGDEL syndrome	OMIM:614739
+3	0.85	Leigh syndrome	OMIM:256000
+4	0.82	Leigh syndrome due to mitochondrial complex I deficiency	OMIM:252010
+5	0.8	Mitochondrial complex I deficiency	OMIM:252010
+6	0.78	Mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes	OMIM:540000
+7	0.75	Kearns-Sayre syndrome	OMIM:530000
+8	0.73	Alpers-Huttenlocher syndrome	OMIM:203700
+9	0.72	Pearson syndrome	OMIM:557000
+10	0.7	Sandhoff disease	OMIM:268800

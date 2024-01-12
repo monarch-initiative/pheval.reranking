@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Treacher Collins Syndrome	OMIM:154500
+2	0.87	Fraser Syndrome	OMIM:219000
+3	0.85	Branchio-Oculo-Facial Syndrome	OMIM:113620
+4	0.83	Axenfeld-Rieger Syndrome	OMIM:180500
+5	0.81	Miller Syndrome	OMIM:263750
+6	0.8	Facio-Auriculo-Radial Dysplasia	OMIM:171480
+7	0.78	Crouzon Syndrome	OMIM:123500
+8	0.75	Waardenburg Syndrome	OMIM:193500
+9	0.72	Nager Syndrome	OMIM:154400
+10	0.7	Mandibulo-Acral Dysplasia	OMIM:248370

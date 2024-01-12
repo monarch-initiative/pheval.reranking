@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Albright's Hereditary Osteodystrophy	OMIM:103580
+2	0.87	Cushing syndrome	OMIM:219090
+3	0.85	Lipodystrophy, Familial Partial	OMIM:151660
+4	0.84	Barber-Say Syndrome	OMIM:209885
+5	0.81	Werner syndrome	OMIM:277700
+6	0.78	Corneal Endothelium Dystrophy	OMIM:122100
+7	0.75	Familial lipoprotein lipase deficiency	OMIM:238600
+8	0.73	Hypertension, Essential	OMIM:145500
+9	0.69	Ichthyosis Vulgaris	OMIM:146700
+10	0.65	Congenital Hypothyroidism	OMIM:218700

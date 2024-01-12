@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Coffin-Lowry syndrome	OMIM:303600
+2	0.84	Barth syndrome	OMIM:302060
+3	0.82	Smith-Lemli-Opitz syndrome	OMIM:270400
+4	0.8	Rett syndrome	OMIM:312750
+4	0.8	Ehlers-Danlos syndrome	OMIM:130050
+6	0.79	Costello syndrome	OMIM:218040
+7	0.78	Rubinstein-Taybi syndrome	OMIM:180849
+8	0.77	Sotos syndrome	OMIM:117550
+9	0.75	Williams syndrome	OMIM:194050
+10	0.74	Alagille syndrome	OMIM:118450

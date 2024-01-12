@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Wilson disease	OMIM:277300
+2	0.91	Alcoholic liver cirrhosis	OMIM:109780
+3	0.87	Polycystic liver disease	OMIM:174050
+4	0.85	Hereditary hemochromatosis	OMIM:235200
+5	0.84	Primary Biliary Cholangitis	OMIM:613803
+6	0.81	Hemochromatosis type 2A	OMIM:602390
+7	0.78	Transthyretin amyloidosis	OMIM:105210
+8	0.76	Progressive familial intrahepatic cholestasis type 1	OMIM:211600
+9	0.74	Progressive familial intrahepatic cholestasis type 2	OMIM:601847
+10	0.72	Neonatal intrahepatic cholestasis due to citrin deficiency	OMIM:605814

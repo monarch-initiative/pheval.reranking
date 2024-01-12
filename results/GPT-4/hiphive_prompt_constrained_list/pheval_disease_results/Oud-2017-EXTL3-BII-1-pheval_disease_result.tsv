@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hnrnpa3-CDG	OMIM:618000
+2	0.85	Autosomal recessive Kenny-Caffey syndrome type 2	OMIM:616973
+3	0.8	D-lactic aciduria and progressive encephalopathy	OMIM:261100
+4	0.76	Goldberg-Shprintzen syndrome	OMIM:609460
+5	0.75	Congenital muscular dystrophy-dystroglycanopathy with mental retardation, type B5	OMIM:606612
+6	0.74	Zellweger syndrome	OMIM:214100
+7	0.73	Schneckenbecken dysplasia	OMIM:269250
+8	0.71	Cystic fibrosis	OMIM:219700
+9	0.7	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+10	0.68	Acroosteolysis dominant type	OMIM:102400

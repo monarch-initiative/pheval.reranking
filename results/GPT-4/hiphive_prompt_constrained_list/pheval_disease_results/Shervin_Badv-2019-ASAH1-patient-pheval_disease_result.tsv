@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Lambert-Eaton Syndrome	OMIM:613411
+2	0.88	Myasthenia gravis	OMIM:601622
+3	0.84	Rhabdomyolysis	OMIM:601653
+4	0.82	Muscular dystrophy	OMIM:603511
+5	0.81	Neuromyotonia	OMIM:608512
+6	0.8	Hyperkalemic Periodic Paralysis	OMIM:600682
+7	0.77	Neonatal myasthenia	OMIM:609200
+8	0.75	Myotonia congenita	OMIM:603950
+9	0.72	Limb-girdle muscular dystrophy	OMIM:253600
+10	0.71	Peripheral Neuropathy	OMIM:618036

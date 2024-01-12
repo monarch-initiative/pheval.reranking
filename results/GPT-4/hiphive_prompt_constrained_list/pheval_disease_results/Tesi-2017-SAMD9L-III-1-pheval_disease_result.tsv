@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Immunodeficiency, common variable, 1	OMIM:607594
+2	0.93	Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	OMIM:608536
+3	0.92	Combined immunodeficiency with granulomas and/or autoimmunity	OMIM:233650
+4	0.9	Agammaglobulinemia, non-Bruton type	OMIM:613495
+5	0.85	Isolated growth hormone deficiency, type III	OMIM:307200
+6	0.83	Selective immunoglobulin deficiency and autoimmunity	OMIM:233650
+7	0.81	Agammaglobulinemia 8, autosomal dominant	OMIM:616941
+8	0.78	ALK-related neuroblastoma susceptibility	OMIM:613014
+9	0.75	Trichohepatoenteric syndrome 2	OMIM:614602
+10	0.73	Wiskott-Aldrich syndrome	OMIM:301000

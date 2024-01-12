@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.867	Cohen Syndrome	OMIM:216550
+2	0.836	Alfa-Thalassemia X-Linked Intellectual Disability Syndrome	OMIM:300673
+3	0.819	Coffin-Siris Syndrome 3	OMIM:614608
+4	0.808	Char Syndrome	OMIM:169100
+5	0.791	Cornelia De Lange Syndrome 1	OMIM:122470
+6	0.779	Rubinstein-Taybi Syndrome 1	OMIM:180849
+7	0.767	Helsmoortel-Van Der Aa Syndrome	OMIM:615873
+8	0.756	Kabuki Syndrome 1	OMIM:147920
+9	0.745	Aicardi-Goutieres Syndrome 1	OMIM:225750
+10	0.733	Rett Syndrome	OMIM:312750

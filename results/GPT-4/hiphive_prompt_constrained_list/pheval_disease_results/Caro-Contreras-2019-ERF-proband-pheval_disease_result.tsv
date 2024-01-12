@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Acute promyelocytic leukemia	OMIM:617517
+2	0.9	Carpenter syndrome 2	OMIM:614976
+3	0.85	Pallister-Hall syndrome	OMIM:146510
+4	0.83	Sotos syndrome 1	OMIM:117550
+5	0.81	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.78	Brachydactyly type A1	OMIM:112500
+7	0.75	Weaver syndrome	OMIM:277590
+8	0.72	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.7	Nicolaides-Baraitser syndrome	OMIM:601358
+10	0.68	Rubinstein-Taybi syndrome 1	OMIM:180849

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.88	Carpenter syndrome 2	OMIM:614976
+2	0.86	Meckel syndrome 1	OMIM:249000
+3	0.85	Jeune asphyxiating thoracic dystrophy	OMIM:208500
+4	0.84	Ellis-van Creveld syndrome	OMIM:225500
+5	0.83	Short rib-polydactyly syndrome, Beemer type	OMIM:269860
+6	0.82	Orofaciodigital syndrome I	OMIM:311200
+7	0.8	Nephronophthisis 1	OMIM:256100
+8	0.79	Pitt-Hopkins syndrome	OMIM:610954
+9	0.76	Coffin-Lowry syndrome	OMIM:303600
+10	0.75	Smith-Lemli-Opitz syndrome	OMIM:270400

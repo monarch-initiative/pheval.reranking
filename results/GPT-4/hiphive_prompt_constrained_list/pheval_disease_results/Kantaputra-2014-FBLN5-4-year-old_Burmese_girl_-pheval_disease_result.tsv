@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Cutis Laxa, Recessive Type 1	OMIM:219100
+2	0.89	Hypertension, Diastolic, Resistance to	OMIM:615581
+3	0.88	Hernia, Inguinal	OMIM:300001
+4	0.86	Ehlers-Danlos Syndrome, Cardiac Valvular Type	OMIM:225320
+5	0.84	Bronchiectasis With Or Without Elevated Sweat Chloride 1	OMIM:211400
+6	0.82	Tricuspid Atresia	OMIM:605026
+7	0.81	Dyskeratosis Congenita, Autosomal Recessive 2	OMIM:613987
+8	0.8	Vesicoureteral Reflux 2	OMIM:610878
+9	0.78	Gerodermia Osteodysplastica	OMIM:231070
+10	0.75	Mitral Valve Prolapse-2	OMIM:610358

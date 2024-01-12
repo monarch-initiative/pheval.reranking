@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Stickler Syndrome, Type 1	OMIM:108300
+2	0.91	Weill-marchesani Syndrome 1	OMIM:277600
+3	0.87	Ectopia Lentis Syndrome, Isolated, Autosomal Recessive	OMIM:225100
+4	0.85	Marfan Syndrome	OMIM:154700
+5	0.83	Loeys-Dietz Syndrome 1	OMIM:609192
+6	0.81	Osteogenesis Imperfecta, Type I	OMIM:166200
+7	0.79	Larsen Syndrome	OMIM:150250
+8	0.76	Stickler Syndrome, Type 2	OMIM:604841
+9	0.74	Osteogenesis Imperfecta, Type Iii	OMIM:259420
+10	0.72	Stickler Syndrome, Type 3	OMIM:184840

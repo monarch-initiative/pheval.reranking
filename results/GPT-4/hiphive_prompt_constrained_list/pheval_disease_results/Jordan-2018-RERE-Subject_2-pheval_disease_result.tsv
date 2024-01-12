@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Noonan syndrome 1	OMIM:163950
+2	0.85	Cardiofaciocutaneous syndrome 1	OMIM:115150
+3	0.82	CHARGE syndrome	OMIM:214800
+4	0.81	Costello syndrome	OMIM:218040
+5	0.78	Emanuel syndrome	OMIM:609029
+6	0.76	Richieri-Costa-Pereira syndrome	OMIM:607324
+7	0.75	Hartsfield syndrome	OMIM:615465
+8	0.73	Turner syndrome	OMIM:163950
+9	0.72	Pitt-Hopkins syndrome	OMIM:610954
+10	0.7	Noonan syndrome 3	OMIM:609942

@@ -1,0 +1,6 @@
+rank	score	disease_name	disease_identifier
+1	0.89	Nielsen Syndrome	OMIM:609284
+2	0.75	Parkinson Disease	OMIM:601553
+3	0.74	Wilson Disease	OMIM:277700
+4	0.72	Huntington Disease	OMIM:143100
+5	0.68	Cerebellar Ataxia	OMIM:115150

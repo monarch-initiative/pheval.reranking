@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Osteogenesis imperfecta type III	OMIM:259420
+2	0.62	Osteogenesis imperfecta type IV	OMIM:166220
+3	0.58	Ehlers-Danlos syndrome, classic type	OMIM:130000
+4	0.52	Osteogenesis imperfecta type II	OMIM:166210
+5	0.48	Osteopetrosis, autosomal recessive 1	OMIM:259700
+6	0.46	Osteogenesis imperfecta type XIII	OMIM:614856
+7	0.44	Cole-Carpenter syndrome 1	OMIM:201000
+8	0.42	Osteogenesis imperfecta type I	OMIM:166200
+9	0.36	Ehlers-Danlos syndrome, hypermobile type	OMIM:130020
+10	0.34	Osteogenesis imperfecta type XI	OMIM:610968

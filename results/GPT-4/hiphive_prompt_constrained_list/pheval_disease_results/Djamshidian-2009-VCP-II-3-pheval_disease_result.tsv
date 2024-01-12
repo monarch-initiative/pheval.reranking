@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Facioscapulohumeral muscular dystrophy 1A	OMIM:158900
+2	0.9	Myofibrillar myopathy 2, recessive	OMIM:608517
+3	0.85	Facioscapulohumeral muscular dystrophy 1B	OMIM:158901
+4	0.8	Friedreich ataxia	OMIM:229300
+5	0.75	Limb-girdle muscular dystrophy 2G	OMIM:601954
+6	0.7	Multiminicore disease	OMIM:255320
+7	0.65	Myofibrillar myopathy 1	OMIM:601419
+8	0.6	Finnish Heritage disease	OMIM:603278
+9	0.55	Desmin-related myopathy with Mallory body-like inclusions	OMIM:605204
+10	0.5	Zebra body myopathy	OMIM:602077

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Carpenter syndrome	OMIM:201000
+2	0.92	Pfeiffer syndrome	OMIM:101600
+3	0.91	Saethre-Chotzen syndrome	OMIM:101400
+4	0.9	Apert syndrome	OMIM:101200
+5	0.87	Crouzon syndrome	OMIM:123500
+6	0.85	Antley-Bixler syndrome	OMIM:207410
+7	0.8	Craniosynostosis	OMIM:123100
+8	0.79	Jackson-Weiss syndrome	OMIM:123150
+9	0.75	Muenke syndrome	OMIM:602849
+10	0.71	Cohen syndrome	OMIM:216550

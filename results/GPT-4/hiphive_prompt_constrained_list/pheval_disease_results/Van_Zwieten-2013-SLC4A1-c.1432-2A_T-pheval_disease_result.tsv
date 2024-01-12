@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Hereditary Spherocytosis	OMIM:182900
+2	0.85	Congenital Hemolytic Anemia	OMIM:613989
+3	0.8	Elliptocytosis 1	OMIM:611804
+3	0.8	Hereditary Elliptocytosis	OMIM:611804
+5	0.75	Pyruvate Kinase Deficiency of Red Cells	OMIM:266200
+6	0.7	Beta-Thalassemia	OMIM:613985
+6	0.7	Spherocytosis Type 2	OMIM:616649
+6	0.7	Anemia, Congenital Dyserythropoietic, Type Iv	OMIM:613673
+9	0.65	Spherocytosis Type 4	OMIM:612653
+9	0.65	Autoimmune Hemolytic Anemia	OMIM:614385

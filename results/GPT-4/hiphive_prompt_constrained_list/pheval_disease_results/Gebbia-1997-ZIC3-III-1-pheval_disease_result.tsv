@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Long QT Syndrome	OMIM:603830
+2	0.92	Barth Syndrome	OMIM:302060
+3	0.9	Carvajal syndrome	OMIM:605676
+4	0.88	Holt-Oram Syndrome	OMIM:142900
+5	0.86	Cohen Syndrome	OMIM:216550
+6	0.84	Alagille Syndrome	OMIM:118450
+7	0.82	Joubert Syndrome	OMIM:213300
+8	0.8	Bardet-Biedl Syndrome	OMIM:209900
+9	0.78	Left Ventricular Noncompaction	OMIM:604169
+10	0.76	Danon Disease	OMIM:300257

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Neurofibromatosis, type 1	OMIM:162200
+2	0.8	Schwartz-Jampel syndrome	OMIM:255800
+3	0.75	Leopard syndrome	OMIM:151100
+4	0.7	Bannayan-Riley-Ruvalcaba syndrome	OMIM:153480
+5	0.65	Legius syndrome	OMIM:611431
+6	0.6	McCune-Albright syndrome	OMIM:174800
+7	0.55	Cowden syndrome	OMIM:158350
+8	0.5	Watson syndrome	OMIM:193520
+9	0.45	Dyschromatosis symmetrica hereditaria	OMIM:127400
+10	0.4	Lentiginosis, centrofacial	OMIM:152100

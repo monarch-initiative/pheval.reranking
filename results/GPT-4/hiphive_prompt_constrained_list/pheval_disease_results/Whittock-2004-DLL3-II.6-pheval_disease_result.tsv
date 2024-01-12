@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Achondrogenesis	OMIM:200600
+2	0.82	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+3	0.8	Pfeiffer syndrome	OMIM:101600
+4	0.79	Morquio Syndrome	OMIM:253000
+5	0.78	Spondyloepimetaphyseal dysplasia	OMIM:271640
+6	0.77	Spondyloepiphyseal dysplasia tarda	OMIM:183900
+7	0.75	Metatropic dysplasia	OMIM:156530
+8	0.73	Campomelic dysplasia	OMIM:114290
+9	0.71	Multiple epiphyseal dysplasia	OMIM:600204
+10	0.7	Kniest dysplasia	OMIM:156550

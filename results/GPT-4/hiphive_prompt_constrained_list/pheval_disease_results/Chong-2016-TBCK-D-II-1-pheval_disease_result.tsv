@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Coffin-Siris syndrome 1	OMIM:135900
+2	0.84	Congenital disorder of glycosylation, type Ii	OMIM:212067
+3	0.82	Congenital disorder of glycosylation, type Ib	OMIM:212065
+4	0.81	Congenital disorder of glycosylation, type Ic	OMIM:212066
+5	0.8	Rett syndrome	OMIM:312750
+6	0.79	Autosomal recessive non-syndromic intellectual disability	OMIM:249500
+7	0.78	Smith-Magenis syndrome	OMIM:182290
+8	0.77	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.75	Pitt-Hopkins syndrome	OMIM:610954
+10	0.72	Mowat-Wilson syndrome	OMIM:235730

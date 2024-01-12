@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Tuberous Sclerosis Complex	OMIM:613254
+2	0.89	Gingival Fibromatosis	OMIM:135100
+3	0.87	Dental Fluorosis	OMIM:272410
+4	0.82	Rhabdomyoma, familial	OMIM:102370
+5	0.78	Pohl's disease	OMIM:225230
+6	0.75	Melanocytic nevus syndrome, congenital	OMIM:137550
+7	0.72	Dyschromatosis Universalis Hereditaria	OMIM:600974
+8	0.7	Jones syndrome	OMIM:135580
+9	0.66	Puregonial germ cell tumor	OMIM:235310
+10	0.62	Cutis Laxa with Growth and Developmental Delays	OMIM:617603

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.987	MELAS syndrome	OMIM:540000
+2	0.98	MELAS	OMIM:604187
+3	0.975	Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes	OMIM:608426
+4	0.968	MERRF syndrome	OMIM:251260
+5	0.965	MERRF/MELAS overlap syndrome	OMIM:545000
+6	0.962	Mitochondrial DNA depletion syndrome 12 (cardiomyopathic type)	OMIM:612075
+7	0.96	Mitochondrial DNA depletion syndrome 11	OMIM:615084
+8	0.953	Combined oxidative phosphorylation deficiency 1	OMIM:609060
+9	0.951	Mitochondrial myopathy, lactic acidosis, and sideroblastic anemia 1	OMIM:615600
+10	0.949	Congenital disorder of glycosylation, type Iv	OMIM:212067

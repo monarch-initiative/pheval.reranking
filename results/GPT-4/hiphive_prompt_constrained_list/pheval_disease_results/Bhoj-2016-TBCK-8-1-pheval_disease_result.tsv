@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Sotos Syndrome	OMIM:117550
+2	0.85	Thanatophoric Dysplasia Type 1	OMIM:187600
+3	0.82	Hypothyroidism, Congenital, Nongoitrous, 1	OMIM:275200
+4	0.78	Potocki-Lupski Syndrome	OMIM:610883
+5	0.75	Mucopolysaccharidosis Type I	OMIM:607014
+6	0.73	Hurler Syndrome	OMIM:607014
+7	0.7	Weaver Syndrome	OMIM:277590
+8	0.67	Pitt-Hopkins Syndrome	OMIM:610954
+9	0.65	Rett Syndrome	OMIM:312750
+10	0.62	Smith-Magenis Syndrome	OMIM:182290

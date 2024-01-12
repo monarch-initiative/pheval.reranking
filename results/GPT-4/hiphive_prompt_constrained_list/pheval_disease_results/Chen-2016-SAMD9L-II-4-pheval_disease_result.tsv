@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spinocerebellar Ataxia, Autosomal Recessive 8	OMIM:610743
+2	0.94	Ataxia-Telangiectasia	OMIM:608688
+3	0.89	Spinocerebellar Ataxia, Autosomal Recessive 1	OMIM:604187
+4	0.88	Cerebellar Ataxia, Cayman Type	OMIM:601238
+5	0.87	Ataxia-Pancytopenia Syndrome	OMIM:159550
+6	0.86	Friedreich Ataxia	OMIM:229300
+7	0.79	Cerebellar Ataxia, Areflexia, Pes Cavus, Optic Atrophy, and Sensorineural Hearing Loss	OMIM:614168
+8	0.76	Ataxia with Vitamin E Deficiency	OMIM:277460
+9	0.74	Hyper IgM Immunodeficiency Syndrome, Type 1	OMIM:308230
+10	0.73	Chorea-Acanthocytosis	OMIM:200150

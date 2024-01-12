@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Hereditary Spastic Paraplegia	OMIM:609284
+2	0.9	Multiple Sclerosis	OMIM:126200
+3	0.88	Familial Hemiplegic Migraine	OMIM:141500
+4	0.87	Amyotrophic Lateral Sclerosis	OMIM:105400
+5	0.85	Stroke	OMIM:601367
+6	0.84	Spinal Muscular Atrophy	OMIM:253300
+7	0.83	Alzheimer Disease	OMIM:104300
+8	0.82	Parkinson Disease	OMIM:168600
+9	0.81	Charcot-Marie-Tooth Disease	OMIM:118220
+10	0.8	ALS-Parkinsonism-Dementia Syndrome	OMIM:105500

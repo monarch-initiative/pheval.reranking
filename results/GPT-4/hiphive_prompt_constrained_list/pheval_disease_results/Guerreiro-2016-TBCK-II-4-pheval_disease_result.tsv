@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Smith-Magenis syndrome	OMIM:182290
+2	0.94	Coffin-Lowry syndrome	OMIM:303600
+3	0.92	Rett syndrome	OMIM:312750
+4	0.9	Angelman syndrome	OMIM:105830
+5	0.85	West syndrome	OMIM:308350
+6	0.8	Sotos syndrome 1	OMIM:117550
+7	0.78	Costello syndrome	OMIM:218040
+8	0.76	Aicardi syndrome	OMIM:304050
+9	0.75	Pitt-Hopkins syndrome	OMIM:610954
+10	0.73	Epidermolysis bullosa simplex with mottled pigmentation	OMIM:131960

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.84	Immunodeficiency 38 with basal ganglia calcification	OMIM:616126
+2	0.79	Pituitary adenoma 5, multiple types	OMIM:102200
+3	0.75	Complement Component 2 Deficiency	OMIM:217000
+4	0.73	Immunodeficiency 20	OMIM:615707
+5	0.72	Complement component 6 deficiency	OMIM:612068
+6	0.7	Gamma-aminobutyric acid transaminase deficiency	OMIM:613163
+7	0.67	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Negative, Due To Adenosine Deaminase Deficiency	OMIM:102700
+8	0.66	Dysgammaglobulinemia	OMIM:310630
+9	0.65	Hereditary folate malabsorption	OMIM:229050
+10	0.63	Autosomal recessive hypohidrotic ectodermal dysplasia	OMIM:224900

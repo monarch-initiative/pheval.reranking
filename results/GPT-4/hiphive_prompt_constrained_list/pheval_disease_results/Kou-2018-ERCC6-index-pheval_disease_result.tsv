@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Tricho-rhino-phalangeal syndrome	OMIM:190350
+2	0.8	Bartsocas-Papas syndrome 1	OMIM:262000
+3	0.7	Cornelia de Lange syndrome 1	OMIM:122470
+4	0.6	Pallister-Hall syndrome	OMIM:146510
+4	0.6	Mulibrey nanism	OMIM:253250
+6	0.5	Rubinstein-Taybi syndrome	OMIM:180849
+6	0.5	Seckel syndrome 1	OMIM:210600
+8	0.4	Microphthalmia with limb anomalies	OMIM:206920
+9	0.3	Smith-Lemli-Opitz syndrome	OMIM:270400
+9	0.3	Langer-Giedion syndrome	OMIM:150230

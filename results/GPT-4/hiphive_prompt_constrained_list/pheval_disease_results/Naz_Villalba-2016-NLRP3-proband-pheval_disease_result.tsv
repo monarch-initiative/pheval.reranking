@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Behçet Syndrome	OMIM:109650
+2	0.92	Sarcoidosis, susceptibility to, 1	OMIM:181000
+3	0.91	Wegener Granulomatosis	OMIM:608710
+4	0.88	Granulomatosis with polyangiitis	OMIM:608710
+5	0.85	Juvenile Temporal Arteritis	OMIM:187360
+6	0.83	Kawasaki Disease	OMIM:611775
+7	0.8	Idiopathic Intracranial Hypertension	OMIM:243310
+8	0.79	Autoimmune Interstitial Lung, Joint, and Kidney Disease	OMIM:616414
+9	0.78	Hypocomplementemic Urticarial Vasculitis	OMIM:140100
+10	0.75	Idiopathic inflammation of the eye	OMIM:161200

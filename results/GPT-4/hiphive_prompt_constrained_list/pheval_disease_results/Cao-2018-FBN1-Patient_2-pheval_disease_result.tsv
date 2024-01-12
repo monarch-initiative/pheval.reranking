@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Marfan Syndrome	OMIM:154700
+2	0.93	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+3	0.91	Loeys-Dietz syndrome 1	OMIM:609192
+4	0.9	Loeys-Dietz syndrome 2	OMIM:610168
+5	0.87	Weill-Marchesani syndrome 1	OMIM:277600
+6	0.86	Stiff skin syndrome	OMIM:184900
+7	0.85	Stickler syndrome 1	OMIM:108300
+8	0.82	Geleophysic dysplasia 1	OMIM:231050
+9	0.81	Ehlers-Danlos syndrome, periodontitis type 1	OMIM:130080
+10	0.8	Loeys-Dietz syndrome 4	OMIM:614816

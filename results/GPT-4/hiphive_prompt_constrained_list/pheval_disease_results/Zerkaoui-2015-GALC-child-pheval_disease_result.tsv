@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Spastic paraplegia 11, autosomal recessive	OMIM:604187
+2	0.88	Dystonia 9	OMIM:601144
+3	0.87	Behr syndrome	OMIM:210000
+4	0.86	Pelizaeus-Merzbacher disease	OMIM:312080
+5	0.85	Early infantile epileptic encephalopathy 1	OMIM:308350
+6	0.84	Spinal muscular atrophy, lower extremity-predominant 1, AD	OMIM:158600
+7	0.83	Neurodegeneration with brain iron accumulation 2A	OMIM:256600
+8	0.81	Multiple system atrophy 1	OMIM:146500
+9	0.8	Friedreich ataxia 1	OMIM:229300
+10	0.78	Paroxysmal kinesigenic dyskinesia	OMIM:128200

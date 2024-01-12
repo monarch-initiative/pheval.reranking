@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Pfeiffer syndrome	OMIM:101600
+2	0.95	Craniofrontonasal dysplasia	OMIM:304110
+3	0.92	Apert syndrome	OMIM:101200
+4	0.89	Saethre-Chotzen syndrome	OMIM:101400
+5	0.87	Miller-Dieker lissencephaly syndrome	OMIM:247200
+6	0.83	Larsen syndrome	OMIM:150250
+7	0.81	Carpenter syndrome	OMIM:201000
+8	0.79	Antley-Bixler syndrome	OMIM:201750
+9	0.77	Beckwith-Wiedemann syndrome	OMIM:130650
+10	0.75	Rapp-Hodgkin syndrome	OMIM:129400

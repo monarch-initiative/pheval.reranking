@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Creatine Deficiency Syndrome	OMIM:613254
+2	0.9	Autism 1, Susceptibility to	OMIM:209850
+3	0.85	Epilepsy, Generalized, with Febrile Seizures Plus, Type 5	OMIM:613060
+4	0.82	Epileptic Encephalopathy, Early Infantile, 29	OMIM:616339
+5	0.8	Intellectual Developmental Disorder with Autism and Speech Delay	OMIM:616472
+6	0.77	Rett Syndrome	OMIM:312750
+7	0.75	Asperger Syndrome, Susceptibility to, 1	OMIM:608638
+8	0.73	Developmental and Epileptic Encephalopathy 1	OMIM:308350
+9	0.7	Constipation, Chronic Idiopathic	OMIM:605130
+10	0.65	Cyclic Vomiting Syndrome	OMIM:500007

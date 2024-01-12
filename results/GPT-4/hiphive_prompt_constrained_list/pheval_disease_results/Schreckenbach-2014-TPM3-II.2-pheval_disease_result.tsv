@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Limb-Girdle Muscular Dystrophy	OMIM:604187
+2	0.88	Myasthenic Syndrome	OMIM:608393
+3	0.86	Becker Muscular Dystrophy	OMIM:300376
+4	0.83	Charcot-Marie-Tooth Disease	OMIM:601097
+5	0.79	Facioscapulohumeral Muscular Dystrophy	OMIM:158900
+5	0.79	Distal Spinal Muscular Atrophy	OMIM:600175
+7	0.78	Oculopharyngeal Muscular Dystrophy	OMIM:164300
+8	0.76	Neuropathy, Hereditary Motor and Sensory, Lom type	OMIM:601455
+9	0.75	Congenital Muscular Dystrophy	OMIM:613205
+10	0.73	Myopathy, Congenital, Compton-North	OMIM:612591

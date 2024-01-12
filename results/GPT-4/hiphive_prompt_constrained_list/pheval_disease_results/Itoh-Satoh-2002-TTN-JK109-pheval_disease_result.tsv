@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Dilated cardiomyopathy 1AA	OMIM:613254
+2	0.8	Dilated cardiomyopathy 1BB	OMIM:613255
+3	0.7	Dilated cardiomyopathy 1CC	OMIM:613256
+4	0.6	Dilated cardiomyopathy 1DD	OMIM:613257
+5	0.5	Dilated cardiomyopathy 1EE	OMIM:613258
+6	0.4	Dilated cardiomyopathy 1FF	OMIM:613259
+7	0.3	Dilated cardiomyopathy 1GG	OMIM:613260
+8	0.2	Dilated cardiomyopathy 1HH	OMIM:613261
+9	0.1	Dilated cardiomyopathy 1II	OMIM:613262
+10	0.05	Dilated cardiomyopathy 1JJ	OMIM:613263

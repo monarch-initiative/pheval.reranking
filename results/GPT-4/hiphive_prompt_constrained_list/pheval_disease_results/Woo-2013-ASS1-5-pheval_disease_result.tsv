@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Citrullinemia I	OMIM:215700
+2	0.94	Argininosuccinic Aciduria	OMIM:207900
+3	0.93	Hyperargininemia	OMIM:207800
+4	0.92	Ornithine Transcarbamylase Deficiency	OMIM:311250
+5	0.91	Carbamoylphosphate Synthetase I Deficiency	OMIM:237300
+6	0.9	Argininosuccinate Synthetase Deficiency	OMIM:601017
+7	0.8	Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome	OMIM:238970
+8	0.78	Hyperprolinemia I	OMIM:239500
+9	0.76	Hyperprolinemia II	OMIM:239510
+10	0.74	N-acetylglutamate Synthase Deficiency	OMIM:237310

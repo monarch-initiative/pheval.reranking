@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Mowat-Wilson Syndrome	OMIM:235730
+2	0.89	Rett Syndrome	OMIM:312750
+3	0.83	Coffin-Siris Syndrome 1	OMIM:135900
+4	0.81	Coffin-Lowry Syndrome	OMIM:303600
+5	0.8	Cornelia de Lange Syndrome 1	OMIM:122470
+6	0.79	Smith-Magenis Syndrome	OMIM:182290
+7	0.77	Miller-Dieker Lissencephaly Syndrome	OMIM:247200
+8	0.76	Carpenter syndrome	OMIM:201000
+8	0.76	Floating-Harbor Syndrome	OMIM:136140
+10	0.75	Rubinstein-Taybi Syndrome 1	OMIM:180849

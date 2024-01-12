@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Friedreich ataxia	OMIM:229300
+2	0.95	Charcot-Marie-Tooth disease, type 1A	OMIM:118220
+3	0.91	Spinocerebellar ataxia, autosomal recessive 1	OMIM:271319
+4	0.88	Dentatorubral-pallidoluysian atrophy	OMIM:125370
+5	0.85	Cerebellar ataxia, Cayman type	OMIM:601238
+6	0.82	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+7	0.81	Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins	OMIM:616644
+8	0.78	Gioubert syndrome 1	OMIM:213300
+9	0.76	Autosomal recessive spastic paraplegia type 7	OMIM:607259
+10	0.75	Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation	OMIM:611105

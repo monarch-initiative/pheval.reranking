@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Usher syndrome type III	OMIM:276902
+2	0.92	DFNB1 nonsyndromic hearing loss and deafness	OMIM:220290
+3	0.91	Usher syndrome type I	OMIM:276900
+4	0.89	Pendred syndrome	OMIM:274600
+5	0.88	Usher syndrome type II	OMIM:276901
+6	0.86	Stickler syndrome type I	OMIM:108300
+7	0.84	Waardenburg syndrome type I	OMIM:193500
+8	0.82	Brachiootorenal spectrum disorders	OMIM:113650
+9	0.81	Tietz syndrome	OMIM:103500
+10	0.8	Alport syndrome	OMIM:301050

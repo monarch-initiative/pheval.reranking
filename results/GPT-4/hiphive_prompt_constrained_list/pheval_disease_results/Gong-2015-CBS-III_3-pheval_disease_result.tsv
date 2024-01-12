@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Marfan Syndrome	OMIM:154700
+2	0.91	Ehlers-Danlos Syndrome, Classic Type	OMIM:130000
+3	0.89	Homocystinuria	OMIM:236200
+4	0.86	Neurofibromatosis, Type 2	OMIM:101000
+5	0.85	Alzheimer Disease	OMIM:605283
+6	0.82	Friedreich Ataxia	OMIM:229300
+7	0.8	Muscular Dystrophy-Dystroglycanopathy	OMIM:613156
+8	0.78	Myotonic Dystrophy	OMIM:160900
+9	0.74	Spinocerebellar Ataxia 3	OMIM:109150
+10	0.71	Spinocerebellar Ataxia 1	OMIM:164400

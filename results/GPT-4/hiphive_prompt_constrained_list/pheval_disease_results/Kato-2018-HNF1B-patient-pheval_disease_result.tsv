@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	MODY, type X	OMIM:613254
+2	0.8	Polycystic kidney disease, autosomal dominant	OMIM:600974
+3	0.75	Polycystic kidney disease, infantile, severe, with tuberous sclerosis	OMIM:616868
+4	0.7	Polycystic kidney disease, autosomal recessive	OMIM:613091
+5	0.67	Polycystic liver disease	OMIM:174050
+6	0.65	MODY, type I	OMIM:125850
+7	0.62	Diabetes mellitus, permanent neonatal, with pancreatic hypoplasia	OMIM:606176
+8	0.6	MODY, type III	OMIM:600496
+9	0.55	Glycogen storage disease XI	OMIM:612933
+10	0.5	Neonatal diabetes mellitus, transient	OMIM:601410

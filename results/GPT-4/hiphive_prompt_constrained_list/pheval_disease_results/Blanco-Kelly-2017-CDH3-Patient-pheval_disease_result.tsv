@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Rapp-Hodgkin syndrome	OMIM:129400
+2	0.91	Ectrodactyly-ectodermal dysplasia-clefting syndrome	OMIM:129900
+3	0.86	Ankyloblepharon-ectodermal dysplasia-cleft lip/palate syndrome	OMIM:106260
+4	0.83	Hypohidrotic ectodermal dysplasia	OMIM:224900
+5	0.81	Epidermolysis bullosa simplex	OMIM:131760
+6	0.78	Junctional epidermolysis bullosa	OMIM:226700
+7	0.76	EEM syndrome	OMIM:260660
+8	0.74	Coffin-Siris syndrome	OMIM:618362
+9	0.71	Hoffman syndrome	OMIM:207685
+10	0.69	Ectrodactyly	OMIM:119300

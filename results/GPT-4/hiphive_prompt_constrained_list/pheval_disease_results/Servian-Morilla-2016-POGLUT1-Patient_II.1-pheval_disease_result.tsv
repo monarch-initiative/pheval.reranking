@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Bethlem myopathy	OMIM:158810
+2	0.9	Facioscapulohumeral muscular dystrophy	OMIM:158900
+3	0.86	Marshall syndrome	OMIM:154780
+4	0.85	Spinal muscular atrophy	OMIM:253400
+5	0.83	Duchenne muscular dystrophy	OMIM:310200
+6	0.82	Pompe disease	OMIM:232300
+7	0.81	Ehlers-Danlos syndrome	OMIM:130050
+8	0.8	Limb-girdle muscular dystrophy	OMIM:253600
+9	0.79	Carpenter syndrome	OMIM:201000
+10	0.77	Achondroplasia	OMIM:100800

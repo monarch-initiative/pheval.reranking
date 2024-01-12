@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	GM1 gangliosidosis type II	OMIM:230600
+2	0.83	GM1 gangliosidosis type I	OMIM:230500
+3	0.82	GM1 gangliosidosis type III	OMIM:230650
+4	0.76	Alpha-mannosidosis	OMIM:248500
+5	0.72	Mucolipidosis type III alpha/beta 	OMIM:252600
+6	0.7	Aspartylglucosaminuria	OMIM:208400
+7	0.68	Mucolipidosis type II alpha/beta	OMIM:252500
+8	0.66	Sandhoff disease	OMIM:268800
+9	0.64	Infantile onset sialuria	OMIM:269920
+10	0.62	Tay-Sachs disease	OMIM:272800

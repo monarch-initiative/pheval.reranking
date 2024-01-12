@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Coffin-Siris syndrome 4	OMIM:614223
+2	0.88	Boomerang dysplasia	OMIM:112310
+3	0.86	Coffin-Siris syndrome 3	OMIM:614608
+4	0.83	Caudal regression syndrome	OMIM:600145
+5	0.79	Coffin-Siris syndrome 1	OMIM:135900
+6	0.72	Coffin-Siris syndrome 5	OMIM:616938
+7	0.68	Acrocephalopolysyndactyly Type III	OMIM:101900
+8	0.67	Coffin-Siris syndrome 2	OMIM:614607
+9	0.65	Rubinstein-Taybi syndrome 1	OMIM:180849
+10	0.63	Brachydactyly-syndactyly syndrome	OMIM:610713

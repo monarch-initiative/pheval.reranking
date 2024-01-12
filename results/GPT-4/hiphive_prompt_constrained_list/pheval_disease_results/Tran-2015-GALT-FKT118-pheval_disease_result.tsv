@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Dubin-Johnson syndrome	OMIM:237500
+2	0.94	Galactosemia	OMIM:230400
+3	0.92	Phenylketonuria	OMIM:261600
+4	0.9	Progressive familial intrahepatic cholestasis	OMIM:211600
+5	0.89	Benign familial neonatal seizures	OMIM:121200
+6	0.87	Neonatal adrenoleukodystrophy	OMIM:264470
+7	0.86	Congenital disorder of glycosylation, type Ia	OMIM:212065
+8	0.85	Glycogen storage disease type IV	OMIM:232500
+9	0.84	Nonketotic hyperglycinemia	OMIM:605899
+10	0.83	3-Hydroxy-3-methylglutaryl-CoA lyase deficiency	OMIM:246450

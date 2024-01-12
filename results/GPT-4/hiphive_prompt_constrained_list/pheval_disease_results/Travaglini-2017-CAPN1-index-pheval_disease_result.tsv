@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spastic paraplegia 4	OMIM:182601
+2	0.92	Spastic paraplegia 3A	OMIM:182600
+3	0.85	Spastic paraplegia 49	OMIM:612936
+4	0.83	Spastic paraplegia 7	OMIM:607259
+5	0.79	Spastic paraplegia 8	OMIM:603563
+6	0.74	Spastic paraplegia 11	OMIM:604187
+7	0.72	Spastic paraplegia 2	OMIM:312920
+8	0.65	Spastic paraplegia 31	OMIM:610250
+9	0.61	Spastic paraplegia 33	OMIM:610244
+10	0.58	Spastic paraplegia 21	OMIM:248900

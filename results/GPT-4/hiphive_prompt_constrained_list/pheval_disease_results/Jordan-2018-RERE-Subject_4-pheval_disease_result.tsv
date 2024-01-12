@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Beta-propeller protein-associated neurodegeneration	OMIM:614254
+2	0.85	EIEE13	OMIM:613454
+3	0.83	Mental retardation, autosomal dominant 32	OMIM:617560
+4	0.81	Intellectual developmental disorder, autosomal dominant 22	OMIM:618275
+5	0.79	Refsum disease	OMIM:266500
+6	0.77	West syndrome	OMIM:308350
+7	0.74	Congenital disorder of deglycosylation	OMIM:615273
+8	0.72	Neurodevelopmental disorder with or without early-onset generalized epilepsy	OMIM:617771
+9	0.7	Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder	OMIM:617663
+10	0.67	Pitt-Hopkins syndrome	OMIM:610954

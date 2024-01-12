@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Bethlem myopathy 1	OMIM:158810
+2	0.9	Emery-Dreifuss muscular dystrophy 4, autosomal dominant	OMIM:612998
+3	0.89	Charcot-Marie-Tooth disease dominant intermediate F	OMIM:615185
+4	0.87	Charcot-Marie-Tooth disease, type 4J	OMIM:611228
+5	0.85	D-lactic acidemia with abnormal behavior, cognitive impairment, short stature, and long-chain hydroxyacyl-CoA dehydrogenase deficiency	OMIM:616969
+6	0.82	Spastisity, Childhood-onset, with hyperglycinemia	OMIM:616657
+7	0.8	Nance-Horan syndrome	OMIM:302350
+8	0.77	Minicore myopathy, antenatal onset, with arthrogryposis	OMIM:605280
+9	0.75	Aircraft refueling syndrome	OMIM:100660
+10	0.72	Acute limbfacial and trunk muscle weakness	OMIM:611466

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Cockayne Syndrome Type I	OMIM:216400
+2	0.95	Hallermann-Streiff Syndrome	OMIM:234100
+3	0.93	Nance-Horan Syndrome	OMIM:302350
+4	0.91	Dubowitz Syndrome	OMIM:223370
+5	0.88	Pitt-Hopkins Syndrome	OMIM:610954
+6	0.86	Cronkhite-Canada Syndrome	OMIM:175500
+7	0.83	Biedl-Bardet Syndrome	OMIM:209900
+8	0.81	Trismus-Pseudocamptodactyly Syndrome	OMIM:158300
+9	0.79	Cerebro-Oculo-Facio-Skeletal Syndrome	OMIM:214150
+10	0.77	Smith-Magenis Syndrome	OMIM:182290

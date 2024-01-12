@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Pseudohypoparathyroidism type 1A	OMIM:103580
+2	0.91	Blomstrand lethal chondrodysplasia	OMIM:215045
+3	0.89	Hypochondroplasia	OMIM:146000
+4	0.88	Tricho-rhino-phalangeal syndrome type I	OMIM:190350
+5	0.86	Pituitary resistance to TSH	OMIM:274300
+6	0.85	Pseudopseudohypoparathyroidism	OMIM:612463
+7	0.84	Tricho-rhino-phalangeal syndrome type II	OMIM:150230
+8	0.823	Tricho-rhino-phalangeal syndrome type III	OMIM:190440
+9	0.81	Brachydactyly type E	OMIM:113300
+9	0.81	Osteoglophonic dysplasia	OMIM:166250

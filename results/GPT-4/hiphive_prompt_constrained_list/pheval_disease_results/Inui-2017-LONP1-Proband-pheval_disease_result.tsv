@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Pantothenate Kinase-Associated Neurodegeneration	OMIM:234200
+2	0.9	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+3	0.85	Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-Like Episodes	OMIM:540000
+4	0.8	Aicardi-Goutieres Syndrome	OMIM:225750
+5	0.78	Beta-Ureidopropionase Deficiency	OMIM:613161
+6	0.75	Glycogen Storage Disease Type 5	OMIM:232600
+7	0.72	Spinal Muscular Atrophy	OMIM:253300
+8	0.7	Lissencephaly	OMIM:607432
+9	0.65	Galactosemia	OMIM:230400
+10	0.6	Wilson Disease	OMIM:277900

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Oculocutaneous albinism	OMIM:203200
+2	0.93	Hermansky-Pudlak syndrome	OMIM:203300
+3	0.9	Chediak-Higashi syndrome	OMIM:214500
+4	0.89	Waardenburg syndrome	OMIM:193500
+5	0.87	Griscelli Syndrome	OMIM:607624
+6	0.85	Congenital nystagmus	OMIM:310700
+7	0.82	Piebaldism	OMIM:172800
+8	0.8	Albinism, ocular	OMIM:300500
+9	0.79	Albinism-deafness syndrome	OMIM:203650
+10	0.77	Hypomelanosis of Ito	OMIM:300337

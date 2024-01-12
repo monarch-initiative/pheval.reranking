@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.94	Cutis Laxa, Autosomal Recessive, Type IIA	OMIM:219200
+2	0.91	Marfan Syndrome	OMIM:154700
+3	0.89	Beals syndrome	OMIM:301835
+4	0.88	Ehlers-Danlos Syndrome, Vascular Type	OMIM:130050
+5	0.86	Pneumothorax, Primary Spontaneous	OMIM:173600
+6	0.85	Arterial Tortuosity Syndrome	OMIM:208050
+7	0.83	Roberts Syndrome	OMIM:268300
+8	0.82	Ehlers-Danlos Syndrome, Classical Type	OMIM:130000
+9	0.8	Larsen Syndrome, Autosomal Dominant	OMIM:150250
+10	0.78	Ehlers-Danlos Syndrome, Kyphoscoliotic And Deafness Type	OMIM:225400

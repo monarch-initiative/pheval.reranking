@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.86	Alagille syndrome	OMIM:118450
+2	0.82	Hyperlipoproteinemia type III	OMIM:617560
+3	0.8	Progressive familial intrahepatic cholestasis type 1	OMIM:211600
+4	0.77	Neonatal intrahepatic cholestasis caused by citrin deficiency	OMIM:605814
+5	0.76	Tyrosinemia type 1	OMIM:276700
+6	0.75	Infantile Refsum disease	OMIM:266510
+7	0.73	Niemann-Pick disease type C1	OMIM:257220
+8	0.71	Wilson disease	OMIM:277900
+9	0.67	Arthrogryposis-renal dysfunction-cholestasis syndrome	OMIM:208085
+10	0.66	Gaucher disease type I	OMIM:230800

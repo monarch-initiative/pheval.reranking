@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Usher Syndrome Type 3A	OMIM:276903
+2	0.85	Usher Syndrome Type 1D	OMIM:601067
+3	0.8	Usher Syndrome Type 1B	OMIM:276900
+4	0.75	Usher Syndrome Type 2A	OMIM:276901
+5	0.7	Usher Syndrome Type 2C	OMIM:605472
+6	0.65	Usher Syndrome Type 1F	OMIM:602083
+7	0.6	Usher Syndrome Type 1C	OMIM:276904
+8	0.55	Usher Syndrome Type 1G	OMIM:606943
+9	0.5	Usher Syndrome Type 1E	OMIM:602097
+10	0.45	Usher Syndrome Type 1H	OMIM:612632

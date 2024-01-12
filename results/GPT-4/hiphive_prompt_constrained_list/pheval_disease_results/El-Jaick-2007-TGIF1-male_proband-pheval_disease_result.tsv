@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Schinzel-Giedion syndrome	OMIM:269150
+2	0.87	Meckel syndrome, type 11	OMIM:615688
+3	0.86	Holoprosencephaly, recurrent infections, and monocytosis	OMIM:614284
+4	0.84	Hypoparathyroidism-retardation-dysmorphism syndrome	OMIM:241410
+5	0.82	Cleft palate, psychomotor retardation, and distinctive facial features	OMIM:615713
+6	0.81	Wolf-Hirschhorn syndrome	OMIM:194190
+7	0.8	Coffin-Siris syndrome 5	OMIM:616938
+8	0.78	Pallister-Hall syndrome	OMIM:146510
+9	0.76	Frontonasal dysplasia 1	OMIM:136760
+10	0.75	Smith-Magenis syndrome	OMIM:182290

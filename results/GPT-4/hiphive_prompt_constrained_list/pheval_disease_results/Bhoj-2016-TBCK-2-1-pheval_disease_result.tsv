@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pontocerebellar hypoplasia type 2A	OMIM:277470
+2	0.9	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 1	OMIM:603387
+3	0.88	Baraitser-Winter syndrome 1	OMIM:243310
+4	0.87	Muscular dystrophy-dystroglycanopathy	OMIM:613150
+5	0.86	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+6	0.85	Phosphoserine phosphatase deficiency	OMIM:614023
+7	0.84	Epileptic encephalopathy, early infantile	OMIM:308350
+8	0.83	Lennox-Gastaut syndrome	OMIM:606369
+9	0.82	Congenital disorder of deglycosylation	OMIM:615273
+10	0.81	Myoclonic epilepsy, infantile	OMIM:309200

@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pontocerebellar Hypoplasia Type 2A	OMIM:277470
+2	0.93	Pontocerebellar Hypoplasia Type 2E	OMIM:225753
+3	0.91	Pontocerebellar Hypoplasia Type 2B	OMIM:612389
+4	0.9	Pontocerebellar Hypoplasia Type 2C	OMIM:610204
+5	0.85	Novak Syndrome	OMIM:618700
+6	0.83	Smith-Lemli-Opitz Syndrome	OMIM:601858
+7	0.82	Microcephaly with or without Chorioretinopathy, Lymphedema, or Mental Retardation	OMIM:615576
+8	0.8	Aymes Syndrome	OMIM:616505
+9	0.79	Neuropathy, Hereditary, with Liability to Pressure Palsies	OMIM:162500
+10	0.77	Syndromic Multisystem Autoimmune Disease Due to Itch Deficiency	OMIM:615934
+11	0.76	Pontocerebellar Hypoplasia Type 2D	OMIM:613811

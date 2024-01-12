@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.93	Glaucoma 3, primary open angle, congenital, juvenile, or adult onset	OMIM:613254
+2	0.88	Anterior segment dysgenesis 6	OMIM:617516
+3	0.86	Congenital glaucoma	OMIM:613085
+4	0.84	Angelman syndrome	OMIM:105830
+5	0.82	Retinitis pigmentosa 55	OMIM:613575
+6	0.79	Peters anomaly	OMIM:604229
+7	0.77	Axenfeld-Rieger syndrome type 1	OMIM:180500
+8	0.75	Norrie disease	OMIM:310600
+9	0.72	Axenfeld-Rieger syndrome	OMIM:602482
+10	0.7	Aniridia	OMIM:106210

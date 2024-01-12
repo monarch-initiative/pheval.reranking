@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Glycogen storage disease II	OMIM:232300
+2	0.95	Mitochondrial complex I deficiency	OMIM:252010
+3	0.93	Carnitine palmitoyltransferase II deficiency	OMIM:600650
+4	0.91	Congenital disorders of glycosylation	OMIM:212065
+5	0.89	Mitochondrial trifunctional protein deficiency	OMIM:609015
+6	0.88	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	OMIM:614369
+7	0.86	Mitochondrial DNA depletion syndrome 1	OMIM:603041
+8	0.85	Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	OMIM:613076
+9	0.83	Deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase	OMIM:606032
+10	0.81	Mitochondrial complex I deficiency, nuclear type 1	OMIM:252010

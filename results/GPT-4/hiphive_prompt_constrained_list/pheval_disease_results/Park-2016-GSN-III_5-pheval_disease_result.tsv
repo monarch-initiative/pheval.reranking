@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Lambert-Eaton Syndrome	OMIM:600974
+2	0.92	Cutis Laxa	OMIM:616516
+3	0.89	Familial Dysautonomia	OMIM:601144
+4	0.86	Distal Hereditary Motor Neuropathy Type V	OMIM:600794
+5	0.84	Guillain-Barre Syndrome	OMIM:605282
+6	0.8	Neuropathy, Hereditary Sensory, Type IE	OMIM:614833
+7	0.78	Amyotrophic Lateral Sclerosis Type 17	OMIM:615067
+8	0.75	Familial Hypertrophic Cardiomyopathy Type 7	OMIM:613254
+9	0.71	Syndrome of Inappropriate Antidiuretic Hormone	OMIM:601979
+10	0.68	Familial Hypercholesterolemia Type B	OMIM:144200

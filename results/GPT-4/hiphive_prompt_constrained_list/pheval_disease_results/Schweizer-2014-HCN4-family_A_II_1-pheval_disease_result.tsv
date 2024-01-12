@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Left ventricular noncompaction	OMIM:613254
+2	0.85	Ventricular fibrillation, paroxysmal familial, 1	OMIM:604187
+3	0.82	Sinus node disease and myopia (SNDM)	OMIM:616516
+4	0.8	Long QT syndrome 1	OMIM:192500
+5	0.75	Familial atrial fibrillation	OMIM:608788
+6	0.73	Sudden infant death syndrome	OMIM:272120
+7	0.7	Wolff-Parkinson-White syndrome	OMIM:194200
+8	0.65	Congenital heart disease, noncompaction of the ventricular myocardium, and cataract (CHDC)	OMIM:608980
+9	0.6	Hypertrophic cardiomyopathy	OMIM:192600
+10	0.55	Sick sinus syndrome 2, autosomal dominant	OMIM:163800

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Smith-Magenis syndrome	OMIM:182290
+2	0.95	Freeman-Sheldon syndrome	OMIM:193700
+3	0.94	Rett syndrome	OMIM:312750
+4	0.93	Coffin-Lowry syndrome	OMIM:303600
+5	0.92	Coffin-Siris syndrome 1	OMIM:135900
+6	0.91	Williams syndrome	OMIM:194050
+7	0.9	Rubinstein-Taybi syndrome 1	OMIM:180849
+8	0.88	Cornelia de Lange syndrome 1	OMIM:122470
+9	0.86	XX maleness	OMIM:400045
+10	0.85	Ectodermal dysplasia 1	OMIM:129490

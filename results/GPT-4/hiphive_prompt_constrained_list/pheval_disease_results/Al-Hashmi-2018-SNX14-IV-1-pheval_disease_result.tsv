@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Sanfilippo syndrome	OMIM:605282
+2	0.9	Acrocallosal syndrome, Schinzel type	OMIM:300867
+3	0.88	Charcot-Marie-Tooth disease, type 2K	OMIM:601883
+4	0.85	Thiamine metabolism dysfunction syndrome	OMIM:606152
+5	0.82	Marfan syndrome	OMIM:154700
+6	0.8	Neurofibromatosis, type 1	OMIM:162200
+7	0.75	Deafness, autosomal dominant 23	OMIM:605192
+8	0.7	Spastic paraplegia 11, autosomal recessive	OMIM:604187
+9	0.68	Cleft lip/palate with abnormal lip	OMIM:225020
+10	0.65	Primary ciliary dyskinesia	OMIM:244400

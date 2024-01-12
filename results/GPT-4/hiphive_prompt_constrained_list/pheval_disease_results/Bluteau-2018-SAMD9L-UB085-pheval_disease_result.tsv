@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Dyskeratosis Congenita, Autosomal Dominant 3	OMIM:613990
+2	0.94	Pseudohypoaldosteronism, Type I, Autosomal Recessive	OMIM:264350
+3	0.92	Common Variable Immunodeficiency 7	OMIM:614699
+4	0.91	Susceptibility To Invasive Pneumococcal Disease, Recurrent Isolated, 1	OMIM:610799
+5	0.89	Coffin-Siris Syndrome 3	OMIM:614608
+6	0.88	Coxa Valga, With Fragile Bones And Joints, Pancytopenia, And Decreased Testosterone	OMIM:602342
+7	0.86	Mitchell-Riley Syndrome	OMIM:615710
+8	0.83	Autosomal Recessive Charcot-Marie-Tooth Disease With Hoarseness	OMIM:608685
+9	0.81	Immunodeficiency With Hyper Transition And Ring Chromosomes	OMIM:239800
+10	0.79	Radioulnar Synostosis With Amegakaryocytic Thrombocytopenia	OMIM:605432

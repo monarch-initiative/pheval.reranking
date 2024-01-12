@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Pantothenate kinase-associated neurodegeneration	OMIM:234200
+2	0.88	ACERULOPlasminemia	OMIM:604187
+3	0.85	Hyperferritinemia with congenital cataracts	OMIM:615516
+4	0.83	Beta-propeller protein-associated neurodegeneration	OMIM:300894
+5	0.82	Wilson disease	OMIM:277460
+6	0.81	Neuroferritinopathy	OMIM:606159
+7	0.79	Ataxia-oculomotor apraxia 2	OMIM:606002
+8	0.77	Neurodegeneration with brain iron accumulation 6	OMIM:615643
+9	0.76	Pantothenate kinase-associated neurodegeneration 3	OMIM:615731
+10	0.75	Neurodegeneration with brain iron accumulation 2a	OMIM:606159

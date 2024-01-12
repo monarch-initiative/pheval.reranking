@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.75	Geleophysic dysplasia 2	OMIM:614185
+2	0.73	Spondyloepimetaphyseal dysplasia, Pakistani type	OMIM:608393
+3	0.71	Spondyloepimetaphyseal dysplasia, Missouri type	OMIM:602111
+4	0.7	Pectus excavatum	OMIM:212050
+5	0.69	Spondyloepimetaphyseal dysplasia, short limb-hand type	OMIM:271665
+6	0.67	Spondyloepimetaphyseal dysplasia with bowed forearms and ankles	OMIM:614135
+7	0.66	Spondyloepimetaphyseal dysplasia, Faden-Alkuraya type	OMIM:616723
+8	0.65	Spondyloperipheral dysplasia	OMIM:271700
+9	0.63	Spondyloepimetaphyseal dysplasia with joint laxity, type 1, with or without fractures	OMIM:271640
+10	0.62	Ischiospinal dysostosis	OMIM:147891

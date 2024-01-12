@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.85	Congenital disorder of glycosylation, type Ia	OMIM:212065
+2	0.83	Wilson disease	OMIM:277900
+3	0.82	Dyskeratosis congenita, autosomal recessive, 1	OMIM:224230
+4	0.8	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 1	OMIM:236670
+5	0.78	Hemochromatosis, type 2A	OMIM:602390
+6	0.76	Berardinelli-Seip congenital lipodystrophy, type 2	OMIM:269700
+7	0.75	Acyl-CoA dehydrogenase, very long chain, deficiency of	OMIM:201475
+8	0.74	Congenital disorder of glycosylation, type Ib	OMIM:602579
+9	0.73	X-linked chondrodysplasia punctata 1	OMIM:302950
+10	0.71	Muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1	OMIM:609308

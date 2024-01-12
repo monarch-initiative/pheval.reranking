@@ -1,0 +1,12 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Smith-Lemli-Opitz syndrome	OMIM:270400
+2	0.85	Kallmann syndrome 1	OMIM:308700
+3	0.8	Partial androgen insensitivity syndrome	OMIM:312300
+4	0.75	Complete androgen insensitivity syndrome	OMIM:300068
+5	0.7	Leydig cell hypoplasia	OMIM:238320
+6	0.65	Frasier syndrome	OMIM:136680
+7	0.6	Aarskog-Scott syndrome	OMIM:305400
+8	0.55	Digeorge syndrome, velocardiofacial syndrome	OMIM:188400
+9	0.5	Theiler syndrome	OMIM:275100
+10	0.45	Pseudohermaphroditism, male type	OMIM:264600
+11	0.4	Denys-Drash syndrome	OMIM:194080

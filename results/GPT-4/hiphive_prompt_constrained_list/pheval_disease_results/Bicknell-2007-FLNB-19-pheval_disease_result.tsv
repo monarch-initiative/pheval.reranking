@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Spondyloepimetaphyseal dysplasia, Strudwick type	OMIM:184250
+2	0.93	Marshall syndrome	OMIM:154780
+3	0.9	Spondyloepiphyseal dysplasia congenita	OMIM:183900
+4	0.85	Multiple epiphyseal dysplasia	OMIM:132400
+5	0.84	Pseudoachondroplasia	OMIM:177170
+6	0.83	Kniest dysplasia	OMIM:156550
+7	0.82	Campomelic dysplasia	OMIM:114290
+8	0.8	Stickler syndrome, type I	OMIM:108300
+9	0.78	Chondrodysplasia punctata, brachytelephalangic	OMIM:301850
+10	0.77	Metaphyseal dysplasia, Jansen type	OMIM:156400

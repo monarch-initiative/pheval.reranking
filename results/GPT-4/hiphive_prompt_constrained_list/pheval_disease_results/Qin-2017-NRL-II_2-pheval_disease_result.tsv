@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Retinitis Pigmentosa, Autosomal Recessive	OMIM:613730
+2	0.87	Night Blindness, Congenital Stationary	OMIM:312161
+3	0.85	Congenital Stationary Night Blindness, type 2A	OMIM:600165
+4	0.83	Retinitis Pigmentosa 59	OMIM:613861
+5	0.8	Retinitis Pigmentosa 3	OMIM:300029
+6	0.78	Chorioretinal Dystrophy, Spinocerebellar Ataxia Type 7	OMIM:164500
+7	0.76	Cone Dystrophy 4	OMIM:613660
+8	0.74	Leber Congenital Amaurosis 6	OMIM:613826
+9	0.7	Cone-Rod Dystrophy 9	OMIM:608194
+10	0.66	Retinitis Pigmentosa 17	OMIM:600852

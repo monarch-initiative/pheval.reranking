@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Kabuki syndrome	OMIM:147920
+2	0.88	Schimke immunoosseous dysplasia	OMIM:242900
+3	0.87	Down syndrome	OMIM:190685
+4	0.86	Severe combined immunodeficiency disease	OMIM:102700
+5	0.85	Ehlers-Danlos syndrome	OMIM:130050
+6	0.84	Coffin-Lowry syndrome	OMIM:303600
+7	0.83	Cornelia de Lange syndrome	OMIM:122470
+8	0.82	Noonan syndrome	OMIM:163950
+9	0.81	Williams syndrome	OMIM:194050
+10	0.8	Rett syndrome	OMIM:312750

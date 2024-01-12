@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.9	Pitt-Hopkins syndrom	OMIM:610954
+1	0.9	Coffin-Siris syndrome	OMIM:135900
+3	0.88	Cornelia de Lange syndrome	OMIM:122470
+4	0.87	Rett syndrome	OMIM:312750
+5	0.86	Angelman syndrome	OMIM:105830
+6	0.83	MECP2 duplication syndrome	OMIM:300260
+7	0.82	X-linked intellectual disability, Cabezas type	OMIM:300354
+8	0.79	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.76	CDKL5 deficiency disorder	OMIM:300672
+10	0.75	Kleefstra Syndrome	OMIM:610253

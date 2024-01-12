@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Alagille syndrome 1	OMIM:118450
+2	0.92	Cranioectodermal dysplasia 1	OMIM:218330
+3	0.9	Albright hereditary osteodystrophy	OMIM:103580
+4	0.88	Deafness, autosomal recessive 1A	OMIM:220290
+5	0.84	Hypohidrotic ectodermal dysplasia	OMIM:305100
+6	0.82	Pitt-Hopkins syndrome	OMIM:610954
+7	0.81	Juberg-Marsidi syndrome	OMIM:309590
+8	0.79	Hajdu-Cheney syndrome	OMIM:102500
+9	0.78	Tall stature-intellectual disability-facial dysmorphism syndrome	OMIM:212666
+10	0.75	Cutis laxa, autosomal recessive, type IIB	OMIM:612940

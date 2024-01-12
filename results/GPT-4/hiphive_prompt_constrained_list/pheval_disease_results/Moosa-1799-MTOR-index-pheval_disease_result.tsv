@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.82	Gardner syndrome	OMIM:175100
+2	0.79	Coffin-Lowry syndrome	OMIM:303600
+3	0.76	Rubinstein-Taybi syndrome	OMIM:180849
+4	0.72	Autosomal recessive polycystic kidney disease	OMIM:263200
+5	0.71	Familial Adenomatous Polyposis 1	OMIM:175100
+6	0.68	Sotos syndrome 1	OMIM:117550
+7	0.67	Tuberous sclerosis 2	OMIM:613254
+8	0.65	Canavan disease	OMIM:271900
+9	0.63	Smith-Magenis syndrome	OMIM:182290
+10	0.61	Neurofibromatosis-Noonan syndrome	OMIM:601321

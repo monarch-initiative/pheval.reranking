@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Pelizaeus-Merzbacher disease	OMIM:312080
+2	0.93	Spastic paraplegia 49, autosomal recessive	OMIM:613194
+3	0.92	Hypomyelination, global cerebral	OMIM:612949
+4	0.91	Leukodystrophy, hypomyelinating, 7	OMIM:607694
+5	0.9	Hypomyelination and congenital cataract	OMIM:610532
+6	0.85	Neurodegenerative syndrome, infantile-onset, due to MON1B mutation	OMIM:618204
+7	0.82	Pontocerebellar hypoplasia type 1A	OMIM:607596
+8	0.8	Pelizaeus-Merzbacher-like disease due to AIMP1 mutation	OMIM:300896
+9	0.79	Muscular dystrophy-dystroglycanopathy	OMIM:613154
+10	0.75	Spastic paraplegia 2, X-linked	OMIM:312920

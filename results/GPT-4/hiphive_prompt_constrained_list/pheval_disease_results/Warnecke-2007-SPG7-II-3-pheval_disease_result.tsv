@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Spinocerebellar ataxia type 3	OMIM:109150
+2	0.9	François-Neetens mouchetée corneal dystrophy	OMIM:121050
+3	0.87	Autosomal dominant cerebellar ataxia	OMIM:113620
+4	0.85	Friedreich's ataxia	OMIM:229300
+5	0.78	Early-onset Parkinson disease	OMIM:168600
+6	0.76	Graves disease, susceptibility to, 3	OMIM:608374
+7	0.75	Autosomal dominant progressive external ophthalmoplegia	OMIM:157640
+8	0.72	Amyotrophic lateral sclerosis type 1	OMIM:105400
+9	0.7	EA2 with or without immunodeficiency	OMIM:613881
+10	0.68	EA1 with or without rippling muscle disease 2	OMIM:606554

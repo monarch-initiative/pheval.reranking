@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.98	Cornelia de Lange syndrome 1	OMIM:122470
+2	0.97	Rubinstein-Taybi syndrome 1	OMIM:180849
+3	0.96	Coffin-Siris syndrome 1	OMIM:135900
+4	0.95	Okur-Chung neurodevelopmental syndrome	OMIM:615275
+5	0.9	Mental retardation, autosomal dominant 20	OMIM:614113
+6	0.87	Autosomal dominant mental retardation 9	OMIM:614255
+7	0.86	Ohdo syndrome, Maat-Kievit-Brunner type	OMIM:300895
+8	0.85	Cohen syndrome	OMIM:216550
+9	0.84	Floating-Harbor syndrome	OMIM:136140
+10	0.82	Dubowitz syndrome	OMIM:223370

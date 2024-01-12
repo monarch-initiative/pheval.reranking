@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Marden-Walker syndrome	OMIM:248700
+2	0.87	Ermine phenotype	OMIM:227150
+3	0.85	Joubert syndrome 2	OMIM:608091
+4	0.82	Gomez-Lopez-Hernandez syndrome	OMIM:601853
+5	0.8	Kabuki syndrome 1	OMIM:147920
+6	0.76	Potter sequence, type I	OMIM:263570
+7	0.72	Acromegaloid facial appearance syndrome	OMIM:102150
+8	0.69	Beare-Stevenson cutis gyrata syndrome	OMIM:123790
+9	0.67	Mirror polydactyly syndrome	OMIM:135750
+10	0.65	Metaphyseal dysplasia, Braun-Tinschert type	OMIM:605946

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Feingold Syndrome 1	OMIM:164280
+2	0.95	LADD Syndrome	OMIM:149730
+3	0.94	CHARGE Syndrome	OMIM:214800
+4	0.91	VACTERL Association	OMIM:192350
+5	0.88	DiGeorge Syndrome	OMIM:188400
+6	0.85	Oculoauricular Syndrome	OMIM:612109
+7	0.83	Orofaciodigital Syndrome 9	OMIM:258865
+8	0.82	Velocardiofacial Syndrome	OMIM:192430
+9	0.8	Wolf-Hirschhorn Syndrome	OMIM:194190
+10	0.78	Stickler Syndrome	OMIM:108300

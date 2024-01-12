@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.97	Tuberous sclerosis	OMIM:191100
+2	0.91	Epidermal Nevus Syndrome	OMIM:162200
+3	0.89	Birt-Hogg-Dubé syndrome	OMIM:135150
+4	0.83	Cowden syndrome	OMIM:158350
+5	0.82	Neurofibromatosis type 1	OMIM:162200
+6	0.79	Lipomatosis, multiple	OMIM:151900
+7	0.77	Fibromatosis, gingival, hereditary	OMIM:135300
+8	0.75	Basal cell nevus syndrome	OMIM:109400
+9	0.73	Hypomelanosis of Ito	OMIM:300337
+10	0.7	Pigmentary mosaicism	OMIM:158300

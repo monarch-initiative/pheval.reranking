@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.87	Charcot-Marie-Tooth disease, type 4B	OMIM:601382
+2	0.81	Neurodegeneration with brain iron accumulation	OMIM:610217
+3	0.76	Neuropathy, hereditary motor and sensory, LOM type	OMIM:607259
+4	0.73	Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy	OMIM:607317
+5	0.68	Neuropathy, hereditary sensory, type I	OMIM:608716
+6	0.63	Friedreich ataxia	OMIM:229300
+7	0.61	Infantile neuroaxonal dystrophy	OMIM:256600
+8	0.59	Cockayne syndrome	OMIM:133540
+9	0.58	Hypomyelinating leukodystrophy	OMIM:608804
+10	0.52	Hypohidrotic ectodermal dysplasia	OMIM:305100

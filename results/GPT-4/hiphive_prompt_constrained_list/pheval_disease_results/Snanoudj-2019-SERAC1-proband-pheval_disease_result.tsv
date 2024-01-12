@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.91	Leigh Syndrome, French Canadian Type	OMIM:220111
+2	0.88	Combined Oxidative Phosphorylation Deficiency 1	OMIM:609060
+3	0.85	Leukodystrophy, Hypomyelinating, 3	OMIM:260600
+4	0.82	Pyruvate Dehydrogenase E1-Alpha Deficiency	OMIM:312170
+5	0.8	Leigh Syndrome Due To Mitochondrial Complex I Deficiency	OMIM:256000
+6	0.78	Optic Atrophy 1	OMIM:165500
+7	0.77	Combined Oxidative Phosphorylation Deficiency 2	OMIM:610498
+8	0.75	Pyruvate Dehydrogenase E2 Deficiency	OMIM:245348
+9	0.73	Combined Oxidative Phosphorylation Deficiency 5	OMIM:611719
+10	0.71	Leigh Syndrome Due To Pyruvate Dehydrogenase Deficiency	OMIM:256450

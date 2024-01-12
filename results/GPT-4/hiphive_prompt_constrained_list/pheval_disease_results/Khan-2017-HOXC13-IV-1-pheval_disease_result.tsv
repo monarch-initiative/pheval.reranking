@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Ectodermal dysplasia, hypohidrotic, with hypothyroidism and ciliary dyskinesia	OMIM:614935
+2	0.9	Hair-nails type Ectodermal dysplasia	OMIM:602032
+3	0.86	Hidrotic ectodermal dysplasia	OMIM:129490
+4	0.83	Ectodermal dysplasia-syndactyly syndrome	OMIM:613573
+5	0.8	Ectodermal dysplasia with corkscrew hairs	OMIM:607896
+6	0.75	Ectodermal dysplasia, pure hair-nail type	OMIM:602032
+7	0.72	Uncombable hair syndrome	OMIM:191480
+8	0.68	Trichorhinophalangeal syndrome type III	OMIM:190230
+9	0.66	Woolly hair syndrome	OMIM:194300
+10	0.6	Marshall syndrome	OMIM:154780

@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.92	Perrault Syndrome 2	OMIM:614926
+2	0.89	Trigonocephaly 1	OMIM:190440
+3	0.88	Wilson disease	OMIM:277900
+4	0.87	Holoprosencephaly 1	OMIM:236100
+5	0.86	Mandibulofacial Dysostosis, Guion-Almeida Type	OMIM:610536
+6	0.84	Langer Mesomelic Dysplasia	OMIM:249700
+7	0.83	Noonan Syndrome 1	OMIM:163950
+8	0.82	Septo-Optic Dysplasia	OMIM:182230
+9	0.79	Hyper IgM Syndrome 1	OMIM:308230
+10	0.76	Distal Arthrogryposis Type 1	OMIM:108120

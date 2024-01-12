@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	Skeletal dysplasia-brachydactyly syndrome	OMIM:613254
+2	0.9	Hypochondroplasia	OMIM:146000
+3	0.88	Acromesomelic dysplasia, Demirhan type	OMIM:609441
+4	0.85	Pitt-Hopkins syndrome	OMIM:610954
+5	0.82	Microcephalic osteodysplastic primordial dwarfism type II	OMIM:210720
+6	0.8	Leri-Weill dyschondrosteosis	OMIM:127300
+7	0.78	Mulibrey nanism	OMIM:253250
+8	0.76	Metaphyseal chondrodysplasia, Jansen type	OMIM:156400
+9	0.74	Short syndrome	OMIM:269880
+10	0.72	Brachydactyly type A1	OMIM:112500

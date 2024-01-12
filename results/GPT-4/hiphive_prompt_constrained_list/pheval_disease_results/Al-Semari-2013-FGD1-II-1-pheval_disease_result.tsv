@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Marfan syndrome	OMIM:154700
+2	0.92	Stickler syndrome, type 1	OMIM:108300
+3	0.88	Cohen syndrome	OMIM:216550
+4	0.86	Noonan syndrome	OMIM:163950
+5	0.84	Smith-Lemli-Opitz syndrome	OMIM:270400
+6	0.82	Weill-Marchesani syndrome	OMIM:277600
+7	0.79	Shprintzen-Goldberg syndrome	OMIM:182212
+8	0.77	Rubinstein-Taybi syndrome	OMIM:180849
+9	0.75	Cornelia de Lange syndrome 1	OMIM:122470
+10	0.73	Sotos syndrome	OMIM:117550

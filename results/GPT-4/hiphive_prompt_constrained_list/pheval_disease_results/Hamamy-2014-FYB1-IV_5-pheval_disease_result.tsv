@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.96	Thrombocytopenia-absent radius syndrome	OMIM:274000
+2	0.93	Thrombocytopenia 2	OMIM:188000
+3	0.91	Thrombocytopenia 4	OMIM:612004
+4	0.87	Thrombocytopenia 1	OMIM:313900
+5	0.85	Amegakaryocytic Thrombocytopenia	OMIM:604498
+6	0.82	Thrombocytopenia 5	OMIM:616216
+7	0.8	Thrombocytopenia 6	OMIM:616937
+8	0.76	Platelet disorder associated with Thrombocytopenia	OMIM:147060
+9	0.73	X-linked Thrombocytopenia	OMIM:313900
+10	0.7	Autosomal dominant Thrombocytopenia	OMIM:187800

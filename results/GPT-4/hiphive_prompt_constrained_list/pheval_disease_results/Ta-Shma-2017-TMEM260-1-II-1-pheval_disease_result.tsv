@@ -1,0 +1,11 @@
+rank	score	disease_name	disease_identifier
+1	0.95	DiGeorge syndrome	OMIM:188400
+2	0.92	Holt-Oram syndrome	OMIM:142900
+3	0.9	Tetralogy of Fallot	OMIM:187500
+4	0.86	Ellis-van Creveld syndrome	OMIM:225500
+5	0.83	Bartter syndrome	OMIM:601678
+6	0.78	Polycystic kidney disease	OMIM:173900
+7	0.71	Meckel-Gruber syndrome	OMIM:249000
+8	0.68	Schinzel-Giedion syndrome	OMIM:269150
+9	0.66	Aicardi syndrome	OMIM:304050
+10	0.62	Primary microcephaly	OMIM:251200
