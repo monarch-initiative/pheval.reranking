@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17ef2d04-487f-414b-9673-2439106d0255" name="Changes" comment="adding constrained lists" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2aittAlyZiL2eTObffKteM78Gp4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yaseminbridges/Documents/GitHub/exomiser-llm-bench/tool_configurations/GPT_models",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tool_configurations/GPT_models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tool_configurations/GPT_models" />
+      <recent name="$PROJECT_DIR$/tool_configurations/GPT-3.5_turbo/simple_prompt" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="adding GPT-4 results">
+      <option name="closed" value="true" />
+      <created>1704810909556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704810909556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding GPT-4 results">
+      <option name="closed" value="true" />
+      <created>1704810935529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704810935529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding GPT-4 results">
+      <option name="closed" value="true" />
+      <created>1704810959747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704810959747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding GPT-4 results">
+      <option name="closed" value="true" />
+      <created>1704811179070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704811179070</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding GPT-4 results">
+      <option name="closed" value="true" />
+      <created>1704811190124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704811190124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding GPT-4_turbo results">
+      <option name="closed" value="true" />
+      <created>1704811905884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704811905884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adding GPT-4_turbo results">
+      <option name="closed" value="true" />
+      <created>1704811997572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704811997572</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ef2d04-487f-414b-9673-2439106d0255" name="Changes" comment="adding GPT-4_turbo results" />
+      <created>1704813442770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704813442770</updated>
+      <workItem from="1704813444227" duration="37477000" />
+    </task>
+    <task id="LOCAL-00008" summary="adding phenopackets">
+      <option name="closed" value="true" />
+      <created>1704815606846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704815606846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding exomiser config.yaml">
+      <option name="closed" value="true" />
+      <created>1704817604892</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704817604892</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1704817623909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704817623909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add LLM prompts">
+      <option name="closed" value="true" />
+      <created>1704817634509</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704817634509</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adding bash script to run exomiser and get results">
+      <option name="closed" value="true" />
+      <created>1704887010260</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704887010260</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remove `results` sub directory">
+      <option name="closed" value="true" />
+      <created>1704897297006</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704897297006</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add README.md for benchmarking">
+      <option name="closed" value="true" />
+      <created>1704904394395</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904394395</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add instructions for executing the bash script">
+      <option name="closed" value="true" />
+      <created>1704904412323</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904412323</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add README.md for running the LLM experiments">
+      <option name="closed" value="true" />
+      <created>1704904431964</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904431964</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add README.md">
+      <option name="closed" value="true" />
+      <created>1704904440451</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904440451</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add README.md">
+      <option name="closed" value="true" />
+      <created>1704904444314</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904444314</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add bash script for executing benchmark analysis">
+      <option name="closed" value="true" />
+      <created>1704904467837</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904467837</updated>
+    </task>
+    <task id="LOCAL-00020" summary="remove hardcoded paths">
+      <option name="closed" value="true" />
+      <created>1704904480741</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904480741</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add bash script for running LLM experiments">
+      <option name="closed" value="true" />
+      <created>1704904494322</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904494322</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add config templates for LLM models">
+      <option name="closed" value="true" />
+      <created>1704904506493</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704904506493</updated>
+    </task>
+    <task id="LOCAL-00023" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971681028</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971681028</updated>
+    </task>
+    <task id="LOCAL-00024" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971712553</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971712553</updated>
+    </task>
+    <task id="LOCAL-00025" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971744608</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971744608</updated>
+    </task>
+    <task id="LOCAL-00026" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971773038</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971773038</updated>
+    </task>
+    <task id="LOCAL-00027" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971800506</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971800506</updated>
+    </task>
+    <task id="LOCAL-00028" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971815808</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971815808</updated>
+    </task>
+    <task id="LOCAL-00029" summary="removing empty results">
+      <option name="closed" value="true" />
+      <created>1704971936363</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971936363</updated>
+    </task>
+    <task id="LOCAL-00030" summary="remove trailing /">
+      <option name="closed" value="true" />
+      <created>1704972745533</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1704972745533</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705055979728</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1705055979728</updated>
+    </task>
+    <task id="LOCAL-00032" summary="remove empty result files">
+      <option name="closed" value="true" />
+      <created>1705056033725</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056033725</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056105879</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056105879</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056131883</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056131883</updated>
+    </task>
+    <task id="LOCAL-00035" summary="remove empty results">
+      <option name="closed" value="true" />
+      <created>1705056171269</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056171269</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056500352</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056500352</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056539176</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056539176</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056553014</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056553014</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056595151</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056595151</updated>
+    </task>
+    <task id="LOCAL-00040" summary="remove empty result files">
+      <option name="closed" value="true" />
+      <created>1705056666052</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056666052</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056721214</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056721214</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056764105</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056764105</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add pheval tsv results">
+      <option name="closed" value="true" />
+      <created>1705056806434</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056806434</updated>
+    </task>
+    <task id="LOCAL-00044" summary="remove empty result files">
+      <option name="closed" value="true" />
+      <created>1705056876069</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1705056876069</updated>
+    </task>
+    <task id="LOCAL-00045" summary="updating config.yaml to include constrained list variable">
+      <option name="closed" value="true" />
+      <created>1705057799754</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1705057799754</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update README.md with details for running constrained list experiments">
+      <option name="closed" value="true" />
+      <created>1705057817336</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1705057817336</updated>
+    </task>
+    <task id="LOCAL-00047" summary="adding prompts with constrained list specification">
+      <option name="closed" value="true" />
+      <created>1705057842150</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1705057842150</updated>
+    </task>
+    <task id="LOCAL-00048" summary="adding constrained lists">
+      <option name="closed" value="true" />
+      <created>1705057849307</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1705057849307</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding GPT-4 results" />
+    <MESSAGE value="adding GPT-4_turbo results" />
+    <MESSAGE value="adding phenopackets" />
+    <MESSAGE value="adding exomiser config.yaml" />
+    <MESSAGE value="add README.md" />
+    <MESSAGE value="add LLM prompts" />
+    <MESSAGE value="adding bash script to run exomiser and get results" />
+    <MESSAGE value="remove `results` sub directory" />
+    <MESSAGE value="add README.md for benchmarking" />
+    <MESSAGE value="add instructions for executing the bash script" />
+    <MESSAGE value="Add README.md for running the LLM experiments" />
+    <MESSAGE value="Add README.md" />
+    <MESSAGE value="Add bash script for executing benchmark analysis" />
+    <MESSAGE value="remove hardcoded paths" />
+    <MESSAGE value="add bash script for running LLM experiments" />
+    <MESSAGE value="add config templates for LLM models" />
+    <MESSAGE value="removing empty results" />
+    <MESSAGE value="remove trailing /" />
+    <MESSAGE value="remove empty results" />
+    <MESSAGE value="add pheval tsv results" />
+    <MESSAGE value="remove empty result files" />
+    <MESSAGE value="updating config.yaml to include constrained list variable" />
+    <MESSAGE value="update README.md with details for running constrained list experiments" />
+    <MESSAGE value="adding prompts with constrained list specification" />
+    <MESSAGE value="adding constrained lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding constrained lists" />
+  </component>
+</project>

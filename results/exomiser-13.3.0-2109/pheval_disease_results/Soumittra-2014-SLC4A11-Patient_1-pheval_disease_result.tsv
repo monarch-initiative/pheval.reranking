@@ -1,0 +1,2215 @@
+rank	score	disease_name	disease_identifier
+1	0.9192	Corneal endothelial dystrophy, autosomal recessive	OMIM:217700
+2	0.8832	Congenital hereditary endothelial dystrophy type II	ORPHA:293603
+3	0.8828	Corneal dystrophy, Fuchs endothelial, 4	OMIM:613268
+3	0.8828	Corneal dystrophy, Fuchs endothelial, 8	OMIM:615523
+5	0.862	Corneal dystrophy, congenital stromal	OMIM:610048
+6	0.8502	Corneal dystrophy, posterior polymorphous, 3	OMIM:609141
+7	0.8449	Corneal dystrophy, Fuchs endothelial, 1	OMIM:136800
+8	0.8378	Corneal dystrophy, Fuchs endothelial, 6	OMIM:613270
+9	0.8368	Snowflake vitreoretinal degeneration	OMIM:193230
+10	0.8285	Fuchs endothelial corneal dystrophy	ORPHA:98974
+10	0.8285	Fuchs endothelial corneal dystrophy	ORPHA:98974
+10	0.8285	Fuchs endothelial corneal dystrophy	ORPHA:98974
+10	0.8285	Fuchs endothelial corneal dystrophy	ORPHA:98974
+10	0.8285	Fuchs endothelial corneal dystrophy	ORPHA:98974
+15	0.8273	Corneal dystrophy, Fuchs endothelial, 3	OMIM:613267
+16	0.7647	Fibrochondrogenesis 1	OMIM:228520
+16	0.7647	Aarskog-Scott syndrome	ORPHA:915
+16	0.7647	FGFR2-related bent bone dysplasia	ORPHA:313855
+16	0.7647	Liang-Wang syndrome	OMIM:618729
+16	0.7647	Houge-Janssens syndrome 3	OMIM:618354
+21	0.7564	Corneal dystrophy, posterior polymorphous, 1	OMIM:122000
+22	0.7557	Lacrimoauriculodentodigital syndrome	ORPHA:2363
+22	0.7557	Lacrimoauriculodentodigital syndrome	ORPHA:2363
+22	0.7557	Lacrimoauriculodentodigital syndrome	ORPHA:2363
+25	0.7482	Anterior segment dysgenesis 6, multiple subtypes	OMIM:617315
+26	0.7391	Mucolipidosis II alpha/beta	OMIM:252500
+27	0.737	Brittle cornea syndrome 2	OMIM:614170
+28	0.7367	Keratoconus 9	OMIM:617928
+29	0.7356	GAPO syndrome	OMIM:230740
+30	0.7325	Glaucoma 3, primary congenital, E	OMIM:617272
+31	0.7272	Brittle cornea syndrome 1	OMIM:229200
+32	0.7262	Elsahy-Waters syndrome	OMIM:211380
+33	0.7256	Posterior polymorphous corneal dystrophy	ORPHA:98973
+33	0.7256	Posterior polymorphous corneal dystrophy	ORPHA:98973
+33	0.7256	Posterior polymorphous corneal dystrophy	ORPHA:98973
+33	0.7256	Posterior polymorphous corneal dystrophy	ORPHA:98973
+33	0.7256	Posterior polymorphous corneal dystrophy	ORPHA:98973
+38	0.7237	Goldberg-Shprintzen megacolon syndrome	OMIM:609460
+39	0.7221	Revesz syndrome	OMIM:268130
+40	0.7125	Peters anomaly	ORPHA:708
+40	0.7125	Peters anomaly	ORPHA:708
+40	0.7125	Peters anomaly	ORPHA:708
+40	0.7125	Peters anomaly	ORPHA:708
+40	0.7125	Peters anomaly	ORPHA:708
+45	0.7124	Histiocytoid cardiomyopathy	ORPHA:137675
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+46	0.7117	Wolf-Hirschhorn syndrome	ORPHA:280
+52	0.7024	Brittle cornea syndrome	ORPHA:90354
+52	0.7024	Brittle cornea syndrome	ORPHA:90354
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+54	0.7017	Congenital muscular dystrophy with cerebellar involvement	ORPHA:370959
+60	0.7008	Arterial tortuosity syndrome	ORPHA:3342
+61	0.7004	Aymé-Gripp syndrome	ORPHA:1272
+62	0.6983	Ehlers-Danlos syndrome, kyphoscoliotic type, 1	OMIM:225400
+63	0.696	Frank-ter Haar syndrome	OMIM:249420
+64	0.6938	GAPO syndrome	ORPHA:2067
+64	0.6938	Leber congenital amaurosis 4	OMIM:604393
+64	0.6938	Ehlers-Danlos syndrome, vascular type	OMIM:130050
+64	0.6938	GNB5-related intellectual disability-cardiac arrhythmia syndrome	ORPHA:542306
+64	0.6938	Costello syndrome	ORPHA:3071
+64	0.6938	Leber congenital amaurosis 9	OMIM:608553
+64	0.6938	Optic atrophy-intellectual disability syndrome	ORPHA:401777
+71	0.6926	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 3	OMIM:253280
+72	0.69	Warburg-Cinotti syndrome	OMIM:618175
+73	0.6896	SHORT syndrome	OMIM:269880
+74	0.6852	Arthrogryposis, distal, type 5	OMIM:108145
+75	0.6829	Cornea plana 2, autosomal recessive	OMIM:217300
+76	0.6819	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 1	OMIM:236670
+77	0.6783	SHORT syndrome	ORPHA:3163
+78	0.6761	Keratoconus 1	OMIM:148300
+78	0.6761	Arterial tortuosity syndrome	OMIM:208050
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+80	0.675	Williams syndrome	ORPHA:904
+100	0.6729	Macular corneal dystrophy	ORPHA:98969
+101	0.6692	Megalocornea 1, X-linked	OMIM:309300
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis 7	OMIM:613829
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis 1	OMIM:204000
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis 2	OMIM:204100
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Leber congenital amaurosis 6	OMIM:613826
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Leber congenital amaurosis	ORPHA:65
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+102	0.6635	Retinitis pigmentosa	ORPHA:791
+213	0.6619	Axenfeld-Rieger syndrome, type 1	OMIM:180500
+214	0.66	Microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma	OMIM:251750
+215	0.654	Keratitis-ichthyosis-deafness syndrome, autosomal recessive	OMIM:242150
+216	0.6416	Vascular Ehlers-Danlos syndrome	ORPHA:286
+217	0.6368	Nail-patella syndrome	OMIM:161200
+218	0.6235	Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency	ORPHA:1900
+218	0.6235	B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome	ORPHA:536467
+218	0.6235	CTCF-related neurodevelopmental disorder	ORPHA:363611
+218	0.6235	Smith-Magenis syndrome	ORPHA:819
+218	0.6235	VACTERL with hydrocephalus	ORPHA:3412
+218	0.6235	Kyphoscoliotic Ehlers-Danlos syndrome due to FKBP22 deficiency	ORPHA:300179
+218	0.6235	Ehlers-Danlos syndrome, kyphoscoliotic type, 2	OMIM:614557
+218	0.6235	Smith-Magenis syndrome	ORPHA:819
+218	0.6235	Blepharophimosis, epicanthus inversus, and ptosis, type 2	OMIM:110100
+218	0.6235	Geroderma osteodysplastica	ORPHA:2078
+218	0.6235	Smith-Magenis syndrome	ORPHA:819
+218	0.6235	Kabuki syndrome	ORPHA:2322
+218	0.6235	Kabuki syndrome	ORPHA:2322
+218	0.6235	Symmetric circumferential skin creases, congenital, 2	OMIM:616734
+218	0.6235	Multiple benign circumferential skin creases on limbs	ORPHA:2505
+218	0.6235	Microphthalmia, isolated 6	OMIM:613517
+218	0.6235	Geroderma osteodysplastica	ORPHA:2078
+218	0.6235	Smith-Magenis syndrome	ORPHA:819
+218	0.6235	Pierpont syndrome	ORPHA:487825
+218	0.6235	Pierpont syndrome	OMIM:602342
+218	0.6235	Cousin syndrome	OMIM:260660
+218	0.6235	Symmetric circumferential skin creases, congenital, 1	OMIM:156610
+218	0.6235	Multiple benign circumferential skin creases on limbs	ORPHA:2505
+241	0.6134	Microphthalmia, syndromic 6	OMIM:607932
+242	0.6131	Leber congenital amaurosis 8	OMIM:613835
+243	0.6124	Short stature, hearing loss, retinitis pigmentosa, and distinctive facies	OMIM:617763
+243	0.6124	Fabry disease, cardiac variant	OMIM:301500
+243	0.6124	Blue cone monochromatism	ORPHA:16
+243	0.6124	Blue cone monochromatism	ORPHA:16
+243	0.6124	Corneal dystrophy, gelatinous drop-like	OMIM:204870
+248	0.6122	Carpenter syndrome	OMIM:201000
+249	0.6101	Kaufman oculocerebrofacial syndrome	OMIM:244450
+249	0.6101	Dihydropyrimidine dehydrogenase deficiency	ORPHA:1675
+249	0.6101	Cornelia de Lange syndrome 1	OMIM:122470
+252	0.607	Corneal dystrophy, posterior polymorphous 2	OMIM:609140
+252	0.607	Corneal dystrophy-perceptive deafness syndrome	ORPHA:1490
+254	0.6024	Corneal endothelial dystrophy and perceptive deafness	OMIM:217400
+255	0.6018	Corneal dystrophy, Avellino type	OMIM:607541
+255	0.6018	Amyloidosis, Finnish type	OMIM:105120
+255	0.6018	Corneal fleck dystrophy	OMIM:121850
+258	0.6013	Meesmann corneal dystrophy 1	OMIM:122100
+259	0.6003	Corneal dystrophy, Schnyder type	OMIM:121800
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	?Microcornea, rod-cone dystrophy, cataract, and posterior staphyloma 1	OMIM:619082
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	Congenital cataracts-facial dysmorphism-neuropathy syndrome	ORPHA:48431
+260	0.5993	X-linked dominant chondrodysplasia punctata	ORPHA:35173
+260	0.5993	Trichothiodystrophy 6, nonphotosensitive	OMIM:616943
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	Schwartz-Jampel syndrome, type 1	OMIM:255800
+260	0.5993	Basel-Vanagait-Smirin-Yosef syndrome	OMIM:616449
+260	0.5993	Nance-Horan syndrome	ORPHA:627
+260	0.5993	Retinal dystrophy, early-onset, with or without pituitary dysfunction	OMIM:610125
+260	0.5993	Microcephaly and chorioretinopathy, autosomal recessive, 2	OMIM:616171
+260	0.5993	Micro syndrome	ORPHA:2510
+260	0.5993	Micro syndrome	ORPHA:2510
+260	0.5993	Micro syndrome	ORPHA:2510
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	Cataract 47, juvenile, with microcornea	OMIM:612018
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	Cornelia de Lange syndrome	ORPHA:199
+260	0.5993	Micro syndrome	ORPHA:2510
+280	0.596	Congenital cataracts, facial dysmorphism, and neuropathy	OMIM:604168
+280	0.596	Basel-Vanagaite-Smirin-Yosef syndrome	ORPHA:464738
+280	0.596	Warburg micro syndrome 1	OMIM:600118
+280	0.596	Warburg micro syndrome 4	OMIM:615663
+280	0.596	Retinal dystrophy, iris coloboma, and comedogenic acne syndrome	OMIM:615147
+285	0.5955	Corneal dystrophy, Reis-Bucklers type	OMIM:608470
+286	0.5951	Lathosterolosis	ORPHA:46059
+287	0.5947	Macular corneal dystrophy	OMIM:217800
+287	0.5947	Corneal dystrophy, epithelial basement membrane	OMIM:121820
+289	0.5942	Corneal dystrophy, lattice type IIIA	OMIM:608471
+290	0.5939	Corneal dystrophy, Thiel-Behnke type	OMIM:602082
+291	0.5934	Ehlers-Danlos syndrome, musculocontractural type 1	OMIM:601776
+292	0.5929	Trichothiodystrophy 4, nonphotosensitive	OMIM:234050
+293	0.5921	Corneal dystrophy, lattice type I	OMIM:122200
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+294	0.5919	Cataract-microcornea syndrome	ORPHA:1377
+302	0.5895	Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome	ORPHA:1369
+302	0.5895	Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome	ORPHA:1369
+302	0.5895	Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome	ORPHA:1369
+305	0.5841	Rothmund-Thomson syndrome, type 2	OMIM:268400
+306	0.5838	Corneal dystrophy, Groenouw type I	OMIM:121900
+307	0.5834	Schwartz-Jampel syndrome	ORPHA:800
+307	0.5834	Oculodentodigital dysplasia	ORPHA:2710
+309	0.5821	Warburg micro syndrome 2	OMIM:614225
+309	0.5821	Jacobsen syndrome	ORPHA:2308
+309	0.5821	Tetraamelia-multiple malformations syndrome	ORPHA:3301
+309	0.5821	Tetraamelia-multiple malformations syndrome	ORPHA:3301
+313	0.5818	Mulibrey nanism	OMIM:253250
+314	0.5816	Microphthalmia, syndromic 15	OMIM:615145
+314	0.5816	?Microphthalmia, isolated, with coloboma 9	OMIM:615145
+316	0.5815	Oculodentodigital dysplasia, autosomal recessive	OMIM:257850
+317	0.5813	Microphthalmia/coloboma and skeletal dysplasia syndrome	OMIM:615877
+318	0.58	Nance-Horan syndrome	OMIM:302350
+319	0.5796	Trichothiodystrophy 1, photosensitive	OMIM:601675
+320	0.5794	Microphthalmia, syndromic 2	OMIM:300166
+321	0.579	Granular corneal dystrophy type II	ORPHA:98963
+322	0.5789	COMMAD syndrome	OMIM:617306
+323	0.5783	Oculoectodermal syndrome, somatic	OMIM:600268
+324	0.5766	Cockayne syndrome, type B	OMIM:133540
+324	0.5766	Cockayne syndrome, type B	OMIM:133540
+326	0.5758	Baraitser-Winter cerebrofrontofacial syndrome	ORPHA:2995
+326	0.5758	Baraitser-Winter cerebrofrontofacial syndrome	ORPHA:2995
+328	0.5747	Epithelial recurrent erosion dystrophy	ORPHA:293381
+329	0.5742	Lattice corneal dystrophy type I	ORPHA:98964
+329	0.5742	Oculodentodigital dysplasia	OMIM:164200
+331	0.5733	Stromme syndrome	OMIM:243605
+332	0.573	Anterior segment dysgenesis 1, multiple subtypes	OMIM:107250
+333	0.5722	Microcornea, myopic chorioretinal atrophy, and telecanthus	OMIM:615458
+334	0.572	Branchio-oculo-facial syndrome	ORPHA:1297
+335	0.5717	Oculofaciocardiodental syndrome	ORPHA:2712
+336	0.5714	Cockayne syndrome type 3	ORPHA:90324
+336	0.5714	Cockayne syndrome type 3	ORPHA:90324
+336	0.5714	Cockayne syndrome type 3	ORPHA:90324
+339	0.571	Cataract 1, multiple types	OMIM:116200
+340	0.5709	?Microphthalmia, syndromic 13	OMIM:300915
+340	0.5709	Abruzzo-Erickson syndrome	ORPHA:921
+342	0.5708	Fabry disease	ORPHA:324
+343	0.57	Cataract 17, multiple types	OMIM:611544
+344	0.5692	Otodental syndrome	ORPHA:2791
+345	0.5688	Keratosis follicularis spinulosa decalvans, X-linked	OMIM:308800
+346	0.5682	Peters plus syndrome	ORPHA:709
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+347	0.5676	Walker-Warburg syndrome	ORPHA:899
+361	0.5663	Microphthalmia with brain and digit anomalies	ORPHA:139471
+362	0.5657	Cataract 21, multiple types	OMIM:610202
+363	0.5649	Brain small vessel disease with or without ocular anomalies	OMIM:175780
+363	0.5649	Bietti crystalline corneoretinal dystrophy	OMIM:210370
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+365	0.5648	Meckel syndrome	ORPHA:564
+382	0.5645	Oculocerebrofacial syndrome, Kaufman type	ORPHA:2707
+383	0.5638	Cataract 9, multiple types	OMIM:604219
+384	0.5637	AGel amyloidosis	ORPHA:85448
+385	0.5635	Microphthalmia, Lenz type	ORPHA:568
+385	0.5635	Microphthalmia, Lenz type	ORPHA:568
+385	0.5635	Acro-renal-ocular syndrome	ORPHA:959
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+388	0.5634	Trichothiodystrophy	ORPHA:33364
+397	0.5633	Autosomal dominant keratitis	ORPHA:2334
+397	0.5633	Anterior segment dysgenesis 7, with sclerocornea	OMIM:269400
+399	0.5631	Microcephaly with or without chorioretinopathy, lymphedema, or impaired intellectual development	OMIM:152950
+400	0.5626	Alagille syndrome 1	OMIM:118450
+401	0.5619	Warburg micro syndrome 3	OMIM:614222
+402	0.5611	Cataract 2, multiple types	OMIM:604307
+403	0.5603	?Microcornea, rod-cone dystrophy, cataract, and posterior staphyloma 2	OMIM:193220
+403	0.5603	Vitreoretinochoroidopathy	OMIM:193220
+405	0.56	Microphthalmia, syndromic 1	OMIM:309800
+406	0.5581	Anterior segment dysgenesis 5, multiple subtypes	OMIM:604229
+407	0.5569	Anterior segment dysgenesis 2, multiple subtypes	OMIM:610256
+408	0.5555	Mowat-Wilson syndrome	OMIM:235730
+409	0.5551	Persistent hyperplastic primary vitreous	ORPHA:91495
+409	0.5551	Persistent hyperplastic primary vitreous	ORPHA:91495
+409	0.5551	Persistent hyperplastic primary vitreous	ORPHA:91495
+412	0.5537	Mowat-Wilson syndrome due to a ZEB2 point mutation	ORPHA:261552
+413	0.5454	Persistent hyperplastic primary vitreous, autosomal recessive	OMIM:221900
+414	0.5411	Oculoauricular syndrome	OMIM:612109
+415	0.541	Sturge-Weber syndrome	ORPHA:3205
+416	0.5408	Neuroocular syndrome	OMIM:619539
+417	0.539	Classical Ehlers-Danlos syndrome	ORPHA:287
+417	0.539	Carpenter syndrome	ORPHA:65759
+417	0.539	Classical Ehlers-Danlos syndrome	ORPHA:287
+417	0.539	Classical Ehlers-Danlos syndrome	ORPHA:287
+417	0.539	Ciliary dyskinesia, primary, 1, with or without situs inversus	OMIM:244400
+417	0.539	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+417	0.539	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+417	0.539	Severe generalized junctional epidermolysis bullosa	ORPHA:79404
+417	0.539	Carpenter syndrome	ORPHA:65759
+426	0.5385	Duane retraction syndrome	ORPHA:233
+426	0.5385	Duane retraction syndrome	ORPHA:233
+426	0.5385	Duane retraction syndrome	ORPHA:233
+429	0.5347	Infantile nephropathic cystinosis	ORPHA:411629
+429	0.5347	Juvenile nephropathic cystinosis	ORPHA:411634
+431	0.5337	Frontometaphyseal dysplasia	ORPHA:1826
+431	0.5337	Frontometaphyseal dysplasia	ORPHA:1826
+433	0.529	Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic	OMIM:163200
+433	0.529	Mucopolysaccharidosis type VI (Maroteaux-Lamy)	OMIM:253200
+433	0.529	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+433	0.529	Scheie syndrome	ORPHA:93474
+433	0.529	Hurler syndrome	ORPHA:93473
+433	0.529	Hurler-Scheie syndrome	ORPHA:93476
+433	0.529	Mucopolysaccharidosis Is	OMIM:607016
+433	0.529	Mucopolysaccharidosis Ih/s	OMIM:607015
+433	0.529	Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic	OMIM:163200
+433	0.529	Multicentric carpotarsal osteolysis syndrome	OMIM:166300
+433	0.529	Moebius syndrome	ORPHA:570
+433	0.529	?Popliteal pterygium syndrome, Bartsocas-Papas type 2	OMIM:619339
+433	0.529	Tangier disease	ORPHA:31150
+433	0.529	3MC syndrome 3	OMIM:248340
+433	0.529	Galactosialidosis	ORPHA:351
+433	0.529	Dyggve-Melchior-Clausen disease	ORPHA:239
+433	0.529	Larsen syndrome	OMIM:150250
+433	0.529	Fucosidosis	ORPHA:349
+433	0.529	Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome	ORPHA:2072
+433	0.529	Mucopolysaccharidosis VII	OMIM:253220
+433	0.529	Mucopolysaccharidosis type 7	ORPHA:584
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+433	0.529	Autosomal dominant generalized epidermolysis bullosa simplex, severe form	ORPHA:79396
+433	0.529	Fish-eye disease	ORPHA:79292
+433	0.529	Osteoporosis-pseudoglioma syndrome	ORPHA:2788
+433	0.529	Mucolipidosis type IV	ORPHA:578
+433	0.529	?Winchester syndrome	OMIM:277950
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+433	0.529	Schimmelpenning-Feuerstein-Mims syndrome, somatic mosaic	OMIM:163200
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+433	0.529	CHIME syndrome	ORPHA:3474
+433	0.529	Fryns syndrome	ORPHA:2059
+433	0.529	Spondylometaphyseal dysplasia with corneal dystrophy	OMIM:618961
+433	0.529	Moebius syndrome	ORPHA:570
+433	0.529	Bartsocas-Papas syndrome	ORPHA:1234
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+433	0.529	Schimke immuno-osseous dysplasia	ORPHA:1830
+433	0.529	Ichthyosis, congenital, autosomal recessive 11	OMIM:602400
+433	0.529	Syndromic recessive X-linked ichthyosis	ORPHA:281090
+433	0.529	Multiple sulfatase deficiency	OMIM:272200
+433	0.529	Tyrosinemia type 2	ORPHA:28378
+433	0.529	TBCK-related intellectual disability syndrome	ORPHA:488632
+433	0.529	Bilateral striopallidodentate calcinosis	ORPHA:1980
+477	0.5282	Al-Gazali syndrome	OMIM:609465
+478	0.5271	Hutchinson-Gilford progeria syndrome	ORPHA:740
+478	0.5271	Mucopolysaccharidosis Ih	OMIM:607014
+478	0.5271	Mucopolysaccharidosis type IVB (Morquio)	OMIM:253010
+478	0.5271	Mucolipidosis IV	OMIM:252650
+478	0.5271	Congenital disorder of deglycosylation 1	OMIM:615273
+478	0.5271	Olmsted syndrome 1	OMIM:614594
+478	0.5271	Ablepharon macrostomia syndrome	ORPHA:920
+478	0.5271	Hutchinson-Gilford progeria syndrome	ORPHA:740
+486	0.526	Multicentric osteolysis, nodulosis, and arthropathy	OMIM:259600
+487	0.5249	Sanjad-Sakati syndrome	ORPHA:2323
+487	0.5249	Alacrimia-choreoathetosis-liver dysfunction syndrome	ORPHA:404454
+487	0.5249	Multiple congenital anomalies-neurodevelopmental syndrome, X-linked	OMIM:301056
+490	0.5204	Premature aging syndrome, Penttinen type	OMIM:601812
+491	0.5199	DiGeorge syndrome	OMIM:188400
+492	0.5195	?Deafness, congenital heart defects, and posterior embryotoxon	OMIM:617992
+492	0.5195	Peroxisome biogenesis disorder 13A (Zellweger)	OMIM:614887
+492	0.5195	Velocardiofacial syndrome	OMIM:192430
+492	0.5195	Wilson disease	OMIM:277900
+492	0.5195	Wilson disease	ORPHA:905
+492	0.5195	Noonan syndrome 10	OMIM:616564
+492	0.5195	Alagille syndrome 2	OMIM:610205
+492	0.5195	Corneal dystrophy, punctiform and polychromatic pre-Descemet	OMIM:619871
+492	0.5195	Microphthalmia, syndromic 16	OMIM:611038
+492	0.5195	Van den Ende-Gupta syndrome	OMIM:600920
+492	0.5195	Noonan syndrome 9	OMIM:616559
+503	0.5183	Ring dermoid of cornea	OMIM:180550
+504	0.5177	Farber disease	ORPHA:333
+505	0.5166	Sjogren-Larsson syndrome	OMIM:270200
+505	0.5166	Gorlin-Chaudhry-Moss syndrome	ORPHA:2095
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+507	0.5165	22q11.2 deletion syndrome	ORPHA:567
+516	0.5163	IFAP syndrome with or without BRESHECK syndrome	OMIM:308205
+517	0.5156	Roberts-SC phocomelia syndrome	OMIM:268300
+518	0.5151	Palmoplantar carcinoma, multiple self-healing	OMIM:615225
+519	0.5149	Granular corneal dystrophy type I	ORPHA:98962
+519	0.5149	Gelatinous drop-like corneal dystrophy	ORPHA:98957
+521	0.5141	Stickler syndrome type 2	ORPHA:90654
+521	0.5141	Alpha-mannosidosis, adult form	ORPHA:309288
+521	0.5141	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5	OMIM:613153
+521	0.5141	Erythrokeratodermia variabilis	ORPHA:317
+521	0.5141	Mosaic variegated aneuploidy syndrome	ORPHA:1052
+521	0.5141	Multiple sulfatase deficiency	ORPHA:585
+521	0.5141	Wiedemann-Rautenstrauch syndrome	ORPHA:3455
+521	0.5141	Ocular anomalies-axonal neuropathy-developmental delay syndrome	ORPHA:496790
+521	0.5141	Mosaic variegated aneuploidy syndrome	ORPHA:1052
+521	0.5141	Mosaic variegated aneuploidy syndrome	ORPHA:1052
+521	0.5141	Mosaic variegated aneuploidy syndrome	ORPHA:1052
+521	0.5141	Erythrokeratodermia variabilis	ORPHA:317
+521	0.5141	Erythrokeratodermia variabilis	ORPHA:317
+521	0.5141	Erythrokeratodermia variabilis	ORPHA:317
+521	0.5141	Sialidosis type 1	ORPHA:812
+521	0.5141	Thrombocytopenia-absent radius syndrome	OMIM:274000
+521	0.5141	Mosaic variegated aneuploidy syndrome	ORPHA:1052
+538	0.5139	Alpha-mannosidosis, infantile form	ORPHA:309282
+539	0.5122	Mucopolysaccharidosis type 2, severe form	ORPHA:217085
+539	0.5122	Mucopolysaccharidosis type 2, attenuated form	ORPHA:217093
+541	0.5109	Popliteal pterygium syndrome, Bartsocas-Papas type 1	OMIM:263650
+542	0.5108	Autosomal dominant cutis laxa	ORPHA:90348
+542	0.5108	Harel-Yoon syndrome	OMIM:617183
+542	0.5108	Autosomal dominant cutis laxa	ORPHA:90348
+542	0.5108	Cutis laxa, autosomal dominant 3	OMIM:616603
+542	0.5108	Autosomal dominant cutis laxa	ORPHA:90348
+547	0.5105	Spondyloepiphyseal dysplasia tarda	OMIM:313400
+547	0.5105	Apert syndrome	ORPHA:87
+547	0.5105	Mucopolysaccharidosis IVA	OMIM:253000
+547	0.5105	Mucolipidosis III gamma	OMIM:252605
+547	0.5105	Epithelial recurrent erosion dystrophy	OMIM:122400
+547	0.5105	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 13	OMIM:615287
+547	0.5105	GM1-gangliosidosis, type III	OMIM:230650
+547	0.5105	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+547	0.5105	Apolipoprotein A-I deficiency	ORPHA:425
+547	0.5105	Tangier disease	OMIM:205400
+547	0.5105	Gaucher disease, type IIIC	OMIM:231005
+547	0.5105	Fish-eye disease	OMIM:136120
+547	0.5105	Recessive X-linked ichthyosis	ORPHA:461
+547	0.5105	Ichthyosis, X-linked	OMIM:308100
+547	0.5105	Sjögren-Larsson syndrome	ORPHA:816
+547	0.5105	Apolipoprotein A-I deficiency	ORPHA:425
+547	0.5105	Mucopolysaccharidosis II	OMIM:309900
+547	0.5105	Recessive dystrophic epidermolysis bullosa inversa	ORPHA:79409
+547	0.5105	Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form	ORPHA:79408
+547	0.5105	Kindler syndrome	OMIM:173650
+547	0.5105	Recessive X-linked ichthyosis	ORPHA:461
+547	0.5105	Stuve-Wiedemann syndrome/Schwartz-Jampel type 2 syndrome	OMIM:601559
+547	0.5105	?Visual impairment and progressive phthisis bulbi	OMIM:618283
+547	0.5105	Alpha-N-acetylgalactosaminidase deficiency type 2	ORPHA:79280
+547	0.5105	Diarrhea 3, secretory sodium, congenital, syndromic	OMIM:270420
+547	0.5105	SED, Maroteaux type	OMIM:184095
+547	0.5105	Microphthalmia, isolated 2	OMIM:610093
+574	0.5098	Dysautonomia, familial	OMIM:223900
+575	0.5088	Hereditary sensory and autonomic neuropathy type 4	ORPHA:642
+575	0.5088	Schimke immunoosseous dysplasia	OMIM:242900
+575	0.5088	Neuropathy, hereditary sensory and autonomic, type VIII	OMIM:616488
+578	0.5086	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	OMIM:256810
+579	0.5083	Thiel-Behnke corneal dystrophy	ORPHA:98960
+580	0.5078	Mucolipidosis III alpha/beta	OMIM:252600
+581	0.5059	Optic nerve hypoplasia and abnormalities of the central nervous system	OMIM:206900
+581	0.5059	Yunis-Varon syndrome	OMIM:216340
+581	0.5059	Yunis-Varon syndrome	ORPHA:3472
+581	0.5059	Neurocardiofaciodigital syndrome	OMIM:619869
+581	0.5059	Yunis-Varon syndrome	ORPHA:3472
+586	0.5049	Foveal hypoplasia 2, with or without optic nerve misrouting and/or anterior segment dysgenesis	OMIM:609218
+587	0.5046	Linear skin defects with multiple congenital anomalies 3	OMIM:300952
+588	0.5039	Mucoepithelial dysplasia, hereditary	OMIM:158310
+589	0.5033	Microphthalmia with linear skin defects syndrome	ORPHA:2556
+589	0.5033	Microphthalmia with linear skin defects syndrome	ORPHA:2556
+589	0.5033	Microphthalmia with linear skin defects syndrome	ORPHA:2556
+592	0.5032	Fraser syndrome 1	OMIM:219000
+593	0.5028	Encephalocraniocutaneous lipomatosis	ORPHA:2396
+593	0.5028	Encephalocraniocutaneous lipomatosis	ORPHA:2396
+595	0.5026	Insensitivity to pain, congenital, with anhidrosis	OMIM:256800
+596	0.5025	Anophthalmia/microphthalmia-esophageal atresia syndrome	ORPHA:77298
+597	0.5024	Cystinosis, nephropathic	OMIM:219800
+598	0.502	Cystinosis, ocular nonnephropathic	OMIM:219750
+598	0.502	Cystinosis, late-onset juvenile or adolescent nephropathic	OMIM:219900
+598	0.502	Ocular cystinosis	ORPHA:411641
+598	0.502	Tyrosinemia, type II	OMIM:276600
+598	0.502	Meesmann corneal dystrophy 2	OMIM:618767
+603	0.5006	Glaucoma 3, primary congenital, D	OMIM:613086
+604	0.5004	Familial dysautonomia	ORPHA:1764
+605	0.4993	Spondylometaphyseal dysplasia-cone-rod dystrophy syndrome	ORPHA:85167
+606	0.4989	Encephalocraniocutaneous lipomatosis, somatic mosaic	OMIM:613001
+607	0.4987	Keratitis	OMIM:148190
+607	0.4987	EEC syndrome	ORPHA:1896
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+607	0.4987	Congenital ichthyosiform erythroderma	ORPHA:79394
+618	0.498	Lathosterolosis	OMIM:607330
+618	0.498	Cockayne syndrome, type A	OMIM:216400
+618	0.498	Autoinflammation, antibody deficiency, and immune dysregulation syndrome	OMIM:614878
+618	0.498	Autoimmune polyendocrinopathy type 1	ORPHA:3453
+618	0.498	Pseudo-TORCH syndrome 1	OMIM:251290
+623	0.4962	Loeys-Dietz syndrome 4	OMIM:614816
+624	0.495	Smith-Lemli-Opitz syndrome	ORPHA:818
+625	0.4939	Pitt-Hopkins syndrome	ORPHA:2896
+625	0.4939	Pitt-Hopkins syndrome	OMIM:610954
+625	0.4939	Multiple congenital anomalies-hypotonia-seizures syndrome 4	OMIM:618548
+625	0.4939	Bardet-Biedl syndrome 20	OMIM:619471
+625	0.4939	?Retinal dystrophy and obesity	OMIM:616188
+625	0.4939	Musculocontractural Ehlers-Danlos syndrome	ORPHA:2953
+625	0.4939	Intellectual developmental disorder, autosomal dominant 52	OMIM:617796
+625	0.4939	Baller-Gerold syndrome	OMIM:218600
+625	0.4939	Dysbetalipoproteinemia	ORPHA:412
+625	0.4939	Sitosterolemia 1	OMIM:210250
+625	0.4939	Marbach-Schaaf neurodevelopmental syndrome	OMIM:619680
+625	0.4939	Norum disease	OMIM:245900
+625	0.4939	Congenital disorder of glycosylation, type IIn	OMIM:616721
+625	0.4939	SLC39A8-CDG	ORPHA:468699
+625	0.4939	Multiple synostoses syndrome 1	OMIM:186500
+625	0.4939	Sifrim-Hitz-Weiss syndrome	OMIM:617159
+625	0.4939	Hypercholesterolemia, familial, modifier of	OMIM:143890
+625	0.4939	Hypercholesterolemia, familial, 2	OMIM:144010
+625	0.4939	Stickler syndrome, type VI	OMIM:620022
+625	0.4939	Luo-Schoch-Yamamoto syndrome	OMIM:619460
+625	0.4939	Retinal cone dystrophy 3B	OMIM:610356
+625	0.4939	Dystonia 28, childhood-onset	OMIM:617284
+625	0.4939	Intellectual developmental disorder, autosomal dominant 68	OMIM:619934
+625	0.4939	Intellectual developmental disorder, autosomal dominant 23	OMIM:615761
+625	0.4939	Kury-Isidor syndrome	OMIM:619762
+625	0.4939	Intellectual developmental disorder, autosomal dominant 67	OMIM:619927
+625	0.4939	Hepatic lipase deficiency	OMIM:614025
+625	0.4939	Intellectual developmental disorder, autosomal dominant 54	OMIM:617799
+625	0.4939	Congenital disorder of glycosylation, type IIt	OMIM:618885
+625	0.4939	Cerebellar ataxia, brain abnormalities, and cardiac conduction defects	OMIM:619576
+625	0.4939	Fanconi anemia, complementation group I	OMIM:609053
+625	0.4939	Developmental and epileptic encephalopathy 72	OMIM:618374
+625	0.4939	Hypercholesterolemia, familial, modifier of	OMIM:143890
+625	0.4939	XFE progeroid syndrome	OMIM:610965
+625	0.4939	Xeroderma pigmentosum, type F/Cockayne syndrome	OMIM:278760
+625	0.4939	Coffin-Siris syndrome 1	OMIM:135900
+625	0.4939	Hyperekplexia 2	OMIM:614619
+625	0.4939	Musculocontractural Ehlers-Danlos syndrome	ORPHA:2953
+625	0.4939	Developmental delay, hypotonia, and impaired language	OMIM:620012
+625	0.4939	Low density lipoprotein cholesterol level QTL 1	OMIM:603776
+625	0.4939	Hypercholesterolemia, familial, 3	OMIM:603776
+625	0.4939	Intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome	ORPHA:457279
+625	0.4939	Noonan syndrome-like with loose anagen hair 1	OMIM:607721
+625	0.4939	Genitourinary and/or/brain malformation syndrome	OMIM:618820
+625	0.4939	Pigmentary disorder, reticulate, with systemic manifestations, X-linked	OMIM:301220
+625	0.4939	Bone marrow failure syndrome 3	OMIM:617052
+625	0.4939	LDL cholesterol level QTL2	OMIM:143890
+625	0.4939	Neurodevelopmental disorder with central hypotonia and dysmorphic facies	OMIM:619797
+625	0.4939	Hypercholesterolemia, susceptibility to	OMIM:143890
+625	0.4939	Snijders Blok-Campeau syndrome	OMIM:618205
+625	0.4939	Neurodevelopmental disorder with visual defects and brain anomalies	OMIM:618547
+625	0.4939	Intellectual developmental disorder, autosomal recessive 65	OMIM:618109
+625	0.4939	?Neurodevelopmental disorder with midbrain and hindbrain malformations	OMIM:617523
+625	0.4939	Combined oxidative phosphorylation deficiency 33	OMIM:617713
+625	0.4939	LIG4 syndrome	OMIM:606593
+625	0.4939	Hypotonia, ataxia, and delayed development syndrome	OMIM:617330
+625	0.4939	Pontocerebellar hypoplasia, type 8	OMIM:614961
+625	0.4939	Spastic paraplegia 75, autosomal recessive	OMIM:616680
+625	0.4939	Autosomal recessive spastic paraplegia type 75	ORPHA:459056
+625	0.4939	Intellectual developmental disorder, autosomal dominant 29	OMIM:616078
+625	0.4939	Cone-rod dystrophy, X-linked, 3	OMIM:300476
+625	0.4939	Aland Island eye disease	OMIM:300600
+625	0.4939	Åland Islands eye disease	ORPHA:178333
+625	0.4939	Helsmoortel-van der Aa syndrome	OMIM:615873
+625	0.4939	?Central hypoventilation syndrome, congenital, 2, and autonomic dysfunction	OMIM:619482
+625	0.4939	Malan syndrome	OMIM:614753
+625	0.4939	Spastic paraplegia, intellectual disability, nystagmus, and obesity	OMIM:617296
+625	0.4939	Rahman syndrome	OMIM:617537
+625	0.4939	Developmental and epileptic encephalopathy 66	OMIM:618067
+625	0.4939	Macrocephaly, neurodevelopmental delay, lymphoid hyperplasia, and persistent fetal hemoglobin	OMIM:619769
+625	0.4939	Hypomagnesemia 3, renal	OMIM:248250
+625	0.4939	Congenital disorder of glycosylation, type IIv	OMIM:619493
+625	0.4939	Leukodystrophy, hypomyelinating, 22	OMIM:619328
+625	0.4939	Hypomagnesemia 5, renal, with ocular involvement	OMIM:248190
+625	0.4939	Neurodevelopmental disorder with dysmorphic facies and distal skeletal anomalies	OMIM:618659
+625	0.4939	Intellectual developmental disorder with hypotonia, impaired speech, and dysmorphic facies	OMIM:619556
+625	0.4939	Short stature, brachydactyly, intellectual developmental disability, and seizures	OMIM:617157
+625	0.4939	Cerebellar dysfunction with variable cognitive and behavioral abnormalities	OMIM:614756
+625	0.4939	Trichohepatoneurodevelopmental syndrome	OMIM:618268
+625	0.4939	Macrocephaly/megalencephaly syndrome, autosomal recessive	OMIM:248000
+625	0.4939	Hypotonia, hypoventilation, impaired intellectual development, dysautonomia, epilepsy, and eye abnormalities	OMIM:618493
+625	0.4939	Cerebellar atrophy, visual impairment, and psychomotor retardation	OMIM:616875
+625	0.4939	Global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome	ORPHA:480898
+625	0.4939	Cortical dysplasia, complex, with other brain malformations 12	OMIM:620316
+625	0.4939	Stickler syndrome, type IV	OMIM:614134
+625	0.4939	Neuropathy, hereditary sensory and autonomic, type VI	OMIM:614653
+625	0.4939	Hypercholesterolemia, familial, due to LDLR defect, modifier of	OMIM:143890
+625	0.4939	Intellectual developmental disorder, autosomal dominant 1	OMIM:156200
+625	0.4939	Intellectual developmental disorder with autism and dysmorphic facies	OMIM:620021
+625	0.4939	Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome	ORPHA:369837
+625	0.4939	Short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies	OMIM:619184
+625	0.4939	Histiocytosis-lymphadenopathy plus syndrome	OMIM:602782
+625	0.4939	H syndrome	ORPHA:168569
+625	0.4939	Desanto-Shinawi syndrome	OMIM:616708
+625	0.4939	?Marsili syndrome	OMIM:147430
+720	0.4932	Severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome	ORPHA:363686
+721	0.4931	Uveal coloboma-cleft lip and palate-intellectual disability	ORPHA:1473
+722	0.4926	?Coloboma, ocular	OMIM:120200
+723	0.4924	Lymphedema-distichiasis syndrome	OMIM:153400
+724	0.4923	Axenfeld-Rieger syndrome	ORPHA:782
+724	0.4923	Axenfeld-Rieger syndrome	ORPHA:782
+726	0.492	Congenital erythropoietic porphyria	ORPHA:79277
+726	0.492	Hepatoerythropoietic porphyria	ORPHA:95159
+726	0.492	Congenital erythropoietic porphyria	ORPHA:79277
+729	0.4918	Congenital primary aphakia	ORPHA:83461
+730	0.4916	Abetalipoproteinemia	ORPHA:14
+731	0.4915	Keratitis-ichthyosis-deafness syndrome	OMIM:148210
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+732	0.4913	Zellweger syndrome	ORPHA:912
+745	0.4906	Congenital tufting enteropathy	ORPHA:92050
+745	0.4906	Keratoendothelitis fugax hereditaria	OMIM:148200
+747	0.4904	Neurofacioskeletal syndrome with or without renal agenesis	OMIM:619194
+748	0.4903	Ichthyosis follicularis-alopecia-photophobia syndrome	ORPHA:2273
+749	0.4891	Alport syndrome 2, autosomal recessive	OMIM:203780
+749	0.4891	Alport syndrome 2, autosomal recessive	OMIM:203780
+751	0.4888	Linear skin defects with multiple congenital anomalies 1	OMIM:309801
+752	0.4886	Acrodermatitis enteropathica	ORPHA:37
+752	0.4886	Stevens-Johnson syndrome	ORPHA:36426
+752	0.4886	Stevens-Johnson syndrome	ORPHA:36426
+755	0.4872	Norrie disease	OMIM:310600
+756	0.4867	Galactosialidosis	OMIM:256540
+757	0.4864	Xeroderma pigmentosum, group D	OMIM:278730
+758	0.4863	Autoinflammation with arthritis and dyskeratosis	OMIM:617388
+759	0.4861	Retinitis pigmentosa 75	OMIM:617023
+759	0.4861	Achromatopsia 2	OMIM:216900
+759	0.4861	Neurodevelopmental disorder with or without variable brain abnormalities	OMIM:618443
+759	0.4861	Intellectual developmental disorder, X-linked syndromic, with pigmentary mosaicism and coarse facies	OMIM:301066
+759	0.4861	Gaze palsy, familial horizontal, with progressive scoliosis, 1	OMIM:607313
+759	0.4861	Neurodevelopmental disorder with microcephaly, seizures, and cortical atrophy	OMIM:617802
+759	0.4861	Nystagmus 6, congenital, X-linked	OMIM:300814
+759	0.4861	Cardiac-valvular Ehlers-Danlos syndrome	ORPHA:230851
+759	0.4861	Intellectual disability-obesity-prognathism-eye and skin anomalies syndrome	ORPHA:397973
+768	0.4853	KID syndrome	ORPHA:477
+768	0.4853	KID syndrome	ORPHA:477
+770	0.4846	Peroxisome biogenesis disorder 2A (Zellweger)	OMIM:214110
+770	0.4846	Peroxisome biogenesis disorder 5A (Zellweger)	OMIM:614866
+770	0.4846	Peroxisome biogenesis disorder 1A (Zellweger)	OMIM:214100
+770	0.4846	Galloway-Mowat syndrome 1	OMIM:251300
+774	0.4834	Bardet-Biedl syndrome 1, modifier of	OMIM:209900
+774	0.4834	Bardet-Biedl syndrome 1	OMIM:209900
+774	0.4834	Joubert syndrome 9	OMIM:612285
+774	0.4834	Bardet-Biedl syndrome 1	OMIM:209900
+774	0.4834	Renal tubular acidosis, proximal, with ocular abnormalities	OMIM:604278
+774	0.4834	Hypoalphalipoproteinemia, primary, 2	OMIM:618463
+774	0.4834	Bardet-Biedl syndrome 9	OMIM:615986
+774	0.4834	Cutis laxa, autosomal recessive, type IIIA	OMIM:219150
+774	0.4834	Autosomal recessive Stickler syndrome	ORPHA:250984
+774	0.4834	Autosomal recessive Stickler syndrome	ORPHA:250984
+774	0.4834	Bardet-Biedl syndrome 1, modifier of	OMIM:209900
+774	0.4834	Sotos syndrome	ORPHA:821
+774	0.4834	Sotos syndrome	ORPHA:821
+774	0.4834	Short stature-micrognathia syndrome	OMIM:617164
+774	0.4834	Alzahrani-Kuwahara syndrome	OMIM:619268
+774	0.4834	Intellectual developmental disorder, X-linked 99, syndromic, female-restricted	OMIM:300968
+774	0.4834	X-linked female restricted facial dysmorphism-short stature-choanal atresia-intellectual disability	ORPHA:480880
+774	0.4834	Tall stature-intellectual disability-renal anomalies syndrome	ORPHA:500095
+774	0.4834	Autosomal recessive Stickler syndrome	ORPHA:250984
+774	0.4834	Neurodevelopmental disorder with cataracts, poor growth, and dysmorphic facies	OMIM:618571
+774	0.4834	Developmental delay with variable neurologic and brain abnormalities	OMIM:619694
+774	0.4834	Sotos syndrome	ORPHA:821
+796	0.4829	Axenfeld-Rieger syndrome, type 3	OMIM:602482
+796	0.4829	Lymphedema-distichiasis syndrome	ORPHA:33001
+798	0.4817	Short stature, oligodontia, dysmorphic facies, and motor delay	OMIM:619234
+799	0.4814	Alport syndrome 1, X-linked	OMIM:301050
+800	0.4811	Proteasome-associated autoinflammatory syndrome 1 and digenic forms	OMIM:256040
+801	0.4806	Gabriele-de Vries syndrome	ORPHA:506358
+802	0.4804	Incontinentia pigmenti	ORPHA:464
+803	0.4801	DPAGT1-CDG	ORPHA:86309
+803	0.4801	White-Sutton syndrome	OMIM:616364
+803	0.4801	White-Sutton syndrome	ORPHA:468678
+803	0.4801	Hijazi-Reis syndrome	OMIM:301094
+807	0.48	Oculocerebrorenal syndrome of Lowe	ORPHA:534
+808	0.4799	Focal dermal hypoplasia	ORPHA:2092
+809	0.4798	Norrie disease	ORPHA:649
+810	0.4796	LADD syndrome 1	OMIM:149730
+811	0.4792	Cataract with late-onset corneal dystrophy	OMIM:106210
+812	0.4788	Craniofacial microsomia	OMIM:164210
+812	0.4788	Proteus syndrome, somatic	OMIM:176920
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+814	0.4784	Xeroderma pigmentosum	ORPHA:910
+821	0.477	Classical-like Ehlers-Danlos syndrome type 2	ORPHA:536532
+822	0.4761	Rubinstein-Taybi syndrome due to CREBBP mutations	ORPHA:353277
+822	0.4761	Rubinstein-Taybi syndrome due to EP300 haploinsufficiency	ORPHA:353284
+824	0.474	Porphyria, congenital erythropoietic	OMIM:263700
+825	0.4738	ADNP syndrome	ORPHA:404448
+826	0.4733	Developmental delay, language impairment, and ocular abnormalities	OMIM:620141
+826	0.4733	Ectodermal dysplasia with facial dysmorphism and acral, ocular, and brain anomalies, somatic mosaic	OMIM:618727
+828	0.4728	Toriello-Lacassie-Droste syndrome	ORPHA:3339
+829	0.4727	Anterior segment dysgenesis 8	OMIM:617319
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Fanconi anemia	ORPHA:84
+830	0.4718	Lowe syndrome	OMIM:309000
+853	0.4714	Khan-Khan-Katsanis syndrome	OMIM:618460
+854	0.4697	Anterior segment dysgenesis 3, multiple subtypes	OMIM:601631
+855	0.4696	Mowat-Wilson syndrome due to monosomy 2q22	ORPHA:261537
+855	0.4696	Pseudohypoparathyroidism type 1A	ORPHA:79443
+855	0.4696	Epidermolysis bullosa dystrophica, autosomal recessive, modifier of	OMIM:226600
+855	0.4696	Epidermolysis bullosa dystrophica inversa	OMIM:226600
+859	0.4695	Usher syndrome type 3	ORPHA:231183
+859	0.4695	Usher syndrome type 3	ORPHA:231183
+859	0.4695	Usher syndrome type 3	ORPHA:231183
+859	0.4695	Usher syndrome type 3	ORPHA:231183
+863	0.4694	Facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to 10p11.21p12.31 microdeletion	ORPHA:284169
+864	0.4682	Sveinsson chorioretinal atrophy	OMIM:108985
+865	0.4674	Arboleda-Tham syndrome	OMIM:616268
+866	0.4663	?Craniofacial anomalies and anterior segment dysgenesis syndrome	OMIM:614195
+867	0.4613	Marfan syndrome	OMIM:154700
+868	0.4612	Congenital ptosis	ORPHA:91411
+868	0.4612	Congenital ptosis	ORPHA:91411
+870	0.4606	Albinism, oculocutaneous, type IA	OMIM:203100
+871	0.4602	RERE-related neurodevelopmental syndrome	ORPHA:494344
+872	0.4598	Weill-Marchesani syndrome 2, dominant	OMIM:608328
+873	0.4595	Hermansky-Pudlak syndrome 8	OMIM:614077
+874	0.4555	X-linked recessive ocular albinism	ORPHA:54
+874	0.4555	X-linked recessive ocular albinism	ORPHA:54
+876	0.4541	Proteus-like syndrome	ORPHA:2969
+877	0.4538	Bietti crystalline dystrophy	ORPHA:41751
+878	0.453	Optic disc anomalies with retinal and/or macular dystrophy	OMIM:212550
+879	0.4523	Hereditary angioedema type 1	ORPHA:100050
+880	0.4509	Knobloch syndrome, type 1	OMIM:267750
+881	0.4501	Townes-Brocks syndrome	ORPHA:857
+881	0.4501	Townes-Brocks syndrome	ORPHA:857
+883	0.4472	Blau syndrome	OMIM:186580
+884	0.4295	Dermatopathia pigmentosa reticularis	OMIM:125595
+884	0.4295	White sponge nevus 1	OMIM:193900
+886	0.4228	Heme oxygenase-1 deficiency	OMIM:614034
+886	0.4228	Epidermolysis bullosa, junctional 2C, laryngoonychocutaneous	OMIM:245660
+886	0.4228	Paroxysmal nocturnal hemoglobinuria	ORPHA:447
+886	0.4228	Tumoral calcinosis, hyperphosphatemic, familial, 1	OMIM:211900
+886	0.4228	Fumarase deficiency	OMIM:606812
+886	0.4228	Rotor syndrome	ORPHA:3111
+886	0.4228	Caroli disease	ORPHA:53035
+886	0.4228	Rotor syndrome	ORPHA:3111
+886	0.4228	Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema	OMIM:194380
+895	0.42	Johanson-Blizzard syndrome	OMIM:243800
+896	0.4161	Temtamy preaxial brachydactyly syndrome	ORPHA:363417
+897	0.4149	Hyper-IgE recurrent infection syndrome 4B, autosomal recessive	OMIM:618523
+897	0.4149	Xeroderma pigmentosum variant	ORPHA:90342
+897	0.4149	Leukocyte adhesion deficiency type II	ORPHA:99843
+897	0.4149	Cold-induced sweating syndrome 1	OMIM:272430
+901	0.4146	Traboulsi syndrome	OMIM:601552
+902	0.4145	Epidermolysis bullosa simplex 5B, with muscular dystrophy	OMIM:226670
+903	0.4126	X-linked Alport syndrome-diffuse leiomyomatosis	ORPHA:1018
+903	0.4126	X-linked Alport syndrome-diffuse leiomyomatosis	ORPHA:1018
+905	0.4116	Deafness-enamel hypoplasia-nail defects syndrome	ORPHA:3220
+905	0.4116	Branchiootic syndrome	ORPHA:52429
+905	0.4116	Lenz-Majewski hyperostotic dwarfism	ORPHA:2658
+905	0.4116	Blepharophimosis-intellectual disability syndrome, SBBYS type	ORPHA:3047
+905	0.4116	Deafness-enamel hypoplasia-nail defects syndrome	ORPHA:3220
+905	0.4116	Branchiootic syndrome	ORPHA:52429
+911	0.4115	Sarcoidosis	ORPHA:797
+911	0.4115	Sarcoidosis	ORPHA:797
+913	0.4103	Hystrix-like ichthyosis with deafness	OMIM:602540
+914	0.4089	Exfoliation syndrome, susceptibility to	OMIM:177650
+914	0.4089	Ichthyosis, follicular, with atrichia and photophobia syndrome 2	OMIM:619016
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Leber congenital amaurosis 16	OMIM:614186
+916	0.4087	Full schwannomatosis	ORPHA:93921
+916	0.4087	Neuropathy, hereditary sensory and autonomic, type IA	OMIM:162400
+916	0.4087	Morning glory disc anomaly	ORPHA:35737
+916	0.4087	Foveal hypoplasia-presenile cataract syndrome	ORPHA:2253
+916	0.4087	Stickler syndrome, type II	OMIM:604841
+916	0.4087	Zimmermann-Laband syndrome	ORPHA:3473
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Neurodegeneration, childhood-onset, with multisystem involvement due to mitochondrial dysfunction	OMIM:620089
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 14	OMIM:615352
+916	0.4087	GMPPB-related limb-girdle muscular dystrophy R19	ORPHA:363623
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 14	OMIM:615350
+916	0.4087	Muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type B, 14	OMIM:615351
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 12	OMIM:615249
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Spondyloepiphyseal dysplasia, sensorineural hearing loss, intellectual developmental disorder, and Leber congenital amaurosis	OMIM:619260
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Retinitis pigmentosa 64	OMIM:614500
+916	0.4087	Retinitis pigmentosa 84	OMIM:618220
+916	0.4087	Short-rib thoracic dysplasia 9 with or without polydactyly	OMIM:266920
+916	0.4087	Retinitis pigmentosa-40	OMIM:613801
+916	0.4087	Retinitis pigmentosa 4, autosomal dominant or recessive	OMIM:613731
+916	0.4087	?Retinitis pigmentosa 9	OMIM:180104
+916	0.4087	COFS syndrome	ORPHA:1466
+916	0.4087	X-linked intellectual disability, Stocco Dos Santos type	ORPHA:85288
+916	0.4087	Mandibuloacral dysplasia with type A lipodystrophy	ORPHA:90153
+916	0.4087	Myopathy, myofibrillar, 2	OMIM:608810
+916	0.4087	Cardiomyopathy, dilated, 1II	OMIM:615184
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	?Peroxisome biogenesis disorder 10B	OMIM:617370
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Peroxisome biogenesis disorder 10A (Zellweger)	OMIM:614882
+916	0.4087	Full schwannomatosis	ORPHA:93921
+916	0.4087	Chondrodysplasia punctata, X-linked dominant	OMIM:302960
+916	0.4087	MEND syndrome	ORPHA:401973
+916	0.4087	Wilson-Turner syndrome	ORPHA:3459
+916	0.4087	Dyssegmental dysplasia, Silverman-Handmaker type	OMIM:224410
+916	0.4087	Cataract-intellectual disability-hypogonadism syndrome	ORPHA:1387
+916	0.4087	Cataract-intellectual disability-hypogonadism syndrome	ORPHA:1387
+916	0.4087	Autosomal dominant optic atrophy, classic form	ORPHA:98673
+916	0.4087	Scalp-ear-nipple syndrome	ORPHA:2036
+916	0.4087	Mitochondrial DNA depletion syndrome 12B (cardiomyopathic type) AR	OMIM:615418
+916	0.4087	Autosomal dominant progressive external ophthalmoplegia	ORPHA:254892
+916	0.4087	Triokinase and FMN cyclase deficiency syndrome	OMIM:618805
+916	0.4087	Stiff skin syndrome	OMIM:184900
+916	0.4087	Dubowitz syndrome	ORPHA:235
+916	0.4087	?Tetra-amelia syndrome 1	OMIM:273395
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Tietz syndrome	ORPHA:42665
+916	0.4087	COFS syndrome	ORPHA:1466
+916	0.4087	COFS syndrome	ORPHA:1466
+916	0.4087	Dystonia-deafness syndrome 1	OMIM:607371
+916	0.4087	Developmental malformations-deafness-dystonia syndrome	ORPHA:79107
+916	0.4087	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 11	OMIM:615181
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 4	OMIM:253800
+916	0.4087	Congenital muscular dystrophy, Fukuyama type	ORPHA:272
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Muscle-eye-brain disease	ORPHA:588
+916	0.4087	Xeroderma pigmentosum, group B	OMIM:610651
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Autosomal recessive palmoplantar keratoderma and congenital alopecia	ORPHA:1366
+916	0.4087	CADDS	ORPHA:369942
+916	0.4087	Pseudopseudohypoparathyroidism	OMIM:612463
+916	0.4087	Pseudohypoparathyroidism Ia	OMIM:103580
+916	0.4087	Pseudohypoparathyroidism Ic	OMIM:612462
+916	0.4087	Peroxisome biogenesis disorder 9B	OMIM:614879
+916	0.4087	?Intestinal dysmotility syndrome	OMIM:620045
+916	0.4087	Mosaic variegated aneuploidy syndrome 1	OMIM:257300
+916	0.4087	Cataract 36	OMIM:613887
+916	0.4087	Otopalatodigital syndrome, type II	OMIM:304120
+916	0.4087	3MC syndrome	ORPHA:293843
+916	0.4087	Spondylocarpotarsal synostosis syndrome	OMIM:272460
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Neurodevelopmental disorder with neuromuscular and skeletal abnormalities	OMIM:619833
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Mitochondrial complex III deficiency, nuclear type 1	OMIM:124000
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Wiedemann-Rautenstrauch syndrome	OMIM:264090
+916	0.4087	Blomstrand lethal chondrodysplasia	ORPHA:50945
+916	0.4087	Autosomal recessive cutis laxa type 1	ORPHA:90349
+916	0.4087	Full schwannomatosis	ORPHA:93921
+916	0.4087	PMM2-CDG	ORPHA:79318
+916	0.4087	Cardiofaciocutaneous syndrome 4	OMIM:615280
+916	0.4087	Cortical dysplasia, complex, with other brain malformations 4	OMIM:615412
+916	0.4087	Roberts syndrome	ORPHA:3103
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Short-rib thoracic dysplasia 5 with or without polydactyly	OMIM:614376
+916	0.4087	?Retinal dystrophy, juvenile cataracts, and short stature syndrome	OMIM:616108
+916	0.4087	Sialidosis, type II	OMIM:256550
+916	0.4087	Neu-Laxova syndrome 1	OMIM:256520
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Peroxisome biogenesis disorder 11B	OMIM:614885
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Peroxisome biogenesis disorder 8A (Zellweger)	OMIM:614876
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Peroxisome biogenesis disorder 8B	OMIM:614877
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Saul-Wilson syndrome	OMIM:618150
+916	0.4087	Microcephalic osteodysplastic dysplasia, Saul-Wilson type	ORPHA:85172
+916	0.4087	Peroxisome biogenesis disorder 7A (Zellweger)	OMIM:614872
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	?Bardet-Biedl syndrome 18	OMIM:615995
+916	0.4087	ALDH18A1-related De Barsy syndrome	ORPHA:35664
+916	0.4087	Spastic paraplegia 9B, autosomal recessive	OMIM:616586
+916	0.4087	Spastic paraplegia 9A, autosomal dominant	OMIM:601162
+916	0.4087	Autosomal recessive cutis laxa type 1	ORPHA:90349
+916	0.4087	Smith-Lemli-Opitz syndrome	OMIM:270400
+916	0.4087	Alpha-N-acetylgalactosaminidase deficiency type 3	ORPHA:79281
+916	0.4087	Metatropic dysplasia	ORPHA:2635
+916	0.4087	Hypoparathyroidism, familial isolated 1	OMIM:146200
+916	0.4087	Lysyl hydroxylase 3 deficiency	OMIM:612394
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Autosomal recessive spastic paraplegia type 26	ORPHA:101006
+916	0.4087	Werner syndrome	OMIM:277700
+916	0.4087	Werner syndrome	ORPHA:902
+916	0.4087	Dysequilibrium syndrome	ORPHA:1766
+916	0.4087	Brachytelephalangic chondrodysplasia punctata	ORPHA:79345
+916	0.4087	Chondrodysplasia punctata, X-linked recessive	OMIM:302950
+916	0.4087	?Stickler syndrome, type V	OMIM:614284
+916	0.4087	X-linked retinoschisis	ORPHA:792
+916	0.4087	Marinesco-Sjögren syndrome	ORPHA:559
+916	0.4087	Muscular dystrophy, congenital, with cataracts and intellectual disability	OMIM:617404
+916	0.4087	Aspartylglucosaminuria	OMIM:208400
+916	0.4087	Myhre syndrome	ORPHA:2588
+916	0.4087	Myhre syndrome	OMIM:139210
+916	0.4087	Cohen-Gibson syndrome	OMIM:617561
+916	0.4087	Autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome	ORPHA:314404
+916	0.4087	Neurodevelopmental disorder with spasticity, cataracts, and cerebellar hypoplasia	OMIM:619286
+916	0.4087	Developmental and epileptic encephalopathy 73	OMIM:618379
+916	0.4087	RNF13-related severe early-onset epileptic encephalopathy	ORPHA:544503
+916	0.4087	Cerebrotendinous xanthomatosis	OMIM:213700
+916	0.4087	Lissencephaly 5	OMIM:615191
+916	0.4087	Cenani-Lenz syndrome	ORPHA:3258
+916	0.4087	Combined oxidative phosphorylation deficiency 13	OMIM:614932
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	ORPHA:52430
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Hereditary leiomyomatosis and renal cell cancer	ORPHA:523
+916	0.4087	Alkuraya-Kucinskas syndrome	OMIM:617822
+916	0.4087	MEDNIK syndrome	OMIM:609313
+916	0.4087	3-methylglutaconic aciduria, type VIII	OMIM:617248
+916	0.4087	Autosomal dominant optic atrophy, classic form	ORPHA:98673
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Coffin-Lowry syndrome	ORPHA:192
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	COFS syndrome	ORPHA:1466
+916	0.4087	Xeroderma pigmentosum, group G	OMIM:278780
+916	0.4087	COFS syndrome	ORPHA:1466
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Neu-Laxova syndrome 2	OMIM:616038
+916	0.4087	Autosomal recessive cutis laxa type 1	ORPHA:90349
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Trichomegaly	OMIM:190330
+916	0.4087	Cowden syndrome 1	OMIM:158350
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Ramon syndrome	ORPHA:3019
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Congenital disorder of glycosylation, type Ij	OMIM:608093
+916	0.4087	Baralle-Macken syndrome	OMIM:619255
+916	0.4087	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	ORPHA:52430
+916	0.4087	ALG3-CDG	ORPHA:79321
+916	0.4087	Spastic paraplegia 5A, autosomal recessive	OMIM:270800
+916	0.4087	Autosomal recessive spastic paraplegia type 5A	ORPHA:100986
+916	0.4087	Hemorrhagic destruction of the brain, subependymal calcification, and cataracts	OMIM:613730
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Neurodegeneration with developmental delay, early respiratory failure, myoclonic seizures, and brain abnormalities	OMIM:620327
+916	0.4087	Neutropenia, severe congenital, 9, autosomal dominant	OMIM:619813
+916	0.4087	3-methylglutaconic aciduria type 7	ORPHA:445038
+916	0.4087	CPT II deficiency, lethal neonatal	OMIM:608836
+916	0.4087	Achromatopsia 3	OMIM:262300
+916	0.4087	Glycogen storage disease of heart, lethal congenital	OMIM:261740
+916	0.4087	Pontocerebellar hypoplasia, type 16	OMIM:619527
+916	0.4087	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	ORPHA:52430
+916	0.4087	Galactosemia	OMIM:230400
+916	0.4087	Classic galactosemia	ORPHA:79239
+916	0.4087	Cutis laxa, autosomal recessive, type IID	OMIM:617403
+916	0.4087	DOORS syndrome	ORPHA:79500
+916	0.4087	Zimmermann-Laband syndrome	ORPHA:3473
+916	0.4087	Hereditary fructose intolerance	ORPHA:469
+916	0.4087	Zimmermann-Laband syndrome 1	OMIM:135500
+916	0.4087	Zimmermann-Laband syndrome	ORPHA:3473
+916	0.4087	Galactose mutarotase deficiency	ORPHA:570422
+916	0.4087	Galactosemia IV	OMIM:618881
+916	0.4087	Nevus comedonicus syndrome	ORPHA:64754
+916	0.4087	Mental retardation, truncal obesity, retinal dystrophy, and micropenis	OMIM:610156
+916	0.4087	MORM syndrome	ORPHA:75858
+916	0.4087	Spastic paraplegia 46, autosomal recessive	OMIM:614409
+916	0.4087	Autosomal recessive spastic paraplegia type 46	ORPHA:320391
+916	0.4087	SRD5A3-CDG	ORPHA:324737
+916	0.4087	Congenital disorder of glycosylation, type Iq	OMIM:612379
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Mevalonic aciduria	ORPHA:29
+916	0.4087	Methylmalonate semialdehyde dehydrogenase deficiency	OMIM:614105
+916	0.4087	Muscular dystrophy, limb-girdle, autosomal dominant 3	OMIM:609115
+916	0.4087	Myotonic dystrophy 1	OMIM:160900
+916	0.4087	Hemolytic anemia due to glutathione reductase deficiency	OMIM:618660
+916	0.4087	Autosomal dominant Charcot-Marie-Tooth disease type 2Z	ORPHA:466768
+916	0.4087	Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities	OMIM:617913
+916	0.4087	ALG8-CDG	ORPHA:79325
+916	0.4087	Monilethrix	ORPHA:573
+916	0.4087	Dubowitz syndrome	ORPHA:235
+916	0.4087	Combined oxidative phosphorylation deficiency 31	OMIM:617228
+916	0.4087	Galactokinase deficiency with cataracts	OMIM:230200
+916	0.4087	Leukoencephalopathy with vanishing white matter 2, with or without ovarian failure	OMIM:620312
+916	0.4087	?Spinocerebellar ataxia, autosomal recessive 24	OMIM:617133
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency	ORPHA:329314
+916	0.4087	Zimmermann-Laband syndrome	ORPHA:3473
+916	0.4087	Floating-Harbor syndrome	ORPHA:2044
+916	0.4087	Cerebellar hypoplasia, impaired intellectual development, and dysequilibrium syndrome 1	OMIM:224050
+916	0.4087	Dysequilibrium syndrome	ORPHA:1766
+916	0.4087	Otospondylomegaepiphyseal dysplasia	ORPHA:1427
+916	0.4087	CADDS	ORPHA:369942
+916	0.4087	Rod-cone dystrophy, sensorineural deafness, and Fanconi-type renal dysfunction	OMIM:268315
+916	0.4087	Autosomal dominant progressive external ophthalmoplegia	ORPHA:254892
+916	0.4087	Short stature, microcephaly, and endocrine dysfunction	OMIM:616541
+916	0.4087	Wilson-Turner syndrome	ORPHA:3459
+916	0.4087	Neonatal intrahepatic cholestasis due to citrin deficiency	ORPHA:247598
+916	0.4087	Primordial dwarfism-immunodeficiency-lipodystrophy syndrome	OMIM:620005
+916	0.4087	?Spondyloepiphyseal dysplasia, Kondo-Fu type	OMIM:618392
+916	0.4087	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome	ORPHA:444077
+916	0.4087	CHOPS syndrome	OMIM:616368
+916	0.4087	Cenani-Lenz syndrome	ORPHA:3258
+916	0.4087	Autosomal dominant progressive external ophthalmoplegia	ORPHA:254892
+916	0.4087	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 3	OMIM:609286
+916	0.4087	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	ORPHA:70595
+916	0.4087	Harlequin ichthyosis	ORPHA:457
+916	0.4087	DOORS syndrome	ORPHA:79500
+916	0.4087	DOORS syndrome	OMIM:220500
+916	0.4087	CODAS syndrome	ORPHA:1458
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	?Combined oxidative phosphorylation deficiency 47	OMIM:618958
+916	0.4087	Hemochromatosis, type 4	OMIM:606069
+916	0.4087	Isolated ATP synthase deficiency	ORPHA:254913
+916	0.4087	Marinesco-Sjögren syndrome	ORPHA:559
+916	0.4087	Osteopathia striata-cranial sclerosis syndrome	ORPHA:2780
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Optic atrophy 3 with cataract	OMIM:165300
+916	0.4087	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	OMIM:300990
+916	0.4087	Frontonasal dysplasia 1	OMIM:136760
+916	0.4087	Autosomal dominant progressive external ophthalmoplegia	ORPHA:254892
+916	0.4087	Mitochondrial recessive ataxia syndrome (includes SANDO and SCAE)	OMIM:607459
+916	0.4087	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	ORPHA:70595
+916	0.4087	Progressive external ophthalmoplegia, autosomal dominant 1	OMIM:157640
+916	0.4087	Mitochondrial DNA depletion syndrome 20 (MNGIE type)	OMIM:619780
+916	0.4087	Proximal myotonic myopathy	ORPHA:606
+916	0.4087	Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination	OMIM:617393
+916	0.4087	Dysequilibrium syndrome	ORPHA:1766
+916	0.4087	Lissencephaly 8	OMIM:617255
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Intellectual disability-cataracts-calcified pinnae-myopathy syndrome	ORPHA:3042
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Monilethrix	ORPHA:573
+916	0.4087	Wolfram syndrome 1	OMIM:222300
+916	0.4087	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	OMIM:615471
+916	0.4087	Autosomal dominant progressive external ophthalmoplegia	ORPHA:254892
+916	0.4087	Peroxisomal fatty acyl-CoA reductase 1 disorder	OMIM:616154
+916	0.4087	Cataracts, spastic paraparesis, and speech delay	OMIM:619338
+916	0.4087	Mitochondrial complex V (ATP synthase) deficiency, nuclear type 2	OMIM:614052
+916	0.4087	Microcephaly 10, primary, autosomal recessive	OMIM:615095
+916	0.4087	Dysequilibrium syndrome	ORPHA:1766
+916	0.4087	Adams-Oliver syndrome	ORPHA:974
+916	0.4087	Dysequilibrium syndrome	ORPHA:1766
+916	0.4087	Intellectual developmental disorder, X-linked syndromic, Armfield type	OMIM:300261
+916	0.4087	Monilethrix	ORPHA:573
+916	0.4087	Monilethrix	ORPHA:573
+916	0.4087	Jaberi-Elahi syndrome	OMIM:617988
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy, 2	OMIM:618321
+916	0.4087	Borjeson-Forssman-Lehmann syndrome	ORPHA:127
+916	0.4087	Myopia 28, autosomal recessive	OMIM:619781
+916	0.4087	Myopathy, distal, 7, adult-onset, X-linked	OMIM:301075
+916	0.4087	Dentici-Novelli neurodevelopmental syndrome	OMIM:619877
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	?Leukodystrophy, hypomyelinating, 24	OMIM:619851
+916	0.4087	Frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome	ORPHA:306542
+916	0.4087	Neonatal adrenoleukodystrophy	ORPHA:44
+916	0.4087	Infantile Refsum disease	ORPHA:772
+916	0.4087	Spondyloperipheral dysplasia-short ulna syndrome	ORPHA:1856
+916	0.4087	Stickler syndrome, type I	OMIM:108300
+916	0.4087	?Epiphyseal dysplasia, multiple, with myopia and deafness	OMIM:132450
+916	0.4087	Stickler syndrome type 1	ORPHA:90653
+916	0.4087	Multiple epiphyseal dysplasia, Beighton type	ORPHA:166011
+916	0.4087	Kniest dysplasia	OMIM:156550
+916	0.4087	Rabin-Pappas syndrome	OMIM:620155
+916	0.4087	Intellectual developmental disorder, autosomal dominant 70	OMIM:620157
+916	0.4087	Cowden syndrome 6	OMIM:615109
+916	0.4087	Rubinstein-Taybi syndrome due to 16p13.3 microdeletion	ORPHA:353281
+916	0.4087	Menke-Hennekam syndrome 1	OMIM:618332
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Alpha-methylacyl-CoA racemase deficiency	OMIM:614307
+916	0.4087	Congenital bile acid synthesis defect type 4	ORPHA:79095
+916	0.4087	Moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome	ORPHA:280679
+916	0.4087	Cerebellofaciodental syndrome	OMIM:616202
+916	0.4087	Cerebellar-facial-dental syndrome	ORPHA:444072
+916	0.4087	CLN3 disease	ORPHA:228346
+916	0.4087	Ceroid lipofuscinosis, neuronal, 3	OMIM:204200
+916	0.4087	3MC syndrome	ORPHA:293843
+916	0.4087	Short rib-polydactyly syndrome, Verma-Naumoff type	ORPHA:93271
+916	0.4087	Vici syndrome	ORPHA:1493
+916	0.4087	Poikiloderma, hereditary fibrosing, with tendon contractures, myopathy, and pulmonary fibrosis	OMIM:615704
+916	0.4087	Ataxia, posterior column, with retinitis pigmentosa	OMIM:609033
+916	0.4087	Posterior column ataxia-retinitis pigmentosa syndrome	ORPHA:88628
+916	0.4087	Hereditary hyperferritinemia-cataract syndrome	ORPHA:163
+916	0.4087	Even-plus syndrome	OMIM:616854
+916	0.4087	Developmental and epileptic encephalopathy 35	OMIM:616647
+916	0.4087	3MC syndrome	ORPHA:293843
+916	0.4087	Microphthalmia, isolated 5	OMIM:611040
+916	0.4087	Carey-Fineman-Ziter syndrome	OMIM:254940
+916	0.4087	Full schwannomatosis	ORPHA:93921
+916	0.4087	Senior-Loken syndrome	ORPHA:3156
+916	0.4087	Cowden syndrome 5	OMIM:615108
+916	0.4087	Renpenning syndrome	OMIM:309500
+916	0.4087	PRUNE1-related neurological syndrome	ORPHA:544469
+916	0.4087	Neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies	OMIM:617481
+916	0.4087	Neurodevelopmental disorder with hypotonia, neonatal respiratory insufficiency, and thermodysregulation	OMIM:618797
+916	0.4087	Dyskeratosis congenita	ORPHA:1775
+916	0.4087	Atelis syndrome 1	OMIM:620184
+916	0.4087	TRAPPC11-related limb-girdle muscular dystrophy R18	ORPHA:369840
+916	0.4087	Muscular dystrophy, limb-girdle, autosomal recessive 18	OMIM:615356
+1269	0.4081	3-methylglutaconic aciduria, type VIIB, autosomal recessive	OMIM:616271
+1269	0.4081	Rhizomelic chondrodysplasia punctata, type 2	OMIM:222765
+1269	0.4081	Hereditary cryohydrocytosis with reduced stomatin	ORPHA:168577
+1269	0.4081	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	OMIM:612674
+1273	0.4077	Bosma arhinia microphthalmia syndrome	OMIM:603457
+1273	0.4077	Rubinstein-Taybi syndrome 1	OMIM:180849
+1275	0.4072	Weill-Marchesani syndrome	ORPHA:3449
+1275	0.4072	Marshall syndrome	ORPHA:560
+1275	0.4072	Juvenile glaucoma	ORPHA:98977
+1275	0.4072	Weill-Marchesani syndrome	ORPHA:3449
+1275	0.4072	MEND syndrome	OMIM:300960
+1275	0.4072	Weill-Marchesani syndrome	ORPHA:3449
+1275	0.4072	Knobloch syndrome	ORPHA:1571
+1275	0.4072	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 7	OMIM:614643
+1275	0.4072	Ruijs-Aalfs syndrome	OMIM:616200
+1275	0.4072	Classic homocystinuria	ORPHA:394
+1275	0.4072	Knobloch syndrome	ORPHA:1571
+1275	0.4072	Spondyloocular syndrome	OMIM:605822
+1275	0.4072	Alström syndrome	ORPHA:64
+1275	0.4072	Juvenile glaucoma	ORPHA:98977
+1275	0.4072	Juvenile glaucoma	ORPHA:98977
+1275	0.4072	Mevalonic aciduria	OMIM:610377
+1275	0.4072	Galactokinase deficiency	ORPHA:79237
+1275	0.4072	Stomatin-deficient cryohydrocytosis with neurologic defects	OMIM:608885
+1275	0.4072	Loeys-Dietz syndrome 3	OMIM:613795
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1294	0.407	Cowden syndrome	ORPHA:201
+1303	0.4064	Marshall syndrome	OMIM:154780
+1303	0.4064	Osteoporosis-pseudoglioma syndrome	OMIM:259770
+1303	0.4064	Myopia, high, with cataract and vitreoretinal degeneration	OMIM:614292
+1303	0.4064	Achondrogenesis type 2	ORPHA:93296
+1307	0.4061	Saethre-Chotzen syndrome	OMIM:101400
+1307	0.4061	Saethre-Chotzen syndrome with or without eyelid anomalies	OMIM:101400
+1309	0.4058	Adult-onset autosomal recessive cerebellar ataxia	ORPHA:284289
+1310	0.4056	Cataract 11, multiple types	OMIM:610623
+1310	0.4056	?Cerebrooculofacioskeletal syndrome 2	OMIM:610756
+1310	0.4056	?Cataract 42	OMIM:115900
+1310	0.4056	Cutis laxa, autosomal recessive, type IIIB	OMIM:614438
+1310	0.4056	Martsolf syndrome 2	OMIM:619420
+1310	0.4056	Martsolf syndrome 1	OMIM:212720
+1310	0.4056	Sengers syndrome	OMIM:212350
+1310	0.4056	Lipodystrophy, familial partial, type 7	OMIM:606721
+1310	0.4056	Duane-radial ray syndrome	OMIM:607323
+1310	0.4056	Trichothiodystrophy 3, photosensitive	OMIM:616395
+1310	0.4056	Treacher-Collins syndrome	ORPHA:861
+1310	0.4056	Monosomy 13q14	ORPHA:1587
+1310	0.4056	CHARGE syndrome	OMIM:214800
+1310	0.4056	Otopalatodigital syndrome type 2	ORPHA:90652
+1310	0.4056	Hajdu-Cheney syndrome	ORPHA:955
+1310	0.4056	Woolly hair	ORPHA:170
+1310	0.4056	Microphthalmia with coloboma 3	OMIM:610092
+1310	0.4056	Treacher-Collins syndrome	ORPHA:861
+1310	0.4056	Basal cell nevus syndrome 1	OMIM:109400
+1310	0.4056	Gorlin syndrome	ORPHA:377
+1310	0.4056	Gorlin syndrome	ORPHA:377
+1310	0.4056	Woolly hair	ORPHA:170
+1310	0.4056	Treacher-Collins syndrome	ORPHA:861
+1310	0.4056	Congenital disorder of glycosylation, type Ii	OMIM:607906
+1310	0.4056	ALG2-CDG	ORPHA:79326
+1310	0.4056	Woolly hair	ORPHA:170
+1310	0.4056	Gorlin syndrome	ORPHA:377
+1310	0.4056	Kahrizi syndrome	OMIM:612713
+1310	0.4056	Laurence-Moon syndrome	ORPHA:2377
+1310	0.4056	Woolly hair	ORPHA:170
+1310	0.4056	CODAS syndrome	OMIM:600373
+1310	0.4056	Myopathy, mitochondrial progressive, with congenital cataract and developmental delay	OMIM:613076
+1310	0.4056	Frontorhiny	ORPHA:391474
+1310	0.4056	Treacher-Collins syndrome	ORPHA:861
+1310	0.4056	Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome	ORPHA:2250
+1310	0.4056	Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome	ORPHA:436174
+1310	0.4056	Woolly hair	ORPHA:170
+1347	0.4054	Branchiooculofacial syndrome	OMIM:113620
+1348	0.4053	Weill-Marchesani 4 syndrome, recessive	OMIM:613195
+1349	0.4051	Peters-plus syndrome	OMIM:261540
+1350	0.4049	Crouzon syndrome	OMIM:123500
+1350	0.4049	Xeroderma pigmentosum, group A	OMIM:278700
+1350	0.4049	?De Sanctis-Cacchione syndrome	OMIM:278800
+1350	0.4049	?De Sanctis-Cacchione syndrome	OMIM:278800
+1350	0.4049	BOR syndrome	ORPHA:107
+1350	0.4049	?Cataract 50 with or without glaucoma	OMIM:620253
+1350	0.4049	BOR syndrome	ORPHA:107
+1350	0.4049	Xeroderma pigmentosum, group C	OMIM:278720
+1350	0.4049	Xeroderma pigmentosum, variant type	OMIM:278750
+1350	0.4049	Xeroderma pigmentosum, group E, DDB-negative subtype	OMIM:278740
+1350	0.4049	BOR syndrome	ORPHA:107
+1350	0.4049	Wiskott-Aldrich syndrome	ORPHA:906
+1350	0.4049	Wiskott-Aldrich syndrome	ORPHA:906
+1350	0.4049	Isolated osteopoikilosis	ORPHA:166119
+1350	0.4049	SATB2-associated syndrome due to a chromosomal rearrangement	ORPHA:251028
+1350	0.4049	Short stature-brachydactyly-obesity-global developmental delay syndrome	ORPHA:464288
+1366	0.4044	?Coloboma, ocular, autosomal recessive	OMIM:216820
+1367	0.4041	Neurodevelopmental disorder with cardiomyopathy, spasticity, and brain abnormalities	OMIM:619121
+1367	0.4041	Classic progressive supranuclear palsy syndrome	ORPHA:240071
+1367	0.4041	Usmani-Riazuddin syndrome, autosomal recessive	OMIM:619548
+1370	0.4039	Isolated ectopia lentis	ORPHA:1885
+1370	0.4039	Isolated ectopia lentis	ORPHA:1885
+1372	0.4038	Autosomal dominant optic atrophy and cataract	ORPHA:67036
+1372	0.4038	Kniest dysplasia	ORPHA:485
+1374	0.4037	Coats disease	ORPHA:190
+1375	0.4035	Muscle-eye-brain disease with bilateral multicystic leucodystrophy	ORPHA:370997
+1375	0.4035	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 9	OMIM:616538
+1375	0.4035	Incontinentia pigmenti	OMIM:308300
+1378	0.4034	Weill-Marchesani syndrome 1, recessive	OMIM:277600
+1379	0.4032	Witteveen-Kolk syndrome	OMIM:613406
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	OMIM:616007
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1380	0.4025	Behçet disease	ORPHA:117
+1394	0.4022	WAGR syndrome	ORPHA:893
+1394	0.4022	Cerebrooculofacioskeletal syndrome 1	OMIM:214150
+1394	0.4022	Cerebrooculofacioskeletal syndrome 1	OMIM:214150
+1394	0.4022	Refsum disease	ORPHA:773
+1394	0.4022	WAGR syndrome	ORPHA:893
+1394	0.4022	Refsum disease	ORPHA:773
+1394	0.4022	Refsum disease	OMIM:266500
+1394	0.4022	Cataract 48	OMIM:618415
+1394	0.4022	WAGR syndrome	ORPHA:893
+1403	0.4021	Scalp-ear-nipple syndrome	OMIM:181270
+1403	0.4021	Charcot-Marie-Tooth disease type 4B2	ORPHA:99956
+1405	0.4017	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 2	OMIM:613150
+1406	0.4016	Foveal hypoplasia 1	OMIM:136520
+1406	0.4016	Retinitis pigmentosa 13	OMIM:600059
+1406	0.4016	Retinitis punctata albescens	ORPHA:52427
+1406	0.4016	Retinitis punctata albescens	ORPHA:52427
+1406	0.4016	Retinitis punctata albescens	ORPHA:52427
+1406	0.4016	Phenylketonuria	OMIM:261600
+1406	0.4016	Retinopathy of prematurity	OMIM:133780
+1406	0.4016	Exudative vitreoretinopathy 2, X-linked	OMIM:305390
+1406	0.4016	Retinitis punctata albescens	ORPHA:52427
+1406	0.4016	Rothmund-Thomson syndrome, type 1	OMIM:618625
+1406	0.4016	Cataract 14, multiple types	OMIM:601885
+1406	0.4016	MYH9-related disease	ORPHA:182050
+1406	0.4016	Exudative vitreoretinopathy 4	OMIM:601813
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Retinitis pigmentosa-juvenile cataract-short stature-intellectual disability syndrome	ORPHA:436245
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Peroxisome biogenesis disorder 2B	OMIM:202370
+1406	0.4016	Cerebrotendinous xanthomatosis	ORPHA:909
+1406	0.4016	Alstrom syndrome	OMIM:203800
+1406	0.4016	Developmental delay-facial dysmorphism syndrome due to MED13L deficiency	ORPHA:369891
+1406	0.4016	Intellectual developmental disorder, X-linked syndromic 13	OMIM:300055
+1406	0.4016	?Uncombable hair syndrome 2	OMIM:617251
+1406	0.4016	Neutral lipid storage disease with ichthyosis	ORPHA:98907
+1406	0.4016	Chanarin-Dorfman syndrome	OMIM:275630
+1406	0.4016	Exudative vitreoretinopathy 5	OMIM:613310
+1406	0.4016	Cataract 46, juvenile-onset	OMIM:212500
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Severe neurodevelopmental disorder with feeding difficulties-stereotypic hand movement-bilateral cataract	ORPHA:500545
+1406	0.4016	Fatty acyl-CoA reductase 1 deficiency	ORPHA:438178
+1406	0.4016	Hyperphosphatasia-intellectual disability syndrome	ORPHA:247262
+1406	0.4016	Diaphyseal medullary stenosis with malignant fibrous histiocytoma	OMIM:112250
+1440	0.401	Isolated aniridia	ORPHA:250923
+1440	0.401	Isolated aniridia	ORPHA:250923
+1440	0.401	Alport syndrome 3, autosomal dominant	OMIM:104200
+1440	0.401	Legius syndrome	ORPHA:137605
+1440	0.401	Isolated aniridia	ORPHA:250923
+1445	0.4006	Donnai-Barrow syndrome	OMIM:222448
+1446	0.4005	?Aniridia 3	OMIM:617142
+1447	0.4004	Cataract 20, multiple types	OMIM:116100
+1447	0.4004	SPONASTRIME dysplasia	ORPHA:93357
+1449	0.4002	Microcephaly-lymphedema-chorioretinopathy syndrome	ORPHA:2526
+1450	0.4001	Blepharophimosis-ptosis-epicanthus inversus syndrome plus	ORPHA:572333
+1451	0.3998	Cataract 5, multiple types	OMIM:116800
+1452	0.3997	?Aniridia 2	OMIM:617141
+1453	0.3995	Pseudohypoparathyroidism type 1B	ORPHA:94089
+1453	0.3995	Pseudohypoparathyroidism type 1C	ORPHA:79444
+1453	0.3995	Dyskeratosis congenita, X-linked	OMIM:305000
+1453	0.3995	Pseudohypoparathyroidism type 1B	ORPHA:94089
+1453	0.3995	Ectodermal dysplasia 2, Clouston type	OMIM:129500
+1458	0.3994	Usher syndrome type 2	ORPHA:231178
+1458	0.3994	Cataract 16, multiple types	OMIM:613763
+1458	0.3994	Rothmund-Thomson syndrome type 2	ORPHA:221016
+1458	0.3994	Rothmund-Thomson syndrome type 1	ORPHA:221008
+1458	0.3994	Cataract 12, multiple types	OMIM:611597
+1458	0.3994	Usher syndrome type 2	ORPHA:231178
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 2	ORPHA:231178
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 2	ORPHA:231178
+1458	0.3994	Usher syndrome type 2	ORPHA:231178
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Usher syndrome type 1	ORPHA:231169
+1458	0.3994	Koolen-De Vries syndrome	OMIM:610443
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1475	0.3993	Congenital fibrosis of extraocular muscles	ORPHA:45358
+1481	0.3991	Ectopia lentis et pupillae	OMIM:225200
+1482	0.3989	LADD syndrome 3	OMIM:620193
+1482	0.3989	Fraser syndrome	ORPHA:2052
+1482	0.3989	Fraser syndrome	ORPHA:2052
+1482	0.3989	Fraser syndrome	ORPHA:2052
+1486	0.3988	Cataract 10, multiple types	OMIM:600881
+1487	0.3987	Late-onset retinal degeneration	ORPHA:67042
+1488	0.3986	Developmental delay with or without dysmorphic facies and autism	OMIM:618454
+1488	0.3986	Oculotrichoanal syndrome	ORPHA:2717
+1488	0.3986	Manitoba oculotrichoanal syndrome	OMIM:248450
+1488	0.3986	Rapp-Hodgkin syndrome	OMIM:129400
+1488	0.3986	ADULT syndrome	ORPHA:978
+1488	0.3986	Limb-mammary syndrome	OMIM:603543
+1488	0.3986	Cornelia de Lange syndrome 3	OMIM:610759
+1488	0.3986	Carpenter syndrome 2	OMIM:614976
+1488	0.3986	Tolchin-Le Caignec syndrome	OMIM:618971
+1488	0.3986	?Dyskeratosis congenita, autosomal recessive 1	OMIM:224230
+1488	0.3986	Johanson-Blizzard syndrome	ORPHA:2315
+1488	0.3986	Catel-Manzke syndrome	OMIM:616145
+1488	0.3986	Craniofacial-deafness-hand syndrome	ORPHA:1529
+1488	0.3986	Myoectodermal gonadal dysgenesis syndrome	OMIM:618419
+1488	0.3986	Intellectual developmental disorder, X-linked syndromic 33	OMIM:300966
+1503	0.3983	Spondylo-ocular syndrome	ORPHA:85194
+1504	0.398	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	OMIM:604292
+1505	0.3979	MALT lymphoma	ORPHA:52417
+1505	0.3979	MALT lymphoma	ORPHA:52417
+1505	0.3979	MALT lymphoma	ORPHA:52417
+1505	0.3979	MALT lymphoma	ORPHA:52417
+1505	0.3979	?Lacrimal duct defect	OMIM:149700
+1510	0.3977	3MC syndrome 1	OMIM:257920
+1511	0.3973	Branchiootorenal syndrome 1, with or without cataracts	OMIM:113650
+1512	0.3972	?Weill-Marchesani syndrome 3, recessive	OMIM:614819
+1513	0.3971	Developmental delay, impaired speech, and behavioral abnormalities	OMIM:619475
+1514	0.397	?Exudative vitreoretinopathy 6	OMIM:616468
+1515	0.3968	Branchial arch abnormalities, choanal atresia, athelia, hearing loss, and hypothyroidism syndrome	OMIM:620186
+1516	0.3957	Vici syndrome	OMIM:242840
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	Periodic fever, familial	OMIM:142680
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	Muckle-Wells syndrome	OMIM:191900
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1517	0.3955	1p36 deletion syndrome	ORPHA:1606
+1532	0.3953	Cataract 33, multiple types	OMIM:611391
+1532	0.3953	Cataract 15, multiple types	OMIM:615274
+1532	0.3953	Pierson syndrome	OMIM:609049
+1532	0.3953	Cataract 31, multiple types	OMIM:605387
+1536	0.3952	Papillorenal syndrome	OMIM:120330
+1536	0.3952	Coloboma, ocular, with or without hearing impairment, cleft lip/palate, and/or impaired intellectual development	OMIM:120433
+1538	0.3951	Retinitis pigmentosa 56	OMIM:613581
+1538	0.3951	Cataract 40, X-linked	OMIM:302200
+1538	0.3951	Retinal dystrophy with macular staphyloma	OMIM:617547
+1538	0.3951	Full NF2-related schwannomatosis	ORPHA:637
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Retinitis pigmentosa with or without situs inversus	OMIM:615434
+1542	0.3949	Retinitis pigmentosa 83	OMIM:618173
+1542	0.3949	Retinitis pigmentosa 74	OMIM:616562
+1542	0.3949	Retinitis pigmentosa 46	OMIM:612572
+1542	0.3949	Retinitis pigmentosa 10	OMIM:180105
+1542	0.3949	Retinitis pigmentosa 86	OMIM:618613
+1542	0.3949	?Retinitis pigmentosa 23	OMIM:300424
+1542	0.3949	Retinitis pigmentosa 43	OMIM:613810
+1542	0.3949	Retinitis pigmentosa 60	OMIM:613983
+1542	0.3949	?Retinitis pigmentosa 66	OMIM:615233
+1542	0.3949	Retinitis pigmentosa 77	OMIM:617304
+1542	0.3949	Retinitis pigmentosa 2	OMIM:312600
+1542	0.3949	Intellectual developmental disorder and retinitis pigmentosa	OMIM:618195
+1542	0.3949	Leber congenital amaurosis 15	OMIM:613843
+1542	0.3949	Retinitis pigmentosa 14	OMIM:600132
+1542	0.3949	Retinitis pigmentosa 72	OMIM:616469
+1542	0.3949	Spondyloepimetaphyseal dysplasia with joint laxity, type 1, with or without fractures	OMIM:271640
+1542	0.3949	Alpha-B crystallin-related late-onset myopathy	ORPHA:399058
+1542	0.3949	Cataract 23	OMIM:610425
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	MASS syndrome	OMIM:604308
+1542	0.3949	Ectopia lentis, familial	OMIM:129600
+1542	0.3949	Glaucoma-ectopia lentis-microspherophakia-stiff joints-short stature syndrome	ORPHA:2084
+1542	0.3949	Glaucoma, primary closed-angle	OMIM:618880
+1542	0.3949	Autosomal dominant palmoplantar keratoderma and congenital alopecia	ORPHA:1010
+1542	0.3949	Congenital contractural arachnodactyly	ORPHA:115
+1542	0.3949	Contractural arachnodactyly, congenital	OMIM:121050
+1542	0.3949	Agenesis of corpus callosum, cardiac, ocular, and genital syndrome	OMIM:618929
+1542	0.3949	Ehlers-Danlos syndrome, classic type, 1	OMIM:130000
+1542	0.3949	Cataract 18, autosomal recessive	OMIM:610019
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Spastic paraplegia 26, autosomal recessive	OMIM:609195
+1542	0.3949	Sulfite oxidase deficiency	OMIM:272300
+1542	0.3949	Ectopia lentis, isolated, autosomal recessive	OMIM:225100
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Microcephaly and chorioretinopathy, autosomal recessive, 1	OMIM:251270
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Loeys-Dietz syndrome 1	OMIM:609192
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Dementia, familial Danish	OMIM:117300
+1542	0.3949	Developmental delay with or without intellectual impairment or behavioral abnormalities	OMIM:619575
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart	OMIM:616975
+1542	0.3949	Loeys-Dietz syndrome 2	OMIM:610168
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Acyl-CoA dehydrogenase, short-chain, deficiency of	OMIM:201470
+1542	0.3949	Hyperlysinemia	OMIM:238700
+1542	0.3949	Spondyloepimetaphyseal dysplasia, sponastrime type	OMIM:271510
+1542	0.3949	Primrose syndrome	OMIM:259050
+1542	0.3949	?Cataract 41	OMIM:116400
+1542	0.3949	Camptodactyly-arthropathy-coxa-vara-pericarditis syndrome	ORPHA:2848
+1542	0.3949	?Cataract 43	OMIM:616279
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	X-linked intellectual disability, Najm type	ORPHA:163937
+1542	0.3949	Bare lymphocyte syndrome, type I	OMIM:604571
+1542	0.3949	Bare lymphocyte syndrome, type I, due to TAP2 deficiency	OMIM:604571
+1542	0.3949	Bare lymphocyte syndrome, type I	OMIM:604571
+1542	0.3949	Familial thoracic aortic aneurysm and aortic dissection	ORPHA:91387
+1542	0.3949	Neurooculocardiogenitourinary syndrome	OMIM:618652
+1611	0.3943	Molybdenum cofactor deficiency B	OMIM:252160
+1611	0.3943	Thrombosis, hyperhomocysteinemic	OMIM:236200
+1611	0.3943	Craniolenticulosutural dysplasia	OMIM:607812
+1611	0.3943	Myotonic dystrophy 2	OMIM:602668
+1611	0.3943	Hyperferritinemia-cataract syndrome	OMIM:600886
+1611	0.3943	Molybdenum cofactor deficiency A	OMIM:252150
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1617	0.3941	Wagner syndrome 1	OMIM:143200
+1617	0.3941	Familial exudative vitreoretinopathy	ORPHA:891
+1624	0.394	Cataract 39, multiple types, autosomal dominant	OMIM:615188
+1624	0.394	Cataract 30, pulverulent	OMIM:116300
+1626	0.3937	LADD syndrome 2	OMIM:620192
+1627	0.3936	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 6	OMIM:613154
+1627	0.3936	Cataract 22	OMIM:609741
+1627	0.3936	Autosomal dominant epidermolytic ichthyosis	ORPHA:312
+1627	0.3936	Autosomal dominant epidermolytic ichthyosis	ORPHA:312
+1631	0.3934	Aplasia of lacrimal and salivary glands	OMIM:180920
+1632	0.3931	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	OMIM:240300
+1633	0.3922	Limb-mammary syndrome	ORPHA:69085
+1634	0.3918	Cataract 3, multiple types	OMIM:601547
+1635	0.3916	Blau syndrome	ORPHA:90340
+1636	0.3915	Uveal melanoma	ORPHA:39044
+1636	0.3915	Uveal melanoma	ORPHA:39044
+1636	0.3915	Uveal melanoma	ORPHA:39044
+1636	0.3915	Uveal melanoma	ORPHA:39044
+1636	0.3915	Uveal melanoma	ORPHA:39044
+1636	0.3915	Atelis syndrome 2	OMIM:620185
+1642	0.391	Cockayne syndrome type 1	ORPHA:90321
+1642	0.391	Cockayne syndrome type 1	ORPHA:90321
+1642	0.391	Cockayne syndrome type 1	ORPHA:90321
+1642	0.391	Transketolase deficiency	ORPHA:488618
+1642	0.391	Cockayne syndrome type 1	ORPHA:90321
+1647	0.3907	ADULT syndrome	OMIM:103285
+1647	0.3907	Hay-Wells syndrome	OMIM:106260
+1647	0.3907	Poikiloderma with neutropenia	OMIM:604173
+1650	0.3906	Proteus syndrome	ORPHA:744
+1650	0.3906	Proteus syndrome	ORPHA:744
+1652	0.3905	Marfan lipodystrophy syndrome	OMIM:616914
+1653	0.3897	Schwannomatosis, vestibular	OMIM:101000
+1654	0.3885	?Cataract 49	OMIM:619593
+1654	0.3885	Multiple system atrophy, susceptibility to	OMIM:146500
+1654	0.3885	?Knobloch syndrome 2	OMIM:618458
+1654	0.3885	Aortic aneurysm, familial thoracic 6	OMIM:611788
+1654	0.3885	Neurooculorenal syndrome	OMIM:620305
+1654	0.3885	Craniolenticulosutural dysplasia	ORPHA:50814
+1654	0.3885	Optic atrophy 10 with or without ataxia, impaired intellectual development and seizures	OMIM:616732
+1654	0.3885	Intellectual developmental disorder with ocular anomalies and distinctive facial features	OMIM:620086
+1662	0.3868	Combined immunodeficiency with facio-oculo-skeletal anomalies	ORPHA:221139
+1662	0.3868	?Roifman-Chitayat syndrome, digenic	OMIM:613328
+1662	0.3868	Noonan syndrome 14	OMIM:619745
+1662	0.3868	Branchiootic syndrome 3	OMIM:608389
+1662	0.3868	Hardikar syndrome	OMIM:301068
+1662	0.3868	Lenz-Majewski hyperostotic dwarfism	OMIM:151050
+1662	0.3868	Autosomal dominant intellectual disability-craniofacial anomalies-cardiac defects syndrome	ORPHA:457193
+1662	0.3868	Noonan syndrome-like disorder with loose anagen hair 2	OMIM:617506
+1662	0.3868	?Roifman-Chitayat syndrome, digenic	OMIM:613328
+1662	0.3868	Combined immunodeficiency with facio-oculo-skeletal anomalies	ORPHA:221139
+1662	0.3868	Epidermolysis bullosa simplex 7, with nephropathy and deafness	OMIM:609057
+1662	0.3868	Treacher Collins syndrome 1	OMIM:154500
+1662	0.3868	Beck-Fahrner syndrome	OMIM:618798
+1675	0.3864	Cataract 6, multiple types	OMIM:116600
+1676	0.3856	Temtamy syndrome	OMIM:218340
+1677	0.384	Mannosidosis, beta	OMIM:248510
+1677	0.384	Fucosidosis	OMIM:230000
+1677	0.384	Kanzaki disease	OMIM:609242
+1677	0.384	Spinocerebellar ataxia, autosomal recessive 10	OMIM:613728
+1681	0.3836	Birdshot chorioretinopathy	ORPHA:179
+1682	0.3827	Gyrate atrophy of choroid and retina	ORPHA:414
+1683	0.3826	Insulinomatosis and diabetes mellitus	OMIM:147630
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1683	0.3826	Diamond-Blackfan anemia	ORPHA:124
+1711	0.3824	Ayme-Gripp syndrome	OMIM:601088
+1711	0.3824	Goldberg-Shprintzen megacolon syndrome	ORPHA:66629
+1711	0.3824	Muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type B, 1	OMIM:613155
+1711	0.3824	Linear nevus sebaceus syndrome	ORPHA:2612
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome with ocular defect	ORPHA:220493
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Triple A syndrome	ORPHA:869
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Dyssegmental dysplasia, Silverman-Handmaker type	ORPHA:1865
+1711	0.3824	Cataract 4, multiple types	OMIM:115700
+1711	0.3824	Cataract 38, autosomal recessive	OMIM:614691
+1711	0.3824	Linear nevus sebaceus syndrome	ORPHA:2612
+1711	0.3824	BRESEK syndrome	ORPHA:85284
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome with ocular defect	ORPHA:220493
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Meckel syndrome 1	OMIM:249000
+1711	0.3824	Joubert syndrome with renal defect	ORPHA:220497
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome with renal defect	ORPHA:220497
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Kleefstra syndrome due to a point mutation	ORPHA:261652
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Glutaric acidemia IIC	OMIM:231680
+1711	0.3824	Cataract 44	OMIM:616509
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	CIMDAG syndrome	OMIM:619273
+1711	0.3824	Rhizomelic chondrodysplasia punctata, type 1	OMIM:215100
+1711	0.3824	Cataract 19, multiple types	OMIM:615277
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Terminal osseous dysplasia-pigmentary defects syndrome	ORPHA:88630
+1711	0.3824	Terminal osseous dysplasia	OMIM:300244
+1711	0.3824	Multicentric osteolysis-nodulosis-arthropathy spectrum	ORPHA:371428
+1711	0.3824	?Cataract 45	OMIM:616851
+1711	0.3824	Multicentric osteolysis-nodulosis-arthropathy spectrum	ORPHA:371428
+1711	0.3824	Linear nevus sebaceus syndrome	ORPHA:2612
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Joubert syndrome with renal defect	ORPHA:220497
+1711	0.3824	Curry-Jones syndrome	ORPHA:1553
+1711	0.3824	Curry-Jones syndrome, somatic mosaic	OMIM:601707
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Hyperphosphatasia with impaired intellectual development syndrome 6	OMIM:616809
+1711	0.3824	Hajdu-Cheney syndrome	OMIM:102500
+1711	0.3824	Nizon-Isidor syndrome	OMIM:618872
+1711	0.3824	Pontocerebellar hypoplasia, hypotonia, and respiratory insufficiency syndrome, neonatal lethal	OMIM:618810
+1711	0.3824	Phosphoglycerate dehydrogenase deficiency	OMIM:601815
+1711	0.3824	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	ORPHA:79351
+1711	0.3824	Pheochromocytoma, susceptibility to	OMIM:171300
+1711	0.3824	Microcephaly, congenital cataract, and psoriasiform dermatitis	OMIM:616834
+1711	0.3824	Rhizomelic chondrodysplasia punctata, type 5	OMIM:616716
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Autosomal dominant spastic paraplegia type 9A	ORPHA:447753
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Multiple joint dislocations, short stature, craniofacial dysmorphism, with or without congenital heart defects	OMIM:245600
+1711	0.3824	Kleefstra syndrome due to a point mutation	ORPHA:261652
+1711	0.3824	Myopathy, tubular aggregate, 1	OMIM:160565
+1711	0.3824	Metaphyseal chondromatosis with D-2-hydroxyglutaric aciduria	ORPHA:99646
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Pheochromocytoma	OMIM:171300
+1711	0.3824	Combined oxidative phosphorylation defect type 13	ORPHA:319514
+1711	0.3824	Desbuquois dysplasia 1	OMIM:251450
+1711	0.3824	Lateral meningocele syndrome	ORPHA:2789
+1711	0.3824	Pheochromocytoma	OMIM:171300
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Triple A syndrome	ORPHA:869
+1711	0.3824	Sandestig-Stefanova syndrome	OMIM:618804
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Hypogonadotropic hypogonadism 2 with or without anosmia	OMIM:147950
+1711	0.3824	Holoprosencephaly 7	OMIM:610828
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Glutaric acidemia IIA	OMIM:231680
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Donnai-Barrow syndrome	ORPHA:2143
+1711	0.3824	Pheochromocytoma	OMIM:171300
+1711	0.3824	Glutaric acidemia IIB	OMIM:231680
+1711	0.3824	TELO2-related intellectual disability-neurodevelopmental disorder	ORPHA:488642
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome	ORPHA:52055
+1711	0.3824	?Corpus callosum, agenesis of, with impaired intellectual development, ocular coloboma and micrognathia	OMIM:300472
+1711	0.3824	X-linked intellectual disability, Nascimento type	ORPHA:163956
+1711	0.3824	Congenital disorder of glycosylation, type Id	OMIM:601110
+1711	0.3824	Adams-Oliver syndrome 2	OMIM:614219
+1711	0.3824	Oculoskeletodental syndrome	OMIM:618440
+1711	0.3824	Oculoskeletodental syndrome	ORPHA:557003
+1711	0.3824	?Deafness, cataract, impaired intellectual development, and polyneuropathy	OMIM:619354
+1711	0.3824	Developmental and epileptic encephalopathy 93	OMIM:618012
+1711	0.3824	Intellectual disability-cardiac anomalies-short stature-joint laxity syndrome	ORPHA:508498
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Microcephaly, cataracts, impaired intellectual development, and dystonia with abnormal striatum	OMIM:618284
+1711	0.3824	Joubert syndrome with ocular defect	ORPHA:220493
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Cataract 13 with adult i phenotype	OMIM:116700
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Intellectual developmental disorder with poor growth and with or without seizures or ataxia	OMIM:618808
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	?Deafness, autosomal recessive 108	OMIM:617654
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Congenital cataracts, hearing loss, and neurodegeneration	OMIM:614482
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Microform holoprosencephaly	ORPHA:280200
+1711	0.3824	Pheochromocytoma	OMIM:171300
+1711	0.3824	17q21.31 microdeletion syndrome	ORPHA:363958
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Marinesco-Sjogren syndrome	OMIM:248800
+1711	0.3824	Charcot-Marie-Tooth disease type 1B	ORPHA:101082
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Joubert syndrome with ocular defect	ORPHA:220493
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome	ORPHA:330054
+1711	0.3824	Pheochromocytoma, susceptibility to	OMIM:171300
+1711	0.3824	Leukodystrophy, hypomyelinating, 5	OMIM:610532
+1711	0.3824	Hypomyelination-congenital cataract syndrome	ORPHA:85163
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Autosomal dominant spastic paraplegia type 9A	ORPHA:447753
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Peroxisome biogenesis disorder 14B	OMIM:614920
+1711	0.3824	Spastic paraplegia 64, autosomal recessive	OMIM:615683
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Triple A syndrome	ORPHA:869
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Aicardi-Goutières syndrome	ORPHA:51
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Joubert syndrome with ocular defect	ORPHA:220493
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	Autosomal dominant Kenny-Caffey syndrome	ORPHA:93325
+1711	0.3824	Kenny-Caffey syndrome, type 2	OMIM:127000
+1711	0.3824	Joubert syndrome	ORPHA:475
+1711	0.3824	CATIFA syndrome	OMIM:618761
+1711	0.3824	?Halperin-Birk syndrome	OMIM:618651
+1857	0.3821	Retinitis pigmentosa 25	OMIM:602772
+1857	0.3821	Gyrate atrophy of choroid and retina with or without ornithinemia	OMIM:258870
+1859	0.3819	Charcot-Marie-Tooth disease type 1E	ORPHA:90658
+1860	0.3817	Focal dermal hypoplasia	OMIM:305600
+1861	0.3805	Diabetes mellitus, neonatal, with congenital hypothyroidism	OMIM:610199
+1862	0.3804	Otofaciocervical syndrome 2	OMIM:615560
+1863	0.3766	Crouzon syndrome	ORPHA:207
+1863	0.3766	Alacrima, achalasia, and impaired intellectual development syndrome	OMIM:615510
+1863	0.3766	Nephronophthisis 11	OMIM:613550
+1863	0.3766	Cutis marmorata telangiectatica congenita	ORPHA:1556
+1863	0.3766	Retinoblastoma, trilateral	OMIM:180200
+1863	0.3766	Achalasia-addisonianism-alacrimia syndrome	OMIM:231550
+1863	0.3766	Diamond-Blackfan anemia 1	OMIM:105650
+1863	0.3766	Intellectual developmental disorder with impaired language and dysmorphic facies	OMIM:618653
+1863	0.3766	Crouzon syndrome	ORPHA:207
+1863	0.3766	Charcot-Marie-Tooth disease type 4C	ORPHA:99949
+1863	0.3766	Cutis marmorata telangiectatica congenita	ORPHA:1556
+1874	0.3759	Fontaine progeroid syndrome	OMIM:612289
+1875	0.3754	Glaucoma 3A, primary open angle, congenital, juvenile, or adult onset	OMIM:231300
+1876	0.373	Woolly hair nevus	ORPHA:79414
+1877	0.3728	Short stature, developmental delay, and congenital heart defects	OMIM:617044
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	Joubert syndrome with hepatic defect	ORPHA:1454
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	Microphthalmia, isolated, with coloboma 10	OMIM:616428
+1878	0.372	Baraitser-Winter syndrome 1	OMIM:243310
+1878	0.372	Joubert syndrome with hepatic defect	ORPHA:1454
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	Joubert syndrome with hepatic defect	ORPHA:1454
+1878	0.372	Joint laxity, short stature, and myopia	OMIM:617662
+1878	0.372	CHARGE syndrome	ORPHA:138
+1878	0.372	Microphthalmia with coloboma 5	OMIM:611638
+1878	0.372	Holoprosencephaly 2	OMIM:157170
+1878	0.372	Hydrocephalus, congenital, 2, with or without brain or eye anomalies	OMIM:615219
+1878	0.372	CHARGE syndrome	ORPHA:138
+1878	0.372	Joubert syndrome with hepatic defect	ORPHA:1454
+1878	0.372	3C syndrome	ORPHA:7
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	3C syndrome	ORPHA:7
+1878	0.372	Klippel-Feil syndrome 3, autosomal dominant	OMIM:613702
+1878	0.372	Joubert syndrome with oculorenal defect	ORPHA:2318
+1878	0.372	3C syndrome	ORPHA:7
+1878	0.372	Cohen syndrome	ORPHA:193
+1878	0.372	Temtamy syndrome	ORPHA:1777
+1878	0.372	3C syndrome	ORPHA:7
+1904	0.3716	Microphthalmia, isolated, with coloboma 7	OMIM:614497
+1905	0.3713	Nail-patella syndrome	ORPHA:2614
+1906	0.371	Corneal dystrophy, posterior polymorphous, 4	OMIM:618031
+1906	0.371	Vertebral anomalies and variable endocrine and T-cell dysfunction	OMIM:618223
+1908	0.37	Cockayne syndrome type 2	ORPHA:90322
+1908	0.37	Cockayne syndrome type 2	ORPHA:90322
+1908	0.37	Cockayne syndrome type 2	ORPHA:90322
+1908	0.37	Cockayne syndrome type 2	ORPHA:90322
+1912	0.3667	Waardenburg syndrome, type 4C	OMIM:613266
+1913	0.3657	Neurodevelopmental, jaw, eye, and digital syndrome	OMIM:618914
+1913	0.3657	Glaucoma 1A, primary open angle	OMIM:137750
+1913	0.3657	Congenital disorder of glycosylation with defective fucosylation 1	OMIM:618005
+1916	0.365	Cerebellar, ocular, craniofacial, and genital syndrome	OMIM:618479
+1917	0.3615	Holocarboxylase synthetase deficiency	ORPHA:79242
+1918	0.3606	Alexander disease	OMIM:203450
+1919	0.3584	Reynolds syndrome	ORPHA:779
+1919	0.3584	RECON progeroid syndrome	OMIM:620370
+1919	0.3584	Tenorio syndrome	OMIM:616260
+1919	0.3584	Erythermalgia, primary	OMIM:133020
+1923	0.3578	Sturge-Weber syndrome, somatic, mosaic	OMIM:185300
+1924	0.3557	Aromatic L-amino acid decarboxylase deficiency	OMIM:608643
+1924	0.3557	Stormorken syndrome	OMIM:185070
+1924	0.3557	Stormorken-Sjaastad-Langslet syndrome	ORPHA:3204
+1924	0.3557	Oculocutaneous albinism type 6	ORPHA:370097
+1924	0.3557	Aortic aneurysm, familial thoracic 4	OMIM:132900
+1924	0.3557	Myopathy, tubular aggregate, 2	OMIM:615883
+1924	0.3557	Stormorken-Sjaastad-Langslet syndrome	ORPHA:3204
+1931	0.3541	Sarcoidosis, susceptibility to, 1	OMIM:181000
+1932	0.3518	Yao syndrome	OMIM:617321
+1933	0.3511	Acrodysostosis 1, with or without hormone resistance	OMIM:101800
+1933	0.3511	Noonan syndrome 13	OMIM:619087
+1933	0.3511	Noonan syndrome 4	OMIM:610733
+1933	0.3511	Albinism, oculocutaneous, type II, modifier of	OMIM:203200
+1933	0.3511	Albinism, oculocutaneous, type VII	OMIM:615179
+1933	0.3511	Immunodeficiency 10	OMIM:612783
+1933	0.3511	Leukemia, megakaryoblastic, with or without Down syndrome, somatic	OMIM:190685
+1933	0.3511	Angelman syndrome	OMIM:105830
+1933	0.3511	Nivelon-Nivelon-Mabille syndrome	OMIM:600092
+1933	0.3511	Albinism, brown oculocutaneous	OMIM:203200
+1933	0.3511	Tonne-Kalscheuer syndrome	OMIM:300978
+1933	0.3511	Albinism, oculocutaneous, type IV	OMIM:606574
+1933	0.3511	Intellectual developmental disorder, autosomal recessive 38	OMIM:615516
+1933	0.3511	Acrodysostosis 2, with or without hormone resistance	OMIM:614613
+1947	0.3507	Tietz albinism-deafness syndrome	OMIM:103500
+1947	0.3507	Waardenburg syndrome, type 4B	OMIM:613265
+1947	0.3507	Waardenburg syndrome, type 2F	OMIM:619947
+1947	0.3507	Waardenburg syndrome, type 4A	OMIM:277580
+1947	0.3507	Waardenburg syndrome, type 3	OMIM:148820
+1952	0.3501	Gillespie syndrome	OMIM:206700
+1953	0.35	Waardenburg syndrome, type 1	OMIM:193500
+1954	0.3498	Chondrodysplasia-difference of sex development syndrome	ORPHA:1422
+1955	0.3496	Oculocutaneous albinism type 2	ORPHA:79432
+1955	0.3496	Oculocutaneous albinism type 2	ORPHA:79432
+1957	0.3491	Oculocutaneous albinism type 3	ORPHA:79433
+1957	0.3491	Prader-Willi syndrome due to translocation	ORPHA:177907
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Piebaldism	ORPHA:2884
+1959	0.3465	PCWH syndrome	OMIM:609136
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	ORPHA:163746
+1959	0.3465	Neurofibromatosis, familial spinal	OMIM:162210
+1959	0.3465	Neurofibromatosis, type 1	OMIM:162200
+1959	0.3465	Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion	ORPHA:363700
+1959	0.3465	Neurofibromatosis-Noonan syndrome	OMIM:601321
+1959	0.3465	Watson syndrome	OMIM:193520
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Piebaldism	OMIM:172800
+1959	0.3465	Piebaldism	ORPHA:2884
+1959	0.3465	Insulin-like growth factor I, resistance to	OMIM:270450
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Mismatch repair cancer syndrome 3	OMIM:619097
+1959	0.3465	?Intellectual developmental disorder, autosomal recessive 50	OMIM:616460
+1959	0.3465	Waardenburg syndrome type 2	ORPHA:895
+1959	0.3465	Waardenburg syndrome type 1	ORPHA:894
+1979	0.3464	Waardenburg syndrome, type 2E, with or without neurologic involvement	OMIM:611584
+1980	0.3462	Waardenburg syndrome, type 2A	OMIM:193510
+1981	0.3452	Hermansky-Pudlak syndrome 11	OMIM:619172
+1981	0.3452	Hermansky-Pudlak syndrome 5	OMIM:614074
+1983	0.3438	17q11 microdeletion syndrome	ORPHA:97685
+1984	0.3422	Aniridia-cerebellar ataxia-intellectual disability syndrome	ORPHA:1065
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Aniridia-cerebellar ataxia-intellectual disability syndrome	ORPHA:1065
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Oliver-McFarlane syndrome	OMIM:275400
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Nephroblastoma	ORPHA:654
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	D-lactic aciduria with susceptibility to gout	OMIM:245450
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Isolated split hand-split foot malformation	ORPHA:2440
+1984	0.3422	Gracile bone dysplasia	OMIM:602361
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Hereditary pheochromocytoma-paraganglioma	ORPHA:29072
+1984	0.3422	Nephroblastoma	ORPHA:654
+2021	0.3413	Anterior segment dysgenesis 4	OMIM:137600
+2022	0.3411	Oculocutaneous albinism, type VIII	OMIM:619165
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Dysplasminogenemia	OMIM:217090
+2023	0.3347	Mucopolysaccharidosis-like syndrome with congenital heart defects and hematopoietic disorders	ORPHA:505248
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Immunodeficiency, common variable, 3	OMIM:613493
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Agammaglobulinemia 6	OMIM:612692
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Immunodeficiency, common variable, 2	OMIM:240500
+2023	0.3347	?Proteasome-associated autoinflammatory syndrome 3 and digenic forms	OMIM:617591
+2023	0.3347	Immunodeficiency 46	OMIM:616740
+2023	0.3347	X-linked agammaglobulinemia	ORPHA:47
+2023	0.3347	Agammaglobulinemia, X-linked 1	OMIM:300755
+2023	0.3347	Isolated growth hormone deficiency, type III, with agammaglobulinemia	OMIM:307200
+2023	0.3347	Familial cold urticaria	ORPHA:47045
+2023	0.3347	Deafness, autosomal dominant 34, with or without inflammation	OMIM:617772
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Hemophagocytic lymphohistiocytosis, familial, 4	OMIM:603552
+2023	0.3347	Severe combined immunodeficiency, B cell-negative	OMIM:601457
+2023	0.3347	Severe combined immunodeficiency, B cell-negative	OMIM:601457
+2023	0.3347	Tumoral calcinosis, familial, normophosphatemic	OMIM:610455
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Biotinidase deficiency	ORPHA:79241
+2023	0.3347	Biotinidase deficiency	OMIM:253260
+2023	0.3347	Immunodeficiency, common variable, 1	OMIM:607594
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2023	0.3347	Agammaglobulinemia 1	OMIM:601495
+2023	0.3347	?Proteasome-associated autoinflammatory syndrome 3, digenic	OMIM:617591
+2023	0.3347	Autosomal agammaglobulinemia	ORPHA:33110
+2054	0.334	Griscelli syndrome type 1	ORPHA:79476
+2054	0.334	Griscelli syndrome type 3	ORPHA:79478
+2054	0.334	Chédiak-Higashi syndrome	ORPHA:167
+2054	0.334	Oculocutaneous albinism type 1B	ORPHA:79434
+2054	0.334	Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15	ORPHA:98754
+2054	0.334	Prader-Willi syndrome due to imprinting mutation	ORPHA:177910
+2054	0.334	Griscelli syndrome type 2	ORPHA:79477
+2054	0.334	Griscelli syndrome type 3	ORPHA:79478
+2054	0.334	Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15	ORPHA:98754
+2054	0.334	Prader-Willi syndrome due to imprinting mutation	ORPHA:177910
+2054	0.334	Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15	ORPHA:98754
+2054	0.334	Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15	ORPHA:98754
+2054	0.334	Prader-Willi syndrome due to imprinting mutation	ORPHA:177910
+2067	0.3323	Adult-onset foveomacular vitelliform dystrophy	ORPHA:99000
+2067	0.3323	Adult-onset foveomacular vitelliform dystrophy	ORPHA:99000
+2067	0.3323	Adult-onset foveomacular vitelliform dystrophy	ORPHA:99000
+2067	0.3323	Adult-onset foveomacular vitelliform dystrophy	ORPHA:99000
+2071	0.3311	Tumor necrosis factor receptor 1 associated periodic syndrome	ORPHA:32960
+2071	0.3311	Familial cold inflammatory syndrome 1	OMIM:120100
+2071	0.3311	Muckle-Wells syndrome	ORPHA:575
+2071	0.3311	Immunodeficiency, common variable, 8, with autoimmunity	OMIM:614700
+2075	0.3302	Chediak-Higashi syndrome	OMIM:214500
+2075	0.3302	Oculocutaneous albinism type 1A	ORPHA:79431
+2075	0.3302	Oculocutaneous albinism type 4	ORPHA:79435
+2078	0.3233	Stargardt disease	ORPHA:827
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Stargardt disease	ORPHA:827
+2078	0.3233	Stargardt disease	ORPHA:827
+2078	0.3233	Bothnia retinal dystrophy	ORPHA:85128
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Stargardt disease	ORPHA:827
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Stargardt disease	ORPHA:827
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Bartter syndrome, type 3	OMIM:607364
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2078	0.3233	Nanophthalmos	ORPHA:35612
+2095	0.3203	?Cancer, alopecia, pigment dyscrasia, onychodystrophy, and keratoderma	OMIM:618373
+2095	0.3203	Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome	ORPHA:95433
+2095	0.3203	RIDDLE syndrome	ORPHA:420741
+2095	0.3203	?Ataxia-telangiectasia-like disorder 2	OMIM:615919
+2095	0.3203	Ataxia-telangiectasia	OMIM:208900
+2095	0.3203	Hereditary hemorrhagic telangiectasia	ORPHA:774
+2095	0.3203	Telangiectasia, hereditary hemorrhagic, type 1	OMIM:187300
+2095	0.3203	Hereditary hemorrhagic telangiectasia	ORPHA:774
+2095	0.3203	Nijmegen breakage syndrome	OMIM:251260
+2095	0.3203	Hereditary hemorrhagic telangiectasia	ORPHA:774
+2095	0.3203	Immunodeficiency 96	OMIM:619774
+2095	0.3203	Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2	OMIM:606002
+2095	0.3203	Hereditary hemorrhagic telangiectasia	ORPHA:774
+2108	0.3193	Best vitelliform macular dystrophy	ORPHA:1243
+2109	0.3165	Telangiectasia, hereditary hemorrhagic, type 2	OMIM:600376
+2110	0.3164	Macular dystrophy, patterned, 1	OMIM:169150
+2111	0.316	Xq21 microdeletion syndrome	ORPHA:1435
+2112	0.3157	Sorsby pseudoinflammatory fundus dystrophy	ORPHA:59181
+2113	0.3147	Choroideremia	OMIM:303100
+2114	0.3125	Neuroblastoma, susceptibility to, 1	OMIM:256700
+2115	0.3093	Neurodevelopmental disorder with hypotonia and dysmorphic facies	OMIM:619503
+2116	0.3049	Primary sclerosing cholangitis	ORPHA:171
+2116	0.3049	Primary sclerosing cholangitis	ORPHA:171
+2116	0.3049	Generalized pustular psoriasis	ORPHA:247353
+2116	0.3049	Bloom syndrome	ORPHA:125
+2116	0.3049	Generalized pustular psoriasis	ORPHA:247353
+2116	0.3049	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+2116	0.3049	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+2116	0.3049	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+2116	0.3049	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+2116	0.3049	Primary sclerosing cholangitis	ORPHA:171
+2116	0.3049	Lymphoproliferative syndrome 2	OMIM:615122
+2116	0.3049	Autoimmune lymphoproliferative syndrome	ORPHA:3261
+2116	0.3049	CINCA syndrome	ORPHA:1451
+2116	0.3049	CINCA syndrome	OMIM:607115
+2116	0.3049	Vitreoretinopathy, neovascular inflammatory	OMIM:193235
+2116	0.3049	Sarcoidosis, susceptibility to, 2	OMIM:612387
+2116	0.3049	Primary sclerosing cholangitis	ORPHA:171
+2133	0.3034	Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	ORPHA:5
+2134	0.3032	Hermansky-Pudlak syndrome 7	OMIM:614076
+2134	0.3032	?Hermansky-Pudlak syndrome 9	OMIM:614171
+2134	0.3032	Hermansky-Pudlak syndrome 2	OMIM:608233
+2134	0.3032	Hermansky-Pudlak syndrome 4	OMIM:614073
+2134	0.3032	Hermansky-Pudlak syndrome 6	OMIM:614075
+2134	0.3032	Hermansky-Pudlak syndrome 1	OMIM:203300
+2134	0.3032	Ocular albinism with late-onset sensorineural deafness	ORPHA:1000
+2134	0.3032	?Hermansky-Pudlak syndrome 10	OMIM:617050
+2134	0.3032	Ocular albinism, type I, Nettleship-Falls type	OMIM:300500
+2143	0.3016	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+2143	0.3016	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+2143	0.3016	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+2143	0.3016	Familial cerebral cavernous malformation	ORPHA:221061
+2143	0.3016	Autoinflammatory syndrome, familial, Behcet-like 1	OMIM:616744
+2143	0.3016	Spondyloarthropathy, susceptibility to, 1	OMIM:106300
+2143	0.3016	Familial cerebral cavernous malformation	ORPHA:221061
+2143	0.3016	Familial cerebral cavernous malformation	ORPHA:221061
+2143	0.3016	Familial cerebral cavernous malformation	ORPHA:221061
+2143	0.3016	Neuromuscular disease and ocular or auditory anomalies with or without seizures	OMIM:618733
+2143	0.3016	Systemic-onset juvenile idiopathic arthritis	ORPHA:85414
+2154	0.2983	COACH syndrome 2	OMIM:619111
+2154	0.2983	Joubert syndrome 2	OMIM:608091
+2154	0.2983	Joubert syndrome 6	OMIM:610688
+2154	0.2983	CHIME syndrome	OMIM:280000
+2154	0.2983	Microcephaly and chorioretinopathy, autosomal recessive, 3	OMIM:616335
+2154	0.2983	Townes-Brocks syndrome 1	OMIM:107480
+2154	0.2983	Autosomal recessive cerebellar ataxia due to STUB1 deficiency	ORPHA:412057
+2154	0.2983	Joubert syndrome 1	OMIM:213300
+2154	0.2983	Boucher-Neuhauser syndrome	OMIM:215470
+2154	0.2983	Ataxia-hypogonadism-choroidal dystrophy syndrome	ORPHA:1180
+2154	0.2983	Intellectual developmental disorder, autosomal dominant 33	OMIM:616311
+2154	0.2983	Primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement	ORPHA:2196
+2154	0.2983	Cohen syndrome	OMIM:216550
+2154	0.2983	Ritscher-Schinzel syndrome 3	OMIM:619135
+2154	0.2983	Neurodevelopmental disorder with poor growth, large ears, and dysmorphic facies	OMIM:620194
+2169	0.2981	Retinal degeneration, late-onset, autosomal dominant	OMIM:605670
+2170	0.2978	Autoinflammatory disease, systemic, X-linked	OMIM:301081
+2171	0.2952	Macular dystrophy, vitelliform, 3	OMIM:608161
+2171	0.2952	Macular degeneration, early-onset	OMIM:616118
+2171	0.2952	?Macular degeneration, age-related	OMIM:603075
+2171	0.2952	Macular degeneration, age-related, 1	OMIM:603075
+2171	0.2952	Macular degeneration, age-related, 3	OMIM:608895
+2171	0.2952	Generalized arterial calcification of infancy	ORPHA:51608
+2171	0.2952	Hyperoxaluria, primary, type 1	OMIM:259900
+2171	0.2952	Pseudoxanthoma elasticum, modifier of severity of	OMIM:264800
+2171	0.2952	Pseudoxanthoma elasticum, modifier of severity of	OMIM:264800
+2171	0.2952	Macular dystrophy, retinal, 4	OMIM:619977
+2171	0.2952	Generalized arterial calcification of infancy	ORPHA:51608
+2171	0.2952	Pseudoxanthoma elasticum	OMIM:264800
+2171	0.2952	?Macular dystrophy, patterned, 3	OMIM:617111
+2171	0.2952	Macular degeneration, age-related, reduced risk of	OMIM:603075
+2171	0.2952	Macular degeneration, age-related, 13, susceptibility to	OMIM:615439
+2171	0.2952	Macular degeneration, age-related, reduced risk of	OMIM:603075
+2187	0.295	Leukoencephalopathy with ataxia	OMIM:615651
+2188	0.2946	Familial drusen	ORPHA:75376
+2188	0.2946	Familial drusen	ORPHA:75376
+2188	0.2946	Familial drusen	ORPHA:75376
+2191	0.2922	Cone-rod retinal dystrophy-2	OMIM:120970
+2191	0.2922	Retinitis pigmentosa 30	OMIM:607921
+2191	0.2922	Cone-rod dystrophy 6	OMIM:601777
+2191	0.2922	Leber congenital amaurosis 18	OMIM:608133
+2191	0.2922	Choroidal dystrophy, central areolar 2	OMIM:613105
+2191	0.2922	Retinitis pigmentosa 7, digenic form	OMIM:608133
+2191	0.2922	Retinitis pigmentosa 87 with choroidal involvement	OMIM:618697
+2191	0.2922	Retinitis pigmentosa 47, autosomal recessive	OMIM:613758
+2191	0.2922	Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome	OMIM:238970
+2191	0.2922	Sorsby fundus dystrophy	OMIM:136900
+2191	0.2922	?Laurence-Moon syndrome	OMIM:245800
+2202	0.292	Central areolar choroidal dystrophy	ORPHA:75377
+2202	0.292	?Choroidal dystrophy, central areolar 1	OMIM:215500
+2202	0.292	Retinitis pigmentosa 27	OMIM:613750
+2202	0.292	Central areolar choroidal dystrophy	ORPHA:75377
+2202	0.292	Central areolar choroidal dystrophy	ORPHA:75377
+2207	0.2896	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome	ORPHA:415
+2208	0.2893	Pigmented paravenous chorioretinal atrophy	OMIM:172870
+2209	0.2759	Combined oxidative phosphorylation deficiency 37	OMIM:618329
+2210	0.271	Tuberous sclerosis complex	ORPHA:805
+2210	0.271	Mucopolysaccharidosis-plus syndrome	OMIM:617303
+2210	0.271	Tuberous sclerosis complex	ORPHA:805
+2210	0.271	Tuberous sclerosis complex	ORPHA:805
+2210	0.271	MAGEL2-related Prader-Willi-like syndrome	ORPHA:398069
