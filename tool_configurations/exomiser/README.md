@@ -9,35 +9,37 @@ poetry install
 
 # Setting up for the `pheval run` command
 
-Download 2109 Exomiser data:
+Download 2406 Exomiser data:
+following [this](https://github.com/exomiser/Exomiser/discussions/562) discussion
 
 ```bash
-wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2109_phenotype.zip
-wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2109_hg19.zip
+wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2406_phenotype.zip
+wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2406_hg19.zip
+ 
 ```
 
-Download Exomiser v13.3.0:
+Download Exomiser v14 (needed to run correctly with the above data)
 
 ```bash
-wget https://github.com/exomiser/Exomiser/releases/download/13.3.0/exomiser-cli-13.3.0-distribution.zip
-unzip exomiser-cli-13.3.0-distribution.zip
+wget https://github.com/exomiser/Exomiser/releases/download/14.0.1/exomiser-cli-14.0.1-distribution.zip
+unzip exomiser-cli-14.0.1-distribution.zip
 ```
 
 Input directory structure as follows:
 
 ```tree
 .
-├── 2109_hg19
-├── 2109_phenotype
+├── 2206_hg19
+├── 2206_phenotype
 ├── application.properties
 ├── config.yaml
-└── exomiser-cli-13.3.0
+└── exomiser-cli-14.0.1/ 
     ├── CHANGELOG.md
     ├── LICENCE.txt
     ├── README.md
     ├── application.properties
     ├── examples
-    └── exomiser-cli-13.3.0.jar
+    └── exomiser-cli-14.0.1/exomiser-cli-14.0.1.jar
 ```
 
 # Run Exomiser experiment
