@@ -1,22 +1,22 @@
 tool: exomiser
-tool_version: 13.3.0
+tool_version: 14.0.1
 # NOTE gene-only preset analysis should only be run with Exomiser versions >= 13.2.0
 variant_analysis: False
 gene_analysis: False
 disease_analysis: True
 tool_specific_configuration_options:
   environment: local
-  exomiser_software_directory: exomiser-cli-13.3.0
+  exomiser_software_directory: exomiser-cli-14.0.1
   analysis_configuration_file: None
   max_jobs: 0
   application_properties:
     remm_version:
     cadd_version:
-    hg19_data_version: 2109
+    hg19_data_version: 2406
     hg19_local_frequency_path:
     hg38_data_version:
     hg38_local_frequency_path:
-    phenotype_data_version: 2109
+    phenotype_data_version: 2406
     # either none, simple, or caffeine
     cache_type: none
     cache_caffeine_spec:

@@ -16,6 +16,8 @@ following [this](https://github.com/exomiser/Exomiser/discussions/562) discussio
 wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2406_phenotype.zip
 wget https://g-879a9f.f5dc97.75bc.dn.glob.us/data/2406_hg19.zip
  
+unzip 2406_phenotype.zip
+unzip 2406_hg19.zip 
 ```
 
 Download Exomiser v14 (needed to run correctly with the above data)
